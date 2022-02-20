@@ -175,4 +175,5 @@ promises:
         related_to: []
         sources:
             program: 1.1
-            - 'https://youtu.be/4t1xR9U6IAU?t=44s'
+            other:
+                - 'https://youtu.be/4t1xR9U6IAU?t=44s'
