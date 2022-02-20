@@ -1,48 +1,54 @@
 # Status has five options: Not started, In progress, Achieved, Broken, and Compromised
 
 icons:
-    First 100 Days: clock-o
-    Culture: music
-    Economy: dollar
-    Environment: leaf
-    Government: university
-    Immigration: suitcase
-    Indigenous: users
-    Security: fighter-jet
-    Health: heart
-    World: globe
-    Education: graduation-cap
+    Economía, trabajo y hacienda: eur
+    Comercio, transporte y turismo: shopping-cart
+    Industria y energía: 
+    Agricultura, ganadería y pesca: anchor
+    Educación, ciencia y tecnología: graduation-cap
+    Cultura y deportes: puzzle-piece
+    Derechos y servicios sociales: universal-access
+    Sanidad: hospital-o
+    Justicia: balance-scale
+    Immigración: suitcase
+    Democracia: university
+    Medioambiente: leaf
+    Territorio: map-signs
+    Política internacional: globe
+    Defensa: fighter-jet   
+
+coalition_parties: [PSOE, Unidas-Podemos]
 
 statuses:
-    Not started:
+    Sin iniciar:
         color: info
         icon: hourglass-start
-    In progress:
+    En proceso:
         color: warning
         icon: cogs
-    Achieved:
+    Cumplido:
         color: success
         icon: check-circle-o
-    Broken:
-        color: danger
-        icon: ban
-    Compromised:
+    Cumplido parcialmente:
         color: compromised
         icon: handshake-o
+    Incumplido:
+        color: danger
+        icon: ban
 
 promises:
-    -
-        title: 'Propose a Constitutional Amendment to impose term limits on all members of Congress'
+    -   
+        id: 1
+        party: PSOE
+        title: 'Reducción de tasa de paro'
         description: ''
-        url: 'https://trumptracker.github.io/propose-a-constitutional-amendment-to-impose-term-limits-on-all-members-of-congress/'
-        status: Broken
-        status_info: 'This promise was marked as broken because it was not fulfilled within 100 days. It will be marked as compromised when it is executed.'
-        category: First 100 Days
-        tags:
-            - 'Contract with the American Voter - 100 Day Plan'
-        comments:
-            - 'https://redd.it/5d4r8m'
+        url: ''
+        status: Sin iniciar
+        status_info: 'Las razones en la variación del paro, son diversas y con relaciones complejas que no siempre están bajo el control del gobierno. Sea cual sea el resultado, resulta muy complicado evaluar objetivamente el impacto que haya podido tener el gobierno.'
+        category: Economía, trabajo y hacienda
+        tags: [Empleo]
+        related_to: []
         sources:
-            - 'https://web.archive.org/web/20161101093508/https://www.donaldjtrump.com/press-releases/donald-j.-trump-delivers-groundbreaking-contract-for-the-american-vote1'
-            - 'https://youtu.be/4t1xR9U6IAU?t=44s'
-            - 'https://web.archive.org/web/20161109222320/http://www.npr.org/2016/11/09/501451368/here-is-what-donald-trump-wants-to-do-in-his-first-100-days'
+            program: 1.1
+            other:
+                - 'https://youtu.be/4t1xR9U6IAU?t=44s'
