@@ -5,37 +5,41 @@ permalink: /:basename/
 
 {% assign promise = site.data.data.promises | where:'id', page.promise_id | first %}
 
+
 <link rel="stylesheet" type="text/css" href="../css/promisepage.css">
 <div class="container">
   <div class="row">
     <div class="col-md-12">
       <h2>{{ promise.title }}</h2>
-	    <a class='btn facebook' target="_blank" href="https://www.facebook.com/sharer.php?u={{site.baseurl}}/{{ promise.url }}/&title={{ promise.title }}"> <i class="fa fa-facebook-square fa-fw" aria-hidden="true"></i> Compartir</a>
-      <a class="btn twitter" href="https://twitter.com/share?url={{site.baseurl}}/&text={{ promise.tweettext }}&hashtags=Seguimiento-politico" target="_blank"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i> Tweet</a>
+      {{ promise.category }}
+	    <p>{{ promise.description }}</p>
     </div>
 
     <div class="col-md-12">
-  	  <h4>Categoría: {{ promise.category }}</h4>
       <h4>Estado: <span style='color: {{ page.statuscolor }};'>{{ promise.status }}</span></h4>
   	  {{ promise.status_info }}
-  	  <p>{{ promise.description }}</p>
     </div>
 
     <div class="col-md-12">
       <h4>Fuentes:</h4>
   	  <ul class='sources'>
         {% for source in promise.sources %}
+        a
           <!-- show electoral program info -->
           {% if source.program %}
+          b
             {% assign party = site.data.data.parties | where:'name', promise.party | first %}
             {% if party.program_url %}
               {% for src in source.program %}
                 <li><a class='src' target='_blank' href='{{ site.baseurl }}/{{ party.program_url }}'>Programa electoral, apartado {{ src }}</a></li>
               {% endfor %}
+            {% else %}
+              <li>Programa electoral, apartado {{ src }}</li>
             {% endif %}
           {% endif %}
           <!-- show other sources -->
           {% if source.other %}
+          c
             {% for src in source.other %}
                 <li><a class='src' target='_blank' href='{{ src }}'>{{ src }}</a></li>
             {% endfor %}
@@ -43,6 +47,12 @@ permalink: /:basename/
         {% endfor %}
   	  </ul>
     </div>
+
+    <div class="col-md-12">
+      <a class='btn facebook' target="_blank" href="https://www.facebook.com/sharer.php?u={{site.baseurl}}/{{ promise.url }}/&title={{ promise.title }}"> <i class="fa fa-facebook-square fa-fw" aria-hidden="true"></i> Compartir</a>
+      <a class="btn twitter" href="https://twitter.com/share?url={{site.baseurl}}/&text={{ promise.tweettext }}&hashtags=Seguimiento-politico" target="_blank"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i> Tweet</a>
+    </div>
+
   </div>
   <BR>
   <div id="reddit_comments">
