@@ -17,7 +17,7 @@ title: Seguimiento político al gobierno
 email: 
 description: Seguimiento a la actividad legislativa del gobierno para verificar el nivel de cumplimiento de su programa electoral.
 url: https://seguimiento-politico.github.io
-twitter_username: 
+twitter_username: seguimiento-politico
 github_username:  seguimiento-politico
 
 # Build settings
@@ -51,3 +51,14 @@ compress_html:
 # Be sure to exclude vendor from your  _config.yml
 # Travis bundles all gems in the vendor directory on its build servers, which Jekyll will mistakenly read and explode on.
 # https://jekyllrb.com/docs/continuous-integration/
+
+comments:
+  provider               : disqus # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  disqus:
+    shortname            : seguimiento-politico # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
