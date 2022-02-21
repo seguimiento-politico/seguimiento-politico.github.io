@@ -17,6 +17,9 @@ permalink: /:basename/
 
     <div class="col-md-12">
       <h4>Estado: <span style='color: {{ status.color }};'>{{ promise.status }}</span></h4>
+
+      <button class="btn btn-{{ promise.status }}" data-list-facet="js-promise-status" data-facet-value="{{ promise.status }}" data-select-single="true"><span class="remove-on-mobile">{{ promise.status }}</span> </button>
+
   	  {{ promise.status_info }}
     </div>
 
