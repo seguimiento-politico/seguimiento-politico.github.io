@@ -8,9 +8,9 @@ ruby RUBY_VERSION
 #     bundle exec jekyll serve
 #
 
-gem "jekyll", "3.3.0" # This will help ensure the proper Jekyll version is running.
-gem "minima", "~> 2.0" # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem 'html-proofer' # html-proofer for testing
+gem "jekyll", "3.3.0" 
+gem "minima", "~> 2.0" 
+gem 'html-proofer' 
 gem 'rake'
 gem 'unf_ext' 
 gem 'metainspector'
