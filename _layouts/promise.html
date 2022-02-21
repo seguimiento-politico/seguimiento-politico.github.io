@@ -16,7 +16,7 @@ permalink: /:basename/
     </div>
 
     <div class="col-md-12">
-      <p><h4>Estado:</h4> <a class='btn btn-{{ status.color }}' target="_blank" href=""> {{ promise.status }}</a></p>
+      <h4>Estado: <div class='btn btn-{{ status.color }}'> {{ promise.status }}</div></h4>
 
   	  {{ promise.status_info }}
     </div>
@@ -30,7 +30,7 @@ permalink: /:basename/
             {% assign party = site.data.data.parties | where:'name', promise.party | first %}
             {% if party.program_url %}
               {% for src in source.program %}
-                <li><a class='src' target='_blank' href='{{ site.baseurl }}/{{ party.program_url }}'>Programa electoral {{ party.name }}, apartado {{ src }}</a></li>
+                <li><a class='src' target='_blank' href='{{ site.url }}/{{ party.program_url }}'>Programa electoral {{ party.name }}, apartado {{ src }}</a></li>
               {% endfor %}
             {% else %}
               <li>Programa electoral {{ party.name }}, apartado {{ src }}</li>
