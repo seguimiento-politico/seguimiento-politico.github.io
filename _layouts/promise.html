@@ -16,7 +16,8 @@ permalink: /:basename/
     </div>
 
     <div class="col-md-12">
-      <h4>Estado: <button class="btn btn-{{ status.color }}"><span class="remove-on-mobile">{{ promise.status }}</span> </button> </h4>
+      <p><h4>Estado:</h4> <a class='btn btn-{{ status.color }}' target="_blank" href=""> {{ promise.status }}</a></p>
+
   	  {{ promise.status_info }}
     </div>
 
