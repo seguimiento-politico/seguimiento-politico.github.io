@@ -16,10 +16,7 @@ permalink: /:basename/
     </div>
 
     <div class="col-md-12">
-      <h4>Estado: <span style='color: {{ status.color }};'>{{ promise.status }}</span></h4>
-
-      <button class="btn btn-{{ promise.status }}" data-list-facet="js-promise-status" data-facet-value="{{ promise.status }}" data-select-single="true"><span class="remove-on-mobile">{{ promise.status }}</span> </button>
-
+      <h4>Estado:></h4> <button class="btn btn-{{ promise.color }}"><span class="remove-on-mobile">{{ promise.status }}</span> </button>
   	  {{ promise.status_info }}
     </div>
 
@@ -27,16 +24,15 @@ permalink: /:basename/
       <h4>Fuentes:</h4>
   	  <ul class='sources'>
         {% for source in promise.sources %}
-        {{ source }}
           <!-- show electoral program info -->
           {% if source.program %}
             {% assign party = site.data.data.parties | where:'name', promise.party | first %}
             {% if party.program_url %}
               {% for src in source.program %}
-                <li><a class='src' target='_blank' href='{{ site.baseurl }}/{{ party.program_url }}'>Programa electoral, apartado {{ src }}</a></li>
+                <li><a class='src' target='_blank' href='{{ site.baseurl }}/{{ party.program_url }}'>Programa electoral {{ party.name }}, apartado {{ src }}</a></li>
               {% endfor %}
             {% else %}
-              <li>Programa electoral, apartado {{ src }}</li>
+              <li>Programa electoral {{ party.name }}, apartado {{ src }}</li>
             {% endif %}
           {% endif %}
           <!-- show other sources -->
