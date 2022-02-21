@@ -167,7 +167,7 @@ promises:
         party: PSOE
         title: 'Reducción de tasa de paro'
         description: ''
-        url: '1-reduccion-tasa-paro.html'
+        url: '1-reduccion-tasa-paro'
         status: Sin iniciar
         status_info: 'Las razones en la variación del paro, son diversas y con relaciones complejas que no siempre están bajo el control del gobierno. Sea cual sea el resultado, resulta muy complicado evaluar objetivamente el impacto que haya podido tener el gobierno.'
         category: Economía, trabajo y hacienda
