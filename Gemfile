@@ -10,10 +10,6 @@ ruby RUBY_VERSION
 
 gem "jekyll", "3.3.0" # This will help ensure the proper Jekyll version is running.
 gem "minima", "~> 2.0" # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "jekyll-paginate"
-gem "jekyll-sitemap"
-gem "jekyll-gist"
-gem "jekyll-feed"
 gem 'html-proofer' # html-proofer for testing
 gem 'rake'
 gem 'unf_ext' 

@@ -24,8 +24,6 @@ github_username:  seguimiento-politico
 markdown: kramdown
 theme: minima
 gems:
-  - jekyll-feed
-  - jekyll-sitemap
   - html-proofer
 
 sass:
@@ -53,12 +51,6 @@ compress_html:
 # https://jekyllrb.com/docs/continuous-integration/
 
 comments:
-  provider               : disqus # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider: disqus # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : seguimiento-politico # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-
-# Plugins (previously gems:)
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-feed
+    shortname : seguimiento-politico # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
