@@ -4,7 +4,7 @@ permalink: /:basename/
 ---
 
 {% assign promise = site.data.data.promises | where:'id', page.promise_id | first %}
-
+{% assign status = site.data.data.statuses[promise.status] %}
 
 <link rel="stylesheet" type="text/css" href="../css/promisepage.css">
 <div class="container">
@@ -16,7 +16,7 @@ permalink: /:basename/
     </div>
 
     <div class="col-md-12">
-      <h4>Estado: <span style='color: {{ page.statuscolor }};'>{{ promise.status }}</span></h4>
+      <h4>Estado: <span style='color: {{ status.color }};'>{{ promise.status }}</span></h4>
   	  {{ promise.status_info }}
     </div>
 
@@ -24,10 +24,9 @@ permalink: /:basename/
       <h4>Fuentes:</h4>
   	  <ul class='sources'>
         {% for source in promise.sources %}
-        a
+        {{ source }}
           <!-- show electoral program info -->
           {% if source.program %}
-          b
             {% assign party = site.data.data.parties | where:'name', promise.party | first %}
             {% if party.program_url %}
               {% for src in source.program %}
@@ -39,7 +38,6 @@ permalink: /:basename/
           {% endif %}
           <!-- show other sources -->
           {% if source.other %}
-          c
             {% for src in source.other %}
                 <li><a class='src' target='_blank' href='{{ src }}'>{{ src }}</a></li>
             {% endfor %}
