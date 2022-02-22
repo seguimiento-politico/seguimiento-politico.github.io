@@ -3,8 +3,8 @@ layout: page
 permalink: /:basename/
 ---
 {% assign dataset = page.dataset %}
-{% assign promise = site.data.{ dataset }.govern-promises | where:'id', page.promise_id | first %}
-{% assign status = site.data.{ dataset }.statuses[promise.status] %}
+{% assign promise = site.data.{{ dataset }}.govern-promises | where:'id', page.promise_id | first %}
+{% assign status = site.data.{{ dataset }}.statuses[promise.status] %}
 
 <link rel="stylesheet" type="text/css" href="../css/promisepage.css">
 <div class="container">
