@@ -1,9 +1,7 @@
 ---
 layout: promise
 permalink: /:basename/
-dataset: data
+dataset: legislatura-xiv
 promise_id: 1
-title: hola
-category: adios
 ---
 

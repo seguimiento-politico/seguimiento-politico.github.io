@@ -1,0 +1,184 @@
+context:
+    name: Legislatura XIV
+    from: 2020-01-07 
+    sources:
+        - https://www.lamoncloa.gob.es/gobierno/gobiernosporlegislaturas/Paginas/xiv_legislatura.aspx
+        - https://www.congreso.es/indice-de-iniciativas
+
+parties:
+    -
+        name: PSOE
+        ideology: left
+        seats: 120
+        votes: 6752983
+        program_url: /assets/programs/psoe_2019_10N.pdf
+        position: govern
+        color: red
+    -
+        name: PP
+        ideology: right
+        sets: 89
+        votes: 5019869
+        program_url: /assets/programs/pp_2019_10N.pdf
+        position: oposition
+        color: blue
+    -
+        name: VOX
+        ideology: right
+        seats: 52
+        votes: 3640063
+        program_url: /assets/programs/vox_2019_10N.pdf
+        position: oposition
+        color: green
+    -
+        name: UNIDAS PODEMOS
+        ideology: left
+        seats: 35
+        votes: 3097185
+        program_url: 
+            - /assets/programs/podemos_2019_10N.pdf
+            - /assets/programs/iu_2019_10N.
+        position: govern
+        color: purple
+    -
+        name: ERC
+        ideology: [left, nationalist]
+        seats: 13
+        votes: 869934
+        program_url:
+        position: oposition
+        color: yellow
+    -
+        name: Cs
+        ideology: center
+        seats: 10
+        votes: 1637540
+        program_url: /assets/programs/ciudadanos_2019_10N.pdf
+        position: oposition
+        color: orange
+    -
+        name: JxCat
+        ideology: [center-right, nationalist]
+        seats: 8
+        votes: 527375
+        program_url:
+        position: oposition
+    -
+        name: PNV
+        ideology: [center, nationalist]
+        seats: 6
+        votes: 377423
+        program_url:
+        position: oposition
+    -
+        name: Bildu
+        ideology: [left, nationalist]
+        seats: 5
+        votes: 276.519
+        program_url:
+        position: oposition
+    -
+        name: MÁS PAÍS
+        ideology: left
+        seats: 8
+        votes: 595261
+        program_url:
+        position: oposition
+    -
+        name: CUP-PR
+        ideology: [left, nationalist]
+        seats: 2
+        votes: 244754
+        program_url:
+        position: oposition
+    -
+        name: CC-NC
+        ideology: [center, nationalist]
+        seats: 2
+        votes: 123981
+        program_url:
+        position: oposition
+    -
+        name: NA+
+        ideology: [right, nationalist]
+        seats: 2
+        votes: 98448
+        program_url:
+        position: oposition
+    -
+        name: BNG
+        ideology: [left, nationalist]
+        seats: 1
+        votes: 119597
+        program_url:
+        position: oposition
+    -
+        name: PRC
+        ideology: [center-left, regionalist]
+        seats: 1
+        votes: 68580
+        program_url:
+        position: oposition
+    -
+        name: ¡TERUEL EXISTE!
+        ideology: [center-left, regionalist]
+        seats: 1
+        votes: 19696
+        program_url:
+        position: oposition
+
+statuses:
+    Sin iniciar:
+        color: info
+        icon: hourglass-start
+    En proceso:
+        color: warning
+        icon: cogs
+    Cumplido:
+        color: success
+        icon: check-circle-o
+    Cumplido parcialmente:
+        color: compromised
+        icon: handshake-o
+    Incumplido:
+        color: danger
+        icon: ban
+
+icons:
+    Economía, trabajo y hacienda: eur
+    Comercio, transporte y turismo: shopping-cart
+    Industria y energía: 
+    Agricultura, ganadería y pesca: anchor
+    Educación, ciencia y tecnología: graduation-cap
+    Cultura y deportes: puzzle-piece
+    Derechos y servicios sociales: universal-access
+    Sanidad: hospital-o
+    Justicia: balance-scale
+    Immigración: suitcase
+    Democracia: university
+    Medioambiente: leaf
+    Territorio: map-signs
+    Política internacional: globe
+    Defensa: fighter-jet 
+
+govern-promises:
+    -   
+        id: 1
+        party: PSOE
+        title: 'Reducción de tasa de paro'
+        description: ''
+        url: 'reduccion-tasa-paro'
+        status: Sin iniciar
+        status_info: 'Las razones en la variación del paro, son diversas y con relaciones complejas que no siempre están bajo el control del gobierno. Sea cual sea el resultado, resulta muy complicado evaluar objetivamente el impacto que haya podido tener el gobierno.'
+        category: Economía, trabajo y hacienda
+        tags: [Empleo]
+        related_to: []
+        sources:
+            -
+                program: [1.1]
+                other:
+                    - 'https://youtu.be/4t1xR9U6IAU?t=44s'
+
+opposition-promises:
+
+

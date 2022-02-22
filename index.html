@@ -2,9 +2,9 @@
 layout: page
 ---
 
-{% assign promises = site.data.data.promises %}
-{% assign icons = site.data.data.icons %}
-{% assign statuses = site.data.data.statuses %}
+{% assign promises = site.data.legislatura-xiv.govern-promises %}
+{% assign icons = site.data.legislatura-xiv.icons %}
+{% assign statuses = site.data.legislatura-xiv.statuses %}
 {% assign total = promises | size %}
 
 {% assign categories = promises | map: 'category' | uniq %}

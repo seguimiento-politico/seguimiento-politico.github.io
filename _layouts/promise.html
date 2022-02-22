@@ -2,9 +2,9 @@
 layout: page
 permalink: /:basename/
 ---
-
-{% assign promise = site.data.data.promises | where:'id', page.promise_id | first %}
-{% assign status = site.data.data.statuses[promise.status] %}
+{% assign dataset = page.dataset %}
+{% assign promise = site.data.{% dataset %}.govern-promises | where:'id', page.promise_id | first %}
+{% assign status = site.data.{% dataset %}.statuses[promise.status] %}
 
 <link rel="stylesheet" type="text/css" href="../css/promisepage.css">
 <div class="container">
@@ -30,7 +30,7 @@ permalink: /:basename/
             {% assign party = site.data.data.parties | where:'name', promise.party | first %}
             {% if party.program_url %}
               {% for src in source.program %}
-                <li><a class='src' target='_blank' href='{{ site.url }}/{{ party.program_url }}'>Programa electoral {{ party.name }}, apartado {{ src }}</a></li>
+                <li><a class='src' target='_blank' href='{{ site.url }}{{ party.program_url }}'>Programa electoral {{ party.name }}, apartado {{ src }}</a></li>
               {% endfor %}
             {% else %}
               <li>Programa electoral {{ party.name }}, apartado {{ src }}</li>
