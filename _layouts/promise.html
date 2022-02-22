@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: /:basename/
-comments: true
 ---
 {% assign dataset = page.dataset %}
 {% assign promise = site.data.[dataset].govern-promises | where:'id', page.promise_id | first %}
@@ -51,7 +50,7 @@ comments: true
       <a class='btn facebook' target="_blank" href="https://www.facebook.com/sharer.php?u={{site.baseurl}}/{{ promise.url }}/&title={{ promise.title }}"> <i class="fa fa-facebook-square fa-fw" aria-hidden="true"></i> Compartir</a>
       <a class="btn twitter" href="https://twitter.com/share?url={{site.baseurl}}/&text={{ promise.tweettext }}&hashtags=Seguimiento-politico" target="_blank"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i> Tweet</a>
     </div>
-    {% if jekyll.environment == 'production' and site.comments.provider and page.comments %}
+    {% if site.comments.provider %}
       {% include comments.html %}
     {% endif %}
   </div>
