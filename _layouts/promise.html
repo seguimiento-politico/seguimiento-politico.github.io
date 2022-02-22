@@ -8,23 +8,21 @@ permalink: /:basename/
 
 <link rel="stylesheet" type="text/css" href="../assets/css/promisepage.css">
  <!-- Begin page content -->
-<div class="container">
-  <div class="page-header">
-    <h1>{{ promise.title }} <small>{{ promise.category }}</small></h1>
-  </div>
+<div class="container bs-docs-container">
+  <h1 class="page-header">{{ promise.title }} <small>{{ promise.category }}</small></h1>
   {% if promise.description %}
   <p class="lead">{{ promise.description }}</p>
   {% endif %}
-
+  <br>
   <div class="bs-callout bs-callout-{{ status.color }}">
-    <h4>Medida/promesa <span class="label label-{{ status.color }}">{{ promise.status }}</span></h4>
+    <h4>Medida/promesa {{ promise.status | downcase }}</h4>
     <p>{{ promise.status_info }}</p>
   </div>
-
+  <br>
   <div class="panel panel-default">
-    <div class="panel-heading">Fuentes</div>
+    <div class="panel-heading"><h4>Fuentes</h4></div>
     <div class="panel-body">
-      Encuentra aquí todas las fuentes infromativas que se han empleado para determinar el estado actual de la media/promesa.
+      <b>Encuentra aquí todas las fuentes infromativas que se han empleado para determinar el estado actual de la media/promesa.</b>
     </div>
     <!-- List group -->
     <ul class="list-group">
