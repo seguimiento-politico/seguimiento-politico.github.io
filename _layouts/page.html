@@ -9,16 +9,11 @@ layout: compress
         {% include head.html %}
     </head>
     <body>
-
-        <nav class="navbar navbar-default navbar-fixed-top">
-            {% include navbar.html %}
-        </nav>
-
+        {% include navbar.html %}
+        
         {{content}}
         
-        <footer class="site-footer">
-            {% include footer.html %}
-        </footer>
+        {% include footer.html %}
 
         {% include scripts.html %}
     </body>
