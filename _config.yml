@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Seguimiento político al gobierno 
-description: Comunidad online para un seguimiento eficaz al Gobierno, la oposición y, en general, a cualquier político español. Comprueba el grado de cumplimiento con los programas electorales y promesas hechas.
+description: Comunidad online para con el esfuerzo colectivo hacer un seguimiento objetivo y eficaz al Gobierno, la oposición y, en general, a cualquier político español. Comprueba el grado de cumplimiento con los programas electorales y promesas hechas.
 
 author:
   name: GitHub User

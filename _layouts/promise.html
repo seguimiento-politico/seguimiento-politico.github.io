@@ -8,13 +8,13 @@ permalink: /:basename/
 
 <link rel="stylesheet" type="text/css" href="../assets/css/promisepage.css">
  <!-- Begin page content -->
-<div class="container bs-docs-container">
+<div class="container">
   <h1 class="page-header">{{ promise.title }} <small>{{ promise.category }}</small></h1>
   {% if promise.description %}
   <p class="lead">{{ promise.description }}</p>
-  {% endif %}
   <br>
-  <div class="bs-callout bs-callout-{{ status.color }}">
+  {% endif %}
+  <div class="callout callout-{{ status.color }}">
     <h4>Medida/promesa {{ promise.status | downcase }}</h4>
     <p>{{ promise.status_info }}</p>
   </div>
