@@ -11,7 +11,7 @@ parties:
         ideology: left
         seats: 120
         votes: 6752983
-        program_url: /assets/programs/psoe_2019_10N.pdf
+        program_url: /assets/docs/psoe_2019_10N.pdf
         position: govern
         color: red
     -
@@ -19,7 +19,7 @@ parties:
         ideology: right
         sets: 89
         votes: 5019869
-        program_url: /assets/programs/pp_2019_10N.pdf
+        program_url: /assets/docs/pp_2019_10N.pdf
         position: oposition
         color: blue
     -
@@ -27,7 +27,7 @@ parties:
         ideology: right
         seats: 52
         votes: 3640063
-        program_url: /assets/programs/vox_2019_10N.pdf
+        program_url: /assets/docs/vox_2019_10N.pdf
         position: oposition
         color: green
     -
@@ -36,8 +36,8 @@ parties:
         seats: 35
         votes: 3097185
         program_url: 
-            - /assets/programs/podemos_2019_10N.pdf
-            - /assets/programs/iu_2019_10N.
+            - /assets/docs/podemos_2019_10N.pdf
+            - /assets/docs/iu_2019_10N.
         position: govern
         color: purple
     -
@@ -53,7 +53,7 @@ parties:
         ideology: center
         seats: 10
         votes: 1637540
-        program_url: /assets/programs/ciudadanos_2019_10N.pdf
+        program_url: /assets/docs/ciudadanos_2019_10N.pdf
         position: oposition
         color: orange
     -

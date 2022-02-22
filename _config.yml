@@ -14,20 +14,64 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Seguimiento político al gobierno 
-email: 
-description: Seguimiento a la actividad legislativa del gobierno para verificar el nivel de cumplimiento de su programa electoral.
+description: Comunidad online para un seguimiento eficaz al Gobierno, la oposición y, en general, a cualquier político español. Comprueba el grado de cumplimiento con los programas electorales y promesas hechas.
+
+author:
+  name: GitHub User
+  email: your-email@domain.com
+
 url: https://seguimiento-politico.github.io
-twitter_username: seguimiento-politico
-github_username:  seguimiento-politico
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    twitter: seguimiento-social
+    github:  seguimiento-social
+    telegram: seguimiento-social
+    # devto: jekyll
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    # linkedin: jekyll
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
+
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+    # GitLab instances
+    # gitlab:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
 
 # Build settings
 markdown: kramdown
+
 theme: minima
-gems:
+
+plugins:
   - html-proofer
+  - jekyll-feed
+  - jekyll-seo-tag
 
 sass:
-  sass_dir: css/partials
+  sass_dir: assets/css/partials
   style: compressed
 
 exclude:

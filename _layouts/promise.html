@@ -6,7 +6,7 @@ permalink: /:basename/
 {% assign promise = site.data.[dataset].govern-promises | where:'id', page.promise_id | first %}
 {% assign status = site.data.[dataset].statuses[promise.status] %}
 
-<link rel="stylesheet" type="text/css" href="../css/promisepage.css">
+<link rel="stylesheet" type="text/css" href="../assets/css/promisepage.css">
 <div class="container">
   <div class="row">
     <div class="col-md-12">
@@ -50,6 +50,6 @@ permalink: /:basename/
       <a class='btn facebook' target="_blank" href="https://www.facebook.com/sharer.php?u={{site.baseurl}}/{{ promise.url }}/&title={{ promise.title }}"> <i class="fa fa-facebook-square fa-fw" aria-hidden="true"></i> Compartir</a>
       <a class="btn twitter" href="https://twitter.com/share?url={{site.baseurl}}/&text={{ promise.tweettext }}&hashtags=Seguimiento-politico" target="_blank"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i> Tweet</a>
     </div>
-    
+
   </div>
 </div>

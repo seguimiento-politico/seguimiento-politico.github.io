@@ -9,7 +9,7 @@ ruby RUBY_VERSION
 #
 
 gem "jekyll", "3.3.0" 
-gem "minima", "~> 2.0" 
+gem "minima"
 gem 'html-proofer' 
 gem 'rake'
 gem 'unf_ext' 
