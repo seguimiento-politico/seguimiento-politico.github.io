@@ -27,7 +27,7 @@ permalink: /:basename/
         {% for source in promise.sources %}
           <!-- show electoral program info -->
           {% if source.program %}
-            {% assign party = site.data.data.parties | where:'name', promise.party | first %}
+            {% assign party = site.data.[dataset].parties | where:'name', promise.party | first %}
             {% if party.program_url %}
               {% for src in source.program %}
                 <li><a class='src' target='_blank' href='{{ site.url }}{{ party.program_url }}'>Programa electoral {{ party.name }}, apartado {{ src }}</a></li>
@@ -50,17 +50,6 @@ permalink: /:basename/
       <a class='btn facebook' target="_blank" href="https://www.facebook.com/sharer.php?u={{site.baseurl}}/{{ promise.url }}/&title={{ promise.title }}"> <i class="fa fa-facebook-square fa-fw" aria-hidden="true"></i> Compartir</a>
       <a class="btn twitter" href="https://twitter.com/share?url={{site.baseurl}}/&text={{ promise.tweettext }}&hashtags=Seguimiento-politico" target="_blank"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i> Tweet</a>
     </div>
-
-  </div>
-  <BR>
-  <div id="reddit_comments">
-	  <h3 class='comments'>Comments</h3>
-	  <a target="_blank" href="{{ page.comments }}" class="btn btn-primary placecomment"><i class="fa fa-pencil" aria-hidden="true"></i> Place comment</a>
-	  <p class='commentcount'></p>
-	  <div class="loader"></div>
-	  <div class="panel-group"><div class="noscript">Please enable Javascript and disable any adblocker to view comments.</div></div>
+    
   </div>
 </div>
-<script>var redditid = '{{ page.commentsid }}';</script>
-<script src="../js/snuownd.min.js"></script>
-<script src="../js/promisepage.js"></script>
