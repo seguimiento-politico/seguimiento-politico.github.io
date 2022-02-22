@@ -175,7 +175,7 @@ layout: page
                         {{ promise.title }}
                         <!-- add superscript citations and sources -->
                         {% for source in promise.sources %}
-                            <sup><a href="{{ source }}">{{ forloop.index }}</a></sup>
+                            <sup><a href="{{ source[1] }}">{{ forloop.index }}</a></sup>
                         {% endfor %}
                         </td>
                         <!-- <td class="promise__sources" style="white-space: nowrap;">
