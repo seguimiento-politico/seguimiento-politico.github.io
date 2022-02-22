@@ -7,18 +7,24 @@ permalink: /:basename/
 {% assign status = site.data.[dataset].statuses[promise.status] %}
 
 <link rel="stylesheet" type="text/css" href="../assets/css/promisepage.css">
-<div class="container">
-  <div class="row">
-    <div class="col-md-12">
-      <h2>{{ promise.title }}</h2>
-      {{ promise.category }}
-	    <p>{{ promise.description }}</p>
+ <!-- Begin page content -->
+    <div class="container">
+      <div class="page-header">
+        <h1>Sticky footer with fixed navbar</h1>
+      </div>
+      <p class="lead">Pin a fixed-height footer to the bottom of the viewport in desktop browsers with this custom HTML and CSS. A fixed navbar has been added with <code>padding-top: 60px;</code> on the <code>body > .container</code>.</p>
+      <p>Back to <a href="../sticky-footer">the default sticky footer</a> minus the navbar.</p>
     </div>
-
+<div class="container">
+  <div class="page-header">
+    <h2>{{ promise.title }}</h2>
+    {{ promise.category }} <h4>Estado: <span class="label label-{{ status.color }}">Primary</span></h4>
+  </div>
     <div class="col-md-12">
-      <h4>Estado: <span class="label label-{{ status.color }}">Primary</span></h4>
-
-  	  {{ promise.status_info }}
+      <p class="lead">{{ promise.description }}</p>
+      <div class="well">
+        <p>{{ promise.status_info }}</p>
+      </div>
     </div>
 
     <div class="col-md-12">
@@ -51,7 +57,6 @@ permalink: /:basename/
       <a class="btn twitter" href="https://twitter.com/share?url={{site.baseurl}}/&text={{ promise.tweettext }}&hashtags=Seguimiento-politico" target="_blank"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i> Tweet</a>
     </div>
 
-  </div>
   <div class="row">
     {% if site.comments.provider %}
       {% include comments.html %}
