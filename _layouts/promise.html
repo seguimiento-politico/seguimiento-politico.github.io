@@ -41,7 +41,7 @@ permalink: /:basename/
           <!-- show other sources -->
           {% if source.other %}
             {% for src in source.other %}
-              <a href="{{ site.url }}{{ src }}" target='_blank' class="list-group-item">{{ src }}</a>
+              <a href="{{ src }}" target='_blank' class="list-group-item">{{ src }}</a>
             {% endfor %}
           {% endif %}
         {% endfor %}
