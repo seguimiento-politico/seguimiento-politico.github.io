@@ -165,11 +165,11 @@ govern-promises:
     -   
         id: 1
         party: PSOE
-        title: 'Reducción de tasa de paro'
-        description: ''
-        url: 'reduccion-tasa-paro'
-        status: Sin iniciar
-        status_info: 'Las razones en la variación del paro, son diversas y con relaciones complejas que no siempre están bajo el control del gobierno. Sea cual sea el resultado, resulta muy complicado evaluar objetivamente el impacto que haya podido tener el gobierno.'
+        title: 'Reforma laboral'
+        description: 'Derogación urgente de los aspectos más lesivos de la reforma laboral, combatiendo la precariedad y el fraude laboral.'
+        url: 'reforma-laboral'
+        status: Cumplida parcialmente
+        status_info: 'bla bla.'
         category: Economía, trabajo y hacienda
         tags: [Empleo]
         related_to: []
@@ -177,7 +177,6 @@ govern-promises:
             -
                 program: [1.1]
                 other:
-                    - 'https://youtu.be/4t1xR9U6IAU?t=44s'
 
 opposition-promises:
 
