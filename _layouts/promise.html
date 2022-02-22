@@ -8,24 +8,26 @@ permalink: /:basename/
 
 <link rel="stylesheet" type="text/css" href="../assets/css/promisepage.css">
  <!-- Begin page content -->
-    <div class="container">
-      <div class="page-header">
-        <h1>Sticky footer with fixed navbar</h1>
-      </div>
-      <p class="lead">Pin a fixed-height footer to the bottom of the viewport in desktop browsers with this custom HTML and CSS. A fixed navbar has been added with <code>padding-top: 60px;</code> on the <code>body > .container</code>.</p>
-      <p>Back to <a href="../sticky-footer">the default sticky footer</a> minus the navbar.</p>
-    </div>
 <div class="container">
   <div class="page-header">
-    <h2>{{ promise.title }}</h2>
-    {{ promise.category }} <h4>Estado: <span class="label label-{{ status.color }}">Primary</span></h4>
+    <h1>{{ promise.title }} <small>{{ promise.category }}</small></h1>
   </div>
-    <div class="col-md-12">
-      <p class="lead">{{ promise.description }}</p>
+  <p class="lead">{{ promise.description }}</p>
+
+  <div class="bs-callout bs-callout-{{ status.color }}">
+    <h4>Medida/promesa <span class="label label-{{ status.color }}">{{ promise.status }}</span></h4>
+    <p>{{ promise.status_info }}</p>
+  </div>
+
       <div class="well">
-        <p>{{ promise.status_info }}</p>
+        
       </div>
-    </div>
+  </div>
+
+  <div class="col-md-12">
+    <h4>Descripción:</h4>
+    <p class="well"></p>
+  </div>
 
     <div class="col-md-12">
       <h4>Fuentes:</h4>

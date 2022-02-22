@@ -134,13 +134,13 @@ statuses:
     En proceso:
         color: warning
         icon: cogs
-    Cumplido:
+    Cumplida:
         color: success
         icon: check-circle-o
-    Cumplido parcialmente:
+    Cumplida parcialmente:
         color: compromised
         icon: handshake-o
-    Incumplido:
+    Incumplida:
         color: danger
         icon: ban
 
