@@ -25,22 +25,22 @@ url: https://seguimiento-politico.github.io
 locale: "es-ES"
 
 comments:
-  provider               : disqus # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider: disqus # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "reddit", "custom"
   disqus:
-    shortname            : tovarlogic # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname: seguimiento-politico # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server: # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    appid:
+    num_posts: # 5 (default)
+    colorscheme: # "light" (default), "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
-    issue_term           : # "pathname" (default)
+    theme: # "github-light" (default), "github-dark"
+    issue_term: # "pathname" (default)
   staticman:
-    branch               : # "master"
-    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
+    branch: # "master"
+    endpoint: # "https://{your Staticman v3 API}/v3/entry/github/"
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -89,6 +89,16 @@ plugins:
   - html-proofer
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - html-proofer
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
 
 sass:
   sass_dir: assets/css/partials
@@ -114,7 +124,3 @@ compress_html:
 # Travis bundles all gems in the vendor directory on its build servers, which Jekyll will mistakenly read and explode on.
 # https://jekyllrb.com/docs/continuous-integration/
 
-comments:
-  provider: disqus # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
-  disqus:
-    shortname : seguimiento-politico # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
