@@ -1,6 +1,7 @@
 context:
     name: Legislatura XIV
     description: Seguimiento del cumplimiento por parte del gobierno de sus compromisos electorales.
+    teaser: /assets/images/logo_congreso.png
     from: 2020-01-07 
     sources:
         - https://www.lamoncloa.gob.es/gobierno/gobiernosporlegislaturas/Paginas/xiv_legislatura.aspx
@@ -130,16 +131,16 @@ parties:
 
 statuses:
     Sin iniciar:
-        color: info
+        color: secondary
         icon: hourglass-start
     En proceso:
-        color: warning
+        color: primary
         icon: cogs
     Cumplida:
         color: success
         icon: check-circle-o
     Cumplida parcialmente:
-        color: compromised
+        color: warning
         icon: handshake-o
     Incumplida:
         color: danger

@@ -9,6 +9,15 @@ en: &DEFAULT_EN
   collaborators_label       : "Collaborators"
   promises_label            : "Promise/s"
   view_label                : "View"
+  stats_label               : "Stats"
+  email_label               : "Email address"
+  subscribe_label           : "Subscribe"
+  service_terms_label       : "Terms of Service"
+  privacy_label             : "Privacy Policy"
+  responsible_disclosure_label : "Responsible Disclosure Policy"
+  cookies_label             : "Cookie Policy"
+  copyright_label           : "Copyright"
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -27,6 +36,15 @@ es: &DEFAULT_ES
   collaborators_label       : "Colaboradores"
   promises_label            : "Promesa/s"
   view_label                : "Ver"
+  stats_label               : "Datos"
+  email_label               : "Dirección de correo"
+  subscribe_label           : "Suscríbete"
+  service_terms_label       : "Términos del servicio"
+  privacy_label             : "Política de privacidad"
+  responsible_disclosure_label: "Descargo de responsabilidad"
+  cookies_label             : "Política de cookies"
+  copyright_label           : "Copyright"
+
 es-ES:
   <<: *DEFAULT_ES
 es-CO:

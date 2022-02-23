@@ -1,3 +1,4 @@
+{% include back_to_top.html %}
 <nav class="navbar navbar-expand-lg fixed-top navbar-dark bg-dark" aria-label="Main navigation">
   <div class="container-fluid">
     <a class="navbar-brand" href="{{ site.url }}">Seguimiento Político</a>
@@ -38,7 +39,7 @@
 
 <div class="nav-scroller bg-body shadow-sm">
   <nav class="nav nav-underline" aria-label="Secondary navigation">
-    <a class="nav-link active" aria-current="page" href="#">{{ site.data.ui-text[site.locale].home_label | default: "Home" }}</a>
+    <span class="text-dark text-decoration-underline ms-1"><small>{{ site.data.ui-text[site.locale].stats_label | default: "Stats" }}</small></span>
     <a class="nav-link" href="#">
         {{ site.data.ui-text[site.locale].collaborators_label | default: "Collaborators" }}
         {% assign collaborators = site.data.collaborators | size %}

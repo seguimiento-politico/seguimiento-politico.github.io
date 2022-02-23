@@ -23,6 +23,9 @@ author:
 url: https://seguimiento-politico.github.io
 repository: https://raw.githubusercontent.com/seguimiento-politico/seguimiento-politico.github.io
 
+socials:
+  twitter: https://twitter.com/seguimiento-politico
+
 locale: "es-ES"
 
 comments:
