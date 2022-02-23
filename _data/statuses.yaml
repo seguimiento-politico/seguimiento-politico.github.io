@@ -1,0 +1,20 @@
+Not started:
+    label: status_not_started
+    color: secondary
+    icon: hourglass-start
+In progress:
+    label: status_in_progress
+    color: primary
+    icon: cogs
+Achieved:
+    label: status_achieved
+    color: success
+    icon: check-circle-o
+Compromised:
+    label: status_compromised
+    color: warning
+    icon: handshake-o
+Broken:
+    label: status_broken
+    color: danger
+    icon: ban

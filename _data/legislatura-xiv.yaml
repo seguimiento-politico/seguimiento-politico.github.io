@@ -129,23 +129,6 @@ parties:
         program_url:
         position: oposition
 
-statuses:
-    Sin iniciar:
-        color: secondary
-        icon: hourglass-start
-    En proceso:
-        color: primary
-        icon: cogs
-    Cumplida:
-        color: success
-        icon: check-circle-o
-    Cumplida parcialmente:
-        color: warning
-        icon: handshake-o
-    Incumplida:
-        color: danger
-        icon: ban
-
 icons:
     Economía, trabajo y hacienda: eur
     Comercio, transporte y turismo: shopping-cart
@@ -170,9 +153,30 @@ promises:
         title: 'Reforma laboral'
         description: 'Derogación urgente de los aspectos más lesivos de la reforma laboral, combatiendo la precariedad y el fraude laboral.'
         url: 'reforma-laboral'
-        status: Cumplida parcialmente
+        status: Compromised
         status_info: 'bla bla.'
         category: Economía, trabajo y hacienda
+        tags: [Empleo]
+        related_to: []
+        sources:
+            -
+                program: [1.1]
+                other:
+                    noticias jurídicas - Real Decreto-ley 32/2021, de 28 de diciembre, de medidas urgentes para la reforma laboral: https://noticias.juridicas.com/base_datos/Laboral/715655-real-decreto-ley-32-2021-de-28-de-diciembre-de-medidas-urgentes-para-la-reforma.html
+                    noticias jurídicas - Resumen de la reforma laboral 2021, sus aspectos más relevantes: https://noticias.juridicas.com/actualidad/noticias/16845-reforma-laboral-2021:-resumen-de-urgencia-de-sus-aspectos-mas-relevantes/
+                    ESADE - La nueva reforma laboral, un primer análisis: https://www.esade.edu/ecpol/es/publicaciones/la-nueva-reforma-laboral-un-primer-analisis/
+                    UCM - Las siete claves de la reforma laboral de 2021: https://www.ucm.es/otri/noticias-claves-reforma-laboral-ucm
+                    Resumen y cuadros comparativos de la reforma laboral 2021: https://www.laboral-social.com/reforma-laboral-2021-resumen-principales-medidas-cuadros-comparativos.htm
+                    El País - Acuerdo gobierno, patronal y sindicatos: https://elpais.com/economia/2021-12-23/la-ceoe-da-el-visto-bueno-a-la-ultima-propuesta-para-la-reforma-laboral-y-acerca-el-acuerdo-final.html
+    -   
+        id: 2
+        party: PSOE
+        title: 'Reforma laboral'
+        description: 'Derogación urgente de los aspectos más lesivos de la reforma laboral, combatiendo la precariedad y el fraude laboral.'
+        url: 'reforma-laboral'
+        status: Not started
+        status_info: 'bla bla.'
+        category: Industria y energía
         tags: [Empleo]
         related_to: []
         sources:

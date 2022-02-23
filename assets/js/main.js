@@ -39,10 +39,11 @@
 
     // Dates
     var today = moment();
-    var inauguration = moment('2017-01-20');
+    //var inauguration = moment(document.getElementById("inauguration").value);
+    //var inauguration = moment('2017-01-20');
+    var from = $('#inauguration')[0].value;
+    var inauguration = moment(from);
     $('#inauguration-days').html(inauguration.diff(today, 'days') > 0 ? inauguration.diff(today, 'days') : 'NA');
-    
-    $('#inauguration-time-container').hide(); //TEMP FIX 
     
     $('#days-in-office').html(today.diff(inauguration, 'days') > 0 ? today.diff(inauguration, 'days') : 0);
 
