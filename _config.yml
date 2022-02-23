@@ -21,6 +21,7 @@ author:
   email: your-email@domain.com
 
 url: https://seguimiento-politico.github.io
+repository: https://raw.githubusercontent.com/seguimiento-politico/seguimiento-politico.github.io
 
 locale: "es-ES"
 
@@ -42,51 +43,12 @@ comments:
     branch: # "master"
     endpoint: # "https://{your Staticman v3 API}/v3/entry/github/"
 
-# Minima date format
-# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  date_format: "%b %-d, %Y"
-
-  # generate social links in footer
-  social_links:
-    twitter: seguimiento-social
-    github:  seguimiento-social
-    telegram: seguimiento-social
-    # devto: jekyll
-    # dribbble: jekyll
-    # facebook: jekyll
-    # flickr:   jekyll
-    # instagram: jekyll
-    # linkedin: jekyll
-    # pinterest: jekyll
-    # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    # youtube_channel_name: CloudCannon
-    # googleplus: +jekyll
-    # microdotblog: jekyll
-    # keybase: jekyll
-
-    # Mastodon instances
-    # mastodon:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
-
-    # GitLab instances
-    # gitlab:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
-
 # Build settings
 markdown: kramdown
 
 theme: minima
 
 plugins:
-  - html-proofer
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-paginate
@@ -94,7 +56,6 @@ plugins:
 
 # mimic GitHub Pages with --safe
 whitelist:
-  - html-proofer
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-paginate

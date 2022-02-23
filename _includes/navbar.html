@@ -1,33 +1,56 @@
-<nav class="navbar navbar-default navbar-fixed-top">
-   <div class="container">
+<nav class="navbar navbar-expand-lg fixed-top navbar-dark bg-dark" aria-label="Main navigation">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="{{ site.url }}">Seguimiento Político</a>
+    <button class="navbar-toggler p-0 border-0" type="button" id="navbarSideCollapse" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
 
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-
-            <a class="navbar-brand" href="{{ site.url }}">
-                <b>Seguimiento político</b>
-            </a>
-
-        </div>
-
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <!--<form class="navbar-form navbar-right" action="https://viren8.typeform.com/to/CA1RiV" method="get" target="_blank">
-                <button type="submit" class="btn btn-default" data-toggle="tooltip" data-placement="bottom" title="Will need sources!">Submit a new policy</button>
-            </form> -->
-            <ul class="nav navbar-nav navbar-right">
-                <!--<li><a href="/about">About Us</a></li> -->
-            </ul>
-        </div>
-        <!-- /.navbar-collapse -->
-
+    <div class="navbar-collapse offcanvas-collapse" id="navbarsExampleDefault">
+      <!-- <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">Dashboard</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Notifications</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Profile</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Switch account</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-bs-toggle="dropdown" aria-expanded="false">Settings</a>
+          <ul class="dropdown-menu" aria-labelledby="dropdown01">
+            <li><a class="dropdown-item" href="#">Action</a></li>
+            <li><a class="dropdown-item" href="#">Another action</a></li>
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+          </ul> 
+        </li>
+      </ul> -->
+      <!-- <form class="d-flex">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success" type="submit">Search</button>
+      </form> -->
     </div>
-    <!-- /.container-fluid -->
+  </div>
 </nav>
+
+<div class="nav-scroller bg-body shadow-sm">
+  <nav class="nav nav-underline" aria-label="Secondary navigation">
+    <a class="nav-link active" aria-current="page" href="#">{{ site.data.ui-text[site.locale].home_label | default: "Home" }}</a>
+    <a class="nav-link" href="#">
+        {{ site.data.ui-text[site.locale].collaborators_label | default: "Collaborators" }}
+        {% assign collaborators = site.data.collaborators | size %}
+        <span class="badge bg-light text-dark rounded-pill align-text-bottom">{{ collaborators }}</span>
+    </a>
+    <!-- <a class="nav-link" href="#">Link</a>
+    <a class="nav-link" href="#">Link</a>
+    <a class="nav-link" href="#">Link</a>
+    <a class="nav-link" href="#">Link</a>
+    <a class="nav-link" href="#">Link</a> -->
+  </nav>
+</div>
+
+
+        

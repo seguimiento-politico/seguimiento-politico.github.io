@@ -1,5 +1,6 @@
 context:
     name: Legislatura XIV
+    description: Seguimiento del cumplimiento por parte del gobierno de sus compromisos y promesas electorales.
     from: 2020-01-07 
     sources:
         - https://www.lamoncloa.gob.es/gobierno/gobiernosporlegislaturas/Paginas/xiv_legislatura.aspx
@@ -161,7 +162,7 @@ icons:
     Política internacional: globe
     Defensa: fighter-jet 
 
-govern-promises:
+promises:
     -   
         id: 1
         party: PSOE
@@ -183,8 +184,6 @@ govern-promises:
                     UCM - Las siete claves de la reforma laboral de 2021: https://www.ucm.es/otri/noticias-claves-reforma-laboral-ucm
                     Resumen y cuadros comparativos de la reforma laboral 2021: https://www.laboral-social.com/reforma-laboral-2021-resumen-principales-medidas-cuadros-comparativos.htm
                     El País - Acuerdo gobierno, patronal y sindicatos: https://elpais.com/economia/2021-12-23/la-ceoe-da-el-visto-bueno-a-la-ultima-propuesta-para-la-reforma-laboral-y-acerca-el-acuerdo-final.html
-
-opposition-promises:
 
 legislative-initiatives:
 

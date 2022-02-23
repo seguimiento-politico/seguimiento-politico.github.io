@@ -1,0 +1,21 @@
+# Generated with git shortlog -sn | cut -c8-, which sorts by commits
+-   
+    name: Tovarlogic
+    links:
+        - label: "Email"
+          icon: "fas fa-fw fa-envelope-square"
+          url: "mailto:kinsay+tovarlogic@gmail.com"
+        - label: "Twitter"
+          icon: "fab fa-fw fa-twitter-square"
+          url: "https://twitter.com/tovarlogic"
+        - label: "Github"
+          icon: "fas fa-fw fa-github"
+          url: "https://github.com/tovarlogic/tovarlogic.github.io/"
+-   
+    name: Seguimiento-político
+    links:
+        - label: "Github"
+          icon: "fas fa-fw fa-github"
+          url: "https://github.com/seguimiento-politico/seguimiento-politico.github.io/"
+    
+

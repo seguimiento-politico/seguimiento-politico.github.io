@@ -6,19 +6,28 @@ layout: compress
 <html itemscope itemtype="http://schema.org/Article" lang="{{ site.locale | slice: 0,2 | default: 'es' }}" class="no-js">
     <!-- Viren Mohindra and Nuked Studios Copyright 2016 MIT Open Source @ https://github.com/TrumpTracker/trumptracker.github.io -->
     <head>
+
         {% include head.html %}
+
     </head>
     <body class="bg-light">
+
         {% include navbar.html %}
+
         <main class="container">
+
             {% include updates.html %}
-            <br>
+
+            {% include sections.html %}
+
             {{content}}
+
         </main>
 
         {% include footer.html %}
 
         {% include scripts.html %}
+        
     </body>
 </html>
 
