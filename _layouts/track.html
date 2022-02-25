@@ -77,9 +77,9 @@ layout: page
                 </div>
             </div>
 
-        <div class="promises" id="promises">
+        <div class="promises row pt-2" id="promises">
             <div class="row promises__search-row py-2">
-                <div class="col">
+                <div class="col mb-2">
                     <form action="#" class="form-inline">
                         <div class="input-group">
                           <input type="text" class="form-control form-control-sm search" id="search" name="search" placeholder="{{ site.data.ui-text[site.locale].search_label | default: 'Search' }}">
@@ -94,7 +94,6 @@ layout: page
             </div>
             <div class="promises__table py-4">
                 <table class="table ">
-
                     <thead>
                     <tr class="bg-dark text-light">
                         <th class="text-center">{{ site.data.ui-text[site.locale].promises_label | default: "Promise/s" }}</th>
@@ -106,24 +105,28 @@ layout: page
                     <!-- add color to each policy -->
                     {% for promise in promises %}
                         {% assign status = statuses | where: "name", promise.status | first %}
-                        <tr class="promise list-group-item-{{ status.color }}">
+                        <tr class="list-group-item-{{ status.color }}">
                             <td class="text-start js-promise-text">
-                                {{ promise.id }}.
-                                <b><span class="js-promise-category">{{ promise.category }}</span>:</b>
-                                {{ promise.title }}
+                                {{ forloop.index }}.
+                                <b><span class="js-promise-category">{{ promise.title }}</span></b>
+                                <span class="small">{{ promise.category }}: {{ promise.description }}</span>
                                 <!-- add status icon -->
                                 <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}"></i>
-                                <span class="d-none promise__status-text js-promise-status sr-only">{{ promise.status }}</span>
-                                <span class="promise__status-text js-promise-status sr-only">{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}</span>
+                                <span class="d-none js-promise-status sr-only">{{ promise.status }}</span>
+                                <span class="js-promise-status sr-only">{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}</span>
                                 <!-- add superscript citations and sources -->
                                 {% for source in promise.sources %}
-                                    <sup><a href="{{ source[1] }}">{{ forloop.index }}</a></sup>
+                                    {% if source.type == "local_doc" %}
+                                        <sup><a class="source_sup" target="_blank" href="{{site.url}}/assets/docs/{{ source.url }}">{{ forloop.index }}</a></sup>
+                                    {% else %}
+                                        <sup><a class="source_sup" target="_blank" href="{{ source.url }}">{{ forloop.index }}</a></sup>
+                                    {% endif %}
                                 {% endfor %}
 
                             </td>
                             <td class="text-center">
                                 <!-- comment and twitter integration -->
-                                <a href="{{ page.url | replace: '.html', '' }}/{{ promise.url }}"><i class="fas fa-fw fa-chevron-right" aria-hidden="true"></i></a>
+                                <a href="{{ page.dir }}{{ promise.url }}"><i class="fas fa-fw fa-chevron-right" aria-hidden="true"></i></a>
 
                             </td>
                         </tr>

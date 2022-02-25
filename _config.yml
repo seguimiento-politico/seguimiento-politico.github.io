@@ -106,11 +106,5 @@ defaults:
       path: "tracks"
       type: pages
     values:
-      permalink: /tracks/:basename
-      layout: track 
-  - scope:
-      path: "promises"
-      type: pages
-    values:
       permalink: :path/:basename
-      layout: promise 
+      layout: track 

@@ -1,11 +1,86 @@
 context:
     name: Legislatura XIV
-    description: Seguimiento del cumplimiento, por parte del gobierno, de los compromisos electorales.
+    description: Control al gobierno y oposición, comprobando su grado de cumplimiento de los compromisos electorales.
+    scope: Congreso nacional
     teaser: /assets/images/logo_congreso.png
     from: 2020-01-07 
     sources:
         - https://www.lamoncloa.gob.es/gobierno/gobiernosporlegislaturas/Paginas/xiv_legislatura.aspx
         - https://www.congreso.es/indice-de-iniciativas
+
+categories:
+    -
+        name: Economía, trabajo y hacienda
+        icon: eur
+    -
+        name: Comercio, transporte y turismo
+        icon: shopping-cart
+    -
+        name: Industria y energía
+        icon: industry
+    -
+        name: Agricultura, ganadería y pesca
+        icon: anchor
+    -
+        name: Educación, ciencia y tecnología
+        icon: user-graduate
+    -
+        name: Cultura y deportes
+        icon: running
+    -
+        name: Derechos y servicios sociales
+        icon: universal-access
+    -
+        name: Sanidad
+        icon: stethoscope
+    -
+        name: Justicia
+        icon: balance-scale
+    -
+        name: Immigración
+        icon: globe-africa
+    -
+        name: Democracia
+        icon: university
+    -
+        name: Medioambiente
+        icon: tree
+    -
+        name: Territorio
+        icon: map-signs
+    -
+        name: Política internacional
+        icon: globe
+    -
+        name: Defensa
+        icon: fighter-jet 
+
+statuses:
+    -
+        name: Not started
+        lang_label: status_not_started
+        color: secondary
+        icon: hourglass-start
+    -
+        name: In progress
+        lang_label: status_in_progress
+        color: primary
+        icon: gears
+    -
+        name: Achieved
+        lang_label: status_achieved
+        color: success
+        icon: check-circle
+    -
+        name: Compromised
+        lang_label: status_compromised
+        color: warning
+        icon: handshake
+    -
+        name: Broken
+        lang_label: status_broken
+        color: danger
+        icon: ban
 
 parties:
     -
@@ -16,6 +91,8 @@ parties:
         program_doc: psoe_2019_10N.pdf
         position: govern
         color: red
+        website:
+        logo:
     -
         name: PP
         ideology: right
@@ -129,80 +206,29 @@ parties:
         program_doc:
         position: oposition
 
-categories:
+politicians:
     -
-        name: Economía, trabajo y hacienda
-        icon: eur
-    -
-        name: Comercio, transporte y turismo
-        icon: shopping-cart
-    -
-        name: Industria y energía
-        icon: industry
-    -
-        name: Agricultura, ganadería y pesca
-        icon: anchor
-    -
-        name: Educación, ciencia y tecnología
-        icon: user-graduate
-    -
-        name: Cultura y deportes
-        icon: running
-    -
-        name: Derechos y servicios sociales
-        icon: universal-access
-    -
-        name: Sanidad
-        icon: stethoscope
-    -
-        name: Justicia
-        icon: balance-scale
-    -
-        name: Immigración
-        icon: globe-africa
-    -
-        name: Democracia
-        icon: university
-    -
-        name: Medioambiente
-        icon: tree
-    -
-        name: Territorio
-        icon: map-signs
-    -
-        name: Política internacional
-        icon: globe
-    -
-        name: Defensa
-        icon: fighter-jet 
-
-statuses:
-    -
-        name: Not started
-        lang_label: status_not_started
-        color: secondary
-        icon: hourglass-start
-    -
-        name: In progress
-        lang_label: status_in_progress
-        color: primary
-        icon: gears
-    -
-        name: Achieved
-        lang_label: status_achieved
-        color: success
-        icon: check-circle
-    -
-        name: Compromised
-        lang_label: status_compromised
-        color: warning
-        icon: handshake
-    -
-        name: Broken
-        lang_label: status_broken
-        color: danger
-        icon: ban
-
+        name:
+        party:
+        party_position:
+            -
+                title:
+                from:
+                to:
+        public_position:
+            -
+                title:
+                from:
+                to:
+        place_representation:
+        statements:
+            -
+                title:
+                description:
+                promises_related: []
+                type: [] # Controversy, nonsense, mistake, informative, intention
+        votes:
+       
 promises:
     -   
         id: 1
@@ -212,40 +238,44 @@ promises:
         url: 'reforma-laboral'
         status: Compromised
         status_info: 'bla bla.'
-        category: Economía, trabajo y hacienda
-        tags: [Empleo]
-        related_to: []
-        sources:
-            -
-                program: [1.1]
-                other:
-                    noticias jurídicas - Real Decreto-ley 32/2021, de 28 de diciembre, de medidas urgentes para la reforma laboral: https://noticias.juridicas.com/base_datos/Laboral/715655-real-decreto-ley-32-2021-de-28-de-diciembre-de-medidas-urgentes-para-la-reforma.html
-                    noticias jurídicas - Resumen de la reforma laboral 2021, sus aspectos más relevantes: https://noticias.juridicas.com/actualidad/noticias/16845-reforma-laboral-2021:-resumen-de-urgencia-de-sus-aspectos-mas-relevantes/
-                    ESADE - La nueva reforma laboral, un primer análisis: https://www.esade.edu/ecpol/es/publicaciones/la-nueva-reforma-laboral-un-primer-analisis/
-                    UCM - Las siete claves de la reforma laboral de 2021: https://www.ucm.es/otri/noticias-claves-reforma-laboral-ucm
-                    Resumen y cuadros comparativos de la reforma laboral 2021: https://www.laboral-social.com/reforma-laboral-2021-resumen-principales-medidas-cuadros-comparativos.htm
-                    El País - Acuerdo gobierno, patronal y sindicatos: https://elpais.com/economia/2021-12-23/la-ceoe-da-el-visto-bueno-a-la-ultima-propuesta-para-la-reforma-laboral-y-acerca-el-acuerdo-final.html
-    -   
-        id: 2
-        party: PSOE
-        title: 'Reforma laboral'
-        description: 'Derogación urgente de los aspectos más lesivos de la reforma laboral, combatiendo la precariedad y el fraude laboral.'
-        url: 'reforma-laboral'
-        status: Not started
-        status_info: 'bla bla.'
         category: Industria y energía
         tags: [Empleo]
-        related_to: []
+        pomises_related: []
+        cronology:
         sources:
             -
-                program: [1.1]
-                other:
-                    noticias jurídicas - Real Decreto-ley 32/2021, de 28 de diciembre, de medidas urgentes para la reforma laboral: https://noticias.juridicas.com/base_datos/Laboral/715655-real-decreto-ley-32-2021-de-28-de-diciembre-de-medidas-urgentes-para-la-reforma.html
-                    noticias jurídicas - Resumen de la reforma laboral 2021, sus aspectos más relevantes: https://noticias.juridicas.com/actualidad/noticias/16845-reforma-laboral-2021:-resumen-de-urgencia-de-sus-aspectos-mas-relevantes/
-                    ESADE - La nueva reforma laboral, un primer análisis: https://www.esade.edu/ecpol/es/publicaciones/la-nueva-reforma-laboral-un-primer-analisis/
-                    UCM - Las siete claves de la reforma laboral de 2021: https://www.ucm.es/otri/noticias-claves-reforma-laboral-ucm
-                    Resumen y cuadros comparativos de la reforma laboral 2021: https://www.laboral-social.com/reforma-laboral-2021-resumen-principales-medidas-cuadros-comparativos.htm
-                    El País - Acuerdo gobierno, patronal y sindicatos: https://elpais.com/economia/2021-12-23/la-ceoe-da-el-visto-bueno-a-la-ultima-propuesta-para-la-reforma-laboral-y-acerca-el-acuerdo-final.html
+                title: Programa electoral, apartado 1.1
+                url: psoe_2019_10N.pdf
+                type: local_doc # link(default), local_doc, video, podcast
+                about: promise_details
+            -
+                title: Noticias jurídicas - Real Decreto-ley 32/2021, de 28 de diciembre, de medidas urgentes para la reforma laboral
+                url: https://noticias.juridicas.com/base_datos/Laboral/715655-real-decreto-ley-32-2021-de-28-de-diciembre-de-medidas-urgentes-para-la-reforma.html
+                about: promise_status
+            -
+                title: noticias jurídicas - Resumen de la reforma laboral 2021, sus aspectos más relevantes
+                url: https://noticias.juridicas.com/actualidad/noticias/16845-reforma-laboral-2021:-resumen-de-urgencia-de-sus-aspectos-mas-relevantes/
+                about: promise_status
+            -
+                title: ESADE - La nueva reforma laboral, un primer análisis
+                url: https://www.esade.edu/ecpol/es/publicaciones/la-nueva-reforma-laboral-un-primer-analisis/
+                about: promise_status
+            -
+                title: UCM - Las siete claves de la reforma laboral de 2021
+                url: https://www.ucm.es/otri/noticias-claves-reforma-laboral-ucm
+                about: promise_status
+            -
+                title: Resumen y cuadros comparativos de la reforma laboral 2021
+                url: https://www.laboral-social.com/reforma-laboral-2021-resumen-principales-medidas-cuadros-comparativos.htm
+                about: promise_status
+            -
+                title: El País - Acuerdo gobierno, patronal y sindicatos
+                url: https://elpais.com/economia/2021-12-23/la-ceoe-da-el-visto-bueno-a-la-ultima-propuesta-para-la-reforma-laboral-y-acerca-el-acuerdo-final.html
+                about: promise_status                            
+        opposition_sources:
+        implementation:
+            efectiveness:
+            sources:
 
 legislative-initiatives:
 

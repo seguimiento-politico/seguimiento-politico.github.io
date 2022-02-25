@@ -1,8 +1,10 @@
 -
   data_source: legislatura-xiv 
+  scope: Congreso nacional
   show: true
 -
-  data_source: corrupcion
+  data_source: mala-gestion
+  scope: Gobierno central
   show: false
 
 
