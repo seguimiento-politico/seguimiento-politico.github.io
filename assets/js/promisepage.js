@@ -12,13 +12,13 @@ function renderComment(reddit, reply = false) {
             comment = "<div class='panel panel-default'><div class='panel-body'>";
         }
         if (reddit.data.distinguished != null) {
-            comment += "<i class='fa fa-check-square-o check' aria-hidden='true'></i> ";
+            comment += "<i class='fas fa-fw fa-check-square-o check' aria-hidden='true'></i> ";
         }
         if (reddit.data.stickied != false) {
-            comment += "<i class='fa fa-thumb-tack check' aria-hidden='true'></i> ";
+            comment += "<i class='fas fa-fw fa-thumb-tack check' aria-hidden='true'></i> ";
         }
         if (reddit.data.gilded > 0) {
-            comment += "<i class='fa fa-trophy gild' aria-hidden='true'></i> ";
+            comment += "<i class='fas fa-fw fa-trophy gild' aria-hidden='true'></i> ";
         }
         if (reddit.data.author != "[deleted]") {
             comment += "<a target='_blank' class='author' href='https://reddit.com/u/" + reddit.data.author + "'>" + reddit.data.author + "</a><span class='score'> &#8226; ";
@@ -34,9 +34,9 @@ function renderComment(reddit, reply = false) {
         if (reddit.data.edited != false) {
             comment += "*";
         }
-        comment += " <a target='_blank' href='https://reddit.com/r/" + subreddit + "/comments/" + reddit.data.link_id.replace("t3_", "") + "/" + subreddit + "/" + reddit.data.id + "/'><i class='fa fa-share-alt' aria-hidden='true'></i></a> <hr>" + SnuOwnd.getParser().render(reddit.data.body.replace(/(<([^>]+)>)/ig, ""));
+        comment += " <a target='_blank' href='https://reddit.com/r/" + subreddit + "/comments/" + reddit.data.link_id.replace("t3_", "") + "/" + subreddit + "/" + reddit.data.id + "/'><i class='fas fa-fw fa-share-alt' aria-hidden='true'></i></a> <hr>" + SnuOwnd.getParser().render(reddit.data.body.replace(/(<([^>]+)>)/ig, ""));
         if (reddit.data.archived != false) {
-            comment += " <i class='fa fa-archive archive' aria-hidden='true'></i>";
+            comment += " <i class='fas fa-fw fa-archive archive' aria-hidden='true'></i>";
         }
         comment += "</div></div>";
         return comment;

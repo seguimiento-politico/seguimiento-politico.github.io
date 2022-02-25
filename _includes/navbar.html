@@ -6,21 +6,24 @@
       <span class="navbar-toggler-icon"></span>
     </button>
 
-    <div class="navbar-collapse offcanvas-collapse" id="navbarsExampleDefault">
-      <!-- <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+    <div class="navbar-collapse offcanvas-collapse">
+       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Dashboard</a>
+          <a class="nav-link" href="library">Biblioteca</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Notifications</a>
+          <a class="nav-link" href="lab">Laboratorio</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Profile</a>
+          <a class="nav-link" href="blog">Blog</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Switch account</a>
+          <a class="nav-link" href="cooperation">Colabora</a>
         </li>
-        <li class="nav-item dropdown">
+        <li class="nav-item">
+          <a class="nav-link" href="FAQ">FAQ</a>
+        </li>
+        <!-- <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-bs-toggle="dropdown" aria-expanded="false">Settings</a>
           <ul class="dropdown-menu" aria-labelledby="dropdown01">
             <li><a class="dropdown-item" href="#">Action</a></li>
@@ -39,11 +42,27 @@
 
 <div class="nav-scroller bg-body shadow-sm">
   <nav class="nav nav-underline" aria-label="Secondary navigation">
-    <span class="text-dark text-decoration-underline ms-1"><small>{{ site.data.ui-text[site.locale].stats_label | default: "Stats" }}</small></span>
-    <a class="nav-link" href="#">
+    <a class="nav-link" href="stats/#colaborators">
         {{ site.data.ui-text[site.locale].collaborators_label | default: "Collaborators" }}
         {% assign collaborators = site.data.collaborators | size %}
         <span class="badge bg-light text-dark rounded-pill align-text-bottom">{{ collaborators }}</span>
+    </a>
+    <a class="nav-link" href="stats/#tracks">
+        {{ site.data.ui-text[site.locale].tracks_label | default: "Tracks" }}
+        {% assign tracks = site.data.tracks | size %}
+        <span class="badge bg-light text-dark rounded-pill align-text-bottom">{{ tracks }}</span>
+    </a>
+        <a class="nav-link" href="stats/#promises">
+        {{ site.data.ui-text[site.locale].promises_label | default: "Promises" }}
+        {{ site.data.ui-text[site.locale].registered_label | default: "registered" }}
+        {% assign tracking = site.data.tracks | size %}
+        {% assign total_promises = 0 %}
+        {% for track in site.data.tracks %}
+          {% assign tracker_data = site.data.[track.data_source] %}
+          {% assign track_promises = tracker_data.promises | size %}
+          {% assign total_promises = total_promises | plus: track_promises %}
+        {% endfor %}
+        <span class="badge bg-light text-dark rounded-pill align-text-bottom">{{ total_promises }}</span>
     </a>
     <!-- <a class="nav-link" href="#">Link</a>
     <a class="nav-link" href="#">Link</a>

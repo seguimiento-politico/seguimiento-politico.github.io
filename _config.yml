@@ -13,6 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+# Be sure to exclude vendor from your  _config.yml
+# Travis bundles all gems in the vendor directory on its build servers, which Jekyll will mistakenly read and explode on.
+# https://jekyllrb.com/docs/continuous-integration/
+
 title: Seguimiento político al gobierno 
 description: Comunidad online para con el esfuerzo colectivo hacer un seguimiento objetivo y eficaz al Gobierno, la oposición y, en general, a cualquier político español. Comprueba el grado de cumplimiento con los programas electorales y promesas hechas.
 
@@ -68,6 +73,9 @@ sass:
   sass_dir: assets/css/partials
   style: compressed
 
+include:
+  - .htaccess
+  - _pages
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -84,7 +92,25 @@ compress_html:
     envs: [local]
   blanklines: false
 
-# Be sure to exclude vendor from your  _config.yml
-# Travis bundles all gems in the vendor directory on its build servers, which Jekyll will mistakenly read and explode on.
-# https://jekyllrb.com/docs/continuous-integration/
-
+# Defaults
+defaults:
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      permalink: :basename
+      layout: page 
+  # tracks and promises
+  - scope:
+      path: "tracks"
+      type: pages
+    values:
+      permalink: /tracks/:basename
+      layout: track 
+  - scope:
+      path: "promises"
+      type: pages
+    values:
+      permalink: :path/:basename
+      layout: promise 

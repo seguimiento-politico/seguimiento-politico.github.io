@@ -1,22 +1,26 @@
 <div class="card py-3 shadow-sm">
     <div class="container">
-        {% assign trackers = site.data.data %}
-        {% for tracker in trackers %}
+        {% for track in site.data.tracks %}
+            {% if track.show == false %}
+                {% continue %}
+            {% endif %}
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-xl-4 g-3">
             <div class="col">
               <div class="card shadow-sm bg-light">
-                {% assign tracker_data = site.data.[tracker.data_source] %}
+                {% assign tracker_data = site.data.[track.data_source] %}
                 {% if tracker_data.context.teaser %}
                 <img src="{{ tracker_data.context.teaser }}" class="" alt="{{ tracker_data.context.name }}">
                 {% else %}
                 <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>{{ tracker_data.context.name }}</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">{{ tracker_data.context.name }}</text></svg>
                 {% endif %}
                 <div class="card-body">
-                  <p class="card-text">{{ tracker_data.context.name }}: {{ tracker_data.context.description }}</p>
+                <h5 class="card-title">{{ tracker_data.context.name }}</h5>
+                <h6 class="card-subtitle mb-2 text-muted small">{{ tracker_data.context.from }} a {% if tracker_data.context.to %} {{ tracker_data.context.to }} {% else %} actualidad {% endif %}</h6>
+                  <p class="card-text">{{ tracker_data.context.description }}</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                        <a class="btn btn-sm btn-outline-primary" href="{{ tracker.data_source }}" role="button">{{ site.data.ui-text[site.locale].view_label | default: "view" | downcase }}</a>
-                        <a class="btn btn-sm btn-outline-secondary" href="{{ site.repository}}/master/_data/{{ tracker.data_source }}.yaml" role="button">{{ site.data.ui-text[site.locale].open_label | default: "open data" | downcase }}</a>
+                        <a class="btn btn-sm btn-outline-primary" href="tracks/{{ track.data_source }}" role="button">{{ site.data.ui-text[site.locale].view_label | default: "view" | downcase }}</a>
+                        <a class="btn btn-sm btn-outline-secondary" href="{{ site.repository}}/master/_data/{{ track.data_source }}.yaml" role="button">{{ site.data.ui-text[site.locale].open_label | default: "open data" | downcase }}</a>
                     </div>
                     <small class="text-muted">{{ tracker_data.promises | size }} {{ site.data.ui-text[site.locale].promises_label | default: "promises" | downcase }}</small>
                   </div>

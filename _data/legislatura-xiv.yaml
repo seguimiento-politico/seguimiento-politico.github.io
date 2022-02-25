@@ -1,6 +1,6 @@
 context:
     name: Legislatura XIV
-    description: Seguimiento del cumplimiento por parte del gobierno de sus compromisos electorales.
+    description: Seguimiento del cumplimiento, por parte del gobierno, de los compromisos electorales.
     teaser: /assets/images/logo_congreso.png
     from: 2020-01-07 
     sources:
@@ -13,7 +13,7 @@ parties:
         ideology: left
         seats: 120
         votes: 6752983
-        program_url: /assets/docs/psoe_2019_10N.pdf
+        program_doc: psoe_2019_10N.pdf
         position: govern
         color: red
     -
@@ -21,7 +21,7 @@ parties:
         ideology: right
         sets: 89
         votes: 5019869
-        program_url: /assets/docs/pp_2019_10N.pdf
+        program_doc: pp_2019_10N.pdf
         position: oposition
         color: blue
     -
@@ -29,7 +29,7 @@ parties:
         ideology: right
         seats: 52
         votes: 3640063
-        program_url: /assets/docs/vox_2019_10N.pdf
+        program_doc: vox_2019_10N.pdf
         position: oposition
         color: green
     -
@@ -37,9 +37,9 @@ parties:
         ideology: left
         seats: 35
         votes: 3097185
-        program_url: 
-            - /assets/docs/podemos_2019_10N.pdf
-            - /assets/docs/iu_2019_10N.
+        program_doc: 
+            - podemos_2019_10N.pdf
+            - iu_2019_10N.
         position: govern
         color: purple
     -
@@ -47,7 +47,7 @@ parties:
         ideology: [left, nationalist]
         seats: 13
         votes: 869934
-        program_url:
+        program_doc:
         position: oposition
         color: yellow
     -
@@ -55,7 +55,7 @@ parties:
         ideology: center
         seats: 10
         votes: 1637540
-        program_url: /assets/docs/ciudadanos_2019_10N.pdf
+        program_doc: ciudadanos_2019_10N.pdf
         position: oposition
         color: orange
     -
@@ -63,88 +63,145 @@ parties:
         ideology: [center-right, nationalist]
         seats: 8
         votes: 527375
-        program_url:
+        program_doc:
         position: oposition
     -
         name: PNV
         ideology: [center, nationalist]
         seats: 6
         votes: 377423
-        program_url:
+        program_doc:
         position: oposition
     -
         name: Bildu
         ideology: [left, nationalist]
         seats: 5
         votes: 276.519
-        program_url:
+        program_doc:
         position: oposition
     -
         name: MÁS PAÍS
         ideology: left
         seats: 8
         votes: 595261
-        program_url:
+        program_doc:
         position: oposition
     -
         name: CUP-PR
         ideology: [left, nationalist]
         seats: 2
         votes: 244754
-        program_url:
+        program_doc:
         position: oposition
     -
         name: CC-NC
         ideology: [center, nationalist]
         seats: 2
         votes: 123981
-        program_url:
+        program_doc:
         position: oposition
     -
         name: NA+
         ideology: [right, nationalist]
         seats: 2
         votes: 98448
-        program_url:
+        program_doc:
         position: oposition
     -
         name: BNG
         ideology: [left, nationalist]
         seats: 1
         votes: 119597
-        program_url:
+        program_doc:
         position: oposition
     -
         name: PRC
         ideology: [center-left, regionalist]
         seats: 1
         votes: 68580
-        program_url:
+        program_doc:
         position: oposition
     -
         name: ¡TERUEL EXISTE!
         ideology: [center-left, regionalist]
         seats: 1
         votes: 19696
-        program_url:
+        program_doc:
         position: oposition
 
-icons:
-    Economía, trabajo y hacienda: eur
-    Comercio, transporte y turismo: shopping-cart
-    Industria y energía: 
-    Agricultura, ganadería y pesca: anchor
-    Educación, ciencia y tecnología: graduation-cap
-    Cultura y deportes: puzzle-piece
-    Derechos y servicios sociales: universal-access
-    Sanidad: hospital-o
-    Justicia: balance-scale
-    Immigración: suitcase
-    Democracia: university
-    Medioambiente: leaf
-    Territorio: map-signs
-    Política internacional: globe
-    Defensa: fighter-jet 
+categories:
+    -
+        name: Economía, trabajo y hacienda
+        icon: eur
+    -
+        name: Comercio, transporte y turismo
+        icon: shopping-cart
+    -
+        name: Industria y energía
+        icon: industry
+    -
+        name: Agricultura, ganadería y pesca
+        icon: anchor
+    -
+        name: Educación, ciencia y tecnología
+        icon: user-graduate
+    -
+        name: Cultura y deportes
+        icon: running
+    -
+        name: Derechos y servicios sociales
+        icon: universal-access
+    -
+        name: Sanidad
+        icon: stethoscope
+    -
+        name: Justicia
+        icon: balance-scale
+    -
+        name: Immigración
+        icon: globe-africa
+    -
+        name: Democracia
+        icon: university
+    -
+        name: Medioambiente
+        icon: tree
+    -
+        name: Territorio
+        icon: map-signs
+    -
+        name: Política internacional
+        icon: globe
+    -
+        name: Defensa
+        icon: fighter-jet 
+
+statuses:
+    -
+        name: Not started
+        lang_label: status_not_started
+        color: secondary
+        icon: hourglass-start
+    -
+        name: In progress
+        lang_label: status_in_progress
+        color: primary
+        icon: gears
+    -
+        name: Achieved
+        lang_label: status_achieved
+        color: success
+        icon: check-circle
+    -
+        name: Compromised
+        lang_label: status_compromised
+        color: warning
+        icon: handshake
+    -
+        name: Broken
+        lang_label: status_broken
+        color: danger
+        icon: ban
 
 promises:
     -   

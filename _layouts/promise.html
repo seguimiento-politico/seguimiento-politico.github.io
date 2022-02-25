@@ -1,62 +1,69 @@
 ---
 layout: page
-permalink: /:basename/
 ---
-{% assign dataset = page.dataset %}
+{% assign dataset = page.track_name %}
 {% assign promise = site.data.[dataset].promises | where:'id', page.promise_id | first %}
 {% assign status = site.data.[dataset].statuses[promise.status] %}
 
 <link rel="stylesheet" type="text/css" href="../assets/css/promisepage.css">
+
  <!-- Begin page content -->
 <div class="container">
-  <h1 class="page-header">{{ promise.title }} <small>{{ promise.category }}</small></h1>
-  {% if promise.description %}
-  <p class="lead">{{ promise.description }}</p>
-  <br>
-  {% endif %}
-  <div class="bd-callout bd-callout-{{ status.color }}">
-    <h4>Medida/promesa {{ promise.status | downcase }}</h4>
-    <p>{{ promise.status_info }}</p>
-  </div>
-  <br>
-  <div class="panel panel-default">
-    <div class="panel-heading"><h4>Fuentes</h4></div>
-    <div class="panel-body">
-      <b>Encuentra aquí todas las fuentes informativas que se han empleado para incluir esta promesa/medida y determinar su estado actual.</b>
+
+    {{content}}
+
+    <h1 class="page-header">{{ promise.title }} <small>{{ promise.category }}</small></h1>
+    {% if promise.description %}
+    <p class="lead">{{ promise.description }}</p>
+    <br>
+    {% endif %}
+    <div class="bd-callout bd-callout-{{ status.color }}">
+        <h4>Medida/promesa {{ promise.status | downcase }}</h4>
+        <p>{{ promise.status_info }}</p>
     </div>
-    <!-- List group -->
-    <ul class="list-group">
-      {% for source in promise.sources %}
-          <!-- show electoral program info -->
-          {% if source.program %}
-            {% assign party = site.data.[dataset].parties | where:'name', promise.party | first %}
-            {% if party.program_url %}
-              {% for src in source.program %}
-                <a href="{{ site.url }}{{ party.program_url }}" target='_blank' class="list-group-item">Programa electoral {{ party.name }}, apartado {{ src }}</a>
-              {% endfor %}
-            {% else %}
-              <li class="list-group-item">Programa electoral {{ party.name }}, apartado {{ src }}</li>
-            {% endif %}
-          {% endif %}
-          <!-- show other sources -->
-          {% if source.other %}
-            {% for src in source.other %}
-              <a href="{{ src[1] }}" target='_blank' class="list-group-item">{{ src[0] }}</a>
+    <br>
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4>Fuentes</h4>
+        </div>
+        <div class="panel-body">
+          <b>Encuentra aquí todas las fuentes informativas que se han empleado para incluir esta promesa/medida y determinar su estado actual.</b>
+        </div>
+
+        <!-- List group -->
+        <ul class="list-group">
+            {% for source in promise.sources %}
+
+                <!-- show electoral program info -->
+                {% if source.program %}
+                    {% assign party = site.data.[dataset].parties | where:'name', promise.party | first %}
+                    {% if party.program_url %}
+                        {% for src in source.program %}
+                            <a href="{{ site.url }}/assets/docs/{{ party.program_url }}" target='_blank' class="list-group-item">Programa electoral {{ party.name }}, apartado {{ src }}</a>
+                        {% endfor %}
+                    {% else %}
+                        <li class="list-group-item">Programa electoral {{ party.name }}, apartado {{ src }}</li>
+                    {% endif %}
+                {% endif %}
+
+                <!-- show other sources -->
+                {% if source.other %}
+                    {% for src in source.other %}
+                        <a href="{{ src[1] }}" target='_blank' class="list-group-item">{{ src[0] }}</a>
+                    {% endfor %}
+                {% endif %}
             {% endfor %}
-          {% endif %}
-        {% endfor %}
-    </ul>
-  </div>
+        </ul>
+    </div>
 
     <div class="row">
-      <a class='btn facebook' target="_blank" href="https://www.facebook.com/sharer.php?u={{site.baseurl}}/{{ promise.url }}/&title={{ promise.title }}"> <i class="fa fa-facebook-square fa-fw" aria-hidden="true"></i> Compartir</a>
-      <a class="btn twitter" href="https://twitter.com/share?url={{site.baseurl}}/&text={{ promise.tweettext }}&hashtags=Seguimiento-politico" target="_blank"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i> Tweet</a>
+        <a class='btn facebook' target="_blank" href="https://www.facebook.com/sharer.php?u={{site.baseurl}}/{{ promise.url }}/&title={{ promise.title }}"> <i class="fas fa-fw fa-facebook-square fa-fw" aria-hidden="true"></i> Compartir</a>
+        <a class="btn twitter" href="https://twitter.com/share?url={{site.baseurl}}/&text={{ promise.tweettext }}&hashtags=Seguimiento-politico" target="_blank"><i class="fas fa-fw fa-twitter" aria-hidden="true"></i> Tweet</a>
     </div>
 
-  <div class="row">
-    {% if site.comments.provider %}
-      <!-- {% include comments.html %} -->
-    {% endif %}
-  </div>
-
+    <div class="row">
+        {% if site.comments.provider %}
+            <!-- {% include comments.html %} -->
+        {% endif %}
+    </div>
 </div>

@@ -37,7 +37,7 @@
             <p class="small">{{ site.data.ui-text[site.locale].comment_form_info | default: "Your email address will not be published. Required fields are marked" }} <span class="required">*</span></p>
             <form id="new_comment" class="page__comments-form js-form form" method="post" action="{{ site.comments.staticman.endpoint | default: 'https://api.staticman.net/v2/entry/' }}{{ site.repository }}/{{ site.comments.staticman.branch }}/comments">
               <div class="form__spinner">
-                <i class="fas fa-spinner fa-spin fa-3x fa-fw"></i>
+                <i class="fas fa-fw fa-spinner fa-spin fa-3x fa-fw"></i>
                 <span class="sr-only">{{ site.data.ui-text[site.locale].loading_label | default: "Loading..." }}</span>
               </div>
 
@@ -111,7 +111,7 @@
             <p class="small">{{ site.data.ui-text[site.locale].comment_form_info | default: "Your email address will not be published. Required fields are marked" }} <span class="required">*</span></p>
             <form id="new_comment" class="page__comments-form js-form form" method="post" action="https://api.staticman.net/v1/entry/{{ site.repository }}/{{ site.staticman.branch }}">
               <div class="form__spinner">
-                <i class="fas fa-spinner fa-spin fa-3x fa-fw"></i>
+                <i class="fas fa-fw fa-spinner fa-spin fa-3x fa-fw"></i>
                 <span class="sr-only">{{ site.data.ui-text[site.locale].loading_label | default: "Loading..." }}</span>
               </div>
 
@@ -156,7 +156,7 @@
     {% when "reddit" %}
       <div id="reddit_comments">
         <h3 class='comments'>Comments</h3>
-        <a target="_blank" href="{{ page.comments }}" class="btn btn-primary placecomment"><i class="fa fa-pencil" aria-hidden="true"></i> Place comment</a>
+        <a target="_blank" href="{{ page.comments }}" class="btn btn-primary placecomment"><i class="fas fa-fw fa-pencil" aria-hidden="true"></i> Place comment</a>
         <p class='commentcount'></p>
         <div class="loader"></div>
         <div class="panel-group"><div class="noscript">Please enable Javascript and disable any adblocker to view comments.</div></div>
