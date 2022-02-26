@@ -15,3 +15,7 @@
 <script src={{ "/assets/js/main.js" | relative_url }}></script>
 <script src={{ "/assets/js/offcanvas.js" | relative_url }}></script>
 <script src={{ "/assets/js/back_to_top.js" | relative_url }}></script>
+
+{% if page.comments %}
+	{% include /comments-providers/scripts.html %}
+{% endif %}

@@ -108,3 +108,4 @@ defaults:
     values:
       permalink: :path/:basename
       layout: track 
+      comments: true
