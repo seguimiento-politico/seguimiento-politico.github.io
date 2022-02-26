@@ -34,7 +34,7 @@ socials:
 locale: "es-ES"
 
 comments:
-  provider: disqus # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "reddit", "custom"
+  provider: staticman # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "reddit", "custom"
   disqus:
     shortname: seguimiento-politico # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -48,8 +48,8 @@ comments:
     theme: # "github-light" (default), "github-dark"
     issue_term: # "pathname" (default)
   staticman:
-    branch: # "master"
-    endpoint: # "https://{your Staticman v3 API}/v3/entry/github/"
+    branch: master # "master"
+    endpoint: https://sp-staticman.herokuapp.com/entry/github/ # "https://{your Staticman v3 API}/v3/entry/github/"
 
 # Build settings
 markdown: kramdown
