@@ -1,10 +1,9 @@
 -
-  data_source: legislatura-xiv 
-  scope: Congreso nacional
+  data_source: legislatura-xiv
+  country: España  
   show: true
 -
   data_source: mala-gestion
-  scope: Gobierno central
   show: false
 
 

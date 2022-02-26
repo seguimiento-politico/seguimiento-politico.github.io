@@ -28,7 +28,6 @@ end
 task :build do
 	Rake::Task["generateurls"].invoke
 	Rake::Task["generatestatic"].invoke
-	Rake::Task["yaml2json"].invoke
 	puts 'Building site...'.bold
 	Jekyll::Commands::Build.process(profile: true)
 end
@@ -41,7 +40,6 @@ end
 task :serve do
 	Rake::Task["generateurls"].invoke
 	Rake::Task["generatestatic"].invoke
-	Rake::Task["yaml2json"].invoke
 	puts 'Autoregenerating site...'.bold
 	sh "bundle exec jekyll serve"
 end

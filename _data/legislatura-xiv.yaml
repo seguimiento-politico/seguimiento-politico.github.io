@@ -1,9 +1,10 @@
 context:
     name: Legislatura XIV
     description: Control al gobierno y oposición, comprobando su grado de cumplimiento de los compromisos electorales.
-    scope: Congreso nacional
-    teaser: /assets/images/logo_congreso.png
     from: 2020-01-07 
+    country: España
+    scope: nacional
+    teaser: /assets/images/logo_congreso.png
     sources:
         - https://www.lamoncloa.gob.es/gobierno/gobiernosporlegislaturas/Paginas/xiv_legislatura.aspx
         - https://www.congreso.es/indice-de-iniciativas
