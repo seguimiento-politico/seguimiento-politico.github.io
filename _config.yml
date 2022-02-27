@@ -26,15 +26,15 @@ author:
   email: your-email@domain.com
 
 url: https://seguimiento-politico.github.io
-repository: https://raw.githubusercontent.com/seguimiento-politico/seguimiento-politico.github.io
 
 socials:
   twitter: https://twitter.com/seguimiento-politico
 
 locale: "es-ES"
 
+repository: seguimiento-politico/seguimiento-politico.github.io
 comments:
-  provider: staticman # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "reddit", "custom"
+  provider: staticman_v2 # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "reddit", "custom"
   disqus:
     shortname: seguimiento-politico # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -49,7 +49,7 @@ comments:
     issue_term: # "pathname" (default)
   staticman:
     branch: master # "master"
-    endpoint: https://sp-staticman.herokuapp.com/entry/github/ # "https://{your Staticman v3 API}/v3/entry/github/"
+    endpoint: https://sp-staticman.herokuapp.com/v3/entry/github/ # "https://{your Staticman v3 API}/v3/entry/github/"
 
 # Build settings
 markdown: kramdown
