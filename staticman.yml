@@ -5,6 +5,11 @@
 # To encrypt strings use the following endpoint:
 # https://api.staticman.net/v2/encrypt/{TEXT TO BE ENCRYPTED}
 
+# Setting staticman in heroku is a pain in the ass!
+# usefull tutorials:
+# https://hajekj.net/2020/04/15/staticman-setup-in-app-service/
+# https://staticman.net/docs/api
+
 comments:
   # (*) REQUIRED
   #
