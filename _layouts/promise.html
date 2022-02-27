@@ -3,9 +3,7 @@ layout: page
 ---
 
 {% assign promise = site.data.[page.track_name].promises | where:'id', page.promise_id | first %}
-{% assign status = site.data.[page.track_name].statuses | where:'name', promise.status | first %}
-
-<link rel="stylesheet" type="text/css" href="../assets/css/promisepage.css">
+{% assign status = site.data.[page.track_name].statuses | where:'name', promise.status | first %}s
 
  <!-- Begin page content -->
 <div class="container">

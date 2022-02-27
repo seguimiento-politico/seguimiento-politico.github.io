@@ -5,9 +5,13 @@
 # To encrypt strings use the following endpoint:
 # https://api.staticman.net/v2/encrypt/{TEXT TO BE ENCRYPTED}
 
-# Setting staticman in heroku is a pain in the ass!
+# Setting staticman in heroku is a pain in the ass! 
+# IMPORTANT: Make sure that you remove all line breaks of your private keys and substitute them with \n
 # usefull tutorials:
 # https://hajekj.net/2020/04/15/staticman-setup-in-app-service/
+# https://travisdowns.github.io/blog/2020/02/05/now-with-comments.html#set-up-github-bot-account
+# https://spinningnumbers.org/a/staticman-heroku.html
+# https://www.gabescode.com/staticman/2019/01/04/staticman-comments-for-jekyll.html
 # https://staticman.net/docs/api
 
 comments:
@@ -15,14 +19,14 @@ comments:
   #
   # Names of the fields the form is allowed to submit. If a field that is
   # not here is part of the request, an error will be thrown.
-  allowedFields: ["name", "email", "url", "message"]
+  allowedFields: ["name", "email", "message"]
 
   # (*) REQUIRED WHEN USING NOTIFICATIONS
   #
   # When allowedOrigins is defined, only requests sent from one of the domains
   # listed will be accepted. The origin is sent as part as the `options` object
   # (e.g. <input name="options[origin]" value="http://yourdomain.com/post1")
-  # allowedOrigins: ["yourdomain.com"]
+  allowedOrigins: ["seguimiento-politico.github.io", "localhost"]
 
   # (*) REQUIRED
   #
@@ -30,7 +34,7 @@ comments:
   # request.
   branch: "master"
 
-  commitMessage: "New comment by {fields.name}"
+  commitMessage: "New comment by {fields.name} on {options.slug}"
 
   # (*) REQUIRED
   #
@@ -66,7 +70,7 @@ comments:
   #   type: "comment"
 
   # Name of the site. Used in notification emails.
-  # name: "Your Site"
+   name: "Seguimiento-politico"
 
   # Notification settings. When enabled, users can choose to receive notifications
   # via email when someone adds a reply or a new comment. This requires an account

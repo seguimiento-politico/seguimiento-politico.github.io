@@ -34,7 +34,7 @@ locale: "es-ES"
 
 repository: seguimiento-politico/seguimiento-politico.github.io
 comments:
-  provider: staticman_v2 # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "reddit", "custom"
+  provider: staticman # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "reddit", "custom"
   disqus:
     shortname: seguimiento-politico # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
