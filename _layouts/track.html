@@ -8,137 +8,128 @@ layout: page
 {% assign statuses = site.data.[page.track_name].statuses %}
 {% assign total = promises | size %}
 
-<main class="container">
+{{content}}
 
-    {{content}}
+{% include track_info.html %}
 
-    {% include track_info.html %}
+<div class="border my-3 p-3 bg-body rounded shadow-sm">
+    <h6 class="border-bottom pb-2">{{ site.data.ui-text[site.locale].track_promises_label | default: "Tracking promises of" }} {{ context.name }}</h6>
+    <div class="row pt-2">
+        <div class="row">
+            <div class="col-md-6 mb-2">
+                <ul class="list-group small">
+                    <!-- <li class="list-group-item list-group-item inauguration-time-container">
+                        <i class="fas fa-fw fa-home fa-fw"></i>
+                        <b id="inauguration-time">Days Till Inauguration: <span id="inauguration-days"><i class='loading'>Loading...</i></span></b>
+                    </li> -->
+                    <input type="text" class="d-none" name="inauguration" id="inauguration" value="{{ context.from }}">
+                    <li class="list-group-item bg-dark text-light">Selecciona para <b>filtrar por estado</b></li>
 
-    {% include updates.html %}
-    
-    <div class="border my-3 p-3 bg-body rounded shadow-sm">
-        <h6 class="border-bottom pb-2">{{ site.data.ui-text[site.locale].track_promises_label | default: "Tracking promises of" }} {{ context.name }}</h6>
-        <div class="row pt-2">
-            <div class="row">
-                <div class="col-md-6 mb-2">
-                    <ul class="list-group small">
-                        <!-- <li class="list-group-item list-group-item inauguration-time-container">
-                            <i class="fas fa-fw fa-home fa-fw"></i>
-                            <b id="inauguration-time">Days Till Inauguration: <span id="inauguration-days"><i class='loading'>Loading...</i></span></b>
-                        </li> -->
-                        <input type="text" class="d-none" name="inauguration" id="inauguration" value="{{ context.from }}">
-                        <li class="list-group-item bg-dark text-light">Selecciona para <b>filtrar por estado</b></li>
+                    {% for status in statuses %}
+                        {% assign  current = promises | where: "status", status.name | size %}
+                        {% assign calc = current | times: 100 | divided_by: total %}
 
-                        {% for status in statuses %}
-                            {% assign  current = promises | where: "status", status.name | size %}
-                            {% assign calc = current | times: 100 | divided_by: total %}
-
-                            <li class="list-group-item list-group-item-{{ status.color }} list-group-item-action d-flex justify-content-between align-items-start" data-list-facet="js-promise-status" data-facet-value="{{ status.name }}" >
-                                <span>{{ site.data.ui-text[site.locale].[status.lang_label] }}
-                                <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}"></i></span>
-                                <span class="badge bg-dark rounded-pill">{{ current }}</span>
-                            </li>
-                        {% endfor %}
-
-                    </ul>
-
-                </div>
-
-                <div class="col-md-6"> 
-                    <ul class="list-group small">
-                        <li class="list-group-item list-group-item bg-dark text-light">Selecciona para <b>filtrar por categoría</b></li>
-                    </ul>
-                        {% assign counter = 0 %}
-                        {% for category in categories %}
-                            {% assign counter = counter | plus: 1%}
-                            {% assign mod = counter | modulo: 2 %}
-                            {% if mod == 1  %}
-                                <ul class="list-group list-group-horizontal-sm small">
-                            {% endif %}
-                            
-                            {% assign  current = promises | where: "category", category.name | size %}
-                            {% assign calc = current | times: 100 | divided_by: total %}
-
-                            <li class="list-group-item list-group-item-action d-flex justify-content-between align-items-start" data-list-facet="js-promise-category" data-facet-value="{{ category.name }}" data-select-single="true">
-                                <span> {{ category.name }} <i class="text-muted fas fa-fw fa-{{ category.icon }} " title="{{ category.name }}"></i></span>
-                                
-                                 <span class="badge bg-dark rounded-pill">{{ current }}</span>
-                            </li>
-                            {% if mod == 0  %}
-                                </ul>
-                            {% endif %}
-                        {% endfor %}
-                        {% if mod == 1  %}
-                                </ul>
-                            {% endif %}
-
-                    </ul>
-
-                </div>
-            </div>
-
-        <div class="promises row pt-2" id="promises">
-            <div class="row promises__search-row py-2">
-                <div class="col mb-2">
-                    <form action="#" class="form-inline">
-                        <div class="input-group">
-                          <input type="text" class="form-control form-control-sm search" id="search" name="search" placeholder="{{ site.data.ui-text[site.locale].search_label | default: 'Search' }}">
-                          <div class="input-group-append promises__category--reset">
-                            <button class="btn btn-sm btn-outline-secondary" type="button">
-                                <i class="fas fa-fw fa-rotate"></i> {{ site.data.ui-text[site.locale].delete_filters_label | default: "Delete filters" }}
-                            </button>
-                          </div>
-                        </div>
-                    </form>
-                </div>
-            </div>
-            <div class="promises__table py-4">
-                <table class="table ">
-                    <thead>
-                    <tr class="bg-dark text-light">
-                        <th class="text-start ps-3">{{ site.data.ui-text[site.locale].promises_label | default: "Promise/s" }}</th>
-                        <th></th>
-                    </tr>
-                    </thead>
-
-                    <tbody class="list">
-                    <!-- add color to each policy -->
-                    {% for promise in promises %}
-                        {% assign status = statuses | where: "name", promise.status | first %}
-                        <tr class="list-group-item-{{ status.color }}">
-                            <td class="text-start js-promise-text">
-                                {{ forloop.index }}.
-                                <b><span class="js-promise-category">{{ promise.title }}</span></b>
-                                <span class="small">{{ promise.category }}: {{ promise.description }}</span>
-                                <!-- add status icon -->
-                                <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}"></i>
-                                <span class="d-none js-promise-status sr-only">{{ promise.status }}</span>
-                                <span class="js-promise-status sr-only">{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}</span>
-                                <!-- add superscript citations and sources -->
-                                {% for source in promise.sources %}
-                                    {% if source.type == "local_doc" %}
-                                        <sup><a class="source_sup" target="_blank" href="{{site.url}}/assets/docs/{{ source.url }}">{{ forloop.index }}</a></sup>
-                                    {% else %}
-                                        <sup><a class="source_sup" target="_blank" href="{{ source.url }}">{{ forloop.index }}</a></sup>
-                                    {% endif %}
-                                {% endfor %}
-
-                            </td>
-                            <td class="text-center">
-                                <!-- comment and twitter integration -->
-                                <a href="{{ page.dir }}{{ promise.url }}"><i class="fas fa-fw fa-chevron-right" aria-hidden="true"></i></a>
-
-                            </td>
-                        </tr>
+                        <li class="list-group-item list-group-item-{{ status.color }} list-group-item-action d-flex justify-content-between align-items-start" data-list-facet="js-promise-status" data-facet-value="{{ status.name }}" >
+                            <span>{{ site.data.ui-text[site.locale].[status.lang_label] }}
+                            <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}"></i></span>
+                            <span class="badge bg-dark rounded-pill">{{ current }}</span>
+                        </li>
                     {% endfor %}
-                    </tbody>
-
-                </table>
+                </ul>
             </div>
-               
+
+            <div class="col-md-6"> 
+                <ul class="list-group small">
+                    <li class="list-group-item list-group-item bg-dark text-light">Selecciona para <b>filtrar por categoría</b></li>
+                </ul>
+                {% assign counter = 0 %}
+                {% for category in categories %}
+                    {% assign counter = counter | plus: 1%}
+                    {% assign mod = counter | modulo: 2 %}
+                    {% if mod == 1  %}
+                    <ul class="list-group list-group-horizontal-sm small">
+                    {% endif %}
+                    
+                    {% assign  current = promises | where: "category", category.name | size %}
+                    {% assign calc = current | times: 100 | divided_by: total %}
+
+                        <li class="list-group-item list-group-item-action d-flex justify-content-between align-items-start" data-list-facet="js-promise-category" data-facet-value="{{ category.name }}" data-select-single="true">
+                            <span> {{ category.name }} <i class="text-muted fas fa-fw fa-{{ category.icon }} " title="{{ category.name }}"></i></span>
+                            
+                             <span class="badge bg-dark rounded-pill">{{ current }}</span>
+                        </li>
+                    {% if mod == 0  %}
+                        </ul>
+                    {% endif %}
+                {% endfor %}
+                {% if mod == 1  %}
+                    </ul>
+                {% endif %}
+                </ul>
+            </div>
         </div>
-        <!-- /#promises -->
+
+    <div class="promises row pt-2" id="promises">
+        <div class="row promises__search-row py-2">
+            <div class="col mb-2">
+                <form action="#" class="form-inline">
+                    <div class="input-group">
+                      <input type="text" class="form-control form-control-sm search" id="search" name="search" placeholder="{{ site.data.ui-text[site.locale].search_label | default: 'Search' }}">
+                      <div class="input-group-append promises__category--reset">
+                        <button class="btn btn-sm btn-outline-secondary" type="button">
+                            <i class="fas fa-fw fa-rotate"></i> {{ site.data.ui-text[site.locale].delete_filters_label | default: "Delete filters" }}
+                        </button>
+                      </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="promises__table py-4">
+            <table class="table ">
+                <thead>
+                <tr class="bg-dark text-light">
+                    <th class="text-start ps-3">{{ site.data.ui-text[site.locale].promises_label | default: "Promise/s" }}</th>
+                    <th></th>
+                </tr>
+                </thead>
+
+                <tbody class="list">
+                <!-- add color to each policy -->
+                {% for promise in promises %}
+                    {% assign status = statuses | where: "name", promise.status | first %}
+                    <tr class="list-group-item-{{ status.color }}">
+                        <td class="text-start js-promise-text">
+                            {{ forloop.index }}.
+                            <b><span class="js-promise-category">{{ promise.title }}</span></b>
+                            <span class="small">{{ promise.category }}: {{ promise.description }}</span>
+                            <!-- add status icon -->
+                            <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}"></i>
+                            <span class="d-none js-promise-status sr-only">{{ promise.status }}</span>
+                            <span class="js-promise-status sr-only">{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}</span>
+                            <!-- add superscript citations and sources -->
+                            {% for source in promise.sources %}
+                                {% if source.type == "local_doc" %}
+                                    <sup><a class="source_sup" target="_blank" href="{{site.url}}/assets/docs/{{ source.url }}">{{ forloop.index }}</a></sup>
+                                {% else %}
+                                    <sup><a class="source_sup" target="_blank" href="{{ source.url }}">{{ forloop.index }}</a></sup>
+                                {% endif %}
+                            {% endfor %}
+
+                        </td>
+                        <td class="text-center">
+                            <!-- comment and twitter integration -->
+                            <a href="{{ page.dir }}{{ promise.url }}"><i class="fas fa-fw fa-chevron-right" aria-hidden="true"></i></a>
+
+                        </td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+
+            </table>
+        </div>
+           
     </div>
-    
-</main>
+    <!-- /#promises -->
+</div>
+</div>    
 

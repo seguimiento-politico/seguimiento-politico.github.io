@@ -100,12 +100,12 @@ defaults:
       type: pages
     values:
       permalink: :basename
-      layout: page 
+      layout: single 
   # tracks and promises
   - scope:
       path: "tracks"
       type: pages
     values:
       permalink: :path/:basename
-      layout: track 
+      layout: promise 
       comments: true

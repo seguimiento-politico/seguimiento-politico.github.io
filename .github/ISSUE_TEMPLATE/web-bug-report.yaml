@@ -1,0 +1,63 @@
+name: Informe de errores (Bug report)
+description: Informanos sobre errores que hayas encontrado.
+title: "[Bug]: "
+labels: ["bug"]
+assignees:
+  - seguimiento-politico
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Muchas gracias por regalarnos tu tiempo al rellenar este informe!
+  - type: input
+    id: contact
+    attributes:
+      label: Email de contacto
+      description: Como nos podemos poner en contacto contigo en caso de que necesitemos ampliar detalles?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: dropdown
+    id: where
+    attributes:
+      label: ¿En donde?
+      description: Dinos en que sección de la web has encontrado el problema.
+      options:
+        - Seguimiento (tracks)
+        - Promesa 
+        - Biblioteca
+        - Laboratorio
+        - Estadísticas
+        - Otra
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: ¿Que ha funcionado mal?
+      description: Cuentanos también que esperabas que ocurriera.
+      value: "A bug happened!"
+    validations:
+      required: true
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: ¿Que navegador usaste?
+      description: Cuentanos también que esperabas que ocurriera.
+      multiple: true
+      options:
+        - Firefox
+        - Chrome
+        - Safari
+        - Microsoft Edge
+        - Brave
+        - Opera
+        - Otro
+  - type: markdown
+    attributes:
+      value: |
+        Si has hecho alguna captura de pantalla te agradeceríamos mucho que la adjuntes en este formulario también.
+  - type: markdown
+    attributes:
+      value: |
+        De nuevo, muchas gracias por tu tiempo. Intentaremos solucionar el problema tan pronto sea posible. Si nos facilitaste tu email, te informaremos cuando esté solventado.
