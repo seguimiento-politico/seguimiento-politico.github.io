@@ -1,0 +1,147 @@
+context:
+    name: Legislatura XIV
+    categorization: legislatures
+    description: Control al gobierno y oposición, comprobando su grado de cumplimiento de los compromisos electorales.
+    from: 2020-01-07 
+    goverment_type: coalition
+    goverment_parties: [PSOE, UNIDAS PODEMOS]
+    country: spain
+    institution: spanish goverments
+    track_scope: national # international, national, regional, local
+    teaser: /assets/images/logo_congreso.png
+    sources:
+        - https://www.lamoncloa.gob.es/gobierno/gobiernosporlegislaturas/Paginas/xiv_legislatura.aspx
+        - https://www.congreso.es/indice-de-iniciativas
+
+parties:
+    -
+        name: PSOE
+        seats: 120
+        votes: 6752983
+        program_doc: psoe_2019_10N.pdf
+        position: govern
+    -
+        name: PP
+        seats: 89
+        votes: 5019869
+        program_doc: pp_2019_10N.pdf
+        position: oposition
+    -
+        name: VOX
+        seats: 52
+        votes: 3640063
+        program_doc: vox_2019_10N.pdf
+        position: oposition
+    -
+        name: UNIDAS PODEMOS
+        seats: 35
+        votes: 3097185
+        program_doc: 
+            - podemos_2019_10N.pdf
+            - iu_2019_10N.
+        position: govern
+    -
+        name: ERC
+        seats: 13
+        votes: 869934
+        program_doc:
+        position: oposition
+    -
+        name: Cs
+        seats: 10
+        votes: 1637540
+        program_doc: ciudadanos_2019_10N.pdf
+        position: oposition
+    -
+        name: JxCat
+        seats: 8
+        votes: 527375
+        program_doc:
+        position: oposition
+    -
+        name: PNV
+        seats: 6
+        votes: 377423
+        program_doc:
+        position: oposition
+    -
+        name: Bildu
+        seats: 5
+        votes: 276.519
+        program_doc:
+        position: oposition
+    -
+        name: MÁS PAÍS
+        seats: 8
+        votes: 595261
+        program_doc:
+        position: oposition
+    -
+        name: CUP-PR
+        seats: 2
+        votes: 244754
+        program_doc:
+        position: oposition
+    -
+        name: CC-NC
+        seats: 2
+        votes: 123981
+        program_doc:
+        position: oposition
+    -
+        name: NA+
+        seats: 2
+        votes: 98448
+        program_doc:
+        position: oposition
+    -
+        name: BNG
+        seats: 1
+        votes: 119597
+        program_doc:
+        position: oposition
+    -
+        name: PRC
+        seats: 1
+        votes: 68580
+        program_doc:
+        position: oposition
+    -
+        name: ¡TERUEL EXISTE!
+        seats: 1
+        votes: 19696
+        program_doc:
+        position: oposition
+
+politicians:
+    -
+        name:
+        party:
+        party_position:
+            -
+                title:
+                from:
+                to:
+        public_position:
+            -
+                title:
+                from:
+                to:
+        place_representation:
+        statements:
+            -
+                title:
+                description:
+                promises_related: []
+                type: [] # Controversy, nonsense, mistake, informative, intention
+        votes:
+       
+promises:
+    -   
+        name: reforma-laboral
+        
+
+
+legislative-initiatives:
+
+

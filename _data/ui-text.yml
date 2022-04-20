@@ -68,6 +68,11 @@ es: &DEFAULT_ES
   status_achieved           : "Cumplido"
   status_compromised        : "Cumplido a medias"
   status_broken             : "Incumplido"
+  track_promises_label      : "Seguimiento de promesas en la "
+  track_info_label          : "Resumen de la "
+  select_to_label           : "Selecciona para "
+  filter_by_label           : "Filtrar por "
+  category_label            : "Categoría"
 
 es-ES:
   <<: *DEFAULT_ES

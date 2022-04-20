@@ -1,13 +1,13 @@
 <div class="card py-3 shadow-sm">
     <div class="container">
         {% for track in site.data.tracks %}
-            {% if track.show == false %}
+            {% if track.draft == true %}
                 {% continue %}
             {% endif %}
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-xl-4 g-3">
             <div class="col">
               <div class="card shadow-sm bg-light">
-                {% assign tracker_data = site.data.[track.data_source] %}
+                {% assign tracker_data = site.data.trackers.[track.data_source] %}
                 {% if tracker_data.context.teaser %}
                 <img src="{{ tracker_data.context.teaser }}" class="" alt="{{ tracker_data.context.name }}">
                 {% else %}
@@ -20,7 +20,7 @@
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
                         <a class="btn btn-sm btn-outline-primary" href="tracks/{{ track.data_source }}" role="button">{{ site.data.ui-text[site.locale].view_label | default: "view" | downcase }}</a>
-                        <a class="btn btn-sm btn-outline-secondary" href="{{ site.repository}}/master/_data/{{ track.data_source }}.yaml" role="button">{{ site.data.ui-text[site.locale].open_label | default: "open data" | downcase }}</a>
+                        <a class="btn btn-sm btn-outline-secondary" href="{{ site.repository}}/master/_data/trackers/{{ track.data_source }}.yaml" role="button">{{ site.data.ui-text[site.locale].open_label | default: "open data" | downcase }}</a>
                     </div>
                     <small class="text-muted">{{ tracker_data.promises | size }} {{ site.data.ui-text[site.locale].promises_label | default: "promises" | downcase }}</small>
                   </div>

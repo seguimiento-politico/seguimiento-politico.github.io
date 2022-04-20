@@ -4,12 +4,16 @@
         <!-- % assign not_achieved = promises | where_exp: "item", "item.status contains 'Broken' or item.status contains 'Not started' or item.status contains 'In progress'" % 
                 % assign not_achieved_percent = not_achieved | times: 100 | divided_by: total % -->
         <p>
-            <b>Comienza el</b>  {{ context.from }} <b>hasta</b>  {% if context.to %} {{ context.to }} {% else %} Actualidad {% endif %} <b>durante</b> 
+            <b>Comenzó el</b>  {{ context.from }} <b>hasta</b>  {% if context.to %} {{ context.to }} {% else %} Actualidad {% endif %} <b>durante</b> 
             <span id="days-in-office"><i class='loading'>Loading...</i></span> días
         </p>
         <p>
-            <b>Total compromisos electorales: </b> {{ promises | size }} 
+            <b>Total compromisos electorales del gobierno registrados: </b> {{ promises | size }} 
             de los cuales <span class="text-danger"> el {{ not_achieved_percent }}% no se han cumplido</span> y <span class="text-success"> el % sí.</span>
         </p> 
+        <p>
+            <b>Total compromisos electorales de la oposición registrados: </b> {{ opposition_promises | size }} 
+            de los cuales <span class="text-danger"> el {{ not_achieved_percent }}% no se han cumplido</span> y <span class="text-success"> el % sí.</span>
+        </p>
     </div>
 </div>

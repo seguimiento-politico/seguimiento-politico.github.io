@@ -1,9 +1,7 @@
 -
-  data_source: legislatura-xiv
-  country: España  
-  show: true
+  data_source: legislatura-xiv 
 -
   data_source: mala-gestion
-  show: false
+  draft: true
 
 

@@ -3,9 +3,10 @@
   // List.js classes to use for search elements
   var listOptions = {
     valueNames: [
-      'js-promise-text',
-      'js-promise-category',
-      'js-promise-status'
+      'list-text',
+      'list-party',
+      'list-category',
+      'list-status'
     ]
   };
 
@@ -68,12 +69,12 @@
     }
 
     // Hard reset all the buttons
-    $('.promises__category--reset').on('click', resetFilter);
+    $('.list-filter-reset').on('click', resetFilter);
 
     // Any facet filter button
     $facets.on('click', function(e) {
 
-      var facet = $(this).data('list-facet'); // ie 'js-promise-category'
+      var facet = $(this).data('list-facet'); // ie 'list-category or list-status'
       var value = $(this).data('facet-value'); // ie 'Culture'
       var isSingle = !!$(this).data('select-single'); // ie true/false for if there can only be one of this filter
 

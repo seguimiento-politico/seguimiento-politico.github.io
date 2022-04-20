@@ -2,8 +2,9 @@
 layout: page
 ---
 
-{% assign promise = site.data.[page.track_name].promises | where:'id', page.promise_id | first %}
-{% assign status = site.data.[page.track_name].statuses | where:'name', promise.status | first %}
+{% assign promise = site.data.promises.[page.track_name].[page.promise_name] %}
+{% assign categorization = site.data.trackers.[page.track_name].context.categorization %}
+{% assign status = site.data.categorization.[categorization].statuses | where:'name', promise.status | first %}
 
 {{ content }}
 
@@ -24,11 +25,7 @@ layout: page
             {% assign statement_source = promise.sources | where:'ref', part.statement.source_ref %}
             <blockquote class="blockquote mb-2">
                 {{forloop.index}}. {{ part.statement.quote }}
-                {% if  statement_source[0].type == "local_doc" %}
-                    <sup><a class="source_sup small" target="_blank" href="{{site.url}}/assets/docs/{{ statement_source[0].url }}">{{ statement_source[0].ref }}</a></sup>
-                {% else %}
-                    <sup><a class="source_sup small" target="_blank" href="{{ source.url }}">{{ statement_source[0].ref }}</a></sup>
-                {% endif %}
+                <sup><a class="source_sup small" href="#ref{{ statement_source[0].ref }}" title="{{ statement_source[0].title }}">{{ statement_source[0].ref }}</a></sup>
                 <footer class="blockquote-footer text-end">{{ part.statement.author }} en <cite>{{ statement_source[0].title }}</cite></footer>
             </blockquote>
             {% for fact in part.facts %}
@@ -54,11 +51,7 @@ layout: page
                 </p>
                 {% for fact_source in fact.sources %}
                     {% assign source = promise.sources | where:'ref', fact_source %}
-                   {% if source[0].type == "local_doc" %}
-                        <sup><a class="source_sup" target="_blank" href="{{site.url}}/assets/docs/{{ source[0].url }}">{{ source[0].ref }}</a></sup>
-                    {% else %}
-                        <sup><a class="source_sup" target="_blank" href="{{ source[0].url }}">{{ source[0].ref }}</a></sup>
-                    {% endif %} 
+                    <sup><a class="source_sup" href="#ref{{ source[0].ref }}" title="{{source[0].title}}">{{ source[0].ref }}</a></sup> 
                 {% endfor %}
             {% endfor %}
         {% endfor %}
@@ -73,55 +66,20 @@ layout: page
         <h6 class="card-title">Encuentra aquí todas las fuentes informativas que se han empleado para registrar este compromiso/promesa y determinar el grado de cumplimiento actual.</h6>
         {% for source in promise.sources %}
         <p class="card-text small mb-0">
-            {% if source[0].type == "local_doc" %}
-                <a class="source_sup" target="_blank" href="{{site.url}}/assets/docs/{{ source[0].url }}">{{ forloop.index }}. {{ source.title }}</a>
+            {% if source.type == "local_doc" %}
+                <a id="#ref{{source.ref}}" class="source_sup" target="_blank" href="{{site.url}}/asset.s/docs/{{ source.url }}">{{ source.ref }}. {{ source.title }}</a>
             {% else %}
-                <a class="source_sup" target="_blank" href="{{ source[0].url }}">{{ forloop.index }}. {{ source.title }}</a>
+                <a id="#ref{{source.ref}}" class="source_sup" target="_blank" href="{{ source.url }}">{{ source.ref }}. {{ source.title }}</a>
             {% endif %}
         </p>
         {% endfor %}
     </div>
 </div>
 
-<div class="border my-3 p-3 bg-body rounded shadow-sm">
-    <h6 class="border-bottom pb-2 mb-0"></small></h6>
-    <br>
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4>Referencias y bibliografía</h4>
-        </div>
-        <div class="panel-body">
-          <b></b>
-        </div>
 
-        <!-- List group -->
-        <ul class="list-group">
-            {% for source in promise.sources %}
-
-                <!-- show electoral program info -->
-                {% if source.program %}
-                    {% assign party = site.data.[dataset].parties | where:'name', promise.party | first %}
-                    {% if party.program_url %}
-                        {% for src in source.program %}
-                            <a href="{{ site.url }}/assets/docs/{{ party.program_url }}" target='_blank' class="list-group-item">Programa electoral {{ party.name }}, apartado {{ src }}</a>
-                        {% endfor %}
-                    {% else %}
-                        <li class="list-group-item">Programa electoral {{ party.name }}, apartado {{ src }}</li>
-                    {% endif %}
-                {% endif %}
-
-                <!-- show other sources -->
-                {% if source.other %}
-                    {% for src in source.other %}
-                        <a href="{{ src[1] }}" target='_blank' class="list-group-item">{{ src[0] }}</a>
-                    {% endfor %}
-                {% endif %}
-            {% endfor %}
-        </ul>
-    </div>
 
     <div class="row">
-        <a class='btn facebook' target="_blank" href="https://www.facebook.com/sharer.php?u={{site.baseurl}}/{{ promise.url }}/&title={{ promise.title }}"> <i class="fas fa-fw fa-facebook-square fa-fw" aria-hidden="true"></i> Compartir</a>
+        <a class='btn facebook' target="_blank" href="https://www.facebook.com/sharer.php?u={{site.baseurl}}/{{ promise.url }}/&title={{ promise.title }}"> <i class="fas fa-fw fa-facebook" aria-hidden="true"></i> Compartir</a>
         <a class="btn twitter" href="https://twitter.com/share?url={{site.baseurl}}/&text={{ promise.tweettext }}&hashtags=Seguimiento-politico" target="_blank"><i class="fas fa-fw fa-twitter" aria-hidden="true"></i> Tweet</a>
     </div>
-</div>
+
