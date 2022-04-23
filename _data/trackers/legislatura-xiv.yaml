@@ -5,9 +5,9 @@ context:
     from: 2020-01-07 
     goverment_type: coalition
     goverment_parties: [PSOE, UNIDAS PODEMOS]
-    country: spain
-    institution: spanish goverments
     track_scope: national # international, national, regional, local
+    country: spain
+    institution: congreso de los diputados
     teaser: /assets/images/logo_congreso.png
     sources:
         - https://www.lamoncloa.gob.es/gobierno/gobiernosporlegislaturas/Paginas/xiv_legislatura.aspx
@@ -140,8 +140,6 @@ promises:
     -   
         name: reforma-laboral
         
-
-
 legislative-initiatives:
 
 

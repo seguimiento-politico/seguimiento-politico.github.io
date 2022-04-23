@@ -1,0 +1,15 @@
+important:
+  -
+    icon: far fa-paper-plane
+    title:  A simple question?
+    answer: <strong><u>Absolutely!</u></strong> We work with top payment companies which guarantees
+              your
+              safety and
+              security. All billing information is stored on our payment processing partner.
+
+other:
+  -
+    title: pregunta
+    short_answer: si
+    full_answer: si, porque bla bla bla
+

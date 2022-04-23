@@ -18,35 +18,26 @@
 # Travis bundles all gems in the vendor directory on its build servers, which Jekyll will mistakenly read and explode on.
 # https://jekyllrb.com/docs/continuous-integration/
 
+name: Seguimiento Político
 title: Seguimiento político al gobierno 
 description: Comunidad online para con el esfuerzo colectivo hacer un seguimiento objetivo y eficaz al Gobierno, la oposición y, en general, a cualquier político español. Comprueba el grado de cumplimiento con los programas electorales y promesas hechas.
 
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: Tovarlogic
+  email: tovarlogic@gmail.com
 
 url: https://seguimiento-politico.github.io
 
 socials:
   twitter: https://twitter.com/seguimiento-politico
+  email: seguimiento-politico@gmail.com
 
 locale: "es-ES"
 
+repository-source: https://github.com/
 repository: seguimiento-politico/seguimiento-politico.github.io
 comments:
-  provider: staticman # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "reddit", "custom"
-  disqus:
-    shortname: seguimiento-politico # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-  discourse:
-    server: # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid:
-    num_posts: # 5 (default)
-    colorscheme: # "light" (default), "dark"
-  utterances:
-    theme: # "github-light" (default), "github-dark"
-    issue_term: # "pathname" (default)
+  provider: staticman 
   staticman:
     branch: master # "master"
     endpoint: https://sp-staticman.herokuapp.com/v3/entry/github/ # "https://{your Staticman v3 API}/v3/entry/github/"

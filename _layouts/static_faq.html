@@ -1,0 +1,49 @@
+---
+layout: page
+---
+
+{% assign important = site.data.faq.important %}
+{% assign other = site.data.faq.other %}
+
+<div class="card py-3 shadow-sm">
+    <div class="container">
+        <h3 class="text-center mb-4 pb-2 text-primary fw-bold">FAQ</h3>
+        <p class="text-center mb-5">
+            Encuentra aquí la respuesta a las preguntas más frecuentes
+        </p>
+        <!-- important questions section -->
+        <div class="row">
+            {% for question in important %}
+            <div class="col-md-6 col-lg-4 mb-4">
+            <h6 class="mb-3 text-primary"><i class="{{ question.icon }} text-primary pe-2"></i> 
+                {{ question.title}}
+            </h6>
+            <p>
+                {{ question.answer }}
+            </p>
+            </div>
+            {% endfor %}
+        </div>
+        <br>
+        <!-- other questions section -->
+        <div class="list-group w-100">
+            {% for question in other %}
+            <a href="#AnswerCollapse" role="button" data-bs-toggle="collapse" data-bs-target="#AnswerCollapse{{forloop.index}}" aria-expanded="false" aria-controls="AnswerCollapse{{forloop.index}}" class="list-group-item list-group-item-action">
+              <div class="d-flex w-100 justify-content-between">
+                <h5 class="mb-1">
+                    {{ question.title}}
+                </h5>
+              </div>
+              <p class="mb-1">
+                {{ question.short_answer}}
+              </p>
+              <small><u>ver más</u></small>
+              <!-- Collapsed content -->
+              <div class="collapse mt-3" id="AnswerCollapse{{forloop.index}}">
+                {{ question.full_answer}}
+              </div>
+            </a>
+            {% endfor %}
+          </div>
+    </div>
+</div>

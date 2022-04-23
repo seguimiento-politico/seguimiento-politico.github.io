@@ -2,20 +2,36 @@
 layout: page
 ---
 
+{% assign context = site.data.trackers.[page.track_name].context %}
 {% assign promise = site.data.promises.[page.track_name].[page.promise_name] %}
 {% assign categorization = site.data.trackers.[page.track_name].context.categorization %}
 {% assign status = site.data.categorization.[categorization].statuses | where:'name', promise.status | first %}
 
 {{ content }}
 
+{% include breadcrumb.html %}
+
 <div class="callout callout-{{ status.color }} my-3 p-3 bg-body shadow-sm border-{{ status.color }}">
-    <h6 class="border-bottom pb-2 mb-0"><b>{{ promise.title }}</b><small class="text-muted"> {{ promise.category }}</small></h6> 
+    <h6 class="border-bottom pb-2 d-flex justify-content-between align-items-start">
+        <span class="align-self-center">
+            <b>{{ promise.title }}</b><small class="text-muted"> {{ promise.category }}</small>
+        </span>
+        <a class="btn btn-sm btn-primary" href="{{page.url}}/edit-promise">
+            <i class="fas fa-fw fa-pen"></i> Editar promesa
+        </a>
+    </h6>
     {% if promise.description %}
     <p class="lead">{{ promise.description }}</p>
     <br>
     {% endif %}
     <p>El estado de este compromiso es <span class="text-{{ status.color }} bold"> {{ site.data.ui-text[site.locale].[status.lang_label] }} <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}"></i> </span> debido a que {{ promise.status_info }}</p>
-    <p class="text-end text-muted small mb-0"> Última revisión: {{promise.last_modified }}</p>
+    <p class="text-end text-muted small mb-0"> 
+        {{ site.data.ui-text[site.locale].last_review | default: "Last review" }}:
+        {{ promise.last_modified | date: "%-d" }}
+        {% assign m = promise.last_modified | date: "%-m" | minus: 1 %}
+        {{ site.data.ui-text[site.locale].months[m] }}
+        {{ promise.last_modified | date: "%Y" }}
+    </p>
 </div>
 
 <div class="card my-3">
@@ -25,7 +41,7 @@ layout: page
             {% assign statement_source = promise.sources | where:'ref', part.statement.source_ref %}
             <blockquote class="blockquote mb-2">
                 {{forloop.index}}. {{ part.statement.quote }}
-                <sup><a class="source_sup small" href="#ref{{ statement_source[0].ref }}" title="{{ statement_source[0].title }}">{{ statement_source[0].ref }}</a></sup>
+                <sup><a class="source_sup small" href="#references" title="{{ statement_source[0].title }}">{{ statement_source[0].ref }}</a></sup>
                 <footer class="blockquote-footer text-end">{{ part.statement.author }} en <cite>{{ statement_source[0].title }}</cite></footer>
             </blockquote>
             {% for fact in part.facts %}
@@ -51,7 +67,7 @@ layout: page
                 </p>
                 {% for fact_source in fact.sources %}
                     {% assign source = promise.sources | where:'ref', fact_source %}
-                    <sup><a class="source_sup" href="#ref{{ source[0].ref }}" title="{{source[0].title}}">{{ source[0].ref }}</a></sup> 
+                    <sup><a class="source_sup" href="#references" title="{{source[0].title}}">{{ source[0].ref }}</a></sup> 
                 {% endfor %}
             {% endfor %}
         {% endfor %}
@@ -59,7 +75,7 @@ layout: page
 </div>
 
 <div class="card my-3">
-    <div class="card-header">
+    <div class="card-header" id="references">
         Fuentes y referencias
     </div>
     <div class="card-body">
@@ -67,9 +83,9 @@ layout: page
         {% for source in promise.sources %}
         <p class="card-text small mb-0">
             {% if source.type == "local_doc" %}
-                <a id="#ref{{source.ref}}" class="source_sup" target="_blank" href="{{site.url}}/asset.s/docs/{{ source.url }}">{{ source.ref }}. {{ source.title }}</a>
+                <a class="source_sup" target="_blank" href="{{site.url}}/assets/docs/{{ source.url }}">{{ source.ref }}. {{ source.title }}</a>
             {% else %}
-                <a id="#ref{{source.ref}}" class="source_sup" target="_blank" href="{{ source.url }}">{{ source.ref }}. {{ source.title }}</a>
+                <a class="source_sup" target="_blank" href="{{ source.url }}">{{ source.ref }}. {{ source.title }}</a>
             {% endif %}
         </p>
         {% endfor %}

@@ -29,6 +29,19 @@ en: &DEFAULT_EN
   status_achieved           : "Achieved"
   status_compromised        : "Compromised"
   status_broken             : "Broken"
+  months: 
+    - January 
+    - February 
+    - March 
+    - April 
+    - May 
+    - June 
+    - July
+    - August 
+    - September 
+    - October 
+    - November 
+    - December
 
 en-US:
   <<: *DEFAULT_EN
@@ -73,9 +86,40 @@ es: &DEFAULT_ES
   select_to_label           : "Selecciona para "
   filter_by_label           : "Filtrar por "
   category_label            : "Categoría"
+  last_review               : "Última revisión"
+  months:
+    - Enero
+    - Febrero
+    - Marzo
+    - Abril
+    - Mayo
+    - Junio
+    - Julio
+    - Agosto
+    - Septiembre
+    - Octubre
+    - Noviembre
+    - Diciembre
 
 es-ES:
   <<: *DEFAULT_ES
-es-CO:
-  <<: *DEFAULT_ES
 
+# french
+# -------
+fr: &DEFAULT_FR
+  months:
+    - Janvier
+    - Février
+    - Mars
+    - Avril
+    - Mai
+    - Juin
+    - Juillet
+    - Aout
+    - Septembre
+    - Octobre
+    - Novembre
+    - Décembre
+
+fr-FR:
+  <<: *DEFAULT_FR
