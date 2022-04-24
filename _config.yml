@@ -42,6 +42,10 @@ comments:
     branch: master # "master"
     endpoint: https://sp-staticman.herokuapp.com/v3/entry/github/ # "https://{your Staticman v3 API}/v3/entry/github/"
 
+logos_path: /assets/images/parties/
+programs_path: /assets/docs/programs/
+institutions_path: /assets/images/institutions/
+
 # Build settings
 markdown: kramdown
 

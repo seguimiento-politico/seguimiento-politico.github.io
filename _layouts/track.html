@@ -5,9 +5,21 @@ layout: page
 {% assign context = site.data.trackers.[page.track_name].context %}
 {% assign categories = site.data.categorization.[context.categorization].categories %}
 {% assign statuses = site.data.categorization.[context.categorization].statuses %}
-{% assign promises = site.data.trackers.[page.track_name].promises %}
+{% assign promises = site.data.promises.[page.track_name] %}
 {% assign total = promises | size %}
-{% assign parties = site.data.parties.[context.country] %}
+{% assign parties_data = site.data.parties.[context.country] %}
+
+<!-- Parties logo path -->
+{% assign logos_path = site.logos_path %}
+{% if context.scope == "national" or context.scope == "regional" or context.scope == "local" and context.country %}
+    {% assign logos_path = logos_path | append: context.country | append: '/' %}
+    {% if context.region %}
+        {% assign logos_path = logos_path | append: context.region | append: '/' %}
+        {% if context.locality %}
+            {% assign logos_path = logos_path | append: context.locality | append: '/' %}
+        {% endif %}
+    {% endif %}
+{% endif %}
 
 <!-- "COUNTER ARRAYS"
 could not create an associative array so a created two arrays: 
@@ -30,28 +42,27 @@ could not create an associative array so a created two arrays:
     {% assign category_counters = category_counters | push: 0 %}
 {% endfor %}
 
-{% for promise in promises %}
-    {% assign promise_info = site.data.promises.[page.track_name].[promise.name] %}
+
+{% for promise_data in promises %}
+    {% assign promise = promise_data[1] %}
     {% assign status_counters2 =  "" | split: "," %}
     {% assign category_counters2 =  "" | split: "," %}
     
     {% for name in status_names %}
-        {% if name == promise_info.status %}
+        {% if name == promise.status %}
             {% assign counter =  status_counters[forloop.index0] | plus:1 %}
             {% assign status_counters2 = status_counters2 | push: counter %}
         {% else %}
             {% assign status_counters2 = status_counters2 | push: status_counters[forloop.index0] %}
         {% endif %}
-        <br>
     {% endfor %}
     {% for name in category_names %}
-        {% if name == promise_info.category %}
+        {% if name == promise.category %}
             {% assign counter =  category_counters[forloop.index0] | plus:1 %}
             {% assign category_counters2 = category_counters2 | push: counter %}
         {% else %}
             {% assign category_counters2 = category_counters2 | push: category_counters[forloop.index0] %}
         {% endif %}
-        <br>
     {% endfor %}
     
     {% assign status_counters = status_counters2 %}
@@ -162,28 +173,43 @@ could not create an associative array so a created two arrays:
 
                 <tbody class="list">
                 <!-- add color to each policy -->
-                {% for promise in promises %}
-                    {% assign promise_info = site.data.promises.[page.track_name].[promise.name] %}
-                    {% assign status = statuses | where: "name", promise_info.status | first %}
-                    {% assign category = categories | where: "name", promise_info.category | first %}
-                    {% assign party = parties | where: "name", promise_info.party | first %}
+                {% for promise_data in promises %}
+                    {% assign promise = promise_data[1] %}
+                    {% assign status = statuses | where: "name", promise.status | first %}
+                    {% assign category = categories | where: "name", promise.category | first %}
+                    {% assign party = parties_data.parties | where: "name", promise.party | first %}
                     <tr class="list-group-item-{{ status.color }}">
-                        <td class="list-party" style="color:{{ party.color }};">{{ promise_info.party }}</td>
+                        <td class="list-party" style="color:{{ party.color }};">
+                            {% assign exists = false %}
+                            {% assign party_name = party.name | slugify %}
+                            {% for static_file in site.static_files %}
+                                {% assign path = logos_path | append: party_name | append: '.gif'  %}
+                                {% if static_file.path == path %}
+                                    {% assign exists = true %}
+                                {% endif %}
+                            {% endfor %}
+                            {% if exists %}
+                                <img src="{{ path }}" alt="{{ party.name }}" width="35" height="35">
+                                <span class="d-none">{{ party.name }}</span>
+                            {% else %}
+                                {{ party.name }}
+                            {% endif %}
+                        </td>
                         <td>
-                            <span class="list-category">{{ promise_info.category }}</span>
+                            <span class="list-category">{{ promise.category }}</span>
                             <span><i class="text-muted fas fa-fw fa-{{ category.icon }} " title="{{ category.name }}"></i></span>
                         </td>
                         <td class="list-text">
-                            <span><b>{{ promise_info.title }}:</b></span>
-                            <span>{{ promise_info.description }}</span>
+                            <span><b>{{ promise.title }}:</b></span>
+                            <span>{{ promise.description }}</span>
                         </td>
                         <td>
-                            <span class="d-none sr-only list-status">{{ promise_info.status }}</span>
+                            <span class="d-none sr-only list-status">{{ promise.status }}</span>
                             <span>{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}</span>
                             <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}"></i>
                         </td>
                         <td class="text-center">
-                            <a class="btn btn-primary" href="{{ page.dir }}{{ promise.name }}">
+                            <a class="btn btn-primary" href="{{ page.dir }}{{promise.party | slugify | append: '_' }}{{ promise.title | slugify }}">
                                 <span class="d-inline-block align-middle"><i class="fas fa-fw fa-angle-right"></i></span>
                             </a>
                         </td>

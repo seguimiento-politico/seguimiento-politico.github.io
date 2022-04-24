@@ -2,13 +2,13 @@ context:
     name: Legislatura XIV
     categorization: legislatures
     description: Control al gobierno y oposición, comprobando su grado de cumplimiento de los compromisos electorales.
+    elections: 2019-19N
     from: 2020-01-07 
     goverment_type: coalition
     goverment_parties: [PSOE, UNIDAS PODEMOS]
-    track_scope: national # international, national, regional, local
-    country: spain
-    institution: congreso de los diputados
-    teaser: /assets/images/logo_congreso.png
+    scope: national # international, national, regional, local
+    country: spain # if scope is "international" then instead of "country:" use "organization:"
+    institution: congreso
     sources:
         - https://www.lamoncloa.gob.es/gobierno/gobiernosporlegislaturas/Paginas/xiv_legislatura.aspx
         - https://www.congreso.es/indice-de-iniciativas
@@ -17,101 +17,84 @@ parties:
     -
         name: PSOE
         seats: 120
-        votes: 6752983
         program_doc: psoe_2019_10N.pdf
-        position: govern
+        position: government
     -
         name: PP
         seats: 89
-        votes: 5019869
         program_doc: pp_2019_10N.pdf
-        position: oposition
+        position: opposition
     -
         name: VOX
         seats: 52
-        votes: 3640063
         program_doc: vox_2019_10N.pdf
-        position: oposition
+        position: opposition
     -
         name: UNIDAS PODEMOS
-        seats: 35
-        votes: 3097185
+        aliance_of: [IU, Podemos]
+        seats: 26
         program_doc: 
             - podemos_2019_10N.pdf
             - iu_2019_10N.
-        position: govern
+        position: government
     -
         name: ERC
         seats: 13
-        votes: 869934
-        program_doc:
-        position: oposition
+        position: opposition
     -
         name: Cs
         seats: 10
-        votes: 1637540
         program_doc: ciudadanos_2019_10N.pdf
-        position: oposition
+        position: opposition
     -
         name: JxCat
         seats: 8
-        votes: 527375
-        program_doc:
-        position: oposition
+        position: opposition
+    -
+        name: En Comú Podem
+        seats: 7
+        position: government
     -
         name: PNV
         seats: 6
         votes: 377423
-        program_doc:
-        position: oposition
+        position: opposition
     -
-        name: Bildu
+        name: Eh Bildu
         seats: 5
-        votes: 276.519
-        program_doc:
-        position: oposition
+        position: opposition
     -
-        name: MÁS PAÍS
-        seats: 8
-        votes: 595261
-        program_doc:
-        position: oposition
+        name: MÁS PAÍS EQUO
+        seats: 2
+        position: opposition
     -
         name: CUP-PR
         seats: 2
-        votes: 244754
-        program_doc:
-        position: oposition
+        position: opposition
     -
         name: CC-NC
         seats: 2
-        votes: 123981
-        program_doc:
-        position: oposition
+        position: opposition
     -
         name: NA+
         seats: 2
-        votes: 98448
-        program_doc:
-        position: oposition
+        position: opposition
+    -
+        name: En Común Unidas Podemos
+        seats: 2
+        position: government
     -
         name: BNG
         seats: 1
-        votes: 119597
-        program_doc:
-        position: oposition
+        position: opposition
     -
         name: PRC
         seats: 1
-        votes: 68580
-        program_doc:
-        position: oposition
+        position: opposition
     -
         name: ¡TERUEL EXISTE!
         seats: 1
-        votes: 19696
-        program_doc:
-        position: oposition
+        position: opposition
 
 politicians:
     -
@@ -135,10 +118,6 @@ politicians:
                 promises_related: []
                 type: [] # Controversy, nonsense, mistake, informative, intention
         votes:
-       
-promises:
-    -   
-        name: reforma-laboral
         
 legislative-initiatives:
 

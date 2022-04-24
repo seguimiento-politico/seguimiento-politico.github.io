@@ -4,13 +4,24 @@
             {% if track[1].draft == true %}
                 {% continue %}
             {% endif %}
+            {% assign teaser = site.institutions_path %}
+            {% if track[1].context.scope == "national" or track[1].context.scope == "regional" or track[1].context.scope == "local" and track[1].context.country %}
+              {% assign teaser = teaser | append: track[1].context.country | append: '/' %}
+              {% if track[1].context.region %}
+                {% assign teaser = teaser | append: track[1].context.region | append: '/' %}
+                    {% if track[1].context.locality %}
+                        {% assign teaser = teaser | append: track[1].context.locality | append: '/' %}
+                    {% endif %}
+              {% endif %}
+            {% endif %}
+            {% if track[1].context.institution %}
+              {% assign teaser = teaser | append: track[1].context.institution | append: '.png' %}
+            {% endif %}
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-xl-4 g-3">
             <div class="col">
               <div class="card shadow-sm bg-light">
-                {% if track[1].context.teaser %}
-                <img src="{{ track[1].context.teaser }}" class="" alt="{{ track[1].context.name }}">
-                {% else %}
-                <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>{{ track[1].context.name }}</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">{{ track[1].context.name }}</text></svg>
+                {% if teaser != site.teaser %}
+                  <img src="{{ teaser }}" class="" alt="{{ track[1].context.institution }}">
                 {% endif %}
                 <div class="card-body">
                 <h5 class="card-title">{{ track[1].context.name }}</h5>
