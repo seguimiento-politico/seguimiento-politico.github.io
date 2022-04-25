@@ -8,7 +8,7 @@ import yaml
 # PATHS
 data_path = os.getcwd() + '/_data'
 trackers_path = data_path + '/trackers'
-promises_path = data_path + '/promises'
+promises_path = data_path + '/track_items'
 
 tracks_path = os.getcwd() + '/tracks'
 
@@ -44,7 +44,7 @@ for track in trackers:
         # create promise file
         path = tracks_path + '/' + dirname[0] + '/' + filename[0] + '.md'
         if not os.path.exists(path):
-            index_content = "---\ntrack_name: " + dirname[0] + "\npromise_name: " + filename[0] + "\n---"
+            index_content = "---\ntrack_name: " + dirname[0] + "\nitem_name: " + filename[0] + "\n---"
             with open(path, 'w') as f:
                 f.write(index_content)
             print("File " , path,  " Created ")
