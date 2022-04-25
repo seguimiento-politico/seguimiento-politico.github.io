@@ -35,8 +35,7 @@
 </nav>
 
 <!-- Dont show secondary nay in Tracks and Promises pages -->
-{% if page.track_name == nil %}
-<!--
+<!--{% if page.track_name == nil %}
 <div class="nav-scroller bg-body shadow-sm">
   <nav class="nav nav-underline" aria-label="Secondary navigation">
     <a class="nav-link" href="stats/#colaborators">
@@ -59,15 +58,15 @@
           {% assign total_promises = total_promises | plus: track_promises %}
         {% endfor %}
         <span class="badge bg-light text-dark rounded-pill align-text-bottom">{{ total_promises }}</span>
-    </a>-->
-    <!-- <a class="nav-link" href="#">Link</a>
+    </a>
     <a class="nav-link" href="#">Link</a>
     <a class="nav-link" href="#">Link</a>
     <a class="nav-link" href="#">Link</a>
-    <a class="nav-link" href="#">Link</a> -->
-  <!-- </nav>
-</div>-->
-{% endif %}
+    <a class="nav-link" href="#">Link</a>
+    <a class="nav-link" href="#">Link</a> 
+  </nav>
+</div>
+{% endif %}-->
 
 
         
