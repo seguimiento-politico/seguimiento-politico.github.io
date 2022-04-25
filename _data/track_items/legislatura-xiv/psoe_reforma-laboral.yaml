@@ -1,12 +1,11 @@
-UID: legislatura-xiv_psoe_reforma-laboral # UID structure -> TRACKER_PARTY_PROMISE
 title: 'Reforma laboral'
 description: 'Derogación urgente de los aspectos más lesivos de la reforma laboral, combatiendo la precariedad y el fraude laboral.'
 status: Cumplido a medias
-status_info: 'no se ha realizado un derogación completa de la reforma laboral anterior realizada por el PP de Mariano Rajoy. No obstante, el compromiso no detalla cuáles son los "aspectos más lesivos", por lo que cualquier conclusión que se obtenga tendrá un fuerte comoponente subjetivo.'
+status_info: 'Se ha realizado una derogación parcial de la reforma laboral anterior. Como la promesa es ambigua, cualquier conclusión taxativa es imposible.'
 category: Economía, trabajo y hacienda
 tags: [Empleo]
 party: PSOE
-promises_related: # use UID to reference related promises
+related: # use UID to reference related promises
 last_modified: 2022-02-26
 sources:
     -
@@ -45,15 +44,31 @@ analysis:
             author: PSOE
             author_type: party # party, politician
             source_ref: 1  
+        
+        statement_quality:
+            defects:
+                -
+                    type: Ambigüedad
+                    reason: La promesa no define cuales son los «aspectos más lesivos» a derogar. No queda claro, si sólo se pretende una derogación parcial o también una reforma.
+                -
+                    type: Sin plazo temporal
+                    reason: Da un carácter «urgente» a la promesa, pero no determina un plazo a cumplir.
+            virtues:
+                -
+                    type: Objetivo concreto
+                    reason: Se define como objetivo claro combatir la «precariedad y el fraude laboral»
+
         facts:
             -
-                reasoning: "El hecho es que efectivamente se ha realizado una reforma de la legislación laboral."
-                author: # party, politician, anyname or null
+                reasoning: "El hecho es que efectivamente se ha realizado una reforma parcial de la legislación laboral."
                 sources: [2,3]
                 outcome: 'yes' # yes, no, maybe, irrelevant
             -
-                reasoning: "La promesa en ambigua porque no define cuales son los «aspectos más lesivos». Dicho esto, cualquier análisis objetivo resulta imposible. Para poder concretar el ámbito de la promesa será necesario añadir fuentes provenientes de hemeroteca, con declaraciones de los representantes del partido."
-                author: # party, politician, anyname or null
+                reasoning: "Dada la inespecificidad de la promesa, resulta imposible determinar sin género de duda el grado de cumplimiento. Para poder concretar el ámbito de la promesa será necesario añadir fuentes provenientes de hemeroteca, con declaraciones de los representantes del partido."
+                outcome: 'maybe' # yes, no, maybe, irrelevant
+            -
+                reasoning: "En cuanto a la rapidez o urgencia de la reforma, esta entró en vigor el 28 de Diciembre de 2021, casi dos años después de la investidura."
+                sources: [2]
                 outcome: 'maybe' # yes, no, maybe, irrelevant
 
         aditional_info:

@@ -45,7 +45,7 @@ comments:
 
 logos_path: /assets/images/parties/
 programs_path: /assets/docs/programs/
-institutions_path: /assets/images/institutions/
+teasers_path: /assets/images/teasers/
 
 # Build settings
 markdown: kramdown
@@ -103,5 +103,5 @@ defaults:
       type: pages
     values:
       permalink: :path/:basename
-      layout: promise 
+      layout: track_item 
       comments: true

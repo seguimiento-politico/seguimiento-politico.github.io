@@ -5,8 +5,8 @@ layout: page
 {% assign context = site.data.trackers.[page.track_name].context %}
 {% assign categories = site.data.categorization.[context.categorization].categories %}
 {% assign statuses = site.data.categorization.[context.categorization].statuses %}
-{% assign promises = site.data.promises.[page.track_name] %}
-{% assign total = promises | size %}
+{% assign items = site.data.track_items.[page.track_name] %}
+{% assign total = items | size %}
 {% assign parties_data = site.data.parties.[context.country] %}
 
 <!-- Parties logo path -->
@@ -43,13 +43,13 @@ could not create an associative array so a created two arrays:
 {% endfor %}
 
 
-{% for promise_data in promises %}
-    {% assign promise = promise_data[1] %}
+{% for item_data in items %}
+    {% assign item = item_data[1] %}
     {% assign status_counters2 =  "" | split: "," %}
     {% assign category_counters2 =  "" | split: "," %}
     
     {% for name in status_names %}
-        {% if name == promise.status %}
+        {% if name == item.status %}
             {% assign counter =  status_counters[forloop.index0] | plus:1 %}
             {% assign status_counters2 = status_counters2 | push: counter %}
         {% else %}
@@ -57,7 +57,7 @@ could not create an associative array so a created two arrays:
         {% endif %}
     {% endfor %}
     {% for name in category_names %}
-        {% if name == promise.category %}
+        {% if name == item.category %}
             {% assign counter =  category_counters[forloop.index0] | plus:1 %}
             {% assign category_counters2 = category_counters2 | push: counter %}
         {% else %}
@@ -74,7 +74,7 @@ could not create an associative array so a created two arrays:
 
 {% include breadcrumb.html %}
 
-{% include track_info.html %}
+{% include promises_header.html %}
 
 <div class="border my-3 p-3 bg-body rounded shadow-sm"> 
     <h6 class="border-bottom pb-2 d-flex justify-content-between align-items-start">
@@ -173,11 +173,11 @@ could not create an associative array so a created two arrays:
 
                 <tbody class="list">
                 <!-- add color to each policy -->
-                {% for promise_data in promises %}
-                    {% assign promise = promise_data[1] %}
-                    {% assign status = statuses | where: "name", promise.status | first %}
-                    {% assign category = categories | where: "name", promise.category | first %}
-                    {% assign party = parties_data.parties | where: "name", promise.party | first %}
+                {% for item_data in items %}
+                    {% assign item = item_data[1] %}
+                    {% assign status = statuses | where: "name", item.status | first %}
+                    {% assign category = categories | where: "name", item.category | first %}
+                    {% assign party = parties_data.parties | where: "name", item.party | first %}
                     <tr class="list-group-item-{{ status.color }}">
                         <td class="list-party" style="color:{{ party.color }};">
                             {% assign exists = false %}
@@ -196,20 +196,20 @@ could not create an associative array so a created two arrays:
                             {% endif %}
                         </td>
                         <td>
-                            <span class="list-category">{{ promise.category }}</span>
+                            <span class="list-category">{{ item.category }}</span>
                             <span><i class="text-muted fas fa-fw fa-{{ category.icon }} " title="{{ category.name }}"></i></span>
                         </td>
                         <td class="list-text">
-                            <span><b>{{ promise.title }}:</b></span>
-                            <span>{{ promise.description }}</span>
+                            <span><b>{{ item.title }}:</b></span>
+                            <span>{{ item.description }}</span>
                         </td>
                         <td>
-                            <span class="d-none sr-only list-status">{{ promise.status }}</span>
+                            <span class="d-none sr-only list-status">{{ item.status }}</span>
                             <span>{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}</span>
                             <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}"></i>
                         </td>
                         <td class="text-center">
-                            <a class="btn btn-primary" href="{{ page.dir }}{{promise.party | slugify | append: '_' }}{{ promise.title | slugify }}">
+                            <a class="btn btn-primary" href="{{ page.dir }}{{item.party | slugify | append: '_' }}{{ item.title | slugify }}">
                                 <span class="d-inline-block align-middle"><i class="fas fa-fw fa-angle-right"></i></span>
                             </a>
                         </td>

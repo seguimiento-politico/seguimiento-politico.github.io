@@ -4,7 +4,7 @@
             {% if track[1].draft == true %}
                 {% continue %}
             {% endif %}
-            {% assign teaser = site.institutions_path %}
+            {% assign teaser = site.teasers_path %}
             {% if track[1].context.scope == "national" or track[1].context.scope == "regional" or track[1].context.scope == "local" and track[1].context.country %}
               {% assign teaser = teaser | append: track[1].context.country | append: '/' %}
               {% if track[1].context.region %}
@@ -32,6 +32,7 @@
                         <a class="btn btn-sm btn-outline-primary" href="tracks/{{ track[0] }}" role="button">{{ site.data.ui-text[site.locale].view_label | default: "view" | downcase }}</a>
                         <a class="btn btn-sm btn-outline-secondary" href="{{ site.raw-repository-source }}{{ site.repository}}/master/_data/trackers/{{ track[0] }}.yaml" role="button">{{ site.data.ui-text[site.locale].open_label | default: "open data" | downcase }}</a>
                     </div>
+
                     <small class="text-muted">{{ track[1].promises | size }} {{ site.data.ui-text[site.locale].promises_label | default: "promises" | downcase }}</small>
                   </div>
                 </div>
