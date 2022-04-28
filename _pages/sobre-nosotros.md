@@ -1,6 +1,6 @@
 ---
-title: Conócenos"
-lastmod: 2022-04-23T15:14:00.893Z
+title: Conócenos
+lastmod: 2022-04-25T19:34:13.573Z
 ---
 
 ## ¿Qué es {{ site.name }}?

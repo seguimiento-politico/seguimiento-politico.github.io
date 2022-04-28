@@ -87,8 +87,16 @@ es: &DEFAULT_ES
   filter_by_label           : "Filtrar por "
   category_label            : "Categoría"
   last_review               : "Última revisión"
+  specifity                 : "Específicidad y claridad"
+  measurability             : "Medible"
+  realistic                 : "Realista"
+  time_bound                : "Plazo temporal"
+  promise_characteristics   : "Características del compromiso"
+  statement_complieance_yes : "Cumplido"
+  statement_complieance_maybe : "Quizás cumplido"
+  statement_complieance_no  : "No cumplido"
+  statement_complieance_not_known: "Desconocido o irrelevante"
   months:
-    - Enero
     - Febrero
     - Marzo
     - Abril

@@ -1,0 +1,7 @@
+{% if track_data.config.scope == 'national' %}
+    {% assign categories = site.data.categorization.[track_data.config.country].[track_data.config.categorization].categories %}
+    {% assign statuses = site.data.categorization.[track_data.config.country].[track_data.config.categorization].statuses %}
+{% elsif track_data.config.scope == 'international' %}
+    {% assign categories = site.data.categorization.[track_data.config.organization].[track_data.config.categorization].categories %}
+    {% assign statuses = site.data.categorization.[track_data.config.organization].[track_data.config.categorization].statuses %}
+{% endif %}

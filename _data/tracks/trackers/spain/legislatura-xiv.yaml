@@ -1,14 +1,20 @@
+config:
+    type: politics
+    subtype: promises
+    agents: parties
+    categorization: promesas-electorales-estado
+    scope: national # internationa, national, regional or local
+    country: spain # if scope is "international" then instead of "country:" use "organization:"
+    institution: congreso
+    lang: es
+ 
 context:
     name: Legislatura XIV
-    categorization: legislatures
-    description: Control al gobierno y oposición, comprobando su grado de cumplimiento de los compromisos electorales.
+    description: Control sobre el grado de cumplimiento de los compromisos electorales de los socios de gobierno y la oposición.
     elections: 2019-19N
     from: 2020-01-07 
     goverment_type: coalition
     goverment_parties: [PSOE, UNIDAS PODEMOS]
-    scope: national # international, national, regional, local
-    country: spain # if scope is "international" then instead of "country:" use "organization:"
-    institution: congreso
     sources:
         - https://www.lamoncloa.gob.es/gobierno/gobiernosporlegislaturas/Paginas/xiv_legislatura.aspx
         - https://www.congreso.es/indice-de-iniciativas
@@ -94,30 +100,25 @@ parties:
     -
         name: ¡TERUEL EXISTE!
         seats: 1
-        position: opposition
+        position: opposition    
 
-politicians:
+polititians:
     -
-        name:
-        party:
-        party_position:
-            -
-                title:
-                from:
-                to:
-        public_position:
-            -
-                title:
-                from:
-                to:
-        place_representation:
-        statements:
-            -
-                title:
-                description:
-                promises_related: []
-                type: [] # Controversy, nonsense, mistake, informative, intention
-        votes:
+        name: Pedro Sánchez Pérez-Castejón
+        positions: 
+            goverment:
+                -
+                    place: president
+                    from:
+                    to:
+            party: 
+                -
+                    name: PSOE
+                    place: president
+                    from:
+                    to:
+        
+        
         
 legislative-initiatives:
 

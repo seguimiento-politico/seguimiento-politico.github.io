@@ -1,150 +1,27 @@
 ---
 layout: page
 ---
-
-{% assign context = site.data.trackers.[page.track_name].context %}
-{% assign item = site.data.track_items.[page.track_name].[page.item_name] %}
-{% assign categorization = site.data.trackers.[page.track_name].context.categorization %}
-{% assign status = site.data.categorization.[categorization].statuses | where:'name', item.status | first %}
-{% assign parties_data = site.data.parties.[context.country] %}
-
-{% assign party_data = parties_data.parties | where: "name", item.party %}
-<!-- Parties logo path -->
-{% assign logos_path = site.logos_path %}
-{% if context.scope == "national" or context.scope == "regional" or context.scope == "local" and context.country %}
-    {% assign logos_path = logos_path | append: context.country | append: '/' %}
-    {% if context.region %}
-        {% assign logos_path = logos_path | append: context.region | append: '/' %}
-        {% if context.locality %}
-            {% assign logos_path = logos_path | append: context.locality | append: '/' %}
-        {% endif %}
-    {% endif %}
-{% endif %}
-
-{% assign exists = false %}
-{% assign party_name = item.party | slugify %}
-{% for static_file in site.static_files %}
-    {% assign path = logos_path | append: party_name | append: '.gif'  %}
-    {% if static_file.path == path %}
-        {% assign logos_path = path %}
-        {% assign exists = true %}
-    {% endif %}
-{% endfor %}
+<!-- load common variables -->
+{% assign track_data = site.data.tracks.trackers.[page.subfolder].[page.track_name] %}
+{% assign item = site.data.tracks.items.[page.subfolder].[page.track_name].[page.item_name] %}
 
 {{ content }}
 
 {% include breadcrumb.html %}
 
-<div class="callout callout-{{ status.color }} my-3 p-3 bg-body shadow-sm border-{{ status.color }}">
-    <h6 class="border-bottom pb-2 d-flex justify-content-between align-items-start">
-        <span class="align-self-center">
-            {% if exists %}
-                <img src="{{ logos_path }}" alt="{{ item.party }}" width="35" height="35">
-            {% else %}
-                <span style="color:{{ party_data[0].color }};">{{ item.party }}</span>
-            {% endif %}              
-            <b>{{ item.title }}</b>
-            <small class="text-muted"> {{ item.category }}</small>
-        </span>
-        <div class="btn-group">
-            <a class="btn btn-sm btn-primary" href="{{page.url}}/edit-item">
-                <i class="fas fa-fw fa-pen"></i> Editar promesa
-            </a>
-            <a class="btn btn-sm btn-outline-secondary" href="{{ site.raw-repository-source }}{{ site.repository}}/master/_data/track_items/{{page.track_name}}/{{page.item_name}}.yaml" role="button">{{ site.data.ui-text[site.locale].open_label | default: "open data" | downcase }}</a>
-        </div>
-        
-    </h6>
-    {% if item.description %}
-    <p class="lead">{{ item.description }}</p>
-    <br>
-    {% endif %}
-    <p>El estado de este compromiso es <span class="text-{{ status.color }} bold"> {{ site.data.ui-text[site.locale].[status.lang_label] }} <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}"></i> </span> debido a que: <br> {{ item.status_info }}</p>
-    <p class="text-end text-muted small mb-0" id="UID">
-        <b>UID:</b> {{ page.track_name }}_{{ page.item_name }}
-    </p>
-    <p class="text-end text-muted small mb-0"> 
-        {{ site.data.ui-text[site.locale].last_review | default: "Last review" }}:
-        {{ item.last_modified | date: "%-d" }}
-        {% assign m = item.last_modified | date: "%-m" | minus: 1 %}
-        {{ site.data.ui-text[site.locale].months[m] }}
-        {{ item.last_modified | date: "%Y" }}
-    </p>
-</div>
+<!-- include custom html depending on track type -->
+{% if track_data.config.type == 'politics' and track_data.config.subtype == 'promises' and track_data.config.agents == 'parties' %}
+    <!-- politics party promises -->
+    {% include politics_promises_parties_item.html %}
+{% elsif track_data.config.type == 'politics' and track_data.config.subtype == 'promises' and track_data.config.agents == 'politicians' %}
+    <!-- politics politicians promises -->
+    {% include politics_promises_politicians_item.html %}
+{% endif %}
 
-<div class="card my-3">
-    <div class="card-header">Análisis</div>
-    <div class="card-body">
-        {% for part in item.analysis %}
-            {% assign statement_source = item.sources | where:'ref', part.statement.source_ref %}
-            <blockquote class="blockquote mb-2">
-                {{forloop.index}}. {{ part.statement.quote }}
-                <sup><a class="source_sup small" href="#references" title="{{ statement_source[0].title }}">{{ statement_source[0].ref }}</a></sup>
-                <footer class="blockquote-footer text-end">{{ part.statement.author }} en <cite>{{ statement_source[0].title }}</cite></footer>
-            </blockquote>
-            <h6><b>Calidad de la promesa</b></h6>
-            <hr>
-            {% for virtue in part.statement_quality.virtues %}
-                <p class="card-text ms-3">
-                    <i class="fas fa-fw fa-check text-success"></i><span class="text-success"><b>{{ virtue.type }}</b></span>: {{ virtue.reason }}
-                </p>    
-            {% endfor %}
 
-            {% for defect in part.statement_quality.defects %}
-                <p class="card-text ms-3">
-                    <i class="fas fa-fw fa-times text-danger"></i><span class="text-danger"><b>{{ defect.type }}</b></span>: {{ defect.reason }}
-                </p>   
-            {% endfor %}
-            <h6><b>Resultados</b></h6>
-            <hr>
-            {% for fact in part.facts %}
-                {% if fact.outcome == 'yes' %} 
-                    {% assign icon = 'check' %}
-                    {% assign color = 'success' %}
-                    {% assign outcome = 'in favor' %}
-                {% elsif fact.outcome == 'no' %} 
-                    {% assign icon = 'times' %}
-                    {% assign color = 'danger' %}
-                    {% assign outcome = 'in opposition' %}
-                {% elsif fact.outcome == 'maybe' %}    
-                    {% assign icon = 'minus' %}
-                    {% assign color = 'warning' %}
-                    {% assign outcome = 'plausible' %}
-                {% else %}
-                    {% assign icon = 'question' %}
-                    {% assign color = 'info' %}
-                    {% assign outcome = 'irrelevant' %}
-                {% endif %}
-                <p class="card-text ms-3">
-                    <i class="fas fa-fw fa-{{ icon }} text-{{ color }}"></i><span class="text-{{ color }}"><b>{{ outcome }}</b></span>: {{ fact.reasoning }}
-                </p>
-                {% for fact_source in fact.sources %}
-                    {% assign source = item.sources | where:'ref', fact_source %}
-                    <sup><a class="source_sup" href="#references" title="{{source[0].title}}">{{ source[0].ref }}</a></sup> 
-                {% endfor %}
-            {% endfor %}
-        {% endfor %}
-    </div>
-</div>
 
-<div class="card my-3">
-    <div class="card-header" id="references">
-        Fuentes y referencias
-    </div>
-    <div class="card-body">
-        <h6 class="card-title">Encuentra aquí todas las fuentes informativas que se han empleado para registrar este compromiso/promesa y determinar el grado de cumplimiento actual.</h6>
-        {% for source in item.sources %}
-        <p class="card-text small mb-0">
-            {% if source.type == "local_doc" %}
-                <a class="source_sup" target="_blank" href="{{site.url}}/assets/docs/{{ source.url }}">{{ source.ref }}. {{ source.title }}</a>
-            {% else %}
-                <a class="source_sup" target="_blank" href="{{ source.url }}">{{ source.ref }}. {{ source.title }}</a>
-            {% endif %}
-        </p>
-        {% endfor %}
-    </div>
-</div>
-<div class="d-flex flex-row">
-    <a class='btn facebook' target="_blank" href="https://www.facebook.com/sharer.php?u={{site.url}}/tracks/{{ page.track_name }}/{{ page.item_name}}&title='{{ item.title }} {{ item.party }}'"> <i class="fab fa-facebook fa-fw" aria-hidden="true"></i> Compartir</a>
-    <a class="btn twitter" href="https://twitter.com/share?url={{site.url}}/tracks/{{ page.track_name }}/{{ page.item_name}}&text={{ item.status_info }}&hashtags=Seguimiento-politico" target="_blank"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i> Tweet</a>
-</div>
+
+
+
+
 

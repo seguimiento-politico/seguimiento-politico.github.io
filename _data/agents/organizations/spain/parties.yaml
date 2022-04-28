@@ -1,0 +1,62 @@
+-
+    name: PSOE
+    ideology: left
+    color: red
+-
+    name: PP
+    ideology: right
+    color: blue
+-
+    name: VOX
+    ideology: right
+    color: green
+-
+    name: Podemos
+    ideology: left
+    color: purple
+-
+    name: IU
+    ideology: left
+    color: red
+-
+    name: ERC
+    ideology: [left, nationalist]
+    color: yellow
+-
+    name: UPyD
+    ideology: center
+    color: pink
+-
+    name: Cs
+    ideology: center
+    color: orange
+-
+    name: JxCat
+    ideology: [center-right, nationalist]
+-
+    name: PNV
+    ideology: [center, nationalist]
+-
+    name: Bildu
+    ideology: [left, nationalist]
+-
+    name: MÁS PAÍS
+    ideology: left
+-
+    name: CUP-PR
+    ideology: [left, nationalist]
+-
+    name: CC-NC
+    ideology: [center, nationalist]
+-
+    name: NA+
+    ideology: [right, nationalist]
+-
+    name: BNG
+    ideology: [left, nationalist]
+-
+    name: PRC
+    ideology: [center-left, regionalist]
+-
+    name: ¡TERUEL EXISTE!
+    ideology: [center-left, regionalist]      

@@ -37,6 +37,7 @@ sources:
         ref: 7
         title: El País - Acuerdo gobierno, patronal y sindicatos
         url: https://elpais.com/economia/2021-12-23/la-ceoe-da-el-visto-bueno-a-la-ultima-propuesta-para-la-reforma-laboral-y-acerca-el-acuerdo-final.html
+
 analysis:
     - 
         statement: 
@@ -45,31 +46,54 @@ analysis:
             author_type: party # party, politician
             source_ref: 1  
         
-        statement_quality:
-            defects:
-                -
-                    type: Ambigüedad
-                    reason: La promesa no define cuales son los «aspectos más lesivos» a derogar. No queda claro, si sólo se pretende una derogación parcial o también una reforma.
-                -
-                    type: Sin plazo temporal
-                    reason: Da un carácter «urgente» a la promesa, pero no determina un plazo a cumplir.
-            virtues:
-                -
-                    type: Objetivo concreto
-                    reason: Se define como objetivo claro combatir la «precariedad y el fraude laboral»
+        statement_quality: # For Goals/Promises use (specifity, measurability, realistic, time_bound), for Assertions use (veracity, relevant, clarity)
+            specifity:
+                overall_compliance: partly
+                reasons: 
+                    - 
+                        compliance: 'no'
+                        reason: La promesa no define cuales son los «aspectos más lesivos» a derogar. 
+                    - 
+                        compliance: 'no'
+                        reason: No queda claro, si sólo se pretende una derogación parcial o también una reforma.
+                    - 
+                        compliance: 'yes'
+                        reason: Se define como objetivo claro combatir la «precariedad y el fraude laboral», aunque no se indica como lograrlo.
+            measurability:
+                overall_compliance: 'no'
+                reasons:
+                    - 
+                        compliance: 'no' 
+                        reason: No se establecen indicadores ni niveles objetivos medibles.
+            realistic:
+                overall_compliance: 'yes'      
+                reasons:
+                    - 
+                        compliance: 'yes'
+                        reason: No existen barreras legales o de otro tipo que dificulten lograr el objetivo.    
+            time_bound: 
+                overall_compliance: 'partly'
+                reasons:
+                    -   
+                        compliance: 'partly'
+                        reason: Da un carácter «urgente» a la promesa, pero no determina un plazo a cumplir.
+
+        statement_coherence:
+            coherent: #yes, no, changes_inline, changes_offline
+            previous_related_statements:
 
         facts:
             -
                 reasoning: "El hecho es que efectivamente se ha realizado una reforma parcial de la legislación laboral."
-                sources: [2,3]
                 outcome: 'yes' # yes, no, maybe, irrelevant
+                sources: [2]
             -
                 reasoning: "Dada la inespecificidad de la promesa, resulta imposible determinar sin género de duda el grado de cumplimiento. Para poder concretar el ámbito de la promesa será necesario añadir fuentes provenientes de hemeroteca, con declaraciones de los representantes del partido."
                 outcome: 'maybe' # yes, no, maybe, irrelevant
+                sources: [3,4,5,6,7]
             -
                 reasoning: "En cuanto a la rapidez o urgencia de la reforma, esta entró en vigor el 28 de Diciembre de 2021, casi dos años después de la investidura."
-                sources: [2]
                 outcome: 'maybe' # yes, no, maybe, irrelevant
+                sources: [2]
 
         aditional_info:
-opposition:
