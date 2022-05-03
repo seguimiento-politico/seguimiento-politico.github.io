@@ -1,0 +1,52 @@
+{% assign type = include.type %}
+
+{% if type == 'party' %}
+    {% assign logos_path = site.images_path | append: 'organizations/' %}
+{% elsif type == 'politician' %}
+    {% assign logos_path = site.images_path | append: 'people/' %} 
+{% endif %}
+
+{% if track_data.config.scope == "national" or track_data.config.scope == "regional" or track_data.config.scope == "local" and track_data.config.country %}
+    {% assign logos_path = logos_path | append: track_data.config.country | append: '/' %}
+    {% if track_data.contconfigext.region %}
+        {% assign logos_path = logos_path | append: track_data.config.region | append: '/' %}
+        {% if track_data.config.locality %}
+            {% assign logos_path = logos_path | append: track_data.config.locality | append: '/' %}
+        {% endif %}
+    {% endif %}
+{% elsif track_data.config.scope == "international" %}
+    {% assign logos_path = logos_path | append: track_data.config.organization | append: '/' %}
+{% endif %}
+
+{% if type == 'party' %}
+    {% assign agent_name = item.party %}
+    {% assign text = agent_name | slugify %}
+    {% include normalize_text.html %}
+    {% assign logos_path = logos_path | append: text | append: '.gif'  %}
+{% elsif type == 'politician' %}
+    {% assign agent_name = item.politician %}
+    {% assign text = agent_name | slugify %}
+    {% include normalize_text.html %}
+    {% assign logos_path = logos_path | append: text | append: '.jpg'  %}
+{% endif %}
+
+{% assign exists = false %}
+{% assign image_files = site.static_files | where: "image", true %}
+
+{% for image in image_files %}
+    {% if image.path == logos_path %}
+        {% assign exists = true %}
+    {% endif %}
+{% endfor %}
+
+{% if exists %}
+        <img src="{{ logos_path }}" alt="{{ agent_name }}" width="48" height="48">
+        <span class="d-none">{{ agent_name }}</span>
+{% else %}
+    {% if type == 'politician' %}
+        <img src="/assets/images/people/anon.jpg" alt="{{ agent_name }}" width="35" height="35">
+        <span class="d-none">{{ agent_name }}</span>
+    {% else %}
+        {{ agent_name }}
+    {% endif %}
+{% endif %}

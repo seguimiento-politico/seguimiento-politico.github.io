@@ -47,27 +47,25 @@ categories:
 
 statuses:
     -
-        name: Sin iniciar
-        lang_label: status_not_started
+        name: Opinion
+        lang_label: status_opinion
         color: secondary
-        icon: hourglass-start
+        icon: lightbulb
     -
-        name: En progreso
-        lang_label: status_in_progress
-        color: primary
-        icon: gears
-    -
-        name: Cumplido
-        lang_label: status_achieved
+        name: Afirmación veraz
+        lang_label: status_true
         color: success
         icon: check-circle
     -
-        name: Cumplido a medias
-        lang_label: status_compromised
+        name: Afirmación falaz 
+        lang_label: status_misleading
         color: warning
-        icon: handshake
+        icon: fire-alt
     -
-        name: Incumplido
-        lang_label: status_broken
+        name: Afirmación falsa
+        lang_label: status_false
         color: danger
         icon: ban
+
+filter_by_status_lang_label: statement_status
+filter_by_category_lang_label: category_label

@@ -104,3 +104,11 @@ defaults:
       permalink: :path/:basename
       layout: track_item 
       comments: true
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
+  - scope:
+      path: "assets/docs"
+    values:
+      document: true

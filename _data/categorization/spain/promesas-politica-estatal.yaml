@@ -1,0 +1,76 @@
+categories:
+    -
+        name: Economía, trabajo y hacienda
+        icon: eur
+    -
+        name: Comercio, transporte y turismo
+        icon: shopping-cart
+    -
+        name: Industria y energía
+        icon: industry
+    -
+        name: Agricultura, ganadería y pesca
+        icon: anchor
+    -
+        name: Educación, ciencia y tecnología
+        icon: user-graduate
+    -
+        name: Cultura y deportes
+        icon: running
+    -
+        name: Derechos y servicios sociales
+        icon: universal-access
+    -
+        name: Sanidad
+        icon: stethoscope
+    -
+        name: Justicia
+        icon: balance-scale
+    -
+        name: Migración
+        icon: globe-africa
+    -
+        name: Democracia
+        icon: university
+    -
+        name: Medioambiente
+        icon: tree
+    -
+        name: Territorio
+        icon: map-signs
+    -
+        name: Política internacional
+        icon: globe
+    -
+        name: Defensa
+        icon: fighter-jet 
+
+statuses:
+    -
+        name: Sin iniciar
+        lang_label: status_not_started
+        color: secondary
+        icon: hourglass-start
+    -
+        name: En progreso
+        lang_label: status_in_progress
+        color: primary
+        icon: gears
+    -
+        name: Cumplido
+        lang_label: status_achieved
+        color: success
+        icon: check-circle
+    -
+        name: Cumplido a medias
+        lang_label: status_compromised
+        color: warning
+        icon: handshake
+    -
+        name: Incumplido
+        lang_label: status_broken
+        color: danger
+        icon: ban
+
+filter_by_status_lang_label: status_label
+filter_by_category_lang_label: category_label

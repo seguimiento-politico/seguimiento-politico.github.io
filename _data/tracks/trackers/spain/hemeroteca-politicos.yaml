@@ -1,8 +1,6 @@
 config:
-    type: politics
-    subtype: archive
-    agents: politicians
-    categorization: promesas-electorales-estado
+    type: politics-statements-by-politician
+    categorization: afirmaciones-politica-estatal
     scope: national # internationa, national, regional or local
     country: spain
     institution: hemeroteca
@@ -10,8 +8,7 @@ config:
 
 context:
     name: "Hemeroteca: Políticos"
-    description: Hemeroteca, para tener las ideas claras, y saber lo que los políticos piensan de verdad, más allá de lo que los programas o sus cambios de retórica reflejan.
-    elections: 2019-19N
+    description: Seguimiento de las afirmaciones de los políticos. Para comprobar su veracidad y saber lo que realmente piensan, más allá de sus cambios de retórica en periodos electorales.
     from: 1978-12-06
     sources:
     
@@ -37,7 +34,5 @@ people:
                 promises_related: []
                 type: [] # Controversy, nonsense, mistake, informative, intention
         votes:
-        
-legislative-initiatives:
 
 

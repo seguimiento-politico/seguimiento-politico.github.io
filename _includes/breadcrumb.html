@@ -1,8 +1,9 @@
 <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb">
     <ol class="breadcrumb">
       <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+      <li class="breadcrumb-item"><a href="/tracks/{{ page.subfolder }}">{{ page.subfolder }}</a></li>
         {% if page.item_name %}
-            <li class="breadcrumb-item"><a href="/tracks/{{ page.track_name }}">{{ page.track_name }}</a></li>
+            <li class="breadcrumb-item"><a href="/tracks/{{ page.subfolder }}/{{ page.track_name }}">{{ page.track_name }}</a></li>
             <li class="breadcrumb-item active" aria-current="page">{{ page.item_name }}</li>
         {% elsif page.track_name %}
             <li class="breadcrumb-item active" aria-current="page">{{ page.track_name }}</li>

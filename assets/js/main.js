@@ -6,7 +6,8 @@
       'list-text',
       'list-party',
       'list-category',
-      'list-status'
+      'list-status',
+      'list-politician'
     ]
   };
 
