@@ -38,7 +38,7 @@ repository-source: https://github.com/
 raw-repository-source: https://raw.githubusercontent.com/
 repository: seguimiento-politico/seguimiento-politico.github.io
 comments:
-  provider: staticman 
+  provider: "staticman_v2"
   staticman:
     branch: master # "master"
     endpoint: https://sp-staticman.herokuapp.com/v3/entry/github/ # "https://{your Staticman v3 API}/v3/entry/github/"
