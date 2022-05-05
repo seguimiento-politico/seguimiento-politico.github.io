@@ -21,7 +21,9 @@ parties:
     -
         name: PSOE
         seats: 120
-        program_doc: psoe_2019_10N.pdf
+        program_doc: 
+            - psoe_2019_10N.pdf
+            - Coalición-progresista.pdf
         position: government
     -
         name: PP
@@ -40,6 +42,7 @@ parties:
         program_doc: 
             - podemos_2019_10N.pdf
             - iu_2019_10N.
+            - Coalición-progresista.pdf
         position: government
     -
         name: ERC

@@ -26,7 +26,7 @@ comments:
   # When allowedOrigins is defined, only requests sent from one of the domains
   # listed will be accepted. The origin is sent as part as the `options` object
   # (e.g. <input name="options[origin]" value="http://yourdomain.com/post1")
-  allowedOrigins: ["seguimiento-politico.github.io"]
+  allowedOrigins: ["seguimiento-politico.github.io", "localhost"]
 
   # (*) REQUIRED
   #
@@ -70,7 +70,7 @@ comments:
   #   type: "comment"
 
   # Name of the site. Used in notification emails.
-   name: "Seguimiento-politico"
+  name: "Seguimiento-politico"
 
   # Notification settings. When enabled, users can choose to receive notifications
   # via email when someone adds a reply or a new comment. This requires an account
@@ -110,5 +110,5 @@ comments:
     siteKey: "6Ld3-KEeAAAAAEdrvOIQ37KtVaf4D4Zfwe9Fwi_F"
     # Encrypt reCaptcha secret key using Staticman /encrypt endpoint
     # For more information, https://staticman.net/docs/encryption
-    # https://sp-staticman.herokuapp.com//v3/encrypt/
+    # https://sp-staticman.herokuapp.com/v3/encrypt/
     secret: "PznnZGu3P6eTHRPLORniSq+J61YEf+A9zmColXDM5icqF49gbunH51B8+h+i2IvewpuxtA9TFoK68TuhUp/X3YKmmqhXasegHYabY50fqF9nJh9npWNhvITdkQHeaOqnFXUIwxfiEeUt49Yoa2waRR7a5LdRAP3SVM8hz0KIBT4="

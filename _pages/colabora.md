@@ -1,7 +1,8 @@
 ---
 title: Colabora
 comments: false
-lastmod: 2022-04-23T15:12:14.704Z
+lastmod: 2022-05-05T12:05:36.855Z
+slug: colabora
 ---
 
 Cuando creamos esta web, nuestra intención era la de crear una comunidad de personas que, colaborando a través de una misma plataforma, pudieran generar una base de conocimiento estructurada y coherente sobre la política española.

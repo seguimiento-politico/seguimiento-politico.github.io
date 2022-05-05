@@ -8,6 +8,6 @@ layout: default
 
 {{content}}
 
-{% if site.comments.provider and page.comments %}
+{% if site.comments.active and page.comments %}
     {% include comments.html %}
 {% endif %}

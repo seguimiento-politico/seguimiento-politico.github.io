@@ -1,6 +1,7 @@
 ---
 title: Conócenos
-lastmod: 2022-04-25T19:34:13.573Z
+lastmod: 2022-05-05T12:05:08.901Z
+slug: conocenos
 ---
 
 ## ¿Qué es {{ site.name }}?

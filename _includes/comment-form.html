@@ -1,8 +1,11 @@
-{% unless page.comments_locked == true or site.comments_locked == true %}
+{% unless site.comments.active == false or page.comments == false %}
+
+  {% capture comments_provider %}{{ site.comments.provider }}{% endcapture %}
+
   <!-- Start comment form -->
   <div id="respond" class="comment__form">
     <h2 class="title"><span id="comment-heading-text">Leave a comment</span> <button class="btn" id="cancel-comment-reply-link" style="display:none;">Cancel reply</button></h2>
-    <form id="comment-form" class="js-form" method="post" action="https://sp-staticman.herokuapp.com/v2/entry/seguimiento-politico/seguimiento-politico.github.io/master/comments">
+    <form id="comment-form" class="js-form" method="post" action="{{ site.comments.[comments_provider].post_url }}">
       <div class="form__group">
         <label for="comment-form-name">Name
           <input type="text" id="comment-form-name" name="fields[name]" required spellcheck="false" placeholder="Your name">
@@ -32,10 +35,6 @@
       <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}#comments">
       <input type="hidden" id="comment-replying-to" name="options[parent]" value>
       <input type="hidden" id="comment-post-id" name="options[slug]" value="{{ page.slug }}">
-      <input type="hidden" name="options[reCaptcha][siteKey]" value="{{ site.reCaptcha.siteKey }}">
-      <input type="hidden" name="options[reCaptcha][secret]" value="{{ site.reCaptcha.secret }}">
-      <input type="hidden" name="options[subscribe]" value="email">
-      <div class="g-recaptcha form__group" data-sitekey="{{ site.reCaptcha.siteKey }}"></div>
       <button type="submit" id="comment-form-submit">Submit comment</button>
     </form>
     <div class="hidden js-notice notice">
@@ -43,7 +42,6 @@
     </div>
   </div>
   <!-- End comment form -->
-  <script async src="https://www.google.com/recaptcha/api.js"></script>
 {% else %}
   <div class="notice">
     <h4>Comments are closed</h4>
