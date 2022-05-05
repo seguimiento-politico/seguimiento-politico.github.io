@@ -2,22 +2,22 @@
 
 <div class="card my-3">
     <div class="card-header">
-      {{ comments_label }}
+        <span class="align-self-center">
+            {{ comments_label }}
+        </span>
+        <span class="badge rounded-pill bg-secondary">
+            {% if site.data.comments[page.slug].size > 0 %}
+                {{ site.data.comments[page.slug] | size }}
+            {% else %}
+                0
+            {% endif %}
+        </span>
     </div>
     <div class="card-body">
         {% if site.data.comments[page.slug] %}
             <div id="comments" class="page__comments js-comments">
-                {% if site.data.comments[page.slug].size > 0 %}
-                <h2 class="title">
-                    {% if site.data.comments[page.slug].size == 1 %}
-                        {{ site.data.comments[page.slug] | size | append: ' comment' }}
-                    {% elsif site.data.comments[page.slug].size > 1 %}
-                        {{ site.data.comments[page.slug] | size | append: ' comments' }}
-                    {% endif %}
-                </h2>
-                {% endif %}
-
                 {% assign comments = site.data.comments[page.slug] | sort | where_exp: 'comment', 'comment[1]._parent == comment[1]._id' %}
+
                 {% for comment in comments %}
                     {% assign id          = comment[1]._id %}
                     {% assign parent      = comment[1]._parent %}
@@ -35,10 +35,11 @@
                     {% endif %}
 
                     {% include comment.html id=id parent=parent avatar=avatar email=email name=name url=url date=date message=message is_last=is_last replies=replies %}
-              {% endfor %}
+                    
+                {% endfor %}
             </div>
         {% endif %}
-
+        <br>
         {% include comment-form.html %}
     </div>
 </div>

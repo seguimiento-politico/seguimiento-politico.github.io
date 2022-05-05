@@ -118,7 +118,7 @@ var addComment = {
         }
         parent.value = parentId;
         cancel.style.display = "";
-        commentHeadingText.innerText = "Replying";
+        commentHeadingText.innerText = "Respondiendo";
 
         cancel.onclick = function() {
             var t = addComment,
