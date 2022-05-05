@@ -45,6 +45,16 @@ comments:
     endpoint: https://sp-staticman.herokuapp.com/v3/entry/github/ # V3 api
     post_url: https://sp-staticman.herokuapp.com/v2/entry/seguimiento-politico/seguimiento-politico.github.io/master/comments #V2 api
 
+# reCaptcha
+# Register your domain at https://www.google.com/recaptcha/ and choose reCAPTCHA V2
+reCaptcha:
+  enabled: true
+  siteKey: "6Ld2bccfAAAAACrhq8GfhrFHEWp1dI_P3LUMBUw3"
+  # Encrypt reCaptcha secret key using Staticman /encrypt endpoint
+  # For more information, https://staticman.net/docs/encryption
+  # https://sp-staticman.herokuapp.com/v3/encrypt/
+  secret: "WiVWBigUCJxT3pU+FocyjzZSIhNxtVWjIKskJ/MaSo8ig4+EUYMpxhsNphPtBbrXUOMrwOBfEeXDJNm8XM5zquitQju5eJ/yD85Kv4uu2NccBRJhDxZicNYBjiThoUQAjd6bYejYSu3x4/HUaM2BWWCzU15cBpKO3v6pcO3/jaFElWTQYKYhw+TmEAm3ZuqxQQFgRobxz/z8K7/CwV8NVuuIom+aBaY5k9CKleBjTsoJ+6ZavmQdhtNyk87HB1r/VIGuVU8L5TG/QTi6V72MqJfGTSLsdozOpU0ANVDNVpnldxHAZubfKIdIYygXyCkKnnn7zFobq/8EGYINXOIRjKGwbDmbNq668JIY3mQH0rk4ILyphYK0yctfEtrPhqt9KO93T9XQmIK2xIzd79dglGPR+kTmx9B9oFuc2VPG1SqtDDobf0hssmwzIuuNYigE1ZL0rx5ku4ZhgjX0TRiPwvbOW3B3uv6YO+w6TtnUbFVZiOECmR/oajt1xg5xIxlkH7b0TswHzJpSL2+6nNQzYL0jqF7rmjhtDlNTHFdcUqVnA/CJIhTA8/lIfpKAvw3ZeoezukIc6hRxCElA1U5dv5COiC4WSXUw5MMcyKjtDkM/Q6l6+kTAhyXfvTSu6B9mJZHJuPjuAkED1oxxdfWZwRfpcUnycvtVHcpFXNzT6EA="
+
 docs_path: /assets/docs/
 images_path: /assets/images/
 
