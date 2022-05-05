@@ -61,13 +61,13 @@ comments:
   moderation: true
 
   # Akismet spam detection.
-  # akismet:
-  #   enabled: true
-  #   author: "name"
-  #   authorEmail: "email"
-  #   authorUrl: "url"
-  #   content: "message"
-  #   type: "comment"
+  akismet:
+    enabled: true
+    author: "name"
+    authorEmail: "email"
+    authorUrl: "url"
+    content: "message"
+    type: "comment"
 
   # Name of the site. Used in notification emails.
   name: "Seguimiento-politico"
@@ -107,8 +107,8 @@ comments:
   # Register your domain at https://www.google.com/recaptcha/ and choose reCAPTCHA V2
   reCaptcha:
     enabled: false
-    siteKey: "6Ld3-KEeAAAAAEdrvOIQ37KtVaf4D4Zfwe9Fwi_F"
+    siteKey: "6Ld2bccfAAAAACrhq8GfhrFHEWp1dI_P3LUMBUw3"
     # Encrypt reCaptcha secret key using Staticman /encrypt endpoint
     # For more information, https://staticman.net/docs/encryption
     # https://sp-staticman.herokuapp.com/v3/encrypt/
-    secret: "PznnZGu3P6eTHRPLORniSq+J61YEf+A9zmColXDM5icqF49gbunH51B8+h+i2IvewpuxtA9TFoK68TuhUp/X3YKmmqhXasegHYabY50fqF9nJh9npWNhvITdkQHeaOqnFXUIwxfiEeUt49Yoa2waRR7a5LdRAP3SVM8hz0KIBT4="
+    secret: "6Ld2bccfAAAAAMw1lYkKPelO4hypLINW9OEuK9XV"
