@@ -1,8 +1,9 @@
 ---
 title: Colabora
 comments: false
-lastmod: 2022-05-05T12:05:36.855Z
+lastmod: 2022-05-06T15:13:34.573Z
 slug: colabora
+toc: true
 ---
 
 Cuando creamos esta web, nuestra intención era la de crear una comunidad de personas que, colaborando a través de una misma plataforma, pudieran generar una base de conocimiento estructurada y coherente sobre la política española.
@@ -38,7 +39,7 @@ Ilustramos con varios ejemplos como debería ser el asunto en algunos casos prá
 
 En cualquier caso necesitamos que en el contenido del email nos aportes toda la información que consideres relevante. **Es imprescindible incluir las fuentes en forma de enlaces para acceder a ellas**. No adjuntes los documentos directamente al email, salvo que estos no se encuentren públicamente accesibles. 
 
-La dirección de correo es la siguiente: **seguimiento-politico<span class="text-danger">ARROBA</span>gmail.com**. 
+La dirección de correo es la siguiente: **seguimiento-politico<span class="text-danger">ARROBA</span>protonmail.com**. 
 
 **Nota:** Sustituye <span class="text-danger">ARROBA</span> por <span class="text-danger">@</span>. Lo hemos escrito así para evitar que nos llegue spam por medio de bots.
 {: .notice-info}
@@ -59,4 +60,4 @@ En todas las fases de este proyecto hemos puesto especial atención en la **opti
 
 Sin embargo, si que invertimos muchas horas en el desarrollo de la plataforma y en la creación de contenido. Tu apoyo económico podría ayudarnos a lograr un dominio
 
-**Nota:** Aunque en todo el artículo escribo en plural (por ), lo cierto es que por el momento *{{ site.name }}* es una comunidad de uno. Solo yo, *Tovarlogic*, estoy trabajando en el proyecto en mis ratos libres.
+**Nota:** Aunque en todo el artículo escribo en plural, lo cierto es que por el momento *{{ site.name }}* es una comunidad de uno. Solo yo, *Tovarlogic*, estoy trabajando en el proyecto en mis ratos libres.

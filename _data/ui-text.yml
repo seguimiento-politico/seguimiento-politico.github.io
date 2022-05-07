@@ -64,24 +64,32 @@ es: &DEFAULT_ES
   comments_label            : "Comentarios"
   delete_label              : "Borrar"
   delete_filters_label      : "Borrar filtros"
-  updates_label             : "Últimas actualizaciones"
-  home_label                : "Inicio"
-  view_label                : "Ver"
-  stats_label               : "Datos"
   email_label               : "Dirección de correo"
-  privacy_label             : "Política de privacidad"
-  responsible_disclosure_label: "Descargo de responsabilidad"
-  more_info_label           : "Más info."
   filter_by_label           : "Filtrar por "
-  last_review               : "Última revisión"
+  home_label                : "Inicio"
+  more_info_label           : "Más info."
   measurability             : "Medible"
+  months:
+    - Febrero
+    - Marzo
+    - Abril
+    - Mayo
+    - Junio
+    - Julio
+    - Agosto
+    - Septiembre
+    - Octubre
+    - Noviembre
+    - Diciembre
+  last_review               : "Última revisión"
   promise_characteristics   : "Características del compromiso"
   promises_label            : "Promesa/s"
+  privacy_label             : "Política de privacidad"
+  responsible_disclosure_label: "Descargo de responsabilidad"
   realistic                 : "Realista"
   see_all_label             : "Ver todas"
+  stats_label               : "Datos"
   specifity                 : "Específicidad y claridad"
-  statement_label           : "Declaración"
-  topic_label               : "Temática"
   statement_complieance_yes : "Cumplido"
   statement_complieance_maybe : "Quizás cumplido"
   statement_complieance_no  : "No cumplido"
@@ -101,23 +109,16 @@ es: &DEFAULT_ES
   status_false              : "Afirmación falsa"
   subscribe_label           : "Suscríbete"
   service_terms_label       : "Términos del servicio"
+  statement_label           : "Declaración"
+  topic_label               : "Temática"
   time_bound                : "Plazo temporal"
   type_label                : "Tipo"
   track_promises_label      : "Seguimiento de promesas en la "
   track_info_label          : "Resumen de la "
   track_statements_label    : "Seguimiento de afirmaciones"
-  months:
-    - Febrero
-    - Marzo
-    - Abril
-    - Mayo
-    - Junio
-    - Julio
-    - Agosto
-    - Septiembre
-    - Octubre
-    - Noviembre
-    - Diciembre
+  use_terms_label          : "Términos de Uso"
+  updates_label             : "Últimas actualizaciones"
+  view_label                : "Ver"
 
 es-ES:
   <<: *DEFAULT_ES
