@@ -83,7 +83,7 @@ function toggleDisplay(e) {
 // Released under the GNU General Public License - https://wordpress.org/about/gpl/
 var addComment = {
     moveForm: function(commId, parentId, respondId, postId) {
-        $("#respond form").show();
+        $("#respond").show()[0];
         hideAlert();
         var div,
         element,
@@ -118,13 +118,14 @@ var addComment = {
         }
         parent.value = parentId;
         cancel.style.display = "";
-        commentHeadingText.innerText = "Respondiendo";
+        commentHeadingText.innerText = "Respuesta";
 
         cancel.onclick = function() {
+            $("#respond").hide()[0];
             var t = addComment,
                 temp = t.I("sm-temp-form-div"),
                 respond = t.I(t.respondId);
-
+            
             if (!temp || !respond) {
                 return;
             }
@@ -134,7 +135,7 @@ var addComment = {
             temp.parentNode.removeChild(temp);
             this.style.display = "none";
             this.onclick = null;
-            commentHeadingText.innerText = "Leave a comment";
+            commentHeadingText.innerText = "Deja un comentario";
             return false;
         };
 
@@ -186,4 +187,13 @@ var addComment = {
     I: function(id) {
         return document.getElementById(id);
     }
+};
+
+//hide form on innitial load
+$("#respond").hide()[0];
+
+//show form if new comment button clicked
+//show form if new comment button clicked
+document.getElementById("new-comment-link").onclick = function() {
+    toggleDisplay("respond");
 };

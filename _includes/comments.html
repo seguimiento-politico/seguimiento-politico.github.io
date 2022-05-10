@@ -14,10 +14,14 @@
         </span>
     </div>
     <div class="card-body">
+        <div class="position-relative my-3">
+            <button class="btn btn-sm btn-primary position-absolute top-0 end-0 translate-middle-y" id="new-comment-link" style=""><i class="fas fa-fw fa-plus"></i> Dejar un comentario</button>
+        </div>
+        {% include comment-form.html %}
         {% if site.data.comments[page.slug] %}
             <div id="comments" class="page__comments js-comments">
-                {% assign comments = site.data.comments[page.slug] | sort | where_exp: 'comment', 'comment[1]._parent == comment[1]._id' %}
-
+                <!-- {% assign comments = site.data.comments[page.slug] | sort | where_exp: 'comment', 'comment[1]._parent == comment[1]._id' %} -->
+                {% assign comments = site.data.comments[page.slug] | sort | where_exp: 'comment', 'comment[1]._parent == null'%}
                 {% for comment in comments %}
                     {% assign id          = comment[1]._id %}
                     {% assign parent      = comment[1]._parent %}
@@ -38,8 +42,6 @@
                     
                 {% endfor %}
             </div>
-        {% endif %}
-        <br>
-        {% include comment-form.html %}
+        {% endif %}       
     </div>
 </div>

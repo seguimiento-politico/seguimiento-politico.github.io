@@ -3,8 +3,8 @@
   {% capture comments_provider %}{{ site.comments.provider }}{% endcapture %}
 
   <!-- Start comment form -->
-  <div id="respond" class="comment__form">
-    <h4 class="title"><span id="comment-heading-text">Deja un comentario</span> <button class="btn" id="cancel-comment-reply-link" style="display:none;">Cancelar respuesta</button></h4>
+  <div id="respond" class="comment__form" style="">
+    <h4 class="title"><span id="comment-heading-text">Deja un comentario</span> <button class="btn btn-danger" id="cancel-comment-reply-link" style="display:none;">Cancelar respuesta</button></h4>
     
     <form id="comment-form" class="js-form" method="post" action="{{ site.comments.[comments_provider].post_url }}">
       <div class="form__group">
@@ -13,9 +13,6 @@
         </label>
         <label class="form-label" for="comment-form-email">E-mail
           <input type="email" class="form-control" id="comment-form-email" name="fields[email]" required spellcheck="false" placeholder="email@domain.com">
-        </label>
-        <label class="form-label" for="comment-form-url">web (opcional)
-          <input type="url"  class="form-control"id="comment-form-url" name="fields[url]" placeholder="https://domain.com">
         </label>
       </div>
       <div class="mb-3">
