@@ -1,4 +1,4 @@
-<article id="comment{% unless include.r %}{{ id | prepend: '-' }}{% else %}{{ include.id | prepend: '-' }}{% endunless %}" class="js-comment comment {% unless include.parent == null %}child{% endunless %}">
+<article id="comment{% unless include.r %}{{ id | prepend: '-' }}{% else %}{{ include.id | prepend: '-' }}{% endunless %}" class="js-comment comment {% unless include.parent == null %}child-{{include.level | minus: 1 }}{% endunless %}">
   <div class="comment__avatar">
     {% if include.avatar %}
       <noscript><img src="{{ include.avatar }}" alt=""></noscript>
@@ -28,24 +28,13 @@
     <div class="comment__message">
       {{ include.message | markdownify }}
     </div>
-    {% unless page.comments_locked == true %}
+    {% unless page.comments_locked == true or include.level >= site.comments.max_replies_level %}
       <div class="comment__reply">
-        <a rel="nofollow" href="#comment-{{ include.id }}" onclick="return addComment.moveForm('comment-{{ include.id }}', '{{ include.parent }}', 'respond', '{{ page.slug }}')">
+        <a rel="nofollow" href="#comment-{{ include.id }}" onclick="return addComment.moveForm('comment-{{ include.id }}', '{{ include.id }}', 'respond', '{{ page.slug }}')">
           &#x2BA9; Responder</a>
       </div>
     {% endunless %}
   </div>
 </article>
 
-{% for reply in include.replies %}
-  {% assign id          = reply[1]._id %}
-  {% assign parent      = reply[1]._parent %}
-  {% assign avatar      = reply[1].avatar %}
-  {% assign email       = reply[1].email %}
-  {% assign name        = reply[1].name %}
-  {% assign url         = reply[1].url %}
-  {% assign date        = reply[1].date %}
-  {% assign message     = reply[1].message %}
-  {% assign is_last     = forloop.last %}
-  {% include comment.html id=id parent=parent avatar=avatar email=email name=name url=url date=date message=message is_last=is_last%}
-{% endfor %}
+{% include comments_loop.html comments=include.replies level=include.level %}

@@ -22,25 +22,8 @@
             <div id="comments" class="page__comments js-comments">
                 <!-- {% assign comments = site.data.comments[page.slug] | sort | where_exp: 'comment', 'comment[1]._parent == comment[1]._id' %} -->
                 {% assign comments = site.data.comments[page.slug] | sort | where_exp: 'comment', 'comment[1]._parent == null'%}
-                {% for comment in comments %}
-                    {% assign id          = comment[1]._id %}
-                    {% assign parent      = comment[1]._parent %}
-                    {% assign avatar      = comment[1].avatar %}
-                    {% assign email       = comment[1].email %}
-                    {% assign name        = comment[1].name %}
-                    {% assign url         = comment[1].url %}
-                    {% assign date        = comment[1].date %}
-                    {% assign message     = comment[1].message %}
-
-                    {% capture i %}{{ id }}{% endcapture %}
-                    {% assign replies = site.data.comments[page.slug] | sort | where_exp: 'comment', 'comment[1]._id != i' | where_exp: 'comment', 'comment[1]._parent == i' %}
-                    {% if replies.size > 0 %}
-                        {% assign is_last = false %}
-                    {% endif %}
-
-                    {% include comment.html id=id parent=parent avatar=avatar email=email name=name url=url date=date message=message is_last=is_last replies=replies %}
-                    
-                {% endfor %}
+                {% assign level = 0 %}
+                {% include comments_loop.html comments=comments level=level %}
             </div>
         {% endif %}       
     </div>
