@@ -39,7 +39,6 @@
                 <thead> 
                 <tr class="bg-dark text-light">
                     <th></th>
-                    <th></th>
                     <th>{{ site.data.ui-text[site.locale].category_label | default: "Category" }}</th>
                     <th>{{ site.data.ui-text[site.locale].topic_label | default: "Statement" }}</th>
                     <th>{{ site.data.ui-text[site.locale].type_label | default: "Type" }}</th>
@@ -57,10 +56,13 @@
                     
                     <tr class="list-group-item-{{ status.color }}">
                         <td class="list-politician" style="color:{{ party.color }};">
-                            {% include items_logo.html type='politician' %}
-                        </td>
-                        <td class="list-party" style="color:{{ party.color }};">
-                            {% include items_logo.html type='party' %}
+                            <div class="position-relative">
+                                {% include items_logo.html type='politician' %}
+                                <div class="list-party position-absolute bottom-0 end-0" style="color:{{ party.color }};width: 50%;">
+                                    {% include items_logo.html type='party' reduce=true %}
+                                </div>
+                            </div>
+                            
                         </td>
                         <td>
                             <span class="list-category">{{ item.category }}</span>

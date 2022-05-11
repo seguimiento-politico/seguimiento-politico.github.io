@@ -18,12 +18,12 @@
     {% assign logos_path = logos_path | append: track_data.config.organization | append: '/' %}
 {% endif %}
 
-{% if type == 'party' %}
+{% if include.type == 'party' %}
     {% assign agent_name = item.party %}
     {% assign text = agent_name | slugify %}
     {% include normalize_text.html %}
     {% assign logos_path = logos_path | append: text | append: '.gif'  %}
-{% elsif type == 'politician' %}
+{% elsif include.type == 'politician' %}
     {% assign agent_name = item.politician %}
     {% assign text = agent_name | slugify %}
     {% include normalize_text.html %}
@@ -40,10 +40,14 @@
 {% endfor %}
 
 {% if exists %}
+    {% if include.reduce %}
+        <img src="{{ logos_path }}" alt="{{ agent_name }}" width="24" height="24">
+    {% else %}
         <img src="{{ logos_path }}" alt="{{ agent_name }}" width="48" height="48">
+    {% endif %}
         <span class="d-none">{{ agent_name }}</span>
 {% else %}
-    {% if type == 'politician' %}
+    {% if include.type == 'politician' %}
         <img src="/assets/images/people/anon.jpg" alt="{{ agent_name }}" width="35" height="35">
         <span class="d-none">{{ agent_name }}</span>
     {% else %}
