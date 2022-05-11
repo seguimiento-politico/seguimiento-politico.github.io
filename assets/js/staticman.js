@@ -198,3 +198,7 @@ hideAlert();
 document.getElementById("new-comment-link").onclick = function() {
     toggleDisplay("respond");
 };
+
+document.getElementById("hide-form").onclick = function() {
+    $("#respond").hide()[0];
+};

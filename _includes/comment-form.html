@@ -3,47 +3,60 @@
   {% capture comments_provider %}{{ site.comments.provider }}{% endcapture %}
 
   <!-- Start comment form -->
-  <div id="respond" class="comment__form" style="">
-    <h4 class="title"><span id="comment-heading-text">Deja un comentario</span> <button class="btn btn-danger" id="cancel-comment-reply-link" style="display:none;">Cancelar respuesta</button></h4>
+  <div id="respond" style="">
+    <h4 class="title">
+      <span id="comment-heading-text">Deja un comentario</span> 
+      <button class="btn btn-danger" id="cancel-comment-reply-link" style="display:none;">Cancelar respuesta</button>
+    </h4>
     
     <form id="comment-form" class="js-form" method="post" action="{{ site.comments.[comments_provider].post_url }}">
-      <div class="form__group">
+      <div>
         <label class="form-label" for="comment-form-name">Alias
           <input type="text" class="form-control" id="comment-form-name" name="fields[name]" required spellcheck="false" placeholder="Your alias">
         </label>
+
         <label class="form-label" for="comment-form-email">E-mail
           <input type="email" class="form-control" id="comment-form-email" name="fields[email]" required spellcheck="false" placeholder="email@domain.com">
         </label>
       </div>
+      
       <div class="mb-3">
         <label class="form-label" for="comment-form-message">Comentario</label>
         <textarea type="text" class="form-control" rows="4" id="comment-form-message" name="fields[message]" required spellcheck="true" placeholder="Your message"></textarea>
       </div>
-      <div class="callout callout-warning" style="margin-bottom: 1em">
-        No compartiremos tu email con nadie, de hecho ni nosotros lo conoceremos porque se guarda encriptado.<br>
-        Únicamente es empleado (el hash encriptado) para mostrar, en caso de existir, tu avatar de <a href="https://es.gravatar.com">Gravatar</a>.
-    </div>
-    <div class="callout callout-warning" style="margin-bottom: 1em">
-        <strong>Los comentarios están sujetos a moderación.</strong> <br>
-        Tu comentario será revisado por un humano antes de su publicación.<br>
-        Como nos tomamos en serio la libertad de expresión, cualquier comentario será aprobado salvo los siguientes supuestos:<br>
-        1. Comentarios con propósitos publicitarios serán considerados «spam».<br>
-        2. Comentarios no relacionados con el contenido de la sección de la web o con comentarios previos.<br>
-        3. Comentarios que no cumplan unos mínimos de respeto y educación. Especialmente aquellos que contengan insultos o mensajes de odio.
-    </div>
+    
       <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}#comments">
       <input type="hidden" id="comment-replying-to" name="options[parent]" value>
       <input type="hidden" id="comment-post-id" name="options[slug]" value="{{ page.slug }}">
       <input type="hidden" name="options[reCaptcha][siteKey]" value="{{ site.reCaptcha.siteKey }}">
       <input type="hidden" name="options[reCaptcha][secret]" value="{{ site.reCaptcha.secret }}">
       <input type="hidden" name="options[subscribe]" value="email">
-      <div class="g-recaptcha form__group" data-sitekey="{{ site.reCaptcha.siteKey }}"></div>
-      <button type="submit" class="btn btn-primary" id="comment-form-submit">Enviar comentario</button>
-    </form>
+
+      <div class="g-recaptcha mb-3" data-sitekey="{{ site.reCaptcha.siteKey }}"></div>
+      <div class="mb-3">
+        <button type="submit" class="btn btn-primary" id="comment-form-submit">Enviar comentario</button>
+        <a class="btn btn-outline-danger" id="hide-form" href="#" role="button">Cancelar comentario</a>
+      </div>
+      </form>
+    
+    <div class="callout callout-warning" style="margin-bottom: 1em">
+      No compartiremos tu email con nadie, de hecho ni nosotros lo conoceremos porque se guarda encriptado.<br>
+      Únicamente es empleado (el hash encriptado) para mostrar, en caso de existir, tu avatar de <a href="https://es.gravatar.com">Gravatar</a>.
+    </div>
+    <div class="callout callout-warning" style="margin-bottom: 1em">
+      <strong>Los comentarios están sujetos a moderación.</strong> <br>
+      Tu comentario será revisado por un humano antes de su publicación.<br>
+      Como nos tomamos en serio la libertad de expresión, cualquier comentario será aprobado salvo los siguientes supuestos:<br>
+      1. Comentarios con propósitos publicitarios serán considerados «spam».<br>
+      2. Comentarios no relacionados con el contenido de la sección de la web o con comentarios previos.<br>
+      3. Comentarios que no cumplan unos mínimos de respeto y educación. Especialmente aquellos que contengan insultos o mensajes de odio.
+    </div>
+      
     <div class="hidden js-notice notice">
       <p class="js-notice-text text-danger"></p>
     </div>
   </div>
+
   <!-- End comment form -->
   <script async src="https://www.google.com/recaptcha/api.js"></script>
 {% else %}
