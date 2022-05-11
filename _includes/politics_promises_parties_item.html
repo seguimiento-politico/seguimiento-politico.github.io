@@ -1,13 +1,12 @@
 {% include categorization.html %}
 {% assign party_data = site.data.agents.organizations.[track_data.config.country].parties | where: "name", item.party | first %}
-
 {% assign status = statuses | where:'name', item.status | first %}
 
 <!-- Party logo path -->
 {% include items_logo.html type=party %}
 
 <div class="callout callout-{{ status.color }} my-3 p-3 bg-body shadow-sm border-{{ status.color }}">
-    <h6 class="border-bottom pb-2 d-flex justify-content-between align-items-start">
+    <div class="border-bottom pb-2 d-flex justify-content-between align-items-start">
         <span class="align-self-center">
             {% if exists %}
                 <img src="{{ logos_path }}" alt="{{ item.party }}" width="35" height="35">
@@ -24,23 +23,42 @@
             <a class="btn btn-sm btn-outline-secondary" href="{{ site.raw-repository-source }}{{ site.repository}}/master/_data/track_items/{{page.track_name}}/{{page.item_name}}.yaml" role="button">{{ site.data.ui-text[site.locale].open_label | default: "open data" | downcase }}</a>
         </div>
         
-    </h6>
+    </div>
+
     {% if item.description %}
-    <p class="lead">{{ item.description }}</p>
-    <br>
+        <p class="lead">{{ item.description }}</p>
     {% endif %}
-    <p>El estado de este compromiso es <span class="text-{{ status.color }} bold"> <b>{{ site.data.ui-text[site.locale].[status.lang_label] }}</b> <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}"></i> </span> debido a que: <br> {{ item.status_info }}</p>
-    <p class="text-end text-muted small mb-0" id="UID">
-        <b>UID:</b> {{ page.track_name }}_{{ page.item_name }}
+    <p>
+        El estado de este compromiso es 
+        <span class="text-{{ status.color }} bold"> <b>{{ site.data.ui-text[site.locale].[status.lang_label] }}</b> <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}"></i> </span> 
+        debido a que: 
+        <p class="mx-3">{{ item.status_info }}</p>
     </p>
+    <p class="text-end text-muted small mb-0" id="UID">
+        <b>UID:</b> {{ page.slug }}
+    </p>
+
     <p class="text-end text-muted small mb-0"> 
-        {{ site.data.ui-text[site.locale].last_review | default: "Last review" }}:
+        <b>{{ site.data.ui-text[site.locale].last_review | default: "Last review" }}:</b>
         {{ item.last_modified | date: "%-d" }}
         {% assign m = item.last_modified | date: "%-m" | minus: 1 %}
         {{ site.data.ui-text[site.locale].months[m] }}
         {{ item.last_modified | date: "%Y" }}
     </p>
+
 </div>
+
+{% if item.related %}
+<div class="notice-info border border-primary p-2">
+    <span class="m-2"><b>Compromisos relacionados:</b></span>
+    <span>
+        {% for uid in item.related %}
+            {% assign related = site.tracks | where: "slug", uid %}
+            <a class="btn btn-sm btn-outline-dark" href="{{ related[0].url }}" role="button">{{ related[0].item_name | replace: "-", " " | replace: "_", " - "}}</a>
+        {% endfor %}
+    </span>
+</div>
+{% endif %}
 
 <div class="card my-3">
     <div class="card-header">Análisis</div>
@@ -129,7 +147,7 @@
         {% endfor %}
     </div>
 </div>
-<div class="d-flex flex-row">
+<div class="d-flex flex-row mb-3">
     <a class='btn facebook' target="_blank" href="https://www.facebook.com/sharer.php?u={{site.url}}/tracks/{{ page.track_name }}/{{ page.item_name}}&title='{{ item.title }} {{ item.party }}'"> <i class="fab fa-facebook fa-fw" aria-hidden="true"></i> Compartir</a>
     <a class="btn twitter" href="https://twitter.com/share?url={{site.url}}/tracks/{{ page.track_name }}/{{ page.item_name}}&text={{ item.status_info }}&hashtags=Seguimiento-politico" target="_blank"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i> Tweet</a>
 </div>

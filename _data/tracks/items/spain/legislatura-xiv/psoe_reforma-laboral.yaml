@@ -1,7 +1,7 @@
 title: 'Reforma laboral'
-description: 'Derogación urgente de los aspectos más lesivos de la reforma laboral, combatiendo la precariedad y el fraude laboral.'
+description: '"Derogación urgente de los aspectos más lesivos de la reforma laboral, combatiendo la precariedad y el fraude laboral."'
 status: Cumplido a medias
-status_info: 'Se ha realizado una derogación parcial de la reforma laboral anterior. Como la promesa es ambigua, cualquier conclusión taxativa es imposible.'
+status_info: 'Se ha realizado una derogación parcial de la reforma laboral anterior y como la promesa es ambigua, cualquier conclusión taxativa es imposible.'
 category: Economía, trabajo y hacienda
 tags: [Empleo]
 party: PSOE
@@ -41,7 +41,7 @@ sources:
 analysis:
     - 
         statement: 
-            quote: 'Derogación urgente de los aspectos más lesivos de la reforma laboral, combatiendo la precariedad y el fraude laboral.'
+            quote: '"Derogación urgente de los aspectos más lesivos de la reforma laboral, combatiendo la precariedad y el fraude laboral."'
             author: PSOE
             author_type: party # party, politician
             source_ref: 1  

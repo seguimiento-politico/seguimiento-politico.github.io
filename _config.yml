@@ -100,6 +100,12 @@ compress_html:
     envs: [local]
   blanklines: false
 
+# Collections
+collections:
+  tracks:
+    output: true
+    permalink: /:collection/:path
+
 # Defaults
 defaults:
   # _pages
@@ -111,10 +117,9 @@ defaults:
       layout: single 
   # tracks and promises
   - scope:
-      path: "tracks"
-      type: pages
+      path: ""
+      type: tracks
     values:
-      permalink: :path/:basename
       layout: track_item 
       comments: true
   - scope:

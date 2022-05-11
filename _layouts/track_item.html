@@ -10,13 +10,14 @@ layout: page
 {% include breadcrumb.html %}
 
 <!-- include custom html depending on track type -->
-{% if track_data.config.type == 'politics' and track_data.config.subtype == 'promises' and track_data.config.agents == 'parties' %}
-    <!-- politics party promises -->
-    {% include politics_promises_parties_item.html %}
-{% elsif track_data.config.type == 'politics' and track_data.config.subtype == 'promises' and track_data.config.agents == 'politicians' %}
-    <!-- politics politicians promises -->
-    {% include politics_promises_politicians_item.html %}
-{% endif %}
+{% case track_data.config.type %}
+    {% when 'politics-promises-by-party' %}
+        {% include politics_promises_parties_item.html %}
+
+    {% when 'politics-statements-by-politician' %}
+
+
+{% endcase %}
 
 
 

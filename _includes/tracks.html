@@ -41,6 +41,9 @@
                   <h5 class="card-title">{{ track[1].context.name }}</h5>
                   <h6 class="card-subtitle mb-2 text-muted small">{{ track[1].context.from }} a {% if track[1].context.to %} {{ track[1].context.to }} {% else %} actualidad {% endif %}</h6>
                     <p class="card-text">{{ track[1].context.description }}</p>
+                    
+                  </div>
+                  <div class="card-footer">
                     <div class="d-flex justify-content-between align-items-center">
                       <div class="btn-group">
                           <a class="btn btn-sm btn-outline-primary" href="tracks/{{ path }}{{ track[0] }}" role="button">{{ site.data.ui-text[site.locale].view_label | default: "view" | downcase }}</a>
