@@ -55,14 +55,8 @@
                     {% assign party = parties | where: "name", item.party | first %}
                     
                     <tr class="list-group-item-{{ status.color }}">
-                        <td class="list-politician" style="color:{{ party.color }};">
-                            <div class="position-relative">
-                                {% include items_logo.html type='politician' %}
-                                <div class="list-party position-absolute bottom-0 end-0" style="color:{{ party.color }};width: 50%;">
-                                    {% include items_logo.html type='party' reduce=true %}
-                                </div>
-                            </div>
-                            
+                        <td>
+                            {% include items_logo.html type='politician' %}                           
                         </td>
                         <td>
                             <span class="list-category">{{ item.category }}</span>

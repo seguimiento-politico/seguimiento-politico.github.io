@@ -60,8 +60,9 @@
                     {% assign status = statuses | where: "name", item.status | first %}
                     {% assign category = categories | where: "name", item.category | first %}
                     {% assign party = parties_data | where: "name", item.party | first %}
+                    
                     <tr class="list-group-item-{{ status.color }}">
-                        <td class="list-party" style="color:{{ party.color }};">
+                        <td>
                             {% include items_logo.html type='party' %}
                         </td>
                         <td>

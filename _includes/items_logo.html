@@ -1,56 +1,103 @@
-{% assign type = include.type %}
-
-{% if type == 'party' %}
-    {% assign logos_path = site.images_path | append: 'organizations/' %}
-{% elsif type == 'politician' %}
-    {% assign logos_path = site.images_path | append: 'people/' %} 
-{% endif %}
+<!-- Data files and static files (images and documents) share common folder structure -->
+{% assign path_array = "" | split: ',' %}
 
 {% if track_data.config.scope == "national" or track_data.config.scope == "regional" or track_data.config.scope == "local" and track_data.config.country %}
-    {% assign logos_path = logos_path | append: track_data.config.country | append: '/' %}
-    {% if track_data.contconfigext.region %}
-        {% assign logos_path = logos_path | append: track_data.config.region | append: '/' %}
+    {% assign path_array = path_array | push: track_data.config.country %}
+    {% if track_data.config.region %}
+        {% assign path_array = path_array | push: track_data.config.region %}
         {% if track_data.config.locality %}
-            {% assign logos_path = logos_path | append: track_data.config.locality | append: '/' %}
+            {% assign path_array = path_array | push: track_data.config.locality %}
         {% endif %}
     {% endif %}
 {% elsif track_data.config.scope == "international" %}
-    {% assign logos_path = logos_path | append: track_data.config.organization | append: '/' %}
+    {% assign path_array = path_array | push: track_data.config.organization %}
 {% endif %}
 
 {% if include.type == 'party' %}
+    {% assign organization_path = site.images_path | append: 'organizations/' %}
+    {% assign organization_data = site.data.agents.organizations %}
+
+{% elsif include.type == 'politician' %}
+    {% assign person_path = site.images_path | append: 'people/' %} 
+    {% assign person_data = site.data.agents.people %}
+
+    {% assign organization_path = site.images_path | append: 'organizations/' %}
+    {% assign organization_data = site.data.agents.organizations %}
+
+{% endif %}
+
+{% for folder in path_array %}
+    {% assign person_path = person_path | append: folder | append: '/' %}
+    {% assign person_data = person_data.[folder] %}
+
+    {% assign organization_path = organization_path | append: folder | append: '/' %}
+    {% assign organization_data = organization_data.[folder] %}
+{% endfor %}
+
+{% if include.type == 'party' %}
     {% assign agent_name = item.party %}
-    {% assign text = agent_name | slugify %}
+    {% assign text = item.party | slugify %}
     {% include normalize_text.html %}
-    {% assign logos_path = logos_path | append: text | append: '.gif'  %}
+
+    {% assign organization_path = organization_path | append: text | append: '.gif'  %}
+    {% assign organization_data = organization_data.parties | where: 'name', agent_name %}
+
 {% elsif include.type == 'politician' %}
     {% assign agent_name = item.politician %}
     {% assign text = agent_name | slugify %}
     {% include normalize_text.html %}
-    {% assign logos_path = logos_path | append: text | append: '.jpg'  %}
+
+    {% assign person_path = person_path | append: text | append: '.jpg'  %}
+    {% assign person_data = person_data.politicians | where: 'name', agent_name %}
+
+    {% assign text = person_data[0].party | slugify %}
+    {% include normalize_text.html %}
+
+    {% assign organization_path = organization_path | append: text | append: '.gif'  %}
+    {% assign organization_data = organization_data.parties | where: 'name', person_data[0].party %}
+
 {% endif %}
 
-{% assign exists = false %}
+<!-- Check if corresponding images exist in images folder -->
 {% assign image_files = site.static_files | where: "image", true %}
 
+{% assign organization_image = false %}
+{% assign person_image = false %}
+
 {% for image in image_files %}
-    {% if image.path == logos_path %}
-        {% assign exists = true %}
+    {% if image.path == organization_path %}
+        {% assign organization_image = true %}
+    {% endif %}
+    {% if image.path == person_path %}
+        {% assign person_image = true %}
     {% endif %}
 {% endfor %}
 
-{% if exists %}
-    {% if include.reduce %}
-        <img src="{{ logos_path }}" alt="{{ agent_name }}" width="24" height="24">
+<!-- Show images/data -->
+{% if include.type == 'party' %}
+    {% if organization_image %}
+        <div class="list-party">
+            <img src="{{ organization_path }}" alt="{{ agent_name }}" width="36" height="36">
+        </div>
     {% else %}
-        <img src="{{ logos_path }}" alt="{{ agent_name }}" width="48" height="48">
+        <span class="list-party" style="color:{{organization_data[0].color}};">{{ organization_data[0].name }}</span>
     {% endif %}
-        <span class="d-none">{{ agent_name }}</span>
-{% else %}
-    {% if include.type == 'politician' %}
-        <img src="/assets/images/people/anon.jpg" alt="{{ agent_name }}" width="35" height="35">
-        <span class="d-none">{{ agent_name }}</span>
-    {% else %}
-        {{ agent_name }}
-    {% endif %}
+{% elsif include.type == 'politician' %}
+    <div class="position-relative list-politician">
+        {% if person_image %}
+            <img src="{{ person_path }}" alt="{{ agent_name }}" width="48" height="48">
+            <span class="d-none list-politician">{{ agent_name }}</span>
+        {% else %}
+            {{ agent_name }}
+        {% endif %}
+        
+        {% if organization_image %}
+            <div class="position-absolute bottom-0 end-0" style="width: 50%;">
+                <img src="{{ organization_path }}" alt="{{ agent_name }}" width="24" height="24">
+                <span class="d-none list-party">{{ organization_data[0].name }}</span>
+            </div>
+        {% else %}
+            <span class="badge list-party" style="background-color:{{organization_data[0].color}};">{{ organization_data[0].name }}</span>
+        {% endif %}
+    </div>
 {% endif %}
