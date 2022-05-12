@@ -4,7 +4,7 @@
 
   <!-- Start comment form -->
   <div id="respond" style="">
-    <form id="comment-form" class="js-form" method="post" action="{{ site.comments.[comments_provider].post_url_v2 }}">
+    <form id="comment-form" class="js-form" method="post" action="{{ site.comments.[comments_provider].post_url }}">
       <h4 class="title">
         <span id="comment-heading-text">Deja un comentario</span> 
         <button class="btn btn-danger" id="cancel-comment-reply-link" style="display:none;">Cancelar respuesta</button>
@@ -27,11 +27,15 @@
       <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}#comments">
       <input type="hidden" id="comment-replying-to" name="options[parent]" value>
       <input type="hidden" id="comment-post-id" name="options[slug]" value="{{ page.slug }}">
+      {% if site.reCaptcha.enabled %}
       <input type="hidden" name="options[reCaptcha][siteKey]" value="{{ site.reCaptcha.siteKey }}">
       <input type="hidden" name="options[reCaptcha][secret]" value="{{ site.reCaptcha.secret }}">
+      {% endif %}
       <input type="hidden" name="options[subscribe]" value="email">
 
-      <div class="g-recaptcha mb-3" data-sitekey="{{ site.reCaptcha.siteKey }}"></div>
+      {% if site.reCaptcha.enabled %}
+        <div class="g-recaptcha mb-3" data-sitekey="{{ site.reCaptcha.siteKey }}"></div>
+      {% endif %}
       <div class="mb-3">
         <button type="submit" class="btn btn-primary" id="comment-form-submit">Enviar comentario</button>
         <a class="btn btn-outline-danger" id="hide-form" href="#" role="button">Cancelar comentario</a>
@@ -57,7 +61,9 @@
   </div>
 
   <!-- End comment form -->
-  <script async src="https://www.google.com/recaptcha/api.js"></script>
+  {% if site.reCaptcha.enabled %}
+    <script async src="https://www.google.com/recaptcha/api.js"></script>
+  {% endif %}
 {% else %}
   <div class="notice">
     <h4>Comments are closed</h4>

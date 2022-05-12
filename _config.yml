@@ -44,13 +44,12 @@ comments:
   provider: "staticman"
   staticman:
     branch: master # "master"
-    post_url_v2: https://sp-staticman.herokuapp.com/v2/entry/seguimiento-politico/seguimiento-politico.github.io/master/comments #V2 api
-    post_url: https://sp-staticman.herokuapp.com/v3/entry/github/seguimiento-politico/seguimiento-politico.github.io/master/comments #V3 api
+    post_url: http://localhost:8080/v2/entry/seguimiento-politico/seguimiento-politico.github.io/master/comments #V2 api
 
 # reCaptcha
 # Register your domain at https://www.google.com/recaptcha/ and choose reCAPTCHA V2
 reCaptcha:
-  enabled: true
+  enabled: false
   siteKey: "6Ld2bccfAAAAACrhq8GfhrFHEWp1dI_P3LUMBUw3"
   # Encrypt reCaptcha secret key using Staticman /encrypt endpoint
   # For more information, https://staticman.net/docs/encryption
