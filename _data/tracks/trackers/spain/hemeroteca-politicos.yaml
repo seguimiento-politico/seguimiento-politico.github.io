@@ -8,7 +8,7 @@ config:
 
 context:
     name: "Hemeroteca: Políticos"
-    description: Seguimiento de las afirmaciones de los políticos. Para comprobar su veracidad y saber lo que realmente piensan, más allá de sus cambios de retórica en periodos electorales.
+    description: Memoria colectiva para comprobar la veracidad y coherencia de las afirmaciones de los políticos.
     from: 1978-12-06
     sources:
     

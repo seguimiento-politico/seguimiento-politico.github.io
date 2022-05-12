@@ -4,12 +4,11 @@
 
   <!-- Start comment form -->
   <div id="respond" style="">
-    <h4 class="title">
-      <span id="comment-heading-text">Deja un comentario</span> 
-      <button class="btn btn-danger" id="cancel-comment-reply-link" style="display:none;">Cancelar respuesta</button>
-    </h4>
-    
     <form id="comment-form" class="js-form" method="post" action="{{ site.comments.[comments_provider].post_url }}">
+      <h4 class="title">
+        <span id="comment-heading-text">Deja un comentario</span> 
+        <button class="btn btn-danger" id="cancel-comment-reply-link" style="display:none;">Cancelar respuesta</button>
+      </h4>
       <div>
         <label class="form-label" for="comment-form-name">Alias
           <input type="text" class="form-control" id="comment-form-name" name="fields[name]" required spellcheck="false" placeholder="Your alias">
@@ -39,6 +38,10 @@
       </div>
       </form>
     
+    <div class="hidden js-notice notice">
+      <p class="js-notice-text text-danger"></p>
+    </div>
+
     <div class="callout callout-warning" style="margin-bottom: 1em">
       No compartiremos tu email con nadie, de hecho ni nosotros lo conoceremos porque se guarda encriptado.<br>
       Únicamente es empleado (el hash encriptado) para mostrar, en caso de existir, tu avatar de <a href="https://es.gravatar.com">Gravatar</a>.
@@ -50,10 +53,6 @@
       1. Comentarios con propósitos publicitarios serán considerados «spam».<br>
       2. Comentarios no relacionados con el contenido de la sección de la web o con comentarios previos.<br>
       3. Comentarios que no cumplan unos mínimos de respeto y educación. Especialmente aquellos que contengan insultos o mensajes de odio.
-    </div>
-      
-    <div class="hidden js-notice notice">
-      <p class="js-notice-text text-danger"></p>
     </div>
   </div>
 

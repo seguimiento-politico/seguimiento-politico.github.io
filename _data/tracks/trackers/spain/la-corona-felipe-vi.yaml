@@ -10,7 +10,7 @@ config:
     
 context:
     name: "La Corona: Felipe VI"
-    description: Seguimiento de los compromisos, acciones y declaraciones de la Casa Real española y sus miembros en tiempos del Rey Felipe VI.
+    description: Seguimiento de la Casa Real española y sus miembros en tiempos del Rey Felipe VI.
     from: 2014-06-19
     sources:
         - https://www.casareal.es

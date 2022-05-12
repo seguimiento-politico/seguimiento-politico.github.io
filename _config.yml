@@ -37,14 +37,15 @@ locale: "es-ES"
 repository-source: https://github.com/
 raw-repository-source: https://raw.githubusercontent.com/
 repository: seguimiento-politico/seguimiento-politico.github.io
+
 comments:
   active: true
   max_replies_level: 4
   provider: "staticman"
   staticman:
     branch: master # "master"
-    endpoint: https://sp-staticman.herokuapp.com/v3/entry/github/ # V3 api
-    post_url: https://sp-staticman.herokuapp.com/v2/entry/seguimiento-politico/seguimiento-politico.github.io/master/comments #V2 api
+    post_url_v2: https://sp-staticman.herokuapp.com/v2/entry/seguimiento-politico/seguimiento-politico.github.io/master/comments #V2 api
+    post_url: https://sp-staticman.herokuapp.com/v3/entry/github/seguimiento-politico/seguimiento-politico.github.io/master/comments #V3 api
 
 # reCaptcha
 # Register your domain at https://www.google.com/recaptcha/ and choose reCAPTCHA V2
