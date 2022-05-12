@@ -17,10 +17,13 @@ $(function() {
             $("#comment-form-submit")
             .html("Submitted")
             .addClass("btn--disabled");
+
             $("#respond .js-notice")
             .removeClass("text-danger")
             .addClass("text-success");
+
             $("#respond form").hide()[0];
+            
             showAlert(
                 '<strong>Thanks for your comment!</strong><br>It is <a href="https://github.com/seguimiento-politico/seguimiento-politico.github.io/pulls">currently pending</a> and will show on the site once approved. You will be notified if your comment is approved.'
             );
