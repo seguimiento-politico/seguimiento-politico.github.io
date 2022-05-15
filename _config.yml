@@ -43,8 +43,9 @@ comments:
   max_replies_level: 4
   provider: "staticman"
   staticman:
-    branch: master # "master"
-    post_url: http://localhost:8080/v2/entry/seguimiento-politico/seguimiento-politico.github.io/master/comments #V2 api
+    branch: dev # "master"
+    option: comments
+    endpoint: http://localhost:8080/v2/entry/seguimiento-politico/seguimiento-politico.github.io/
 
 # reCaptcha
 # Register your domain at https://www.google.com/recaptcha/ and choose reCAPTCHA V2

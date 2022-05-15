@@ -31,62 +31,67 @@
         <span class="align-self-center">
             {{ site.data.ui-text[site.locale].track_promises_label | default: "Tracking promises of" }} {{ track_data.context.name }}
         </span>
-        <a class="btn btn-sm btn-primary" href="{{page.url}}/register-promise">
-            <i class="fas fa-fw fa-plus"></i> Registrar promesa
-        </a>
+        <button class="btn btn-sm btn-primary" id="new-item" style=""><i class="fas fa-fw fa-plus"></i> nuevo compromiso</button>
     </h6>
-    <div class="row pt-2">
-        {% include listjs-categorization_filters.html %}
+
+    <div id="item-static-form" style="display:none;">
+        {% include item-new-form.html %}
     </div>
-    <div class="promises row pt-2" id="promises">
-        {% include listjs-text_filter.html %}
-
-        <div class="table-responsive-md promises__table">
-            <table class="table">
-                <thead> 
-                <tr class="bg-dark text-light">
-                    <th></th>
-                    <th>{{ site.data.ui-text[site.locale].promise_label | default: "Category" }}</th>
-                    <th>{{ site.data.ui-text[site.locale].promise_label | default: "Promise" }}</th>
-                    <th>{{ site.data.ui-text[site.locale].status_label | default: "Status" }}</th>
-                    <th></th>
-                </tr>
-                </thead>
-
-                <tbody class="list">
-                <!-- add color to each policy -->
-                {% for item_data in items %}
-                    {% assign item = item_data[1] %}
-                    {% assign status = statuses | where: "name", item.status | first %}
-                    {% assign category = categories | where: "name", item.category | first %}
-                    {% assign party = parties_data | where: "name", item.party | first %}
-                    
-                    <tr class="list-group-item-{{ status.color }}">
-                        <td>
-                            {% include items_logo.html type='party' %}
-                        </td>
-                        <td>
-                            <span class="list-category">{{ item.category }}</span>
-                            <span><i class="text-muted fas fa-fw fa-{{ category.icon }} " title="{{ category.name }}"></i></span>
-                        </td>
-                        <td class="list-text">
-                            <span><b>{{ item.title }}:</b></span>
-                            <span>{{ item.description }}</span>
-                        </td>
-                        <td>
-                            <span class="d-none sr-only list-status">{{ item.status }}</span>
-                            <span>{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}</span>
-                            <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}"></i>
-                        </td>
-                        <td class="text-center">
-                            <a class="btn btn-primary" href="{{ page.dir }}{{item.party | slugify | append: '_' }}{{ item.title | slugify }}">
-                                <span class="d-inline-block align-middle"><i class="fas fa-fw fa-angle-right"></i></span>
-                            </a>
-                        </td>
+    
+    <div id="item-content" style="">
+        <div class="row pt-2">
+            {% include listjs-categorization_filters.html %}
+        </div>
+        <div class="promises row pt-2" id="promises">
+            {% include listjs-text_filter.html %}
+    
+            <div class="table-responsive-md promises__table">
+                <table class="table">
+                    <thead> 
+                    <tr class="bg-dark text-light">
+                        <th></th>
+                        <th>{{ site.data.ui-text[site.locale].promise_label | default: "Category" }}</th>
+                        <th>{{ site.data.ui-text[site.locale].promise_label | default: "Promise" }}</th>
+                        <th>{{ site.data.ui-text[site.locale].status_label | default: "Status" }}</th>
+                        <th></th>
                     </tr>
-                {% endfor %}
-                </tbody>
-            </table>
-        </div>  
+                    </thead>
+    
+                    <tbody class="list">
+                    <!-- add color to each policy -->
+                    {% for item_data in items %}
+                        {% assign item = item_data[1] %}
+                        {% assign status = statuses | where: "name", item.status | first %}
+                        {% assign category = categories | where: "name", item.category | first %}
+                        {% assign party = parties_data | where: "name", item.party | first %}
+                        
+                        <tr class="list-group-item-{{ status.color }}">
+                            <td>
+                                {% include items_logo.html type='party' %}
+                            </td>
+                            <td>
+                                <span class="list-category">{{ item.category }}</span>
+                                <span><i class="text-muted fas fa-fw fa-{{ category.icon }} " title="{{ category.name }}"></i></span>
+                            </td>
+                            <td class="list-text">
+                                <span><b>{{ item.title }}:</b></span>
+                                <span>{{ item.description }}</span>
+                            </td>
+                            <td>
+                                <span class="d-none sr-only list-status">{{ item.status }}</span>
+                                <span>{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}</span>
+                                <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}"></i>
+                            </td>
+                            <td class="text-center">
+                                <a class="btn btn-primary" href="{{ page.dir }}{{item.party | slugify | append: '_' }}{{ item.title | slugify }}">
+                                    <span class="d-inline-block align-middle"><i class="fas fa-fw fa-angle-right"></i></span>
+                                </a>
+                            </td>
+                        </tr>
+                    {% endfor %}
+                    </tbody>
+                </table>
+            </div>  
+        </div>
     </div>
 </div>   

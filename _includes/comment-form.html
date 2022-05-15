@@ -4,7 +4,7 @@
 
   <!-- Start comment form -->
   <div id="respond" style="">
-    <form id="comment-form" class="js-form" method="post" action="{{ site.comments.[comments_provider].post_url }}">
+    <form id="comment-form" class="js-form" method="post" action="{{ site.comments.[comments_provider].endpoint }}{{ site.comments.[comments_provider].branch }}/{{ site.comments.[comments_provider].option }}">
       <h4 class="title">
         <span id="comment-heading-text">Deja un comentario</span> 
         <button class="btn btn-danger" id="cancel-comment-reply-link" style="display:none;">Cancelar respuesta</button>
@@ -45,25 +45,23 @@
     <div class="hidden js-notice notice">
       <p class="js-notice-text text-danger"></p>
     </div>
-
-    <div class="callout callout-warning" style="margin-bottom: 1em">
-      No compartiremos tu email con nadie, de hecho ni nosotros lo conoceremos porque se guarda encriptado.<br>
-      Únicamente es empleado (el hash encriptado) para mostrar, en caso de existir, tu avatar de <a href="https://es.gravatar.com">Gravatar</a>.
-    </div>
-    <div class="callout callout-warning" style="margin-bottom: 1em">
-      <strong>Los comentarios están sujetos a moderación.</strong> <br>
-      Tu comentario será revisado por un humano antes de su publicación.<br>
-      Como nos tomamos en serio la libertad de expresión, cualquier comentario será aprobado salvo los siguientes supuestos:<br>
-      1. Comentarios con propósitos publicitarios serán considerados «spam».<br>
-      2. Comentarios no relacionados con el contenido de la sección de la web o con comentarios previos.<br>
-      3. Comentarios que no cumplan unos mínimos de respeto y educación. Especialmente aquellos que contengan insultos o mensajes de odio.
+    <div class="js-callout">
+      <div class="callout callout-warning" style="margin-bottom: 1em">
+        No compartiremos tu email con nadie, de hecho ni nosotros lo conoceremos porque se guarda encriptado.<br>
+        Únicamente es empleado (el hash encriptado) para mostrar, en caso de existir, tu avatar de <a href="https://es.gravatar.com">Gravatar</a>.
+      </div>
+      <div class="callout callout-warning" style="margin-bottom: 1em">
+        <strong>Los comentarios están sujetos a moderación.</strong> <br>
+        Tu comentario será revisado por un humano antes de su publicación.<br>
+        Como nos tomamos en serio la libertad de expresión, cualquier comentario será aprobado salvo los siguientes supuestos:<br>
+        1. Comentarios con propósitos publicitarios serán considerados «spam».<br>
+        2. Comentarios no relacionados con el contenido de la sección de la web o con comentarios previos.<br>
+        3. Comentarios que no cumplan unos mínimos de respeto y educación. Especialmente aquellos que contengan insultos o mensajes de odio.
+      </div>
     </div>
   </div>
 
   <!-- End comment form -->
-  {% if site.reCaptcha.enabled %}
-    <script async src="https://www.google.com/recaptcha/api.js"></script>
-  {% endif %}
 {% else %}
   <div class="notice">
     <h4>Comments are closed</h4>

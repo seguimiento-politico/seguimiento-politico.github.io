@@ -103,28 +103,23 @@ comments:
   transforms:
     email: md5
 
-messages:
-  allowedFields: ["name", "email", "message"]
-  allowedOrigins: ["seguimiento-politico.github.io"]
-  branch: "master"
-  commitMessage: "New message by {fields.name}"
-  filename: "message-{@timestamp}"
+track-items:
+  allowedFields: ["title", "description", "category", "party"]
+  allowedOrigins: ["seguimiento-politico.github.io", "localhost"]
+  branch: "dev"
+  commitMessage: "New track-item"
+  filename: "{options.filename}"
   format: "yaml"
   generatedFields:
-    date:
+    last_modified:
       type: "date"
       options:
         format: "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-  moderation: true
+  moderation: false
   akismet:
-    enabled: true
-    author: "name"
-    authorEmail: "email"
-    authorUrl: "url"
-    content: "message"
-    type: "comment"
-  path: "_data/comments/{options.slug}" 
-  requiredFields: ["name", "email", "message"]
+    enabled: false
+  path: "_data/tracks/items/{options.folder}/{options.track}" 
+  requiredFields: ["title", "description", "category", "party"]
   transforms:
   reCaptcha:
     enabled: true
