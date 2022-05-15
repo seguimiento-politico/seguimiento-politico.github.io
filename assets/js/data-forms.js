@@ -14,18 +14,7 @@ $(function() {
         data: $(this).serialize(),
         contentType: "application/x-www-form-urlencoded",
         success: function(data) {
-            $("#item-form-submit")
-            .html("Submitted")
-            .addClass("btn--disabled");
-
-            $("#item-static-form .js-notice-text")
-            .removeClass("text-danger")
-            .addClass("text-success");
-
-            $("#item-static-form form").hide()[0];
-            $("#item-static-form .js-callout").hide()[0];
-
-            //location.reload();
+            window.location.reload(true);
         },
         error: function(err) {
             console.log(err);
