@@ -44,7 +44,7 @@ comments:
   provider: "staticman"
   staticman:
     branch: dev # "master"
-    option: comments2
+    option: comments
     endpoint: http://localhost:8080/v2/entry/seguimiento-politico/seguimiento-politico.github.io/
 
 # reCaptcha
