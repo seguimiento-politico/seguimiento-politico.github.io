@@ -120,8 +120,8 @@ comments2:
   path: "_data/comments/{options.slug}" # "_data/comments/{options.slug}" (default)
   requiredFields: ["name", "email", "message"]
 
-track-items:
-  allowedFields: ["title", "description", "category", "party"]
+new-track-items:
+  allowedFields: ["title", "description", "category", "agent"]
   allowedOrigins: ["seguimiento-politico.github.io", "localhost"]
   branch: "dev"
   commitMessage: "New track-item"

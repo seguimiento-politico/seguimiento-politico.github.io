@@ -6,7 +6,8 @@ $(function() {
         $('#item-filename').val(
             slugify(document.getElementById('agent').value) + '_' + slugify(document.getElementById('title').value)
         );
-
+        alert(document.getElementById('item-filename').value);
+        
         $(form).addClass("disabled");
         $("#item-form-submit").html(
         'Sending...'
