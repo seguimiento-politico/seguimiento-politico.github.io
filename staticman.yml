@@ -108,7 +108,7 @@ track-items:
   allowedOrigins: ["seguimiento-politico.github.io", "localhost"]
   branch: "dev"
   commitMessage: "New track-item"
-  filename: "{options.filename}"
+  filename: "prueba"
   format: "yaml"
   generatedFields:
     last_modified:
