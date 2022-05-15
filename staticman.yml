@@ -117,7 +117,7 @@ comments2:
         format: "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
   moderation: true
   akismet:
-    enabled: true
+    enabled: false
     author: "name"
     authorEmail: "email"
     authorUrl: "url"
