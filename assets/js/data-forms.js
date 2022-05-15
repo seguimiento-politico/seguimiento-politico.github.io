@@ -3,6 +3,10 @@ $(function() {
     $("#item-form").submit(function() {
         var form = this;
 
+        $('#item-filename').val(
+            slugify(document.getElementById('agent').value) + '_' + slugify(document.getElementById('title').value)
+        );
+
         $(form).addClass("disabled");
         $("#item-form-submit").html(
         'Sending...'
@@ -34,6 +38,19 @@ $(function() {
 
 });
 
+// from https://gist.github.com/codeguy/6684588
+function slugify(text) {
+    return text
+      .toString()                           // Cast to string (optional)
+      .normalize('NFKD')            // The normalize() using NFKD method returns the Unicode Normalization Form of a given string.
+      .replace( /[\u0300-\u036f]/g, '' )   // remove all previously split accents
+      .toLowerCase()                  // Convert the string to lowercase letters
+      .trim()                                  // Remove whitespace from both sides of a string (optional)
+      .replace(/\s+/g, '-')            // Replace spaces with -
+      .replace(/[^\w\-]+/g, '')     // Remove all non-word chars
+      .replace(/\-\-+/g, '-');        // Replace multiple - with single -
+  }
+    
 function showAlert(message) {
     $("#item-form-submit .js-notice").show()[0];
     $("#item-form-submit .js-notice-text").html(message);
