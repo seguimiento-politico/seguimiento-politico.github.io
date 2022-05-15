@@ -23,8 +23,8 @@
         </select>
     </div>
     <div class="col-md-6">
-        <label class="form-label" for="item-form-party">Partido</label>
-        <select class="form-select" aria-label="Default select example" id="party" name="fields[agent]">
+        <label class="form-label" for="item-form-agent">Partido</label>
+        <select class="form-select" aria-label="Default select example" id="agent" name="fields[agent]">
             <option selected>-- Seleccionar --</option>
             {% for party in track_data.parties %}
                 <option value="{{ party.name }}">{{ party.name }}</option>
