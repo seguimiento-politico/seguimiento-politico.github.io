@@ -108,7 +108,7 @@ track-items:
   allowedOrigins: ["seguimiento-politico.github.io", "localhost"]
   branch: "dev"
   commitMessage: "New track-item"
-  filename: "prueba"
+  filename: "prueba-{@timestamp}"
   format: "yaml"
   generatedFields:
     last_modified:
@@ -118,7 +118,12 @@ track-items:
   moderation: false
   akismet:
     enabled: false
-  path: "_data/tracks/items/{options.folder}/{options.track}" 
+    author: "name"
+    authorEmail: "email"
+    authorUrl: "url"
+    content: "message"
+    type: "comment"
+  path: "_data/tracks/items/{options.folder}" 
   requiredFields: ["title", "description", "category", "party"]
   transforms:
   reCaptcha:
