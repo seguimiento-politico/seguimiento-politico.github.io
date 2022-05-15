@@ -35,7 +35,7 @@
         <p class="mx-3">{{ item.status_info }}</p>
     </p>
     <p class="text-end text-muted small mb-0" id="UID">
-        <b>UID:</b> {{ page.slug }}
+        <b>UID:</b> {{ item._id }}
     </p>
 
     <p class="text-end text-muted small mb-0"> 
@@ -53,7 +53,7 @@
     <span class="m-2"><b>Compromisos relacionados:</b></span>
     <span>
         {% for uid in item.related %}
-            {% assign related = site.tracks | where: "slug", uid %}
+            {% assign related = site.tracks | where: "_id", uid %}
             <a class="btn btn-sm btn-outline-dark" href="{{ related[0].url }}" role="button">{{ related[0].item_name | replace: "-", " " | replace: "_", " - "}}</a>
         {% endfor %}
     </span>
