@@ -133,5 +133,5 @@ track-items:
       options:
         format: "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
   moderation: false
-  path: "_data/tracks/items/{options.folder}" 
+  path: "_data/tracks/items/{options.folder}/{options.track}" 
   requiredFields: ["title", "description", "category", "party"]
