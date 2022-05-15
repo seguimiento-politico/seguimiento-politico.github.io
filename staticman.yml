@@ -104,7 +104,7 @@ comments:
     email: md5
 
 comments2:
-  allowedFields: ["name", "email", "url", "message"])
+  allowedFields: ["name", "email", "url", "message"]
   allowedOrigins: ["seguimiento-politico.github.io", "localhost"]
   branch: "dev"
   commitMessage: "New comment by {fields.name} on {options.slug}"
