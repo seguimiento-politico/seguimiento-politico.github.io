@@ -76,4 +76,4 @@ document.getElementById("cancel-form").onclick = function() {
     toggleDisplay("item-content");
 };
 
-hideAlert();
+$("#item-form-submit .js-notice").hide()[0];
