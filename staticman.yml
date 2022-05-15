@@ -103,23 +103,6 @@ comments:
   transforms:
     email: md5
 
-comments2:
-  allowedFields: ["name", "email", "url", "message"]
-  allowedOrigins: ["seguimiento-politico.github.io", "localhost"]
-  branch: "dev"
-  commitMessage: "New comment by {fields.name} on {options.slug}"
-  filename: "comment-{@timestamp}"
-  format: "yaml"
-  generatedFields:
-    date:
-      type: "date"
-      options:
-        format: "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-  moderation: true
-  name: "Seguimiento-politico"
-  path: "_data/comments/{options.slug}" # "_data/comments/{options.slug}" (default)
-  requiredFields: ["name", "email", "message"]
-
 new-track-items:
   allowedFields: ["title", "description", "category", "agent"]
   requiredFields: ["title", "description", "category", "agent"]
