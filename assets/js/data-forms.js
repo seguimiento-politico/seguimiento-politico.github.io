@@ -50,13 +50,13 @@ function slugify(text) {
   }
     
 function showAlert(message) {
-    $("#item-form-submit .js-notice").show()[0];
-    $("#item-form-submit .js-notice-text").html(message);
+    $("#item-form-wrapper .js-notice").show()[0];
+    $("#item-form-wrapper .js-notice-text").html(message);
 }
 
 function hideAlert() {
-    $("#item-form-submit .js-notice").hide()[0];
-    $("#item-form-submit .js-notice-text").html("");
+    $("#item-form-wrapper .js-notice").hide()[0];
+    $("#item-form-wrapper .js-notice-text").html("");
 }
 
 function toggleDisplay(e) {
@@ -70,14 +70,15 @@ function toggleDisplay(e) {
     }
 }
 
+hideAlert();
+
 document.getElementById("new-item").onclick = function() {
-    toggleDisplay("item-static-form");
+    toggleDisplay("item-form-wrapper");
     toggleDisplay("item-content");
 };
 
 document.getElementById("cancel-form").onclick = function() {
-    toggleDisplay("item-static-form");
+    toggleDisplay("item-form-wrapper");
     toggleDisplay("item-content");
 };
 
-$("#item-form-submit .js-notice").hide()[0];

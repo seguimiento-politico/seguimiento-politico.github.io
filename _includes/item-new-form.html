@@ -1,56 +1,58 @@
 {% capture comments_provider %}{{ site.comments.provider }}{% endcapture %}
-<form id="item-form" class="row js-form" method="post" action="{{ site.comments.[comments_provider].endpoint }}{{ site.comments.[comments_provider].branch }}/new-track-items">
-    <h4 class="title">
-      <span>Nuevo compromiso/promesa</span> 
-    </h4>
-    <div class="col-12">
-      <label class="form-label" for="item-form-title">Título</label>
-      <input type="text" class="form-control" id="title" name="fields[title]" required spellcheck="false" placeholder="Title">
-    </div>
+<div id="item-form-wrapper" style="display:none;">
+  <form id="item-form" class="row js-form" method="post" action="{{ site.comments.[comments_provider].endpoint }}{{ site.comments.[comments_provider].branch }}/new-track-items">
+      <h4 class="title">
+        <span>Nuevo compromiso/promesa</span> 
+      </h4>
+      <div class="col-12">
+        <label class="form-label" for="item-form-title">Título</label>
+        <input type="text" class="form-control" id="title" name="fields[title]" required spellcheck="false" placeholder="Title">
+      </div>
+      
+      <div class="col-12">
+        <label class="form-label" for="item-form-description">Descripción</label>
+        <textarea type="text" class="form-control" rows="4" id="item-form-description" name="fields[description]" required spellcheck="true" placeholder="Your description"></textarea>
+      </div>
+
+      <div class="col-md-6">
+          <label class="form-label" for="item-form-category">Categoría</label>
+          <select class="form-select" aria-label="Default select example" id="category" name="fields[category]">
+              <option selected>-- Seleccionar --</option>
+              {% for cat in categories %}
+                  <option value="{{ cat.name }}">{{ cat.name }}</option>
+              {% endfor %}
+          </select>
+      </div>
+      <div class="col-md-6">
+          <label class="form-label" for="item-form-agent">Partido</label>
+          <select class="form-select" aria-label="Default select example" id="agent" name="fields[agent]">
+              <option selected>-- Seleccionar --</option>
+              {% for party in track_data.parties %}
+                  <option value="{{ party.name }}">{{ party.name }}</option>
+              {% endfor %}
+          </select>
+      </div>
     
-    <div class="col-12">
-      <label class="form-label" for="item-form-description">Descripción</label>
-      <textarea type="text" class="form-control" rows="4" id="item-form-description" name="fields[description]" required spellcheck="true" placeholder="Your description"></textarea>
-    </div>
+      <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
+      <input type="hidden" id="item-id" name="options[slug]" value="{{ page.slug }}">
+      <input type="hidden" id="item-folder" name="options[folder]" value="{{ page.subfolder }}">
+      <input type="hidden" id="item-track" name="options[track]" value="{{ page.track_name}}">
+      <input type="hidden" id="item-filename" name="options[filename]" value>
+      {% if site.reCaptcha.enabled %}
+      <input type="hidden" name="options[reCaptcha][siteKey]" value="{{ site.reCaptcha.siteKey }}">
+      <input type="hidden" name="options[reCaptcha][secret]" value="{{ site.reCaptcha.secret }}">
+      {% endif %}
 
-    <div class="col-md-6">
-        <label class="form-label" for="item-form-category">Categoría</label>
-        <select class="form-select" aria-label="Default select example" id="category" name="fields[category]">
-            <option selected>-- Seleccionar --</option>
-            {% for cat in categories %}
-                <option value="{{ cat.name }}">{{ cat.name }}</option>
-            {% endfor %}
-        </select>
-    </div>
-    <div class="col-md-6">
-        <label class="form-label" for="item-form-agent">Partido</label>
-        <select class="form-select" aria-label="Default select example" id="agent" name="fields[agent]">
-            <option selected>-- Seleccionar --</option>
-            {% for party in track_data.parties %}
-                <option value="{{ party.name }}">{{ party.name }}</option>
-            {% endfor %}
-        </select>
-    </div>
-  
-    <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
-    <input type="hidden" id="item-id" name="options[slug]" value="{{ page.slug }}">
-    <input type="hidden" id="item-folder" name="options[folder]" value="{{ page.subfolder }}">
-    <input type="hidden" id="item-track" name="options[track]" value="{{ page.track_name}}">
-    <input type="hidden" id="item-filename" name="options[filename]" value>
-    {% if site.reCaptcha.enabled %}
-    <input type="hidden" name="options[reCaptcha][siteKey]" value="{{ site.reCaptcha.siteKey }}">
-    <input type="hidden" name="options[reCaptcha][secret]" value="{{ site.reCaptcha.secret }}">
-    {% endif %}
+      {% if site.reCaptcha.enabled %}
+        <div class="g-recaptcha mb-3" data-sitekey="{{ site.reCaptcha.siteKey }}"></div>
+      {% endif %}
+      <div class="mt-3">
+        <button type="submit" class="btn btn-primary" id="item-form-submit">Enviar</button>
+        <a class="btn btn-outline-danger" id="cancel-form" href="#" role="button">Cancelar</a>
+      </div>
+  </form>
 
-    {% if site.reCaptcha.enabled %}
-      <div class="g-recaptcha mb-3" data-sitekey="{{ site.reCaptcha.siteKey }}"></div>
-    {% endif %}
-    <div class="mt-3">
-      <button type="submit" class="btn btn-primary" id="item-form-submit">Enviar</button>
-      <a class="btn btn-outline-danger" id="cancel-form" href="#" role="button">Cancelar</a>
-    </div>
-</form>
-
-<div class="js-notice notice">
-    <p class="js-notice-text text-danger"></p>
+  <div class="js-notice notice" style="">
+      <p class="js-notice-text text-danger"></p>
+  </div>
 </div>
