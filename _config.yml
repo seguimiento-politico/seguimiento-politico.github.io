@@ -43,7 +43,7 @@ comments:
   max_replies_level: 4
   provider: "staticman"
   staticman:
-    branch: dev # "master"
+    branch: master # "master"
     option: comments
     endpoint: http://localhost:8080/v2/entry/seguimiento-politico/seguimiento-politico.github.io/
 
