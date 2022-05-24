@@ -45,7 +45,7 @@ comments:
   staticman:
     branch: master # "master"
     option: comments
-    endpoint: http://localhost:8080/v2/entry/seguimiento-politico/seguimiento-politico.github.io/
+    endpoint: http://sp-staticman.herokuapp.com/v2/entry/seguimiento-politico/seguimiento-politico.github.io/
 
 # reCaptcha
 # Register your domain at https://www.google.com/recaptcha/ and choose reCAPTCHA V2
