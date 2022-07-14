@@ -1,0 +1,65 @@
+---
+layout: page
+---
+
+<div class="card py-3 shadow-sm">
+    <div class="container">
+      <div class="row row-cols-1 row-cols-xs-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4">
+        {% for track in site.data.tracks %}
+            {% if track[1].settings.config.draft == true %}
+              {% continue %}
+            {% endif %}
+              
+              {% assign teaser = site.images_path | append: 'teasers/' %}
+              {% if track[1].settings.config.scope == "national" or track[1].settings.config.scope == "regional" or track[1].settings.config.scope == "local" and track[1].settings.config.country %}
+                {% assign path = track[1].settings.config.country | append: '/' %}
+                {% assign path2 = track[1].settings.config.country | append: '/' %}
+                {% if track[1].settings.config.region %}
+                  {% assign path2 = path2 | append: track[1].settings.config.region | append: '/' %}
+                      {% if track[1].settings.config.locality %}
+                          {% assign path2 = path2 | append: track[1].settings.config.locality | append: '/' %}
+                      {% endif %}
+                {% endif %}
+                {% if track[1].settings.config.institution %}
+                  {% assign path2 = path2 | append: track[1].settings.config.institution | append: '.png' %}
+                {% endif %}
+              {% endif %}
+              
+              {% if track[1].settings.config.scope == "international" and track[1].settings.config.organization %}
+                {% assign path = track[1].settings.config.organization | append: '/' %}
+                {% assign path2 = track[1].settings.config.organization | append: '/' %}
+                {% if track[1].settings.config.institution %}
+                  {% assign path2 = path2 | append: track[1].settings.config.institution | append: '.png' %}
+                {% endif %}
+              {% endif %}
+
+              {% assign teaser = teaser | append: path2 %}
+
+                <div class="col py-3">
+                    <div class="card shadow-sm bg-light h-100">
+                    {% if teaser != site.teaser %}
+                        <img src="{{ teaser }}" class="" alt="{{ track[1].settings.config.institution }}">
+                    {% endif %}
+                    <div class="card-body">
+                    <h5 class="card-title">{{ track[1].settings.context.name }}</h5>
+                    <h6 class="card-subtitle mb-2 text-muted small">{{ track[1].settings.context.from }} a {% if track[1].settings.context.to %} {{ track[1].settings.context.to }} {% else %} actualidad {% endif %}</h6>
+                        <p class="card-text">{{ track[1].settings.context.description }}</p>
+                        
+                    </div>
+                    <div class="card-footer">
+                        <div class="d-flex justify-content-between align-items-center">
+                        <div class="btn-group">
+                            <a class="btn btn-sm btn-outline-primary" href="tracks/{{ track[0] }}" role="button">{{ site.data.ui-text[site.locale].view_label | default: "view" | downcase }}</a>
+                            <a class="btn btn-sm btn-outline-secondary" href="{{ site.raw-repository-source }}{{ site.repository}}/master/_data/tracks/trackers/{{ path }}/{{ track[0] }}.yaml" role="button">{{ site.data.ui-text[site.locale].open_label | default: "open data" | downcase }}</a>
+                        </div>
+                        {% assign items = site.data.tracks.[track[0]] %}
+                        <small class="text-muted">{{ items | size | minus: 1 }} {{ site.data.ui-text[site.locale].promises_label | default: "promises" | downcase }}</small>
+                        </div>
+                    </div>
+                </div>
+                </div>
+        {% endfor %}
+      </div>
+    </div>
+</div>
+<br>

@@ -2,15 +2,15 @@
 layout: page
 ---
 <!-- load common variables -->
-{% assign track_data = site.data.tracks.trackers.[page.subfolder].[page.track_name] %}
-{% assign item = site.data.tracks.items.[page.subfolder].[page.track_name].[page.item_name] %}
+{% assign track_data = site.data.tracks.[page.track_name] %}
+{% assign item = track_data.[page.item_name] %}
 
 {{ content }}
 
 {% include breadcrumb.html %}
 
 <!-- include custom html depending on track type -->
-{% case track_data.config.type %}
+{% case track_data.settings.config.type %}
     {% when 'politics-promises-by-party' %}
         {% include politics_promises_parties_item.html %}
 

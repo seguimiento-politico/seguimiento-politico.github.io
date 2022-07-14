@@ -1,5 +1,5 @@
 {% include categorization.html %}
-{% assign party_data = site.data.agents.organizations.[track_data.config.country].parties | where: "name", item.party | first %}
+{% assign party_data = site.data.agents.[track_data.settings.config.country].parties | where: "name", item.party | first %}
 {% assign status = statuses | where:'name', item.status | first %}
 
 <!-- Party logo path -->
@@ -20,7 +20,7 @@
             <a class="btn btn-sm btn-primary" href="{{page.url}}/edit-item">
                 <i class="fas fa-fw fa-pen"></i> Editar promesa
             </a>
-            <a class="btn btn-sm btn-outline-secondary" href="{{ site.raw-repository-source }}{{ site.repository}}/master/_data/tracks/items/{{page.subfolder}}/{{page.track_name}}/{{page.item_name}}.yaml" role="button">{{ site.data.ui-text[site.locale].open_label | default: "open data" | downcase }}</a>
+            <a class="btn btn-sm btn-outline-secondary" href="{{ site.raw-repository-source }}{{ site.repository}}/master/_data/tracks{{page.subfolder}}/{{page.track_name}}/{{page.item_name}}.yaml" role="button">{{ site.data.ui-text[site.locale].open_label | default: "open data" | downcase }}</a>
         </div>
         
     </div>
@@ -40,10 +40,10 @@
 
     <p class="text-end text-muted small mb-0"> 
         <b>{{ site.data.ui-text[site.locale].last_review | default: "Last review" }}:</b>
-        {{ item.last_modified | date: "%-d" }}
-        {% assign m = item.last_modified | date: "%-m" | minus: 1 %}
+        {{ item.lastmod | date: "%-d" }}
+        {% assign m = item.lastmod | date: "%-m" | minus: 1 %}
         {{ site.data.ui-text[site.locale].months[m] }}
-        {{ item.last_modified | date: "%Y" }}
+        {{ item.lastmod | date: "%Y" }}
     </p>
 
 </div>

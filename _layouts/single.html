@@ -12,8 +12,8 @@ layout: page
     {% if page.date %}
         <meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">
     {% endif %}
-    {% if page.last_modified_at %}
-        <meta itemprop="dateModified" content="{{ page.last_modified_at | date_to_xmlschema }}">
+    {% if page.lastmod_at %}
+        <meta itemprop="dateModified" content="{{ page.lastmod_at | date_to_xmlschema }}">
     {% endif %}
 
     <div class="page__inner-wrap">

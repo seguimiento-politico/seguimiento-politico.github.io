@@ -22,6 +22,12 @@ layout: compress
 
         {% include footer.html %}
 
+        <!-- all external and PDF links will be opened in a new window by default -->
+        {% include /tweaks/new-window-fix.html %}
+
+        <!-- delay scripts load until cookies are accepted -->
+        {% include /tweaks/cookie-consent.html %}
+
         {% include scripts.html %}
         
     </body>

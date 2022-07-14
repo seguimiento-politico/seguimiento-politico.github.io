@@ -1,103 +1,114 @@
 <!-- Data files and static files (images and documents) share common folder structure -->
 {% assign path_array = "" | split: ',' %}
-
-{% if track_data.config.scope == "national" or track_data.config.scope == "regional" or track_data.config.scope == "local" and track_data.config.country %}
-    {% assign path_array = path_array | push: track_data.config.country %}
-    {% if track_data.config.region %}
-        {% assign path_array = path_array | push: track_data.config.region %}
-        {% if track_data.config.locality %}
-            {% assign path_array = path_array | push: track_data.config.locality %}
-        {% endif %}
-    {% endif %}
-{% elsif track_data.config.scope == "international" %}
-    {% assign path_array = path_array | push: track_data.config.organization %}
-{% endif %}
-
-{% if include.type == 'party' %}
-    {% assign organization_path = site.images_path | append: 'organizations/' %}
-    {% assign organization_data = site.data.agents.organizations %}
-
-{% elsif include.type == 'politician' %}
-    {% assign person_path = site.images_path | append: 'people/' %} 
-    {% assign person_data = site.data.agents.people %}
-
-    {% assign organization_path = site.images_path | append: 'organizations/' %}
-    {% assign organization_data = site.data.agents.organizations %}
-
-{% endif %}
-
-{% for folder in path_array %}
-    {% assign person_path = person_path | append: folder | append: '/' %}
-    {% assign person_data = person_data.[folder] %}
-
-    {% assign organization_path = organization_path | append: folder | append: '/' %}
-    {% assign organization_data = organization_data.[folder] %}
-{% endfor %}
-
-{% if include.type == 'party' %}
-    {% assign agent_name = item.party %}
-    {% assign text = item.party | slugify %}
-    {% include normalize_text.html %}
-
-    {% assign organization_path = organization_path | append: text | append: '.gif'  %}
-    {% assign organization_data = organization_data.parties | where: 'name', agent_name %}
-
-{% elsif include.type == 'politician' %}
-    {% assign agent_name = item.politician %}
-    {% assign text = agent_name | slugify %}
-    {% include normalize_text.html %}
-
-    {% assign person_path = person_path | append: text | append: '.jpg'  %}
-    {% assign person_data = person_data.politicians | where: 'name', agent_name %}
-
-    {% assign text = person_data[0].party | slugify %}
-    {% include normalize_text.html %}
-
-    {% assign organization_path = organization_path | append: text | append: '.gif'  %}
-    {% assign organization_data = organization_data.parties | where: 'name', person_data[0].party %}
-
-{% endif %}
-
-<!-- Check if corresponding images exist in images folder -->
 {% assign image_files = site.static_files | where: "image", true %}
 
-{% assign organization_image = false %}
-{% assign person_image = false %}
-
-{% for image in image_files %}
-    {% if image.path == organization_path %}
-        {% assign organization_image = true %}
-    {% endif %}
-    {% if image.path == person_path %}
-        {% assign person_image = true %}
-    {% endif %}
-{% endfor %}
-
-<!-- Show images/data -->
-{% if include.type == 'party' %}
-    {% if organization_image %}
-        <div class="list-party">
-            <img src="{{ organization_path }}" alt="{{ agent_name }}" width="36" height="36">
-        </div>
-    {% else %}
-        <span class="list-party" style="color:{{organization_data[0].color}};">{{ organization_data[0].name }}</span>
-    {% endif %}
-{% elsif include.type == 'politician' %}
-    <div class="position-relative list-politician">
-        {% if person_image %}
-            <img src="{{ person_path }}" alt="{{ agent_name }}" width="48" height="48">
-            <span class="d-none list-politician">{{ agent_name }}</span>
-        {% else %}
-            {{ agent_name }}
+{% if track_data.settings.config.scope == "national" or track_data.settings.config.scope == "regional" or track_data.settings.config.scope == "local" and track_data.settings.config.country %}
+    {% assign path_array = path_array | push: track_data.settings.config.country %}
+    {% if track_data.settings.config.region %}
+        {% assign path_array = path_array | push: track_data.settings.config.region %}
+        {% if track_data.settings.config.locality %}
+            {% assign path_array = path_array | push: track_data.settings.config.locality %}
         {% endif %}
-        
+    {% endif %}
+{% elsif track_data.settings.config.scope == "international" %}
+    {% assign path_array = path_array | push: track_data.settings.config.organization %}
+{% endif %}
+{% assign scope = path_array[0] %}
+
+
+{% assign organization_path = site.images_path | append: 'parties/' | append: scope | append: '/' %}
+
+{% if include.type == 'party' or include.type == 'politician' %}
+    {% assign agent_name = item.[include.type] %}
+    {% assign text = agent_name | slugify %}
+    {% include normalize_text.html %}
+    
+    {% if include.type == 'party' %}
+        {% assign organization_path = organization_path | append: text | append: '.gif'  %}
+        {% assign organization_data = site.data.agents.[scope].parties | where: 'name', agent_name %}
+
+         <!-- Check if corresponding images exist in images folder -->
+         {% for image in image_files %}
+            {% if image.path == organization_path %}
+                {% assign organization_image = true %}
+            {% endif %}
+        {% endfor %}
         {% if organization_image %}
-            <div class="position-absolute bottom-0 end-0" style="width: 50%;">
-                <img src="{{ organization_path }}" alt="{{ agent_name }}" width="24" height="24">
-                <span class="d-none list-party">{{ organization_data[0].name }}</span>
+            <div class="list-party">
+                <img src="{{ organization_path }}" alt="{{ agent_name }}" width="36" height="36">
             </div>
         {% else %}
-            <span class="badge list-party" style="background-color:{{organization_data[0].color}};">{{ organization_data[0].name }}</span>
+            <span class="list-party" style="color:{{organization_data[0].color}};">{{ organization_data[0].name }}</span>
         {% endif %}
-    </div>
+    
+    {% elsif include.type == 'politician' %}
+        {% assign person_path = site.images_path | append: 'politicians/' | append: scope | append: '/' | append: text | append: '.jpg' %} 
+        {% assign person_data = site.data.agents.[scope].politicians | where: 'name', agent_name %}
+
+        {% assign text = person_data[0].party | slugify %}
+        {% include normalize_text.html %}
+
+        {% assign organization_path = site.images_path | append: 'parties/' | append: text | append: '.gif'  %}
+        {% assign organization_data = site.data.agents.parties | where: 'name', person_data[0].party %}
+
+        <div class="position-relative list-politician">
+             <!-- Check if corresponding images exist in images folder -->
+            {% for image in image_files %}
+                {% if image.path == organization_path %}
+                    {% assign organization_image = true %}
+                {% endif %}
+                {% if image.path == person_path %}
+                    {% assign person_image = true %}
+                {% endif %}
+            {% endfor %}
+            {% if person_image %}
+                <img src="{{ person_path }}" alt="{{ agent_name }}" width="48" height="48">
+                <span class="d-none list-politician">{{ agent_name }}</span>
+            {% else %}
+                {{ agent_name }}
+            {% endif %}
+            
+            {% if organization_image %}
+                <div class="position-absolute bottom-0 end-0" style="width: 50%;">
+                    <img src="{{ organization_path }}" alt="{{ agent_name }}" width="24" height="24">
+                    <span class="d-none list-party">{{ organization_data[0].name }}</span>
+                </div>
+            {% else %}
+                <span class="badge list-party" style="background-color:{{organization_data[0].color}};">{{ organization_data[0].name }}</span>
+            {% endif %}
+        </div>
+    {% endif %}
+
+{% elsif include.type == 'parties' or include.type == 'coalition'%}
+    {% assign coalitions_data = site.data.agents.[scope].coalitions %}
+
+    {% if include.type == 'coalition' %}
+        {% assign coalition = site.data.agents.[scope].coalitions | where: 'name', item.coalition[0] | first %}
+        
+        {% for party in coalition.parties %}
+            {% assign agent_name = party %}
+            {% assign text = agent_name | slugify %}
+            {% include normalize_text.html %}
+            
+            {% assign party_path = organization_path | append: text | append: '.gif'  %}
+            {% assign organization_data = site.data.agents.[scope].parties | where: 'name', agent_name %}
+
+            <!-- Check if corresponding images exist in images folder -->
+            {% for image in image_files %}
+                {% if image.path == party_path %}
+                    {% assign organization_image = true %}
+                {% endif %}
+            {% endfor %}
+            {% if organization_image %}
+                <div class="list-party">
+                    <img src="{{ party_path }}" alt="{{ agent_name }}" width="36" height="36">
+                </div>
+            {% else %}
+                <span class="list-party" style="color:{{organization_data[0].color}};">{{ organization_data[0].name }}</span>
+            {% endif %}
+        {% endfor %}
+    {% endif %}
+
 {% endif %}
+
+    
