@@ -3,7 +3,7 @@ $(function() {
     $("#item-form").submit(function() {
         var form = this;
 
-        $('#item-filename').val(slugify(document.getElementById('agent').value) + '_' + slugify(document.getElementById('title').value));
+        $('#item-filename').val(slugify(document.getElementById('title').value));
 
         $(form).addClass("disabled");
         $("#item-form-submit").html(
