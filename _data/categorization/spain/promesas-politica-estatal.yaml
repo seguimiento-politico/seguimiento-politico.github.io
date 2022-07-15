@@ -47,10 +47,15 @@ categories:
 
 statuses:
     -
+        name: Desconocido
+        lang_label: status_unknown
+        color: dark
+        icon: question-circle
+    -
         name: Sin iniciar
         lang_label: status_not_started
         color: secondary
-        icon: hourglass-start
+        icon: hourglass-half
     -
         name: En progreso
         lang_label: status_in_progress
@@ -65,12 +70,17 @@ statuses:
         name: Cumplido a medias
         lang_label: status_compromised
         color: warning
-        icon: handshake
+        icon: asterisk
+    -
+        name: Bloquedado
+        lang_label: status_blocked
+        color: danger
+        icon: ban
     -
         name: Incumplido
         lang_label: status_broken
         color: danger
-        icon: ban
+        icon: times-circle
 
 filter_by_status_lang_label: status_label
 filter_by_category_lang_label: category_label

@@ -4,7 +4,9 @@ title: 'Ley de Bienestar Animal'
 description: '"Derogación urgente de los aspectos más lesivos de la reforma laboral, combatiendo la precariedad y el fraude laboral."'
 status: Cumplido a medias
 status_info: 'Se ha realizado una derogación parcial de la reforma laboral anterior y como la promesa es ambigua, cualquier conclusión taxativa es imposible.'
-category: Economía, trabajo y hacienda
+categories: 
+  - Derechos y servicios sociales
+  - Medioambiente
 tags: [Empleo]
 parties: [PSOE, UNIDAS PODEMOS]
 related: # use UID to reference related promises

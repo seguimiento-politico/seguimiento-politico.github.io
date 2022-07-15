@@ -12,7 +12,7 @@
                 {{ site.data.ui-text[site.locale].status_label | default: "status" | downcase }} </b>
             </li>
 
-            {% for status in statuses %}
+            {% for status in statuses_data %}
                 <li class="list-group-item list-group-item-{{ status.color }} list-group-item-action d-flex justify-content-between align-items-start" data-list-facet="list-status" data-facet-value="{{ status.name }}" >
                     <span>{{ site.data.ui-text[site.locale].[status.lang_label] }}
                     <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}"></i></span>
@@ -31,7 +31,7 @@
             </li>
         </ul>
         {% assign counter = 0 %}
-        {% for category in categories %}
+        {% for category in categories_data %}
             {% if category_counters[forloop.index0] > 0 %}
                 {% assign counter = counter | plus: 1%}
                 {% assign mod = counter | modulo: 3 %}

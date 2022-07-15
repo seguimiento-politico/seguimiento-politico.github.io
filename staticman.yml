@@ -104,12 +104,13 @@ comments:
     email: md5
 
 new-track-items:
-  allowedFields: ["title", "description", "category", "parties"]
-  requiredFields: ["title", "description", "category", "parties"]
+  allowedFields: ["title", "description", "categories", "parties"]
+  requiredFields: ["title", "description", "categories", "parties"]
   allowedOrigins: ["seguimiento-politico.github.io", "localhost"]
   branch: "master"
   commitMessage: "New track-item"
   filename: "{options.filename}"
+  status: "Desconocido"
   format: "yaml"
   extension: "yaml"
   generatedFields:

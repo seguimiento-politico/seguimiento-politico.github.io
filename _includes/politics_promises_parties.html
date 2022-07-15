@@ -64,17 +64,24 @@
                         {% endif %}
 
                         {% assign item = item_data[1] %}
-                        {% assign status = statuses | where: "name", item.status | first %}
-                        {% assign category = categories | where: "name", item.category | first %}
+                        {% if item.status %}
+                            {% assign status = statuses_data | where: "name", item.status | first %}
+                        {% else %}
+                            {% assign status = site.data.categorization.default.statuses | first %}
+                        {% endif %}
                         {% assign party = parties_data | where: "name", item.party | first %} 
 
                         <tr class="list-group-item-{{ status.color }}">
                             <td>
                                 {% include items_logo.html type='parties' %}
                             </td>
-                            <td>
-                                <span class="list-category">{{ item.category }}</span>
-                                <span><i class="text-muted fas fa-fw fa-{{ category.icon }} " title="{{ category.name }}"></i></span>
+                            <td>   
+                                {% for category in item.categories %}
+                                    {% assign category_data = categories_data | where: "name", category | first %}
+                                    <span class="list-category"> {{ category_data.name }} 
+                                        <i class="text-muted fas fa-fw fa-{{ category_data.icon }} " title="{{ category_data.name }}"></i>    
+                                    </span>
+                                {% endfor %}
                             </td>
                             <td class="list-text">
                                 <span><b>{{ item.title }}:</b></span>

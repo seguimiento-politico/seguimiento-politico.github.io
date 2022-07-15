@@ -103,6 +103,8 @@ es: &DEFAULT_ES
   status_achieved           : "Cumplido"
   status_compromised        : "Cumplido a medias"
   status_broken             : "Incumplido"
+  status_blocked            : "Bloqueado"
+  status_unknown            : "Desconocido"
   status_opinion            : "Opinión"
   status_true               : "Afirmación veraz"
   status_misleading         : "Afirmación engañosa"

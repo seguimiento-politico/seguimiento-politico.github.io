@@ -5,7 +5,9 @@ description: >-
   los Trabajadores que compagine la protección de los trabajadores y
   trabajadoras frente a los desafíos sociales, tecnológicos y ecológicos del
   siglo XXI y el reconocimiento de nuevos derechos.
-category: 'Economía, trabajo y hacienda'
+categories: 
+  - Economía, trabajo y hacienda
+  - Derechos y servicios sociales
 parties:
   - PSOE
   - UNIDAS PODEMOS

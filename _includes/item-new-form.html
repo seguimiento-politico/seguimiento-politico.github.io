@@ -14,9 +14,9 @@
         <textarea type="text" class="form-control" rows="4" id="item-form-description" name="fields[description]" required spellcheck="true" placeholder="Your description"></textarea>
       </div>
 
-      <div class="col-md-12">
+      <div class="col-md-6">
           <label class="form-label" for="item-form-category">Categoría</label>
-          <select class="form-select" aria-label="Default select example" id="category" name="fields[category]">
+          <select class="form-select" multiple aria-label="Default select example" id="categories" name="fields[categories]">
               <option selected>-- Seleccionar --</option>
               {% for cat in categories %}
                   <option value="{{ cat.name }}">{{ cat.name }}</option>

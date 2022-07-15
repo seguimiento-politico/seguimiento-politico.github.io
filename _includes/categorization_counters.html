@@ -9,38 +9,47 @@
 {% assign category_names =  "" | split: "," %}
 {% assign category_counters =  "" | split: "," %}
 
-{% for status in statuses %}
+{% for status in statuses_data %}
     {% assign status_names = status_names | push: status.name %}
     {% assign status_counters = status_counters | push: 0 %}
 {% endfor %}
 
-{% for category in categories %}
+{% for category in categories_data %}
     {% assign category_names = category_names | push: category.name %}
     {% assign category_counters = category_counters | push: 0 %}
 {% endfor %}
 
 {% for item_data in items %}
+    <!-- ignore settings file -->
+    {% if item_data[0] == 'settings' %}
+        {% continue %}
+    {% endif %}
+
     {% assign item = item_data[1] %}
-    {% assign status_counters2 =  "" | split: "," %}
-    {% assign category_counters2 =  "" | split: "," %}
     
+    <!-- statuses (one per item) -->
+    {% assign status_counters2 =  "" | split: "," %}
     {% for name in status_names %}
-        {% if name == item.status %}
+        {% if item.status and name == item.status %}
             {% assign counter =  status_counters[forloop.index0] | plus:1 %}
             {% assign status_counters2 = status_counters2 | push: counter %}
         {% else %}
             {% assign status_counters2 = status_counters2 | push: status_counters[forloop.index0] %}
         {% endif %}
     {% endfor %}
-    {% for name in category_names %}
-        {% if name == item.category %}
-            {% assign counter =  category_counters[forloop.index0] | plus:1 %}
-            {% assign category_counters2 = category_counters2 | push: counter %}
-        {% else %}
-            {% assign category_counters2 = category_counters2 | push: category_counters[forloop.index0] %}
-        {% endif %}
-    {% endfor %}
-    
     {% assign status_counters = status_counters2 %}
-    {% assign category_counters = category_counters2 %}
+
+    <!-- categories (multiple per item) -->
+    {% for item_category in item.categories %}
+        {% assign category_counters2 =  "" | split: "," %}
+        {% for name in category_names %}
+            {% if name == item_category %}
+                {% assign counter = category_counters[forloop.index0] | plus:1 %}
+                {% assign category_counters2 = category_counters2 | push: counter %}
+            {% else %}
+                {% assign category_counters2 = category_counters2 | push: category_counters[forloop.index0] %}
+            {% endif %}
+        {% endfor %}
+        {% assign category_counters = category_counters2 %}
+    {% endfor %}
 {% endfor %}
