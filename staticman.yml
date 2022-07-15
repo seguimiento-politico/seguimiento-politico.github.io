@@ -104,8 +104,8 @@ comments:
     email: md5
 
 new-track-items:
-  allowedFields: ["title", "description", "category", "agent"]
-  requiredFields: ["title", "description", "category", "agent"]
+  allowedFields: ["title", "description", "category", "party", "coalition"]
+  requiredFields: ["title", "description", "category", "party"]
   allowedOrigins: ["seguimiento-politico.github.io", "localhost"]
   branch: "master"
   commitMessage: "New track-item"
@@ -118,5 +118,5 @@ new-track-items:
       options:
         format: "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
   moderation: false
-  path: "_data/tracks/items/{options.folder}/{options.track}" 
+  path: "_data/tracks/{options.folder}/{options.track}" 
   

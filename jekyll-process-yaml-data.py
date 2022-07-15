@@ -4,6 +4,7 @@
 
 import os
 import yaml
+from termcolor import colored
 
 # PATHS
 data_trackers_path = os.getcwd() + '/_data/tracks/'
@@ -19,19 +20,19 @@ for directory in directories:
 
     if not os.path.exists(track_path):
         os.makedirs(track_path)
-        print("Directory " , track_path,  " Created ")
+        print("Directory " , track_path,  colored(" Created", 'cyan'))
     else:    
-        print("Directory " , track_path ,  " already exists")
+        print("Directory " , track_path ,  colored(" already exists", 'green'))
     
     # create tracker index page  
     path = track_path + '/index.md'
     if not os.path.exists(path):
-        index_content = "---\ntrack_name: " + directory + "\nlayout: track\n---"
+        index_content = "---\ntrack_name: " + directory + "\nlayout: track" + "\nslug: " + directory + "_index" + "\n---"
         with open(path, 'w') as f:
             f.write(index_content)
-        print("Index file " , path,  " Created ")
+        print("Index file " , path,  colored(" Created", 'cyan'))
     else:    
-        print("Index file " , path ,  " already exists")  
+        print("Index file " , path ,  colored(" already exists", 'green'))  
             
     # create items pages
     (_, _, files) = next(os.walk(data_trackers_path + directory))
@@ -43,13 +44,11 @@ for directory in directories:
             # create item page
             path = track_path + '/' + filename[0] + '.md'
             if not os.path.exists(path):
-                index_content = "---\ntrack_name: " + directory + "\nitem_name: " + filename[0] + "\n---"
+                index_content = "---\ntrack_name: " + directory + "\nitem_name: " + filename[0] + "\nslug: " + directory + "_" + filename[0] + "\n---"
                 with open(path, 'w') as f:
                     f.write(index_content)
-                    print("Item file " , path,  " Created ")
+                    print("Item file " , path,  colored(" Created", 'cyan'))
             else:    
-                print("Item file " , path ,  " already exists")  
-
-            
+                print("Item file " , path ,  colored(" already exists", 'green'))  
 
 

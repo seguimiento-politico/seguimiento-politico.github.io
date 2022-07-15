@@ -14,7 +14,7 @@
         <textarea type="text" class="form-control" rows="4" id="item-form-description" name="fields[description]" required spellcheck="true" placeholder="Your description"></textarea>
       </div>
 
-      <div class="col-md-6">
+      <div class="col-md-12">
           <label class="form-label" for="item-form-category">Categoría</label>
           <select class="form-select" aria-label="Default select example" id="category" name="fields[category]">
               <option selected>-- Seleccionar --</option>
@@ -23,19 +23,30 @@
               {% endfor %}
           </select>
       </div>
+      {% if track_data.settings.context.goverment_type == "coalition" and track_data.settings.context.goverment_parties %}
+        {% assign name = track_data.settings.context.goverment_parties | join: " - " %}
+        {% assign text = name | slugify %}
+        {% include normalize_text.html %}
       <div class="col-md-6">
-          <label class="form-label" for="item-form-agent">Partido</label>
-          <select class="form-select" aria-label="Default select example" id="agent" name="fields[agent]">
-              <option selected>-- Seleccionar --</option>
-              {% for party in track_data.parties %}
+        <label class="form-label" for="item-form-coalition">Coalición</label>
+        <select class="form-select" aria-label="Default select example" id="coalition" name="fields[coalition]">
+            <option selected value="">-- Seleccionar --</option>
+            <option value="{{ text }}">{{ name }}</option>
+        </select>
+      </div>
+      {% endif %}
+      <div class="col-md-6">
+          <label class="form-label" for="item-form-party">Partido/s</label>
+          <select class="form-select" multiple aria-label="Default select example" id="party" name="fields[party]">
+            {% assign parties_data = track_data.settings.parties | sort: "name" %}  
+            {% for party in parties_data %}
                   <option value="{{ party.name }}">{{ party.name }}</option>
               {% endfor %}
           </select>
       </div>
     
       <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
-      <input type="hidden" id="item-id" name="options[slug]" value="{{ page.slug }}">
-      <input type="hidden" id="item-folder" name="options[folder]" value="{{ page.subfolder }}">
+      <input type="hidden" id="item-id" name="options[slug]" value="{{ page.track_name}}_{{ page.item_name}}">
       <input type="hidden" id="item-track" name="options[track]" value="{{ page.track_name}}">
       <input type="hidden" id="item-filename" name="options[filename]" value>
       {% if site.reCaptcha.enabled %}

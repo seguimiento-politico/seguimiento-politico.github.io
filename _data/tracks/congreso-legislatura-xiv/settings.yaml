@@ -17,7 +17,6 @@ context:
     sources:
         - https://www.lamoncloa.gob.es/gobierno/gobiernosporlegislaturas/Paginas/xiv_legislatura.aspx
         - https://www.congreso.es/indice-de-iniciativas
-
 parties:
     -
         name: PSOE

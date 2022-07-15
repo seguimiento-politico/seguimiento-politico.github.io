@@ -2,7 +2,6 @@
 {% include categorization.html %}
 
 {% assign parties_data = site.data.agents.[track_data.settings.config.country].parties %}
-{% assign coalitions_data = site.data.agents.[track_data.settings.config.country].coalitions %}
 
 <!-- categorization counters -->
 {% include categorization_counters.html %}
@@ -71,12 +70,12 @@
 
                         <tr class="list-group-item-{{ status.color }}">
                             <td>
-                                {% if item.party %}
-                                    {% include items_logo.html type='party' %}
-                                {% elsif item.coalition %}
+                                {% if item.coalition %}
                                     {% include items_logo.html type='coalition' %}
                                 {% elsif item.parties %}
                                     {% include items_logo.html type='parties' %}
+                                {% elsif item.party %}
+                                    {% include items_logo.html type='party' %}
                                 {% endif %}
                             </td>
                             <td>

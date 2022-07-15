@@ -80,34 +80,34 @@
     {% endif %}
 
 {% elsif include.type == 'parties' or include.type == 'coalition'%}
-    {% assign coalitions_data = site.data.agents.[scope].coalitions %}
-
     {% if include.type == 'coalition' %}
-        {% assign coalition = site.data.agents.[scope].coalitions | where: 'name', item.coalition[0] | first %}
-        
-        {% for party in coalition.parties %}
-            {% assign agent_name = party %}
-            {% assign text = agent_name | slugify %}
-            {% include normalize_text.html %}
-            
-            {% assign party_path = organization_path | append: text | append: '.gif'  %}
-            {% assign organization_data = site.data.agents.[scope].parties | where: 'name', agent_name %}
+        {% assign parties = track_data.settings.context.goverment_parties %}
+    {% else %}
+        {% assign parties = item.party %}
+    {% endif %}
 
-            <!-- Check if corresponding images exist in images folder -->
-            {% for image in image_files %}
-                {% if image.path == party_path %}
-                    {% assign organization_image = true %}
-                {% endif %}
-            {% endfor %}
-            {% if organization_image %}
-                <div class="list-party">
-                    <img src="{{ party_path }}" alt="{{ agent_name }}" width="36" height="36">
-                </div>
-            {% else %}
-                <span class="list-party" style="color:{{organization_data[0].color}};">{{ organization_data[0].name }}</span>
+    {% for party in parties %}
+        {% assign agent_name = party %}
+        {% assign text = agent_name | slugify %}
+        {% include normalize_text.html %}
+           
+        {% assign party_path = organization_path | append: text | append: '.gif'  %}
+        {% assign organization_data = site.data.agents.[scope].parties | where: 'name', agent_name %}
+
+        <!-- Check if corresponding images exist in images folder -->
+        {% for image in image_files %}
+            {% if image.path == party_path %}
+                {% assign organization_image = true %}
             {% endif %}
         {% endfor %}
-    {% endif %}
+        {% if organization_image %}
+            <div class="list-party">
+                <img src="{{ party_path }}" alt="{{ agent_name }}" width="36" height="36">
+            </div>
+        {% else %}
+            <span class="list-party" style="color:{{organization_data[0].color}};">{{ organization_data[0].name }}</span>
+        {% endif %}
+    {% endfor %}
 
 {% endif %}
 
