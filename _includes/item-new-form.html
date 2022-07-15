@@ -23,21 +23,10 @@
               {% endfor %}
           </select>
       </div>
-      {% if track_data.settings.context.goverment_type == "coalition" and track_data.settings.context.goverment_parties %}
-        {% assign name = track_data.settings.context.goverment_parties | join: " - " %}
-        {% assign text = name | slugify %}
-        {% include normalize_text.html %}
-      <div class="col-md-6">
-        <label class="form-label" for="item-form-coalition">Coalición</label>
-        <select class="form-select" aria-label="Default select example" id="coalition" name="fields[coalition]">
-            <option selected value="">-- Seleccionar --</option>
-            <option value="{{ text }}">{{ name }}</option>
-        </select>
-      </div>
-      {% endif %}
+
       <div class="col-md-6">
           <label class="form-label" for="item-form-party">Partido/s</label>
-          <select class="form-select" multiple aria-label="Default select example" id="party" name="fields[party]">
+          <select class="form-select" multiple aria-label="Default select example" id="parties" name="fields[parties]">
             {% assign parties_data = track_data.settings.parties | sort: "name" %}  
             {% for party in parties_data %}
                   <option value="{{ party.name }}">{{ party.name }}</option>

@@ -104,8 +104,8 @@ comments:
     email: md5
 
 new-track-items:
-  allowedFields: ["title", "description", "category", "party", "coalition"]
-  requiredFields: ["title", "description", "category", "party"]
+  allowedFields: ["title", "description", "category", "parties"]
+  requiredFields: ["title", "description", "category", "parties"]
   allowedOrigins: ["seguimiento-politico.github.io", "localhost"]
   branch: "master"
   commitMessage: "New track-item"
