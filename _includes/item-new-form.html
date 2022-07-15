@@ -35,7 +35,7 @@
       </div>
     
       <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
-      <input type="hidden" id="item-id" name="options[slug]" value="{{ page.track_name}}_{{ page.item_name}}">
+      <input type="hidden" id="item-id" name="options[slug]" value="{{ page.slug }}">
       <input type="hidden" id="item-track" name="options[track]" value="{{ page.track_name}}">
       <input type="hidden" id="item-filename" name="options[filename]" value>
       {% if site.reCaptcha.enabled %}
