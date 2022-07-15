@@ -18,30 +18,11 @@
 
 {% assign organization_path = site.images_path | append: 'parties/' | append: scope | append: '/' %}
 
-{% if include.type == 'party' or include.type == 'politician' %}
+{% if include.type == 'politician' %}
     {% assign agent_name = item.[include.type] %}
     {% assign text = agent_name | slugify %}
     {% include normalize_text.html %}
-    
-    {% if include.type == 'party' %}
-        {% assign organization_path = organization_path | append: text | append: '.gif'  %}
-        {% assign organization_data = site.data.agents.[scope].parties | where: 'name', agent_name %}
 
-         <!-- Check if corresponding images exist in images folder -->
-         {% for image in image_files %}
-            {% if image.path == organization_path %}
-                {% assign organization_image = true %}
-            {% endif %}
-        {% endfor %}
-        {% if organization_image %}
-            <div class="list-party">
-                <img src="{{ organization_path }}" alt="{{ agent_name }}" width="36" height="36">
-            </div>
-        {% else %}
-            <span class="list-party" style="color:{{organization_data[0].color}};">{{ organization_data[0].name }}</span>
-        {% endif %}
-    
-    {% elsif include.type == 'politician' %}
         {% assign person_path = site.images_path | append: 'politicians/' | append: scope | append: '/' | append: text | append: '.jpg' %} 
         {% assign person_data = site.data.agents.[scope].politicians | where: 'name', agent_name %}
 
@@ -77,14 +58,9 @@
                 <span class="badge list-party" style="background-color:{{organization_data[0].color}};">{{ organization_data[0].name }}</span>
             {% endif %}
         </div>
-    {% endif %}
 
-{% elsif include.type == 'parties' or include.type == 'coalition'%}
-    {% if include.type == 'coalition' %}
-        {% assign parties = track_data.settings.context.goverment_parties %}
-    {% else %}
-        {% assign parties = item.party %}
-    {% endif %}
+{% elsif include.type == 'parties' %}
+    {% assign parties = item.parties %}
 
     {% for party in parties %}
         {% assign agent_name = party %}

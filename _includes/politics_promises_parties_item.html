@@ -3,7 +3,7 @@
 {% assign status = statuses | where:'name', item.status | first %}
 
 <!-- Party logo path -->
-{% include items_logo.html type=party %}
+{% include items_logo.html type=parties %}
 
 <div class="callout callout-{{ status.color }} my-3 p-3 bg-body shadow-sm border-{{ status.color }}">
     <div class="border-bottom pb-2 d-flex justify-content-between align-items-start">
@@ -22,7 +22,6 @@
             </a>
             <a class="btn btn-sm btn-outline-secondary" href="{{ site.raw-repository-source }}{{ site.repository}}/master/_data/tracks{{page.subfolder}}/{{page.track_name}}/{{page.item_name}}.yaml" role="button">{{ site.data.ui-text[site.locale].open_label | default: "open data" | downcase }}</a>
         </div>
-        
     </div>
 
     {% if item.description %}

@@ -70,13 +70,7 @@
 
                         <tr class="list-group-item-{{ status.color }}">
                             <td>
-                                {% if item.coalition %}
-                                    {% include items_logo.html type='coalition' %}
-                                {% elsif item.parties %}
-                                    {% include items_logo.html type='parties' %}
-                                {% elsif item.party %}
-                                    {% include items_logo.html type='party' %}
-                                {% endif %}
+                                {% include items_logo.html type='parties' %}
                             </td>
                             <td>
                                 <span class="list-category">{{ item.category }}</span>
