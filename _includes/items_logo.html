@@ -61,7 +61,7 @@
 
 {% elsif include.type == 'parties' %}
     {% assign parties = item.parties %}
-
+    <div class="list-party">
     {% for party in parties %}
         {% assign agent_name = party %}
         {% assign text = agent_name | slugify %}
@@ -77,14 +77,12 @@
             {% endif %}
         {% endfor %}
         {% if organization_image %}
-            <div class="list-party">
-                <img src="{{ party_path }}" alt="{{ agent_name }}" width="36" height="36">
-            </div>
+            <img src="{{ party_path }}" alt="{{ agent_name }}" width="36" height="36">
         {% else %}
             <span class="list-party" style="color:{{organization_data[0].color}};">{{ organization_data[0].name }}</span>
         {% endif %}
     {% endfor %}
-
+    </div>
 {% endif %}
 
     

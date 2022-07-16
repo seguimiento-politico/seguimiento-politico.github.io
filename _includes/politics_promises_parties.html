@@ -50,7 +50,7 @@
                         <th></th>
                         <th>{{ site.data.ui-text[site.locale].promise_label | default: "Category" }}</th>
                         <th>{{ site.data.ui-text[site.locale].promise_label | default: "Promise" }}</th>
-                        <th>{{ site.data.ui-text[site.locale].status_label | default: "Status" }}</th>
+                        <th class="d-none d-sm-table-cell">{{ site.data.ui-text[site.locale].status_label | default: "Status" }}</th>
                         <th></th>
                     </tr>
                     </thead>
@@ -75,21 +75,24 @@
                             <td>
                                 {% include items_logo.html type='parties' %}
                             </td>
-                            <td>   
-                                {% for category in item.categories %}
-                                    {% assign category_data = categories_data | where: "name", category | first %}
-                                    <span class="list-category"> {{ category_data.name }} 
-                                        <i class="text-muted fas fa-fw fa-{{ category_data.icon }} " title="{{ category_data.name }}"></i>    
-                                    </span>
-                                {% endfor %}
+                            <td>  
+                                <div>
+                                    {% for category in item.categories %}
+                                        {% assign category_data = categories_data | where: "name", category | first %}
+                                        <p>
+                                            <span class="d-none d-sm-block list-category">{{ category_data.name }}</span>
+                                            <i class="text-muted fas fa-fw fa-{{ category_data.icon }}" title="{{ category_data.name }}"></i>
+                                        </p>
+                                    {% endfor %}
+                                </div>
                             </td>
                             <td class="list-text">
-                                <span><b>{{ item.title }}:</b></span>
-                                <span>{{ item.description }}</span>
+                                <span><b>{{ item.title }}</b></span>
+                                <span class="d-none d-md-block d-xxl-block"> {{ item.description }}</span>
                             </td>
-                            <td>
+                            <td class="d-none d-sm-table-cell">
                                 <span class="d-none sr-only list-status">{{ item.status }}</span>
-                                <span>{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}</span>
+                                <span class="d-none d-md-block">{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}</span>
                                 <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}"></i>
                             </td>
                             <td class="text-center">

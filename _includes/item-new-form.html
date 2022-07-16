@@ -4,34 +4,48 @@
       <h4 class="title">
         <span>Nuevo compromiso/promesa</span> 
       </h4>
-      <div class="col-12">
-        <label class="form-label" for="item-form-title">Título</label>
+      <div class="col-md-12">
+        <label class="form-label" for="item-form-title">Título <small style="color:red"> (Obligatorio)</small></label>
         <input type="text" class="form-control" id="title" name="fields[title]" required spellcheck="false" placeholder="Title">
       </div>
       
-      <div class="col-12">
-        <label class="form-label" for="item-form-description">Descripción</label>
+      <div class="col-md-12">
+        <label class="form-label" for="item-form-description">Descripción <small style="color:red"> (Obligatorio)</small></label>
         <textarea type="text" class="form-control" rows="4" id="item-form-description" name="fields[description]" required spellcheck="true" placeholder="Your description"></textarea>
       </div>
 
       <div class="col-md-6">
-          <label class="form-label" for="item-form-category">Categoría</label>
+          <label class="form-label" for="item-form-category">Categoría <small style="color:red"> (Obligatorio)</small></label>
           <select class="form-select" multiple aria-label="Default select example" id="categories" name="fields[categories]">
-              <option selected>-- Seleccionar --</option>
-              {% for cat in categories %}
+              {% for cat in categories_data %}
                   <option value="{{ cat.name }}">{{ cat.name }}</option>
               {% endfor %}
           </select>
       </div>
 
       <div class="col-md-6">
-          <label class="form-label" for="item-form-party">Partido/s</label>
+          <label class="form-label" for="item-form-party">Partido/s <small style="color:red"> (Obligatorio)</small></label>
           <select class="form-select" multiple aria-label="Default select example" id="parties" name="fields[parties]">
             {% assign parties_data = track_data.settings.parties | sort: "name" %}  
             {% for party in parties_data %}
                   <option value="{{ party.name }}">{{ party.name }}</option>
               {% endfor %}
           </select>
+      </div>
+
+      <div class="col-md-12">
+        <label class="form-label" for="item-form-status">Estado de cumplimiento</label>
+        <select class="form-select" aria-label="Default select example" id="status" name="fields[status]">
+            <option value="" selected>-- Seleccionar --</option>
+            {% for status in statuses_data %}
+                <option value="{{ status.name }}">{{ status.name }}</option>
+            {% endfor %}
+        </select>
+      </div>
+
+      <div class="col-md-12">
+        <label class="form-label" for="item-form-status_info">Información y razones para el estado</label>
+        <textarea type="text" class="form-control" rows="3" id="item-form-status_info" name="fields[status_info]" required spellcheck="true" placeholder="Descripción de las razones por las que se ha seleccionado el estado de cumplimiento."></textarea>
       </div>
     
       <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">

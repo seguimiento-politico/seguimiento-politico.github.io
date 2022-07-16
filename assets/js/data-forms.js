@@ -75,10 +75,12 @@ hideAlert();
 document.getElementById("new-item").onclick = function() {
     toggleDisplay("item-form-wrapper");
     toggleDisplay("item-content");
+    toggleDisplay("new-item");
 };
 
 document.getElementById("cancel-form").onclick = function() {
     toggleDisplay("item-form-wrapper");
     toggleDisplay("item-content");
+    toggleDisplay("new-item");
 };
 
