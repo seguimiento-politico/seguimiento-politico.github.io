@@ -21,7 +21,7 @@
 
 {% for item_data in items %}
     <!-- ignore settings file -->
-    {% if item_data[0] == 'settings' %}
+    {% if item_data[0] == 'settings' or item_data[0] == 'politicians' or item_data[0] == 'votes' %}
         {% continue %}
     {% endif %}
 

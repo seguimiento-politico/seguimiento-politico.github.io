@@ -2,12 +2,30 @@
     name: PSOE
     ideology: left
     color: red
+    logo: psoe.gif
+-
+    name: PSC-PSOE
+    ideology: left
+    color: red
+    logo: psoe.gif
+-
+    name: PsdeG-PSOE
+    ideology: left
+    color: red
+-
+    name: PSE-EE-PSOE
+    ideology: left
+    color: red
 -
     name: PP
     ideology: right
     color: blue
 -
-    name: VOX
+    name: PP-foro
+    ideology: right
+    color: blue
+-
+    name: Vox
     ideology: right
     color: green
 -
@@ -16,6 +34,14 @@
     color: purple
 - 
     name: Unidas-podemos
+    ideology: left
+    color: purple
+- 
+    name: UP
+    ideology: left
+    color: purple
+- 
+    name: EC-UP
     ideology: left
     color: purple
 -

@@ -1,12 +1,14 @@
 {% include categorization.html %}
 {% assign party_data = site.data.agents.[track_data.settings.config.country].parties | where: "name", item.party | first %}
-{% assign status = statuses | where:'name', item.status | first %}
+{% assign status = statuses_data | where:'name', item.status | first %}
+
+{% include scope_settings.html %}
 
 <!-- Party logo path -->
 {% include items_logo.html type=parties %}
 
 <div class="callout callout-{{ status.color }} my-3 p-3 bg-body shadow-sm border-{{ status.color }}">
-    <div class="border-bottom pb-2 d-flex justify-content-between align-items-start">
+    <div class="border-bottom pb-2 mb-3 d-flex justify-content-between align-items-start">
         <span class="align-self-center">
             {% if exists %}
                 <img src="{{ logos_path }}" alt="{{ item.party }}" width="35" height="35">
@@ -25,24 +27,28 @@
     </div>
 
     {% if item.description %}
-        <p class="lead">{{ item.description }}</p>
+        <p>"{{ item.description }}"</p>
     {% endif %}
     <p>
         El estado de este compromiso es 
-        <span class="text-{{ status.color }} bold"> <b>{{ site.data.ui-text[site.locale].[status.lang_label] }}</b> <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}"></i> </span> 
-        debido a que: 
-        <p class="mx-3">{{ item.status_info }}</p>
+        <span class="text-{{ status.color }} bold"> 
+                <b>{{ site.data.ui-text[site.locale].[status.lang_label] }}</b> 
+                <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}"></i> 
+        </span> 
+        debido a que {{ item.status_info }}
     </p>
     <p class="text-end text-muted small mb-0" id="UID">
         <b>UID:</b> {{ item._id }}
     </p>
 
+    {% if item.lastmod %}
+        {% assign date = item.lastmod %}
+    {% else %}
+        {% assign date = item.created %}
+    {% endif %}
     <p class="text-end text-muted small mb-0"> 
         <b>{{ site.data.ui-text[site.locale].last_review | default: "Last review" }}:</b>
-        {{ item.lastmod | date: "%-d" }}
-        {% assign m = item.lastmod | date: "%-m" | minus: 1 %}
-        {{ site.data.ui-text[site.locale].months[m] }}
-        {{ item.lastmod | date: "%Y" }}
+        {% include dates_to_text.html %}
     </p>
 
 </div>
@@ -59,77 +65,286 @@
 </div>
 {% endif %}
 
-<div class="card my-3">
-    <div class="card-header">Análisis</div>
-    <div class="card-body">
-        {% for part in item.analysis %}
-            {% assign statement_source = item.sources | where:'ref', part.statement.source_ref %}
-            <blockquote class="blockquote mb-2">
+{% if item.votes %}
+<strong>Votaciones</strong>
+<div class="accordion mb-3" id="votes">
+    {% for vote in item.votes %}
+        {% assign votes_data = track_data.votes.[vote] %}
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="votes-heading-{{vote}}">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#votes-collapse-{{vote}}" aria-controls="collapse-{{forloop.index}}">
+                    {{ votes_data.informacion.textoExpediente }}
+                    {% assign mayoria_simple = votes_data.totales.afavor | minus: votes_data.totales.enContra %}
+                    {% if mayoria_simple > 0 %}
+                        <span class="badge bg-success">Si</span>
+                    {% else %}
+                        <span class="badge bg-danger">No</span>
+                    {% endif %}
+                </button>
+            </h2>
+            <div id="votes-collapse-{{vote}}" class="accordion-collapse collapse" aria-labelledby="votes-heading-{{vote}}" data-bs-parent="#votes">
+                <div class="accordion-body">
+                    <h6><b>Información</b></h6>
+                    <hr>
+                    <div class="container">
+                        <p>
+                            <b>Fecha de votación: </b>
+                            {% assign date = votes_data.informacion.fecha %}
+                            {% include dates_to_text.html %}
+                            <b>Sesión: </b>{{ votes_data.informacion.sesion }} 
+                            <b>Votación nº: </b>{{ votes_data.informacion.numeroVotacion }}
+                        </p>
+                        <p>
+                            <b>Resultado: </b>
+                            {% assign mayoria_simple = votes_data.totales.afavor | minus: votes_data.totales.enContra %}
+                            {% if mayoria_simple > 0 %}
+                                <span class="badge bg-success">A favor</span>
+                            {% else %}
+                                <span class="badge bg-danger">En contra</span>
+                            {% endif %}
+                            <ul class="row col-12">
+                                <li>
+                                    <b>votos a favor: </b><span class="text-success"> {{ votes_data.totales.afavor }}</span>
+                                </li>
+                                <li>
+                                    <b>votos en contra: </b><span class="text-danger"> {{ votes_data.totales.enContra }} </span>
+                                </li>
+                                <li>
+                                    <b>Abstenciones: </b><span class="text-primary">{{ votes_data.totales.abstenciones }} </span>
+                                </li>
+                                <li>
+                                    {% assign total = votes_data.totales.afavor | plus: votes_data.totales.enContra | plus: votes_data.totales.abstenciones %}
+                                    <b>Total votos: </b> {{ total }}
+                                </li>
+                            </ul>
+                        </p>
+                    </div>
+                    <h6><b>Votos por partido</b></h6>
+                    <hr>
+                    {% include voting_counters.html %}
+                    <ul class="row col-12">
+                        {% for party in parties %}
+                            {% assign no_counter = 0 %}
+                            {% assign yes_counter = 0 %}
+                            {% assign abstention_counter = 0 %}
+
+                            {% for vote in votes %}
+                                {% assign party_name = vote | replace: "_No", "" | replace: "_Sí", ""  | replace: "_Abstención", "" %}
+                                {% if party_name == party %}
+                                    {% if vote contains "_No" %}
+                                        {% assign no_counter = no_counter | plus: 1 %}
+                                    {% elsif vote contains "_Sí" %}
+                                        {% assign yes_counter = yes_counter | plus: 1 %}
+                                     {% else %}
+                                        {% assign abstention_counter = abstention_counter | plus: 1 %}
+                                    {% endif %}
+                                {% endif %}
+                            {% endfor %}
+
+                            <li class="col-12 col-md-6 col-lg-4 col-xxl-3 list-group-item position-relative">
+                                {% assign party_name = party %}
+                                
+                                {% include logo_settings.html type='party' %}
+                                {% if organization_image %}
+                                    <img src="{{ organization_path }}" title="{{ organization_data[0].name }}" alt="{{ organization_data[0].name }}" width="36" height="36">
+                                    <span class="d-none list-party">{{ organization_data[0].name }}</span>
+                                {% else %}
+                                    {% if organization_data[0] and organization_data[0].color %}
+                                        <span class="badge list-party" style="background-color:{{organization_data[0].color}};">{{ organization_data[0].name }}</span>
+                                    {% elsif organization_data[0] %}
+                                        <span class="badge list-party" style="background-color:grey;">{{ organization_data[0].name }}</span>
+                                    {% else %}
+                                        <span class="badge list-party" style="background-color:grey;">{{ party_name }}</span>
+                                    {% endif %}
+                                {% endif %}
+                                <ul class="row col-12">
+                                    <li>
+                                        <b>votos a favor: </b><span class="text-success"> {{ yes_counter }}</span>
+                                    </li>
+                                    <li>
+                                        <b>votos en contra: </b><span class="text-danger"> {{ no_counter }} </span>
+                                    </li>
+                                    <li>
+                                        <b>Abstenciones: </b><span class="text-primary">{{ abstention_counter }} </span>
+                                    </li>
+                                    <li>
+                                        {% assign total = yes_counter | plus: no_counter | plus: abstention_counter %}
+                                        <b>Total votos: </b> {{ total }}
+                                    </li>
+                                </ul>
+                            </li>
+                        {% endfor %}
+                    </ul>
+                    <div class="container">
+                    <h6><b>Votos por diputado</b></h6>
+                    <hr>
+                            <ul class="row col-12">
+                                {% for vote in votes_data.votaciones %}
+                                        {% assign politician_name = vote.diputado %}                                        
+                                        {% include logo_settings.html type='politician' %}
+
+                                        {% if vote.voto == "Sí" %}
+                                            <li class="col-12 col-lg-6 col-xl-4 col-xxl-3 list-group-item position-relative">
+                                                {{ forloop.index}} 
+                                                {% if organization_image %}
+                                                    <img src="{{ organization_path }}" title="{{ person_data[0].party }}" alt="{{ person_data[0].party }}" width="36" height="36">
+                                                    <span class="d-none list-party">{{ person_data[0].party }}</span>
+                                                {% else %}
+                                                    {% if organization_data[0] and organization_data[0].color %}
+                                                        <span class="badge list-party" style="background-color:{{organization_data[0].color}};">{{ organization_data[0].name }}</span>
+                                                    {% elsif organization_data[0] %}
+                                                        <span class="badge list-party" style="background-color:grey;">{{ organization_data[0].name }}</span>
+                                                    {% else %}
+                                                        <span class="badge list-party" style="background-color:grey;">{{ person_data[0].party }}</span>
+                                                    {% endif %}
+                                                {% endif %}
+                                                {% if person_image %}
+                                                    <img src="{{ person_path }}" title="{{ politician_name }}" alt="{{ politician_name }}" width="36" height="36">
+                                                    <span class="d-none list-politician">{{ politician_name }}</span>
+                                                {% endif %}
+                                                {{ politician_name }}
+                                                <span class="badge bg-success position-absolute top-50 end-0 translate-middle">Si</span>
+                                            </li>
+                                        {% elsif vote.voto == "No"%}
+                                            <li class="col-12 col-lg-6 col-xl-4 col-xxl-3 list-group-item position-relative">
+                                                {{ forloop.index}} 
+                                                {% if organization_image %}
+                                                    <img src="{{ organization_path }}" title="{{ person_data[0].party }}" alt="{{ person_data[0].party }}" width="36" height="36">
+                                                    <span class="d-none list-party">{{ person_data[0].party }}</span>
+                                                {% else %}
+                                                    {% if organization_data[0] and organization_data[0].color %}
+                                                        <span class="badge list-party" style="background-color:{{organization_data[0].color}};">{{ organization_data[0].name }}</span>
+                                                    {% elsif organization_data[0] %}
+                                                        <span class="badge list-party" style="background-color:grey;">{{ organization_data[0].name }}</span>
+                                                    {% else %}
+                                                        <span class="badge list-party" style="background-color:grey;">{{ person_data[0].party }}</span>
+                                                    {% endif %}
+                                                {% endif %}
+                                                {% if person_image %}
+                                                    <img src="{{ person_path }}" title="{{ politician_name }}" alt="{{ politician_name }}" width="36" height="36">
+                                                    <span class="d-none list-politician">{{ name }}</span>
+                                                {% endif %}
+                                                {{ politician_name }}
+                                                <span class="badge bg-danger position-absolute top-50 end-0 translate-middle">No</span>
+                                            </li>
+                                        {% else %}
+                                            <li class="col-12 col-lg-6 col-xl-4 col-xxl-3 list-group-item position-relative">
+                                                {{ forloop.index}} 
+                                                {% if organization_image %}
+                                                    <img src="{{ organization_path }}" title="{{ organization_data[0].name }}" alt="{{ organization_data[0].name }}" width="36" height="36">
+                                                    <span class="d-none list-party">{{ organization_data[0].name }}</span>
+                                                {% else %}
+                                                    {% if organization_data[0] and organization_data[0].color %}
+                                                        <span class="badge list-party" style="background-color:{{organization_data[0].color}};">{{ organization_data[0].name }}</span>
+                                                    {% elsif organization_data[0] %}
+                                                        <span class="badge list-party" style="background-color:grey;">{{ organization_data[0].name }}</span>
+                                                    {% else %}
+                                                        <span class="badge list-party" style="background-color:grey;">{{ person_data[0].party }}</span>
+                                                    {% endif %}
+                                                {% endif %}
+                                                {% if person_image %}
+                                                    <img src="{{ person_path }}" title="{{ politician_name }}" alt="{{ politician_name }}" width="36" height="36">
+                                                    <span class="d-none list-politician">{{ name }}</span>
+                                                {% endif %}
+                                                {{ politician_name }}
+                                                <span class="badge bg-primary position-absolute top-50 end-0 translate-middle">Abstención</span>
+                                            </li>
+                                        {% endif %}
+                                {% endfor %}
+                            </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+</div>
+{% endif %}
+
+{% if item.analysis %}
+<strong>Análisis sobre la promesa</strong>
+<div class="accordion mb-3" id="promiseAnalysis">
+    {% for part in item.analysis %}
+        {% assign statement_source = item.sources | where:'ref', part.statement.source_ref %}
+        <div class="accordion-item">
+        <h2 class="accordion-header" id="promiseAnalysis-heading-{{forloop.index}}">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#promiseAnalysis-collapse-{{forloop.index}}" aria-controls="collapse-{{forloop.index}}">
                 {{forloop.index}}. {{ part.statement.quote }}
-                <sup><a class="source_sup small" href="#references" title="{{ statement_source[0].title }}">{{ statement_source[0].ref }}</a></sup>
-                <footer class="blockquote-footer text-end">{{ part.statement.author }} en <cite>{{ statement_source[0].title }}</cite></footer>
-            </blockquote>
-            <h6><b>{{ site.data.ui-text[site.locale].promise_characteristics }}</b></h6>
-            <hr>
-            {% for feature in part.statement_quality %}
-                <p class="card-text ms-3">
-                    {% assign promise_characteristic = feature[0] %}
-                    <span><b>{{ site.data.ui-text[site.locale].[promise_characteristic] }}</b></span>
-                {% for reason in feature[1].reasons %}
-                    {% if reason.compliance == 'yes' %} 
+            </button>
+        </h2>
+        <div id="promiseAnalysis-collapse-{{forloop.index}}" class="accordion-collapse collapse" aria-labelledby="heading-{{forloop.index}}" data-bs-parent="#promiseAnalysis">
+            <div class="accordion-body">
+                <h6><b>Fuente</b></h6>
+                <hr>
+                <blockquote class="mb-3">
+                    {{ part.statement.quote }}
+                    <sup><a class="source_sup small" href="#references" title="{{ statement_source[0].title }}">{{ statement_source[0].ref }}</a></sup>
+                    <footer class="blockquote-footer text-end mt-2">{{ part.statement.author }} en <cite>{{ statement_source[0].title }}</cite></footer>
+                </blockquote>
+                <h6><b>{{ site.data.ui-text[site.locale].promise_characteristics }}</b></h6>
+                <hr>
+                {% for feature in part.statement_quality %}
+                    <p class="card-text ms-3">
+                        {% assign promise_characteristic = feature[0] %}
+                        <span><b>{{ site.data.ui-text[site.locale].[promise_characteristic] }}</b></span>
+                    {% for reason in feature[1].reasons %}
+                        {% if reason.compliance == 'yes' %} 
+                            {% assign icon = 'check' %}
+                            {% assign color = 'success' %}
+                        {% elsif reason.compliance == 'no' %} 
+                            {% assign icon = 'times' %}
+                            {% assign color = 'danger' %}
+                        {% elsif reason.compliance == 'partly' %}    
+                            {% assign icon = 'minus' %}
+                            {% assign color = 'warning' %}
+                        {% else %}
+                            {% assign icon = 'question' %}
+                            {% assign color = 'info' %}
+                        {% endif %}
+                        <p class="card-text ms-3 ps-4">
+                            <i class="fas fa-fw fa-{{ icon }} text-{{ color }}"></i><span class="text-{{ color }}"></span> {{ reason.reason }}
+                        </p>
+                        {% endfor %}
+                    </p>
+                {% endfor %}
+                
+                <br>
+                <h6><b>Grado de cumplimiento</b></h6>
+                <hr>
+                {% for fact in part.facts %}
+                    {% if fact.outcome == 'yes' %} 
                         {% assign icon = 'check' %}
                         {% assign color = 'success' %}
-                    {% elsif reason.compliance == 'no' %} 
+                        {% assign outcome = site.data.ui-text[site.locale].statement_complieance_yes %}
+                    {% elsif fact.outcome == 'no' %} 
                         {% assign icon = 'times' %}
                         {% assign color = 'danger' %}
-                    {% elsif reason.compliance == 'partly' %}    
+                        {% assign outcome = site.data.ui-text[site.locale].statement_complieance_no %}
+                    {% elsif fact.outcome == 'maybe' %}    
                         {% assign icon = 'minus' %}
                         {% assign color = 'warning' %}
+                        {% assign outcome = site.data.ui-text[site.locale].statement_complieance_maybe %}
                     {% else %}
                         {% assign icon = 'question' %}
                         {% assign color = 'info' %}
+                        {% assign outcome = site.data.ui-text[site.locale].statement_complieance_not_known %}
                     {% endif %}
-                    <p class="card-text ms-3 ps-4">
-                        <i class="fas fa-fw fa-{{ icon }} text-{{ color }}"></i><span class="text-{{ color }}"></span> {{ reason.reason }}
+                    <p class="card-text ms-3">
+                        <i class="fas fa-fw fa-{{ icon }} text-{{ color }}"></i><span class="text-{{ color }}"><b>{{ outcome }}</b></span>: {{ fact.reasoning }}
                     </p>
+                    {% for fact_source in fact.sources %}
+                        {% assign source = item.sources | where:'ref', fact_source %}
+                        <sup><a class="source_sup" href="#references" title="{{source[0].title}}">{{ source[0].ref }}</a></sup> 
                     {% endfor %}
-                </p>
-            {% endfor %}
-            
-            <br>
-            <h6><b>Grado de cumplimiento</b></h6>
-            <hr>
-            {% for fact in part.facts %}
-                {% if fact.outcome == 'yes' %} 
-                    {% assign icon = 'check' %}
-                    {% assign color = 'success' %}
-                    {% assign outcome = site.data.ui-text[site.locale].statement_complieance_yes %}
-                {% elsif fact.outcome == 'no' %} 
-                    {% assign icon = 'times' %}
-                    {% assign color = 'danger' %}
-                    {% assign outcome = site.data.ui-text[site.locale].statement_complieance_no %}
-                {% elsif fact.outcome == 'maybe' %}    
-                    {% assign icon = 'minus' %}
-                    {% assign color = 'warning' %}
-                    {% assign outcome = site.data.ui-text[site.locale].statement_complieance_maybe %}
-                {% else %}
-                    {% assign icon = 'question' %}
-                    {% assign color = 'info' %}
-                    {% assign outcome = site.data.ui-text[site.locale].statement_complieance_not_known %}
-                {% endif %}
-                <p class="card-text ms-3">
-                    <i class="fas fa-fw fa-{{ icon }} text-{{ color }}"></i><span class="text-{{ color }}"><b>{{ outcome }}</b></span>: {{ fact.reasoning }}
-                </p>
-                {% for fact_source in fact.sources %}
-                    {% assign source = item.sources | where:'ref', fact_source %}
-                    <sup><a class="source_sup" href="#references" title="{{source[0].title}}">{{ source[0].ref }}</a></sup> 
                 {% endfor %}
-            {% endfor %}
-        {% endfor %}
-    </div>
-</div>
+            </div>
+        </div>
+        </div>
+    {% endfor %}
+  </div>
+{% endif %}
 
-<div class="card my-3">
+{% if item.sources %}
+<div class="card mb-3">
     <div class="card-header" id="references">
         Fuentes y referencias
     </div>
@@ -150,3 +365,5 @@
     <a class='btn facebook' target="_blank" href="https://www.facebook.com/sharer.php?u={{site.url}}/tracks/{{ page.track_name }}/{{ page.item_name}}&title='{{ item.title }} {{ item.party }}'"> <i class="fab fa-facebook fa-fw" aria-hidden="true"></i> Compartir</a>
     <a class="btn twitter" href="https://twitter.com/share?url={{site.url}}/tracks/{{ page.track_name }}/{{ page.item_name}}&text={{ item.status_info }}&hashtags=Seguimiento-politico" target="_blank"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i> Tweet</a>
 </div>
+{% endif %}
+

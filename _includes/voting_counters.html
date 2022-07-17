@@ -1,0 +1,40 @@
+<!-- "COUNTER ARRAYS" -->
+<!-- could not create an associative array so a created two arrays: -->
+<!-- 1) "name" as key array and -->
+<!-- 2) "counter" as value array -->
+
+{% assign parties = "" %}
+{% assign votes = "" %}
+
+{% for vote in votes_data.votaciones %}
+    {% assign new = true %}
+    {% assign temp_array = "" | split: ", " %}
+
+    {% assign name = vote.diputado | split: ", " %}
+    {% assign politician_name = name[1] | append: " " | append: name[0] %}
+    {% assign text = politician_name | slugify %}
+    {% include normalize_text.html %}
+    {% assign person_data = site.data.agents.[scope].politicians | where: 'name', politician_name %}
+
+    {% assign text = person_data[0].party | slugify %}
+    {% include normalize_text.html %}
+    {% assign organization_data = site.data.agents.[scope].parties | where: 'name', person_data[0].party %}
+
+    {% assign parties_array = parties | split: ", " %}
+    {% for party in parties_array %}
+        {% if party == text %}
+            {% assign new = false %}
+        {% endif %}
+    {% endfor %}
+    {% if new %}
+        {% assign parties = parties | append: text | append: ", " %}
+    {% endif %}
+
+    {% assign votes = votes | append: text | append: "_" | append: vote.voto | append: ", " %}
+
+{% endfor %}
+
+{% assign votes = votes | split: ", " %}
+{% assign parties = parties | split: ", " %}
+
+

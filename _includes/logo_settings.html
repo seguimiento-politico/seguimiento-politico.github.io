@@ -1,0 +1,50 @@
+{% assign image_files = site.static_files | where: "image", true %}
+
+{% if include.type == 'politician' %}
+    {% assign text = politician_name | slugify %}
+    {% include normalize_text.html %}
+
+    {% assign person_path = site.images_path | append: 'politicians/' | append: scope | append: '/' | append: text | append: '.jpg' %} 
+    {% assign person_data = track_data.politicians | where: 'NOMBRE', politician_name %}
+
+    {% assign text = person_data[0].FORMACIONELECTORAL | slugify %}
+    {% include normalize_text.html %}
+
+    {% assign organization_path = site.images_path | append: 'parties/' | append: scope | append: '/' | append: text | append: '.gif'  %}
+    {% assign organization_data = site.data.agents.[scope].parties | where: 'name', person_data[0].FORMACIONELECTORAL %}
+
+    <!-- Check if corresponding images exist in images folder -->
+    {% for image in image_files %}
+        {% assign person_image = false %}
+        {% if image.path == person_path %}
+            {% assign person_image = true %}
+            {% break %}
+        {% endif %}
+    {% endfor %}
+
+    {% for image in image_files %}
+        {% assign organization_image = false %}
+        {% if image.path == organization_path %}
+            {% assign organization_image = true %}
+            {% break %}
+        {% endif %}
+    {% endfor %}
+
+
+{% elsif include.type == 'party' %}
+    {% assign text = party_name | slugify %}
+    {% include normalize_text.html %}
+           
+    {% assign organization_path = site.images_path | append: 'parties/' | append: scope | append: '/' | append: text | append: '.gif'  %}
+    {% assign organization_data = site.data.agents.[scope].parties | where: 'name', party_name %}
+
+    <!-- Check if corresponding images exist in images folder -->
+    {% assign organization_image = false %}
+    {% for image in image_files %}
+        {% if image.path == organization_path %}
+            {% assign organization_image = true %}
+            {% break %}    
+        {% endif %}
+    {% endfor %}
+
+{% endif %}
