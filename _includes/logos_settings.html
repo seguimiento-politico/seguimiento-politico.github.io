@@ -14,18 +14,19 @@
     {% assign organization_data = site.data.agents.[scope].parties | where: 'name', person_data[0].FORMACIONELECTORAL %}
 
     <!-- Check if corresponding images exist in images folder -->
-    {% for image in image_files %}
-        {% assign person_image = false %}
-        {% if image.path == person_path %}
-            {% assign person_image = true %}
-            {% break %}
-        {% endif %}
-    {% endfor %}
+    {% assign organization_image = false %}
+    {% assign person_image = false %}
 
     {% for image in image_files %}
-        {% assign organization_image = false %}
+        {% if image.path == person_path %}
+            {% assign person_image = true %}
+        {% endif %}
+
         {% if image.path == organization_path %}
             {% assign organization_image = true %}
+        {% endif %}
+
+        {% if person_image and organization_image %}
             {% break %}
         {% endif %}
     {% endfor %}

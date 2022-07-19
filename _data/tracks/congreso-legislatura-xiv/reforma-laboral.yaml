@@ -8,12 +8,13 @@ categories:
   - Economía, trabajo y hacienda
   - Derechos y servicios sociales
 tags: [Empleo]
-parties: PSOE
+parties: [PSOE, UNIDAS PODEMOS]
 related: # use UID to reference related promises
 lastmod: 2022-02-26
-votes:
-    - VOT_20220203215407
-    - VOT_20220203215409
+congreso:
+    expediente: 130/000072
+    votes: [sesion149votacion20, sesion149votacion21]
+    intervenciones: https://app.congreso.es/AudiovisualCongreso/audiovisualdetalledisponible?codSesion=149&codOrgano=400&fechaSesion=03/02/2022&mp4=mp4&idLegislaturaElegida=14&i=695671&descripcion=Real%20Decreto-ley%2032/2021,%20de%2028%20de%20diciembre,%20de%20medidas%20urgentes%20para%20la%20reforma%20laboral,%20la%20garant%C3%ADa%20de%20la%20estabilidad%20en%20el%20empleo%20y%20la%20transformaci%C3%B3n%20del%20mercado%20de%20trabajo.
 sources:
     -
         ref: 1
@@ -50,8 +51,20 @@ sources:
         title: Coalición progresista - Un nuevo acuerdo para España
         original_url: https://www.psoe.es/media-content/2019/12/30122019-Coalici%C3%B3n-progresista.pdf
         url: 2019-coalicion-progresista.pdf
+    -
+        ref: 8
+        title: Real Decreto-ley 32/2021, de 28 de diciembre, de medidas urgentes para la reforma laboral, la garantía de la estabilidad en el empleo y la transformación del mercado de trabajo.
+        url: https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_032_2021.pdf
+    -
+        ref: 9
+        title: Corrección de errores del Real Decreto-ley 32/2021, de 28 de diciembre, de medidas urgentes para la reforma laboral, la garantía de la estabilidad en el empleo y la transformación del mercado de trabajo.
+        url: https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_032_2021_corr.pdf
+    - 
+        ref: 10
+        title: BOCG. Congreso de los Diputados Núm. D-399 de 10/02/2022 Pág.3 Convalidación
+        url: https://www.congreso.es/busqueda-de-publicaciones?p_p_id=publicaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_publicaciones_mode=mostrarTextoIntegro&_publicaciones_legislatura=XIV&_publicaciones_id_texto=(BOCG-14-D-399.CODI.)
 
-analysis:
+promise_analysis:
     - 
         statement: 
             quote: '"Derogación urgente de los aspectos más lesivos de la reforma laboral, combatiendo la precariedad y el fraude laboral."'
@@ -135,6 +148,10 @@ analysis:
         facts:
 
         aditional_info:
+
+process_analysis:
+
+result_analysis:
 
 collaborators: 
     - Tovarlogic: 

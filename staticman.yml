@@ -109,7 +109,7 @@ new-track-items:
   allowedOrigins: ["seguimiento-politico.github.io", "localhost"]
   branch: "master"
   commitMessage: "New track-item"
-  filename: "{options.filename}"
+  filename: "@timestamp-{options.filename}"
   format: "yaml"
   extension: "yaml"
   generatedFields:

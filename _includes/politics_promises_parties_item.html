@@ -10,13 +10,12 @@
 <div class="callout callout-{{ status.color }} my-3 p-3 bg-body shadow-sm border-{{ status.color }}">
     <div class="border-bottom pb-2 mb-3 d-flex justify-content-between align-items-start">
         <span class="align-self-center">
-            {% if exists %}
-                <img src="{{ logos_path }}" alt="{{ item.party }}" width="35" height="35">
-            {% else %}
-                <span style="color:{{ party_data.color }};">{{ item.party }}</span>
-            {% endif %}              
+            {% for party in item.parties %}
+                {% assign party_name = party %}    
+                {% include logos_settings.html type='party' %}        
+                {% include logos_show.html type='party' %}
+            {% endfor %}              
             <b>{{ item.title }}</b>
-            <small class="text-muted"> {{ item.category }}</small>
         </span>
         <div class="btn-group">
             <a class="btn btn-sm btn-primary" href="{{page.url}}/edit-item">
@@ -37,21 +36,27 @@
         </span> 
         debido a que {{ item.status_info }}
     </p>
-    <p class="text-end text-muted small mb-0" id="UID">
-        <b>UID:</b> {{ item._id }}
-    </p>
-
-    {% if item.lastmod %}
-        {% assign date = item.lastmod %}
-    {% else %}
-        {% assign date = item.created %}
-    {% endif %}
-    <p class="text-end text-muted small mb-0"> 
-        <b>{{ site.data.ui-text[site.locale].last_review | default: "Last review" }}:</b>
-        {% include dates_to_text.html %}
-    </p>
-
+    <div class="row">
+        <div class="col-12 col-sm-6 text-muted small">
+            {% for category in item.categories %}
+                <p class="mb-0"> {{ category }}</p>
+            {% endfor %}
+        </div>
+        <div class="col-12 col-sm-6 text-end text-muted small">
+            <b>UID:</b> {{ item._id }}
+            {% if item.lastmod %}
+                {% assign date = item.lastmod %}
+            {% else %}
+                {% assign date = item.created %}
+            {% endif %}
+            <p class=""> 
+                <b>{{ site.data.ui-text[site.locale].last_review | default: "Last review" }}:</b>
+                {% include dates_to_text.html %}
+            </p>
+        </div>
+    </div>
 </div>
+
 
 {% if item.related %}
 <div class="notice-info border border-primary p-2">
@@ -65,10 +70,10 @@
 </div>
 {% endif %}
 
-{% if item.votes %}
+{% if item.congreso.votes %}
 <strong>Votaciones</strong>
 <div class="accordion mb-3" id="votes">
-    {% for vote in item.votes %}
+    {% for vote in item.congreso.votes %}
         {% assign votes_data = track_data.votes.[vote] %}
         <div class="accordion-item">
             <h2 class="accordion-header" id="votes-heading-{{vote}}">
@@ -76,9 +81,9 @@
                     {{ votes_data.informacion.textoExpediente }}
                     {% assign mayoria_simple = votes_data.totales.afavor | minus: votes_data.totales.enContra %}
                     {% if mayoria_simple > 0 %}
-                        <span class="badge bg-success">Si</span>
+                        <span class="badge bg-success mr-2">A favor</span>
                     {% else %}
-                        <span class="badge bg-danger">No</span>
+                        <span class="badge bg-danger">En contra</span>
                     {% endif %}
                 </button>
             </h2>
@@ -129,8 +134,8 @@
                             {% assign abstention_counter = 0 %}
 
                             {% for vote in votes %}
-                                {% assign party_name = vote | replace: "_No", "" | replace: "_Sí", ""  | replace: "_Abstención", "" %}
-                                {% if party_name == party %}
+                                {% assign name = vote | replace: "_No", "" | replace: "_Sí", ""  | replace: "_Abstención", "" %}
+                                {% if name == party %}
                                     {% if vote contains "_No" %}
                                         {% assign no_counter = no_counter | plus: 1 %}
                                     {% elsif vote contains "_Sí" %}
@@ -143,20 +148,8 @@
 
                             <li class="col-12 col-md-6 col-lg-4 col-xxl-3 list-group-item position-relative">
                                 {% assign party_name = party %}
-                                
-                                {% include logo_settings.html type='party' %}
-                                {% if organization_image %}
-                                    <img src="{{ organization_path }}" title="{{ organization_data[0].name }}" alt="{{ organization_data[0].name }}" width="36" height="36">
-                                    <span class="d-none list-party">{{ organization_data[0].name }}</span>
-                                {% else %}
-                                    {% if organization_data[0] and organization_data[0].color %}
-                                        <span class="badge list-party" style="background-color:{{organization_data[0].color}};">{{ organization_data[0].name }}</span>
-                                    {% elsif organization_data[0] %}
-                                        <span class="badge list-party" style="background-color:grey;">{{ organization_data[0].name }}</span>
-                                    {% else %}
-                                        <span class="badge list-party" style="background-color:grey;">{{ party_name }}</span>
-                                    {% endif %}
-                                {% endif %}
+                                {% include logos_settings.html type='party' %} 
+                                {% include logos_show.html type='party' %}
                                 <ul class="row col-12">
                                     <li>
                                         <b>votos a favor: </b><span class="text-success"> {{ yes_counter }}</span>
@@ -181,71 +174,26 @@
                             <ul class="row col-12">
                                 {% for vote in votes_data.votaciones %}
                                         {% assign politician_name = vote.diputado %}                                        
-                                        {% include logo_settings.html type='politician' %}
+                                        {% include logos_settings.html type='politician' %}
 
                                         {% if vote.voto == "Sí" %}
                                             <li class="col-12 col-lg-6 col-xl-4 col-xxl-3 list-group-item position-relative">
                                                 {{ forloop.index}} 
-                                                {% if organization_image %}
-                                                    <img src="{{ organization_path }}" title="{{ person_data[0].party }}" alt="{{ person_data[0].party }}" width="36" height="36">
-                                                    <span class="d-none list-party">{{ person_data[0].party }}</span>
-                                                {% else %}
-                                                    {% if organization_data[0] and organization_data[0].color %}
-                                                        <span class="badge list-party" style="background-color:{{organization_data[0].color}};">{{ organization_data[0].name }}</span>
-                                                    {% elsif organization_data[0] %}
-                                                        <span class="badge list-party" style="background-color:grey;">{{ organization_data[0].name }}</span>
-                                                    {% else %}
-                                                        <span class="badge list-party" style="background-color:grey;">{{ person_data[0].party }}</span>
-                                                    {% endif %}
-                                                {% endif %}
-                                                {% if person_image %}
-                                                    <img src="{{ person_path }}" title="{{ politician_name }}" alt="{{ politician_name }}" width="36" height="36">
-                                                    <span class="d-none list-politician">{{ politician_name }}</span>
-                                                {% endif %}
+                                                {% include logos_show.html type='politician' %}
                                                 {{ politician_name }}
                                                 <span class="badge bg-success position-absolute top-50 end-0 translate-middle">Si</span>
                                             </li>
                                         {% elsif vote.voto == "No"%}
                                             <li class="col-12 col-lg-6 col-xl-4 col-xxl-3 list-group-item position-relative">
                                                 {{ forloop.index}} 
-                                                {% if organization_image %}
-                                                    <img src="{{ organization_path }}" title="{{ person_data[0].party }}" alt="{{ person_data[0].party }}" width="36" height="36">
-                                                    <span class="d-none list-party">{{ person_data[0].party }}</span>
-                                                {% else %}
-                                                    {% if organization_data[0] and organization_data[0].color %}
-                                                        <span class="badge list-party" style="background-color:{{organization_data[0].color}};">{{ organization_data[0].name }}</span>
-                                                    {% elsif organization_data[0] %}
-                                                        <span class="badge list-party" style="background-color:grey;">{{ organization_data[0].name }}</span>
-                                                    {% else %}
-                                                        <span class="badge list-party" style="background-color:grey;">{{ person_data[0].party }}</span>
-                                                    {% endif %}
-                                                {% endif %}
-                                                {% if person_image %}
-                                                    <img src="{{ person_path }}" title="{{ politician_name }}" alt="{{ politician_name }}" width="36" height="36">
-                                                    <span class="d-none list-politician">{{ name }}</span>
-                                                {% endif %}
+                                                {% include logos_show.html type='politician' %}
                                                 {{ politician_name }}
                                                 <span class="badge bg-danger position-absolute top-50 end-0 translate-middle">No</span>
                                             </li>
                                         {% else %}
                                             <li class="col-12 col-lg-6 col-xl-4 col-xxl-3 list-group-item position-relative">
                                                 {{ forloop.index}} 
-                                                {% if organization_image %}
-                                                    <img src="{{ organization_path }}" title="{{ organization_data[0].name }}" alt="{{ organization_data[0].name }}" width="36" height="36">
-                                                    <span class="d-none list-party">{{ organization_data[0].name }}</span>
-                                                {% else %}
-                                                    {% if organization_data[0] and organization_data[0].color %}
-                                                        <span class="badge list-party" style="background-color:{{organization_data[0].color}};">{{ organization_data[0].name }}</span>
-                                                    {% elsif organization_data[0] %}
-                                                        <span class="badge list-party" style="background-color:grey;">{{ organization_data[0].name }}</span>
-                                                    {% else %}
-                                                        <span class="badge list-party" style="background-color:grey;">{{ person_data[0].party }}</span>
-                                                    {% endif %}
-                                                {% endif %}
-                                                {% if person_image %}
-                                                    <img src="{{ person_path }}" title="{{ politician_name }}" alt="{{ politician_name }}" width="36" height="36">
-                                                    <span class="d-none list-politician">{{ name }}</span>
-                                                {% endif %}
+                                                {% include logos_show.html type='politician' %}
                                                 {{ politician_name }}
                                                 <span class="badge bg-primary position-absolute top-50 end-0 translate-middle">Abstención</span>
                                             </li>
@@ -260,10 +208,17 @@
 </div>
 {% endif %}
 
-{% if item.analysis %}
+{% if item.congreso.intervenciones %}
+<div class="mb-3">
+<strong>Intervenciones de los/as diputados/as: </strong> 
+<a href="{{ item.congreso.intervenciones }}">Ver intervenciones (web del congreso)</a><br>
+</div>
+{% endif %}
+
+{% if item.promise_analysis %}
 <strong>Análisis sobre la promesa</strong>
 <div class="accordion mb-3" id="promiseAnalysis">
-    {% for part in item.analysis %}
+    {% for part in item.promise_analysis %}
         {% assign statement_source = item.sources | where:'ref', part.statement.source_ref %}
         <div class="accordion-item">
         <h2 class="accordion-header" id="promiseAnalysis-heading-{{forloop.index}}">
@@ -343,6 +298,18 @@
   </div>
 {% endif %}
 
+{% if item.process_analysis %}
+<strong>Análisis sobre el proceso</strong>
+<div class="accordion mb-3" id="processAnalysis">
+</div>
+{% endif %}
+
+{% if item.result_analysis %}
+<strong>Análisis sobre el resultado</strong>
+<div class="accordion mb-3" id="resultAnalysis">
+</div>
+{% endif %}
+
 {% if item.sources %}
 <div class="card mb-3">
     <div class="card-header" id="references">
@@ -353,17 +320,17 @@
         {% for source in item.sources %}
         <p class="card-text small mb-0">
             {% if source.type == "local_doc" %}
-                <a class="source_sup" target="_blank" href="{{ site.url }}{{ docs_path }}{{ source.url }}">{{ source.ref }}. {{ source.title }}</a>
+                <a class="source_sup" href="{{ site.url }}{{ docs_path }}{{ source.url }}">{{ source.ref }}. {{ source.title }}</a>
             {% else %}
-                <a class="source_sup" target="_blank" href="{{ source.url }}">{{ source.ref }}. {{ source.title }}</a>
+                <a class="source_sup" href="{{ source.url }}">{{ source.ref }}. {{ source.title }}</a>
             {% endif %}
         </p>
         {% endfor %}
     </div>
 </div>
 <div class="d-flex flex-row mb-3">
-    <a class='btn facebook' target="_blank" href="https://www.facebook.com/sharer.php?u={{site.url}}/tracks/{{ page.track_name }}/{{ page.item_name}}&title='{{ item.title }} {{ item.party }}'"> <i class="fab fa-facebook fa-fw" aria-hidden="true"></i> Compartir</a>
-    <a class="btn twitter" href="https://twitter.com/share?url={{site.url}}/tracks/{{ page.track_name }}/{{ page.item_name}}&text={{ item.status_info }}&hashtags=Seguimiento-politico" target="_blank"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i> Tweet</a>
+    <a class='btn facebook' href="https://www.facebook.com/sharer.php?u={{site.url}}/tracks/{{ page.track_name }}/{{ page.item_name}}&title='{{ item.title }} {{ item.party }}'"> <i class="fab fa-facebook fa-fw" aria-hidden="true"></i> Compartir</a>
+    <a class="btn twitter" href="https://twitter.com/share?url={{site.url}}/tracks/{{ page.track_name }}/{{ page.item_name}}&text={{ item.status_info }}&hashtags=Seguimiento-politico"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i> Tweet</a>
 </div>
 {% endif %}
 

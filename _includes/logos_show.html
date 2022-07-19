@@ -1,0 +1,32 @@
+{% if include.type == 'politician' %}
+    {% if organization_image %}
+        <img src="{{ organization_path }}" title="{{ person_data[0].party }}" alt="{{ person_data[0].party }}" width="36" height="36">
+        <span class="d-none list-party">{{ person_data[0].party }}</span>
+    {% else %}
+        {% if organization_data[0] and organization_data[0].color %}
+            <span class="badge list-party" style="background-color:{{organization_data[0].color}};">{{ organization_data[0].name }}</span>
+        {% elsif organization_data[0] %}
+            <span class="badge list-party" style="background-color:grey;">{{ organization_data[0].name }}</span>
+        {% else %}
+            <span class="badge list-party" style="background-color:grey;">{{ person_data[0].party }}</span>
+        {% endif %}
+    {% endif %}
+    {% if person_image %}
+        <img src="{{ person_path }}" title="{{ politician_name }}" alt="{{ politician_name }}" width="36" height="36">
+        <span class="d-none list-politician">{{ politician_name }}</span>
+    {% endif %}
+{% elsif include.type == 'party' %}
+    {% if organization_image %}
+        <img src="{{ organization_path }}" title="{{ organization_data[0].name }}" alt="{{ organization_data[0].name }}" width="36" height="36">
+        <span class="d-none list-party">{{ organization_data[0].name }}</span>
+    {% else %}
+        {% if organization_data[0] and organization_data[0].color %}
+            <span class="badge list-party" style="background-color:{{organization_data[0].color}};">{{ organization_data[0].name }}</span>
+        {% elsif organization_data[0] %}
+            <span class="badge list-party" style="background-color:grey;">{{ organization_data[0].name }}</span>
+        {% else %}
+            <span class="badge list-party" style="background-color:grey;">{{ party_name }}</span>
+        {% endif %}
+    {% endif %}
+
+{% endif %}
