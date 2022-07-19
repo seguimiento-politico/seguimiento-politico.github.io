@@ -8,8 +8,8 @@ categories:
   - Economía, trabajo y hacienda
   - Derechos y servicios sociales
 tags: [Empleo]
-parties: [PSOE, UNIDAS PODEMOS]
-related: # use UID to reference related promises
+parties: [PSOE]
+related: 0841e390-0774-11ed-b3c9-953458f43a18 # use UID to reference related promises
 lastmod: 2022-02-26
 congreso:
     expediente: 130/000072
@@ -121,31 +121,6 @@ promise_analysis:
                 reasoning: "En cuanto a la rapidez o urgencia de la reforma, esta entró en vigor el 28 de Diciembre de 2021, casi dos años después de la investidura."
                 outcome: 'maybe' # yes, no, maybe, irrelevant
                 sources: [2]
-
-        aditional_info:
-
-    - 
-
-        statement: 
-            quote: '"Derogaremos la reforma laboral. Recuperaremos los derechos laborales arrebatados por la reforma laboral de 2012."'
-            author: PSOE-Podemos
-            author_type: parties_coalition # party, parties_coalition, politician
-            source_ref: 8  
-        
-        statement_quality: # For Goals/Promises use (specifity, measurability, realistic, time_bound), for Assertions use (veracity, relevant, clarity)
-            specifity:
-                    
-            measurability:
-                
-            realistic:
-                
-            time_bound: 
-
-        statement_coherence:
-            coherent: #yes, no, changes_inline, changes_offline
-            previous_related_statements:
-
-        facts:
 
         aditional_info:
 

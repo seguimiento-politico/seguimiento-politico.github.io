@@ -59,11 +59,12 @@
 
 
 {% if item.related %}
-<div class="notice-info border border-primary p-2">
+<div class="notice-info border border-primary mb-3">
     <span class="m-2"><b>Compromisos relacionados:</b></span>
     <span>
         {% for uid in item.related %}
-            {% assign related = site.tracks | where: "_id", uid %}
+            {% assign related = site.data.tracks %}
+            {{ site.members | find: "graduation_year", "2014" }}
             <a class="btn btn-sm btn-outline-dark" href="{{ related[0].url }}" role="button">{{ related[0].item_name | replace: "-", " " | replace: "_", " - "}}</a>
         {% endfor %}
     </span>
