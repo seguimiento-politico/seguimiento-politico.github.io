@@ -2,6 +2,10 @@
 layout: page
 ---
 <!-- load common variables -->
+{% assign item_id = page.url | split: "/" %}
+{% assign item_id = item_id[3] | split: "." %}
+{% assign item_id = item_id[0] %}
+
 {% assign track_data = site.data.tracks.[page.track_name] %}
 {% assign item = track_data.[page.item_name] %}
 

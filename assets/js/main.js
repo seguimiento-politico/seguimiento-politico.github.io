@@ -43,11 +43,11 @@
     var today = moment();
     //var inauguration = moment(document.getElementById("inauguration").value);
     //var inauguration = moment('2017-01-20');
-    var from = $('#inauguration')[0].value;
-    var inauguration = moment(from);
-    $('#inauguration-days').html(inauguration.diff(today, 'days') > 0 ? inauguration.diff(today, 'days') : 'NA');
+    //var from = $('#inauguration')[0].value;
+    //var inauguration = moment(from);
+    //$('#inauguration-days').html(inauguration.diff(today, 'days') > 0 ? inauguration.diff(today, 'days') : 'NA');
     
-    $('#days-in-office').html(today.diff(inauguration, 'days') > 0 ? today.diff(inauguration, 'days') : 0);
+    //$('#days-in-office').html(today.diff(inauguration, 'days') > 0 ? today.diff(inauguration, 'days') : 0);
 
     // List.js object that we can filter upon
     var promiseList = new List('promises', listOptions).on('updated', function(list) {

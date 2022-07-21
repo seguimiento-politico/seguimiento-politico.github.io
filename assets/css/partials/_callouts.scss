@@ -1,0 +1,63 @@
+// Base class
+.callout{
+  padding: 1.25rem;
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+  border: 1px solid #e9ecef;
+    border-left-color: rgb(233, 236, 239);
+    border-left-width: 1px;
+  border-left-width: .25rem;
+  border-radius: .25rem;
+}
+.notice{
+  padding: 2em;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  border: 1px solid #e9ecef;
+    border-left-color: rgb(233, 236, 239);
+    border-left-width: 1px;
+  border-radius: .25rem;
+  text-indent: initial;
+  font-size: 11px;
+}
+// Modifier classes
+.callout-info{
+  border-left-color: $info;
+}
+.callout-warning {
+  border-left-color: $warning;
+}
+.callout-danger {
+  border-left-color: $danger;
+}
+.callout-success {
+  border-left-color: $success;
+}
+.callout-grey{
+    border-left-color: $gray-100;
+  }
+.notice-info{
+  border-left-color: $info;
+  box-shadow: 0 1px 1px rgba($info, 0.25);
+  background-color: mix(#fff, $info, 90%);
+}
+.notice-warning {
+  border-left-color: $warning;
+  box-shadow: 0 1px 1px rgba($warning, 0.25);
+  background-color: mix(#fff, $warning, 90%);
+}
+.notice-danger {
+  border-left-color: $danger;
+  box-shadow: 0 1px 1px rgba($danger, 0.25);
+  background-color: mix(#fff, $danger, 90%);
+}
+.notice-success {
+  border-left-color: $success;
+  box-shadow: 0 1px 1px rgba($success, 0.25);
+  background-color: mix(#fff, $success, 90%);
+}
+.notice-grey {
+    border-left-color: $gray-400;
+    box-shadow: 0 1px 1px rgba($gray-400, 0.25);
+    background-color: mix(#fff, $gray-400, 90%);
+}

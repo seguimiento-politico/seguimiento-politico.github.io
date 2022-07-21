@@ -1,0 +1,28 @@
+// Base class
+.notice {
+  padding: 1.25rem;
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+  border: 1px solid #e9ecef;
+  border-left-color: rgb(233, 236, 239);
+  border-left-width: 1px;
+  border-left-width: .25rem;
+  border-radius: .25rem;
+}
+
+// Modifier classes
+.notice-info {
+  border-left-color: --bs-yellow;
+}
+.notice-warning {
+  border-left-color: --bs-yellow;
+}
+.notice-danger {
+  border-left-color: --bs-yellow;
+}
+.notice-success{
+  border-left-color: --bs-yellow;
+}
+.notice-gray{
+  border-left-color: --bs-yellow;
+}

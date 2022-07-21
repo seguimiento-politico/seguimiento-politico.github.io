@@ -52,8 +52,10 @@ layout: page
                             <a class="btn btn-sm btn-outline-primary" href="tracks/{{ track[0] }}" role="button">{{ site.data.ui-text[site.locale].view_label | default: "view" | downcase }}</a>
                             <a class="btn btn-sm btn-outline-secondary" href="{{ site.raw-repository-source }}{{ site.repository}}/master/_data/tracks/trackers/{{ path }}/{{ track[0] }}.yaml" role="button">{{ site.data.ui-text[site.locale].open_label | default: "open data" | downcase }}</a>
                         </div>
-                        {% assign items = site.data.tracks.[track[0]] %}
-                        <small class="text-muted">{{ items | size | minus: 1 }} {{ site.data.ui-text[site.locale].promises_label | default: "promises" | downcase }}</small>
+                        {% assign track_name = track[0] %}
+                        {% assign items = site.data.tracks.[track_name] %}
+                        <!-- TODO: listar solo los archivos yaml salvo settings -->
+                        <small class="text-muted">{{ items | size | minus: 3 }} {{ site.data.ui-text[site.locale].promises_label | default: "promises" | downcase }}</small>
                         </div>
                     </div>
                 </div>

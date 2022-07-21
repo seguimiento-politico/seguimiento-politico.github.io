@@ -1,18 +1,23 @@
-_id: b1cf7bb0-d480-11ec-9b10-a95dcc5ccfd2
-created: '2022-02-26T18:56:16.363Z'
-title: 'Reforma laboral'
-description: Derogación urgente de los aspectos más lesivos de la reforma laboral, combatiendo la precariedad y el fraude laboral.
-status: Cumplido a medias
-status_info: se ha realizado una derogación parcial de la reforma laboral anterior y como la promesa es ambigua, cualquier conclusión taxativa es imposible.
-categories: 
-  - Economía, trabajo y hacienda
+_id: 0841e390-0774-11ed-b3c9-953458f43a18
+created: '2022-07-19T15:04:05.736Z'
+title: Reforma laboral
+description: >-
+  Derogaremos la reforma laboral. Recuperaremos los derechos laborales
+  arrebatados por la reforma laboral de 2012.
+categories:
   - Derechos y servicios sociales
-tags: [Empleo]
-parties: [PSOE]
-related: 0841e390-0774-11ed-b3c9-953458f43a18 # use UID to reference related promises
-lastmod: 2022-02-26
+  - 'Economía, trabajo y hacienda'
+parties:
+  - PSOE
+  - UNIDAS PODEMOS
+status: Cumplido a medias
+status_info: >-
+  se ha realizado una derogación parcial, y no completa, de la reforma laboral
+  anterior.
+related: 
 congreso:
     expediente: 130/000072
+    url: https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XIV&_iniciativas_id=130%2F000072
     votes: [sesion149votacion20, sesion149votacion21]
     intervenciones: https://app.congreso.es/AudiovisualCongreso/audiovisualdetalledisponible?codSesion=149&codOrgano=400&fechaSesion=03/02/2022&mp4=mp4&idLegislaturaElegida=14&i=695671&descripcion=Real%20Decreto-ley%2032/2021,%20de%2028%20de%20diciembre,%20de%20medidas%20urgentes%20para%20la%20reforma%20laboral,%20la%20garant%C3%ADa%20de%20la%20estabilidad%20en%20el%20empleo%20y%20la%20transformaci%C3%B3n%20del%20mercado%20de%20trabajo.
 sources:
@@ -52,17 +57,9 @@ sources:
         original_url: https://www.psoe.es/media-content/2019/12/30122019-Coalici%C3%B3n-progresista.pdf
         url: 2019-coalicion-progresista.pdf
     -
-        ref: 8
+        ref: 9
         title: Real Decreto-ley 32/2021, de 28 de diciembre, de medidas urgentes para la reforma laboral, la garantía de la estabilidad en el empleo y la transformación del mercado de trabajo.
         url: https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_032_2021.pdf
-    -
-        ref: 9
-        title: Corrección de errores del Real Decreto-ley 32/2021, de 28 de diciembre, de medidas urgentes para la reforma laboral, la garantía de la estabilidad en el empleo y la transformación del mercado de trabajo.
-        url: https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_032_2021_corr.pdf
-    - 
-        ref: 10
-        title: BOCG. Congreso de los Diputados Núm. D-399 de 10/02/2022 Pág.3 Convalidación
-        url: https://www.congreso.es/busqueda-de-publicaciones?p_p_id=publicaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_publicaciones_mode=mostrarTextoIntegro&_publicaciones_legislatura=XIV&_publicaciones_id_texto=(BOCG-14-D-399.CODI.)
 
 promise_analysis:
     - 
@@ -85,29 +82,27 @@ promise_analysis:
                     - 
                         compliance: 'yes'
                         reason: Se define como objetivo claro combatir la «precariedad y el fraude laboral», aunque no se indica como lograrlo.
+            
             measurability:
                 overall_compliance: 'no'
                 reasons:
                     - 
                         compliance: 'no' 
                         reason: No se establecen indicadores ni niveles objetivos medibles.
+            
             realistic:
                 overall_compliance: 'yes'      
                 reasons:
                     - 
                         compliance: 'yes'
                         reason: No existen barreras legales o de otro tipo que dificulten lograr el objetivo.    
+            
             time_bound: 
                 overall_compliance: 'partly'
                 reasons:
                     -   
                         compliance: 'partly'
                         reason: Da un carácter «urgente» a la promesa, pero no determina un plazo a cumplir.
-
-        statement_coherence:
-            coherent: #yes, no, changes_inline, changes_offline
-            previous_related_statements:
-
         facts:
             -
                 reasoning: "El hecho es que efectivamente se ha realizado una reforma parcial de la legislación laboral."
@@ -121,12 +116,30 @@ promise_analysis:
                 reasoning: "En cuanto a la rapidez o urgencia de la reforma, esta entró en vigor el 28 de Diciembre de 2021, casi dos años después de la investidura."
                 outcome: 'maybe' # yes, no, maybe, irrelevant
                 sources: [2]
+        
+        statement_coherence:
+            coherent: #yes, no, changes_inline, changes_offline
+            previous_related_statements:
 
-        aditional_info:
+        aditional_info: test
 
 process_analysis:
+    -
+        aditional_info: test
 
 result_analysis:
+    -   
+        title: Real Decreto ley 32/2021
+        source_ref: 9
+
+        intended_purpose:
+
+        aditional_info: test
+
+        
+
+            
+
 
 collaborators: 
     - Tovarlogic: 

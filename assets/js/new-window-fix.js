@@ -1,6 +1,5 @@
-<!-- This script detects external links and links to PDF files, using plain javascript. It automagically adds ‘target=”_blank”’ to these links. -->
-<!-- source: https://jekyllcodex.org/without-plugin/new-window-fix/ -->
-<script>
+//This script detects external links and links to PDF files, using plain javascript. It automagically adds ‘target=”_blank”’ to these links. -->
+//source: https://jekyllcodex.org/without-plugin/new-window-fix/ -->
     //open external links in a new window
     function external_new_window() {
         for(var c = document.getElementsByTagName("a"), a = 0;a < c.length;a++) {
@@ -28,4 +27,3 @@
     } 
     pdf_new_window();
     external_new_window();
-    </script>

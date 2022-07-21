@@ -36,6 +36,7 @@
         </span> 
         debido a que {{ item.status_info }}
     </p>
+        
     <div class="row">
         <div class="col-12 col-sm-6 text-muted small">
             {% for category in item.categories %}
@@ -55,17 +56,21 @@
             </p>
         </div>
     </div>
+    <div class="card-footer">
+        {% if item.congreso.url %}
+            <a href="{{ item.congreso.url }}" class="card-link">Ficha de la iniciativa en el congreso</a>
+        {% endif %}
+    </div>
 </div>
 
 
 {% if item.related %}
-<div class="notice-info border border-primary mb-3">
+<div class="notice-info border border-primary mb-3 p-2">
     <span class="m-2"><b>Compromisos relacionados:</b></span>
     <span>
         {% for uid in item.related %}
-            {% assign related = site.data.tracks %}
-            {{ site.members | find: "graduation_year", "2014" }}
-            <a class="btn btn-sm btn-outline-dark" href="{{ related[0].url }}" role="button">{{ related[0].item_name | replace: "-", " " | replace: "_", " - "}}</a>
+            {% assign related = site.tracks | where: "uid", uid %}
+            <a class="btn btn-sm btn-outline-dark" href="{{ related[0].url }}" role="button">{{ related[0].item_name | replace: "-", " " | truncate: 20 }}</a>
         {% endfor %}
     </span>
 </div>
@@ -73,26 +78,29 @@
 
 {% if item.congreso.votes %}
 <strong>Votaciones</strong>
+
 <div class="accordion mb-3" id="votes">
     {% for vote in item.congreso.votes %}
         {% assign votes_data = track_data.votes.[vote] %}
         <div class="accordion-item">
             <h2 class="accordion-header" id="votes-heading-{{vote}}">
-                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#votes-collapse-{{vote}}" aria-controls="collapse-{{forloop.index}}">
-                    {{ votes_data.informacion.textoExpediente }}
+                <button class="accordion-button collapsed position-relative" type="button" data-bs-toggle="collapse" data-bs-target="#votes-collapse-{{vote}}" aria-controls="collapse-{{forloop.index}}" aria-expanded="false">
+                    {% assign date = votes_data.informacion.fecha%} 
+                    <b>{% include dates_to_text.html %} </b> - {{ votes_data.informacion.textoExpediente | truncatewords: 5 }} 
                     {% assign mayoria_simple = votes_data.totales.afavor | minus: votes_data.totales.enContra %}
                     {% if mayoria_simple > 0 %}
-                        <span class="badge bg-success mr-2">A favor</span>
+                        <span class="badge bg-success me-3 position-absolute top-50 end-0 translate-middle">A favor</span>
                     {% else %}
-                        <span class="badge bg-danger">En contra</span>
+                        <span class="badge bg-danger me-3 position-absolute top-50 end-0 translate-middle">En contra</span>
                     {% endif %}
                 </button>
             </h2>
             <div id="votes-collapse-{{vote}}" class="accordion-collapse collapse" aria-labelledby="votes-heading-{{vote}}" data-bs-parent="#votes">
                 <div class="accordion-body">
-                    <h6><b>Información</b></h6>
+                    <h1><b>Información</b></h1>
                     <hr>
                     <div class="container">
+                        <p>{{ votes_data.informacion.textoExpediente }}</p>
                         <p>
                             <b>Fecha de votación: </b>
                             {% assign date = votes_data.informacion.fecha %}
@@ -125,7 +133,7 @@
                             </ul>
                         </p>
                     </div>
-                    <h6><b>Votos por partido</b></h6>
+                    <h1><b>Votos por partido</b></h1>
                     <hr>
                     {% include voting_counters.html %}
                     <ul class="row col-12">
@@ -170,7 +178,7 @@
                         {% endfor %}
                     </ul>
                     <div class="container">
-                    <h6><b>Votos por diputado</b></h6>
+                    <h1><b>Votos por diputado</b></h1>
                     <hr>
                             <ul class="row col-12">
                                 {% for vote in votes_data.votaciones %}
@@ -217,26 +225,27 @@
 {% endif %}
 
 {% if item.promise_analysis %}
+{% assign analysis = item.promise_analysis %}
 <strong>Análisis sobre la promesa</strong>
 <div class="accordion mb-3" id="promiseAnalysis">
-    {% for part in item.promise_analysis %}
-        {% assign statement_source = item.sources | where:'ref', part.statement.source_ref %}
+    {% for part in analysis %}
+        {% assign source = item.sources | where:'ref', part.statement.source_ref %}
         <div class="accordion-item">
         <h2 class="accordion-header" id="promiseAnalysis-heading-{{forloop.index}}">
-            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#promiseAnalysis-collapse-{{forloop.index}}" aria-controls="collapse-{{forloop.index}}">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#promiseAnalysis-collapse-{{forloop.index}}" aria-controls="collapse-{{forloop.index}}">
                 {{forloop.index}}. {{ part.statement.quote }}
             </button>
         </h2>
         <div id="promiseAnalysis-collapse-{{forloop.index}}" class="accordion-collapse collapse" aria-labelledby="heading-{{forloop.index}}" data-bs-parent="#promiseAnalysis">
             <div class="accordion-body">
-                <h6><b>Fuente</b></h6>
+                <h1><b>Fuente</b></h1>
                 <hr>
                 <blockquote class="mb-3">
                     {{ part.statement.quote }}
-                    <sup><a class="source_sup small" href="#references" title="{{ statement_source[0].title }}">{{ statement_source[0].ref }}</a></sup>
-                    <footer class="blockquote-footer text-end mt-2">{{ part.statement.author }} en <cite>{{ statement_source[0].title }}</cite></footer>
+                    <sup><a class="source_sup small" href="#references" title="{{ source[0].title }}">{{ source[0].ref }}</a></sup>
+                    <footer class="blockquote-footer text-end mt-2">{{ part.statement.author }} en <cite>{{ source[0].title }}</cite></footer>
                 </blockquote>
-                <h6><b>{{ site.data.ui-text[site.locale].promise_characteristics }}</b></h6>
+                <h1><b>{{ site.data.ui-text[site.locale].promise_characteristics }}</b></h1>
                 <hr>
                 {% for feature in part.statement_quality %}
                     <p class="card-text ms-3">
@@ -264,7 +273,7 @@
                 {% endfor %}
                 
                 <br>
-                <h6><b>Grado de cumplimiento</b></h6>
+                <h1><b>Grado de cumplimiento</b></h1>
                 <hr>
                 {% for fact in part.facts %}
                     {% if fact.outcome == 'yes' %} 
@@ -292,6 +301,18 @@
                         <sup><a class="source_sup" href="#references" title="{{source[0].title}}">{{ source[0].ref }}</a></sup> 
                     {% endfor %}
                 {% endfor %}
+                
+                
+                {% if part.aditional_info %}
+                    <h1><b>Análisis libre</b></h1>
+                    <hr>
+                    {% assign path = "_tracks/" | append: page.track_name | append: "/analysis/" | append: part.aditional_info | append: ".md" %}
+                    {% assign text = site.tracks | where: "path", path %}
+                    {% capture text %}{{ text }}{% endcapture %}
+                    {{ text | markdownify }}
+
+
+                {% endif %}
             </div>
         </div>
         </div>
@@ -300,14 +321,36 @@
 {% endif %}
 
 {% if item.process_analysis %}
+{% assign analysis = item.process_analysis %}
 <strong>Análisis sobre el proceso</strong>
 <div class="accordion mb-3" id="processAnalysis">
+    {% for part in analysis %}
+        {% assign source = item.sources | where:'ref', part.source_ref %}
+        <div class="accordion-item">
+        <h2 class="accordion-header" id="processAnalysis-heading-{{forloop.index}}">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#processAnalysis-collapse-{{forloop.index}}" aria-controls="collapse-{{forloop.index}}">
+                {{forloop.index}}. {{ part.source.title }}
+            </button>
+        </h2>
+        </div>
+    {% endfor %}
 </div>
 {% endif %}
 
 {% if item.result_analysis %}
+{% assign analysis = item.result_analysis %}
 <strong>Análisis sobre el resultado</strong>
-<div class="accordion mb-3" id="resultAnalysis">
+<div class="accordion mb-3" id="processAnalysis">
+    {% for part in analysis %}
+        {% assign source = item.sources | where:'ref', part.source_ref %}
+        <div class="accordion-item">
+        <h2 class="accordion-header" id="processAnalysis-heading-{{forloop.index}}">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#processAnalysis-collapse-{{forloop.index}}" aria-controls="collapse-{{forloop.index}}">
+                {{forloop.index}}. {{ part.title }}
+            </button>
+        </h2>
+        </div>
+    {% endfor %}
 </div>
 {% endif %}
 
@@ -317,7 +360,7 @@
         Fuentes y referencias
     </div>
     <div class="card-body">
-        <h6 class="card-title">Encuentra aquí todas las fuentes informativas que se han empleado para registrar este compromiso/promesa y determinar el grado de cumplimiento actual.</h6>
+        <span class="card-title mb-3">Encuentra aquí todas las fuentes informativas que se han empleado para registrar este compromiso/promesa y determinar el grado de cumplimiento actual:</span>
         {% for source in item.sources %}
         <p class="card-text small mb-0">
             {% if source.type == "local_doc" %}
