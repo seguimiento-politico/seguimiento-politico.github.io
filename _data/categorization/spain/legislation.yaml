@@ -1,0 +1,76 @@
+types:
+  constitution:
+    name: Constitución
+    description: Es la Norma suprema del ordenamiento jurídico español y por la que se regula toda la compleja interrelación entre las diferentes normas.
+    hierarchy: 1
+  tratado-internacional:
+    name: Tratado internacional
+    description: en los que se incluye el Derecho de la Unión Europea y otros reglamentos internacionales.
+    hierarchy: 2
+  ley-orgánica:
+    name: Ley Orgánica
+    description: Son leyes orgánicas las relativas al desarrollo de los derechos fundamentales y de las libertades públicas, las que aprueben los Estatutos de Autonomía y el régimen electoral general y las demás previstas en la Constitución. Requiere la aprobación (por mayoría absoluta) del Congreso de los Diputados.
+    hierarchy: 3
+  ley-ordinaria:
+    name: Ley Ordinaria
+    description: No necesitan mayoría absoluta para su aprobación en el Congreso de los Diputados.
+    hierarchy: 4
+  real-decreto-ley:
+    name: Real Decreto Ley (RDL)
+    description: Norma reglamentaria con rango de ley, promulgada por el Gobierno (no por el Parlamento) en caso de extrema y urgente necesidad. Tiene carácter provisional hasta su convalidación por parte del parlamento en treinta días como máximo. Puede regular materias de las que se ocuparía la ley ordinaria, pero nunca de aquellas materias reservadas a la ley orgánica.
+    hierarchy: 5
+  real-decreto-legislativo:
+    name: Real Decreto legislativo
+    description: Norma reglamentaria con rango de ley, promulgada por el Gobierno (no por el Parlamento) que contiene legislación delegada. Se requiere de la pre-existencia de una ley de bases cuando su objeto sea la formación de textos articulados o por una ley ordinaria cuando se trate de refundir varios textos legales en uno solo. Las leyes de bases delimitarán con precisión el objeto y alcance de la delegación legislativa y los principios y criterios que han de seguirse en su ejercicio.
+    hierarchy: 6
+  real-decreto:
+    name: Real Decreto (RD)
+    description: Es una norma jurídica que emana del poder ejecutivo (el Gobierno). Suele emplearse para elaborar reglamentos. Precisa para su adopción de la aprobación del Consejo de Ministros exclusivamente.
+    hierarchy: 7
+  orden-ministerial:
+    name: Orden Ministerial (OM)
+    description: 8
+    hierarchy: Es una norma jurídica que emana del poder ejecutivo (el Gobierno). Suele emplearse para elaborar reglamentos. Puede establecerse por parte de un solo ministro aunque también también revestirán la forma de orden ministerial los acuerdos de las comisiones delegadas del Gobierno.
+
+processes: 
+  # Procedimiento Legislativo Ordinario (PLO)
+  plo_proyecto_ley:
+    name: Procedimiento legislativo ordinario
+    authors: Gobierno
+    phases: 
+      initiative_publication:
+        name: Publicación de la iniciativa
+      congress_amendments: #optional
+        name: Fase de enmiendas
+      congress_initial_approval:
+        name: Aprobación inicial del Congreso
+      senate_amendment: #optional
+        name: Enmiendas del Senado
+      senate_final_approval: 
+        name: Aprobación final del Senado
+      congress_final_approval: # just in case of senate_ammendment
+        name: Aprobación final del Congreso
+      law_publication:
+        name: Publicación de la legislación en el BOE
+  plo_proposicion_ley:
+    name: Procedimiento legislativo ordinario
+    authors: [iniciativa popular, grupo parlamentario, parlamento autonómico]
+    phases: 
+      initiative_publication:
+        name: Publicación de la iniciativa
+      congress_acceptance:
+        name: Toma en consideración de la iniciativa
+      congress_amendments: #optional
+        name: Fase de enmiendas
+      congress_initial_approval:
+        name: Aprobación inicial del Congreso
+      senate_amendment: #optional
+        name: Enmiendas del Senado
+      senate_final_approval: 
+        name: Aprobación final del Senado
+      congress_final_approval: # just in case of senate_ammendment
+        name: Aprobación final del Congreso
+      law_publication:
+        name: Publicación de la legislación en el BOE
+
+  

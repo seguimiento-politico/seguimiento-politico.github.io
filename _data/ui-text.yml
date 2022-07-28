@@ -121,6 +121,9 @@ es: &DEFAULT_ES
   use_terms_label          : "Términos de Uso"
   updates_label             : "Últimas actualizaciones"
   view_label                : "Ver"
+  appropiate                : "Adecuado"
+  deficient                 : "Deficiente"
+  improvable                : "Mejorable"
 
 es-ES:
   <<: *DEFAULT_ES

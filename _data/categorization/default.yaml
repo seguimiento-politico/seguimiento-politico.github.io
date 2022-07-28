@@ -1,6 +1,6 @@
 statuses:
     -
-        name: Desconocido
+        name: unknown
         lang_label: status_unknown
         color: dark
         icon: question-circle
