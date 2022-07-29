@@ -96,23 +96,32 @@
     </div>
 </div>
 
-{% assign inverse_relation = site.data.tracks | where: "related", "74cbc2a0-0432-11ed-83f1-c5dbc0b596f7" %}
-{{ inverse_relation | inspect }}
-{% if item.related or inverse_relation %}
 <div class="notice-info border border-primary mb-3 p-2">
     <span class="m-2"><b>Compromisos relacionados:</b></span>
     <span>
+        <!-- explicit relation -->
         {% for uid in item.related %}
             {% assign related = site.tracks | where: "uid", uid %}
             {% assign title = related[0].item_name | split: "_" %}
             <a class="btn btn-sm btn-outline-dark" href="{{ related[0].url }}" role="button">{{ title[1] | replace: "-", " " | truncatewords: 5 }}</a>
         {% endfor %}
-        {% for track in inverse_relation %}
-            {{ track }}
+        <!-- inverse relation -->
+        {% assign tracks = site.data.tracks %}
+        {% for track in tracks %}
+            {% for track_items in track %}
+                {% for track_item in track_items %}
+                    {% for related_item in track_item[1].related %}
+                        {% if related_item == item._id %}
+                            {% assign related = site.tracks | where: "uid", related_item._id %}
+                            {% assign title = related[0].item_name | split: "_" %}
+                            <a class="btn btn-sm btn-outline-dark" href="{{ related[0].url }}" role="button">{{ title[1] | replace: "-", " " | truncatewords: 5 }}</a>
+                        {% endif %}
+                    {% endfor %}
+                {% endfor %}
+            {% endfor %}
         {% endfor %}
     </span>
 </div>
-{% endif %}
 
 {% if item.promise_analysis %}
     {% assign analysis = item.promise_analysis %}
@@ -247,9 +256,9 @@
                                             <b>{% include dates_to_text.html %} </b> - {{ votes_data.informacion.textoExpediente | truncatewords: 5 }} 
                                             {% assign mayoria_simple = votes_data.totales.afavor | minus: votes_data.totales.enContra %}
                                             {% if mayoria_simple > 0 %}
-                                                <span class="badge bg-success me-3 position-absolute top-50 end-0 translate-middle">A favor</span>
+                                                <span class="badge bg-success me-3 position-absolute top-50 end-0 translate-middle">Aprobado</span>
                                             {% else %}
-                                                <span class="badge bg-danger me-3 position-absolute top-50 end-0 translate-middle">En contra</span>
+                                                <span class="badge bg-danger me-3 position-absolute top-50 end-0 translate-middle">Rechazado</span>
                                             {% endif %}
                                         </button>
                                     </h2>
@@ -269,9 +278,9 @@
                                                     <b>Resultado: </b>
                                                     {% assign mayoria_simple = votes_data.totales.afavor | minus: votes_data.totales.enContra %}
                                                     {% if mayoria_simple > 0 %}
-                                                        <span class="badge bg-success">A favor</span>
+                                                        <span class="badge bg-success">Aprobado</span>
                                                     {% else %}
-                                                        <span class="badge bg-danger">En contra</span>
+                                                        <span class="badge bg-danger">Rechazado</span>
                                                     {% endif %}
                                                     <ul class="row col-12">
                                                         <li>
