@@ -1,0 +1,24 @@
+_id: 9cda8a7a-09db-4a6c-bfc7-3f6d80f73d46
+title: Real Decreto-ley 32/2021, de 28 de diciembre, de medidas urgentes para la reforma laboral, la garantía de la estabilidad en el empleo y la transformación del mercado de trabajo.
+description: Se ha publicado y posteriormente convalidado este RDL por medio del procedimiento legislativo ordinario de urgencia. 
+date: 2022-01-03
+record: 130/000072
+type: legislation
+subtype: real-decreto-ley
+process: plo-urgencia
+trigger: [goverment-initiative] # international-treaty, europe-directive, popular-initiative, parlament-initiative (wheter congress or senate), goverment-initiative
+trigger_comments: 
+votes:
+  - sesion149votacion20
+  - sesion149votacion21
+intervenciones: https://app.congreso.es/AudiovisualCongreso/audiovisualdetalledisponible?codSesion=149&codOrgano=400&fechaSesion=03/02/2022&mp4=mp4&idLegislaturaElegida=14&i=695671&descripcion=Real%20Decreto-ley%2032/2021,%20de%2028%20de%20diciembre,%20de%20medidas%20urgentes%20para%20la%20reforma%20laboral,%20la%20garant%C3%ADa%20de%20la%20estabilidad%20en%20el%20empleo%20y%20la%20transformaci%C3%B3n%20del%20mercado%20de%20trabajo.
+initiatives:
+  - 
+sources:
+  -
+    title: Congreso - 130/000072
+    url: https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XIV&_iniciativas_id=130/000072      
+  -
+    title: BOE
+    url: https://www.boe.es/eli/es/rdl/2021/12/28/32/con
+    

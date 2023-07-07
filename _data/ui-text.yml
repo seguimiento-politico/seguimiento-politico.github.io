@@ -105,6 +105,7 @@ es: &DEFAULT_ES
   status_broken             : "Incumplido"
   status_blocked            : "Bloqueado"
   status_unknown            : "Desconocido"
+  status_done               : "Finalizado"
   status_opinion            : "Opinión"
   status_true               : "Afirmación veraz"
   status_misleading         : "Afirmación engañosa"

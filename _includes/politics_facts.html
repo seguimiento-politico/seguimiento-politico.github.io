@@ -1,0 +1,111 @@
+<!-- categorization variables -->
+{% include categorization.html %}
+
+{% assign parties_data = site.data.agents.[track_data.settings.config.country].parties %}
+
+<!-- categorization counters -->
+{% include categorization_counters.html %}
+
+<div class="border my-3 p-3 bg-body rounded shadow-sm">
+    <h6 class="border-bottom pb-2">{{ site.data.ui-text[site.locale].track_info_label | default: "Data and info about" }} {{ track_data.settings.context.name }}</h6>
+    <div class="row pt-2">
+        <!-- % assign not_achieved = promises | where_exp: "item", "item.status contains 'Broken' or item.status contains 'Not started' or item.status contains 'In progress'" % 
+                % assign not_achieved_percent = not_achieved | times: 100 | divided_by: total % -->
+        <p>
+            <b>Desde </b>  {{ track_data.settings.context.from }} <b>hasta</b>  {% if track_data.settings.context.to %} {{ track_data.settings.context.to }} {% else %} Actualidad {% endif %} <b>durante</b> 
+            <span id="days-in-office"><i class='loading'>Loading...</i></span> días
+        </p>
+        <p>
+            <b>Total compromisos electorales del gobierno registrados: </b> {{ promises | size }} 
+            de los cuales <span class="text-danger"> el {{ not_achieved_percent }}% no se han cumplido</span> y <span class="text-success"> el % sí.</span>
+        </p> 
+        <p>
+            <b>Total compromisos electorales de la oposición registrados: </b> {{ opposition_promises | size }} 
+            de los cuales <span class="text-danger"> el {{ not_achieved_percent }}% no se han cumplido</span> y <span class="text-success"> el % sí.</span>
+        </p>
+    </div>
+</div>
+
+<div class="border my-3 p-3 bg-body rounded shadow-sm"> 
+    <h6 class="border-bottom pb-2 d-flex justify-content-between align-items-start">
+        <span class="align-self-center">
+            {{ site.data.ui-text[site.locale].track_promises_label | default: "Tracking promises of" }} {{ track_data.settings.context.name }}
+        </span>
+        <button class="btn btn-sm btn-primary" id="new-item" style=""><i class="fas fa-fw fa-plus"></i> nuevo compromiso</button>
+    </h6>
+
+    {% include item-new-form.html %}
+    
+    <div id="item-content" style="">
+        <div class="row pt-2">
+            {% include listjs-categorization_filters.html %}
+        </div>
+        <div class="promises row pt-2" id="promises">
+            {% include listjs-text_filter.html %}
+    
+            <div class="table-responsive-md promises__table">
+                <table class="table">
+                    <thead> 
+                    <tr class="bg-dark text-light">
+                        <th></th>
+                        <th>{{ site.data.ui-text[site.locale].promise_label | default: "Category" }}</th>
+                        <th>{{ site.data.ui-text[site.locale].promise_label | default: "Promise" }}</th>
+                        <th class="d-none d-sm-table-cell">{{ site.data.ui-text[site.locale].status_label | default: "Status" }}</th>
+                        <th></th>
+                    </tr>
+                    </thead>
+    
+                    <tbody class="list">
+                    <!-- add color to each policy -->
+                    {% for item_data in track_data.track_items %}
+                        {% assign item = item_data[1] %}
+                        {% if item.status %}
+                            {% assign status = statuses_data | where: "name", item.status | first %}
+                        {% else %}
+                            {% assign status = site.data.categorization.default.statuses | first %}
+                        {% endif %}
+                        {% assign party = parties_data | where: "name", item.party | first %} 
+
+                        <tr class="list-group-item-{{ status.color }}">
+                            <td>
+                                {% include items_logo.html type='parties' %}
+                            </td>
+                            <td>  
+                                <div>
+                                    <!-- TODO: arreglar el filtro de categorías -->
+                                    <span class="list-category">
+                                    {% for category in item.categories %}
+                                        {% assign category_data = categories_data | where: "name", category | first %}
+                                        {{ category_data.name }}
+                                        <i class="text-muted fas fa-fw fa-{{ category_data.icon }}" title="{{ category_data.name }}"></i>
+                                        <br>
+                                    {% endfor %}
+                                    </span>
+                                </div>
+                            </td>
+
+                            <td class="list-text">
+                                <span><b>{{ item.title }}</b></span>
+                                <span class="d-none d-md-block d-xxl-block"> {{ item.description | truncatewords: 25 }}</span>
+                            </td>
+
+                            <td class="d-none d-sm-table-cell">
+                                <span class="d-none sr-only list-status">{{ item.status }}</span>
+                                {{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}</span>
+                                <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}"></i>
+                            </td>
+                            
+                            <td class="text-center">
+                                <!-- TODO: no nostrar link si la página no existe -->
+                                <a class="btn btn-primary" href="{{ page.dir }}{{ item_data[0]}}">
+                                    <span class="d-inline-block align-middle"><i class="fas fa-fw fa-angle-right"></i></span>
+                                </a>
+                            </td>
+                        </tr>
+                    {% endfor %}
+                    </tbody>
+                </table>
+            </div>  
+        </div>
+    </div>
+</div>   

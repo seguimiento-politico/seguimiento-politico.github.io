@@ -1,0 +1,333 @@
+_id: a0065ad7-7c6a-4623-992d-a264f1138a58
+promise_id: a30a6e10-a023-4e36-9901-ffdd776d6f9e
+status: unknown # unknown, blocked, broken, compromised, achieved, in_progress, not_started
+status_info: aún no hemos completado el seguimiento
+overall_compliance:
+    -
+        reasoning: "El hecho es que efectivamente se ha realizado una reforma parcial de la legislación laboral."
+        outcome: 'yes' # yes, no, maybe, irrelevant
+        sources: [2]
+    -
+        reasoning: "Dada la inespecificidad de la promesa, resulta imposible determinar sin género de duda el grado de cumplimiento. Para poder concretar el ámbito de la promesa será necesario añadir fuentes provenientes de hemeroteca, con declaraciones de los representantes del partido."
+        outcome: 'maybe' # yes, no, maybe, irrelevant
+        sources: [3,4,5,6,7]
+    -
+        reasoning: "En cuanto a la rapidez o urgencia de la reforma, esta entró en vigor el 28 de Diciembre de 2021, casi dos años después de la investidura."
+        outcome: 'maybe' # yes, no, maybe, irrelevant
+        sources: [2]
+related_promises: []
+
+sources:
+    -
+        ref: 1
+        title: Programa electoral, apartado 1.1
+        type: local_doc # link(default), local_doc, video, podcast
+        url: psoe_2019_10N.pdf
+        original_url: 
+    -
+        ref: 2
+        title: BOE núm. 313, de 30/12/2021 - Real Decreto-ley 32/2021, de 28 de diciembre, de medidas urgentes para la reforma laboral
+        url: https://www.boe.es/eli/es/rdl/2021/12/28/32/con
+    -
+        ref: 3
+        title: noticias jurídicas - Resumen de la reforma laboral 2021, sus aspectos más relevantes
+        url: https://noticias.juridicas.com/actualidad/noticias/16845-reforma-laboral-2021:-resumen-de-urgencia-de-sus-aspectos-mas-relevantes/
+    -
+        ref: 4
+        title: ESADE - La nueva reforma laboral, un primer análisis
+        url: https://www.esade.edu/ecpol/es/publicaciones/la-nueva-reforma-laboral-un-primer-analisis/
+    -
+        ref: 5
+        title: UCM - Las siete claves de la reforma laboral de 2021
+        url: https://www.ucm.es/otri/noticias-claves-reforma-laboral-ucm
+    -
+        ref: 6
+        title: Resumen y cuadros comparativos de la reforma laboral 2021
+        url: https://www.laboral-social.com/reforma-laboral-2021-resumen-principales-medidas-cuadros-comparativos.htm
+    -
+        ref: 7
+        title: El País - Acuerdo gobierno, patronal y sindicatos
+        url: https://elpais.com/economia/2021-12-23/la-ceoe-da-el-visto-bueno-a-la-ultima-propuesta-para-la-reforma-laboral-y-acerca-el-acuerdo-final.html
+    -
+        ref: 8
+        title: Coalición progresista - Un nuevo acuerdo para España
+        original_url: https://www.psoe.es/media-content/2019/12/30122019-Coalici%C3%B3n-progresista.pdf
+        url: 2019-coalicion-progresista.pdf
+    -
+        ref: 9
+        title: "Congreso: Iniciativas Legislatura XIV - expediente 130/000072"
+        url: https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XIV&_iniciativas_id=130%2F000072
+
+promise_analysis:
+    - 
+        statement: 
+            quote: Derogaremos la posibilidad de despido por absentismo causado por bajas por enfermedad.
+            author: PSOE/Unidas Podemos
+            author_type: party # party, politician
+            source_ref:  # optional, if void then will show the main promise source
+            source_details:  # optional, if void the will show the main promise source details
+        
+        statement_quality: # For Goals/Promises use (specifity, measurability, realistic, time_bound), for Assertions use (veracity, relevant, clarity)
+            overall_quality: appropiate
+            specifity:
+                overall_compliance: 'yes'
+                reasons: 
+                    - 
+                        compliance: 'yes'
+                        reason: Se define un objetivo claro muy específico.
+            measurability:
+                overall_compliance: partly
+                reasons:
+                    - 
+                        compliance: partly 
+                        reason: Salvo que existan excepciones, se trata de una cuestión binaria fácilmente comprobable.
+            realistic:
+                overall_compliance: 'yes'      
+                reasons:
+                    - 
+                        compliance: 'yes'
+                        reason: No existen barreras legales o de otro tipo que dificulten lograr el objetivo.    
+            time_bound: 
+                overall_compliance: partly
+                reasons:
+                    -   
+                        compliance: 'partly'
+                        reason: Se da un carácter «urgente» a la promesa, pero no determina un plazo a cumplir.
+
+        statement_coherence:
+            coherent: #yes, no, changes_inline, changes_offline
+            previous_related_statements: 
+        aditional_info: # optional markdown filename
+    
+    - 
+        statement: 
+            quote: Derogaremos las limitaciones al ámbito temporal del convenio colectivo, haciéndolo llegar más allá de las previsiones contenidas en el mismo, tras la finalización de su vigencia y hasta la negociación de uno nuevo.
+            author: PSOE/Unidas Podemos
+            author_type: party # party, politician
+            source_ref:  # optional, if void then will show the main promise source
+            source_details:  # optional, if void the will show the main promise source details
+        
+        statement_quality: # For Goals/Promises use (specifity, measurability, realistic, time_bound), for Assertions use (veracity, relevant, clarity)
+            overall_quality: appropiate
+            specifity:
+                overall_compliance: 'yes'
+                reasons: 
+                    - 
+                        compliance: 'yes'
+                        reason: Se define un objetivo claro muy específico.
+            measurability:
+                overall_compliance: 'yes'
+                reasons:
+                    - 
+                        compliance: 'yes' 
+                        reason: Se trata de una cuestión binaria fácilmente comprobable.
+            realistic:
+                overall_compliance: 'yes'      
+                reasons:
+                    - 
+                        compliance: 'yes'
+                        reason: No existen barreras legales o de otro tipo que dificulten lograr el objetivo.    
+            time_bound: 
+                overall_compliance: partly
+                reasons:
+                    -   
+                        compliance: 'partly'
+                        reason: Se da un carácter «urgente» a la promesa, pero no determina un plazo a cumplir.
+
+        statement_coherence:
+            coherent: #yes, no, changes_inline, changes_offline
+            previous_related_statements: 
+        aditional_info: # optional markdown filename
+    - 
+        statement: 
+            quote: Derogaremos la prioridad aplicativa de los convenios de empresa sobre los convenios sectoriales.
+            author: PSOE/Unidas Podemos
+            author_type: party # party, politician
+            source_ref:  # optional, if void then will show the main promise source
+            source_details:  # optional, if void the will show the main promise source details
+        
+        statement_quality: # For Goals/Promises use (specifity, measurability, realistic, time_bound), for Assertions use (veracity, relevant, clarity)
+            overall_quality: appropiate
+            specifity:
+                overall_compliance: 'yes'
+                reasons: 
+                    - 
+                        compliance: 'yes'
+                        reason: Se define un objetivo claro muy específico.
+            measurability:
+                overall_compliance: partly
+                reasons:
+                    - 
+                        compliance: partly 
+                        reason: Salvo que existan excepciones, se trata de una cuestión binaria fácilmente comprobable.
+            realistic:
+                overall_compliance: 'yes'      
+                reasons:
+                    - 
+                        compliance: 'yes'
+                        reason: No existen barreras legales o de otro tipo que dificulten lograr el objetivo.    
+            time_bound: 
+                overall_compliance: partly
+                reasons:
+                    -   
+                        compliance: 'partly'
+                        reason: Se da un carácter «urgente» a la promesa, pero no determina un plazo a cumplir.
+
+        statement_coherence:
+            coherent: #yes, no, changes_inline, changes_offline
+            previous_related_statements: 
+        aditional_info: # optional markdown filename
+    - 
+        statement: 
+            quote: Modificaremos el art. 42.1 del Estatuto de los Trabajadores sobre contratación y subcontratación laboral a efectos de limitar la subcontratación a servicios especializados ajenos a la actividad principal de la empresa.
+            author: PSOE/Unidas Podemos
+            author_type: party # party, politician
+            source_ref:  # optional, if void then will show the main promise source
+            source_details:  # optional, if void the will show the main promise source details
+        
+        statement_quality: # For Goals/Promises use (specifity, measurability, realistic, time_bound), for Assertions use (veracity, relevant, clarity)
+            overall_quality: improvable
+            specifity:
+                overall_compliance: 'partly'
+                reasons: 
+                    - 
+                        compliance: 'yes'
+                        reason: Se define un objetivo general claro y específico.
+                    - 
+                        compliance: 'partly'
+                        reason: No se detalla suficientemente la limitación que se quiere imponer.
+            measurability:
+                overall_compliance: partly
+                reasons:
+                    - 
+                        compliance: partly 
+                        reason: Dada la inespecifidad de la limitación a imponer, no se podrá analizar de manera inequívoca el grado de cumplimiento.
+            realistic:
+                overall_compliance: 'yes'      
+                reasons:
+                    - 
+                        compliance: 'yes'
+                        reason: No existen barreras legales o de otro tipo que dificulten lograr el objetivo.    
+            time_bound: 
+                overall_compliance: partly
+                reasons:
+                    -   
+                        compliance: 'partly'
+                        reason: Se da un carácter «urgente» a la promesa, pero no determina un plazo a cumplir.
+
+        statement_coherence:
+            coherent: #yes, no, changes_inline, changes_offline
+            previous_related_statements: 
+        aditional_info: # optional markdown filename
+    - 
+        statement: 
+            quote: Limitaremos la capacidad de modificación unilateral de las condiciones del contrato por parte de la empresa.
+            author: PSOE/Unidas Podemos
+            author_type: party # party, politician
+            source_ref:  # optional, if void then will show the main promise source
+            source_details:  # optional, if void the will show the main promise source details
+        
+        statement_quality: # For Goals/Promises use (specifity, measurability, realistic, time_bound), for Assertions use (veracity, relevant, clarity)
+            overall_quality: improvable
+            specifity:
+                overall_compliance: 'partly'
+                reasons: 
+                    - 
+                        compliance: 'yes'
+                        reason: Se define un objetivo general claro y específico.
+                    -
+                        compliance: 'partly'
+                        reason: No se concreta suficientemente la limitación que se quiere imponer.
+            measurability:
+                overall_compliance: partly
+                reasons:
+                    - 
+                        compliance: partly 
+                        reason: Dada la inconcreción de la limitación a imponer, no se podrá analizar de manera inequívoca el grado de cumplimiento.
+            realistic:
+                overall_compliance: 'yes'      
+                reasons:
+                    - 
+                        compliance: 'yes'
+                        reason: No existen barreras legales o de otro tipo que dificulten lograr el objetivo.    
+            time_bound: 
+                overall_compliance: partly
+                reasons:
+                    -   
+                        compliance: 'partly'
+                        reason: Se da un carácter «urgente» a la promesa, pero no determina un plazo a cumplir.
+
+        statement_coherence:
+            coherent: #yes, no, changes_inline, changes_offline
+            previous_related_statements: 
+        aditional_info: # optional markdown filename
+    - 
+        statement: 
+            quote: Revisaremos el mecanismo de inaplicación de los convenios colectivos, orientándolo a descuelgue salarial vinculado a causas económicas graves.
+            author: PSOE/Unidas Podemos
+            author_type: party # party, politician
+            source_ref:  # optional, if void then will show the main promise source
+            source_details:  # optional, if void the will show the main promise source details
+        
+        statement_quality: # For Goals/Promises use (specifity, measurability, realistic, time_bound), for Assertions use (veracity, relevant, clarity)
+            overall_quality: improvable
+            specifity:
+                overall_compliance: 'partly'
+                reasons: 
+                    - 
+                        compliance: 'partly'
+                        reason: Se define un objetivo específico pero no suficientemente claro para la población general.
+            measurability:
+                overall_compliance: partly
+                reasons:
+                    - 
+                        compliance: partly 
+                        reason: Salvo que existan excepciones, se trata de una cuestión binaria fácilmente comprobable.
+            realistic:
+                overall_compliance: 'yes'      
+                reasons:
+                    - 
+                        compliance: 'yes'
+                        reason: No existen barreras legales o de otro tipo que dificulten lograr el objetivo.    
+            time_bound: 
+                overall_compliance: partly
+                reasons:
+                    -   
+                        compliance: 'partly'
+                        reason: Se da un carácter «urgente» a la promesa, pero no determina un plazo a cumplir.
+
+        statement_coherence:
+            coherent: #yes, no, changes_inline, changes_offline
+            previous_related_statements: 
+        aditional_info: # optional markdown filename
+
+result_analysis:
+    -
+        title: Real Decreto-ley 32/2021, de 28 de diciembre, de medidas urgentes para la reforma laboral, la garantía de la estabilidad en el empleo y la transformación del mercado de trabajo.
+        description: Se ha publicado y posteriormente convalidado este RDL por medio del procedimiento legislativo ordinario de urgencia. 
+        source_ref: 2      
+        type: legislation
+        subtype: real-decreto-ley
+        congress:
+            process: plo-urgencia
+            trigger: [goverment-initiative] # international-treaty, europe-directive, popular-initiative, parlament-initiative (wheter congress or senate), goverment-initiative
+            trigger_comments: 
+            votes: [sesion149votacion20, sesion149votacion21]
+            intervenciones: https://app.congreso.es/AudiovisualCongreso/audiovisualdetalledisponible?codSesion=149&codOrgano=400&fechaSesion=03/02/2022&mp4=mp4&idLegislaturaElegida=14&i=695671&descripcion=Real%20Decreto-ley%2032/2021,%20de%2028%20de%20diciembre,%20de%20medidas%20urgentes%20para%20la%20reforma%20laboral,%20la%20garant%C3%ADa%20de%20la%20estabilidad%20en%20el%20empleo%20y%20la%20transformaci%C3%B3n%20del%20mercado%20de%20trabajo.
+        promises_compliance:
+            -
+                title:
+                description:
+                sources:
+                overall_compliance: 'partly'
+                compliance_reasons:
+                    -
+                        compliance:
+                        reason:
+                kpis:
+                concerns:
+                    -
+                        title:
+                        description:
+                        sources:
+        aditional_info: # optional markdown filename 

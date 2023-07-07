@@ -44,6 +44,9 @@ categories:
     -
         name: Defensa
         icon: fighter-jet 
+    - 
+        name: Organización estatal y administraciones públicas
+        icon: flag
 
 statuses:
     -

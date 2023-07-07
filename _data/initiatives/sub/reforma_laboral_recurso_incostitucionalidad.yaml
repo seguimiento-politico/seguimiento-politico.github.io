@@ -1,0 +1,22 @@
+_id: ff6cbf98-2865-4b91-82c8-f0aa33fb79bf
+parent_initiative: 9cda8a7a-09db-4a6c-bfc7-3f6d80f73d46
+title: Recurso de inconstitucionalidad número 2191/2022 
+date: 2022-03-29
+record: 232/000099  
+trigger: [parlament-initiative] 
+type: appeal  
+parties: [VOX]
+status: "admitido a trámite"
+sources:
+  -
+    title: "Congreso: Expediente iniciativa"
+    url: https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XIV&_iniciativas_id=232/000099
+  -
+    title: "BOE: Admisión a trámite del recurso de inconstitucionalidad"
+    url: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-9433
+  -
+    title: Solicitud personación UGT y CCOO
+    url: https://www.ccoo.es/a52b75740dfc066fa43beb3b83f3c013000001.pdf
+  -
+    title: "AUTO 125/2022: denegada personación de los sindicatos UGT y CCOO"
+    url: https://hj.tribunalconstitucional.es/HJ/es/Resolucion/Show/29097

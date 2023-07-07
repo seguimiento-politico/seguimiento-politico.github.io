@@ -1,19 +1,19 @@
 config:
-    type: politics-facts
-    categorization: activity
+    type: politics-promises-by-party
+    categorization: promesas-politica-estatal
     scope: national # international, national, regional or local
     country: spain # if scope is "international" then instead of "country:" use "organization:"
     institution: congreso
     lang: es
-    draft: false
+    draft: true
  
 context:
-    name: Legislatura XIV
+    name: Legislatura XV
     description: Control sobre el grado de cumplimiento de los compromisos electorales de los partidos políticos y congresistas.
-    elections: 2019-19N
-    from: 2020-01-07 
-    goverment_type: coalition
-    goverment_parties: [PSOE, UNIDAS PODEMOS]
+    elections: 
+    from: 
+    goverment_type:
+    goverment_parties:
     sources:
         - https://www.lamoncloa.gob.es/gobierno/gobiernosporlegislaturas/Paginas/xiv_legislatura.aspx
         - https://www.congreso.es/indice-de-iniciativas

@@ -3,9 +3,7 @@ layout: page
 ---
 <!-- load common variables -->
 {% assign track_data = site.data.tracks.[page.track_name] %}
-{% assign items = site.data.tracks.[page.track_name] %}
-
-{% assign total = items | size | minus: 1 %}
+{% assign total = track_data.track_items  | size %}
 
 {{content}}
 
@@ -21,6 +19,9 @@ layout: page
 
     {% when 'politics-statements-by-politician' %}    
         {% include politics_statements_politicians.html %}
-
+    
+    {% when 'politics-facts' %}    
+        {% include politics_facts.html %}
+        
 {% endcase %}
 

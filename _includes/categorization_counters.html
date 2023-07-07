@@ -19,7 +19,7 @@
     {% assign category_counters = category_counters | push: 0 %}
 {% endfor %}
 
-{% for item_data in items %}
+{% for item_data in track_data.track_items %}
     <!-- ignore settings file -->
     {% if item_data[0] == 'settings' or item_data[0] == 'politicians' or item_data[0] == 'votes' %}
         {% continue %}

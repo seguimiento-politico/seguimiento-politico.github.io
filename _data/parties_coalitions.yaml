@@ -1,0 +1,9 @@
+-
+  name: UNIDAS PODEMOS
+  parties: [IU, PODEMOS]
+- 
+  name: PSOE
+  parties: [PSC-PSOE, PsdeG-PSOE, PSE-EE-PSOE]
+- 
+  name: PP
+  parties: [PP, PP-foro]
