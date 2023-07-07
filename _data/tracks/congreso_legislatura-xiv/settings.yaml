@@ -11,7 +11,7 @@ context:
     name: Legislatura XIV
     description: Control sobre el grado de cumplimiento de los compromisos electorales de los partidos políticos y congresistas.
     elections: 2019-19N
-    from: 2020-01-07 
+    from: "2020-01-07"
     goverment_type: coalition
     goverment_parties: [PSOE, UNIDAS PODEMOS]
     sources:

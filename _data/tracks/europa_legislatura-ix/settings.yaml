@@ -12,8 +12,8 @@ config:
 context:
     name: "Europa: Legislatura IX"
     description: Seguimiento de las políticas y actividad legislativa de la Unión Europea.
-    elections: 2019-05-26
-    from: 2019-07-02 
+    elections: europeas
+    from: "2019-07-02" 
     goverment_type: coalition
     goverment_parties: [PSOE, UNIDAS PODEMOS]
     sources:

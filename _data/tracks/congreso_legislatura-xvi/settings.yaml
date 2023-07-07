@@ -10,7 +10,7 @@ config:
 context:
     name: Legislatura XVI
     description: Control sobre el grado de cumplimiento de los compromisos electorales de los partidos políticos y congresistas.
-    from: 2023-07-23
+    from: "2026-07-23"
     goverment_type:
     goverment_parties:
     sources:
