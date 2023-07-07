@@ -54,7 +54,7 @@ layout: page
                             <a class="btn btn-sm btn-outline-secondary" href="{{ site.raw-repository-source }}{{ site.repository}}/master/_data/tracks/trackers/{{ path }}/{{ track[0] }}.yaml" role="button">{{ site.data.ui-text[site.locale].open_label | default: "open data" | downcase }}</a>
                         </div>
                         {% assign track_name = track[0] %}
-                        {% assign items = site.data.promises | where_exp: 'item', 'item[1].election_type == track[1].settings.context.election_type' | where_exp: 'item', 'item[1].election_date == track[1].settings.context.election_date' %}
+                        {% assign items = site.data.promises | where_exp: 'item', 'item[1].election_type == track[1].settings.context.election_type' | where_exp: 'item', 'item[1].election_date == track[1].settings.context.from' %}
                         <small class="text-muted">{{ items | size }} {{ site.data.ui-text[site.locale].promises_label | default: "promises" | downcase }}</small>
                         </div>
                     </div>
