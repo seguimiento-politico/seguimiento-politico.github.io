@@ -1,4 +1,14 @@
 id: 
+context:
+  election_type: generales
+  year: 2023
+parties:
+  - SUMAR
+references:
+  -
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    text: pag. X, art. Y.Y
 categories:
     - Economía, trabajo y hacienda
     - Comercio, transporte y turismo
@@ -15,13 +25,27 @@ categories:
     - Territorio
     - Política internacional
     - Defensa
-parties:
-  - SUMAR
-references:
-  -
-    type: manifesto
-    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-    text: pag. X, art. Y.Y
 title: 
-description: |-
+statements:
+  -
+    id: 
+    quote:
+  -
+    id: 
+    quote:
+  -
+    id: 
+    quote:
+  -
+    id: 
+    quote:
+  -
+    id: 
+    quote:
+  -
+    id: 
+    quote:
+  -
+    id: 
+    quote:
   

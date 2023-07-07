@@ -1,0 +1,18 @@
+-
+  id: 4540ee8a-066e-4224-9f26-1297932c6560
+  election_type: generales
+  date: "2019-11-10"
+  title: PSOE - Programa electoral 2019
+  parties: [PSOE]
+  local: psoe_2019_10N.pdf
+  url: https://www.psoe.es/media-content/2019/10/Ahora-progreso-programa-PSOE-10N-31102019.pdf
+  web_history: https://web.archive.org/web/20191109163507/https://www.psoe.es/media-content/2019/10/Ahora-progreso-programa-PSOE-10N-31102019.pdf
+-
+  id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+  election_type: generales
+  date:  "2023-07-23"
+  title: SUMAR - Programa electoral 2023
+  parties: [SUMAR]
+  local: 2023_sumar.pdf
+  url:
+  web_history:
