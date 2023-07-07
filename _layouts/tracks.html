@@ -53,7 +53,7 @@ layout: page
                             <a class="btn btn-sm btn-outline-secondary" href="{{ site.raw-repository-source }}{{ site.repository}}/master/_data/tracks/trackers/{{ path }}/{{ track[0] }}.yaml" role="button">{{ site.data.ui-text[site.locale].open_label | default: "open data" | downcase }}</a>
                         </div>
                         {% assign track_name = track[0] %}
-                        {% assign items = site.data.promises | where_exp: "item", "item.election_type contains 'generales' and item.election_date contains '2023-07-23'" %}
+                        {% assign items = site.data.promises %}
                         <small class="text-muted">{{ items | size }} {{ site.data.ui-text[site.locale].promises_label | default: "promises" | downcase }}</small>
                         </div>
                     </div>
