@@ -49,11 +49,12 @@ layout: page
                     <div class="card-footer">
                         <div class="d-flex justify-content-between align-items-center">
                         <div class="btn-group">
-                            <a class="btn btn-sm btn-outline-primary" href="tracks/{{ track[0] }}" role="button">{{ site.data.ui-text[site.locale].view_label | default: "view" | downcase }}</a>
+                            <a class="btn btn-sm btn-ou
+                            tline-primary" href="tracks/{{ track[0] }}" role="button">{{ site.data.ui-text[site.locale].view_label | default: "view" | downcase }}</a>
                             <a class="btn btn-sm btn-outline-secondary" href="{{ site.raw-repository-source }}{{ site.repository}}/master/_data/tracks/trackers/{{ path }}/{{ track[0] }}.yaml" role="button">{{ site.data.ui-text[site.locale].open_label | default: "open data" | downcase }}</a>
                         </div>
                         {% assign track_name = track[0] %}
-                        {% assign items = site.data.promises %}
+                        {% assign items = site.data.promises | where_exp: 'item', 'item[1].election_type == track[1].settings.context.election_type' | where_exp: 'item', 'item[1].election_date == track[1].settings.context.election_date' %}
                         <small class="text-muted">{{ items | size }} {{ site.data.ui-text[site.locale].promises_label | default: "promises" | downcase }}</small>
                         </div>
                     </div>
