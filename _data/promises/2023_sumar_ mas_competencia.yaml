@@ -1,7 +1,6 @@
 id: 00548844-203a-4ce6-9efc-58f3f21bb85e
-context:
-  election_type: generales
-  year: 2023
+election_type: generales
+election_date: 2023-07-23
 categories:
     - Comercio, transporte y turismo
     - Industria y energía

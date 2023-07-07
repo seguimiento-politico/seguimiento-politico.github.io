@@ -1,7 +1,6 @@
 id: e70db245-2a53-429a-bee2-5026732c4079
-context:
-  election_type: generales
-  year: 2023
+election_type: generales
+election_date: 2023-07-23
 parties:
   - SUMAR
 references:

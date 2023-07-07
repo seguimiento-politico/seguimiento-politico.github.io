@@ -1,7 +1,6 @@
 id: 514c8ee4-7c0a-469d-be1c-14d339315680
-context:
-  election_type: generales
-  year: 2023
+election_type: generales
+election_date: 2023-07-23
 categories:
     - Economía, trabajo y hacienda
 parties:

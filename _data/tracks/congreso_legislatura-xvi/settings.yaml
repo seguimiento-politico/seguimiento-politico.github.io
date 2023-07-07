@@ -5,7 +5,7 @@ config:
     country: spain # if scope is "international" then instead of "country:" use "organization:"
     institution: congreso
     lang: es
-    draft: false
+    draft: true
  
 context:
     name: Legislatura XVI

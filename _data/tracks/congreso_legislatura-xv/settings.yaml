@@ -5,13 +5,13 @@ config:
     country: spain # if scope is "international" then instead of "country:" use "organization:"
     institution: congreso
     lang: es
-    draft: true
+    draft: false
  
 context:
     name: Legislatura XV
     description: Control sobre el grado de cumplimiento de los compromisos electorales de los partidos políticos y congresistas.
-    elections: 
-    from: 
+    election_type: generales 
+    from: 2023-07-23
     goverment_type:
     goverment_parties:
     sources:
