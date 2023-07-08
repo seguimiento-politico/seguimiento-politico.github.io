@@ -1,4 +1,6 @@
-_id: 4a86c140-0912-11ed-9596-d163a910696f
+id: 4a86c140-0912-11ed-9596-d163a910696f
+election_type: generales
+from: "2019-11-10"
 title: Ley de base reguladora del ciclo integral del agua
 description: >-
   Aprobaremos una Ley de base reguladora del ciclo integral del agua. Se
@@ -11,6 +13,3 @@ categories: Medioambiente
 parties:
   - PSOE
   - UNIDAS PODEMOS
-status: unknown
-status_info: Aún no hemos realizado seguimiento
-created: '2022-07-21T16:29:28.554Z'

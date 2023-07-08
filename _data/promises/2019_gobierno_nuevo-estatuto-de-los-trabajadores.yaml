@@ -1,4 +1,6 @@
-_id: 74cbc2a0-0432-11ed-83f1-c5dbc0b596f7
+id: 74cbc2a0-0432-11ed-83f1-c5dbc0b596f7
+election_type: generales
+from: "2019-11-10"
 title: Nuevo Estatuto de los Trabajadores
 description: >-
   Elaboraremos, previo diálogo con los agentes sociales, un nuevo Estatuto de
@@ -11,6 +13,3 @@ categories:
 parties:
   - PSOE
   - UNIDAS PODEMOS
-created: '2022-07-15T11:37:07.678Z'
-status: unknown
-status_info: aún no hemos realizado seguimiento ni análisis

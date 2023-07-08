@@ -1,4 +1,6 @@
-_id: 1cb6c790-0914-11ed-9596-d163a910696f
+id: 1cb6c790-0914-11ed-9596-d163a910696f
+election_type: generales
+from: "2019-11-10"
 title: Estrategia de economía circular
 description: "Impulsaremos la aprobación de una Ley de plásticos de un solo uso, como parte de la Estrategia de Economía Circular, para alcanzar “residuo cero” en el horizonte 2050. Se desarrollarán aspectos tales como el ecodiseño, la ecoinnovación o la reintroducción de subproductos y residuos como materia prima de otros ciclos productivos. Esto requerirá también nuevas habilidades laborales y empresariales, generando nuevas oportunidades de empleo. \r\nSe abordarán igualmente medidas de eficiencia para sectores clave:\r\nconstrucción, agroalimentación, turismo, envases, embalajes, textil, fabricación eléctrica y electrónica."
 categories:
@@ -7,6 +9,3 @@ categories:
 parties:
   - PSOE
   - UNIDAS PODEMOS
-status: unknown
-status_info: Aún no hemos realizado seguimiento
-created: '2022-07-21T16:42:30.699Z'

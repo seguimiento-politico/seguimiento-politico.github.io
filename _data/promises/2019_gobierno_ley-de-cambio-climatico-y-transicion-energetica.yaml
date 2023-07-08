@@ -1,4 +1,6 @@
-_id: d348a920-042c-11ed-9065-6f942f130ab8
+id: d348a920-042c-11ed-9065-6f942f130ab8
+election_type: generales
+from: "2019-11-10"
 title: Ley de Cambio Climático y Transición Energética
 description: >-
   Se fijarán objetivos de emisiones de gases de efecto invernadero y energía
@@ -11,6 +13,3 @@ categories: Medioambiente
 parties:
   - PSOE
   - UNIDAS PODEMOS
-created: '2022-07-15T10:56:49.171Z'
-status: unknown
-status_info: aún no hemos realizado seguimiento ni análisis

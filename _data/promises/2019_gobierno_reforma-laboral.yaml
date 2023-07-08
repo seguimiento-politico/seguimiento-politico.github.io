@@ -1,4 +1,6 @@
-_id: 0841e390-0774-11ed-b3c9-953458f43a18
+id: 0841e390-0774-11ed-b3c9-953458f43a18
+election_type: generales
+from: "2019-11-10"
 created: '2022-07-19T15:04:05.736Z'
 related_promises: 
     - a30a6e10-a023-4e36-9901-ffdd776d6f9e

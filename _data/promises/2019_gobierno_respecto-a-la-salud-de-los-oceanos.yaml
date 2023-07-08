@@ -1,4 +1,6 @@
-_id: 51debfc0-0911-11ed-9596-d163a910696f
+id: 51debfc0-0911-11ed-9596-d163a910696f
+election_type: generales
+from: "2019-11-10"
 title: Respecto a la salud de los océanos
 description: >-
   reduciremos el uso del plástico y se impulsará la lucha contra la pesca
@@ -11,6 +13,3 @@ categories:
 parties:
   - PSOE
   - UNIDAS PODEMOS
-status: unknown
-status_info: Aún no hemos realizado seguimiento
-created: '2022-07-21T16:22:31.357Z'

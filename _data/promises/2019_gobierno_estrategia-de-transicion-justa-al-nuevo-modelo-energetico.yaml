@@ -1,4 +1,6 @@
-_id: eb9eeb50-0914-11ed-9596-d163a910696f
+id: eb9eeb50-0914-11ed-9596-d163a910696f
+election_type: generales
+from: "2019-11-10"
 title: Estrategia de transición justa al nuevo modelo energético
 description: >-
   Desarrollaremos planes de acción urgente para las comarcas afectadas por el
@@ -15,6 +17,3 @@ categories:
 parties:
   - PSOE
   - UNIDAS PODEMOS
-status: unknown
-status_info: Aún no hemos realizado seguimiento
-created: '2022-07-21T16:48:17.780Z'

@@ -1,4 +1,6 @@
-_id: 568c7710-0916-11ed-9596-d163a910696f
+id: 568c7710-0916-11ed-9596-d163a910696f
+election_type: generales
+from: "2019-11-10"
 title: >-
   Aprobación del Plan nacional integrado de energía y clima, reforma del mercado
   eléctrico y bajada de la factura
@@ -9,6 +11,3 @@ categories:
 parties:
   - PSOE
   - UNIDAS PODEMOS
-status: unknown
-status_info: Aún no hemos realizado seguimiento
-created: '2022-07-21T16:58:26.734Z'

@@ -1,10 +1,9 @@
-_id: 8b87b050-09cb-11ed-a0d2-6fd1e8b9a6a8
+id: 8b87b050-09cb-11ed-a0d2-6fd1e8b9a6a8
+election_type: generales
+from: "2019-11-10"
 title: Políticas activas de empleo y sistema de desempleo
 description: "- Mejoraremos en coordinación con las comunidades autónomas la efectividad y\r\nla eficiencia de las políticas activas de empleo y simplificaremos el sistema de protección\r\npor desempleo.\r\nProfundizaremos el cambio de modelo laboral y salarial basado en una política de rentas\r\nprogresista, el desarrollo de sectores industriales y de servicios, desde un modelo sostenible.\r\nEsta tarea se realizará sobre la base de las recomendaciones que se deriven del proceso\r\nde evaluación de políticas públicas. Esta tarea se realizará sobre la base de las\r\nrecomendaciones que se deriven del proceso de evaluación de políticas públicas realizada\r\npor la AIReF.\r\n- Garantizaremos una atención individualizada, profesional e integral a los\r\ndesempleados y desempleadas, dirigida a su rápida reincorporación al mercado de\r\ntrabajo, prestando especial atención a los jóvenes, parados de larga duración y a\r\nlos supuestos de exclusión social. Las políticas activas de empleo garantizarán que\r\nlas ofertas de colocación sean adecuadas a las aptitudes y los perfiles formativos\r\nde las personas desempleadas.\r\n- Mejoraremos el sistema de protección por desempleo mediante una reordenación\r\ny simplificación que refuerce la protección de las personas desempleadas que lo\r\nnecesiten"
 categories: 'Economía, trabajo y hacienda'
 parties:
   - PSOE
   - UNIDAS PODEMOS
-status: Desconocido
-status_info: Aún no hemos realizado seguimiento
-created: '2022-07-22T14:35:34.526Z'

@@ -1,4 +1,6 @@
-_id: 1b4918b0-0912-11ed-9596-d163a910696f
+id: 1b4918b0-0912-11ed-9596-d163a910696f
+election_type: generales
+from: "2019-11-10"
 title: 'Sostenibilidad del sector agroalimentario, forestal y del medio rural.'
 description: >-
   Sostenibilidad del sector agroalimentario, forestal y del medio rural. Se
@@ -12,6 +14,4 @@ categories:
 parties:
   - PSOE
   - UNIDAS PODEMOS
-status: unknown
-status_info: Aún no hemos realizado seguimiento
-created: '2022-07-21T16:28:09.301Z'
+

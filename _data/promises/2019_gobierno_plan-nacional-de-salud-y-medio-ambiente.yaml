@@ -1,4 +1,6 @@
-_id: 9984e1b0-0911-11ed-9596-d163a910696f
+id: 9984e1b0-0911-11ed-9596-d163a910696f
+election_type: generales
+from: "2019-11-10"
 title: Plan Nacional de Salud y Medio Ambiente
 description: >-
   Elaboraremos un Plan Nacional de Salud y Medio Ambiente, para abordar los
@@ -10,6 +12,3 @@ categories:
 parties:
   - PSOE
   - UNIDAS PODEMOS
-status: unknown
-status_info: Aún no hemos realizado seguimiento
-created: '2022-07-21T16:24:31.617Z'

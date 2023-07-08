@@ -1,4 +1,6 @@
-_id: 69a84f20-0913-11ed-9596-d163a910696f
+id: 69a84f20-0913-11ed-9596-d163a910696f
+election_type: generales
+from: "2019-11-10"
 title: Bono social
 description: >-
   Bono social, los más vulnerables nuestra prioridad de acción. Aprobaremos una
@@ -13,6 +15,3 @@ categories: Derechos y servicios sociales
 parties:
   - PSOE
   - UNIDAS PODEMOS
-status: unknown
-status_info: Aún no hemos realizado seguimiento
-created: '2022-07-21T16:37:30.342Z'

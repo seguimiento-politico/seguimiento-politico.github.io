@@ -1,4 +1,6 @@
-_id: e7def290-0913-11ed-9596-d163a910696f
+id: e7def290-0913-11ed-9596-d163a910696f
+election_type: generales
+from: "2019-11-10"
 title: Regulación y fomento del autoconsumo
 description: "Regularemos el autoconsumo compartido y simplificaremos los trámites administrativos y técnicos para autoconsumir sin cargos.\r\nEstableceremos reglamentariamente la retribución de la energía vertida a la red por las instalaciones de autoconsumo que deberá ser, como mínimo, igual al valor de mercado mayorista de electricidad. Se continuará trabajando para reparar la situación de los pequeños inversores perjudicados por el cambio regulatorio respecto de la retribución de las renovables."
 categories:
@@ -7,6 +9,3 @@ categories:
 parties:
   - PSOE
   - UNIDAS PODEMOS
-status: unknown
-status_info: Aún no hemos realizado seguimiento
-created: '2022-07-21T16:41:02.060Z'
