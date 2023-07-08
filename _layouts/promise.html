@@ -1,0 +1,19 @@
+---
+layout: page
+---
+<!-- load common variables -->
+{% assign item = site.data.promises | where: 'id', page.uid %}
+
+{{ content }}
+
+{% include breadcrumb.html %}
+
+{% include promise.html %}
+
+
+
+
+
+
+
+

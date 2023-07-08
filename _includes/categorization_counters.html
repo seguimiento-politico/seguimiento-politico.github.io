@@ -19,18 +19,15 @@
     {% assign category_counters = category_counters | push: 0 %}
 {% endfor %}
 
-{% for item_data in track_data.track_items %}
-    <!-- ignore settings file -->
-    {% if item_data[0] == 'settings' or item_data[0] == 'politicians' or item_data[0] == 'votes' %}
-        {% continue %}
-    {% endif %}
-
-    {% assign item = item_data[1] %}
-    
+{% for item in items %}   
+    {% assign item_analysis = site.data.promises_analysis | where: 'promise_id', item.id %}
     <!-- statuses (one per item) -->
     {% assign status_counters2 =  "" | split: "," %}
     {% for name in status_names %}
-        {% if item.status and name == item.status %}
+        {% if item_analysis[0].status and name == item_analysis[0].status %}
+            {% assign counter =  status_counters[forloop.index0] | plus:1 %}
+            {% assign status_counters2 = status_counters2 | push: counter %}
+        {% elsif item_analysis[0].status == nil and forloop.index0 == 0 %}
             {% assign counter =  status_counters[forloop.index0] | plus:1 %}
             {% assign status_counters2 = status_counters2 | push: counter %}
         {% else %}

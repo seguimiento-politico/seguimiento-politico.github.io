@@ -106,6 +106,9 @@ collections:
   tracks:
     output: true
     permalink: /:collection/:path
+  promises:
+    output: true
+    permalink: /:collection/:path
 
 # Defaults
 defaults:
@@ -122,6 +125,11 @@ defaults:
       type: tracks
     values:
       layout: track_item 
+      comments: true
+  - scope:
+      path: "_promises"
+    values:
+      layout: promise
       comments: true
   - scope:
       path: "assets/images"

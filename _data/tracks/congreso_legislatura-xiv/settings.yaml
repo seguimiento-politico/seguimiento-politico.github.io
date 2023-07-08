@@ -1,6 +1,6 @@
 config:
-    type: politics-facts
-    categorization: activity
+    type: politics-promises-by-party
+    categorization: promesas-politica-estatal
     scope: national # international, national, regional or local
     country: spain # if scope is "international" then instead of "country:" use "organization:"
     institution: congreso
@@ -10,8 +10,9 @@ config:
 context:
     name: Legislatura XIV
     description: Control sobre el grado de cumplimiento de los compromisos electorales de los partidos políticos y congresistas.
-    elections: 2019-19N
-    from: "2020-01-07"
+    election_type: generales 
+    from: "2019-11-10"
+    to: "2023-07-22"
     goverment_type: coalition
     goverment_parties: [PSOE, UNIDAS PODEMOS]
     sources:

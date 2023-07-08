@@ -1,7 +1,6 @@
 <!-- categorization variables -->
 {% include categorization.html %}
-
-{% assign parties_data = site.data.agents.[track_data.settings.config.country].parties %}
+{% assign parties_data = site.data.parties %}
 
 <!-- categorization counters -->
 {% include categorization_counters.html %}
@@ -57,14 +56,9 @@
     
                     <tbody class="list">
                     <!-- add color to each policy -->
-                    {% for item_data in items %}
-                        <!-- ignore settings file -->
-                        {% if item_data[0] == 'settings' or item_data[0] == 'politicians' or item_data[0] == 'votes' %}
-                            {% continue %}
-                        {% endif %}
-
-                        {% assign item = item_data[1] %}
-                        {% if item.status %}
+                    {% for item in items %} 
+                        {% assign item_analysis = site.data.promises_analysis | where: 'promise_id', 'item.id' %}  
+                        {% if item_analysis.status %}
                             {% assign status = statuses_data | where: "name", item.status | first %}
                         {% else %}
                             {% assign status = site.data.categorization.default.statuses | first %}
@@ -97,7 +91,7 @@
                             </td>
                             <td class="text-center">
                                 <!-- TODO: no nostrar link si la página no existe -->
-                                <a class="btn btn-primary" href="{{ page.dir }}{{ item_data[1]._id }}">
+                                <a class="btn btn-primary" href="/promises/{{ item.id }}">
                                     <span class="d-inline-block align-middle"><i class="fas fa-fw fa-angle-right"></i></span>
                                 </a>
                             </td>

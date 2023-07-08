@@ -3,7 +3,9 @@ layout: page
 ---
 <!-- load common variables -->
 {% assign track_data = site.data.tracks.[page.track_name] %}
-{% assign total = track_data.track_items  | size %}
+
+{% assign items = site.data.promises | where_exp: 'item', 'item.election_type == track_data.settings.context.election_type' | where_exp: 'item', 'item.from == track_data.settings.context.from' %}
+{% assign total = items  | size %}
 
 {{content}}
 

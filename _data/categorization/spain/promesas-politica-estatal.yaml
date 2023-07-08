@@ -50,7 +50,7 @@ categories:
 
 statuses:
     -
-        name: unknown
+        name: Desconocido
         lang_label: status_unknown
         color: dark
         icon: question-circle

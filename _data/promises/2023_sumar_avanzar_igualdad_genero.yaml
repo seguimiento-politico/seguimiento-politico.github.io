@@ -1,9 +1,9 @@
 id: 21e6da0f-847e-48fd-84b9-b566ce33b87a
 election_type: generales
-election_date: "2023-07-23"
+from: "2023-07-23"
 categories:
-    - Economía, trabajo y hacienda
-    - Derechos y servicios sociales
+  - Economía, trabajo y hacienda
+  - Derechos y servicios sociales
 parties:
   - SUMAR
 references:

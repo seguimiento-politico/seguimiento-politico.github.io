@@ -55,7 +55,7 @@
         {% include normalize_text.html %}
         
         {% assign organization_path = site.images_path | append: 'parties/' | append: scope | append: '/' | append: text | append: '.gif'  %}
-        {% assign organization_data = site.data.agents.[scope].parties | where: 'name', agent_name %}
+        {% assign organization_data = site.data.parties | where: 'name', agent_name %}
 
         <!-- Check if corresponding images exist in images folder -->
         {% for image in image_files %}
@@ -66,7 +66,7 @@
         {% if organization_image %}
             <img src="{{ organization_path }}" alt="{{ agent_name }}" width="36" height="36">
         {% else %}
-            <span class="list-party" style="color:{{organization_data[0].color}};">{{ organization_data[0].name }}</span>
+        <span class="badge list-party" style="background-color:{{organization_data[0].color}};">{{ organization_data[0].name }}</span>
         {% endif %}
     {% endfor %}
     </div>
