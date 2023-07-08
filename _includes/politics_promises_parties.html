@@ -57,8 +57,8 @@
                     <tbody class="list">
                     <!-- add color to each policy -->
                     {% for item in items %} 
-                        {% assign item_analysis = site.data.promises_analysis | where: 'promise_id', 'item.id' %}  
-                        {% if item_analysis.status %}
+                        {% assign item_analysis = site.data.promises_analysis | where: "promise_id", item.id %}  
+                        {% if item_analysis[0].status %}
                             {% assign status = statuses_data | where: "name", item.status | first %}
                         {% else %}
                             {% assign status = site.data.categorization.default.statuses | first %}
@@ -90,10 +90,11 @@
                                 <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}"></i>
                             </td>
                             <td class="text-center">
-                                <!-- TODO: no nostrar link si la página no existe -->
-                                <a class="btn btn-primary" href="/promises/{{ item.id }}">
-                                    <span class="d-inline-block align-middle"><i class="fas fa-fw fa-angle-right"></i></span>
-                                </a>
+                                {% if item_analysis[0] %}
+                                    <a class="btn btn-primary" href="/promises/{{ item.id }}">
+                                        <span class="d-inline-block align-middle"><i class="fas fa-fw fa-angle-right"></i></span>
+                                    </a>
+                                {% endif %}
                             </td>
                         </tr>
                     {% endfor %}
