@@ -5,7 +5,7 @@
     {% assign politicians = site.data.politicians %}
 {% endif %}
 
-{% assign item_analysis = site.data.promises_analysis | where: 'promise_id', item[0].id %}
+{% assign item_analysis = site.data.promises_analysis | where: "promise_id", item[0].id %}
 {% assign status = statuses_data | where:'name', item_analysis[0].status | first %}
 
 {% include scope_settings.html %}

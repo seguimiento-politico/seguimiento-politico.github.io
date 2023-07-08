@@ -20,7 +20,7 @@
 {% endfor %}
 
 {% for item in items %}   
-    {% assign item_analysis = site.data.promises_analysis | where: 'promise_id', item.id %}
+    {% assign item_analysis = site.data.promises_analysis | where: "promise_id", item.id %}
     <!-- statuses (one per item) -->
     {% assign status_counters2 =  "" | split: "," %}
     {% for name in status_names %}
