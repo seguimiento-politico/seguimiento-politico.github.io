@@ -1,12 +1,12 @@
 id: 
 election_type: generales
-from: "2023-07-23"
+from: "2019-11-10"
 parties:
-  - SUMAR
+  - VOX
 references:
   -
     type: manifesto
-    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
     text: pag. X, art. Y.Y
 categories:
     - Economía, trabajo y hacienda

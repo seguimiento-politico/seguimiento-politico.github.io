@@ -8,6 +8,15 @@
   url: https://www.psoe.es/media-content/2019/10/Ahora-progreso-programa-PSOE-10N-31102019.pdf
   web_history: https://web.archive.org/web/20191109163507/https://www.psoe.es/media-content/2019/10/Ahora-progreso-programa-PSOE-10N-31102019.pdf
 -
+  id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+  election_type: generales
+  date: "2019-11-10"
+  title: VOX - 100 medidas para la España viva
+  parties: [VOX]
+  local: vox_2019_10N.pdf
+  url: https://www.voxespana.es/biblioteca/espana/2018m/gal_c2d72e181103013447.pdf
+  web_history: https://web.archive.org/web/20190616033944/https://www.voxespana.es/biblioteca/espana/2018m/gal_c2d72e181103013447.pdf
+-
   id: 7a32b672-907a-402e-b69c-cd55d184cbf3
   election_type: generales
   date:  "2023-07-23"

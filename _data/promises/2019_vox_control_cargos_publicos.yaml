@@ -1,0 +1,20 @@
+id: d1049d7f-6306-4cae-8ec9-f3bc53543714
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+references:
+  -
+    type: manifesto
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+    text: pag. 4, art. 13
+categories:
+    - Justicia
+    - Democracia
+title: Control de los cargos públicos
+description: Control de los cargos públicos antes, durante y después de su mandato. Reforzar normativa incompatibilidades de los políticos tras el abandono de los cargos públicos y la exigencia de devolución de los caudales públicos.
+statements:
+  -
+    id: 1
+    quote: Control de los cargos públicos antes, durante y después de su mandato. Reforzar normativa incompatibilidades de los políticos tras el abandono de los cargos públicos y la exigencia de devolución de los caudales públicos.
+  

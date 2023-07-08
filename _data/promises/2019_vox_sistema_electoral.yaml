@@ -1,0 +1,22 @@
+id: 3a416549-6c56-41ee-bbe7-98756388642b
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+references:
+  -
+    type: manifesto
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+    text: pag. 4, art. 11
+categories:
+    - Democracia
+title: Reforma del sistema electoral
+description: Reforma del sistema electoral para que valga lo mismo el voto de todos los españoles y los Diputados respondan ante los electores y no tanto ante los partidos políticos. Una parte de los Diputados serán elegidos en distrito único nacional.
+statements:
+  -
+    id: 1
+    quote: Reforma del sistema electoral para que valga lo mismo el voto de todos los españoles
+  -
+    id: 2
+    quote: Una parte de los Diputados serán elegidos en distrito único nacional
+  

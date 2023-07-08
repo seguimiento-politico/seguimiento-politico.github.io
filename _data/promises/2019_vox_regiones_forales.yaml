@@ -1,0 +1,18 @@
+id: 7e557187-bf07-4c58-b853-96e9770e829b
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+references:
+  -
+    type: manifesto
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+    text: pag. 3, art. 10
+categories:
+    - Organización estatal y administraciones públicas
+title: Regiones forales
+description: Supresión del Concierto Económico Vasco y el Convenio Navarro y la incorporación de ambas regiones y sus Diputaciones Forales al Régimen Común.
+statements:
+  -
+    id: 1
+    quote: Supresión del Concierto Económico Vasco y el Convenio Navarro y la incorporación de ambas regiones y sus Diputaciones Forales al Régimen Común

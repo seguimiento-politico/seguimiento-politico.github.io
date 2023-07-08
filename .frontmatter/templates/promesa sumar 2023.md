@@ -24,7 +24,6 @@ categories:
     - Territorio
     - Política internacional
     - Defensa
-    - Organización estatal y administraciones públicas
 title: 
 statements:
   -

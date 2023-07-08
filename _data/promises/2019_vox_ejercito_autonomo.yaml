@@ -1,0 +1,18 @@
+id: ef230edf-35c3-42ce-a10a-a7c0c1f23ac6
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+references:
+  -
+    type: manifesto
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+    text: pag. 7, art. 27
+categories:
+    - Defensa
+title: Ejército autónomo
+statements:
+  -
+    id: 1
+    quote: Incrementar y racionalizar el presupuesto de Defensa. Diseño e implementación de una nueva política de defensa orientada a proteger a nuestro país de una forma autónoma.
+  

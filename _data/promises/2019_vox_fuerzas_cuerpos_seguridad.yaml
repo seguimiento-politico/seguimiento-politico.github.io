@@ -1,0 +1,24 @@
+id: 9463400d-b40b-4408-9e6d-3a04a1121904
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+references:
+  -
+    type: manifesto
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+    text: pag. 2, art. 5
+categories:
+    - Justicia
+title: Fuerzas y cuerpos de seguridad
+description: Supresión de las policías autonómicas y, hasta que se haga efectiva, alcanzar la equiparación salarial real entre el Cuerpo Nacional de Policía, Guardia Civil y las policías autonómicas. Todas las FCSE dependerán en última instancia del Gobierno Central.
+statements:
+  -
+    id: 1
+    quote: Supresión de las policías autonómicas
+  -
+    id: 2
+    quote: hasta que se haga efectiva, alcanzar la equiparación salarial real entre el Cuerpo Nacional de Policía, Guardia Civil y las policías autonómicas
+  -
+    id: 3
+    quote: Todas las FCSE dependerán en última instancia del Gobierno Central

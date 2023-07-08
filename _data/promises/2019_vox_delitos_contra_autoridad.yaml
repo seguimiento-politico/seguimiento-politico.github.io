@@ -1,0 +1,18 @@
+id: 021e11e6-ec9f-4ff5-ad6d-49fc81602162
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+references:
+  -
+    type: manifesto
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+    text: pag. 8, art. 30
+categories:
+    - Justicia
+title: Delito de atentado contra autoridad
+statements:
+  -
+    id: 1
+    quote: Consideración de delito de atentado contra la autoridad las agresiones a profesionales sanitarios y docentes del sector privado (equiparándose por tanto con aquellos que trabajan en el sector público), así como al personal de seguridad privada, funcionarios de prisiones y agentes portuarios en el ejercicio de sus funciones.
+  

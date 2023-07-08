@@ -1,0 +1,17 @@
+id: 675802be-2c63-4c16-9e61-9c3d024cfbfa
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+references:
+  -
+    type: manifesto
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+    text: pag. 8, art. 28
+categories:
+    - Política internacional
+title: Reconocimiento por parte de marruecos de Ceuta y Melilla
+statements:
+  -
+    id: 1
+    quote: Exigir a Marruecos un total reconocimiento y respeto de la soberanía española de Ceuta y Melilla.

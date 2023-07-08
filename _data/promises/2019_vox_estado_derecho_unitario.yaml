@@ -1,0 +1,24 @@
+id: 8677f1d1-fca2-4a14-936c-d59cb90d5feb
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+references:
+  -
+    type: manifesto
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+    text: pag. 3, art. 6
+categories:
+    - Organización estatal y administraciones públicas
+title: 
+description: "Transformar el Estado autonómico en un Estado de Derecho unitario que promueva la igualdad y la solidaridad en vez de los privilegios y la división. Un solo gobierno y un solo parlamento para toda España. Como paso previo: devolución inmediata al Estado de las competencias de Educación, Sanidad, Seguridad y Justicia limitando en todo lo posible la capacidad legislativa autonómica."
+statements:
+  -
+    id: 1
+    quote: Transformar el Estado autonómico en un Estado de Derecho unitario que promueva la igualdad y la solidaridad en vez de los privilegios y la división
+  -
+    id: 2
+    quote: Un solo gobierno y un solo parlamento para toda España
+  -
+    id: 3
+    quote: "Como paso previo: devolución inmediata al Estado de las competencias de Educación, Sanidad, Seguridad y Justicia limitando en todo lo posible la capacidad legislativa autonómica"

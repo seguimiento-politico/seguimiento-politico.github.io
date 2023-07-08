@@ -1,0 +1,24 @@
+id: 69b702ac-6c9e-4202-bac9-c036cea93ab3
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+references:
+  -
+    type: manifesto
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+    text: pag. 3, art. 7
+categories:
+    - Territorio
+    - Política internacional
+    - Organización estatal y administraciones públicas
+title: Gibraltar
+description: Intensidad y determinación en las acciones diplomáticas para la devolución de Gibraltar, y el desmantelamiento de las redes de piratería, narcotráfico, contrabando y blanqueo de capitales que se extienden desde la colonia.
+statements:
+  -
+    id: 1
+    quote: Intensidad y determinación en las acciones diplomáticas para la devolución de Gibraltar
+  -
+    id: 2
+    quote: desmantelamiento de las redes de piratería, narcotráfico, contrabando y blanqueo de capitales que se extienden desde la colonia
+  

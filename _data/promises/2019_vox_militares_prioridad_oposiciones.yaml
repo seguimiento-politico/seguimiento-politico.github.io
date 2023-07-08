@@ -1,0 +1,21 @@
+id: 05e1ff6d-070c-4614-bb37-4d0c505c533b
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+references:
+  -
+    type: manifesto
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+    text: pag. X, art. Y.Y
+categories:
+    - Economía, trabajo y hacienda
+    - Derechos y servicios sociales
+    - Defensa
+    - Organización estatal y administraciones públicas
+title: Prioridad militares en oposiciones
+statements:
+  -
+    id: 1
+    quote: Los españoles que cumplan 20 años de servicio en el ejército tendrán prioridad en las oposiciones a cuerpos de policía, municipales, forestales, funcionarios penitenciarios...etcétera.
+  

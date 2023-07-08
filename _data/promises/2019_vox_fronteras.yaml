@@ -1,0 +1,30 @@
+id: 939fded4-d0e8-4ad2-abbb-b8108d0bef4e
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+references:
+  -
+    type: manifesto
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+    text: pag. 8, art. 26 y 33
+categories:
+    - Justicia
+    - Migración
+    - Política internacional
+    - Defensa
+title: Fronteras
+statements:
+  -
+    id: 1
+    quote: Fortalecer nuestras fronteras. 
+  -
+    id: 2
+    quote: Levantar un muro infranqueable en Ceuta y Melilla. 
+  -
+    id: 3
+    quote: Dar a policías y FFAA todos los recursos materiales y humanos para que puedan cuidar nuestras fronteras con total eficacia, junto con el amparo legal correspondiente.
+  -
+    id: 4
+    quote: Suspender espacio Schengen hasta que exista la garantía europea de que no lo utilizarán los criminales para huir de la justicia (como han hecho los golpistas separatistas) ni lo aprovechen las mafias de la inmigración ilegal para introducir personas.
+  
