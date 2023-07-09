@@ -1,0 +1,22 @@
+id: 0eb74b7f-8c50-4340-b424-727fd7547506
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+references:
+  -
+    type: manifesto
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+    text: pag. 13, art. 47,54
+categories:
+    - Medioambiente
+    - Territorio
+title: Liberalizar el suelo
+description: Convertir en suelo apto para ser urbanizado todo el que no deba estar necesariamente protegido por motivos de interés público convenientemente justificados. El mercado del suelo es especialmente rígido su regulación provoca una escasez artificial que eleva su precio.
+statements:
+  -
+    id: 1
+    quote: Convertir en suelo apto para ser urbanizado todo el que no deba estar necesariamente protegido por motivos de interés público convenientemente justificados.
+  -
+    id: 2
+    quote: Revisión de la Ley del Suelo

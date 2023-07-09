@@ -1,0 +1,21 @@
+id: 428b01c8-a70e-4527-af5b-62abdd7ab5e6
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+references:
+  -
+    type: manifesto
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+    text: pag. 9 , art. 34
+categories:
+    - Agricultura, ganadería y pesca
+    - Medioambiente
+title: Plan Hidrológico Nacional
+statements:
+  -
+    id: 1
+    quote: Diseñar y aplicar un nuevo Plan Hidrológico Nacional bajo el principio de la solidaridad y el bien común. 
+  -
+    id: 2
+    quote: Un Plan que desde el respeto a la sostenibilidad de los recursos hídricos y de los ecosistemas, permita una gestión eficiente del agua

@@ -1,0 +1,26 @@
+id: 5631f7b9-3f7e-4486-ad78-7ec4c1c22ea7
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+references:
+  -
+    type: manifesto
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+    text: pag. 9, art. 37
+categories:
+    - Economía, trabajo y hacienda
+    - Comercio, transporte y turismo
+    - Justicia
+    - Organización estatal y administraciones públicas
+title: Simplificación de la burocracia
+statements:
+  -
+    id: 1
+    quote: Simplificación de normativas, trámites y procedimientos. 
+  -
+    id: 2
+    quote: Derogar cinco normativas por cada una promulgada para el comercio y la industria.
+  -
+    id: 3
+    quote: Eliminar todo tipo de coste público (tasas e impuestos) para la constitución y puesta en marcha de una empresa sea cual sea la forma jurídica que adopte.

@@ -1,0 +1,17 @@
+id: 0230bd7c-bf6a-4a00-915b-ed80d270de45
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+references:
+  -
+    type: manifesto
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+    text: pag. 13, art. 54
+categories:
+    - Agricultura, ganadería y pesca
+title: Fomentar la renovación del parque de maquinaria agrícola
+statements:
+  -
+    id: 1
+    quote: Fomentar la renovación del parque de maquinaria con convocatoria de planes que tengan continuidad y rebajar los impuestos directos del gasóleo agrícola (combustible, fertilizantes, herbicidas, plásticos) por encarecer los costes de producción.

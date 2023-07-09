@@ -1,0 +1,69 @@
+id: 1be5c27a-2e8e-4474-b5f6-f971c639b561
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+references:
+  -
+    type: manifesto
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+    text: pag. 10, art. 39-42; 44-46; 48-52
+categories:
+    - Economía, trabajo y hacienda
+title: Reducción de impuestos
+statements:
+  -
+    id: 1
+    quote: Rebaja radical del Impuesto sobre la Renta. (IRPF)
+  -
+    id: 2 
+    quote: Aumento significativo del mínimo personal y familiar exento a 12.000 euros. (IRPF)
+  -
+    id: 3
+    quote: Tipo único fijo del 20% hasta los 60.000 € anuales, tributando al 30% cualquier exceso sobre el mencionado límite. (IRPF)
+  -
+    id: 4
+    quote: Reducir el tipo general del Impuesto sobre Sociedades al 20% con una reducción del 5% en el caso que los beneficios no se distribuyan y se mantengan en la empresa como reservas.
+  -
+    id: 5
+    quote: Reducción del IVA al 4% para la compra de productos y fármacos infantiles y geriátricos.
+  -
+    id: 6
+    quote: Reducción del impuesto de sociedades para las PYMES al 15%, y minimización de los trámites burocráticos para su aprobación administrativa. Apoyar a las Pymes para que no se las penalice a la hora de recibir financiación bancaria.
+  -
+    id: 7
+    quote: Amplio sistema de beneficios fiscales para las familias, en especial para las numerosas. 
+  -
+    id: 8
+    quote: Reducción mínima del 50% en el Impuesto sobre Bienes Inmuebles para familias con hijos y exención del pago del mismo a las familias numerosas. 
+  -
+    id: 9
+    quote: Tratamiento conjunto de la renta familiar repartida entre los dos cónyuges, para no penalizar que uno de los miembros de la familia se dedique al cuidado de los hijos o de los dependientes.
+  -
+    id: 10
+    quote: Menos impuestos y costes regulados en la factura de la luz, que son los culpables de que paguemos uno de los recibos más caros de Europa.
+  -
+    id: 11
+    quote: Supresión del Impuesto sobre el Patrimonio, el Impuesto sobre Sucesiones y Donaciones y Plusvalías municipales en todo el territorio nacional.
+  -
+    id: 12
+    quote: Apoyo a los trabajadores autónomos. Cuota de cero euros si los ingresos no llegan al Salario Mínimo Interprofesional y, 
+  -
+    id: 12
+    quote: superado dicho umbral, una cuota progresiva desde los 50 euros en función de sus ingresos. (cuopta autónomos)
+  -
+    id: 13
+    quote: Bonificación del 100% de la cuota mientras el trabajador por cuenta propia esté de baja. (cuota autónomos)
+  -
+    id: 14
+    quote: Apoyo a los desempleados mayores de 50 años y a aquellos desempleados de larga duración mediante la reducción de un 20% de las cotizaciones de la empresa para nuevos contratos de carácter indefinido.
+  -
+    id: 15
+    quote: Apoyo a los trabajadores españoles mediante la reducción de un 10% de las cotizaciones de la empresa, para nuevos contratos indefinidos para trabajadores de nacionalidad española en situación de desempleo (siempre que el desempleo se sitúe por encima del 8%).
+  -
+    id: 16
+    quote: Crear un dispositivo de “primer empleo” que exonere de las cargas sociales en la primera contratación de jóvenes menores de 24 años y por un período máximo de dos años
+  -
+    id: 17
+    quote: Las pensiones contributivas estarán exentas en el IRPF, no por doble tributación sino por justicia con quienes han tributado durante toda su vida laboral.
+    

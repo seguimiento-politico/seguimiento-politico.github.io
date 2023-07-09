@@ -8,7 +8,7 @@ config:
     institution: corona
     lang: es
     draft: true
-       
+    group_by: legislature   
 context:
     name: "La Corona: Felipe VI"
     description: Seguimiento de la Casa Real española y sus miembros en tiempos del Rey Felipe VI.

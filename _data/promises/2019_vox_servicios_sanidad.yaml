@@ -1,0 +1,23 @@
+id: 233a86ec-8fca-4b6e-bca6-5b8d9f897323
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+references:
+  -
+    type: manifesto
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+    text: pag. 14, art. 56-57
+categories:
+    - Sanidad
+title: Modificación de cartera de servicios sanitarios 
+statements:
+  -
+    id: 1
+    quote: Suprimir en la sanidad pública las intervenciones quirúrgicas ajenas a la salud (cambio de género, aborto...)
+  -
+    id: 2
+    quote: Las vacunas infantiles serán obligatorias y gratuitas.
+  -
+    id: 3
+    quote: Incluir Odontología Pediátrica en la Seguridad Social hasta el recambio de dentición temporal.

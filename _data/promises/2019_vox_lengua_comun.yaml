@@ -9,21 +9,14 @@ references:
     id: d6790646-5ed5-43ef-88a0-1683dbbe464b
     text: pag. X, art. Y.Y
 categories:
-    - Economía, trabajo y hacienda
-    - Comercio, transporte y turismo
-    - Industria y energía
-    - Agricultura, ganadería y pesca
     - Educación, ciencia y tecnología
     - Cultura y deportes
     - Derechos y servicios sociales
-    - Sanidad
-    - Justicia
-    - Migración
-    - Democracia
-    - Medioambiente
-    - Territorio
-    - Política internacional
-    - Defensa
 title: Lengua común
 description: Ninguna administración ni particular puede menospreciar la lengua común de todos, el español. Mucho menos discriminarla. Hay que cumplir estrictamente el mandato constitucional de que todos los españoles tienen derecho a utilizar el español, y el deber de conocerlo. Suprimir el requisito del conocimiento de la lengua cooficial en el acceso a la función pública de forma que se evite cualquier tipo de discriminación.
-  
+statements:
+  -
+    id: 1
+    quote: Hay que cumplir estrictamente el mandato constitucional de que todos los españoles tienen derecho a utilizar el español, y el deber de conocerlo. 
+  - id: 2  
+    quote: Suprimir el requisito del conocimiento de la lengua cooficial en el acceso a la función pública de forma que se evite cualquier tipo de discriminación.

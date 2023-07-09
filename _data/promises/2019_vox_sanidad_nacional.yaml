@@ -1,0 +1,25 @@
+id: 6d1baa35-9d21-4d50-a365-57d2f9cc5e8e
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+references:
+  -
+    type: manifesto
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+    text: pag. 14, art. 55
+categories:
+    - Sanidad
+    - Organización estatal y administraciones públicas
+title: Una concepción integral de la Sanidad.
+statements:
+  -
+    id: 1
+    quote:  Tarjeta sanitaria única
+  -
+    id: 2
+    quote: calendario de vacunación único
+  -
+    id: 3
+    quote: gestión integral de las listas de espera y cartera de servicios única en todo el territorio nacional.
+  

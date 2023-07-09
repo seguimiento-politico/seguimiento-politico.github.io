@@ -6,7 +6,7 @@ config:
     institution: congreso
     lang: es
     draft: false
- 
+    group_by: legislature
 context:
     name: Legislatura XIV
     description: Control sobre el grado de cumplimiento de los compromisos electorales de los partidos políticos y congresistas.

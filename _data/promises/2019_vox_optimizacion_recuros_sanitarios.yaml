@@ -1,0 +1,22 @@
+id: 
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+references:
+  -
+    type: manifesto
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+    text: pag. 14, art. 58
+categories:
+    - Sanidad
+title: Optimizar la eficiencia económica y medios sanitarios
+description: Establecimiento de un Sistema de Compras centralizado, mediante el uso de Internet, que permita optimizar la eficiencia y la garantizar la transparencia de las decisiones económicas. Análisis de la suficiencia de los medios y dotaciones de los hospitales.
+statements:
+  -
+    id: 1
+    quote: Establecimiento de un Sistema de Compras centralizado, mediante el uso de Internet, que permita optimizar la eficiencia y la garantizar la transparencia de las decisiones económicas.
+  -
+    id: 2
+    quote: Análisis de la suficiencia de los medios y dotaciones de los hospitales.
+  
