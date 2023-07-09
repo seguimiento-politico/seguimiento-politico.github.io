@@ -26,10 +26,12 @@
       <div class="col-md-6">
           <label class="form-label" for="item-form-party">Partido/s <small style="color:red"> (Obligatorio)</small></label>
           <select class="form-select" multiple aria-label="Default select example" id="parties" name="fields[parties]">
-            {% assign parties_data = track_data.settings.parties | sort: "name" %}  
-            {% for party in parties_data %}
-                  <option value="{{ party.name }}">{{ party.name }}</option>
-              {% endfor %}
+            {% if track_data.settings.parties %}
+              {% assign parties_data = track_data.settings.parties | sort: "name" %}  
+              {% for party in parties_data %}
+                    <option value="{{ party.name }}">{{ party.name }}</option>
+                {% endfor %}
+            {% endif %}
           </select>
       </div>
 

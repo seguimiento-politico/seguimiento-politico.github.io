@@ -4,7 +4,14 @@ layout: page
 <!-- load common variables -->
 {% assign track_data = site.data.tracks.[page.track_name] %}
 
-{% assign items = site.data.promises | where_exp: 'item', 'item.election_type == track_data.settings.context.election_type' | where_exp: 'item', 'item.from == track_data.settings.context.from' %}
+{% if track_data.settings.config.group_by == "legislature"  %}  
+    {% assign items = site.data.promises | where_exp: 'item', 'item.election_type == track_data.settings.context.election_type' | where_exp: 'item', 'item.from == track_data.settings.context.from' %}
+{% elsif track_data.settings.config.group_by == "party" %}
+    {% assign items = site.data.promises | where: "parties", track_data.settings.config.party %}
+{% else %}
+    {% assign items = "" | split:"," %}
+{% endif %}
+
 {% assign total = items  | size %}
 
 {{content}}
