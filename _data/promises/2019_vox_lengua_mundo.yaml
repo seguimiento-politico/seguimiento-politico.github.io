@@ -1,0 +1,19 @@
+id: eb317ad8-b8bb-494b-be8c-0b57fa89c61b
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+references:
+  -
+    type: manifesto
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+    text: pag. 15, art. 60
+categories:
+    - Cultura y deportes
+    - Política internacional
+title: Español en el mundo
+statements:
+  -
+    id: 1
+    quote: Exigir el debido reconocimiento de la lengua española a nivel internacional, conforme a su importancia como segunda lengua más hablada del mundo. Empezando por la UE.
+  

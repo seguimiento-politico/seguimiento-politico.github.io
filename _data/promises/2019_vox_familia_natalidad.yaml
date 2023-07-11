@@ -1,0 +1,44 @@
+id: 5e45792e-c37a-47d5-9e71-0470dab6b657
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+references:
+  -
+    type: manifesto
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+    text: pag. 17, art. 71-74; 77-78
+categories:
+    - Derechos y servicios sociales
+title: Apoyo a la familia y natalidad
+statements:
+  -
+    id: 1
+    quote: Creación de un Ministerio de Familia. 
+  -
+    id: 2
+    quote: Promulgación de una ley orgánica de protección de la familia natural que la reconozca como institución anterior al Estado. 
+  -
+    id: 3
+    quote: Buscaremos la todavía lejana convergencia con la media europea en cuanto a prestaciones familiares.
+  -
+    id: 4
+    quote: Apoyo decidido a las familias numerosas y a la natalidad en general. 
+  -
+    id: 5
+    quote: Creación de cheques servicio que subvencionen parte de las necesidades familiares como los libros escolares, transporte público, etc. 
+  -
+    id: 6
+    quote: Establecer bonificaciones proporcionales al número de miembros de las familias en todo tipo de suministros básicos como luz o gas o el acceso a bienes culturales.
+  -
+    id: 7
+    quote: Crear y dotar anualmente en los Presupuestos Generales del Estado una prestación universal por hijo a cargo para las familias españolas, por un mínimo de 100 euros al mes. Esta prestación será creciente a partir del tercer hijo y se actualizará anualmente.Serán beneficiarias las mujeres que sean madres, sea cual sea su situación familiar y laboral, y mientras los hijos sean menores de edad si previamente no tienen un trabajo retribuido.
+  -
+    id: 8
+    quote: Tratar las bajas por enfermedades relacionadas con el embarazo como baja por maternidad, cero coste para la empresa.
+  -
+    id: 9
+    quote: Conciliación vida familiar y laboral, fomento del teletrabajo y trabajos de media jornada. Fomentar la flexibilidad de horarios e implantar un plan específico de reincorporación, para facilitar que los padres que hayan estado un tiempo dedicados al cuidado de los hijos puedan reincorporarse a la actividad laboral.
+  - 
+    id: 10
+    quote: Ampliar el vigente permiso por maternidad a 180 días que se prolongaría a un año en el caso de hijos con discapacidad.

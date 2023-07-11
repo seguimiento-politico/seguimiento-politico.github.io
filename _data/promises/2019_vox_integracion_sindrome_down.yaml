@@ -1,0 +1,19 @@
+id: c30ba9e7-98d4-4a8c-8ce8-b60a027ca716
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+references:
+  -
+    type: manifesto
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+    text: pag. 19, art. 79
+categories:
+    - Educación, ciencia y tecnología
+    - Derechos y servicios sociales
+title: Integración personas con Síndrome de Down
+statements:
+  -
+    id: 1
+    quote: Desarrollo de un plan integración de las personas con síndrome de Down. Tratadas como una condición personal, no una discapacidad, y amparándoles ante la persecución que sufren por parte de quienes se han propuesto exterminarles.
+  

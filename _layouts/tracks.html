@@ -5,7 +5,8 @@ layout: page
 <div class="card py-3 shadow-sm">
     <div class="container">
       <div class="row row-cols-1 row-cols-xs-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4">
-        {% for track in site.data.tracks %}
+        {% assign tracks = site.data.tracks | sort %}
+        {% for track in tracks %}
             {% if track[1].settings.config.draft == true %}
               {% continue %}
             {% endif %}

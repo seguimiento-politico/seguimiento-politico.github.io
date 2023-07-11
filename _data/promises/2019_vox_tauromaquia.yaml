@@ -1,0 +1,18 @@
+id: 74affe2c-3480-4e8c-a131-16a0fbc69cb1
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+references:
+  -
+    type: manifesto
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+    text: pag. X, art. Y.Y
+categories:
+    - Cultura y deportes
+    - Derechos y servicios sociales
+title: ley de protección de la tauromaquia
+statements:
+  -
+    id: 1
+    quote: Impulsar una ley de protección de la tauromaquia, como parte del patrimonio cultural español.

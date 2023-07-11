@@ -1,0 +1,23 @@
+id: 2ce9da99-6cbb-4086-9566-267e2a68a937
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+references:
+  -
+    type: manifesto
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+    text: pag. 68, art. 16
+categories:
+    - Cultura y deportes
+    - Derechos y servicios sociales
+    - Medioambiente
+title: Protección de la caza
+statements:
+  -
+    id: 1
+    quote: Se protegerá la caza, como actividad necesaria y tradicional del mundo rural.
+  -
+    id: 2
+    quote: Promoción de una licencia única a nivel nacional eliminando el sistema de licencias autonómicas e inter autonómicas.
+  

@@ -1,0 +1,19 @@
+id: eb371a73-aa96-4f63-96bd-6eb9cd700c15
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+references:
+  -
+    type: manifesto
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+    text: pag. 16, art. 65
+categories:
+    - Educación, ciencia y tecnología
+    - Derechos y servicios sociales
+title: Sistema de becas
+statements:
+  -
+    id: 1
+    quote: Implantar un generoso y exigente sistema de becas para las familias con menos recursos.
+  

@@ -1,0 +1,20 @@
+id: 916df8e9-01cf-44f9-8239-026711fc3e65
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+references:
+  -
+    type: manifesto
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+    text: pag. 19, art. 80
+categories:
+    - Derechos y servicios sociales
+    - Sanidad
+    - Justicia
+title: Prohibición de los vientres de alquiler
+statements:
+  -
+    id: 1
+    quote: Prohibición de los vientres de alquiler y toda actividad que cosifique y utilice como producto de compra venta a los seres humanos.
+  

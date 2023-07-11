@@ -1,0 +1,23 @@
+id: bd8a7071-a4d8-40df-ab47-6bdc15b1fcdf
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+references:
+  -
+    type: manifesto
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+    text: pag. 15, art. 62
+categories:
+    - Educación, ciencia y tecnología
+title: Español obligarotio, lenguas cooficiales opcionales
+description: Los padres deben tener derecho a elegir la lengua de escolarización de sus hijos.
+statements: 
+  -
+    id: 1
+    quote: Garantizar el derecho a ser educado en español en todo el territorio nacional. 
+  -
+    id: 2
+    quote: El español debe ser legua vehicular obligatoria y las lenguas cooficiales como opcionales. 
+
+  

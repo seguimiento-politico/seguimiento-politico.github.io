@@ -1,0 +1,18 @@
+id: b50ae9b3-9d31-4697-bebe-a02642f8fd0d
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+references:
+  -
+    type: manifesto
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+    text: pag. 15, art. 61
+categories:
+    - Educación, ciencia y tecnología
+title: Cheque escolar
+statements:
+  -
+    id: 1
+    quote: Implantar el sistema de cheque escolar. Devolver a los padres una auténtica libertad para elegir la educación de sus hijos, empezando por la elección del colegio.
+  

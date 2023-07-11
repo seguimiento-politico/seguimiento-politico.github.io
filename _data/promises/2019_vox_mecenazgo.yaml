@@ -1,0 +1,21 @@
+id: 327c4eb0-3745-4b1b-bcdf-df7b2c3f4728
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+references:
+  -
+    type: manifesto
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+    text: pag. 66, art. 16
+categories:
+    - Cultura y deportes
+title: ley de mecenazgo
+statements:
+  -
+    id: 1
+    quote: Impulsar una ley de mecenazgo, para que particulares y empresas puedan participar en la creación cultural, aumentando la deducción fiscal de las aportaciones así como en la restauración y protección del extenso patrimonio cultural nacional.
+  -
+    id: 2
+    quote: A nivel cultural fomento del arraigo a la tierra, manifestaciones folclóricas y tradiciones de España y de sus pueblos dentro de la óptica de la Hispanidad
+  
