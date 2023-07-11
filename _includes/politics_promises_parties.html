@@ -82,7 +82,17 @@
                             </td>
                             <td class="list-text">
                                 <span><b>{{ item.title }}</b></span>
-                                <span class="d-none d-md-block d-xxl-block"> {{ item.description | truncatewords: 25 }}</span>
+                                <span class="d-none d-md-block d-xxl-block"> 
+                                    {% if item.description %}
+                                        {{ item.description | truncatewords: 25 }}
+                                    {% else %}
+                                        {% assign description = "" %}
+                                        {% for statement in item.statements %}
+                                            {% assign description = description | append: "- " | append: statement.quote | append: "." | append: "<br>" %}
+                                        {% endfor %}
+                                        {{ description | truncatewords: 25 }}
+                                    {% endif %}
+                                </span>
                             </td>
                             <td class="d-none d-sm-table-cell">
                                 <span class="d-none sr-only list-status">{{ item.status }}</span>

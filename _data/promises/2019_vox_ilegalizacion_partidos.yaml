@@ -11,4 +11,7 @@ references:
 categories:
     - Democracia
 title: "Ilegalización organizaciones"
-description: Ilegalización de los partidos, asociaciones u ONGs que persigan la destrucción de la unidad territorial de la Nación y de su soberanía.
+statements: 
+  -
+    id: 1
+    quote: Ilegalización de los partidos, asociaciones u ONGs que persigan la destrucción de la unidad territorial de la Nación y de su soberanía.
