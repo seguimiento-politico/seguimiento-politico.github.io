@@ -1,0 +1,21 @@
+id: 83d209af-8631-4717-a258-94f1db28f171
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+reference:
+    type: manifesto
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+    text: pag. 23, art. 98
+categories:
+    - Agricultura, ganadería y pesca
+    - Política internacional
+title: Revisión de la Política Agraria Común (PAC)
+statements:
+  -
+    id: 1
+    quote: Revisar el modelo de aplicación de la PAC de forma que las ayudas lleguen en mayor medida a quienes gestionan directamente las explotaciones agrícolas y viven principalmente de ello. 
+  -
+    id: 2
+    quote: Fomentar que las ayudas conduzcan a la mejora y optimización de la explotación.
+  

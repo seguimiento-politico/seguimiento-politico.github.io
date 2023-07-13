@@ -24,7 +24,7 @@ for item in files:
         filename = item.split(".")
                 
         # create item page
-        path = destination_path + '/' + id + '.md'
+        path = destination_path + '/' + filename[0] + '.md'
         if not os.path.exists(path) and id:
             index_content = "---\nuid: " + id + "\n---"
             with open(path, 'w') as f:

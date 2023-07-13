@@ -1,0 +1,30 @@
+id: d8ce478a-4361-48ce-bb61-701e13a761fb
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+reference:
+    type: manifesto
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+    text: pag. 20, art. 86
+categories:
+    - Derechos y servicios sociales
+    - Justicia
+title: Ley anti okupas y anti usura.
+statements:
+  -
+    id: 1
+    quote: Promulgar leyes antiokupacion y anti usura. 
+  -
+    id: 2
+    quote: Los españoles podrán hacer uso de la fuerza proporcional para defender su hogar, para ello se ampliará el concepto de legítima defensa. 
+  -
+    id: 3
+    quote: Tipificar la ocupación de viviendas como delito contra la propiedad privada. 
+  -
+    id: 4
+    quote: Reforma legislativa para que los okupas sean expulsados en cuestión de horas de las viviendas donde han entrado. 
+  -
+    id: 5
+    quote: La participación en estas conductas ilegales excluirá de las ayudas sociales.
+  

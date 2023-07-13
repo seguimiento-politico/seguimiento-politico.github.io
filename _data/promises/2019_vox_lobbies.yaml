@@ -1,0 +1,17 @@
+id: 938d5913-7a1a-4605-93c4-90ed1d0db383
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+reference:
+    type: manifesto
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+    text: pag. 20, art. 83
+categories:
+    - Democracia
+title: Contra los lobbies
+statements:
+  -
+    id: 1
+    quote: Anteponer las necesidades de España y de los españoles a los intereses de oligarquías, caciques, lobbys u organizaciones supranacionales.
+  

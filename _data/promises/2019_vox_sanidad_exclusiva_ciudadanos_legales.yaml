@@ -3,8 +3,7 @@ election_type: generales
 from: "2019-11-10"
 parties:
   - VOX
-references:
-  -
+reference:
     type: manifesto
     id: d6790646-5ed5-43ef-88a0-1683dbbe464b
     text: pag. 14, art. 59
@@ -15,11 +14,13 @@ title: Sanidad gratuita exclusiva para ciudadanos
 statements:
   -
     id: 1
-    quote: Eliminación del acceso gratuito a la sanidad para inmigrantes ilegales
+    quote: Eliminación del acceso gratuito a la sanidad para inmigrantes ilegales.
+    parial: ini
   -
     id: 2
-    quote: Copago para todos los residentes legales que no tengan un mínimo de 10 años de permanencia en nuestro suelo
+    quote: Copago para todos los residentes legales que no tengan un mínimo de 10 años de permanencia en nuestro suelo.
   -
     id: 3
     quote: Se cubrirán únicamente servicios de urgencia.
+    partial: end
   

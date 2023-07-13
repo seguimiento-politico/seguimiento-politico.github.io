@@ -3,8 +3,7 @@ election_type: generales
 from: "2023-07-23"
 parties:
   - SUMAR
-references:
-  -
+reference:
     type: manifesto
     id: 7a32b672-907a-402e-b69c-cd55d184cbf3
     text: pag. X, art. Y.Y

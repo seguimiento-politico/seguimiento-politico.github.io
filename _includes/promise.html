@@ -5,6 +5,7 @@
     {% assign politicians = site.data.politicians %}
 {% endif %}
 
+
 {% assign item_analysis = site.data.promises_analysis | where: "promise_id", item[0].id %}
 {% assign status = statuses_data | where:'name', item_analysis[0].status | first %}
 
@@ -31,10 +32,26 @@
     </div>
 
     <div class="px-2 m-2">
+        <p><b>El compromiso:</b></p>
         {% if item[0].description %}
-            <p><b>El compromiso:</b></p>
             <p class="ms-3">{{ item[0].description | markdownify}}</p>
         {% endif %}
+        {% if item[0].statements %}
+            {% assign cont = 0 %}
+            <ul>
+            {% for statement in item[0].statements %}
+                {% assign cont = cont | plus: 1 %}
+                {% if statement.partial == "ini" or statement.partial == nil %}
+                    <li>
+                {% endif %}
+                {{ statement.quote}} {{"["}} {{cont}} {{"] " }}
+                {% if statement.partial contains "end" or statement.partial == nil %}
+                    </li>
+                {% endif %}
+            {% endfor %}
+            </ul>
+        {% endif %}
+        {% if item_analysis[0].status %}
         <p><b>Estado y grado de cumplimiento:</b></p>
         <p class="ms-3">
             <span class="text-{{ status.color }} bold"> 
@@ -43,7 +60,7 @@
             </span> 
             debido a que {{ item_analysis[0].status_info }}
         </p>
-        {% if item_analysis[0].status != "unknown" %}
+        
         <p class="ms-3">
             Más concretamente porque:
         </p>
@@ -83,10 +100,12 @@
         </div>
         <div class="col-12 col-sm-6 text-end text-muted small">
             <b>UID:</b> {{ item[0].id }}
-            {% if item_analysis[0].lastmod %}
-                {% assign date = item_analysis[0].lastmod %}
-            {% else %}
-                {% assign date = item_analysis[0].created %}
+            {% if item_analysis[0].status %}
+                {% if item_analysis[0].lastmod %}
+                    {% assign date = item_analysis[0].lastmod %}
+                {% else %}
+                    {% assign date = item_analysis[0].created %}
+                {% endif %}
             {% endif %}
             <p class=""> 
                 <b>{{ site.data.ui-text[site.locale].last_review | default: "Last review" }}:</b>
@@ -95,9 +114,10 @@
         </div>
     </div>
     <div class="card-footer">
-        {% assign source = item_analysis[0].sources | where:'ref', item_analysis[0].source_ref %}
+        {% assign type = item[0].reference.type %}
+        {% assign source = site.data.references.[type] | where: "id", item[0].reference.id %}
         Fuente del compromiso:
-        <a href="{{ source[0].url }}" class="card-link"> {{ source[0].title }} </a>, {{ item[0].source_details }}
+        <a href="{{ source[0].url }}" class="card-link"> {{ source[0].title }} </a>, {{ item[0].reference.text }}
     </div>
 </div>
 

@@ -2,7 +2,22 @@ id: d6ec5560-0911-11ed-9596-d163a910696f
 election_type: generales
 from: "2019-11-10"
 title: Ampliaremos la red de espacios protegidos
-description: "Ampliaremos la red de espacios protegidos, dotando de financiación adecuada las políticas de defensa de la biodiversidad y la gestión de los espacios naturales, con el objetivo de asegurar los medios necesarios y la generación de empleos en el medio rural.\r\nEstableceremos un Plan de Acción contra las especies exóticas invasoras que amenazan la biodiversidad."
+reference:
+    type: goverment_agreement
+    id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+    text: pag. , art.
+statements:
+  -
+    id: 1
+    quote: Ampliaremos la red de espacios protegidos,
+    partial: ini
+  -
+    id: 2
+    quote: dotando de financiación adecuada las políticas de defensa de la biodiversidad y la gestión de los espacios naturales, con el objetivo de asegurar los medios necesarios y la generación de empleos en el medio rural.
+    partial: end
+  -
+    id: 3
+    quote: Estableceremos un Plan de Acción contra las especies exóticas invasoras que amenazan la biodiversidad.    
 categories: Medioambiente
 parties:
   - PSOE

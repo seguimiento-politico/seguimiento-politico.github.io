@@ -1,0 +1,20 @@
+id: 73520624-67e5-46b8-aa35-f76993f22e5f
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+reference:
+    type: manifesto
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+    text: pag. 24, art. 100
+categories:
+    - Comercio, transporte y turismo
+    - Justicia
+    - Migración
+    - Política internacional
+title: Cooperación internacional hispánica
+statements:
+  -
+    id: 1
+    quote: Impulsar un gran Plan Nacional de Cooperación Internacional con las naciones de la comunidad histórica hispana para la ordenación de las inversiones, ayuda a las empresas españolas, garantizar la seguridad jurídica en los países de acogida y ordenar el flujo migratorio.
+  

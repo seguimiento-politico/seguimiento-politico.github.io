@@ -1,6 +1,6 @@
 {% if track_data.settings.config.scope == 'national' %}
-    {% assign categories_data = site.data.categorization.[track_data.settings.config.country].[track_data.settings.config.categorization].categories | sort: 'name' %}
-    {% assign statuses_data = site.data.categorization.[track_data.settings.config.country].[track_data.settings.config.categorization].statuses %}
+    {% assign categories_data = site.data.categorization.[track_data.settings.config.categorization].categories | sort: 'name' %}
+    {% assign statuses_data = site.data.categorization.[track_data.settings.config.categorization].statuses %}
 {% elsif track_data.settings.config.scope == 'international' %}
     {% assign categories_data = site.data.categorization.[track_data.settings.config.organization].[track_data.settings.config.categorization].categories | sort: 'name' %}
     {% assign statuses_data = site.data.categorization.[track_data.settings.config.organization].[track_data.settings.config.categorization].statuses %}

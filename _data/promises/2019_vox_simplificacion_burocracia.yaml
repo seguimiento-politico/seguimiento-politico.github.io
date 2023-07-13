@@ -3,8 +3,7 @@ election_type: generales
 from: "2019-11-10"
 parties:
   - VOX
-references:
-  -
+reference:
     type: manifesto
     id: d6790646-5ed5-43ef-88a0-1683dbbe464b
     text: pag. 9, art. 37

@@ -1,0 +1,17 @@
+id: 8ff90c65-f318-4179-a6be-0bbe8d1dd3a1
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+reference:
+    type: manifesto
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+    text: pag. 22, art. 91
+categories:
+    - Justicia
+    - Migración
+title: Privilegios penitenciarios
+statements:
+  -
+    id: 1
+    quote: Eliminación de los privilegios penitenciarios (salarios, seguridad social) a los presos condenados por terrorismo y a inmigrantes ilegales.

@@ -3,8 +3,7 @@ election_type: generales
 from: "2019-11-10"
 parties:
   - VOX
-references:
-  -
+reference:
     type: manifesto
     id: d6790646-5ed5-43ef-88a0-1683dbbe464b
     text: pag. X, art. Y.Y
@@ -14,5 +13,17 @@ title: Desigualdades poblacion rural vs urbana
 statements:
   -
     id: 1
-    quote: Combatir las desigualdades de oportunidades que separan a los ciudadanos del medio rural y del urbano. Desigualdad digital (acceso de calidad a internet), de infraestructuras (transporte, energía y agua), educativa, cultural y asistencial sanitaria. Incentivos para los profesionales del mundo rural y potenciar cursos de formación.
-  
+    quote: Combatir las desigualdades de oportunidades que separan a los ciudadanos del medio rural y del urbano. 
+    partial: ini
+  -
+    id: 2
+    quote: Desigualdad digital (acceso de calidad a internet), de infraestructuras (transporte, energía y agua), educativa, cultural y asistencial sanitaria. 
+    partial: end
+  -
+    id: 3
+    quote: Incentivos para los profesionales del mundo rural
+    partial: ini
+  - 
+    id: 4
+    quote: y potenciar cursos de formación.
+    partial: end

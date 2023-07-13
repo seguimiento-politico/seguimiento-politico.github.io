@@ -1,6 +1,6 @@
 id: a0065ad7-7c6a-4623-992d-a264f1138a58
 promise_id: a30a6e10-a023-4e36-9901-ffdd776d6f9e
-status: Desconocido # unknown, blocked, broken, compromised, achieved, in_progress, not_started
+status: Cumplido a medias
 status_info: aún no hemos completado el seguimiento
 overall_compliance:
     -
@@ -15,7 +15,6 @@ overall_compliance:
         reasoning: "En cuanto a la rapidez o urgencia de la reforma, esta entró en vigor el 28 de Diciembre de 2021, casi dos años después de la investidura."
         outcome: 'maybe' # yes, no, maybe, irrelevant
         sources: [2]
-related_promises: []
 
 sources:
     -

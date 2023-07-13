@@ -3,8 +3,7 @@ election_type: generales
 from: "2019-11-10"
 parties:
   - VOX
-references:
-  -
+reference:
     type: manifesto
     id: d6790646-5ed5-43ef-88a0-1683dbbe464b
     text: pag. 4, art. 12
@@ -15,7 +14,9 @@ statements:
   -
     id: 1
     quote: Supresión de las cuotas (por sexo o por cualquier otra causa) en las listas electorales
+    partial: ini
   -
     id: 2
     quote: Cada partido las elaborará de acuerdo a las decisiones de sus militantes
+    partial: end
   

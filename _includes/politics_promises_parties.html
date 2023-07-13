@@ -56,10 +56,10 @@
     
                     <tbody class="list">
                     <!-- add color to each policy -->
-                    {% for item in items %} 
+                    {% for item in items %}
                         {% assign item_analysis = site.data.promises_analysis | where: "promise_id", item.id %}  
                         {% if item_analysis[0].status %}
-                            {% assign status = statuses_data | where: "name", item.status | first %}
+                            {% assign status = statuses_data | where: "name", item_analysis[0].status | first %}
                         {% else %}
                             {% assign status = site.data.categorization.default.statuses | first %}
                         {% endif %}
@@ -100,11 +100,19 @@
                                 <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}"></i>
                             </td>
                             <td class="text-center">
-                                {% if item_analysis[0] %}
-                                    <a class="btn btn-primary" href="/promises/{{ item.id }}">
-                                        <span class="d-inline-block align-middle"><i class="fas fa-fw fa-angle-right"></i></span>
-                                    </a>
-                                {% endif %}
+                                {% assign promises = site.data.promises %}
+                                {% for promise in promises %}
+                                    {% if promise[1].id == item.id %}
+                                        {% if item_analysis[0] %}
+                                            {% assign class = "primary" %}
+                                        {% else %}
+                                            {% assign class = "secondary" %}
+                                        {% endif %}
+                                        <a class="btn btn-{{class}}" href="/promises/{{ promise[0] }}">
+                                            <span class="d-inline-block align-middle"><i class="fas fa-fw fa-angle-right"></i></span>
+                                        </a>
+                                    {% endif %}
+                                {% endfor %}
                             </td>
                         </tr>
                     {% endfor %}

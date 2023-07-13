@@ -1,0 +1,24 @@
+id: ff566e51-2d68-4392-860a-4ab7a9da5860
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+reference:
+    type: manifesto
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+    text: pag. 93, art. 22
+categories:
+    - Justicia
+    - Democracia
+title: Reforma e independencia del Poder Judicial
+statements:
+  -
+    id: 1
+    quote: Reforma del Poder judicial para una independencia real del poder político.
+  -
+    id: 2
+    quote: La totalidad de los miembros del Tribunal Supremo y Consejo General del Poder Judicial sean elegidos por concurso de méritos por y entre quienes son parte de la comunidad de la Justicia. 
+  -
+    id: 3
+    quote: Supresión del tribunal Constitucional, su funciones las asumirá una sala sexta del Tribunal Supremo
+  

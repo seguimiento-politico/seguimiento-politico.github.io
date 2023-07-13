@@ -1,0 +1,40 @@
+id: 7fdbd29c-b008-48de-accb-8ca865d9fce2
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+reference:
+    type: manifesto
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+    text: pag. 20, art. 84-85; 87-90
+categories:
+    - Justicia
+title: Terrorismo
+statements:
+  -
+    id: 1
+    quote: Ley de memoria dignidad y justicia para las víctimas del terrorismo. Impedirá de forma efectiva los homenajes a los asesinos, desterrando cualquier recuerdo de los criminales y honrando la memoria de todas las víctimas del terrorismo separatista e islamista, desde los colegios hasta el último de los organismo oficiales.
+  -
+    id: 2
+    quote: Creación de un memorial de las víctimas del terrorismo.
+  -
+    id: 3
+    quote: Desarticulación efectiva de ETA y sus satélites mediáticos y financieros.
+  -
+    id: 4
+    quote: Investigación de todos los crímenes de la banda aún no resueltos. 
+  -
+    id: 5
+    quote: Modificación de la ley para eliminar la prescripción de los crímenes de terrorismo separatista e islamista.
+  -
+    id: 7
+    quote: Depuración de responsabilidades a quienes, desde el estado o desde las fuerzas de seguridad, hayan negociado y pactado con terroristas. 
+  -
+    id: 8
+    quote: Inhabilitación de por vida para ocupar cargos públicos a quienes hayan formado parte o apoyado a una organización terrorista o cualquier asociación mafiosa.
+  -
+    id: 9
+    quote: Las víctimas serán oídas en las distintas fases del procedimiento, y también en la ejecución de la sentencia.
+  - 
+    id: 10
+    quote: Restaurar todo el rigor penal para el terrorismo y los delitos más graves, incluyendo la cadena perpetua.

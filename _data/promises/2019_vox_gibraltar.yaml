@@ -3,8 +3,7 @@ election_type: generales
 from: "2019-11-10"
 parties:
   - VOX
-references:
-  -
+reference:
     type: manifesto
     id: d6790646-5ed5-43ef-88a0-1683dbbe464b
     text: pag. 3, art. 7
@@ -17,7 +16,8 @@ statements:
   -
     id: 1
     quote: Intensidad y determinación en las acciones diplomáticas para la devolución de Gibraltar
+    partial: ini
   -
     id: 2
     quote: desmantelamiento de las redes de piratería, narcotráfico, contrabando y blanqueo de capitales que se extienden desde la colonia
-  
+    partial: end

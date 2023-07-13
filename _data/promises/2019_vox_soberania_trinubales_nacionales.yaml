@@ -1,0 +1,18 @@
+id: 886e017d-bab5-42b1-9f76-5c3d71f06542
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+reference:
+    type: manifesto
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+    text: pag. 21, art. 91
+categories:
+    - Justicia
+    - Política internacional
+title: Soberanía nacional de la justicia
+statements:
+  -
+    id: 1
+    quote: Recuperar la soberanía nacional en la aplicación de las sentencias de nuestros tribunales. Terroristas, violadores y asesinos en serie no volverán a beneficiarse del amparo de organismos europeos, como ha sucedido hasta ahora.
+  

@@ -1,0 +1,23 @@
+id: 01e67731-8410-4e54-a20c-6d748fa1ed6c
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+reference:
+    type: manifesto
+    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+    text: pag. 23, art. 97
+categories:
+    - Política internacional
+title: Soberania nacional del estado frente a Europa y CC.AA.
+statements:
+  -
+    id: 1
+    quote: Reducción del gasto político europeo, eliminar duplicidades y agencias que se inmiscuyan en la soberanía nacional. 
+  -
+    id: 2
+    quote: Exclusividad del Estado, en lo que se refiere a relaciones internacionales (art. 149 de la Constitución). 
+  -
+    id: 3
+    quote: Supresión de toda representación política exterior de regiones o municipios.
+  
