@@ -1,37 +1,38 @@
-{% include scope_settings.html %}
+{% include scope_path.html %}
 
 {% assign image_files = site.static_files | where: "image", true %}
 
-{% assign organization_path = site.images_path | append: 'parties/' | append: scope | append: '/' %}
+{% assign organization_path = site.images_path | append: 'parties/' | append: scope_path %}
+{% assign person_path = site.images_path | append: 'politicians/' | append: scope_path %} 
 
 {% if include.type == 'politician' %}
     {% assign politician_name = item.[include.type] %}
     {% assign text = agent_name | slugify %}
     {% include normalize_text.html %}
 
-        {% assign person_path = site.images_path | append: 'politicians/' | append: scope | append: '/' | append: text | append: '.jpg' %} 
+        {% assign person_path2 = person_path | append: '/' | append: text | append: '.jpg' %} 
         {% assign person_data = track_data.politicians | where: 'NOMBRE', politician_name %}
 
         {% assign text = person_data[0].party | slugify %}
         {% include normalize_text.html %}
 
-        {% assign organization_path = site.images_path | append: 'parties/' | append: scope | append: '/' | append: text | append: '.gif'  %}
+        {% assign organization_path2 = organization_path | append: text | append: '.gif'  %}
         {% assign organization_data = site.data.agents.[scope].parties | where: 'name', person_data[0].FORMACIONELECTORAL %}
 
         <div class="position-relative list-politician">
              <!-- Check if corresponding images exist in images folder -->
             {% for image in image_files %}
-                {% if image.path == organization_path %}
+                {% if image.path == organization_path2 %}
                     {% assign organization_image = true %}
                 {% endif %}
-                {% if image.path == person_path %}
+                {% if image.path == person_path2 %}
                     {% assign person_image = true %}
                 {% endif %}
             {% endfor %}
 
             {% if organization_image %}
                 <div class="position-absolute bottom-0 end-0" style="width: 50%;">
-                    <img src="{{ organization_path }}" alt="{{ agent_name }}" width="24" height="24">
+                    <img src="{{ organization_path2 }}" alt="{{ agent_name }}" width="24" height="24">
                     <span class="d-none list-party">{{ organization_data[0].name }}</span>
                 </div>
             {% else %}
@@ -39,7 +40,7 @@
             {% endif %}
 
             {% if person_image %}
-                <img src="{{ person_path }}" alt="{{ agent_name }}" width="48" height="48">
+                <img src="{{ person_path2 }}" alt="{{ agent_name }}" width="48" height="48">
                 <span class="d-none list-politician">{{ agent_name }}</span>
             {% else %}
                 {{ agent_name }}
@@ -54,17 +55,17 @@
         {% assign text = agent_name | slugify %}
         {% include normalize_text.html %}
         
-        {% assign organization_path = site.images_path | append: 'parties/' | append: scope | append: '/' | append: text | append: '.gif'  %}
+        {% assign organization_path2 = organization_path | append: text | append: '.gif'  %}
         {% assign organization_data = site.data.parties | where: 'name', agent_name %}
 
         <!-- Check if corresponding images exist in images folder -->
         {% for image in image_files %}
-            {% if image.path == organization_path %}
+            {% if image.path == organization_path2 %}
                 {% assign organization_image = true %}
             {% endif %}
         {% endfor %}
         {% if organization_image %}
-            <img src="{{ organization_path }}" alt="{{ agent_name }}" width="36" height="36">
+            <img src="{{ organization_path2 }}" alt="{{ agent_name }}" width="36" height="36">
         {% else %}
         <span class="badge list-party" style="background-color:{{organization_data[0].color}};">{{ organization_data[0].name }}</span>
         {% endif %}

@@ -1,3 +1,4 @@
+{% include scope_path.html %}
 {% assign image_files = site.static_files | where: "image", true %}
 
 {% if include.type == 'politician' %}
@@ -10,7 +11,7 @@
     {% assign text = person_data[0].FORMACIONELECTORAL | slugify %}
     {% include normalize_text.html %}
 
-    {% assign organization_path = site.images_path | append: 'parties/' | append: scope | append: '/' | append: text | append: '.gif'  %}
+    {% assign organization_path = site.images_path | append: 'parties/' | append: scope_path | append: '/' | append: text | append: '.gif'  %}
     {% assign organization_data = site.data.agents.[scope].parties | where: 'name', person_data[0].FORMACIONELECTORAL %}
 
     <!-- Check if corresponding images exist in images folder -->
@@ -36,7 +37,7 @@
     {% assign text = party_name | slugify %}
     {% include normalize_text.html %}
            
-    {% assign organization_path = site.images_path | append: 'parties/' | append: scope | append: '/' | append: text | append: '.gif'  %}
+    {% assign organization_path = site.images_path | append: 'parties/' | append: scope_path | append: text | append: '.gif'  %}
     {% assign organization_data = site.data.agents.[scope].parties | where: 'name', party_name %}
 
     <!-- Check if corresponding images exist in images folder -->

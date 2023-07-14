@@ -1,8 +1,14 @@
 id: b1cf7bb0-d480-11ec-9b10-a95dcc5ccfd3
+config:
+  scope: national
+  country: spain
 election_type: generales
 from: "2019-11-10"
-title: 'Ley de Bienestar Animal'
-description: Que garantice una relación respetuosa hacia todos los seres vivos incluyendo la revisión de la fiscalidad de los servicios veterinarios. Estudiaremos la posibilidad de establecer un delito de maltrato de animales salvajes en su medio natural y una revisión de las penas al abandono de animales domésticos, y mejoras en el control de los animales domésticos y en el control de la producción de animales de consumo.
+title: Ley de Bienestar Animal
+statements:
+  -
+    id: 1
+    quote: Que garantice una relación respetuosa hacia todos los seres vivos incluyendo la revisión de la fiscalidad de los servicios veterinarios. Estudiaremos la posibilidad de establecer un delito de maltrato de animales salvajes en su medio natural y una revisión de las penas al abandono de animales domésticos, y mejoras en el control de los animales domésticos y en el control de la producción de animales de consumo.
 categories: 
   - Derechos y servicios sociales
   - Medioambiente

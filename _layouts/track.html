@@ -4,10 +4,10 @@ layout: page
 <!-- load common variables -->
 {% assign track_data = site.data.tracks.[page.track_name] %}
 
-{% if track_data.settings.config.group_by == "legislature"  %}  
-    {% assign items = site.data.promises | where_exp: 'item', 'item.election_type == track_data.settings.context.election_type' | where_exp: 'item', 'item.from == track_data.settings.context.from' %}
-{% elsif track_data.settings.config.group_by == "party" %}
-    {% assign items = site.data.promises | where: "parties", track_data.settings.config.party %}
+{% if track_data.config.group_by == "legislature"  %}  
+    {% assign items = site.data.promises | where_exp: 'item', 'item.election_type == track_data.context.election_type' | where_exp: 'item', 'item.from == track_data.context.from' %}
+{% elsif track_data.config.group_by == "party" %}
+    {% assign items = site.data.promises | where: "parties", track_data.config.party %}
 {% else %}
     {% assign items = "" | split:"," %}
 {% endif %}
@@ -19,7 +19,7 @@ layout: page
 {% include breadcrumb.html %}
 
 <!-- include custom html depending on track type -->
-{% case track_data.settings.config.type %}
+{% case track_data.config.type %}
     {% when 'politics-promises-by-party' %}
         {% include politics_promises_parties.html by='party' %}
 

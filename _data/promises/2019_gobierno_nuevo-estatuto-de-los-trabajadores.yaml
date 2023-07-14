@@ -1,18 +1,20 @@
 id: 74cbc2a0-0432-11ed-83f1-c5dbc0b596f7
+config:
+  scope: national
+  country: spain
 election_type: generales
 from: "2019-11-10"
 title: Nuevo Estatuto de los Trabajadores
-description: >-
-  Elaboraremos, previo diálogo con los agentes sociales, un nuevo Estatuto de
-  los Trabajadores que compagine la protección de los trabajadores y
-  trabajadoras frente a los desafíos sociales, tecnológicos y ecológicos del
-  siglo XXI y el reconocimiento de nuevos derechos.
+statements: 
+  -
+    id: 1
+    quote: Elaboraremos, previo diálogo con los agentes sociales, un nuevo Estatuto de los Trabajadores que compagine la protección de los trabajadores y trabajadoras frente a los desafíos sociales, tecnológicos y ecológicos del siglo XXI y el reconocimiento de nuevos derechos.
 categories: 
   - Economía, trabajo y hacienda
   - Derechos y servicios sociales
 parties:
   - PSOE
-  - UNIDAS PODEMOS
+  - UNIDAS-PODEMOS
 reference:
     type: goverment_agreement
     id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8

@@ -10,7 +10,7 @@ layout: page
 {% include breadcrumb.html %}
 
 <!-- include custom html depending on track type -->
-{% case track_data.settings.config.type %}
+{% case track_data.config.type %}
     {% when 'politics-promises-by-party' %}
         {% include politics_promises_parties_item.html %}
 

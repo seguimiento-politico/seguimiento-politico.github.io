@@ -1,4 +1,7 @@
 id: a30a6e10-a023-4e36-9901-ffdd776d6f9e
+config:
+  scope: national
+  country: spain
 election_type: generales
 from: "2019-11-10"
 categories:
@@ -6,7 +9,7 @@ categories:
   - Economía, trabajo y hacienda
 parties:
   - PSOE
-  - UNIDAS PODEMOS
+  - UNIDAS-PODEMOS
 reference:
     type: goverment_agreement
     id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8

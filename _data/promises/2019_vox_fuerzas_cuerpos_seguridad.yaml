@@ -1,4 +1,7 @@
 id: 9463400d-b40b-4408-9e6d-3a04a1121904
+config:
+  scope: national
+  country: spain
 election_type: generales
 from: "2019-11-10"
 parties:

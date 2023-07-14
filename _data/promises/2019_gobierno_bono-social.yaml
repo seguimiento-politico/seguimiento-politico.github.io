@@ -1,20 +1,22 @@
 id: 69a84f20-0913-11ed-9596-d163a910696f
+config:
+  scope: national
+  country: spain
 election_type: generales
 from: "2019-11-10"
 title: Bono social
-description: >-
-  Bono social, los más vulnerables nuestra prioridad de acción. Aprobaremos una
-  reforma profunda del bono social eléctrico y creación un bono general que
-  incluye el bono gasista. El coste del bono social eléctrico, será asumido por
-  las matrices de los grupos de sociedades que desarrollen la actividad de
-  comercialización de energía eléctrica, o por las propias sociedades que así lo
-  hagan si no forman parte de ningún grupo societario. Estos bonos tendrán el
-  fin último de permitir que cualquier hogar pueda realizar un consumo mínimo de
-  energía.
+description: Bono social, los más vulnerables nuestra prioridad de acción. Estos bonos tendrán el fin último de permitir que cualquier hogar pueda realizar un consumo mínimo de energía.
+statements:
+  -
+    id: 1
+    quote: Aprobaremos una reforma profunda del bono social eléctrico y creación un bono general que incluye el bono gasista.
+  -
+    id: 2
+    quote: El coste del bono social eléctrico, será asumido por las matrices de los grupos de sociedades que desarrollen la actividad de   comercialización de energía eléctrica, o por las propias sociedades que así lo hagan si no forman parte de ningún grupo societario. 
 categories: Derechos y servicios sociales
 parties:
   - PSOE
-  - UNIDAS PODEMOS
+  - UNIDAS-PODEMOS
 reference:
     type: goverment_agreement
     id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8

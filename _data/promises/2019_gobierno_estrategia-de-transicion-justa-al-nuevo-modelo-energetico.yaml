@@ -1,22 +1,21 @@
 id: eb9eeb50-0914-11ed-9596-d163a910696f
+config:
+  scope: national
+  country: spain
 election_type: generales
 from: "2019-11-10"
 title: Estrategia de transición justa al nuevo modelo energético
-description: >-
-  Desarrollaremos planes de acción urgente para las comarcas afectadas por el
-  cierre de centrales de carbón y centrales nucleares con calendario conocido,
-  de manera que se definan escenarios estables, predecibles y competitivos para
-  estas áreas, fomentando el desarrollo e inversión en innovación y tecnologías
-  verdes, favoreciendo la formación necesaria para hacer frente a las
-  necesidades del futuro al objeto de asegurar nuevas oportunidades de empleo en
-  las comarcas afectadas.
+statements:
+  -
+    id: 1
+    quote: Desarrollaremos planes de acción urgente para las comarcas afectadas por el cierre de centrales de carbón y centrales nucleares con calendario conocido, de manera que se definan escenarios estables, predecibles y competitivos para estas áreas, fomentando el desarrollo e inversión en innovación y tecnologías verdes, favoreciendo la formación necesaria para hacer frente a las necesidades del futuro al objeto de asegurar nuevas oportunidades de empleo en   las comarcas afectadas.
 categories:
   - Industria y energía
   - Medioambiente
   - Territorio
 parties:
   - PSOE
-  - UNIDAS PODEMOS
+  - UNIDAS-PODEMOS
 reference:
     type: goverment_agreement
     id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8

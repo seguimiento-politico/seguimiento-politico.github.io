@@ -1,4 +1,13 @@
 id: d6ec5560-0911-11ed-9596-d163a910696f
+config:
+  scope: national
+  country: spain
+parties:
+  - PSOE
+  - UNIDAS-PODEMOS
+config:
+  scope: national
+  country: spain
 election_type: generales
 from: "2019-11-10"
 title: Ampliaremos la red de espacios protegidos
@@ -18,7 +27,5 @@ statements:
   -
     id: 3
     quote: Estableceremos un Plan de Acción contra las especies exóticas invasoras que amenazan la biodiversidad.    
-categories: Medioambiente
-parties:
-  - PSOE
-  - UNIDAS PODEMOS
+
+

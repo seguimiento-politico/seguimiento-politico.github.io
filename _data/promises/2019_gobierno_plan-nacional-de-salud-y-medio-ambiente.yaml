@@ -1,17 +1,20 @@
 id: 9984e1b0-0911-11ed-9596-d163a910696f
+config:
+  scope: national
+  country: spain
 election_type: generales
 from: "2019-11-10"
 title: Plan Nacional de Salud y Medio Ambiente
 statements:
   - 
     id: 1
-    quote: Elaboraremos un Plan Nacional de Salud y Medio Ambiente, para abordar los   crecientes impactos sobre la salud de los cambios ambientales consecuencia de la crisis ecológica.
+    quote: Elaboraremos un Plan Nacional de Salud y Medio Ambiente, para abordar los crecientes impactos sobre la salud de los cambios ambientales consecuencia de la crisis ecológica.
 categories:
   - Medioambiente
   - Sanidad
 parties:
   - PSOE
-  - UNIDAS PODEMOS
+  - UNIDAS-PODEMOS
 reference:
     type: goverment_agreement
     id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8

@@ -1,4 +1,7 @@
 id: 00548844-203a-4ce6-9efc-58f3f21bb85e
+config:
+  scope: national
+  country: spain
 election_type: generales
 from: "2023-07-23"
 categories:

@@ -1,15 +1,18 @@
 id: 1d7f9d30-0911-11ed-9596-d163a910696f
+config:
+  scope: national
+  country: spain
 election_type: generales
 from: "2019-11-10"
 title: Ley de Costas
-description: >-
-  Actualizaremos la Ley de Costas ante la amenaza real que supone el cambio
-  climático, para aumentar la protección y evitar que continúe la actual
-  destrucción de ecosistemas costeros.
+statements: 
+  -
+    id: 1
+    quote: Actualizaremos la Ley de Costas ante la amenaza real que supone el cambio climático, para aumentar la protección y evitar que continúe la actual destrucción de ecosistemas costeros.
 categories: Medioambiente
 parties:
   - PSOE
-  - UNIDAS PODEMOS
+  - UNIDAS-PODEMOS
 reference:
     type: goverment_agreement
     id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8

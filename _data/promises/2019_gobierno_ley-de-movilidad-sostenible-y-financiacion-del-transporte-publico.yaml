@@ -1,14 +1,43 @@
 id: ff4ed090-0912-11ed-9596-d163a910696f
+config:
+  scope: national
+  country: spain
 election_type: generales
 from: "2019-11-10"
 title: Plan de movilidad sostenible
-description: "Elaboraremos una Ley de Movilidad Sostenible y financiación del transporte público, poniendo especial énfasis en la sostenibilidad económica de las áreas metropolitanas de las grandes ciudades.\r\n- Pondremos en marcha un esquema de ayudas económicas para el vehículo eléctrico, impulsando el vehículo con energías alternativas y medidas encaminadas a promover la instalación de puntos de recarga en zonas urbanas.\r\n- Impulsaremos un Programa de Acción 2019-2022 para la Mejora de la Eficiencia y la Sostenibilidad de la Cadena Logística.\r\n- Revisaremos el modelo de peajes de la red viaria de alta capacidad encaminado a garantizar la sostenibilidad y el uso eficiente.\r\n- Desarrollaremos medidas encaminadas a promover inversiones productivas y sostenibles en los puertos.\r\n- Impulsaremos el Plan de cercanías 2019-2025, y otras medidas de apoyo al transporte intermodal.\r\n- Aplicación de las Tecnologías de Información y Telecomunicación e Internet de las Cosas para mejorar la interconectividad e ntermodalidad"
+statements:
+  -
+    id: 1
+    quote: Elaboraremos una Ley de Movilidad Sostenible y financiación del transporte público, 
+    partial: ini
+  -
+    id: 2
+    quote: poniendo especial énfasis en la sostenibilidad económica de las áreas metropolitanas de las grandes ciudades.
+    partial: end
+  -
+    id: 3
+    quote: Pondremos en marcha un esquema de ayudas económicas para el vehículo eléctrico, impulsando el vehículo con energías alternativas y medidas encaminadas a promover la instalación de puntos de recarga en zonas urbanas.
+  -
+    id: 4
+    quote: Impulsaremos un Programa de Acción 2019-2022 para la Mejora de la Eficiencia y la Sostenibilidad de la Cadena Logística.
+  -
+    id: 5
+    quote: Revisaremos el modelo de peajes de la red viaria de alta capacidad encaminado a garantizar la sostenibilidad y el uso eficiente.
+  -
+    id: 6
+    quote: Desarrollaremos medidas encaminadas a promover inversiones productivas y sostenibles en los puertos.
+  -
+    id: 7
+    quote: Impulsaremos el Plan de cercanías 2019-2025, y otras medidas de apoyo al transporte intermodal.
+  -
+    id: 8
+    quote: Aplicación de las Tecnologías de Información y Telecomunicación e Internet de las Cosas para mejorar la interconectividad e intermodalidad
 categories:
   - 'Comercio, transporte y turismo'
   - Medioambiente
 parties:
   - PSOE
-  - UNIDAS PODEMOS
+  - UNIDAS-PODEMOS
 reference:
     type: goverment_agreement
     id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8

@@ -6,12 +6,12 @@
 {% include categorization_counters.html %}
 
 <div class="border my-3 p-3 bg-body rounded shadow-sm">
-    <h6 class="border-bottom pb-2">{{ site.data.ui-text[site.locale].track_info_label | default: "Data and info about" }} {{ track_data.settings.context.name }}</h6>
+    <h6 class="border-bottom pb-2">{{ site.data.ui-text[site.locale].track_info_label | default: "Data and info about" }} {{ track_data.context.name }}</h6>
     <div class="row pt-2">
         <!-- % assign not_achieved = promises | where_exp: "item", "item.status contains 'Broken' or item.status contains 'Not started' or item.status contains 'In progress'" % 
                 % assign not_achieved_percent = not_achieved | times: 100 | divided_by: total % -->
         <p>
-            <b>Desde </b>  {{ track_data.settings.context.from }} <b>hasta</b>  {% if track_data.settings.context.to %} {{ track_data.settings.context.to }} {% else %} Actualidad {% endif %} <b>durante</b> 
+            <b>Desde </b>  {{ track_data.context.from }} <b>hasta</b>  {% if track_data.context.to %} {{ track_data.context.to }} {% else %} Actualidad {% endif %} <b>durante</b> 
             <span id="days-in-office"><i class='loading'>Loading...</i></span> días
         </p>
         <p>
@@ -28,7 +28,7 @@
 <div class="border my-3 p-3 bg-body rounded shadow-sm"> 
     <h6 class="border-bottom pb-2 d-flex justify-content-between align-items-start">
         <span class="align-self-center">
-          {{ site.data.ui-text[site.locale].track_promises_label | default: "Tracking promises of" }} {{ track_data.settings.context.name }}
+          {{ site.data.ui-text[site.locale].track_promises_label | default: "Tracking promises of" }} {{ track_data.context.name }}
         </span>
         <button class="btn btn-sm btn-primary" id="new-item" style=""><i class="fas fa-fw fa-plus"></i> nuevo compromiso</button>
     </h6>
@@ -57,6 +57,9 @@
                     <tbody class="list">
                     <!-- add color to each policy -->
                     {% for item in items %}
+                        
+                        {% assign scope_data = item.config %}
+
                         {% assign item_analysis = site.data.promises_analysis | where: "promise_id", item.id %}  
                         {% if item_analysis[0].status %}
                             {% assign status = statuses_data | where: "name", item_analysis[0].status | first %}
@@ -64,7 +67,7 @@
                             {% assign status = site.data.categorization.default.statuses | first %}
                         {% endif %}
                         {% assign party = parties_data | where: "name", item.party | first %} 
-
+                        
                         <tr class="list-group-item-{{ status.color }}">
                             <td>
                                 {% include items_logo.html type='parties' %}

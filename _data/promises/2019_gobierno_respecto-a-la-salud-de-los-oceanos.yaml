@@ -1,18 +1,31 @@
 id: 51debfc0-0911-11ed-9596-d163a910696f
+config:
+  scope: national
+  country: spain
 election_type: generales
 from: "2019-11-10"
 title: Respecto a la salud de los océanos
-description: >-
-  reduciremos el uso del plástico y se impulsará la lucha contra la pesca
-  ilegal, no regulada y no documentada, así como la ampliación de las áreas
-  marinas protegidas y la trazabilidad de los alimentos procedentes del mar,
-  para fomentar la pesca sostenible.
+statements: 
+  -
+    id: 1
+    quote: Reduciremos el uso del plástico y 
+    partial: ini
+  -
+    id: 2
+    quote: se impulsará la lucha contra la pesca ilegal, no regulada y no documentada, 
+  -
+    id: 3
+    quote: así como la ampliación de las áreas marinas protegidas y 
+  -
+    id: 4
+    quote: la trazabilidad de los alimentos procedentes del mar, para fomentar la pesca sostenible.
+    partial: end
 categories:
   - 'Agricultura, ganadería y pesca'
   - Medioambiente
 parties:
   - PSOE
-  - UNIDAS PODEMOS
+  - UNIDAS-PODEMOS
 reference:
     type: goverment_agreement
     id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8

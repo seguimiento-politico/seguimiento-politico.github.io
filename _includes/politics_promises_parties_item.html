@@ -2,7 +2,7 @@
 {% assign party_data = site.data.parties | where: "name", item.party | first %}
 {% assign status = statuses_data | where:'name', item.status | first %}
 
-{% include scope_settings.html %}
+{% include scope_path.html %}
 
 <!-- Party logo path -->
 {% include items_logo.html type=parties %}

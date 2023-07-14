@@ -1,18 +1,23 @@
 id: d348a920-042c-11ed-9065-6f942f130ab8
+config:
+  scope: national
+  country: spain
 election_type: generales
 from: "2019-11-10"
 title: Ley de Cambio Climático y Transición Energética
-description: >-
-  Se fijarán objetivos de emisiones de gases de efecto invernadero y energía
-  para vertebrar las políticas energéticas, de transporte, de producción
-  industrial y las urbanas, abriendo, al mismo tiempo, una oportunidad para la
-  generación de nuevas orientaciones socioeconómicas, garantizando la transición
-  justa. El objetivo será alcanzar en 2050 una generación de electricidad con
-  origen 100% renovable, y entre el 85% y el 95% en 2040.
+statements: 
+  -
+    id: 1
+    quote: Se fijarán objetivos de emisiones de gases de efecto invernadero y energía para vertebrar las políticas energéticas, de transporte, de producción industrial y las urbanas, abriendo, al mismo tiempo, una oportunidad para la generación de nuevas orientaciones socioeconómicas, garantizando la transición justa. 
+    partial: ini
+  -
+    id: 2
+    quote: El objetivo será alcanzar en 2050 una generación de electricidad con origen 100% renovable, y entre el 85% y el 95% en 2040.
+    partial: end
 categories: Medioambiente
 parties:
   - PSOE
-  - UNIDAS PODEMOS
+  - UNIDAS-PODEMOS
 reference:
     type: goverment_agreement
     id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
