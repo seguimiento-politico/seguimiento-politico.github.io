@@ -1,0 +1,45 @@
+id: aa707de8-c5aa-496a-b7c6-a03d8217dbb5
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    text: pag. 33, art. 1.2 XI
+categories:
+    - Economía, trabajo y hacienda
+    - Derechos y servicios sociales
+title: Defender la universalidad del derecho a la protección social
+statements:
+  -
+    id: 1
+    quote: <b>Impulsaremos una reforma constitucional que garantice sólidamente los derechos sociales y, en concreto, que blinde el derecho a la Seguridad Social.</b> El sistema de la Seguridad Social es el nú cleo esencial de lo que, de un modo amplio, se denomina protección social. El texto constitucional explicitará que el sistema de la Seguridad Social es una función del Estado de la que está excluida toda operación de lucro privado, así como que el sistema está basado en el principio solidario que impone un mecanismo financiero de reparto, una caja única, la consideración conjunta de las con tingencias y la redistribución de rentas de los que más a los que menos tienen. En tanto esa reforma constitucional no se produzca, estas garantías vendrán de la mano de leyes ordinarias.
+  -
+    id: 2
+    quote: <b>Aseguraremos que la suficiencia de las prestaciones, inseparable de la revalorización de las prestaciones,</b> se siga haciendo mediante ley, de acuerdo, como mínimo, con la subida del IPC para asegurar su poder adquisitivo.
+  -
+    id: 3
+    quote: <b>Protección de la familia en situaciones de viudedad, orfandad, etcétera se lleve a cabo exclu sivamente en consideración a los lazos reales de convivencia y afecto</b> que puedan ser acreditados por cualquier medio de prueba válido en derecho y no solo a través de actos registrados oficial mente. La perspectiva de género se incorporará de manera efectiva en el ordenamiento de la Segu ridad Social.
+  -
+    id: 4
+    quote: <b>Garantizaremos que todas las personas residentes en España tengan derecho a la protección por la Seguridad Social,</b> incluidas las personas residentes en situación de irregularidad desde el momento en que presten trabajo por cuenta ajena. Si tienen derecho al salario, también han de tenerlo a la Seguridad Social. Asimismo, mejoraremos las fuentes de financiación del sistema para evitar que el equilibrio financiero se busque a través del recorte de las prestaciones.
+  -
+    id: 5
+    quote: <b>Asumiremos el reto de combatir la informalidad laboral y ampliaremos la protección social de las personas en situación (o con mayor riesgo) de vulnerabilidad social.</b> La informalidad sigue siendo un obstáculo importante y una de las causas profundas que impiden lograr una protección inclusiva, adecuada y eficaz de todas las personas trabajadoras. La economía informal tiene con secuencias negativas para el desarrollo de empresas sostenibles, incluidas las microempresas y las pequeñas y medianas empresas, los ingresos públicos y el ámbito de actuación de los Gobiernos. La protección social de las personas trabajadoras sigue siendo un desafío para muchas personas au tónomas, inclusive en la economía formal. Por otra parte, el riesgo de exclusión de la protección de las personas trabajadoras o de que esta sea inadecuada es mayor para aquellas que son objeto de discriminación por motivo de género o de otra índole, incluida la discriminación interseccional, así como para las personas trabajadoras de grupos profesionales o sectores específicos, o las que par ticipan en determinadas modalidades de trabajo, incluidas las personas trabajadoras del cuidado, del servicio doméstico y del sector agrícola. A su vez, determinadas modalidades de trabajo, como el empleo temporal, el trabajo en plataformas y el teletrabajo, que pueden haber brindado nuevas oportunidades para la creación y el acceso al empleo de las personas trabajadoras que se enfrentan a mayores barreras para entrar y permanecer en el mercado de trabajo, también plantean nuevos desafíos en el marco de la protección social.
+  -
+    id: 5
+    quote: <b>Protegeremos los derechos de las personas trabajadoras migrantes</b> a nivel nacional y participa remos en actividades de cooperación bilateral y regional entre los países de origen, de tránsito y de destino para garantizar los derechos de protección social.
+  -
+    id: 6
+    quote: <b>Reconfiguraremos las prestaciones no contributivas, incluidas las de desempleo, con el fin de simplificar y garantizar la protección a todas las personas que lo necesiten.</b> Determinadas presta ciones sociales, entre ellas el IMV, han significado un importante avance en el sistema de protección social; sin embargo, la complejidad de su diseño ha limitado notablemente su eficacia, siendo, en consecuencia, necesario revertir esta situación.
+  -
+    id: 7
+    quote: <b>Reorganización de la prestación por desempleo y cese de actividad destinada a dar seguridad a las personas trabajadoras</b> (incluidas las personas autónomas de actividad empresarial y las socias y los socios trabajadores), mediante el reconocimiento, en todo caso, de prestaciones que garanticen las transiciones a un nuevo trabajo y que estén vinculadas a la realización de acciones formativas acreditables. Dichas prestaciones tendrán en cuenta especialmente la situación de las personas trabajadoras temporales y a tiempo parcial. En relación con las personas trabajadoras fijas-discon tinuas que, durante sus periodos de inactividad, realicen formación acreditable, tendrán derecho a que hasta treinta días de su prestación por desempleo no se considere consumida.
+  -
+    id: 8
+    quote: <b>Reforma del sistema de mutuas colaboradoras de la Seguridad Social (MATPSS).</b> Es necesario abordar la actuación de estas entidades, que gestionan recursos públicos con criterios exclusiva mente privados que no siempre redundan en una mejora de la salud de los ciudadanos y las ciuda danas. Para revertir esta situación; 1) Se introducirán sistemas de control, participación y transparencia en la gestión de las MATPSS. 2) Se realizará un control exclusivo de la incapacidad temporal común de altas y bajas y el seguimiento por los facultativos de la Seguridad Social, así como el riesgo durante el embaazo o la lactancia; se promoverá el retorno de la gestión económica de IT por contingencias comunes a la Seguridad Social y se valorará el incremento de la cuantía de la prestación por incapacidad común al 75% desde el primer día, y al 100% por contingencias profesionales. 3) Se pondrá fin a la discriminación en el pago de cuotas entre las empresas cubiertas por la   Seguridad Social y las empresas cubiertas por entidades colaboradoras, asimismo se elimi  nará el RD 404/2010, del 31 de marzo, de reducción de las cotizaciones por contingencias   profesionales.
+  

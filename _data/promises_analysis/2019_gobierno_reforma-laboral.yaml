@@ -1,7 +1,7 @@
 id: a0065ad7-7c6a-4623-992d-a264f1138a58
 promise_id: a30a6e10-a023-4e36-9901-ffdd776d6f9e
 status: Cumplido a medias
-status_info: aún no hemos completado el seguimiento
+status_info: Reforma loboral en vigor desde 28 de Diciembre de 2021.
 overall_compliance:
     -
         reasoning: "El hecho es que efectivamente se ha realizado una reforma parcial de la legislación laboral."
@@ -57,247 +57,119 @@ sources:
         title: "Congreso: Iniciativas Legislatura XIV - expediente 130/000072"
         url: https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XIV&_iniciativas_id=130%2F000072
 
-promise_analysis:
-    - 
-        statement: 
-            quote: Derogaremos la posibilidad de despido por absentismo causado por bajas por enfermedad.
-            author: PSOE/Unidas Podemos
-            author_type: party # party, politician
-            source_ref:  # optional, if void then will show the main promise source
-            source_details:  # optional, if void the will show the main promise source details
-        
-        statement_quality: # For Goals/Promises use (specifity, measurability, realistic, time_bound), for Assertions use (veracity, relevant, clarity)
-            overall_quality: appropiate
+statements:
+    -
+        id: 1
+        quality:
             specifity:
-                overall_compliance: 'yes'
-                reasons: 
-                    - 
-                        compliance: 'yes'
-                        reason: Se define un objetivo claro muy específico.
+                compliance: 'yes'
+                reason: Se define un objetivo claro muy específico.
             measurability:
-                overall_compliance: partly
-                reasons:
-                    - 
-                        compliance: partly 
-                        reason: Salvo que existan excepciones, se trata de una cuestión binaria fácilmente comprobable.
+                compliance: 'partly'
+                reason: Salvo que existan excepciones, se trata de una cuestión binaria fácilmente comprobable.
             realistic:
-                overall_compliance: 'yes'      
-                reasons:
-                    - 
-                        compliance: 'yes'
-                        reason: No existen barreras legales o de otro tipo que dificulten lograr el objetivo.    
+                compliance: 'yes'
+                reason: No existen barreras legales o de otro tipo que dificulten lograr el objetivo.    
             time_bound: 
-                overall_compliance: partly
-                reasons:
-                    -   
-                        compliance: 'partly'
-                        reason: Se da un carácter «urgente» a la promesa, pero no determina un plazo a cumplir.
+                compliance: 'partly'
+                reason: Se da un carácter «urgente» a la promesa, pero no determina un plazo a cumplir.
+        coherence:
+            in-line: # in-line, variation, off-line
+                - promises: []
+                - agreements: []
+                - initiatives: []
+                - votes: []
+                - media: []
+    -
+        id: 2
+        specifity:
+            compliance: 'yes'
+            reason: Se define un objetivo claro muy específico.
+        measurability:
+            compliance: 'yes'
+            reason: Salvo que existan excepciones, se trata de una cuestión binaria fácilmente comprobable.
+        realistic:
+            compliance: 'yes'
+            reason: No existen barreras legales o de otro tipo que dificulten lograr el objetivo.    
+        time_bound: 
+            compliance: 'partly'
+            reason: Se da un carácter «urgente» a la promesa, pero no determina un plazo a cumplir.
+    -
+        id: 3
+        specifity:
+            compliance: 'yes'
+            reason: Se define un objetivo claro muy específico.
+        measurability:
+            compliance: 'partly'
+            reason: Salvo que existan excepciones, se trata de una cuestión binaria fácilmente comprobable.
+        realistic:
+            compliance: 'yes'
+            reason: No existen barreras legales o de otro tipo que dificulten lograr el objetivo.    
+        time_bound: 
+            compliance: 'partly'
+            reason: Se da un carácter «urgente» a la promesa, pero no determina un plazo a cumplir.
+    -
+        id: 4
+        specifity:
+            compliance: 'partly'
+            reason: Se define un objetivo claro y específico, pero no se concreta suficientemente la limitación que se quiere imponer.
+        measurability:
+            compliance: 'partly'
+            reason:  Dada la inespecifidad de la limitación a imponer, no se podrá analizar de manera inequívoca el grado de cumplimiento.
+        realistic:
+            compliance: 'yes'
+            reason: No existen barreras legales o de otro tipo que dificulten lograr el objetivo.    
+        time_bound: 
+            compliance: 'partly'
+            reason: Se da un carácter «urgente» a la promesa, pero no determina un plazo a cumplir.
+    -
+        id: 5
+        specifity:
+            compliance: 'partly'
+            reason: Se define un objetivo claro y específico, pero no se concreta suficientemente la limitación que se quiere imponer.
+        measurability:
+            compliance: 'partly'
+            reason: Dada la inconcreción de la limitación a imponer, no se podrá analizar de manera inequívoca el grado de cumplimiento.
+        realistic:
+            compliance: 'yes'
+            reason: No existen barreras legales o de otro tipo que dificulten lograr el objetivo.    
+        time_bound: 
+            compliance: 'partly'
+            reason: Se da un carácter «urgente» a la promesa, pero no determina un plazo a cumplir.
+    -
+        id: 6
+        specifity:
+            compliance: 'partly'
+            reason: Se define un objetivo específico pero no suficientemente claro para la población general.
+        measurability:
+            compliance: 'partly'
+            reason: Salvo que existan excepciones, se trata de una cuestión binaria fácilmente comprobable.
+        realistic:
+            compliance: 'yes'
+            reason: No existen barreras legales o de otro tipo que dificulten lograr el objetivo.    
+        time_bound: 
+            compliance: 'partly'
+            reason: Se da un carácter «urgente» a la promesa, pero no determina un plazo a cumplir.
 
-        statement_coherence:
-            coherent: #yes, no, changes_inline, changes_offline
-            previous_related_statements: 
-        aditional_info: # optional markdown filename
-    
-    - 
-        statement: 
-            quote: Derogaremos las limitaciones al ámbito temporal del convenio colectivo, haciéndolo llegar más allá de las previsiones contenidas en el mismo, tras la finalización de su vigencia y hasta la negociación de uno nuevo.
-            author: PSOE/Unidas Podemos
-            author_type: party # party, politician
-            source_ref:  # optional, if void then will show the main promise source
-            source_details:  # optional, if void the will show the main promise source details
-        
-        statement_quality: # For Goals/Promises use (specifity, measurability, realistic, time_bound), for Assertions use (veracity, relevant, clarity)
-            overall_quality: appropiate
-            specifity:
-                overall_compliance: 'yes'
-                reasons: 
-                    - 
-                        compliance: 'yes'
-                        reason: Se define un objetivo claro muy específico.
-            measurability:
-                overall_compliance: 'yes'
-                reasons:
-                    - 
-                        compliance: 'yes' 
-                        reason: Se trata de una cuestión binaria fácilmente comprobable.
-            realistic:
-                overall_compliance: 'yes'      
-                reasons:
-                    - 
-                        compliance: 'yes'
-                        reason: No existen barreras legales o de otro tipo que dificulten lograr el objetivo.    
-            time_bound: 
-                overall_compliance: partly
-                reasons:
-                    -   
-                        compliance: 'partly'
-                        reason: Se da un carácter «urgente» a la promesa, pero no determina un plazo a cumplir.
-
-        statement_coherence:
-            coherent: #yes, no, changes_inline, changes_offline
-            previous_related_statements: 
-        aditional_info: # optional markdown filename
-    - 
-        statement: 
-            quote: Derogaremos la prioridad aplicativa de los convenios de empresa sobre los convenios sectoriales.
-            author: PSOE/Unidas Podemos
-            author_type: party # party, politician
-            source_ref:  # optional, if void then will show the main promise source
-            source_details:  # optional, if void the will show the main promise source details
-        
-        statement_quality: # For Goals/Promises use (specifity, measurability, realistic, time_bound), for Assertions use (veracity, relevant, clarity)
-            overall_quality: appropiate
-            specifity:
-                overall_compliance: 'yes'
-                reasons: 
-                    - 
-                        compliance: 'yes'
-                        reason: Se define un objetivo claro muy específico.
-            measurability:
-                overall_compliance: partly
-                reasons:
-                    - 
-                        compliance: partly 
-                        reason: Salvo que existan excepciones, se trata de una cuestión binaria fácilmente comprobable.
-            realistic:
-                overall_compliance: 'yes'      
-                reasons:
-                    - 
-                        compliance: 'yes'
-                        reason: No existen barreras legales o de otro tipo que dificulten lograr el objetivo.    
-            time_bound: 
-                overall_compliance: partly
-                reasons:
-                    -   
-                        compliance: 'partly'
-                        reason: Se da un carácter «urgente» a la promesa, pero no determina un plazo a cumplir.
-
-        statement_coherence:
-            coherent: #yes, no, changes_inline, changes_offline
-            previous_related_statements: 
-        aditional_info: # optional markdown filename
-    - 
-        statement: 
-            quote: Modificaremos el art. 42.1 del Estatuto de los Trabajadores sobre contratación y subcontratación laboral a efectos de limitar la subcontratación a servicios especializados ajenos a la actividad principal de la empresa.
-            author: PSOE/Unidas Podemos
-            author_type: party # party, politician
-            source_ref:  # optional, if void then will show the main promise source
-            source_details:  # optional, if void the will show the main promise source details
-        
-        statement_quality: # For Goals/Promises use (specifity, measurability, realistic, time_bound), for Assertions use (veracity, relevant, clarity)
-            overall_quality: improvable
-            specifity:
-                overall_compliance: 'partly'
-                reasons: 
-                    - 
-                        compliance: 'yes'
-                        reason: Se define un objetivo general claro y específico.
-                    - 
-                        compliance: 'partly'
-                        reason: No se detalla suficientemente la limitación que se quiere imponer.
-            measurability:
-                overall_compliance: partly
-                reasons:
-                    - 
-                        compliance: partly 
-                        reason: Dada la inespecifidad de la limitación a imponer, no se podrá analizar de manera inequívoca el grado de cumplimiento.
-            realistic:
-                overall_compliance: 'yes'      
-                reasons:
-                    - 
-                        compliance: 'yes'
-                        reason: No existen barreras legales o de otro tipo que dificulten lograr el objetivo.    
-            time_bound: 
-                overall_compliance: partly
-                reasons:
-                    -   
-                        compliance: 'partly'
-                        reason: Se da un carácter «urgente» a la promesa, pero no determina un plazo a cumplir.
-
-        statement_coherence:
-            coherent: #yes, no, changes_inline, changes_offline
-            previous_related_statements: 
-        aditional_info: # optional markdown filename
-    - 
-        statement: 
-            quote: Limitaremos la capacidad de modificación unilateral de las condiciones del contrato por parte de la empresa.
-            author: PSOE/Unidas Podemos
-            author_type: party # party, politician
-            source_ref:  # optional, if void then will show the main promise source
-            source_details:  # optional, if void the will show the main promise source details
-        
-        statement_quality: # For Goals/Promises use (specifity, measurability, realistic, time_bound), for Assertions use (veracity, relevant, clarity)
-            overall_quality: improvable
-            specifity:
-                overall_compliance: 'partly'
-                reasons: 
-                    - 
-                        compliance: 'yes'
-                        reason: Se define un objetivo general claro y específico.
-                    -
-                        compliance: 'partly'
-                        reason: No se concreta suficientemente la limitación que se quiere imponer.
-            measurability:
-                overall_compliance: partly
-                reasons:
-                    - 
-                        compliance: partly 
-                        reason: Dada la inconcreción de la limitación a imponer, no se podrá analizar de manera inequívoca el grado de cumplimiento.
-            realistic:
-                overall_compliance: 'yes'      
-                reasons:
-                    - 
-                        compliance: 'yes'
-                        reason: No existen barreras legales o de otro tipo que dificulten lograr el objetivo.    
-            time_bound: 
-                overall_compliance: partly
-                reasons:
-                    -   
-                        compliance: 'partly'
-                        reason: Se da un carácter «urgente» a la promesa, pero no determina un plazo a cumplir.
-
-        statement_coherence:
-            coherent: #yes, no, changes_inline, changes_offline
-            previous_related_statements: 
-        aditional_info: # optional markdown filename
-    - 
-        statement: 
-            quote: Revisaremos el mecanismo de inaplicación de los convenios colectivos, orientándolo a descuelgue salarial vinculado a causas económicas graves.
-            author: PSOE/Unidas Podemos
-            author_type: party # party, politician
-            source_ref:  # optional, if void then will show the main promise source
-            source_details:  # optional, if void the will show the main promise source details
-        
-        statement_quality: # For Goals/Promises use (specifity, measurability, realistic, time_bound), for Assertions use (veracity, relevant, clarity)
-            overall_quality: improvable
-            specifity:
-                overall_compliance: 'partly'
-                reasons: 
-                    - 
-                        compliance: 'partly'
-                        reason: Se define un objetivo específico pero no suficientemente claro para la población general.
-            measurability:
-                overall_compliance: partly
-                reasons:
-                    - 
-                        compliance: partly 
-                        reason: Salvo que existan excepciones, se trata de una cuestión binaria fácilmente comprobable.
-            realistic:
-                overall_compliance: 'yes'      
-                reasons:
-                    - 
-                        compliance: 'yes'
-                        reason: No existen barreras legales o de otro tipo que dificulten lograr el objetivo.    
-            time_bound: 
-                overall_compliance: partly
-                reasons:
-                    -   
-                        compliance: 'partly'
-                        reason: Se da un carácter «urgente» a la promesa, pero no determina un plazo a cumplir.
-
-        statement_coherence:
-            coherent: #yes, no, changes_inline, changes_offline
-            previous_related_statements: 
+results:
+    -
+        id:
+        type:
+        compliance:
+            rate: #yes, partly, no
+            reason:
+            sources:
+        potential-impact: 
+            rate: #very-high, high, medium, low, very-low
+            reason:
+            sources:
+        real-impact:
+            rate: #very-high, high, medium, low, very-low
+            reason:
+            sources:
+        achievements:
+        concerns:
+        pending:
         aditional_info: # optional markdown filename
 
 result_analysis:

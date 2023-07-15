@@ -1,0 +1,44 @@
+id: cb28f559-a70d-496c-9079-5258d48cac85
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    text: pag. 24, art. 1.2 III
+categories:
+    - Economía, trabajo y hacienda
+    - Educación, ciencia y tecnología
+    - Derechos y servicios sociales
+title: La digitalización al servicio del trabajo decente
+tags: [digitalización]
+statements:
+  -
+    id: 1
+    quote: <b>Garantizaremos que la digitalización esté al servicio del trabajo decente,</b> haciendo uso de la inteligencia artificial y de la tecnología algorítmica para la limitación y el control efectivo del tiempo de trabajo, impidiendo así la prolongación de la jornada más allá de lo previsto en el convenio colec tivo y llevando las tecnologías digitales al ámbito de la protección de la seguridad y la salud de las personas trabajadoras.
+  -
+    id: 2
+    quote: <b>Estableceremos mecanismos que garanticen una compensación social y económica de los tiempos dedicados a la producción como consumidor _(prosumer),_</b> especialmente en sectores como el bancario, en el que resultan especialmente afectadas las personas mayores.
+  -
+    id: 3
+    quote: <b>Reforzaremos la participación sindical en el diseño, la regulación y la evaluación de los algorit mos en el ámbito laboral</b> para prevenir y eliminar los sesgos discriminatorios o, en cualquier caso, contrarios a la dignidad de las personas. Se debe garantizar, igualmente, el derecho de las personas  trabajadoras sujetas a decisiones empresariales automatizadas a ser informadas por la empresa. Es un derecho de las personas trabajadoras, y de sus representaciones sindicales y unitarias, ser debidamente informadas en los supuestos de utilización de sistemas automatizados de toma de decisiones, de seguimiento o de vigilancia. Asimismo reconoceremos a la representación sindical y colectiva sus derechos colectivos digitales, asegurando su ordenación legal y garantizando los es pacios necesarios a la negociación en común, de conformidad con la carta digital europea.
+  -
+    id: 4
+    quote: <b>Estableceremos limitaciones estrictas al poder de dirección y control de la actividad laboral,</b> específicamente cuando se desarrolle a distancia, y en especial mediante el uso de medios audio visuales sobre las trabajadoras y los trabajadores, un control a distancia de su actividad laboral por geolocalización, así como la posibilidad de registros y cacheos personales.
+  -
+    id: 5
+    quote: <b>Implantación del CV ciego.</b> No constarán imágenes personales, la edad ni el sexo de candidatos y las candidatas a un proceso de selección.
+  -
+    id: 6
+    quote: <b>Protección del derecho a la indemnidad por la utilización de redes sociales.</b> Reconoceremos el derecho a la indemnidad en redes sociales, de modo que nadie pueda ser sancionado o despedido por el contenido recogido en sus redes sociales, que tampoco podrá ser tenido en cuenta dentro de un proceso de selección o contratación.
+  -
+    id: 7
+    quote: <b>Reconocimiento del derecho a la intimidad en los controles por reconocimiento facial.</b> La gene ralización del teletrabajo determina la necesidad de clarificar los derechos de las personas trabajado ras frente a estos sistemas de control empresarial que actúan en remoto. Se reconocerá el derecho a la intimidad en los controles por reconocimiento facial de las personas trabajadoras en teletrabajo, debiendo la empresa abstenerse del uso de dispositivos de reconocimiento facial (o similares), que impliquen la captación de imágenes, incluidos datos biométricos, de la persona trabajadora dentro de su domicilio o en un local escogido por esta para el desarrollo del trabajo a distancia.
+  -
+    id: 8
+    quote: <b>Implementaremos la auditoría algorítmica.</b> El sesgo algorítmico ocurre cuando un sistema in formático refleja los valores de los humanos que están implicados en la codificación y la recolección de datos usados para entrenar el algoritmo. La legislación no recoge medidas específicas para la protección de las personas trabajadoras en el ámbito de las empresas frente a la discriminación de rivada del uso de algoritmos. Con la auditoría algorítmica, sistema de verificación con un contenido mínimo determinado reglamentariamente, la empresa deberá demostrar que el sistema de inteli gencia artificial utilizado en el ámbito laboral no incorpora sesgos que puedan traducirse en discri minación. Esta auditoría estará a disposición de la representación de las personas trabajadoras, de estas mismas cuando no exista RLT y de la Inspección de Trabajo y Seguridad Social.
+  

@@ -1,0 +1,43 @@
+id: 9ee370ee-9dbd-448d-a5b0-ef5db0b7e4c6
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    text: pag. 25, art. 1.2 IV
+categories:
+    - Economía, trabajo y hacienda
+    - Cultura y deportes
+    - Derechos y servicios sociales
+    - Justicia
+title: Avanzar en la mejora de las condiciones de trabajo y la garantía de los derechos laborales
+statements:
+  -
+    id: 1
+    quote: <b>Garantizaremos la subida del SMI como palanca que haga incrementar el conjunto de los sala rios y contribuya a reactivar la economía.</b> Haber alcanzado, con los 1.080 €, el 60% del salario me dio, si bien es un gran avance, no es suficiente en un país que tiene salarios un 25% por debajo de la media de los países de la Eurozona.
+  -
+    id: 2
+    quote: <b>Llevaremos a cabo un control efectivo de la brecha salarial utilizando el algoritmo HER.</b> Du rante la anterior legislatura desarrollamos los «instrumentos de la transparencia», como el registro retributivo, la valoración de puestos de trabajo o la auditoría salarial. Estos elementos pretenden darnos una medida de las causas y la magnitud de la brecha salarial para poder actuar sobre estas de forma más efectiva. Ahora es el momento de utilizar la información existente para llevar a cabo actuaciones específicas y quirúrgicas en esta materia. Todas las empresas deberán volcar la infor mación de sus registros retributivos (y, en el caso de las empresas que realicen planes de igualdad, también la información sobre la valoración de puestos de trabajo) en el sistema centralizado que se  creará al efecto. La información contenida en dicho sistema será integrada en el algoritmo HER, a partir de cuya explotación se desarrollarán las actuaciones de la Inspección de Trabajo y Seguridad Social en materia de brecha salarial de género.
+  -
+    id: 3
+    quote: <b>Reforzaremos las garantías de las personas trabajadoras en las modificaciones sustanciales de las condiciones de trabajo y en los descuelgues.</b> Revisaremos las causas para que solo en situacio nes que afecten a la viabilidad de la empresa se pueda recurrir a estos procedimientos, que deberán ser negociados, dando prioridad a la negociación con las organizaciones sindicales y garantizando el carácter reversible de las medidas adoptadas.
+  -
+    id: 4
+    quote: <b>Estableceremos garantías para las personas trabajadoras frente al despido mediante un sistema restaurativo y disuasorio, así como mediante el reforzamiento de la causalidad en los supuestos de extinción de la relación laboral.</b> Ello implica el derecho del trabajador a la readmisión o a la indemniza ción por despido improcedente, incluyendo el cese durante el periodo de prueba. En ambos casos, se reconocerá el derecho a una indemnización adicional que compense efectivamente el daño causado en atención a las circunstancias del despido y a la capacidad económica de la empresa.
+  -
+    id: 5
+    quote: <b>Protección frente a las deslocalizaciones.</b> La creciente globalización propicia también otros fenómenos (como la deslocalización de empresas) que tienen consecuencias negativas sobre el tejido productivo y el mercado de trabajo. Estas deslocalizaciones persiguen una reducción de los costes empresariales mediante el traslado de ciertas actividades productivas, con frecuencia in tensivas en mano de obra, hacia terceros países que cuentan con sistemas regulatorios débiles en materia fiscal, de seguridad industrial o laboral, o donde la supervisión de su cumplimiento efectivo es laxa. Las empresas que decidan el traslado de su actividad industrial, productiva o de negocio a territorios que no formen parte de los Estados miembros de la Unión Europea o de los Estados sig natarios del Acuerdo sobre el Espacio Económico Europeo no podrán adoptar medidas de despido colectivo, modificación sustancial de las condiciones de trabajo o inaplicación de condiciones de trabajo previstas en convenio; en caso de utilización de medidas individuales, deberán reintegrar las ayudas recibidas y serán penalizadas en el acceso a la contratación pública.
+  -
+    id: 6
+    quote: <b>Protección a las personas empleadas del hogar.</b> Los avances decisivos que en esta legislatura se han producido en la protección de las personas empleadas del hogar deben continuar a través del desarrollo reglamentario de su derecho a la prevención de riesgos laborales y abordando otras cuestiones que no pudieron incluirse por motivos formales en el RDL 16/2022, especialmente el su puesto de las internas. Es preciso, también, avanzar en sistemas que permitan a la ITSS ser más efi caz en este ámbito y abordar la cuestión de las personas empleadas del hogar migrantes carentes de autorización, así como la de aquellas que prestan sus servicios en situaciones transfronterizas.
+  -
+    id: 7
+    quote: <b>Seguiremos protegiendo el trabajo en la cultura.</b> Las medidas legislativas adoptadas durante esta legislatura para el desarrollo del Estatuto del Artista han de valorarse como históricas, particularmente las referidas al ámbito laboral (la modernización de la regulación de las relaciones la borales del personal artístico, técnico y auxiliar y el reconocimiento de una prestación especial de desempleo) y al de la seguridad social (compatibilidad de las prestaciones con otras actividades y especialidades en cotización). Pero aún queda trabajo por desarrollar; 1) En la fiscalidad, asegurando un trato adecuado de los gastos y la compensación de ganancias en varios años, dado el carácter irregular de las rentas. 2) En la regulación de las enseñanzas artísticas superiores y sus equivalencias con las enseñanzas artísticas profesionales. 3) En el campo de las transiciones profesionales, estableciendo procedimientos y mecanismos que permitan procesos de reciclaje y formación paralelos a la protección social mientras se accede a otros ámbitos profesionales.  4) En materias relativas a la compatibilidad y la adaptación de las ayudas por cese de actividad. Por otro lado, es necesario mantener en funcionamiento e impulsar los grupos de trabajo, previstos en la ley, relativos a las enfermedades de las personas artistas y al estudio del sistema de cotizaciones a la seguridad social. Finalmente, es preciso abordar un tratamiento global y holístico del mundo de la cultura que permi ta la adopción coordinada de medidas de distintos tipos, pero siempre con una doble finalidad. por  un lado, convertir el sector de la cultura en un ámbito de desarrollo económico que incremente la cantidad y calidad del empleo y, por otro, convertir el mundo de la cultura, su actividad, su industria, sus personas en una referencia, en una marca de país."
+  -
+    id: 8
+    quote: <b>Crearemos una unidad de la fiscalía especializada en los delitos contra los derechos de los trabajadores,</b> así como la modificación de estos delitos, para hacer más eficaz su persecución, y la incorporación de nuevas formas de criminalidad laboral en línea con lo ya realizado en el nuevo artí culo 311.2º del Código Penal.

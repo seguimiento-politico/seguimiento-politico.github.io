@@ -1,0 +1,40 @@
+id: 3fd44ce6-f999-4abf-9ad9-482bb5589193
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    text: pag. 27, art. 1.2 VI
+categories:
+    - Economía, trabajo y hacienda
+    - Educación, ciencia y tecnología
+    - Derechos y servicios sociales
+title: Trabajo de calidad, compatible con la formación y el estudio
+statements:
+  -
+    id: 1
+    quote: <b>Facilitaremos la culminación de los estudios de las personas que abandonan la formación obli gatoria en el marco de un trabajo decente.</b> El abandono de la formación obligatoria sigue siendo un problema en nuestro país. Es imprescindible fomentar el uso de la contratación formativa para que se logre reducir la tasa de abandono prematuro de los estudios.
+  -
+    id: 2
+    quote: <b>Prestaremos ayuda técnica a la solicitud y la gestión de ayudas a la formación.</b> Los servicios de empleo dispondrán de una unidad específica que promueva y facilite la gestión para que desa rrollen, de manera real y efectiva, la formación para personas autónomas de actividad empresarial, personas socias trabajadoras y para el personal empleado.
+  -
+    id: 3
+    quote: <b>Garantizaremos una oferta formativa específica para personas autónomas y socias trabajado ras.</b> Los servicios de empleo, en coordinación con las entidades que representan a las empresas de economía social (cooperativas, sociedades laborales, etcétera), garantizarán anualmente en cada territorio una oferta formativa, preferentemente acreditable, mínima y ajustada a las necesidades de tales empresas y de las socias y los socios trabajadores. En todo caso, dentro de dicha formación se incluirá necesariamente la relativa a la gestión y la dirección de este tipo de empresas. Esta misma acción pública se extenderá a las personas trabajadoras autónomas, adaptándose a sus necesida des en relación con sus iniciativas empresariales.
+  -
+    id: 4
+    quote: <b>Establecimiento de un crédito mínimo para formación y bonificaciones de la cuota.</b> Se ga rantizará a las personas autónomas y a las empresas de pequeña dimensión un crédito mínimo para formación acreditable de las personas trabajadoras que empleen.Cuando la persona autó noma y, en su caso, un determinado porcentaje de las personas empleadas por tales empresas o personas autónomas hayan realizado formación acreditable en el año natural, se tendrá además derecho a una bonificación de la cuota correspondiente a formación profesional en el año pos terior. Se reconocerá el derecho a una bonificación en la cotización por contingencias comunes correspondiente a las horas que la persona trabajadora esté realizando formación acreditable. En el caso de que tal formación beneficie a personas trabajadoras temporales de la empresa, el cré-  dito disponible se incrementará y se tendrá derecho a una bonificación adicional sobre la cuota por desempleo.
+  -
+    id: 5
+    quote: <b>Reconoceremos un permiso anual para formación.</b> Las personas trabajadoras, incluidas las personas socias trabajadoras y autónomas de actividad empresarial, tendrán derecho a un per miso anual para formación acreditable. Durante dicho permiso, la empresa o la persona autónoma tendrán derecho a una bonificación de las cuotas empresariales y la persona trabajadora se consi derará en situación legal de desempleo a efectos de percibir prestación por desempleo durante la misma.
+  -
+    id: 6
+    quote: <b>Incrementaremos a las empresas que no realicen formación para su personal durante un año natural</b> la cuota por este concepto en el año siguiente en un determinado porcentaje.
+  -
+    id: 7
+    quote: <b>Reconoceremos el derecho a que hasta treinta días de la prestación por desempleo no se con sidere consumida y sí como días cotizados a las personas fijas-discontinuas que durante sus perio dos de inactividad realicen formación acreditable.</b> En el caso de que dicha formación sea planifica da por su empresa, esta tendrá derecho a una bonificación en las cuotas empresariales.
+  

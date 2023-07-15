@@ -1,0 +1,39 @@
+id: 3d7cff4f-33e5-4e26-ae03-c71b3cece070
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    text: pag. 31, art. 1.2 IX
+categories:
+    - Economía, trabajo y hacienda
+    - Derechos y servicios sociales
+title: Entornos laborales seguros y saludables
+statements:
+  -
+    id: 1
+    quote: <b>Crearemos mecanismos eficaces que garanticen la protección de las personas trabajadoras, especialmente de las que desarrollan el trabajo a distancia.</b> La creciente conectividad resultante de las tecnologías de la información y las comunicaciones ha hecho posible el teletrabajo, que aumen tó durante la crisis del COVID-19 y es probable que se mantenga junto a las modalidades de trabajo «híbridas». Ha facilitado una mayor flexibilidad en la organización del trabajo, ha preservado pues tos de trabajo y ha mantenido la protección de las personas trabajadoras en muchos países durante la pandemia; pero también el teletrabajo puede ser fuente de un estrés importante si no se asegu ran y se respetan los límites al tiempo de trabajo y la protección para que las trabajadoras y los tra bajadores puedan desconectarse, de conformidad con la regulación nacional y por acuerdo entre las partes. Los desafíos también incluyen la protección de los datos personales de las trabajadoras y los trabajadores y su derecho a la vida privada, el impacto de las decisiones automatizadas en los derechos laborales, en el empleo y en la asignación de tareas, así como la prevención de los riesgos de salud mental y psicosociales.
+  -
+    id: 2
+    quote: <b>Protegeremos a todas las personas trabajadoras de la violencia y el acoso laboral.</b> Tras la entra da en vigor en España del Convenio sobre la violencia y el acoso de 2019 (núm. 190), que amplía los márgenes de lo que es el acoso en el mundo laboral, deben realizarse los ajustes que sean precisos para establecer una ordenación jurídica integrada, que ofrezca un marco específico de prevención y de protección eficaz de todas las personas que sufren violencia o acoso laboral.
+  -
+    id: 3
+    quote: <b>Promoveremos estrategias de seguridad y de salud en el trabajo con el propósito de garanti zar cero muertes y de prevenir las lesiones y las enfermedades relacionadas con el trabajo.</b> Debe, asimismo, garantizarse el acceso a las prestaciones de seguridad social pertinentes, y desarrollar políticas y sistemas de gestión de la seguridad y la salud en el trabajo eficaces, incluyendo políti cas y sistemas que tengan en cuenta riesgos nuevos y los ya existentes. Trabajar no puede implicar arriesgar la vida y la salud, como por desgracia ocurre con demasiada frecuencia.
+  -
+    id: 4
+    quote: <b>Adaptaremos el trabajo a las personas.</b> Para ello, se han de tener especialmente en cuenta las características particulares de cada persona que trabaja. En ese sentido, las mujeres, a pesar de lo dispuesto en las normas, no han tenido la suficiente mirada protectora específica que necesitan. Sectores muy feminizados, como el de cuidados o los servicios, presentan un preocupante aumen to de los riesgos psicosociales. Por otra parte, en sectores como la limpieza de edificios, peluquería o cosmética se utilizan productos cuyas consecuencias sobre la salud parcialmente se desconocen, por lo que se deben aumentar los controles, los análisis y la vigilancia sobre ellos. Hay riesgos emer gentes que atajar, como los que afectan a la salud mental, con especial incidencia en las personas trabajadoras del sector sanitario después de la pandemia, por lo que es obligado «cuidar a los que nos cuidan». Todo ello sobre la base de que el derecho a la salud y a la seguridad en el trabajo con diciona las facultades empresariales de organización del trabajo y de ordenación del tiempo de trabajo.
+  -
+    id: 5
+    quote: <b>Garantizaremos una eficaz protección de la salud y la seguridad de las personas trabajadoras en las empresas con una plantilla inferior a cincuenta personas.</b> El 97% de las empresas españo las tiene menos de cincuenta personas trabajadoras, siendo en este tipo de empresas donde se aprecia un menor cumplimiento de la normativa de prevención de riesgos. El 60% de los accidentes mortales se producen en empresas con menos de veinticinco personas trabajadoras. Es urgente hacer un esfuerzo especial para garantizar la protección eficaz de la salud y la seguridad de las per sonas trabajadoras en estas empresas; para ello, se creará la figura del delegado sindical territorial de seguridad. Es bien sabido, por otra parte, que en empresas de pequeño tamaño la representa ción sindical es mucho más débil que en las grandes, en las que el número de accidentes de trabajo y enfermedades profesionales es precisamente mucho menor, no solo por su mayor capacidad para actuar en esta materia, sino también por la mayor vigilancia que la representación sindical de las personas trabajadoras ejerce sobre ellas.
+  -
+    id: 6
+    quote: <b>Adaptación de la prevención de los riesgos laborales y el derecho a la salud a los desafíos que abre el cambio climático.</b> Es necesario proteger a las personas trabajadoras ante las situaciones, cada vez más frecuentes, de altas temperaturas, a través, entre otras medidas, del establecimiento de protocolos y planes de actuación que tengan en cuenta las diferentes variables que conforman una situación de riesgo.
+  -
+    id: 7
+    quote: <b>Anticiparemos las indemnizaciones a los familiares de las víctimas de accidentes de trabajo mortales y les prestaremos atención y ayuda psicológica.</b>
+  

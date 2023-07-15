@@ -1,0 +1,41 @@
+id: 063c3234-6ef1-40c7-92ab-19f5745ca418
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    text: pag. 28, art. 1.2 VII
+categories:
+    - Economía, trabajo y hacienda
+title: Un trabajo autónomo por elección y con garantías
+statements:
+  -
+    id: 1
+    quote: <b>Trabajo autónomo con garantías y valor reconocido,</b> con prestaciones sociales adecuadas (jubilación, subsidio para mayores de 52 años, cese de actividad, con especial atención al cese por causas económicas, etcétera), con una fiscalidad que permita alcanzar un modelo de tributación más equitativo; con derechos formativos adaptados a sus necesidades; con derechos de concilia ción; con ayudas específicas para el establecimiento y el desarrollo de su actividad en entornos con riesgo de despoblación o con población envejecida; con medidas de orientación, acompañamiento y apoyo económico para impulsar iniciativas, en sectores emergentes y de energías renovables, la información y la comunicación, así como en la recuperación de oficios y servicios de proximidad.
+  -
+    id: 2
+    quote: <b>Simplificaremos los trámites administrativos y de gestión,</b> acelerando la digitalización de la Ad ministración, aplicando las nuevas tecnologías de la información para la coordinación entre admi nistraciones de manera que se acorten y se optimicen los plazos de puesta en marcha de la inicia tiva empresarial y desplegando, con la dotación económica correspondiente la Estrategia Nacional de Impulso del Trabajo Autónomo 2023-2027, con la participación de todos los ministerios.
+  -
+    id: 3
+    quote: <b>Iniciativa joven con garantías.</b> Diseñar incentivos y ayudas específicas para las personas jóvenes que elijan lanzar una iniciativa empresarial individual o colectiva. Ampliar la aplicación de estos incentivos y ayudas a las mujeres que decidan emprender. Generar las alianzas público-privadas para garantizar el acceso a la financiación a jóvenes y mujeres. Activar todos los puntos públicos de orientación, formación y acompañamiento a la iniciativa empresarial. Fomentar las alianzas entre el talento joven y el talento sénior. Más conocimiento, más proyecto.
+  -
+    id: 4
+    quote: <b>Ampliaremos la cultura de la prevención de riesgos en el trabajo autónomo</b> con nuevos progra mas financiados públicamente para formar en la autoprevención de riesgos adaptados a la activi dad desarrollada, con tiempos de formación subvencionados, profundizando en la cultura del au tocuidado, con formaciones específicas en gestión de los usos del tiempo en el trabajo autónomo, con políticas públicas de apoyo a la salud mental en el trabajo autónomo.
+  -
+    id: 5
+    quote: <b>Actualizaremos la representatividad del colectivo de autónomos</b> mediante un sistema de me dición de la representatividad basado en principios democráticos y la puesta en marcha del Consejo del Trabajo Autónomo.
+  -
+    id: 6
+    quote: <b>Apoyaremos a las personas trabajadoras autónomas en situación de bajos ingresos con un ré gimen específico de cotización.</b> Cuando los ingresos reales percibidos por la persona trabajadora autónoma sean inferiores al SMI anual por causas objetivas, tales como las condiciones del merca-  do o el inicio de actividad, se podrá acoger a una cotización fija bonificada sin pérdida de derechos de protección.
+  -
+    id: 7
+    quote: <b>Crearemos normas específicas de tributación para las personas autónomas y socias coope rativistas que realicen actividades empresariales y cuyas rentas no sean superiores a una deter minada cantidad económica anual.</b> Estas normas recogerán el derecho a que se compensen los ejercicios negativos sin límite de tiempo (actualmente están limitados a los cuatro años siguientes, mientras que las sociedades no tienen límite temporal) y la tributación por el tipo inferior hasta cierta cantidad que sea superior a la actual de los primeros 12.500€. En el caso de que las personas autónomas que desarrollen actividades empresariales se agrupen con otras en una cooperativa de servicios, las bonificaciones en la cuota o el tipo impositivo especial serán mejorados en un deter minado porcentaje.
+  -
+    id: 8
+    quote: <b>Reconoceremos a las personas autónomas dependientes de un cliente el derecho a las condi ciones económicas y de jornada máxima</b> previstas en el convenio colectivo aplicable a dicha em presa-cliente.
+  

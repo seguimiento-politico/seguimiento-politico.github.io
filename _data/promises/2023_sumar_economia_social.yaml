@@ -1,0 +1,66 @@
+id: 6e6d5819-d8f0-4fe7-834c-b711e87b175c
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    text: pag. 29, art. 1.2 VIII
+categories:
+    - Economía, trabajo y hacienda
+    - Derechos y servicios sociales
+title: Economía social
+statements:
+  -
+    id: 1
+    quote: <b>Incentivaremos la promoción de proyectos empresariales de economía social,</b> simplificando los trámites administrativos; eliminando trabas disuasorias a proyectos empresariales colectivos; for jando alianzas que garanticen el acceso a financiación privada (a través de finanzas éticas) y pública (mediante mecanismos de crédito e inversión estatales); desarrollando una legislación fiscal que tenga en cuenta el valor económico de la aportación social de estas empresas; consolidando y opti mizando mecanismos como la capitalización del desempleo; con ayudas específicas para las perso nas más jóvenes y para las mujeres; con recursos económicos focalizados en sectores emergentes como las energías renovables, la innovación tecnológica o la regeneración económica y social de entornos rurales y urbanos.
+  -
+    id: 2
+    quote: <b>Apoyo a las empresas de economía social que incorporen a nuevas socias y a las personas que decidan adherirse a proyectos en marcha.</b> Las personas más jóvenes comparten los valores propios de la economía social; trabajo activista para vivir mejor. Por ello, vamos a desarrollar una tecnología que automatice la detección de necesidades de empleo en las empresas de economía social para garantizar puestos de trabajo y el mantenimiento de empresas arraigadas en el territorio y sosteni bles en el tiempo, garantizando el relevo generacional; introduciendo reformas legales que garanti cen un desembolso gradual y adaptado a las capacidades económicas de las personas que quieren realizar la aportación inicial para ser socias de entidades ya constituidas; incentivando económica mente, y a través de cláusulas sociales en la contratación pública, a las empresas que incorporen nuevas socias, especialmente jóvenes y mujeres; apoyando, con el kit formación-aportación social, a las personas que elijan adherirse a proyectos de economía social.
+  -
+    id: 3
+    quote: <b>Aplicaremos las nuevas tecnologías y algoritmos transparentes a la detección de empresas en riesgo de cierre por crisis económica o falta de relevo generacional y ponerlas al servicio de las personas trabajadoras que deseen continuar con la actividad empresarial como dueños de la em presa.</b> Esto se llevará a cabo financiando la tecnología que permita identificar estas situaciones y poniéndola al servicio de las organizaciones sindicales y representativas del sector de la economía social para trabajar en el mantenimiento del empleo y la supervivencia de la empresa junto con las personas trabajadoras; activando simultáneamente los servicios públicos que garanticen el aseso ramiento, el acompañamiento y el apoyo económico de esta transición al empleo en la economía social.
+  -
+    id: 4
+    quote: <b>Estrategia para la economía social española.</b> Se incrementará el presupuesto para financiar la implementación de las medidas acordadas con el sector en la Estrategia Española de la Economía Social 2023-2027. Se facilitará la identificación de productos y servicios de calidad que provengan de la economía social, un modelo replicable. Se desarrollarán políticas públicas que garanticen el  acceso a la digitalización y a la internacionalización de las empresas de la economía social, hacién dolas más competitivas y fortaleciendo nuestro tejido económico y social a medio y largo plazo.
+  -
+    id: 5
+    quote: <b>Relocalizaremos la producción y los servicios a través de empresas de economía social basadas en una inversión no especulativa.</b> Se diseñarán estrategias públicas participadas para la relocaliza ción de la producción y los servicios arraigados en nuestro territorio de manera que se garanticen y se optimicen las cadenas de suministro (producción de chips y microchips; baterías de coches eléctricos; producción sostenible de cereal). Se apoyará económicamente la relocalización a través de empresas y redes empresariales de economía social. Se dará impulso a procesos de cualificación y recualificación para garantizar la generación de empleo y autoempleo de calidad, con especial atención en las zonas de mayor despoblación. Se promoverán alianzas científicas-productivas con el tejido económico social para garantizar la innovación permanente y la sostenibilidad de la activi dad empresarial relocalizada (por ejemplo, la innovación en los usos de los recursos hídricos y nue vas formas de movilidad).
+  -
+    id: 6
+    quote: <b>Incorporaremos la formación en economía social y cooperativa en todos los niveles educativos</b> mediante reformas legales que lo incorporen en los currículos y alianzas público-privadas para ga rantizar el aprendizaje basado en la práctica.
+  -
+    id: 7
+    quote: <b>Ofreceremos garantías a la iniciativa joven en la economía social</b> mediante ayudas específicas a la constitución de empresas de economía social (cooperativas, sociedades laborales), así como para la adhesión a empresas de la economía social ya constituidas.
+  -
+    id: 8
+    quote: <b>Impulsaremos las empresas y los empleos de economía social en sectores emergentes</b> a través de una regulación adecuada para las nuevas formas de organización ciudadana en torno a coo perativas de energía; para las nuevas formas de cooperativas de vivienda de cesión en uso, que permiten la organización de las personas para decidir cómo vivir su etapa activa tras la jubilación, o acceder a viviendas más asequibles y sostenibles.
+  -
+    id: 9
+    quote: <b>Fomentaremos las cooperativas de consumo</b> que permitan decidir y participar en la compra de productos que cuiden nuestra salud, con precios asequibles, en entornos rurales y urbanos, tales como ecomercados o tiendas que ofrezcan productos de segunda mano.
+  -
+    id: 10
+    quote: <b>Apoyaremos la labor de inclusión y de lucha frente a las brechas de desigualdad</b> a través de empresas de economía social. Se implementarán las reformas legales necesarias para actualizar la regulación de las empresas de inserción y de otras entidades de economía social, para garantizar el cumplimiento de su objeto social; favorecer la inclusión de personas en riesgo de vulnerabilidad social a través de la generación de empleo de calidad. Se harán cumplir los porcentajes de reserva de la contratación pública para aquellas empresas de la economía social que acrediten su balance económico y su impacto social. Se incrementarán los porcentajes de reserva de la contratación pública para las empresas de la economía social que reinviertan la totalidad de sus beneficios en la propia entidad y en la mejora de su balance social.
+  -
+    id: 11
+    quote: <b>Promoveremos la inclusión de la economía social en el plan estadístico nacional</b> e incluir a las organizaciones representativas de la economía social en el Consejo Superior de Estadística, con el fin de conocer mejor la contribución a la generación de empleo y al crecimiento socioeconómico de estas empresas.
+  -
+    id: 12
+    quote: <b>Estableceremos incentivos a la calidad en el trabajo.</b> Aquellas cooperativas, y otras sociedades laborales, que acrediten el cumplimiento de los mínimos previstos en el convenio de aplicación al sector para sus socias y socios de trabajo tendrán derecho a una bonificación de la cuota por con tingencias comunes. En el caso de superar esos mínimos, dicho porcentaje se podrá elevar hasta un determinado porcentaje adicional.
+  -
+    id: 13
+    quote: <b>Aprobaremos una ley marco básica estatal</b> que regule los mínimos para las cooperativas y las sociedades laborales, estableciendo un número máximo de personas asalariadas, condiciones míni mas de trabajo, etcétera.
+  -
+    id: 14
+    quote: <b>Reconoceremos las cooperativas o sociedades laborales dependientes</b> (aquellas cuyos ingre sos dependen de un cliente en al menos un determinado porcentaje). En estos casos, la empresa cliente abonará la diferencia entre la remuneración de las socias y los socios-trabajadores y la que perciban sus propias personas empleadas de nivel equivalente.
+  -
+    id: 15
+    quote: <b>Facilitaremos que empresas en crisis puedan ser recuperadas por personas trabajadoras por medio de cooperativas de trabajo asociado,</b> diseñando políticas públicas que lo faciliten.
+  -
+    id: 16
+    quote: <b>Estableceremos programas de ayudas a entidades representativas de la economía social para la creación de plataformas empresariales que posibiliten la intercooperación,</b> creando sinergias que mejoren la capacidad competitiva de las empresas de economía social.
+  
