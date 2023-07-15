@@ -24,6 +24,7 @@
 
   // Find any within a facet
   function foundAny(facets, compareItem) {
+    
     // No facets selected, show all for this facet
     if (_.isEmpty(facets)) {
       return true;
@@ -33,6 +34,15 @@
       if (found) {
         return found;
       }
+      
+      var tryThis = compareItem[facet['facet']].split('; ');
+      for (var i=0, j=tryThis.length; i<j; i++) {
+        console.log(tryThis[i].toLowerCase().replace(/\s/g, ""));
+        if (tryThis[i].toLowerCase().replace(/\s/g, "") == facet['value'].toLowerCase().replace(/\s/g, "")) {
+          return true;
+        }
+      }
+      return false;
       return compareItem[facet['facet']] === facet['value'];
     }, false);
   }
@@ -78,7 +88,7 @@
       var facet = $(this).data('list-facet'); // ie 'list-category or list-status'
       var value = $(this).data('facet-value'); // ie 'Culture'
       var isSingle = !!$(this).data('select-single'); // ie true/false for if there can only be one of this filter
-
+      
       // Single-select categories should have their active state wiped
       if (isSingle) {
         $facets
@@ -98,6 +108,7 @@
           isSingle: !!$(this).data('select-single')
         };
       }).get();
+      
 
       // When deselecting last, clear all filters
       if (facets.length === 0) {
@@ -109,7 +120,7 @@
       promiseList.filter(function(item) {
 
         var itemValues = item.values();
-
+        
         // Single selects, eg "Not started"
         var single = _.filter(facets, ['isSingle', true]);
         var foundSingle = foundAny(single, itemValues);

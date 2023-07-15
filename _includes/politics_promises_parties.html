@@ -74,12 +74,15 @@
                             </td>
                             <td>  
                                 <div>
+                                    <span class="d-none d-lg-block list-category">
+                                        {% for category in item.categories %}
+                                            {% assign category_data = categories_data | where: "name", category | first %}
+                                            {{ category_data.name }}{% if forloop.last == false %}; {% endif %}
+                                        {% endfor %}
+                                    </span>
                                     {% for category in item.categories %}
                                         {% assign category_data = categories_data | where: "name", category | first %}
-                                        
-                                            <!--<span class="d-none d-sm-block list-category">{{ category_data.name }}</span>-->
-                                            <i class="text-muted fas fa-fw fa-{{ category_data.icon }}" title="{{ category_data.name }}"></i>
-                                        
+                                        <i class="text-muted fas fa-fw fa-{{ category_data.icon }}" title="{{ category_data.name }}"></i>
                                     {% endfor %}
                                 </div>
                             </td>
