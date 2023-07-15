@@ -1,0 +1,44 @@
+id: a6e1b090-7e1d-49b3-a30e-3d19c25f5c66
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: afa27807-23cd-4d97-98a6-7e1a5d15f2e3
+    text: "pag. 36, art. 1.2 I"
+categories:
+    - Medioambiente
+    - Derechos y servicios sociales
+title: "La transición ecológica justa (TEJ)"
+description: "El proceso de reorganización de la vida en común que tiene por finalidad garantizar una vida digna a todas las personas, en un planeta con límites ya superados, que compartimos y que estamos obligados a cuidar para las próximas generaciones. La transición ecológica justa (TEJ) tiene los siguientes objetivos:"
+statements:
+  -
+    id: 1
+    quote: "<b>Garantizar que todas las personas y comunidades puedan disfrutar de una vida segura y digna compatible con la restauración y la preservación de sus entornos sociales, naturales y territoriales.</b>"
+  -
+    id: 2
+    quote: "<b>Descarbonizar el sistema económico y reducir la huella ecológica para compatibilizar la cobertura de las necesidades sociales con el abordaje del cambio climático y las biocapacidades nacionales y globales.</b>"
+  -
+    id: 3
+    quote: "<b>Adaptar el universo del trabajo y empleo a las circunstancias de la crisis ecológica y climática y sus consecuencias sociales.</b>"
+  -
+    id: 4
+    quote: "<b>Desplegar procesos que hagan frente a las situaciones de contingencia y urgencia derivadas de los efectos de la crisis ecológica y climática.</b>"
+  -
+    id: 5
+    quote: "<b>Detener los principales procesos de destrucción ecológica, restaurar y favorecer la resiliencia de los ecosistemas clave del país y proteger la vida en el planeta.</b>"
+  -
+    id: 6
+    quote: "<b>Transitar hacia modelos territoriales justos y sostenibles que generen nuevas relaciones de cooperación entre los ámbitos urbanos, rurales y naturales.</b>"
+  -
+    id: 7
+    quote: "<b>Invertir en investigación y tecnociencia orientadas a resolver los retos que plantea una transición ecológica justa.</b>"
+  -
+    id: 8
+    quote: "<b>Construir un soporte económico y financiero que haga viable la transición ecológica justa.</b>"
+
+  

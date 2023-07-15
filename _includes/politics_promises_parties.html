@@ -76,10 +76,10 @@
                                 <div>
                                     {% for category in item.categories %}
                                         {% assign category_data = categories_data | where: "name", category | first %}
-                                        <p>
-                                            <span class="d-none d-sm-block list-category">{{ category_data.name }}</span>
+                                        
+                                            <!--<span class="d-none d-sm-block list-category">{{ category_data.name }}</span>-->
                                             <i class="text-muted fas fa-fw fa-{{ category_data.icon }}" title="{{ category_data.name }}"></i>
-                                        </p>
+                                        
                                     {% endfor %}
                                 </div>
                             </td>
