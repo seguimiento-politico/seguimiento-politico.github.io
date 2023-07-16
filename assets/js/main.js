@@ -34,16 +34,14 @@
       if (found) {
         return found;
       }
-      
+
       var tryThis = compareItem[facet['facet']].split('; ');
       for (var i=0, j=tryThis.length; i<j; i++) {
-        console.log(tryThis[i].toLowerCase().replace(/\s/g, ""));
         if (tryThis[i].toLowerCase().replace(/\s/g, "") == facet['value'].toLowerCase().replace(/\s/g, "")) {
           return true;
         }
       }
       return false;
-      return compareItem[facet['facet']] === facet['value'];
     }, false);
   }
 

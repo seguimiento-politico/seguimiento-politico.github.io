@@ -74,7 +74,7 @@
                             </td>
                             <td>  
                                 <div>
-                                    <span class="d-none d-lg-block list-category">
+                                    <span class="d-none list-category">
                                         {% for category in item.categories %}
                                             {% assign category_data = categories_data | where: "name", category | first %}
                                             {{ category_data.name }}{% if forloop.last == false %}; {% endif %}
@@ -101,8 +101,7 @@
                                 </span>
                             </td>
                             <td class="d-none d-sm-table-cell">
-                                <span class="d-none sr-only list-status">{{ item.status }}</span>
-                                <span class="d-none d-md-block">{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}</span>
+                                <span class="d-none d-md-block list-status">{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}</span>
                                 <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}"></i>
                             </td>
                             <td class="text-center">
