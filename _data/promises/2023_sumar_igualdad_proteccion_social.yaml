@@ -9,7 +9,8 @@ parties:
 reference:
     type: manifesto
     id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-    text: pag. 15, art. 1.1.1, VII
+    page: 15
+    section: 1.1.1, VII
 categories:
     - Derechos y servicios sociales
 title: Más igualdad y mejor protección social

@@ -9,7 +9,8 @@ parties:
 reference:
     type: manifesto
     id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-    text: pag. 35, art. 6.3
+    page: 35
+    section: 6.3
 categories:
     - Medioambiente
     - Industria y energía

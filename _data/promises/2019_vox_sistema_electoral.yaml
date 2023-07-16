@@ -9,7 +9,8 @@ parties:
 reference:
     type: manifesto
     id: d6790646-5ed5-43ef-88a0-1683dbbe464b
-    text: pag. 4, art. 11
+    page: 4
+    section: 11
 categories:
     - Democracia
 title: Reforma del sistema electoral

@@ -9,7 +9,8 @@ parties:
 reference:
     type: manifesto
     id: d6790646-5ed5-43ef-88a0-1683dbbe464b
-    text: pag. 18, art. 75
+    page: 18
+    section: 75
 categories:
     - Derechos y servicios sociales
 title: Defensa de la vida (aborto)

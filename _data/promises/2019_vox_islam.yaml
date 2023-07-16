@@ -9,7 +9,8 @@ parties:
 reference:
     type: manifesto
     id: d6790646-5ed5-43ef-88a0-1683dbbe464b
-    text: pag. 7, art. 23-25
+    page: 7 
+    section: 23-25
 categories:
     - Educación, ciencia y tecnología
     - Cultura y deportes

@@ -9,7 +9,8 @@ parties:
 reference:
     type: manifesto
     id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-    text: pag. 36, art. 2.1 - 2.4
+    page: 36
+    section: 2.1 - 2.4
 categories:
     - Medioambiente
     - Industria y energía

@@ -9,7 +9,8 @@ parties:
 reference:
     type: manifesto
     id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-    text: pag. 40, art. 2
+    page: 40
+    section: 2
 categories:
     - Industria y energía
     - Agricultura, ganadería y pesca

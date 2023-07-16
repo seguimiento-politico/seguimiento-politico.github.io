@@ -9,7 +9,8 @@ parties:
 reference:
     type: manifesto
     id: d6790646-5ed5-43ef-88a0-1683dbbe464b
-    text: pag. 15, art. 62
+    page: 15
+    section: 62
 categories:
     - Educación, ciencia y tecnología
 title: Español obligarotio, lenguas cooficiales opcionales

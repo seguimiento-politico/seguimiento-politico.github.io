@@ -11,7 +11,8 @@ parties:
 reference:
     type: manifesto
     id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-    text: pag. 7, art. 1.1.1, I
+    page: 7
+    section: 1.1.1, I
 title: "Más empleo, con mejores condiciones de trabajo"
 statements:
   -

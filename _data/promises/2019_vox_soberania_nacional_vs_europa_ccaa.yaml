@@ -9,7 +9,8 @@ parties:
 reference:
     type: manifesto
     id: d6790646-5ed5-43ef-88a0-1683dbbe464b
-    text: pag. 23, art. 97
+    page: 23
+    section: 97
 categories:
     - Política internacional
 title: Soberania nacional del estado frente a Europa y CC.AA.

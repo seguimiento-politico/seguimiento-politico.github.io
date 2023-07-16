@@ -9,7 +9,8 @@ parties:
 reference:
     type: manifesto
     id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-    text: pag. 17, art. IX
+    page: 17
+    section: IX
 categories:
     - Organización estatal y administraciones públicas
 title: Una administración pública mejor dotada para el servicio a la ciudadanía

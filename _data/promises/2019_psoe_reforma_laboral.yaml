@@ -12,6 +12,7 @@ parties:
 reference:
     type: manifesto
     id: 4540ee8a-066e-4224-9f26-1297932c6560
-    text: pags X, apartado 1.1
+    page:
+    section: 1.1
 title: Reforma laboral
 description: |-

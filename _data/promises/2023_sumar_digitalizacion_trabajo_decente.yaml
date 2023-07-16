@@ -9,7 +9,8 @@ parties:
 reference:
     type: manifesto
     id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-    text: pag. 24, art. 1.2 III
+    page: 24
+    section: 1.2 III
 categories:
     - Economía, trabajo y hacienda
     - Educación, ciencia y tecnología

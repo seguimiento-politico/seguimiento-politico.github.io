@@ -9,7 +9,8 @@ parties:
 reference:
     type: manifesto
     id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-    text: pag. 19, art. X
+    page: 19
+    section: X
 categories:
     - Política internacional
 title: Hacer de europa un motor del cambio

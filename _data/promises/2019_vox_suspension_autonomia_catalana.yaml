@@ -9,7 +9,8 @@ parties:
 reference:
     type: manifesto
     id: d6790646-5ed5-43ef-88a0-1683dbbe464b
-    text: pag. 2, art. 1
+    page: 2
+    section: 1
 categories:
     - Organización estatal y administraciones públicas
 title: "Suspensión cautelar autonomía catalana"

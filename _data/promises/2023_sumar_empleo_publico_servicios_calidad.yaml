@@ -9,7 +9,9 @@ parties:
 reference:
     type: manifesto
     id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-    text: pag. X, art. Y.Y
+    page:
+    section:
+    
 categories:
     - Derechos y servicios sociales
 title: Dignificar el empleo público, otra garantía de servicios de calidad para la ciudadanía social

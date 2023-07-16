@@ -9,7 +9,8 @@ parties:
 reference:
     type: manifesto
     id: d6790646-5ed5-43ef-88a0-1683dbbe464b
-    text: pag. 23, art. 99
+    page: 23
+    section: 99
 categories:
     - Cultura y deportes
     - Política internacional

@@ -9,7 +9,8 @@ parties:
 reference:
     type: manifesto
     id: d6790646-5ed5-43ef-88a0-1683dbbe464b
-    text: pag. 20, art. 83
+    page: 20
+    section: 83
 categories:
     - Democracia
 title: Contra los lobbies

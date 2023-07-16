@@ -9,7 +9,8 @@ parties:
 reference:
     type: manifesto
     id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-    text: pag. 22, art. 1.2-I
+    page: 23
+    section: 1.2-I
 categories:
     - Economía, trabajo y hacienda
     - Derechos y servicios sociales

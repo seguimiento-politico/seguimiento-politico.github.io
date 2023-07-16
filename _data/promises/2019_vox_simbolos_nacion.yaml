@@ -9,7 +9,8 @@ parties:
 reference:
     type: manifesto
     id: d6790646-5ed5-43ef-88a0-1683dbbe464b
-    text: pag. 2, art. 3
+    page: 2
+    section: 3
 categories:
     - Justicia
 title: Protección símbolos nacionales

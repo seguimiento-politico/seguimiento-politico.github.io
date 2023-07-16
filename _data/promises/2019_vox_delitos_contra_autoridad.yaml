@@ -9,7 +9,8 @@ parties:
 reference:
     type: manifesto
     id: d6790646-5ed5-43ef-88a0-1683dbbe464b
-    text: pag. 8, art. 30
+    page: 8
+    section: 30
 categories:
     - Justicia
 title: Delito de atentado contra autoridad

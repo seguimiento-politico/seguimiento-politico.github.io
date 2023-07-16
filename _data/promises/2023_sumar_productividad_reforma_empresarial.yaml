@@ -7,7 +7,8 @@ from: "2023-07-23"
 reference:
     type: manifesto
     id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-    text: pag. 14, art. 1.1.1, VI
+    page: 14
+    section: 1.1.1, VI
 parties:
   - SUMAR
 categories:

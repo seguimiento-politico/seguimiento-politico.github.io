@@ -9,7 +9,8 @@ parties:
 reference:
     type: manifesto
     id: afa27807-23cd-4d97-98a6-7e1a5d15f2e3
-    text: "pag. 36, art. 1.2 I"
+    page: 36
+    section: 1.2 I
 categories:
     - Medioambiente
     - Derechos y servicios sociales

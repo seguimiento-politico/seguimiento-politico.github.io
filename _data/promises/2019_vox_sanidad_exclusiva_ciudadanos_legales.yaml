@@ -9,7 +9,8 @@ parties:
 reference:
     type: manifesto
     id: d6790646-5ed5-43ef-88a0-1683dbbe464b
-    text: pag. 14, art. 59
+    page: 14
+    section: 59
 categories:
     - Sanidad
     - Migración

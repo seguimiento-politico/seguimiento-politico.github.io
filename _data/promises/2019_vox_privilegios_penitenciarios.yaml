@@ -9,7 +9,8 @@ parties:
 reference:
     type: manifesto
     id: d6790646-5ed5-43ef-88a0-1683dbbe464b
-    text: pag. 22, art. 91
+    page: 22
+    section: 91
 categories:
     - Justicia
     - Migración

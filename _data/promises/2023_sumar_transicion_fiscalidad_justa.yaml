@@ -9,7 +9,8 @@ parties:
 reference:
     type: manifesto
     id: 9c208d25-3120-4fe3-b524-52647a70e331
-    text: "pag. 37, art. 1.3 I.2"
+    page: 37
+    section: 1.3 I.2
 categories:
     - Economía, trabajo y hacienda
 title: "Una fiscalidad justa para la transición"

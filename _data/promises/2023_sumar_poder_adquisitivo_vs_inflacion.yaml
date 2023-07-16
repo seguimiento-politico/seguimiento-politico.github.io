@@ -12,7 +12,8 @@ parties:
 reference:
     type: manifesto
     id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-    text: pag. 8, art. 1.1.1, II
+    page: 8 
+    section: 1.1.1, II
 title: Defender el poder adquisitivo frente a los efectos de la inflación
 statements:
   -

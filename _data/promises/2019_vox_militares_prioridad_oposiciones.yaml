@@ -9,7 +9,9 @@ parties:
 reference:
     type: manifesto
     id: d6790646-5ed5-43ef-88a0-1683dbbe464b
-    text: pag. X, art. Y.Y
+    page:
+    section:
+    
 categories:
     - Economía, trabajo y hacienda
     - Derechos y servicios sociales

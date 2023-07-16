@@ -9,7 +9,8 @@ parties:
 reference:
     type: manifesto
     id: d6790646-5ed5-43ef-88a0-1683dbbe464b
-    text: pag. 10, art. 39-42; 44-46; 48-52
+    page: 10
+    section: 39-42; 44-46; 48-52
 categories:
     - Economía, trabajo y hacienda
 title: Reducción de impuestos

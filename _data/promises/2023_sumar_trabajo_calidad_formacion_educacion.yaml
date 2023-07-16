@@ -9,7 +9,8 @@ parties:
 reference:
     type: manifesto
     id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-    text: pag. 27, art. 1.2 VI
+    page: 27
+    section: 1.2 VI
 categories:
     - Economía, trabajo y hacienda
     - Educación, ciencia y tecnología

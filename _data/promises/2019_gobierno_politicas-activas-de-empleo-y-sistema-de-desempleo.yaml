@@ -35,4 +35,6 @@ parties:
 reference:
     type: goverment_agreement
     id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
-    text: pag. , art.
+    page:
+    section: 
+    

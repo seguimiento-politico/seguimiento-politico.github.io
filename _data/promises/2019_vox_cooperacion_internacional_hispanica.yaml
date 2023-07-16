@@ -9,7 +9,8 @@ parties:
 reference:
     type: manifesto
     id: d6790646-5ed5-43ef-88a0-1683dbbe464b
-    text: pag. 24, art. 100
+    page: 24
+    section: 100
 categories:
     - Comercio, transporte y turismo
     - Justicia
