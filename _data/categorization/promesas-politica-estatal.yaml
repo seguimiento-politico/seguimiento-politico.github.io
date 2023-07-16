@@ -47,6 +47,9 @@ categories:
     - 
         name: Organización estatal y administraciones públicas
         icon: flag
+    -
+        name: Vivienda y urbanismo
+        icon: house
 
 statuses:
     -

@@ -1,0 +1,29 @@
+id: 99a02b2a-8a94-4b32-b1c8-3f3b9f386e07
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 889bb1a2-6dd7-4558-97ea-8938dc73ce84
+    page: 48
+    section: 1
+categories:
+    - Medio ambiente
+    - Organización estatal y administraciones públicas
+title: Propuestas para el Pacto de Estado antidesertificación
+statements:
+  -
+    id: 1
+    quote: "<b>Pacto de Estado antidesertificación.</b> Convertir el agua en política de Estado y en derecho público universal, garantizando que las personas económica y socialmente vulnerables puedan recibir de forma gratuita un suministro mínimo de agua que cubra sus necesidades básicas. Establecer el carácter público de la gestión del ciclo integral del agua a través de una ley orgánica, evitando cualquier atisbo de privatización del recurso o su gestión. Fomentaremos el consumo de agua del grifo y la reducción de la utilización de envases."
+  -
+    id: 2
+    quote: "Aplicación de la <b>Directiva Marco del Agua europea</b> como línea general de un pacto de Estado contra la desertificación."
+  -
+    id: 3
+    quote: "Impulso del <b>aprovechamiento del compost</b> y del retorno de la materia orgánica a los suelos, con vocación de retornar carbono a los mismos, fomentar la retención de humedad en estos y frenar su aridización."
+
+  

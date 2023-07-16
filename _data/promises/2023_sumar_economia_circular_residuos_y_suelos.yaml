@@ -1,0 +1,42 @@
+id: 934fb268-8a9e-4df1-9781-72b2c36c5890
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+  type: manifesto
+  id: 3ab22d32-549d-4bd2-b866-2c3210f8d5fa
+  page: 54
+  section: 1
+categories:
+  - Medioambiente
+  - Comercio, transporte y turismo
+title: "Aumentar la ambición de la Ley 7/2022 de residuos y suelos contaminados para una economía circular"
+description: "con pleno respeto a las competencias autonómicas tanto en el establecimiento de las medidas fiscales para todo el Estado español como el impuesto sobre la disposición, incineración y coincineración y el impuesto sobre los envases de plástico, así como para el desarrollo de una estrategia estatal de gestión de residuos que se marque como objetivo:"
+statements:
+  -
+    id: 1
+    quote: Generación de residuos cuyo único destino puede ser la eliminación en un máximo de 100 Kg por persona y año en 2028
+  -
+    id: 2
+    quote: Cierre progresivo de incineradoras con el 2030 como fecha máxima.
+  -
+    id: 3
+    quote: Persecución y sanción a los vertederos ilegales.
+  -
+    id: 4
+    quote: <b>Programa nacional de compostaje</b>, separación completa de la fracción orgánica de los residuos antes de 2027 mediante recogida puerta a puerta —portal a portal—, compostaje comunitario o con implantación efectiva del quinto contenedor en todas las ciudades de España, una línea de ayudas a las comunidades autónomas para la inversión en infraestructuras de compostaje industrial y el apoyo a proyectos de compostaje descentralizado y ciudadano.
+  -
+    id: 5
+    quote: "Alcanzar un mínimo del 10% de reutilización de residuos eléctricos, electrónicos, textiles y de mobiliario."
+  -
+    id: 6
+    quote: Adelantar la implantación de sistema de devolución, depósito y retorno al año 2025.
+  -
+    id: 7
+    quote: "Alcanzar para el año 2030 un <b>15% de reutilización</b> en los envases usados en canales de consumo diferente del canal HORECA."
+
+  

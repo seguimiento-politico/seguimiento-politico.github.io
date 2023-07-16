@@ -1,0 +1,35 @@
+id: e89d5a20-cd74-4edc-a2e0-b7d1322e6b72
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 9e1b3a33-6a77-4879-97f2-bfd73ea1a939
+    page: 49
+    section: 5
+categories:
+    - Medio ambiente
+    - Agricultura, ganadería y pesca
+title: Estrategia nacional de transición hidrológica justa
+statements:
+  -
+    id: 1
+    quote: "Establecimiento de una <b>hoja de ruta para la racionalización, el ahorro y el reparto equitativo de los recursos</b> adaptada a las nuevas condiciones meteorológicas que va a enfrentar nuestro país, garantizando la seguridad productiva en el mundo rural y el acceso al abastecimiento de agua de calidad como un derecho humano universal."
+  -
+    id: 2
+    quote: "<b>Programa nacional de adaptación climática agropecuaria:</b> reconversión del regadío ultraintensivo y del plan estratégico de secano. Moratoria del regadío intensivo y reducción progresiva del regadío superintensivo. Reconversión ambiental y sociolaboral del regadío agroindustrial. Apoyo a los regadíos tradicionales."
+  -
+    id: 3
+    quote: "<b>Estandarización y mejora de las tarifas y precios públicos del agua.</b> Promoveremos la revisión de las tarifas y precios públicos del agua para restablecer la recuperación de costes y el principio de proporcionalidad, fomentar el ahorro e incentivar el uso eficiente de un recurso cada vez más escaso en nuestro país."
+  -
+    id: 4
+    quote: "<b>Plan nacional de preservación de aguas subterráneas.</b> Impulsaremos un plan nacional de preservación de aguas subterráneas que garantice las condiciones de recarga, impacto y riesgo en la calidad de las aguas. Incluirá un inventario de pozos en España, clausura de pozos ilegales y la instalación de caudalímetros para controlar los consumos en los pozos autorizados."
+  -
+    id: 5
+    quote: "<b>Moratoria a la construcción de grandes instalaciones demandantes de agua,</b> como campos de golf o megaproyectos urbanísticos."
+
+  

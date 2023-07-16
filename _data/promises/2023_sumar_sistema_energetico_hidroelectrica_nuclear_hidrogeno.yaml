@@ -1,0 +1,28 @@
+id: 23fa7e7f-5776-4d70-b304-8291eb9df84e
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 47
+    section: 7-9
+categories:
+    - Industria y energía
+title: Propuestas de aprovechamiento hidroeléctrico y cierre nuclear seguro
+statements:
+  -
+    id: 1
+    quote: "<b>Recuperación de la titularidad pública de los aprovechamientos hidroeléctricos</b> según vaya caducando su concesión que será gestionada directamente por organismos públicos."
+  -
+    id: 2
+    quote: "<b>Apuesta por el hidrógeno renovable.</b> Apostaremos por el despliegue racional del hidrógeno renovables atendiendo a su viabilidad técnico-económica y al potencial internacional de España en el desarrollo y producción de este vector energético. El hidrógeno renovable tendrá un papel que cumplir en una economía 100% descarbonizada, pero deberá destinarse a procesos de difícil electrificación (ciertos usos industriales, aviación, transporte marítimo). Revisaremos la actual hoja de ruta del hidrógeno evitando procesos especulativos como el H2Med."
+  -
+    id: 3
+    quote: "<b>Hacia un cierre nuclear seguro y socialmente justo.</b> Sumar se compromete a mantener el calendario de cierre del parque nuclear español, aplicando una moratoria a cualquier nueva iniciativa nuclear, exigiendo revisiones e inversiones para garantizar la seguridad del proceso y subrayando la responsabilidad de los propietarios en el mismo. Mientras tanto, se propone sacar la energía nuclear del mercado marginalista por su efecto distorsionante, incrementar la tasa de residuos radiactivos y asegurar un proceso de transición justa de los trabajadores vinculados al sector."
+
+  

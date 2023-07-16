@@ -1,0 +1,33 @@
+id: 91e6884a-93e3-4bd4-935b-1a83115378c3
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 47
+    section: 6
+categories:
+    - Industria y energía
+    - Organización estatal y administraciones públicas
+title: Reforma de la Ley del Sector Eléctrico
+statements:
+  -
+    id: 1
+    quote: "<b>Recuperación de utilidad pública de la electricidad</b>, incorporando como derecho el acceso universal y la disponibilidad de una señal precio que refleje con transparencia los costes reales que se originan, así como el pago por uso. Este objetivo se cumplirá a través de las siguientes medidas: normas de estabilidad en el funcionamiento del mercado mayorista, la modificación del marco retributivo de Renovables, Cogeneración y Residuos (RECORE), la aprobación del Fondo Nacional para la Sostenibilidad del Sistema Eléctrico (FNSSE) y la gestión y el reparto de los ingresos por CO2."
+  -
+    id: 2
+    quote: "<b>Potenciar el papel y la intervención del Estado en el sector de la energía</b> para poder garantizar las necesidades básicas de la ciudadanía en este ámbito y llevar a cabo una auditoría pública sobre los costes reales de cada una de las tecnologías con las que se genera electricidad en España. Así, retribuiremos a cada una en función de dichos costes con el objetivo de no pagar toda la energía al precio que pertenece a la más costosa."
+  -
+    id: 3
+    quote: "<b>Impedir definitivamente la integración vertical de actividades de generación, distribución y comercialización en empresas del mismo grupo.</b> La existencia de monopolios naturales, como es el caso de las redes eléctricas, requiere de palancas regulatorias para que exista competencia. En la práctica, la separación entre actividades reguladas y no reguladas no es efectiva. En particular, impondremos una separación estricta de la actividad de distribución, del mismo modo que sucede en transporte."
+  -
+    id: 4
+    quote: "<b>Reforma del mercado marginalista</b> con el objetivo, a medio plazo, de eliminarlo y sacar, a corto plazo del mercado las energías inframarginales no gestionables, como la nuclear. También apostaremos por todos los mecanismos bilaterales y a plazo, tanto por PPA (Power Purchase Agreement) como por CFD (Contract for Difference). También realizaremos subastas de capacidad, incluyendo almacenamiento e inclusión de la demanda y almacenamiento en consumo."
+  -
+    id: 5
+    quote: "<b>Creación de un fondo nacional para la sostenibilidad del sistema eléctrico (FNSSE)</b>: Recuperaremos la figura cuya tramitación se ha aparcado durante dos años, apostando por revisar tanto las exenciones como el tiempo de aplicación."

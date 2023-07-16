@@ -1,0 +1,41 @@
+id: 2a74193d-f6b0-4989-a186-94c3d8c2b6aa
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 9e1b3a33-6a77-4879-97f2-bfd73ea1a939
+    page: 50
+    section: 3-9
+categories:
+    - Medio ambiente
+    - Organización estatal y administraciones públicas
+title: Continuación de la Estrategia nacional de transición hidrológica justa
+statements:
+  -
+    id: 1
+    quote: "<b>Protección del dominio público hidráulico y los márgenes fluviales.</b> Velaremos por el cumplimiento efectivo de la Ley de Aguas para asegurar el mantenimiento de los caudales ecológicos, la protección de los márgenes fluviales y los bosques de ribera. Se realizará un inventario de infraestructuras obsoletas para su retirada ordenada."
+  -
+    id: 2
+    quote: "<b>Nueva política hidroeléctrica.</b> Exigiremos el canon hidroeléctrico a las centrales hidroeléctricas sin exenciones. Las centrales hidroeléctricas deberán adaptar las presas y embalses a escenarios más frecuentes de inundaciones y sequías debido al cambio climático."
+  -
+    id: 3
+    quote: "<b>Cumplimiento de la depuración completa de aguas residuales para 2027.</b> Promoveremos la revisión de la planificación sectorial vigente y su reorientación para lograr la depuración del 100% de todas las aguas residuales en los planes hidrológicos 2021-2027."
+  -
+    id: 4
+    quote: "<b>Revisión de obras hidráulicas obsoletas.</b> Se revisarán las grandes obras hidráulicas de dudosa rentabilidad y causantes de graves impactos socioambientales. Se propondrán alternativas de menor impacto ambiental y económico."
+  -
+    id: 5
+    quote: "<b>Apuesta por alternativas hídricas disponibles.</b> Promoveremos la desalinización del agua de mar y de caudales salobres, así como la regeneración y la reutilización de retornos, en territorios costeros, usando energía solar y eólica."
+  -
+    id: 6
+    quote: "<b>Acabar con la corrupción y con la mercantilización del agua.</b> Promoveremos nuevos modelos de gestión, basados en la transparencia y la participación ciudadana en la gestión del agua como un bien público."
+  -
+    id: 7
+    quote: "<b>Reducción de la contaminación del agua provocada por el uso excesivo de fertilizantes sintéticos y excrementos y purines de la ganadería industrial,</b> priorizando aquellos que afectan a los espacios naturales con un alto interés para la biodiversidad."
+
+  
