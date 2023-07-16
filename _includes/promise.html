@@ -129,32 +129,104 @@
     </div>
 </div>
 
-<div class="notice-info border border-primary mb-3 p-2">
-    <span class="m-2"><b>Compromisos relacionados:</b></span>
-    <span>
-        <!-- explicit relation -->
-        {% for uid in item_analysis[0].related %}
-            {% assign related = site.tracks | where: "uid", uid %}
-            {% assign title = related[0].item_name | split: "_" %}
-            <a class="btn btn-sm btn-outline-dark" href="{{ related[0].url }}" role="button">{{ title[1] | replace: "-", " " | truncatewords: 5 }}</a>
+{% assign divergent = "" | split: "," %}
+{% assign convergent = "" | split: "," %}
+{% assign different = "" | split: "," %}
+
+{% for related in site.data.related_promises %}
+    {% assign is_related = 0 %}
+    {% for p in related.promises %}
+        {% if p == item[0].id %}
+            {% assign is_related = 1 %}
+        {% endif %}
+    {% endfor %}
+    {% if is_related == 1 %}
+        {% for p in related.promises %}
+            {% if p != item[0].id %}
+                {% if related.relation == "divergent" %}
+                    {% assign divergent = divergent | push: p %}
+                {% elsif related.relation == "convergent" %}
+                    {% assign convergent = convergent | push: p %}
+                {% else %}
+                    {% assign different = different | push: p %}
+                {% endif %}
+            {% endif %}   
         {% endfor %}
-        <!-- inverse relation -->
-        {% assign tracks = site.data.tracks %}
-        {% for track in tracks %}
-            {% for track_items in track %}
-                {% for track_item in track_items %}
-                    {% for related_item in track_item[1].related %}
-                        {% if related_item == item[0]._id %}
-                            {% assign related = site.tracks | where: "uid", related_item[0]._id %}
-                            {% assign title = related[0].item_name | split: "_" %}
-                            <a class="btn btn-sm btn-outline-dark" href="{{ related[0].url }}" role="button">{{ title[1] | replace: "-", " " | truncatewords: 5 }}</a>
-                        {% endif %}
-                    {% endfor %}
-                {% endfor %}
-            {% endfor %}
-        {% endfor %}
-    </span>
+    {% endif %}
+{% endfor %}
+
+{% if divergent.size > 0 or convergent.size > 0 or different.size > 0 %}
+<div class="card">
+    <div class="card-header pb-2 d-flex justify-content-between align-items-start">
+        Compromisos relacionados
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="notice-danger col-sm">
+                <div class="border-bottom align-self-center text-center">
+                        Objetivos divergentes
+                </div>
+                <!-- divergent promises -->
+                    {% for d in divergent %}
+                        <span class="align-self-center ">
+                        {% assign p = site.data.promises | where: "id", d %}
+                        {% for party in p[0].parties %}
+                            {% assign party_name = party %}   
+                            {% include logos_settings.html type='party' %}        
+                            {% include logos_show.html type='party' %}
+                        {% endfor %}
+                        {% assign promise_page = site.promises | where: "uid", d | first %}
+                        
+                            <a class="btn btn-{{class}}" href="{{ promise_page.url }}"> {{ p[0].title }} </a>
+                        </span>
+                    {% endfor %} 
+            </div>
+
+            <div class="notice-grey col-sm">
+                <div class="border-bottom align-self-center text-center">
+                    Objetivos diferentes
+                </div>
+                <!-- different promises -->
+                {% for d in different %}
+                          <span class="align-self-center">
+                          {% assign p = site.data.promises | where: "id", d %}
+                          {% for party in p[0].parties %}
+                              {% assign party_name = party %}   
+                              {% include logos_settings.html type='party' %}        
+                              {% include logos_show.html type='party' %}
+                          {% endfor %}
+                          {% assign promise_page = site.promises | where: "uid", d | first %}
+                          
+                              <a class="btn btn-{{class}}" href="{{ promise_page.url }}"> {{ p[0].title }} </a>
+                          </span>
+                      {% endfor %} 
+              </div>
+
+
+            <div class="notice-success col-sm">
+                <div class="border-bottom align-self-center text-center">
+                    Objetivos convergentes
+                </div>
+              <!-- convergent promises -->
+              {% for d in convergent %}
+                        <span class="align-self-center">
+                        {% assign p = site.data.promises | where: "id", d %}
+                        {% for party in p[0].parties %}
+                            {% assign party_name = party %}   
+                            {% include logos_settings.html type='party' %}        
+                            {% include logos_show.html type='party' %}
+                        {% endfor %}
+                        {% assign promise_page = site.promises | where: "uid", d | first %}
+                        
+                            <a class="btn btn-{{class}}" href="{{ promise_page.url }}"> {{ p[0].title }} </a>
+                        </span><br>
+                    {% endfor %} 
+            </div>
+            
+          </div> 
+    </div>    
 </div>
+{% endif %}
 
 {% if item_analysis[0].promise_analysis %}
     {% assign analysis = item_analysis[0].promise_analysis %}

@@ -1,5 +1,5 @@
 - 
-  promises: []
-  relation: # opposite, divergent, convergent, equivalent
-  tags:
+  promises: [74affe2c-3480-4e8c-a131-16a0fbc69cb1, 402405cb-323d-404d-8b81-97f3e5530fd7]
+  relation: divergent # divergent, convergent, different
+  tags: [bienestar animal, tauromaquia]
 

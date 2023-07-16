@@ -34,7 +34,7 @@
   border-left-color: $success;
 }
 .callout-grey{
-    border-left-color: $gray-100;
+    border-left-color: $grey-100;
   }
 .notice-info{
   border-left-color: $info;
@@ -52,12 +52,12 @@
   background-color: mix(#fff, $danger, 90%);
 }
 .notice-success {
-  border-left-color: $success;
-  box-shadow: 0 1px 1px rgba($success, 0.25);
-  background-color: mix(#fff, $success, 90%);
+  border-left-color: $green-500;
+  box-shadow: 0 1px 1px rgba($green-500, 0.25);
+  background-color: mix(#fff, $green-500, 90%);
 }
 .notice-grey {
-    border-left-color: $gray-400;
-    box-shadow: 0 1px 1px rgba($gray-400, 0.25);
-    background-color: mix(#fff, $gray-400, 90%);
+    border-left-color: $grey-500;
+    box-shadow: 0 1px 1px rgba($grey-500, 0.25);
+    background-color: mix(#fff, $grey-500, 90%);
 }
