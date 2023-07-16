@@ -1,0 +1,41 @@
+id: 6f16b3f4-3c66-4ef4-9c40-ee2a9f8f12f7
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    text: pag. 40, art. 2
+categories:
+    - Industria y energía
+    - Agricultura, ganadería y pesca
+    - Organización estatal y administraciones públicas
+    - Medioambiente
+    - Territorio
+title: Un pacto social y territorial para la transición energética justa
+description: Cumplir con los objetivos del Acuerdo de París exigirá que España continúe desarrollando un proceso muy ambicioso de implantación de energías renovables en muy poco tiempo. Si queremos adecuar el Plan Nacional Integrado de Energía y Clima a los nuevos objetivos europeos, el horizonte es disponer de una potencia de, aproximadamente, 148.000 MW en 2030, teniendo en cuenta que la potencia instalada en 2021 fue de 78.000 MW.
+statements:
+  -
+    id: 1
+    quote: "<b>Simplificación y facilitación del autoconsumo</b>, así como de las plantas en suelo cerca de territorios urbanos, para que los grandes centros de consumo contribuyan al esfuerzo de la transición energética."
+  -
+    id: 2
+    quote: "<b>Creación de un mapa nacional de instalación preferente de energías renovables</b> en coordinación con las comunidades autónomas de acuerdo con sus competencias de ordenación territorial, que respete la biodiversidad y las zonas de alto valor agroecológico."
+  -
+    id: 3
+    quote: "<b>Desarrollo renovable responsable</b> que priorice las plantas en suelos degradados, en permanente diálogo con la ciudadanía y el tejido agrícola y rural, facilitando la regulación con el fin de que las comunidades autónomas y los Ayuntamientos participen en la toma de decisión de la ubicación de proyectos."
+  -
+    id: 4
+    quote: "<b>Creación de una agencia pública de mediación</b> que garantice que los territorios de instalación de energías renovables sean informados y escuchados en un proceso de concertación participativo que recoja, en la medida de los posible, los intereses y las demandas de los diversos actores de la zona."
+  -
+    id: 5
+    quote: "<b>Reforma del mercado eléctrico para abaratar la energía en la proximidad de las plantas de generación</b>, contribuyendo al ahorro económico de los habitantes de la zona y potenciando la instalación de nuevas industrias."
+  -
+    id: 6
+    quote: "<b>Difusión, valorización y replicabilidad de mejores prácticas</b>, con el fin de contribuir a la aceptación social de las tecnologías renovables."
+
+  

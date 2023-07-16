@@ -1,0 +1,28 @@
+id: fd3b7222-af87-4d55-8f33-2b0db29c1a51
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    text: pag. 44, art. 5.1 - 5.3
+categories:
+    - Medioambiente
+    - Organización estatal y administraciones públicas
+title: Reforzando la adaptación climática
+statements:
+  -
+    id: 1
+    quote: <b>Reforma de la Ley de Costas y gestión de inundaciones.</b> Reformaremos la Ley de Costas ampliando la zona de servidumbre de protección y, en aquellas comunidades autónomas en las que no se haya transferido la competencia de gestión de costas, reorientaremos las políticas urbanísticas no autorizando nuevas construcciones en zonas de riesgo por inundaciones o por aumento del nivel del mar. Se fomentará una política rigurosa de gestión de inundaciones basada en el respeto a las llanuras de inundación y a los sistemas de drenaje sostenible e inversiones para la mejora de las infraestructuras de las estaciones depuradoras de agua, con el objetivo de retener el agua torrencial y evitar así desbordamientos que contaminen los ríos y las playas. Efectuaremos un plan de inversiones contra la regresión de las costas y llevaremos a cabo la revisión de todos los impactos de las infraestructuras en la pérdida de playas.
+  -
+    id: 2
+    quote: <b>Mapa Nacional de Vulnerabilidad Climática y mejora climática de los servicios de protección civil.</b> Se elaborará el Mapa Nacional de Vulnerabilidad Climática como herramienta de diagnóstico de riesgos imprescindible para avanzar en la adaptación al cambio climático. De la misma manera, ante el previsible aumento de las catástrofes naturales ligadas a la emergencia climática en territorio nacional, impulsaremos un programa de capacitación climática tanto en la Unidad Militar de Emergencia como en los servicios de protección civil, recomendando su extensión a las fuerzas y equipos de seguridad y emergencia de las comunidades autónomas.
+  -
+    id: 3
+    quote: <b>Reformulación de la planificación hidrológica en clave de emergencia climática.</b> Se reformulará la planificación hidrológica y se revisarán los vigentes planes de gestión de sequías y planes de gestión de inundaciones, ajustándose a la nueva realidad del cambio climático y proponiendo las acciones necesarias para la minimización de riesgos. Ante la previsión del cambio climático, estas medidas incluirán la revisión de las concesiones de agua actuales para evitar su sobreexplotación, estableciendo criterios de eficiencia y evitando procesos especulativos. Se fomentará la reutilización de aguas depuradas o de escorrentía.
+
+  

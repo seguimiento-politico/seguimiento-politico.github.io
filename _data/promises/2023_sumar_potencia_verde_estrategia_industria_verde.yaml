@@ -1,0 +1,31 @@
+id: 760366f5-5fcf-4dcb-8a12-75345a2b2154
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    text: pag. 47, art. 1.1 - 1.4
+categories:
+    - Medioambiente
+    - Economía, trabajo y hacienda
+    - Industria y energía
+title: Estrategia España Potencia Industrial Verde
+statements:
+  -
+    id: 1
+    quote: <b>Misión España potencia industrial renovable.</b> Actualmente España tiene el 60% de la cadena de valor de la industria fotovoltaica y el 90% de la eólica, importando la gran mayoría restante de China. Promoveremos la recuperación de la cadena de valor y producción completa de la industria fotovoltaica, la eólica terrestre y la marina en territorio nacional con el objetivo de convertir a España en una potencia industrial en tecnologías renovables.
+  -
+    id: 2
+    quote: <b>Misión España vanguardia de la electromovilidad.</b> El objetivo de esta misión es acompañar la reconversión de la industria de la automoción hacia la cadena de valor completa de la electromovilidad. Esto implica la adaptación de fábricas de automóviles y furgonetas, camiones, autobuses y trenes, pero también el impulso de la adaptación de la industria auxiliar. La consolidación de la industria de la electromovilidad va estrechamente ligada a la producción y al reciclaje de baterías, con los máximos estándares ambientales y sociales. En la misma línea, promoveremos un consorcio público y privado para el desarrollo de una macroplanta de minerales críticos en nuestro país, un proceso tecnoindustrial de enorme futuro para el que existe un mercado emergente de enormes proporciones.
+  -
+    id: 3
+    quote: <b>Misión una industria de la construcción sostenible.</b> Facilitaremos la reorientación del sector de la construcción y la obra pública hacia la adopción de los más altos estándares ambientales. También en el uso de nuevas tecnologías bajas en carbono, así como en la descarbonización de la producción de materiales, el fomento de la economía circular, el uso de materiales con menor impacto ambiental y la rehabilitación energética del parque ya edificado.
+  -
+    id: 4
+    quote: <b>Misión transformación de alimentos ecológicos de excelencia.</b> Aprovecharemos el posicionamiento puntero de España en producción de alimentación ecológica para impulsar la agricultura regenerativa y la descarbonización de toda la cadena de valor (procesamiento, envasado y logística). Se impulsará la diversificación de los sistemas productivos agrícolas y ganaderos, buscando actividades económicas que generen mayor valor añadido con un menor consumo unitario de agua, apoyado por un plan de I+D enfocado a la recuperación del secano y a una reorientación del regadío.
+  

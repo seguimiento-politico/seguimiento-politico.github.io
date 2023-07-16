@@ -1,0 +1,34 @@
+id: d3e40b38-d4b7-4e17-a10f-4a2a38dbae76
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    text: pag. 36, art. 2.1 - 2.4
+categories:
+    - Medioambiente
+    - Industria y energía
+    - Agricultura, ganadería y pesca
+    - Comercio, transporte y turismo
+title: Avanzar en la descarbonización
+statements:
+  -
+    id: 1
+    quote: <b>Transporte.</b> Responsable del 27% de las emisiones en España, es uno de los sectores prioritarios para acelerar la descarbonización. Apostamos por priorizar el transporte colectivo y el de propulsión humana para desplazamientos personales y la electromovilidad en el transporte de pasajeros y de mercancías por carretera, con criterios de transición justa, y para impulsar la descarbonización del transporte aéreo y marítimo. Para ello, facilitaremos el acceso al vehículo eléctrico simplificando las ayudas a la compra e introduciendo criterios progresivos por renta y promoviendo una red de puntos de recarga con criterios sociales y territoriales, con el objetivo de atender a las desigualdades sociales en el acceso a la movilidad eléctrica. Impulsaremos la electrificación del transporte de mercancías instalando cargadores ultrarrápidos en las principales rutas comerciales del país y diseñando ayudas específicas para la electrificación dirigidas a profesionales autónomos del sector del transporte. Estableceremos una hoja de ruta con objetivos concretos para el despliegue de combustibles renovables de cero emisiones, como el hidrógeno 100% renovable, para uso prioritario de la aviación y el transporte marítimo, que vaya más allá de los mínimos exigidos por la UE, aprovechando así el elevado potencial de generación de hidrógeno renovable del que dispone España. Impulsaremos una racionalización del transporte aéreo, incrementando la oferta de transporte público ferroviario y por carretera y limitando los vuelos en distancias que pueden ser fácilmente sustituibles por tren. Asimismo, potenciaremos el tren nocturno y la conexión internacional y multimodal en puertos y aeropuertos.
+    partial: ini
+  -
+    id: 2
+    quote: <b>Edificios.</b> Electrificar la calefacción y el agua caliente sanitaria de los edificios es una de las medidas con más impacto en la reducción de emisiones. Apostamos por una sustitución progresiva del gas por alternativas eléctricas de menor consumo. Para ello, apostamos por la bomba de calor en climatización y en ACS y por la puesta en marcha de un plan de sustitución de sistemas de calefacción dependientes de combustibles fósiles (incluyendo el gas natural), con la obligatoriedad de sustituir las calderas con más de 15 años, acompañado de ayudas para los hogares de menor renta. Fijamos como objetivo la descarbonización de los sistemas de calefacción y agua caliente de 500.000 viviendas al año, adicional a los objetivos de rehabilitación. En respeto a las competencias municipales de planificación urbanístico se regulará el desarrollo de nuevas redes de gas en nuevos proyectos de urbanización.
+  -
+    id: 3
+    quote: <b>Industria.</b> La descarbonización de la industria es una oportunidad de innovación que aumentará su competitividad, para ello apostamos por fomentar las inversiones en eficiencia energética, reduciendo y optimizando el consumo de gas natural en los diversos procesos industriales. Establecer criterios de compra pública para productos que tienen alternativa de producción descarbonizada (por ejemplo, el acero). En colaboración con los sectores industriales, invertir en I+D+i para la descarbonización de los procesos industriales. Elaborar una hoja de ruta de demanda del hidrógeno específicamente para la industria española que ayude a planificar las inversiones de manera eficiente y realista.
+  -
+    id: 4
+    quote: <b>Agricultura y ganadería.</b> El sector agrario es, dentro del conjunto de sectores difusos, el segundo sector emisor de gases de efecto invernadero, detrás del sector transporte. Es crucial concentrar esfuerzos para reducir las emisiones en este sector, en especial las de óxido nitroso y metano provenientes de la fertilización química y de la cabaña ganadera. Para ello, apostaremos por el uso óptimo de la fertilización y en particular de la fertilización ecológica, así como de la rotación de cultivos. Fomentaremos la sustitución de combustibles fósiles por energías renovables, así como la reducción del consumo de combustible y la eficiencia energética de la maquinaria y las construcciones agrícolas. Promoveremos acabar con la quema de residuos agrícolas y apostaremos alternativamente por el reciclaje y la utilización de biocombustibles de segunda generación. Reforzaremos los controles y estándares ambientales y sociales de las grandes explotaciones ganaderas para minimizar su impacto.
+
+  

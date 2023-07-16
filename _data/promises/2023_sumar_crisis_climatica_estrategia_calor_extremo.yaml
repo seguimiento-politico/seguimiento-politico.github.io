@@ -1,0 +1,38 @@
+id: c61348f7-0ecc-497e-b217-fdd68675e47e
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    text: pag. 36, art. 3.1 - 3.6
+categories:
+    - Medioambiente
+    - Sanidad
+    - Educación, ciencia y tecnología
+    - Economía, trabajo y hacienda
+title: Estrategia Nacional para el calor extremo y recurrente
+description: Con el fin de garantizar a cualquier persona la máxima protección ante los episodios climáticos extremos que se irán normalizando en los próximos años y proteger a la población más vulnerable, impulsaremos un paquete de medidas adaptativas y de regulación bajo el paraguas de una estrategia nacional para el calor extremo y recurrente como parte específica del Plan Nacional de Adaptación al Cambio Climático.
+statements:
+  -
+    id: 1
+    quote: <b>Tal como se recoge legalmente, en el supuesto en el que la Agencia Estatal de Meteorología o, en su caso, el órgano autonómico correspondiente</b> (si se dispone de dicho servicio), emita un aviso de fenómenos meteorológicos adversos de nivel naranja o rojo, y las medidas preventivas no garanticen la protección de las personas trabajadoras, resultará obligatoria la adaptación de las condiciones de trabajo, incluida la reducción o modificación de las horas de desarrollo de la jornada prevista.
+  -
+    id: 2
+    quote: <b>Plan de choque de inversión para adaptar espacios públicos</b>, con especial atención en escuelas y residencias, a las olas de calor. En colaboración con los municipios, el plan incluirá espacios de interior y exterior (reverdecimiento, sombras, fuentes, aires acondicionados...) y la creación de una red de refugios climáticos de amplia cobertura.
+  -
+    id: 3
+    quote: <b>Incluir la alerta por ola de calor en el ámbito de la salud pública</b>, con el consiguiente desarrollo de planes de preparación y respuesta y creación de un sistema de alerta móvil.
+  -
+    id: 4
+    quote: <b>Reforzaremos nuestro sistema sanitario y los protocolos de actuación</b> para adaptarlos a la prevención de las olas de calor.
+  -
+    id: 5
+    quote: <b>Poner nombres a las olas de calor para concienciar a la ciudadanía</b> tal y como se hace con los huracanes y otros fenómenos meteorológicos extremos como las borrascas.
+  -
+    id: 6
+    quote: <b>Adaptar la certificación energética para que considere las temperaturas futuras</b>, el confort pasivo y el efecto isla de calor.

@@ -1,0 +1,35 @@
+id: 4e3ad1dc-f6da-4211-bd62-4abf3fbca24d
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    text: pag. 35, art. 6.3
+categories:
+    - Medioambiente
+    - Industria y energía
+title: Incrementar la ambición de la Ley de Cambio Climático y Transición Energética
+description: Modificar la Ley de Cambio Climático y Transición Energética para aumentar su ambición marcándose estos objetivos
+statements:
+  -
+    id: 1
+    quote: <b>55% de reducción de emisiones</b> en 2030.
+  -
+    id: 2
+    quote: <b>50% de electrificación de la demanda total de energía</b> en 2030.
+  -
+    id: 3
+    quote: <b>55% de mejora de la eficiencia en el uso final de la energía.</b>
+  -
+    id: 4
+    quote: <b>90% de energía renovable en la generación de electricidad</b> en 2030.
+  -
+    id: 5
+    quote: <b>Emisiones netas nulas</b> en 2040.
+
+  
