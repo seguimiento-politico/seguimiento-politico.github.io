@@ -1,0 +1,33 @@
+id: dcc95187-bc38-4df2-9053-1247401f6724
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 55
+    section: VIII
+    
+categories:
+    - Comercio, transporte y turismo
+    - Sanidad
+    - Medioambiente
+    - Vivienda y urbanismo
+title: Menos contaminación, más salud
+description: Alrededor de 30.000 personas mueren prematuramente cada año en España debido a la contaminación del aire de nuestras ciudades. La contaminación se ha expandido a nuestros mares, bosques e incluso alimentos, donde el uso de pesticidas y otras sustancias químicas están provocando problemas de salud graves a la población. Por ello proponemos una serie de medidas para luchar contra la contaminación de nuestros ecosistemas y alimentos en favor de la salud de las personas y la preservación de nuestro entorno.
+statements:
+  -
+    id: 1
+    quote: <pb>Plan nacional integrado de calidad del aire</pb>. Reforzaremos el carácter legal de los planes de calidad del aire y los planes de acción de reducción de la contaminación adoptados por las comunidades autónomas y municipios. Europa ya ha marcado el camino a seguir mediante directivas comunitarias para reducir la contaminación en las ciudades con la reducción del uso del vehículo de combustión y el desarrollo de estrategias de movilidad sostenible y de espacio público, defendiendo en primer lugar la salud de las personas. Se priorizarán las ciudades de más de 50.000 habitantes o aquellas especialmente afectadas por episodios de contaminación atmosférica —como Madrid o Barcelona— y aquellos municipios afectados por industrias contaminantes cercanas.
+  -
+    id: 2
+    quote: <b>Estrategia nacional de lucha contra la mortalidad prematura provocada por la contaminación</b>. Trabajaremos en la reducción drástica de las cifras de enfermedad y mortalidad prematura asociada a la exposición a agentes contaminantes, incluidas aquellas asociadas a la alimentación o a enfermedades ambientales de carácter laboral.
+  -
+    id: 3
+    quote: <b>Planes de acción contra la contaminación acústica y lumínica</b>. Se actualizarán los mapas de ruido y contaminación lumínica fijando los niveles recomendables en función de la diversidad de usos en cada zona, con especial protección para los centros sanitarios, educativos y las zonas residenciales, así como las de uso público en pueblos y ciudades. También se favorecerá la creación de certificaciones de calidad del cielo nocturno, para favorecer el astroturismo.
+
+  
