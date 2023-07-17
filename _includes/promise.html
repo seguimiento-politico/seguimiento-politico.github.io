@@ -129,33 +129,25 @@
     </div>
 </div>
 
-{% assign divergent = "" | split: "," %}
 {% assign convergent = "" | split: "," %}
-{% assign different = "" | split: "," %}
+{% assign divergent = "" | split: "," %}
 
-{% for related in site.data.related_promises %}
-    {% assign is_related = 0 %}
-    {% for p in related.promises %}
-        {% if p == item[0].id %}
-            {% assign is_related = 1 %}
-        {% endif %}
-    {% endfor %}
-    {% if is_related == 1 %}
-        {% for p in related.promises %}
-            {% if p != item[0].id %}
-                {% if related.relation == "divergent" %}
-                    {% assign divergent = divergent | push: p %}
-                {% elsif related.relation == "convergent" %}
-                    {% assign convergent = convergent | push: p %}
+{% assign promises_analysis = site.data.promises_analysis %}
+{% for pa in promises_analysis %}
+    {% for pa_topic in pa[1].topics %}
+        {% for item_topic in item_analysis[0].topics %}
+            {% if pa[1].id != item_analysis[0].id and item_topic.name == pa_topic.name %}
+                {% if item_topic.position != pa_topic.position %}
+                    {% assign divergent = divergent | push: pa[1].promise_id %}
                 {% else %}
-                    {% assign different = different | push: p %}
+                    {% assign convergent = convergent | push: pa[1].promise_id %}
                 {% endif %}
-            {% endif %}   
+            {% endif %}
         {% endfor %}
-    {% endif %}
+    {% endfor %}
 {% endfor %}
 
-{% if divergent.size > 0 or convergent.size > 0 or different.size > 0 %}
+{% if convergent.size > 0 or divergent.size > 0 %}
 <div class="card">
     <div class="card-header pb-2 d-flex justify-content-between align-items-start">
         Compromisos relacionados
@@ -168,7 +160,7 @@
                 </div>
                 <!-- divergent promises -->
                     {% for d in divergent %}
-                        <span class="align-self-center ">
+                        <p><span class="align-self-center ">
                         {% assign p = site.data.promises | where: "id", d %}
                         {% for party in p[0].parties %}
                             {% assign party_name = party %}   
@@ -178,30 +170,9 @@
                         {% assign promise_page = site.promises | where: "uid", d | first %}
                         
                             <a class="btn btn-{{class}}" href="{{ promise_page.url }}"> {{ p[0].title }} </a>
-                        </span>
+                        </span></p>
                     {% endfor %} 
             </div>
-
-            <div class="notice-grey col-sm">
-                <div class="border-bottom align-self-center text-center">
-                    Objetivos diferentes
-                </div>
-                <!-- different promises -->
-                {% for d in different %}
-                          <span class="align-self-center">
-                          {% assign p = site.data.promises | where: "id", d %}
-                          {% for party in p[0].parties %}
-                              {% assign party_name = party %}   
-                              {% include logos_settings.html type='party' %}        
-                              {% include logos_show.html type='party' %}
-                          {% endfor %}
-                          {% assign promise_page = site.promises | where: "uid", d | first %}
-                          
-                              <a class="btn btn-{{class}}" href="{{ promise_page.url }}"> {{ p[0].title }} </a>
-                          </span>
-                      {% endfor %} 
-              </div>
-
 
             <div class="notice-success col-sm">
                 <div class="border-bottom align-self-center text-center">
@@ -209,7 +180,7 @@
                 </div>
               <!-- convergent promises -->
               {% for d in convergent %}
-                        <span class="align-self-center">
+                        <p><span class="align-self-center">
                         {% assign p = site.data.promises | where: "id", d %}
                         {% for party in p[0].parties %}
                             {% assign party_name = party %}   
@@ -219,7 +190,7 @@
                         {% assign promise_page = site.promises | where: "uid", d | first %}
                         
                             <a class="btn btn-{{class}}" href="{{ promise_page.url }}"> {{ p[0].title }} </a>
-                        </span><br>
+                        </span></p>
                     {% endfor %} 
             </div>
             
