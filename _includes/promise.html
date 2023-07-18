@@ -131,26 +131,33 @@
 
 {% assign convergent = "" | split: "," %}
 {% assign divergent = "" | split: "," %}
+{% assign ambiguous = "" | split: "," %}
+{% assign all = "" | split: "," %}
 
 {% assign promises_analysis = site.data.promises_analysis %}
 {% for pa in promises_analysis %}
     {% for pa_topic in pa[1].topics %}
         {% for item_topic in item_analysis[0].topics %}
-            {% if pa[1].id != item_analysis[0].id and item_topic.name == pa_topic.name %}
-                {% if item_topic.position != pa_topic.position %}
-                    {% assign divergent = divergent | push: pa[1].promise_id %}
-                {% else %}
-                    {% assign convergent = convergent | push: pa[1].promise_id %}
+            {% unless all contains pa[1].promise_id %} <!-- to avoid duplicates -->
+                {% if pa[1].id != item_analysis[0].id and item_topic.name == pa_topic.name %}
+                    {% if pa_topic.position == "ambiguo" or item_topic.position == "ambiguo" %}
+                        {% assign ambiguous = ambiguous | push: pa[1].promise_id %}
+                    {% elsif item_topic.position != pa_topic.position %}
+                        {% assign divergent = divergent | push: pa[1].promise_id %}
+                    {% else %}
+                        {% assign convergent = convergent | push: pa[1].promise_id %}
+                    {% endif %}
+                    {% assign all = all | push: pa[1].promise_id %}
                 {% endif %}
-            {% endif %}
+            {% endunless %}
         {% endfor %}
     {% endfor %}
 {% endfor %}
 
-{% if convergent.size > 0 or divergent.size > 0 %}
+{% if convergent.size > 0 or divergent.size > 0 or ambiguous.size > 0 %}
 <div class="card">
     <div class="card-header pb-2 d-flex justify-content-between align-items-start">
-        Compromisos relacionados
+        Comparativa con compromisos relacionados
     </div>
     <div class="card-body">
         <div class="row">
@@ -161,6 +168,26 @@
                 <!-- divergent promises -->
                     {% for d in divergent %}
                         <p><span class="align-self-center ">
+                        {% assign p = site.data.promises | where: "id", d %}
+                        {% for party in p[0].parties %}
+                            {% assign party_name = party %}   
+                            {% include logos_settings.html type='party' %}        
+                            {% include logos_show.html type='party' %}
+                        {% endfor %}
+                        {% assign promise_page = site.promises | where: "uid", d | first %}
+                        
+                            <a class="btn btn-{{class}}" href="{{ promise_page.url }}"> {{ p[0].title }} </a>
+                        </span></p>
+                    {% endfor %} 
+            </div>
+
+            <div class="notice-grey col-sm">
+                <div class="border-bottom align-self-center text-center">
+                    Comparativa ambigua
+                </div>
+              <!-- ambiguous promises -->
+              {% for d in ambiguous %}
+                        <p><span class="align-self-center">
                         {% assign p = site.data.promises | where: "id", d %}
                         {% for party in p[0].parties %}
                             {% assign party_name = party %}   

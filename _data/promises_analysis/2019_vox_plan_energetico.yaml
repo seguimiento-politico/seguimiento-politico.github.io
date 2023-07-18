@@ -1,0 +1,16 @@
+id: f443dfe9-946e-41c6-8695-28b62bdcfe65
+promise_id: 770acc35-e7c3-41e3-9fd3-c03a6dfcad5f
+topics:
+  -
+    name: Energía nuclear
+    position: ambiguo
+  -
+    name: Energías renovables
+    position: compatible
+  -
+    name: Autosuficiencia energética
+    position: compatible
+  -
+    name: Centrales de carbón
+    position: incompatible
+  

@@ -1,0 +1,18 @@
+id: 39ce4d58-1f79-47ec-919c-dbf1f3f4653d
+promise_id: 23fa7e7f-5776-4d70-b304-8291eb9df84e
+topics:
+  - 
+    name: Privatizaciones
+    position: incompatible
+  -
+    name: Hidrógeno verde
+    position: compatible
+  -
+    name: Energía nuclear
+    position: incompatible
+  -
+    name: Energías renovables
+    position: compatible
+  -
+    name: Autosuficiencia energética
+    position: compatible

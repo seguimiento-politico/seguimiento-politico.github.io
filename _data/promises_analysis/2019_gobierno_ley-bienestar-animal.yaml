@@ -4,5 +4,8 @@ status: Cumplido a medias
 status_info: La ley ha sido aprobada aunque con cambios sustanciales introducidos por el PSOE, frente a la proposición de ley original de Unidas Podemos.
 topics: 
   - 
-    name: Protección y bienestar animal
+    name: Bienestar animal
     position: compatible
+  -
+    name: Biodiversidad
+    position: incompatible

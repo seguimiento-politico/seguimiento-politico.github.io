@@ -98,7 +98,17 @@
                                         {% endfor %}
                                         {{ description | truncatewords: 25 }}
                                     {% endif %}
-                                </span>
+                                </span> 
+                                {% if item_analysis[0].topics %}
+                                    <span class="text-muted">
+                                        {% for topic in item_analysis[0].topics %}
+                                            {{ topic.name}}
+                                            {% if forloop.last == false %}
+                                                {{ ", "}}
+                                            {% endif %}     
+                                        {% endfor %}
+                                    </span>
+                                {% endif %}
                             </td>
                             <td class="d-none d-sm-table-cell">
                                 <span class="d-none d-md-block list-status">{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}</span>
