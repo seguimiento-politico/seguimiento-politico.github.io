@@ -1,0 +1,34 @@
+id: 26104b48-9111-449c-988f-6aa560b9e8fa
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 79
+    section: 5.2, 29
+categories:
+  - Vivienda y urbanismo
+  - Derechos y servicios sociales
+title: "Derecho vivienda: reserva de suelo para vivienda protegida (hipotecas, alquiler y construccion)"
+description: "Desarrollaremos una normativa específica para que en suelo urbano consolidado se garantice una reserva del 30% para vivienda protegida. En este sentido, y con el objetivo de «que nadie necesite destinar más del 30% de sus ingresos al pago de la vivienda», se destacan las siguientes medidas:"
+statements:
+  -
+    id: 1
+    quote: Desarrollaremos y haremos cumplir la declaración de mercado tensionado de la Ley por el Derecho a la Vivienda en todos los ámbitos geográficos que cumplan los requisitos que establece la Ley, aplicando así la regulación de alquileres a todas las zonas de mercado tensionado para garantizar la igualdad de todos los inquilinos en el ejercicio de sus derechos. Se trata de garantizar el control de alquileres en toda España en tanto que la competencia de regulación de precios es nacional. 
+  -
+    id: 2
+    quote: Adicionalmente, reformaremos el sistema de incentivos fiscales de la Ley de Vivienda, beneficiando fiscalmente solo a los propietarios que alquilen sus viviendas al precio igual o por debajo del índice de referencia, establecido en función del 30% de los ingresos de los hogares que alquilan. 
+  -
+    id: 3
+    quote: A su vez, es necesario regular las viviendas turísticas, de habitaciones y el alquiler de temporada para evitar que sean vías para saltarse la Ley, junto con un régimen sancionador y de inspección para garantizar la efectividad de la norma.
+  -
+    id: 4
+    quote: "Constituiremos, en menos de diez años, un parque residencial de viviendas sociales y asequibles para alquiler de dos millones de inmuebles, con un gasto sostenido del 1% del PIB de media. Este parque público es la clave estructural para garantizar el derecho a una vivienda adecuada y asequible: movilizando las viviendas vacías, aumentando la oferta pública mediante la compra de viviendas ya construidas o construirlas donde sea necesario. Esto requiere aumentar el presupuesto público en vivienda hasta, al menos, el 1% del PIB, sostenerlo en el tiempo y lograr la cooperación de las diferentes Administraciones. Nuestro modelo es Europa, es Viena. Queremos un parque de vivienda a la europea."
+  -
+    id: 5
+    quote: En materia hipotecaria, proponemos un bono de emergencia para los hogares hipotecados a tipo variable para la compra de su vivienda habitual, que sufren la fuerte alza de los tipos de interés del BCE, además de una gran pérdida de compra por el alza de los precios de consumo. La cuantía del bono sería de 1.000€ por hogar y ayudaría a sufragar una parte del aumento de la hipoteca. Beneficiaría a los hogares que se hipotecaron a variable en los últimos diez años por un importe de hasta 250.000€ y precio de compra no superior a 300.000€, que son los que tienen una mayor carga de intereses. Beneficiaría a un millón de hogares. Tendría un coste de mil millones de euros que se financiarían con el impuesto extraordinario a la banca, por lo que no tendría ningún coste para el contribuyente. Además, es imprescindible establecer de forma obligatoria la portabilidad de hipotecas y la posibilidad de acogerse a medidas de reestructuración de deudas y quitas hipotecarias.

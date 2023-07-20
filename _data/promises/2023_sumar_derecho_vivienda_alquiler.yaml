@@ -1,0 +1,57 @@
+id: 621196b4-d3a4-4f89-b64d-4b0e7f150d91
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 75
+    section: 5.2, 7-9; 12-16; 19; 22; 24-25
+categories:
+  - Vivienda y urbanismo
+  - Derechos y servicios sociales
+title: "Derecho vivienda: Alquiler"
+statements:
+  -
+    id: 1
+    quote: En las áreas de mercado tensionado, estudiaremos si conviene condicionar las autorizaciones administrativas de compraventa de vivienda a que el comprador resida en la misma, la destine a alquiler habitual de larga duración o a un alquiler protegido. Adicionalmente se estudiarán medidas «anti flipping» para transacciones corporativas.
+  -
+    id: 2
+    quote: Estableceremos limitaciones al alquiler turístico, de habitaciones y de temporada para que no se conviertan en una opción que sortee la aplicación de la Ley de Vivienda.
+  -
+    id: 3
+    quote: Aumentaremos la duración mínima de los contratos de arrendamiento de vivienda tendiendo a que sean indefinidos con causas de resolución excepcionales para proteger al propietario.
+  -
+    id: 4
+    quote: Crearemos un registro obligatorio de fianzas del alquiler y aumentaremos las capacidades de inspección.
+  -
+    id: 5
+    quote: Impulsaremos un registro de viviendas vacías en coordinación con las comunidades autónomas y los ayuntamientos.
+  -
+    id: 6
+    quote: "Modificaremos la Ley 12/2023 de Vivienda para incluir: el alquiler social obligatorio para grandes tenedores, la dación en pago, obligaciones de resultado para las Administraciones públicas en materia de vivienda alternativa frente a los desahucios, movilización de vivienda de la Sareb en coordinación con las comunidades autónomas, regulación efectiva de precios del alquiler y desarrollo de un régimen sancionador. Garantizaremos la fuerza vinculante de los dictámenes de los diferentes organismos de protección de derechos humanos de Naciones Unidas (en particular recomendaciones del Comité de Derechos Económicos, sociales y Culturales)."
+  -
+    id: 7
+    quote: Habilitaremos al Estado Central o a las Administracione locales a instar a la comunidad autónoma que no lo haya hecho a declarar zona de mercado tensionado en los ámbitos geográficos que cumplan los requisitos que establece la Ley por Derecho a la Vivienda. Aplicaremos así la regulación de alquileres a todas las zonas de mercado tensionado para garantizar la igualdad de todos los inquilinos en el ejercicio de sus derechos.
+  -
+    id: 8
+    quote: Adicionalmente, reformaremos el sistema de incentivos fiscales de la Ley de Vivienda, beneficiando fiscalmente solo a los propietarios que alquilen sus viviendas al precio igual o por debajo del índice de referencia, establecido en función del 30% de los ingresos de los hogares que alquilan. A su vez, es necesario regular las viviendas turísticas, de habitaciones y el alquiler de temporada para que no sean vías para saltarse la Ley, junto a un régimen sancionador y de inspección para garantizar la efectividad de la norma.
+  -
+    id: 9
+    quote: Convertiremos la Sareb en una herramienta pública que tenga como objetivo garantizar el derecho a la vivienda. Para ello sus competencias deberían depender del ministerio que tenga las competencias a nivel estatal en materia de vivienda y realizar una gestión activa, con las personas que están en situación de precariedad en viviendas de su propiedad, para gestionar alquileres sociales vinculados al nivel de ingresos.
+  -
+    id: 10
+    quote: Mejoraremos la información de alquileres y estableceremos precios de referencia. Esta propuesta pretende mejorar el funcionamiento del mercado del alquiler de vivienda por dos vías. La primera de ellas es mejorar el conocimiento sobre la evolución de los alquileres estableciendo un pago mensual a cuenta en el IRPF del 0,1% de los ingresos percibidos por alquileres, para conocer con precisión casi censal y en tiempo real cómo evoluciona el precio de los alquileres en España. La segunda es establecer unos precios de referencia para las zonas tensionadas equivalentes al 30% de la renta de los hogares que alquilan, eliminando las deducciones fiscales en el IRPF de los alquileres que se sitúen por encima del precio de referencia y estableciendo un recargo en el impuesto de sociedades para los fondos y empresas que alquilen viviendas por encima de los precios de referencia. Por otro lado, haremos obligatoria la declaración de zona de mercado tensionado en las áreas geográficas en las que se cumplan objetivamente los requisitos que la Ley de Vivienda establece, aplicando así la regulación de alquileres a todas las zonas de mercado tensionado sin depender de la voluntad política del Gobierno autonómico.
+  -
+    id: 11
+    quote: Incrementaremos las ayudas al alquiler a nivel nacional mejorando la gestión del bono de alquiler joven para garantizar el pago mensual a las personas beneficiarias y estableceremos un bono de ayuda a los hipotecados. En el caso de las ayudas al alquiler, estas tienen que ir acompañadas necesariamente de una regulación de los precios y, en el caso de las hipotecas, es imprescindible apostar por el tipo fijo permitiendo a los consumidores, a través de una «portabilidad», el cambio de la cuota hipotecaria de tipo variable a tipo fijo. A su vez, estableceremos la posibilidad de que los consumidores puedan acogerse a medidas de reestructuración y quitas de la deuda hipotecaria.
+  -
+    id: 12
+    quote: Crearemos un programa de protección para arrendatarios vulnerables que permitirá facilitar el acceso a alquileres sociales en el mercado libre, así como a la red pública de alojamientos y pisos tutelados a personas y colectivos con necesidades específicas, como aquellas en situación de dependencia, las víctimas de violencia de género, las que presenten problemas de salud mental, las de especial vulnerabilidad, las personas solicitantes de asilo, las refugiadas y los jóvenes migrantes emancipados.
+  -
+    id: 13
+    quote: Desarrollaremos una carta de derechos de los inquilinos, dotaremos jurídicamente a las asociaciones y sindicatos de personas inquilinas de capacidad de representación en las negociaciones colectivas con los propietarios y de capacidad jurídica en los procesos legislativos, así como en los planes públicos de vivienda.

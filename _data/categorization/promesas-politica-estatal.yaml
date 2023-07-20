@@ -2,6 +2,9 @@ categories:
     - 
         name: Agricultura
         icon: tractor
+    -
+        name: Agencias públicas
+        icon: tasks
     - 
         name: Agua
         icon: faucet
@@ -35,6 +38,9 @@ categories:
     - 
         name: Educación 
         icon: user-graduate
+    -
+        name: Empresas públicas
+        icon: sitemap
     - 
         name: Energía
         icon: charging-station

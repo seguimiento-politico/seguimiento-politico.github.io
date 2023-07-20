@@ -1,0 +1,29 @@
+id: 728b8ab9-9001-4a8d-92fe-f5e328c47794
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 74
+    section: 5.1, 8
+categories:
+  - Medioambiente
+  - Territorio
+  - Vivienda y urbanismo
+title: Renaturalización y regeneración urbana con soluciones basadas en la naturaleza.
+description: Apostamos por recuperar y mejorar las infraestructuras verdes y azules para fomentar, mediante el impulso de proyectos y políticas que permitan desde nuestras ciudades la mitigación del cambio climático y la adaptación a sus efectos, la reaparición de la naturaleza en entornos urbanizados.
+statements:
+  -
+    id: 1
+    quote: Proponemos la creación del marco normativo e institucional propicio para que todas las ciudades desarrollen estrategias de descarbonización, poniéndose metas que permitan llegar a la neutralidad de carbono en 2050, el horizonte marcado por la Unión Europea. 
+  -
+    id: 2
+    quote: Esta renaturalización de los espacios urbanos pasa por el repoblamiento con especies autóctonas, la mejora de la calidad del aire o la creación de espacios de sombra y de bajas temperaturas, con una estrategia no solo circular, sino también regenerativa. 
+  -
+    id: 3
+    quote: El objetivo sería alcanzar en 2040 el 30% de cobertura arbórea en todos los asentamientos urbanos del territorio español.

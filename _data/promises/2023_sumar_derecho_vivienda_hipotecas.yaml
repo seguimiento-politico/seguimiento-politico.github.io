@@ -1,0 +1,50 @@
+id: 231feeea-b594-4111-b7c6-6c510b7e420f
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 77
+    section: 5.1, 17-18; 20-21; 23; 26-28
+categories:
+  - Vivienda y urbanismo
+  - Derechos y servicios sociales
+  - Empresas públicas
+title: "Derecho vivienda: hipotecas, banco público y otras medidas"
+statements:
+
+  -
+    id: 1
+    quote: Impulsaremos recursos y métodos de inspección para la persecución de las prácticas de acoso inmobiliario, de discriminación en el acceso a la vivienda, así como cualquier otro incumplimiento de la normativa vigente en materia de vivienda.
+  -
+    id: 2
+    quote: Crearemos un bono de emergencia para los hogares hipotecados a tipo variable para la compra de su vivienda habitual que sufren la fuerte alza de los tipos de interés decidida por el BCE. La cuantía del bono será de 1.000€ por hogar y ayudará a sufragar una parte del aumento de la hipoteca. Beneficiará a los hogares que se hipotecaron a tipo variable en los últimos diez años por un importe de hasta 250.000€ y precio de compra de hasta 300.000€, que son los que tienen una mayor carga de intereses (un millón de hogares) con un coste global de mil millones de euros, que se financiarán con cargo al impuesto extraordinario a la banca.
+  -
+    id: 3
+    quote: Estableceremos de forma obligatoria la portabilidad de hipotecas. Las rápidas, contundentes y permanentes subidas de los tipos de interés que ha llevado a cabo el BCE están provocando incrementos de las cuotas hipotecarias inasumibles para muchos hogares con hipotecas a tipos variables. La propuesta de portabilidad de las hipotecas de tipo variable a tipo fijo pretende romper el corralito de hipotecados en cada banco que ha creado el sector para maximizar beneficios. Se trata, siguiendo la estela de la portabilidad telefónica que tan buenos resultados ha dado, de promover la portabilidad de hipotecas —por novación o subrogación—, obligando a que las entidades de crédito publiquen en la CNMC sus ofertas de crédito hipotecario y los perfiles asociados para que cada cliente pueda decidir optar al que se ajuste mejor a sus características y posibilidades.
+  -
+    id: 4
+    quote: Estableceremos un objetivo nacional de solidaridad urbana en eficiencia energética del parque de vivienda existente.
+  -
+    id: 5
+    quote: Mejoraremos el acceso y la calidad de la vivienda en zonas en proceso de despoblación mediante la puesta en marcha de medidas de movilización de vivienda adecuadas a las características de cada territorio.
+  -
+    id: 6
+    quote: Implementaremos la estrategia nacional para la erradicación del sinhogarismo, basado en el modelo «Housing First», garantizando el derecho subjetivo a la vivienda.
+  -
+    id: 7
+    quote: Crearemos un banco público para que contrarreste el oligopolio bancario y se pueda rebajar el coste de las hipotecas. Crearlo a partir del ICO y de la red de oficinas de Correos. Un banco que también lleve los servicios financieros a la España vaciada.
+  -
+    id: 8
+    quote: Estableceremos un marco normativo que favorezca la figura de las Asociaciones de Vivienda, que tiene éxito en Europa, como un modelo de gestión y provisión de vivienda asequible por organizaciones sin ánimo de lucro o ánimo de lucro limitado, especializadas en vivienda. Es fundamental desarrollar herramientas como la financiación pública, los avales públicos, la regulación de la inversión privada de impacto social, la provisión de suelo y un marco fiscal favorable para la provisión de vivienda asequible.
+  -
+    id: 9
+    quote: Reconoceremos el derecho subjetivo a la vivienda de forma progresiva incluyendo a diferentes colectivos, empezando por las personas en situación de sinhogarismo. El derecho subjetivo a la vivienda será satisfecho a través de la garantía de acceso a vivienda pública o mediante ayudas públicas al alquiler en el mercado privado.
+
+ 
+  

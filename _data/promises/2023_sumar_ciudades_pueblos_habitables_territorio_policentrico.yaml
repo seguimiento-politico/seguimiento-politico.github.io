@@ -1,0 +1,34 @@
+id: ce48cd50-f05c-4b74-90b9-09224857d157
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 72
+    section: 5.1, 2
+categories:
+  - Vivienda y urbanismo
+  - Derechos y servicios sociales
+  - Organización estatal y administraciones públicas
+title: Desarrollo de un territorio policéntrico con áreas urbanas mixtas y autónomas.
+statements:
+  -
+    id: 1
+    quote: Queremos ciudades y territorios que permitan la proximidad. Para ello, es necesaria una distribución de servicios y equipamientos equilibrada en el territorio, que le permita a toda la ciudadanía un acceso equitativo.
+  -
+    id: 2
+    quote: Hace falta una apuesta por la proximidad y por los ciclos cortos que abarque desde la alimentación al comercio, la sanidad, la educación, el medio ambiente, la cultura, el ocio o el deporte. 
+  -
+    id: 3
+    quote: Tenemos el objetivo de incrementar el tiempo libre de la ciudadanía.
+  -
+    id: 4
+    quote: Se impulsará la creación de una red estatal centrada en el urbanismo y en la vida cotidiana, compuesta por representantes de consejos municipales de género, urbanismo y sociedad civil. El objetivo es fomentar la formación e intercambio de buenas prácticas, así como la investigación y aplicaciones piloto dirigidas a transitar hacia un modelo urbano sostenible y verde, centrado en los cuidados y en el día a día, y que tenga impacto en la normativa vigente.
+  -
+    id: 5
+    quote: Modificaremos la Ley del Suelo en coordinación con las comunidades autónomas y entidades locales para apostar por el desarrollo de ciudades más compactas, garantizando en cada barrio o nodo urbano la presencia de espacios naturales y dotacionales junto a los servicios adecuados para el normal y completo desarrollo de la vida cotidiana. No podrán faltar espacios verdes cercanos y accesibles, un transporte público de calidad y las condiciones que faciliten y fomenten la movilidad activa. En este sentido se incorporarán nuevos estándares de dotaciones, equipamientos, servicios e infraestructuras para las actuaciones urbanísticas, con especial énfasis en la internalización de las externalidades medioambientales, normas actualizadas y de carácter general de protección del paisaje, especialmente del litoral, y restricciones de carácter general a usos y actividades en suelos protegidos no urbanizables

@@ -1,0 +1,48 @@
+id: 238e41b6-ef04-4623-b3f0-e17cbe6e77f1
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+  type: manifesto
+  id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+  page: 71
+  section: 4.3 IV, 12-13
+categories:
+  - Alimentación
+  - Agricultura
+  - Ganadería
+  - Salud
+  - Consumo
+  - Pesca
+  - Medio Ambiente
+  - Política internacional
+  - Organización estatal y administraciones públicas
+  - Agencias públicas
+title: "Alimentación saludable: Gobernanza multiactor, multinivel y de abajo arriba"
+statements:
+  -
+    id: 1
+    quote: <b>Transversalización de la perspectiva de sistemas alimentarios sostenibles y saludables en las políticas de la escala estatal a través de un plan estatal por la alimentación sostenible y saludable que permita la armonización de distintas políticas en el marco del futuro reglamento de la Unión Europea sobre sistemas alimentarios sostenibles y la ley de futuro por la agricultura, la ganadería y la alimentación</b>
+  -
+    id: 2
+    quote: Trabajaremos para introducir la perspectiva alimentaria saludable y sostenible en el Plan de Contratación Pública Ecológica 2018-2025, el Plan Estratégico de la Política Agraria Común de España 2023-2027, el Fondo Europeo Marítimo, de Pesca y de Acuicultura 2021-2027, la Estrategia de Salud Pública 2022 o el Plan Nacional Integrado de Energía y Clima 2021-2030, entre otros.
+    partial: ini
+  -
+    id: 3
+    quote: Impulsaremos el desarrollo de departamentos específicos para la promoción de la alimentación sostenible y saludable, con personal y presupuesto propios, para el desarrollo de políticas alimentarias específicas. Asimismo, se promoverá de manera activa la coordinación entre las distintas Administraciones públicas con competencias en cuestiones alimentarias en la escala estatal.
+    partial: end
+  -
+    id: 4
+    quote: <b>Creación de una estructura de gobernanza multiactor anidada en las distintas escalas administrativas</b>
+  -
+    id: 5
+    quote: Estableceremos mecanismos para compartir e implementar acciones y prácticas que se hayan demostrado exitosas a nivel local y regional en todos los ámbitos de la Administración.
+    partial: ini
+  -
+    id: 6
+    quote: Crearemos una estructura de gobernanza alimentaria estatal que articule a las distintas administraciones con competencias en alimentación, en diálogo con las entidades sociales implicadas en la promoción de la alimentación sostenible y saludable.
+    partial: end
