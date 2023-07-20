@@ -19,7 +19,8 @@ statements:
     id: 4
     quote: Llevaremos a cabo el saneamiento de las rías, desembocaduras de ríos y otros lugares de especial riqueza ambiental, económica y social.
 categories:
-  - 'Agricultura, ganadería y pesca'
+  - Agua
+  - Agricultura
   - Medioambiente
 parties:
   - PSOE

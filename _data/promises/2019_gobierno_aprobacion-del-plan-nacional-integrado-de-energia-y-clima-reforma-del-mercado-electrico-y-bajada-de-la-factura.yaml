@@ -32,7 +32,8 @@ statements:
     id: 8
     quote: Completaremos la aprobación del Estatuto del consumidor electrointensivo, con el objetivo de potenciar la competitividad y la eficiencia de las empresas con altos costes energéticos, a través de compensaciones y exenciones de pago a cambio de que éstas mejoren su eficiencia energética y que mantengan y generen empleo."
 categories:
-  - Industria y energía
+  - Industria
+  - Energía
   - Medioambiente
 parties:
   - PSOE

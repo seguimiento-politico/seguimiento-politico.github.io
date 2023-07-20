@@ -1,0 +1,34 @@
+id: 72f62379-9e9a-45af-88d9-52d51e21dfa1
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 36
+    section: 2.3
+categories:
+  - Medioambiente
+  - Industria
+  - Energía
+  - Infraestructuras
+  - Ciencia y tecnología
+title: "Avanzar en la descarbonización: Industria"
+description: La descarbonización de la industria es una oportunidad de innovación que aumentará su competitividad
+statements:
+  -
+    id: 1
+    quote: para ello apostamos por fomentar las inversiones en eficiencia energética, reduciendo y optimizando el consumo de gas natural en los diversos procesos industriales. 
+  -
+    id: 2
+    quote: Establecer criterios de compra pública para productos que tienen alternativa de producción descarbonizada (por ejemplo, el acero). 
+  -
+    id: 3
+    quote: En colaboración con los sectores industriales, invertir en I+D+i para la descarbonización de los procesos industriales. 
+  -
+    id: 4
+    quote: Elaborar una hoja de ruta de demanda del hidrógeno específicamente para la industria española que ayude a planificar las inversiones de manera eficiente y realista.

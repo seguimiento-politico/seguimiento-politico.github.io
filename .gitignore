@@ -143,3 +143,5 @@ _site/
 /.idea
 frontmatter.json
 .frontmatter/database/mediaDb.json
+
+drafts

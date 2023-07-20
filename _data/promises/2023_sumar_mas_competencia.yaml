@@ -5,8 +5,11 @@ config:
 election_type: generales
 from: "2023-07-23"
 categories:
-    - Comercio, transporte y turismo
-    - Industria y energía
+  - Comercio
+  - Transporte
+  - Turismo
+  - Industria
+  - Energía
 parties:
   - SUMAR
 reference:

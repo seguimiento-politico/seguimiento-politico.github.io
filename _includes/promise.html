@@ -93,9 +93,14 @@
     </div>    
     <div class="row m-2">
         <div class="col-12 col-sm-6 text-muted small">
+            <span class="mb-0">
             {% for category in item[0].categories %}
-                <p class="mb-0"> {{ category }}</p>
+                 {{ category }}
+                 {% if forloop.last == false %}
+                    {{ "; "}}
+                 {% endif %}
             {% endfor %}
+            </span>
         </div>
         <div class="col-12 col-sm-6 text-end text-muted small">
             <b>UID:</b> {{ item[0].id }}
@@ -161,7 +166,8 @@
     </div>
     <div class="card-body">
         <div class="row">
-            <div class="notice-danger col-sm">
+            {% if divergent.size > 0 %}
+            <div class="notice-danger col-md">
                 <div class="border-bottom align-self-center text-center">
                         Objetivos divergentes
                 </div>
@@ -180,8 +186,9 @@
                         </span></p>
                     {% endfor %} 
             </div>
-
-            <div class="notice-grey col-sm">
+            {% endif %}
+            {% if ambiguous.size > 0 %}
+            <div class="notice-grey col-md">
                 <div class="border-bottom align-self-center text-center">
                     Comparativa ambigua
                 </div>
@@ -200,8 +207,9 @@
                         </span></p>
                     {% endfor %} 
             </div>
-
-            <div class="notice-success col-sm">
+            {% endif %}
+            {% if convergent.size > 0 %}
+            <div class="notice-success col-md">
                 <div class="border-bottom align-self-center text-center">
                     Objetivos convergentes
                 </div>
@@ -220,7 +228,7 @@
                         </span></p>
                     {% endfor %} 
             </div>
-            
+            {% endif %}
           </div> 
     </div>    
 </div>

@@ -1,0 +1,38 @@
+id: 5e84174d-d7ea-4882-ab0b-afd309bbc496
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 66
+    section: 12
+categories:
+  - Pesca
+  - Economía
+  - Trabajo
+  - Fiscalidad
+  - Comercio
+  - Transporte
+  - Turismo
+title: Mejora de la rentabilidad del sector pesquero y la sostenibilidad de las comunidades locales dependientes de la pesca
+statements:
+  -
+    id: 1
+    quote: Recuperación del papel de organismos como el Instituto Social de la Marina (ISM), al que se le han retirado competencias clave para el sector pesquero, e instaurar otros similares al antiguo Fondo de Regulación y Organización del Mercado de los Productos de la Pesca y Cultivos Marinos (FROM), referente en la promoción del consumo de pescado como alimento sostenible y saludable, apostando por una estrategia de comunicación, información y difusión permanente que ayude a consumidores y profesionales de la nutrición a tomar decisiones adecuadas de consumo con criterios de salud, sostenibilidad y temporalidad.
+  -
+    id: 2
+    quote: Acciones de mejora de los canales de comercialización, incluyendo los canales alternativos de proximidad y venta directa mediante el desarrollo del Real Decreto de primera venta y otros. Canales específicos de venta para los productos de la pesca artesanal y a pequeña escala en circuitos alimentarios sostenibles.
+  -
+    id: 3
+    quote: Cumplimiento y mejora de los mecanismos de la trazabilidad y etiquetado de los productos pesqueros según las normativas vigentes.
+  -
+    id: 4
+    quote: Promoción de la «biodiversidad alimentaria» diversificando la oferta y fomentando el consumo de alimentos producidos localmente y de manera sostenible.
+  -
+    id: 5
+    quote: Fomento de la compra pública de productos frescos de la pesca artesanal en instituciones públicas (hospitales, residencias, colegios...) mediante su inclusión en los pliegos de contratación.

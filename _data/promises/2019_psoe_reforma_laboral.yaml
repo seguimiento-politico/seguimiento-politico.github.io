@@ -6,7 +6,9 @@ election_type: generales
 from: "2019-11-10"
 categories:
   - Derechos y servicios sociales
-  - Economía, trabajo y hacienda
+  - Economía
+  - Trabajo
+  - Fiscalidad
 parties:
   - PSOE
 reference:

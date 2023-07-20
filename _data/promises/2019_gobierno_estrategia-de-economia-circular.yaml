@@ -16,7 +16,8 @@ statements:
     id: 3
     quote: "Se abordarán igualmente medidas de eficiencia para sectores clave: construcción, agroalimentación, turismo, envases, embalajes, textil, fabricación eléctrica y electrónica."
 categories:
-  - 'Economía, trabajo y hacienda'
+  - Economía
+  - Trabajo
   - Medioambiente
 parties:
   - PSOE

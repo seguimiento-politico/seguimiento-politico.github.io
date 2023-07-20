@@ -10,10 +10,14 @@ reference:
     type: manifesto
     id: afa27807-23cd-4d97-98a6-7e1a5d15f2e3
 categories:
-    - Economía, trabajo y hacienda
-    - Derechos y servicios sociales
-    - Comercio, transporte y turismo
-    - Vivienda y urbanismo
+  - Economía
+  - Trabajo
+  - Fiscalidad
+  - Derechos y servicios sociales
+  - Comercio
+  - Transporte
+  - Turismo
+  - Vivienda y urbanismo
 title: "Una transición al alcance de todas las personas"
 description: "La lucha contra la pobreza energética en todas sus dimensiones es una prioridad para Sumar. Se establecerán los mecanismos necesarios para que todas las personas puedan beneficiarse del acceso a una energía limpia y barata, asegurando un suministro básico energético, así como facilitando las inversiones necesarias a los grupos sociales que más lo necesiten."
 statements:

@@ -12,9 +12,12 @@ reference:
     page: 24
     section: 1.2 III
 categories:
-    - Economía, trabajo y hacienda
-    - Educación, ciencia y tecnología
-    - Derechos y servicios sociales
+  - Economía
+  - Trabajo
+  - Fiscalidad
+  - Educación
+  - Ciencia y tecnología
+  - Derechos y servicios sociales
 title: La digitalización al servicio del trabajo decente
 tags: [digitalización]
 statements:

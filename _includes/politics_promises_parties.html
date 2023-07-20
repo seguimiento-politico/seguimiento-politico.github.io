@@ -47,7 +47,7 @@
                     <thead> 
                     <tr class="bg-dark text-light">
                         <th></th>
-                        <th>{{ site.data.ui-text[site.locale].promise_label | default: "Category" }}</th>
+                        <th class="sr-only">{{ site.data.ui-text[site.locale].promise_label | default: "Category" }}</th>
                         <th>{{ site.data.ui-text[site.locale].promise_label | default: "Promise" }}</th>
                         <th class="d-none d-sm-table-cell">{{ site.data.ui-text[site.locale].status_label | default: "Status" }}</th>
                         <th></th>
@@ -72,7 +72,7 @@
                             <td>
                                 {% include items_logo.html type='parties' %}
                             </td>
-                            <td>  
+                            <td class="sr-only">  
                                 <div>
                                     <span class="d-none list-category">
                                         {% for category in item.categories %}

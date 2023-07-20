@@ -1,0 +1,33 @@
+id: 6b3a9a07-372f-462d-a2a9-82d2c7af7b1c
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 58
+    section: 4
+categories:
+  - Agricultura
+  - Ganadería
+  - Pesca
+  - Medioambiente
+  - Territorio
+  - Educación
+  - Ciencia y tecnología
+  - Organización estatal y administraciones públicas
+title: "Medidas de igualdad para acercar el mundo urbano y el mundo rural"
+statements:
+  -
+    id: 1
+    quote: "<b>La ampliación de la dotación presupuestaria del programa Campus Rural.</b>"
+  -
+    id: 2
+    quote: "<b>El programa de intercambios entre centros educativos del medio rural y el urbano.</b>"
+  -
+    id: 3
+    quote: "<b>El fomento de la formación profesional agraria en las zonas urbanas.</b>"

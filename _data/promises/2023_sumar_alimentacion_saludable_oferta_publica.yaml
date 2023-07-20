@@ -1,0 +1,36 @@
+id: cca940b3-5604-4e99-bb79-90e4a54fa0e5
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+  type: manifesto
+  id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+  page: 70
+  section: 4.3 II, 10
+categories:
+  - Sanidad
+  - Derechos y servicios sociales
+  - Economía y fiscalidad
+title: Desarrollo de la oferta pública saludable y sostenible
+statements:
+  -
+    id: 1
+    quote: <b>Fomento de la compra pública como motor de la transición alimentaria a través de la adquisición de alimentos saludables y sostenibles destinados a los centros educativos y a otros servicios dependientes de las Administraciones públicas</b>, como centros sanitarios, universitarios, deportivos y residencias de personas mayores
+  -
+    id: 2
+    quote: "Siempre que sea posible, se dedicará al menos un 25% de la compra pública a alimentos saludables y sostenibles procedentes de producción agroecológica, local y de temporada, con una provisión directa desde redes locales de producción e incluyendo otras propuestas como las del ICLEI (fincas de pequeña escala, reducción de las emisiones de GEI, condiciones de trabajo dignas, productos de comercio justo, bienestar animal, empresas de economía social, entre otros)."
+    partial: ini
+  -
+    id: 3
+    quote: "Se incorporarán criterios mínimos vinculantes relativos a la compra de alimentos saludables y sostenibles en el Plan de Contratación Pública Ecológica 2018-2025, fomentando así la compra pública de productos ecológicos, locales y de temporada."
+  -
+    id: 4
+    quote: "Apoyaremos la planificación, la logística y la distribución de la producción para lograr el éxito de los programas."
+  -
+    id: 5
+    quote: "Se establecerán herramientas para el seguimiento de los contratos públicos que permitan garantizar unos mínimos ambientales y sociales, capacitando al personal técnico y gestor en prácticas que favorezcan la demanda de alimentos sostenibles y saludables, especificando el precio mínimo por menú en los pliegos y, por último, desarrollando herramientas para la definición de menús saludables y sostenibles y para la gestión de los comedores, formando al personal de cocina para ello."
+    partial: end

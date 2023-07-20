@@ -12,12 +12,18 @@ reference:
     page: 10
     section: 1.1.1, IV
 categories:
-    - Economía, trabajo y hacienda
-    - Comercio, transporte y turismo
-    - Industria y energía
-    - Educación, ciencia y tecnología
-    - Medioambiente
-    - Política internacional
+  - Economía
+  - Trabajo
+  - Fiscalidad
+  - Comercio
+  - Transporte
+  - Turismo
+  - Industria
+  - Energía
+  - Educación
+  - Ciencia y tecnología
+  - Medioambiente
+  - Política internacional
 title: Política industrial para la transición energética y el empleo
 statements:
   -

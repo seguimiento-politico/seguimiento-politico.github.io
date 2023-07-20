@@ -17,7 +17,9 @@ statements:
     id: 3
     quote: mejoraremos la coordinación y coherencia de acción desde los diferentes Departamentos ministeriales.
     partial: end
-categories: 'Economía, trabajo y hacienda'
+categories:
+  - Economía
+  - Trabajo
 parties:
   - PSOE
   - UNIDAS-PODEMOS

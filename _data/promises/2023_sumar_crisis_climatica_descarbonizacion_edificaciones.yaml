@@ -1,0 +1,33 @@
+id: 7de68aa2-adc3-4c7d-ae92-85ee2247b506
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 36
+    section: 2.2
+categories:
+  - Medioambiente
+  - Energía
+  - Vivienda y urbanismo
+title: "Avanzar en la descarbonización: Efidicios y viviendas"
+description: Electrificar la calefacción y el agua caliente sanitaria de los edificios es una de las medidas con más impacto en la reducción de emisiones. 
+statements:
+  -
+    id: 1
+    quote: Apostamos por una sustitución progresiva del gas por alternativas eléctricas de menor consumo. Para ello, apostamos por la bomba de calor en climatización y en ACS y por la puesta en marcha de un plan de sustitución de sistemas de calefacción dependientes de combustibles fósiles (incluyendo el gas natural), 
+  -
+    id: 2
+    quote: con la obligatoriedad de sustituir las calderas con más de 15 años, acompañado de ayudas para los hogares de menor renta. 
+  -
+    id: 3
+    quote: Fijamos como objetivo la descarbonización de los sistemas de calefacción y agua caliente de 500.000 viviendas al año, adicional a los objetivos de rehabilitación. 
+  -
+    id: 4
+    quote: En respeto a las competencias municipales de planificación urbanístico se regulará el desarrollo de nuevas redes de gas en nuevos proyectos de urbanización.
+  

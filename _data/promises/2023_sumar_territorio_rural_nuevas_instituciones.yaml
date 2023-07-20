@@ -1,0 +1,31 @@
+id: 123a456b-789c-012d-345e-6789fghij0kl
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 59
+    section: 6
+categories:
+  - Agricultura
+  - Ganadería
+  - Pesca
+  - Medioambiente
+  - Territorio
+  - Organización estatal y administraciones públicas
+title: "Nuevas instituciones para el medio rural"
+statements:
+  -
+    id: 1
+    quote: "<b>Crearemos una comisión delegada para asuntos rurales,</b> dependiente directamente del Ministerio de la Presidencia, para coordinar las actividades de los distintos ministerios en relación con el medio rural; un consejo asesor del medio rural, con representantes de la sociedad civil del medio rural y personas expertas; y un observatorio del medio rural, responsable de un informe anual sobre la evolución de la situación del medio rural, con estudios específicos sobre los diferentes territorios."
+  -
+    id: 2
+    quote: "<b>Impulsaremos la descentralización política y administrativa,</b> y fortaleceremos el municipalismo mediante la cualificación de la gestión y los servicios de las Administraciones locales, la autonomía financiera municipal y un sistema de financiación autonómico justo para la prestación de los servicios públicos que ofrecen las Administraciones locales y autonómicas en las áreas rurales."
+  -
+    id: 3
+    quote: "Todas esas medidas y sus correspondientes presupuestos deberían ponerse en marcha en el marco de un gran consenso nacional en torno a la necesidad de un mundo rural vivo y atractivo, plasmado en un <b>pacto de Estado por un mundo rural vivo similar al Pacto de Toledo</b> y que se desarrollará en el marco del plan de acción para el medio rural."

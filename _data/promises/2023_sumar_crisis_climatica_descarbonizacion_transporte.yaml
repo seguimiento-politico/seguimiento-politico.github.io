@@ -1,0 +1,39 @@
+id: d3e40b38-d4b7-4e17-a10f-4a2a38dbae76
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 36
+    section: 2.1
+categories:
+  - Medioambiente
+  - Industria
+  - Energía
+  - Transporte
+  - Turismo
+  - Infraestructuras
+  - Ciencia y tecnología
+title: "Avanzar en la descarbonización: Transporte"
+description: esponsable del 27% de las emisiones en España, es uno de los sectores prioritarios para acelerar la descarbonización. 
+statements:
+  -
+    id: 1
+    quote: Apostamos por priorizar el transporte colectivo y el de propulsión humana para desplazamientos personales y la electromovilidad en el transporte de pasajeros y de mercancías por carretera, con criterios de transición justa, y para impulsar la descarbonización del transporte aéreo y marítimo. 
+  -
+    id: 2
+    quote: Para ello, facilitaremos el acceso al vehículo eléctrico simplificando las ayudas a la compra e introduciendo criterios progresivos por renta y promoviendo una red de puntos de recarga con criterios sociales y territoriales, con el objetivo de atender a las desigualdades sociales en el acceso a la movilidad eléctrica. 
+  -
+    id: 3
+    quote: Impulsaremos la electrificación del transporte de mercancías instalando cargadores ultrarrápidos en las principales rutas comerciales del país y diseñando ayudas específicas para la electrificación dirigidas a profesionales autónomos del sector del transporte. 
+  -
+    id: 4
+    quote: Estableceremos una hoja de ruta con objetivos concretos para el despliegue de combustibles renovables de cero emisiones, como el hidrógeno 100% renovable, para uso prioritario de la aviación y el transporte marítimo, que vaya más allá de los mínimos exigidos por la UE, aprovechando así el elevado potencial de generación de hidrógeno renovable del que dispone España. 
+  -
+    id: 5
+    quote: Impulsaremos una racionalización del transporte aéreo, incrementando la oferta de transporte público ferroviario y por carretera y limitando los vuelos en distancias que pueden ser fácilmente sustituibles por tren. Asimismo, potenciaremos el tren nocturno y la conexión internacional y multimodal en puertos y aeropuertos.

@@ -12,11 +12,19 @@ reference:
 parties:
   - SUMAR
 categories:
-    - Economía, trabajo y hacienda
-    - Comercio, transporte y turismo
-    - Industria y energía
-    - Agricultura, ganadería y pesca
-    - Educación, ciencia y tecnología
+  - Economía
+  - Trabajo
+  - Fiscalidad
+  - Comercio
+  - Transporte
+  - Turismo
+  - Industria
+  - Energía
+  - Agricultura
+  - Ganadería
+  - Pesca
+  - Educación
+  - Ciencia y tecnología
 title: Más productividad y reforma empresarial
 statements:
   -

@@ -1,0 +1,40 @@
+id: bb6b9752-9845-47e3-b224-11ccdcb91051
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 60
+    section: "4.1 II 9-15"
+categories:
+  - Agricultura
+  - Ganadería
+  - Pesca
+title: "Propuestas para la transición agroecológica y apoyo a las explotaciones familiares"
+statements:
+  -
+    id: 1
+    quote: "<b>Negociación de una PAC que priorice las explotaciones familiares agrarias</b> y apoye la transición agroecológica. España debe ser proactiva y anticiparse a las propuestas de la Comisión Europea."
+  -
+    id: 2
+    quote: "<b>Servicios públicos de asesoramiento, transferencia y acompañamiento para la transición agroecológica</b>. La participación activa de las productoras y los productores agrarios en la transición agroecológica requiere la creación o la potenciación de unos servicios públicos de asesoramiento y divulgación."
+  -
+    id: 3
+    quote: "<b>Apoyo efectivo a explotaciones y empresas agroecológicas</b>. Reforzaremos el apoyo a todo el entramado de empresas agrarias y agroalimentarias que ya han emprendido el camino de la transición agroecológica."
+  -
+    id: 4
+    quote: "<b>Protección especial de la ganadería extensiva</b>. La ganadería extensiva es una de las actividades agrarias más fragilizadas hoy en día. Se promoverá un intenso debate protagonizado por los propios ganaderos y ganaderas, y se pondrán en marcha los apoyos suplementarios que necesitan para poder seguir existiendo."
+  -
+    id: 5
+    quote: "<b>Impulso y prioridad para el bienestar en la producción de animales de consumo</b>. Incentivaremos el cambio hacia modelos de producción agraria más sostenibles y respetuosos, de acuerdo con los Objetivos de Desarrollo Sostenible de la Agenda 2030 y las nuevas directrices europeas sobre bienestar animal."
+  -
+    id: 6
+    quote: "<b>Reconocimiento y compensación justa para los servicios agroecosistémicos</b>. Los muchos servicios que, mediante una buena gestión, el medio rural presta al conjunto de la sociedad han de ser legalmente reconocidos como «servicios ecosistémicos» que deben ser compensados económicamente."
+  -
+    id: 7
+    quote: "<b>Una cadena alimentaria creadora de valor para todos sus integrantes</b>. No hay agricultura verde en números rojos. Para alcanzar el objetivo de la sostenibilidad, debemos trabajar para conseguir una cadena alimentaria creadora de valor y una distribución equilibrada de este valor entre todos sus agentes."

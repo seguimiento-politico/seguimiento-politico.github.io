@@ -51,7 +51,9 @@ statements:
     id: 12
     quote: y reforzaremos el papel de la ITSS y la utoridad laboral en el control de los despidos colectivos y en otros expedientes de regulación de empleo.
     partial: end
-categories: 'Economía, trabajo y hacienda'
+categories:
+  - Economía
+  - Trabajo
 parties:
   - PSOE
   - UNIDAS-PODEMOS

@@ -1,0 +1,57 @@
+id: 8315fa0b-a2a7-48f2-96fe-a636d880aa60
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 57
+    section: 1
+categories:
+  - Agricultura
+  - Ganadería
+  - Pesca
+  - Medioambiente
+  - Territorio
+  - Vivienda y urbanismo
+  - Organización estatal y administraciones públicas
+title: Un mundo rural para vivir con igualdad de servicios y oportunidades
+statements:
+  -
+    id: 1
+    quote: "<b>Plan de acción para el medio rural para la igualdad territorial.</b> Impulsaremos un plan de acción para el medio rural que implique a las diversas áreas de gobierno y aporte recursos presupuestarios específicos y continuados, de forma coordinada con las demás Administraciones territoriales: comunidades autónomas, Administraciones locales u organizaciones sociales agrarias, entre otras."
+  - 
+    id: 2
+    partial: ini
+    quote: Un plan destinado a promover una transición justa en el medio rural, reduciendo el déficit de servicios, promoviendo el empleo, el emprendimiento y la diversidad en el mundo rural; 
+  -
+    id: 3
+    quote: a diversificar la economía hacia los sectores secundario y terciario; 
+  -
+    id: 4
+    quote: a fomentar la vivienda para jóvenes y la residencia de los empleados públicos en los pueblos; 
+  -
+    id: 5
+    quote: a compensar las desigualdades en el acceso a servicios concentrados en las urbes; 
+  -
+    id: 6
+    partial: end
+    quote: a beneficiarse in situ de la producción de energías renovables. 
+  -
+    id: 7
+    partial: ini
+    quote: Un plan destinado a dar apoyo económico y técnico a la conservación y la mejora de la biodiversidad, al mantenimiento de mosaico agroforestal, a la gestión sostenible de los bosques, la restauración de los diversos ecosistemas, la contribución a la transición energética; 
+  -
+    id: 8
+    quote: la prevención y extinción de incendios forestales; la provisión de alimentos de proximidad y de calidad; 
+  -
+    id: 9
+    quote: la ganadería extensiva; 
+  -
+    id: 10
+    partial: end
+    quote: la correcta gestión de los vertidos y los residuos agropecuarios, la agricultura ecológica y las demás prácticas respetuosas con el medio ambiente.

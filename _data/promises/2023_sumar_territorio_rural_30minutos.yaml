@@ -1,0 +1,52 @@
+id: 46f231b3-22b5-484f-a7d9-40dbde976c2c
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 58
+    section: 2
+categories:
+  - Agricultura
+  - Ganadería
+  - Pesca
+  - Medioambiente
+  - Territorio
+  - Vivienda y urbanismo
+  - Organización estatal y administraciones públicas
+  - Derechos y servicios sociales
+  - Sanidad
+  - Educación
+  - Ciencia y tecnología
+  - Comercio
+  - Transporte
+  - Turismo
+  - Migración
+title: "Territorio 30 minutos: servicios esenciales a no más de media hora"
+statements:
+  -
+    id: 1
+    quote: "<b>Conexión a internet de calidad en todo el territorio.</b>"
+  -
+    id: 2
+    quote: "<b>Servicios de atención a las personas y a las familias:</b> escuelas infantiles, primarias e institutos, centros públicos de atención primaria, oficinas postales y bancarias (ambulantes en su caso), formación profesional y continua, casas de la juventud, servicios de ayuda a domicilio a personas mayores y dependientes."
+  -
+    id: 3
+    quote: "<b>Red de transporte público para conectar provincias y pueblos,</b> y servicio de transporte público para los desplazamientos de las personas mayores a la atención sanitaria y la realización de gestiones administrativas y compras básicas."
+  -
+    id: 4
+    quote: "<b>Aplicar la gratuidad al transporte público de viajeros rurales de lunes a viernes</b> para facilitar su acceso a centros hospitalarios, universitarios y administrativos, con el objetivo de ir alcanzando la igualdad entre el medio rural y urbano."
+  -
+    id: 5
+    quote: "<b>Iniciativa pública de construcción de vivienda nueva y de compra y reforma de vivienda en desuso para alquiler.</b>"
+  -
+    id: 6
+    quote: "<b>Refuerzo de la presencia de las Administraciones públicas,</b> con beneficios fiscales o incentivos económicos a los empleados públicos que se comprometan a trabajar y residir en las zonas rurales un mínimo de cinco años."
+  -
+    id: 7
+    quote: "<b>Fomento del asociacionismo y dinamización de la vida social de los territorios rurales,</b> con especial atención al papel de las mujeres rurales, a las personas migrantes, la juventud y la participación activa de las personas mayores en su entorno social."
