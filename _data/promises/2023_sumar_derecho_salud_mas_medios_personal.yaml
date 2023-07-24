@@ -1,0 +1,27 @@
+id: f42c8c4a-672e-4c0a-a91f-1e512c56485d
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 89
+    section: 5-6
+categories:
+  - Derechos y servicios sociales
+  - Sanidad
+  - Educación
+  - Trabajo
+title: "Derecho a la salud: Más medios y personal"
+description: 
+statements:
+  -
+    id: 1
+    quote: "Atención primaria fortalecida. Plan de choque para fortalecer la atención primaria en todo el Estado. El plan supondrá la financiación directa para que las comunidades autónomas puedan aumentar personal, mejorar las infraestructuras y adquirir material sanitario."
+  -
+    id: 2
+    quote: Un sistema sanitario con futuro. Ampliaremos las plazas de formación de medicina, enfermería y psicología en las universidades públicas, con criterios de distribución geográfica según las necesidades de la sanidad de cada territorio. Aumento de las plazas de formación MIR, EIR y PIR y de otras especialidades, también según las necesidades.

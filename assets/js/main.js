@@ -7,7 +7,8 @@
       'list-party',
       'list-category',
       'list-status',
-      'list-politician'
+      'list-politician',
+      'list-year'
     ]
   };
 

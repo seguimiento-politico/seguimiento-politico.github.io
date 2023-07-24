@@ -11,11 +11,14 @@ categories:
     - 
         name: Alimentación
         icon: utensils
+    -
+        name: Cambio climático
+        icon: cloud-sun-rain
     - 
         name: Ciencia y tecnología
         icon: microscope
     - 
-        name: Comercio
+        name: Empresas y comercio
         icon: store-alt
     - 
         name: Consumo
@@ -60,7 +63,7 @@ categories:
         name: Justicia
         icon: balance-scale
     - 
-        name: Medioambiente
+        name: Medioambiente y biodiversidad
         icon: tree
     - 
         name: Migración

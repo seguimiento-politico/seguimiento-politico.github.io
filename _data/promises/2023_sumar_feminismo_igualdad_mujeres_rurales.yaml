@@ -1,0 +1,28 @@
+id: f1ee012f-d237-4909-a9a8-7b99ff8f9f33
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 112
+    section: 12
+categories:
+  - Derechos y servicios sociales
+  - Territorio
+title: "Igualdad y feminismo: Mujeres rurales"
+description:  A pesar de la existencia de la Ley Orgánica núm. 35/2011, del 4 de octubre de 2011, sobre la titularidad compartida de las explotaciones agrarias, el porcentaje de mujeres titulares de explotaciones agrarias sigue siendo inferior al de los hombres. Se tomarán medidas para avanzar hacia la paridad en la titularidad de las explotaciones agrarias. En la última reforma de la Política Agraria Común se ha introducido, como uno de los objetivos, la igualdad de género.
+statements:
+  -
+    id: 1
+    quote: Se garantizará el cumplimiento de las medidas relacionadas con las mujeres previstas en el marco del Plan Estratégico Nacional de la Política Agrícola Común (2023-2027) y en las demás políticas públicas vinculadas al mismo.
+  -
+    id: 2
+    quote: Se tomarán medidas para abordar la situación específica de las mujeres romaníes, refugiadas y migrantes en el sector agrícola.
+  -
+    id: 3
+    quote: Las mujeres, en tanto agentes de cambio, han de tener un papel prioritario en el mundo rural como protagonistas e impulsoras de nuevos modelos de producción agrícola y sostenible. Se les facilitará el emprendimiento con la creación de políticas públicas que les permitan desarrollar su actividad profesional en cualquiera de los ámbitos recogidos en la actividad económica, aplicando bonificaciones a aquellos códigos CNAE relacionados con la transición ecológica y con la creación de empleos verdes.

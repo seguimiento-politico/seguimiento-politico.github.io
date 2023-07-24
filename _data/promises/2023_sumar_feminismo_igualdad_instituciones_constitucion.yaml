@@ -1,0 +1,51 @@
+id: 728a4a48-4508-412e-9b1b-c9ce0a8e0dd9
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 112
+    section: 14
+categories:
+  - Derechos y servicios sociales
+  - Justicia
+  - Organización estatal y administraciones públicas
+  - Agencias públicas
+title: "Igualdad y feminismo: Fortalecimiento instituciones y constitución"
+description:  A pesar de que España cuenta con la que probablemente es la arquitectura institucional más ambiciosa de la Unión Europea en materia de igualdad, todavía queda un cierto margen de mejora.
+statements:
+  -
+    id: 1
+    quote: Es imprescindible fortalecer el Ministerio de Igualdad para continuar con la labor emprendida hasta la fecha, así como buscar nuevas vías de coordinación entre el Ministerio de Igualdad, el Instituto de las Mujeres y las comunidades autónomas y las distintas entidades responsables de la recopilación de datos estadísticos.
+  -
+    id: 1
+    quote: Se propondrá también crear una Vicepresidencia de Feminismos y Economía de los Cuidados para dirigir y coordinar estas reformas con el resto de las Administraciones y de agentes sociales, así como recuperar la Comisión Delegada de Igualdad.
+  -
+    id: 1
+    quote:  Además, desde la Comisión Europea se han propuesto dos directivas sobre las normas relativas a los organismos de igualdad con el objetivo de reforzar su papel, lo que afectaría directamente al Instituto de las Mujeres y al Consejo para la Eliminación de la Discriminación Racial o Étnica. Se considera fundamental ampliar sus funciones, sin perjuicio de la posible implicación de otros órganos en el marco de esta directiva.
+  -
+    id: 1
+    quote: El Instituto de las Mujeres necesita fortalecer sus recursos, sus herramientas y sus procedimientos para garantizar la ejecución del PEIEMH (2023-2027) y su capacidad de coordinación, evaluación y seguimiento de las políticas públicas de igualdad en la Administración General del Estado. Además, tiene que erigirse en referencia de producción de conocimiento así como de diseño de políticas públicas feministas, a través de la ampliación y el fortalecimiento de la colaboración con el ámbito universitario y los estudios de posgrado de género y feministas, la colaboración con otras Administraciones (organismos de igualdad autonómicos, la Federación Española de Municipios y Provincias) y con el movimiento feminista, así como profundizando su plan de estudios y su programas de becas.
+  -
+    id: 1
+    quote: Se tomarán medidas para fortalecer tanto el Observatorio de Igualdad, dependiente del Instituto de las Mujeres, como el Observatorio Estatal de Violencia sobre la Mujer.
+  -
+    id: 1
+    quote: Por otra parte, con el objetivo de dar cumplimiento efectivo a la Ley 15/2022 Integral para la Igualdad de Trato y la No Discriminación, del 12 de julio, se procederá a la creación de la Autoridad Independiente para la Igualdad de Trato, y se tomarán medidas para avanzar en la formación del personal de la Administración en la aplicación de la ley y en el fortalecimiento de los mecanismos de protección de las víctimas y de sanción de las conductas discriminatorias cuando estas se produzcan en el ámbito de actuación de las distintas Administraciones públicas.
+  -
+    id: 1
+    quote: Se regulará la figura del agente de igualdad y se creará un plan para incorporar las unidades de igualdad a la estructura de todas las Administraciones públicas del Estado, autonómicas y locales.
+  -
+    id: 1
+    quote: También se reforzarán las políticas de evaluación a través del diseño de nuevos indicadores, entre otras actuaciones.
+  -
+    id: 1
+    quote: Por último, se fortalecerá la relación con las organizaciones feministas, revisando el Consejo de Participación de las Mujeres para adaptarlo a las nuevas realidades y estableciendo otros cauces de participación, previa consulta con dichas organizaciones y en línea con lo planteado en el III Plan Estratégico para la Igualdad Efectiva de Mujeres y Hombres 2022-2025.
+  -
+    id: 1
+    quote: <b>Impacto de la Constitución en los derechos de las mujeres.</b> Se evaluará el impacto que tiene la Constitución española sobre la garantía de los derechos de las mujeres con el objetivo de darle visibilidad en el marco constitucional.

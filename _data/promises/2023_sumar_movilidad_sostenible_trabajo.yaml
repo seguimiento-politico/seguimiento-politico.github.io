@@ -1,0 +1,27 @@
+id: 853f8eee-3070-4c54-a107-82c179fa928a
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 81
+    section: 5.3 5
+categories:
+  - Economía
+  - Cambio climático
+  - Transporte
+title: "Movilidad sostenible: Corresponsabilidad empresarial"
+statements:
+  -
+    id: 1
+    quote: "Desarrollaremos normativas para la implementación de planes de transporte al trabajo: las empresas con más de quinientas (500) personas en plantilla financiarán de forma finalista y justificada las infraestructuras, los equipamientos y el coste del desplazamiento al centro de trabajo de sus plantillas."
+  -
+    id: 2
+    quote: Aplicaremos el mismo sistema a los grandes centros de atracción y generación de movilidad (centros comerciales, polígonos industriales, centros logísticos, etcétera)."
+  
+  

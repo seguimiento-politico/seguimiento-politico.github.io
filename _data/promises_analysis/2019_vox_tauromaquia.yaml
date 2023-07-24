@@ -4,3 +4,6 @@ topics:
   - 
     name: Bienestar animal
     position: incompatible
+  -
+    name: Tauromaquia
+    position: compatible

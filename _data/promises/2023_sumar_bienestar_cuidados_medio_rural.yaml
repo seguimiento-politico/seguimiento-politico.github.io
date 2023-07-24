@@ -1,0 +1,22 @@
+id: 0d095a86-28cb-466a-8979-606fadc1afd2
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 88
+    section: 1, 8
+categories:
+  - Derechos y servicios sociales
+  - Territorio
+title: "Bienestar y cuidados: Desigualdad territorial - servicios sociales en el medio rural"
+description: El bajo nivel de desarrollo de las políticas sociales en nuestro país es particularmente grave en el medio rural. Cuando una persona necesita la ayuda de servicios sociales especializados a menudo tiene que trasladarse muchos kilómetros, en zonas con un transporte público insuficiente y fragmentario.
+statements:
+  -
+    id: 1
+    quote: Proponemos una mejora sustancial de los servicios sociales rurales, estableciendo horarios de atención en los pueblos, como ya sucede con la atención primaria, o bien protocolos para que los servicios sociales acudan y actúen con eficacia cuándo y dónde se les necesite.

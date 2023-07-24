@@ -1,0 +1,39 @@
+id: e49cf16a-6eed-4c5b-a762-0353cc1ff21e
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 91
+    section: 11
+categories:
+  - Derechos y servicios sociales
+  - Sanidad
+title: "Derecho a la salud: Maternidad"
+statements:
+  -
+    id: 1
+    quote: Reproducción asistida, embarazo, atención al parto y puerperio. 
+  -
+    id: 2
+    quote: Pondremos en marcha un plan de apoyo a la maternidad que desarrollará medidas socioeconómicas de apoyo durante el embarazo y el puerperio, y mejorará los procesos de reproducción asistida, atendiendo especialmente a los grupos más vulnerables como las familias monomarentales. 
+  -
+    id: 3
+    quote: Garantizaremos el desarrollo de la Estrategia de Atención al Parto Normal, con el fin de asegurar un trato respetuoso y erradicar todas las manifestaciones de la violencia obstétrica mejorando la implementación de los protocolos de actuaciones gestacionales y perinatales, la atención por parte de matronas, el acompañamiento por la persona elegida por la mujer gestante y los protocolos piel con piel.
+  -
+    id: 4
+    quote: Se promoverá también que estos principios se apliquen en la medida de lo posible en aquellos nacimientos que requieran mayor intervencionismo. 
+  -
+    id: 5
+    quote: Promoveremos un plan integral de atención al postparto y de apoyo a la lactancia materna. 
+  -
+    id: 6
+    quote: Crearemos planes de acompañamiento psicosocial a las familias de bebés prematuros con periodo prolongado de incubadora o afectados por otras patologías que hayan requerido ingreso prolongado al nacimiento. 
+  -
+    id: 7
+    quote: Promoveremos una estrategia estatal de atención y acompañamiento al duelo perinatal.

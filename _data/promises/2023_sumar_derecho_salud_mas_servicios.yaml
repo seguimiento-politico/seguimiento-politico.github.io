@@ -1,0 +1,30 @@
+id: 6f69898b-7140-4014-bdbf-ac81fdcb1b7c
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 89
+    section: 3
+categories:
+  - Derechos y servicios sociales
+  - Sanidad
+title: "Derecho a la salud: Más y mejores servicios de salud sin listas de espera."
+statements:
+  -
+    id: 1
+    quote: Proponemos incorporar a los servicios sanitarios públicos nuevas prestaciones, como la salud bucodental, la nutrición, la salud óptica, la audioprótesis, la psicoterapia, la terapia ocupacional y la fisioterapia. Son servicios sanitarios que tienen un gran impacto en la población, pero no están incluidos en la cartera básica de servicios de salud o están presentes de forma insuficiente. Su inclusión y ampliación son una vía básica para reducir las desigualdades en el acceso a la salud.
+  -
+    id: 2
+    quote: Además, aprobaremos una ley de listas de espera que establezca tiempos máximos de espera y garantice un registro homogéneo, transparente y fiable de las listas de espera en todo el país.
+  -
+    id: 3
+    quote: Se impulsará la protección y vigilancia de la salud centrada en el modelo One Health (una sola salud humana, animal y ambiental) y los sistemas de actuación ante emergencias sanitarias y pandemias.
+  -
+    id: 4
+    quote: En la línea de otros países europeos se trabajará en pro de una transformación progresiva de la organización hospitalaria; se avanzará hacia unidades basadas cada vez más en necesidades y tipos de cuidado, optimizando así el trabajo interdisciplinar. De este modo, se pretende pasar de plantas basadas en aparatos y sistemas, a otras basadas en necesidades de cuidados, facilitando el trabajo de los profesionales y mejorando la experiencia de los pacientes.

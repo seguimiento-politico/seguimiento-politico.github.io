@@ -1,0 +1,37 @@
+id: 086296fe-78bd-46f5-89fb-c083f107d703
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 98
+    section: 4.8-4.11
+categories:
+  - Derechos y servicios sociales
+  - Sanidad
+  - Ciencia
+title: "Envejecer: Atención sanitaria e investigación"
+statements: 
+  -
+    id: 1
+    quote: <b>Atención sanitaria específica.</b> Se impulsará la prevención, el diagnóstico y el tratamiento de los trastornos de salud en personas mayores desde la atención primaria y comunitaria, mediante plantillas que incluyan profesionales de la medicina de familia y de la enfermería comunitaria, fisioterapeutas, terapeutas ocupacionales, nutricionistas, psicólogos, dentistas y podólogos. Estos equipos multidisciplinares recibirán formación continua y específica en la prevención, el diagnóstico y el tratamiento de los trastornos crónicos, las limitaciones de movilidad y el deterioro de la función cognitiva en personas mayores y en los efectos del cambio climático sobre la salud de las personas mayores. 
+  -
+    id: 2
+    quote: "Además, pondremos en marcha un plan de ayudas para la compra de audífonos: los pensionistas que lo necesiten y que tengan ingresos inferiores al salario mínimo interprofesional vigente verán financiado el 80% del coste."
+  -
+    id: 3
+    quote: <b>Salud mental y soledad no deseada.</b> Se pondrá en marcha un programa de apoyo psicológico y social a las personas mayores que estén en situaciones de mayor vulnerabilidad, en especial a las que se encuentran en situación de aislamiento social. 
+  -
+    id: 4
+    quote: Desarrollaremos iniciativas destinadas a las personas mayores en situación de soledad no deseada, en el marco de intervenciones comunitarias y con la implicación ciudadana.
+  -
+    id: 5
+    quote: <b>Autonomía al final de la vida.</b> Un aspecto que no puede dejarse de lado al abordar políticas dirigidas al cuidado de las personas mayores es el del final de la vida, garantizando que puedan suministrarse cuidados paliativos en los domicilios cuando así se desee y reconociendo la necesidad de tener una muerte digna, en coherencia con lo establecido en la Ley de Regulación de la Eutanasia.
+  -
+    id: 6
+    quote: <b>Investigación sobre el buen envejecer.</b> Nuestro país tiene serias carencias de conocimiento respecto al envejecimiento y los cambios demográficos que se avecinan. Queremos promover la investigación en este ámbito para conocer cuáles son las transformaciones sociales y del entorno físico que promueven el buen envejecimiento, teniendo en cuenta la diversidad y la heterogeneidad de las personas mayores. Se requieren investigaciones poblacionales sobre planificación, gestión y evaluación para ofrecer alternativas innovadoras que sirvan de guía a las políticas públicas.

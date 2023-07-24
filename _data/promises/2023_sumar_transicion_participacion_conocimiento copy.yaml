@@ -1,0 +1,54 @@
+id: 550e8400-e29b-41d4-a716-446655440000
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 10
+    section: 4
+categories:
+  - Democracia
+  - Educación
+  - Ciencia y tecnología
+  - Medioambiente y biodiversidad
+title: Más participación y conocimiento ciudadano en la transición
+statements:
+  -
+    id: 1
+    quote: <b>Garantizar la participación real y de calidad de la sociedad en la revisión de los principales planes,</b> estrategias y marcos normativos vinculados a la TEJ, así como en los proyectos y planes que tengan impacto social, ambiental y económico en los territorios y comunidades.
+  -
+    id: 2
+    quote: <b>Estrategia de desarrollo de competencias ciudadanas para la TEJ para tomar decisiones democráticas fundamentadas ante los retos del proceso.</b> Se desarrollará una gran campaña de información, basada en evidencias científicas, que coloque las diferentes aristas de la crisis ecológica y la transición justa en el centro del debate público.
+  -
+    id: 3
+    quote: <b>Ley de transparencia de los sectores estratégicos que permita conocer el origen de la energía y el agua que consumimos,</b> quién la gestiona, qué precios, tasas e impuestos se aplican y qué beneficios genera a sus proveedores.
+  -
+    id: 4
+    partial: ini
+    quote: <b>Incorporación de contenidos ecosociales en la educación formal.</b> Revisaremos el currículo educativo con criterios ambientales y ecosociales transversales, promoveremos la formación específica del profesorado en materia de crisis climática y crearemos materiales educativos abiertos a toda la ciudadanía.
+  -
+    id: 5
+    quote: <b>Con el debido respeto a la autonomía universitaria,</b> se fomentará la inclusión de una asignatura sobre la crisis ecosocial, basada en evidencias, que sea obligatoria en todos los grados de la educación superior.
+  -
+    id: 6
+    quote: <b>Se fomentarán las actividades que conecten la naturaleza con la escuela,</b> llevando a cabo la naturalización de los centros y promoviendo actividades en el exterior.
+  -
+    id: 7
+    quote: <b>Se revisará el Libro Blanco de Educación Ambiental,</b> con especial atención a la crisis climática, en el marco de una estrategia nacional, refrendada en un congreso estatal, y coordinada con las actuales estrategias regionales de educación ambiental. La estrategia nacional será uno de los marcos referenciales para la acción de gobierno en todos los ministerios.
+  -
+    id: 8
+    quote: <b>Se alentará la formación interna en las grandes empresas en materias de sensibilización y educación ambiental</b> ante la crisis climática.
+  -
+    id: 9
+    quote: Se obligará a tener educadores ambientales en municipios de más de diez mil habitantes.
+  -
+    id: 10
+    partial: end
+    quote: Se fomentará la calidad y la estabilidad del empleo de los y las profesionales de la educación ambiental.
+
+  

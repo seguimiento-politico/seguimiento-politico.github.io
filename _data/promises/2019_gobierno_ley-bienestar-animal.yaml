@@ -8,10 +8,16 @@ title: Ley de Bienestar Animal
 statements:
   -
     id: 1
-    quote: Que garantice una relación respetuosa hacia todos los seres vivos incluyendo la revisión de la fiscalidad de los servicios veterinarios. Estudiaremos la posibilidad de establecer un delito de maltrato de animales salvajes en su medio natural y una revisión de las penas al abandono de animales domésticos, y mejoras en el control de los animales domésticos y en el control de la producción de animales de consumo.
+    quote: Que garantice una relación respetuosa hacia todos los seres vivos incluyendo la revisión de la fiscalidad de los servicios veterinarios. 
+  -
+    id: 1
+    quote: Estudiaremos la posibilidad de establecer un delito de maltrato de animales salvajes en su medio natural y una revisión de las penas al abandono de animales domésticos, y 
+  -
+    id: 1
+    quote: mejoras en el control de los animales domésticos y en el control de la producción de animales de consumo.
 categories: 
   - Derechos y servicios sociales
-  - Medioambiente
+  - Medioambiente y biodiversidad
 parties: 
   - PSOE
   - UNIDAS PODEMOS

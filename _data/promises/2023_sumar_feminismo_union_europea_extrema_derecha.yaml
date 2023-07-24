@@ -1,0 +1,31 @@
+id: 9c6f53cb-3edb-4a86-9f4e-e8c1c6c591fc
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 113
+    section: 16
+categories:
+  - Derechos y servicios sociales
+  - Política internacional
+title: "Igualdad y feminismo: Por una Europa feminista y contra la extrema derecha"
+description: Nos encontramos en un momento delicado para los avances en igualdad. Es un hecho que se han producido retrocesos tanto dentro como fuera de la Unión Europea. La negación de la violencia contra las mujeres, la introducción del pin parental o la eliminación de parte de la arquitectura institucional son algunos ejemplos.
+statements:
+  -
+    id: 1
+    quote: <b>Agenda feminista frente a la extrema derecha.</b> Nos comprometemos a lanzar campañas de sensibilización y otras medidas para frenar los discursos contrarios a los derechos de las mujeres, que se refieren a la igualdad y a la perspectiva de género como «ideología de género».
+  -
+    id: 2
+    quote: <b>Trabajar por una Europa feminista.</b> La Unión Europea es un actor imprescindible para avanzar hacia la igualdad tanto dentro como fuera de la Unión. Contamos con herramientas de indudable valor, pero hay que seguir trabajando para continuar por esa senda y evitar retrocesos ya visibles en algunos Estados miembros, transponiendo de manera ambiciosa las directivas actuales y apoyando las propuestas que serán negociadas próximamente durante la presidencia española, como la lucha contra la violencia contra las mujeres o la prevención y la lucha contra la trata de seres humanos y por la protección de las víctimas. Dado que se hace una apuesta decidida por el fortalecimiento de la perspectiva de género en el contexto de la Unión Europea, y considerando el papel del Consejo como colegislador, creemos que, entre las formaciones, ha de figurar una específica sobre igualdad de género.
+  -
+    id: 3
+    quote: Además, entendemos que en ciertas áreas es necesaria una reforma de los tratados así como de la Carta de derechos fundamentales de la UE, con el objetivo de lograr cambios que sean sostenidos en el tiempo, especialmente para abordar todas las formas de violencia en contra de las mujeres, la protección de los derechos sexuales y reproductivos o el desarrollo de la Estrategia Europea de Cuidados.
+  -
+    id: 4
+    quote: Apoyamos también la integración del pilar social europeo dentro de los tratados y el desarrollo de medidas para hacer efectivos los principios 2 y 3 del mismo.

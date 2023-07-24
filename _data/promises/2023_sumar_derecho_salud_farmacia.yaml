@@ -1,0 +1,30 @@
+id: 1012d7d2-4d00-4a88-9846-143a9c47402e
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 91
+    section: 8
+categories:
+  - Derechos y servicios sociales
+  - Sanidad
+  - Empresas públicas
+  - Agencias públicas
+  - Ciencia
+title: "Derecho a la salud: Una farmacia al servicio del bien común"
+statements:
+  -
+    id: 1
+    quote: Se creará una empresa farmacéutica pública que investigue, fabrique y comercialice medicamentos, terapias esenciales y vacunas, guiándose por principios de interés público.
+  -
+    id: 2
+    quote: Se garantizará la independencia del sistema sanitario de la industria farmacéutica, tanto en los aspectos relacionados con la formación como con la investigación, potenciando el papel de la Agencia de Evaluación de Medicamentos y Productos Sanitarios.
+  -
+    id: 3
+    quote: Se avanzará en la eliminación progresiva del copago farmacéutico, priorizando a personas de rentas bajas y elaborando un catálogo de medicamentos de alto valor terapéutico exentos de copago

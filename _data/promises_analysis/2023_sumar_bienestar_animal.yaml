@@ -1,2 +1,12 @@
 id: 8029f601-d966-4f3a-b5ca-2c7b6c7ac011
 promise_id: 402405cb-323d-404d-8b81-97f3e5530fd7
+topics: 
+  - 
+    name: Bienestar animal
+    position: compatible
+  -
+    name: Biodiversidad
+    position: incompatible
+  -
+    name: Tauromaquia
+    position: incompatible

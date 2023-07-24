@@ -1,0 +1,76 @@
+id: 9adabb37-2af0-4f29-86a6-c61fb37e2a83
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 80
+    section: 5.3, 1-2; 4; 6; 10-12
+categories:
+  - Cambio climático
+  - Transporte
+  - Infraestructuras
+  - Derechos y servicios sociales
+  - Territorio
+title: "Movilidad sostenible: Nuevo derecho y financiación"
+description: "La movilidad debe ser un derecho básico y de carácter universal, dado que facilita el acceso a otros derechos. La disponibilidad de fórmulas de movilidad accesibles, económicas y diversificadas —sin olvidar la movilidad activa— es una condición previa para multiplicar y mejorar las opciones de acceso al lugar de trabajo, a la vivienda, a los centros educativos y sanitarios, a los servicios comerciales, al ocio, a la cultura, al disfrute del tiempo libre y a la práctica del deporte. Al mismo tiempo, dada la situación de emergencia climática, la movilidad tiene que ser en todo momento sostenible y los sectores de transporte y de movilidad deben alcanzar la neutralidad climática antes de 2050. En todo caso, en el menor plazo posible."
+statements:
+  -
+    id: 1
+    quote: <b>Garantizaremos el derecho a la movilidad sostenible y saludable</b>. Se calificará la movilidad sostenible como un derecho ciudadano con el mayor rango legislativo posible, incluso se trabajará para constitucionalizarlo. Impulsaremos una ley de movilidad sostenible con objetivos de descarbonización del transporte que sean ambiciosos; una ley que considere también la movilidad activa, saludable y segura; que garantice y asegure la accesibilidad y asequibilidad para todos y todas, a través de una oferta social y territorialmente equitativa; que vele por la sostenibilidad económica y el equilibrio financiero de los sistemas de transporte público definiendo, por tanto, las fuentes de financiación. En definitiva, se pretende, por un lado, potenciar al máximo la movilidad activa (caminando y en bicicleta) mediante las infraestructuras necesarias para su desarrollo, y por el otro, poner en marcha un sistema de transporte público con una cobertura y una accesibilidad públicas de carácter universal, al mismo nivel que la sanidad o la educación.
+  -
+    id: 2
+    quote: Impulsaremos una financiación estatal del transporte público que permita mejorar la oferta, multiplicando las frecuencias y la disponibilidad de servicios, especialmente en los desplazamientos no radiales y en el mundo rural. 
+  -
+    id: 3
+    quote: Convertiremos el transporte público en una alternativa con la misma disponibilidad y calidad del coche, garantizando unas tarifas asequibles y adaptadas a la renta, priorizando incrementar el uso y el aprovechamiento, en especial, de la red ferroviaria de media y larga distancia. 
+  -
+    id: 4
+    quote: En esta misma línea se garantizará la prórroga de las bonificaciones de los bonos de transporte para aquellos trayectos en los que hayan tenido un impacto positivo en el uso del servicio.
+  -
+    id: 5
+    quote: <b>Billete único, pago progresivo y digitalización</b>. Promoveremos un proceso de diálogo y apoyo financiero a las comunidades autónomas, las áreas metropolitanas y los ayuntamientos para la implantación de un billete único para todos los modos de transporte, incluidos los sistemas de alquiler de bicicletas públicas, de competencia estatal. Implantaremos modalidades de pago asociadas a la renta y a la disponibilidad de medios de transporte privados. Digitalizaremos los medios de pago, evitando las situaciones de brecha digital. Además del pago, universalizaremos la información disponible de la oferta de movilidad existente de forma clara, accesible y actualizada.
+  -
+    id: 6
+    quote: Implementaremos un <b>fondo de compensación territorial por el efecto histórico de las inversiones</b> en infraestructuras de transporte radiales, con el objetivo de compensar a las comunidades autónomas afectadas por este fenómeno. De esta manera potenciaremos los corredores transversales en todo el Estado.
+  -
+    id: 7
+    quote: Dotaremos al <b>fondo para la sostenibilidad del transporte público</b> de una financiación inicial de, al menos, el 0,25% del PIB. Además, incluiremos la sostenibilidad social, ambiental y territorial en los criterios de rentabilidad de financiación de las nuevas infraestructuras.
+  -
+    id: 8
+    quote: <b>Impulsaremos la seguridad en la movilidad,</b> dando más protección jurídica a los ciclistas y a los peatones. Aprobaremos una hoja de ruta con el objetivo de reducir la mortalidad y los accidentes, también en las áreas urbanas, con una normativa que proteja a los más vulnerables.
+  -
+    id: 9
+    quote: "Finalmente, [...] en relación a una futura <b>Ley de Movilidad Sostenible y Financiación del Transporte Público</b> que contendrá, al menos, los siguientes puntos:"
+  -
+    id: 10
+    quote: Desarrollo de un sistema multimodal integrado de transporte público, social, eficiente, saludable, seguro, sostenible, descarbonizado, asequible, accesible e inclusivo, para todas las personas; también para las mercancías.
+  -
+    id: 11
+    quote: Concretaremos mecanismos de financiación del transporte público para garantizar la calidad y sostenimiento del sistema, a largo plazo y de forma estable, fijando una aportación mínima y máxima del Estado a la financiación del transporte público. También se concretarán las otras fuentes de ingresos de las que debe nutrirse el sistema.
+  -
+    id: 12
+    quote: Medidas específicas para garantizar que la movilidad sostenible llegue realmente al medio rural (estando debidamente adaptadas a la propia idiosincrasia de estos territorios), así como fomentar la movilidad eléctrica en todo el territorio.
+  -
+    id: 13
+    quote: "<b>Integraremos la eficiencia energética como eje fundamental de la ley:</b> <br> a) Optando por un sistema multimodal de transporte que tenga como columna vertebral el transporte público y los tres modos más sostenibles: el peatonal, el ciclista y el ferroviario. <br> b) Llevando a cabo una firme defensa y fomento del ferrocarril, tanto de pasajeros como de mercancías. <br> c) Recuperando los trenes nocturnos. <br> d) Poniendo a España al nivel de la UE en el porcentaje de mercancías transportadas por ferrocarril, intentando alcanzar la cuota modal del 18% en 2030 respecto al total de mercancías transportadas por vía terrestre y llegando, al menos, al 35% en 2040."
+  -
+    id: 14
+    quote: Medidas de reducción de los graves impactos sociales, ambientales y climáticos del transporte aéreo, como pueden ser la eliminación de los vuelos domésticos entre ciudades para los que exista una alternativa ferroviaria, adecuada en términos de conectividad y seguridad, y de menos de cuatro horas de duración.
+  -
+    id: 15
+    quote: Mejora del planteamiento y los objetivos de los planes de movilidad sostenible en relación con el trabajo, para que reflejen la realidad del tejido empresarial de España.
+  -
+    id: 16
+    quote: Prioridad a la movilidad activa frente a la motorizada, especialmente en la planificación del espacio urbano, y volver a incluir el concepto de «cero emisiones».
+  -
+    id: 17
+    quote: Apostaremos por una estrategia estatal que impulse el uso de la bicicleta.
+  -
+    id: 18
+    quote: Estableceremos un criterio único para la señalización de las vías ciclables existentes y potenciar la creación y la actividad de las entidades públicas, a fin de gestionar las vías verdes, comprometiendo a todas las Administraciones en su mantenimiento

@@ -1,0 +1,36 @@
+id: 39d9abf5-0f45-44cb-ac5c-609cdccf0423
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 89
+    section: 2
+categories:
+  - Derechos y servicios sociales
+  - Sanidad
+title: "Derecho a la salud:  Incremento de la inversión sanitaria pública."
+statements:
+  -
+    id: 1
+    quote: El gasto sanitario público aumentará anualmente medio punto del PIB hasta igualar el porcentaje promedio de los diez países europeos con mayor participación de gasto sanitario público sobre el PIB. 
+  -
+    id: 2
+    quote: Una parte sustancial de este incremento estará destinado a reforzar la atención primaria y comunitaria y la salud pública.
+  -
+    id: 3
+    quote: Se blindará el carácter público del Sistema Nacional de Salud, impidiendo las formas de gestión privatizadas. 
+  -
+    id: 4
+    quote: Promoveremos un plan de desprivatización, que incluirá los servicios de limpieza, hostelería o lavandería, a fin de garantizar una atención de calidad a los pacientes.
+  -
+    id: 5
+    quote: Garantizaremos la financiación de la sanidad en las comunidades autónomas, así como la garantía de retribución a aquellas que atienden población desplazada, mediante el desarrollo del Fondo de Garantía Asistencial y el Fondo de Cohesión Sanitaria para compensar estos gastos sanitarios en el futuro a nivel de atención primaria, asistencia hospitalaria y dispensación de medicamentos. 
+  -
+    id: 6
+    quote: bSe abordará igualmente la deuda sanitaria del Estado por los desplazados sanitarios.

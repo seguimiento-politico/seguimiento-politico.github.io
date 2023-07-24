@@ -1,0 +1,37 @@
+id: d2fecb92-d00c-42f9-95f7-5f7c3d4b5f22
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 89
+    section: 4
+categories:
+  - Derechos y servicios sociales
+  - Sanidad
+  - Trabajo
+title: "Derecho a la salud: Fin de la precariedad del personal sanitario - mejora de sus condiciones laborales."
+statements:
+  -
+    id: 1
+    quote: Nos comprometemos a acabar con la temporalidad y la precariedad del personal sanitario, lo que es necesario para impulsar la sostenibilidad del sistema de salud y garantizar la oferta de servicios de suficiente calidad. 
+  -
+    id: 2
+    quote: Realizaremos una reordenación de las competencias profesionales de las diferentes categorías presentes en el Sistema Nacional de Salud, llevando a cabo una actualización de la categoría profesional, dentro de un marco de trabajo cooperativo que ponga al paciente en el centro.
+  -
+    id: 3
+    quote: Acometeremos una reforma del Estatuto Marco y el resto de legislación bajo la que se regulan las condiciones de trabajo de los y las profesionales del sector sanitario, de modo que se ponga fin al sistema actual y se reconozca el derecho a jornadas y horarios racionales, previsibles y respetuosos con los derechos de los trabajadores, para garantizar la conciliación de la vida familiar y la vida profesional, según lo establecido en la Directiva 2003/88 (sobre tiempo de trabajo), la Directiva 2019/1152 (sobre trabajo previsible) y la Directiva 2019/1158 (sobre conciliación). 
+  -
+    id: 4
+    quote: Acabaremos con las guardias médicas de matronas y enfermeras de 24 horas, avanzando desde el sistema de guardias a un sistema de turnos, como ocurre en otros países europeos. 
+  -
+    id: 5
+    quote: Promoveremos la reorganización de plantillas para avanzar hacia la aplicación de la semana laboral de 32 horas en el sector público.
+  -
+    id: 6 
+    quote: Crearemos un plan de retorno del talento dirigido a recuperar para la sanidad pública española a las y los profesionales sanitarios a quienes la precariedad ha obligado a emigrar o a abandonar el sector.

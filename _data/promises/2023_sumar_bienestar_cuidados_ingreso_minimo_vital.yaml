@@ -1,0 +1,34 @@
+id: 3d80162d-d05b-4081-89a2-ec70a36d561d
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 86
+    section: 1, 1
+categories:
+  - Derechos y servicios sociales
+  - Migración
+title: "Bienestar y cuidados: Un auténtico ingreso mínimo garantizado"
+description: El Ingreso Mínimo Vital (IMV) ha sido un avance muy importante y vamos a conseguir que sea una verdadera garantía de ingreso para toda la ciudadanía.
+statements:
+  -
+    id: 1
+    quote: Para ello es necesario realizar mejoras como incluir a las personas jóvenes de entre 18 y 23 años como potenciales beneficiarios de la prestación y garantizar que las menores de 30 años puedan acceder al IMV con los mismos requisitos que se exigen al resto de población adulta. 
+  -
+    id: 2
+    quote: La cobertura del IMV se debe ampliar a personas migrantes en situación irregular, con especial énfasis en aquellas familias migrantes con hijos a su cargo. 
+  -
+    id: 3
+    quote: En general, debe asegurarse la protección de todas las personas y familias con bajos ingresos. 
+  -
+    id: 4
+    quote: Para conseguirlo, vamos a simplificar los requisitos exigidos para acceder a él, a reducir drásticamente la burocracia y a reforzar los recursos de la Seguridad Social a fin de agilizar tanto la tramitación de expedientes como la atención presencial y telefónica de los solicitantes, evitando con ello que potenciales beneficiarios se queden sin la prestación por las debilidades del sistema administrativo y de gestión. 
+  -
+    id: 5
+    quote: Es igualmente importante impulsar la complementariedad de las rentas garantizadas y rentas mínimas de las comunidades autónomas con el Ingreso Mínimo Vital para asegurar que las prestaciones económicas del Estado español cubran el umbral de la pobreza fijado por la UE.

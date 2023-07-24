@@ -1,0 +1,27 @@
+id: 3f8ee0f1-769e-42ec-a7f3-58b1de6fd9ce
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 80
+    section: 5.3, 4
+categories:
+  - Cambio climático
+  - Transporte
+  - Territorio
+  - Vivienda y urbanismo
+  - Infraestructuras
+title: "Movilidad sostenible: Ciudades y territorios cercanos, accesibles y con servicios públicos."
+statements:
+  -
+    id: 1
+    quote: <b>Territorios de los 30 minutos.</b> Garantizaremos la financiación de servicios de movilidad suficientes para que la dotación de servicios públicos en el conjunto del territorio esté disponible en un tiempo de viaje inferior a los 30 minutos, con especial atención a las peculiaridades tanto de las áreas metropolitanas como de la España vaciada. Impulsaremos la creación de conexiones intermodales, incluidas las ciclistas, dignas y coordinadas con el transporte de mayor frecuencia y capacidad, para facilitar el acceso a todo el territorio estatal. Trabajaremos para que el tren y el autobús sean modos sostenibles, flexibles y eficientes de transporte.
+  -
+    id: 2
+    quote: "<b>Ciudades de los 15 minutos.</b> Legislaremos para que las nuevas planificaciones urbanas planteen ciudades de distancias cortas a pie y en bicicleta, de manera que todos los barrios tengan los mismos derechos garantizados: servicios públicos (escuelas infantiles, colegios, espacios deportivos y centros de salud), comercio local y espacios de ocio (calles con arbolado, parques y jardines). Se invertirá en la infraestructura necesaria para potenciar al máximo la movilidad activa (redes ciclistas, peatonales, reverdecimiento, calidad estancial, etcétera)."

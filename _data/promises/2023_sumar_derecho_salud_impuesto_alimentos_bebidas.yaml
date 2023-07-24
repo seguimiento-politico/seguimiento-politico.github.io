@@ -1,0 +1,27 @@
+id: 950614e1-4d7e-420e-983d-ee2434dc8a1c
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 91
+    section: 9
+categories:
+  - Hacienda y fiscalidad
+  - Sanidad
+  - Consumo
+  - Alimentación
+title: "Derecho a la salud: Impuestos al servicio de la salud."
+description: 
+statements:
+  -
+    id: 1
+    quote: Se establecerá un impuesto específico a las bebidas azucaradas y los alimentos ultraprocesados. 
+  -
+    id: 2
+    quote: También se crearán mecanismos para controlar la publicidad de bebidas azucaradas y, en general, de alimentos no saludables. Especialmente se prohibirá la publicidad de estos productos dirigida a un público infantil, así como las promociones como premios, regalos o concursos orientadas a apoyar esa publicidad.

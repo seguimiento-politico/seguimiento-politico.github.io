@@ -5,7 +5,7 @@ config:
 election_type: generales
 from: "2023-07-23"
 categories:
-  - Comercio
+  - Empresas y comercio
   - Transporte
   - Turismo
   - Industria

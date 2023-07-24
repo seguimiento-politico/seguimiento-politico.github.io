@@ -1,0 +1,33 @@
+id: 3b100c25-e62b-45d1-945a-36ac65200bc6
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 92
+    section: 12-16
+categories:
+  - Derechos y servicios sociales
+  - Sanidad
+title: "Derecho a la salud: Enfermedades crónicas, adicciones, mutuas funcionarios, cannabis y sanidad penitenciaria."
+statements:
+  -
+    id: 1
+    quote: <p>Atención a la enfermedad crónica.</p> La cronicidad de la enfermedad es uno de los retos primordiales a los que se enfrenta nuestro sistema sanitario. Para afrontarlo vamos a impulsar una nueva norma que regule la condición de persona enferma crónica en el Sistema Nacional de Salud. De este modo, se establecerán los derechos, las prestaciones, los beneficios y las características de la atención sanitaria y social que ha de recibir la persona enferma crónica para que cuente con una cobertura adecuada.
+  -
+    id: 2
+    quote: <p>Atención a las adicciones.</p> Incrementaremos las plazas públicas en las comunidades terapéuticas de tratamiento de las drogodependencias y otros trastornos adictivos, y crearemos una específica para infancia y adolescencia.
+  -
+    id: 3
+    quote: <b>Inclusión, dentro de la cobertura sanitaria universal, de las personas que reciben actualmente prestación sanitaria bajo mutuas de prestación sanitaria privada (MUFACE-MUGEJU-ISFAS).</b> Integraremos a dicha población, de forma paulatina, escalonada y programada, bajo la prestación sanitaria del sistema sanitario público. Asimismo, se eliminará la posibilidad de que las entidades locales realicen aseguramientos privados colectivos para sus empleados públicos.
+  -
+    id: 4
+    quote: <p>Regulación íntegra del cannabis</p> y el modelo de asociaciones cannábicas basadas en el autoconsumo y sin ánimo de lucro. Se legislará para acabar con el vacío legal existente, despenalizando la producción y el consumo propio y sin ánimo de lucro para no favorecer a las mafias que se enriquecen con el tráfico ilegal, y se fomentará la información sobre los efectos del consumo de drogas para un consumo responsable y libre. Legalizaremos el uso del cannabis con fines medicinales. El cannabis se regulará íntegramente en el nuevo contexto nacional e internacional, desde planteamientos respetuosos con los derechos humanos, la evidencia científica, la realidad social, la salud individual y colectiva y la necesaria protección de las personas en situación de vulnerabilidad.
+  -
+    id: 5
+    quote: <b>Sanidad penitenciaria.</b> Se culminará la transferencia autonómica de las competencias en materia de sanidad penitenciaria estableciendo las garantías suficientes para su mejora con respecto a la situación actual.

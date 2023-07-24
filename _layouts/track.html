@@ -7,7 +7,7 @@ layout: page
 {% if track_data.config.group_by == "legislature"  %}  
     {% assign items = site.data.promises | where_exp: 'item', 'item.election_type == track_data.context.election_type' | where_exp: 'item', 'item.from == track_data.context.from' %}
 {% elsif track_data.config.group_by == "party" %}
-    {% assign items = site.data.promises | where: "parties", track_data.config.party %}
+    {% assign items = site.data.promises | where: "parties", track_data.config.party | sort: 'title' %}
 {% else %}
     {% assign items = "" | split:"," %}
 {% endif %}

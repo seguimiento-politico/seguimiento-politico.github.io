@@ -1,0 +1,24 @@
+id: bad81450-142f-48bc-a53e-4ba4f7553744
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 88
+    section: 1, 9
+categories:
+  - Derechos y servicios sociales
+title: "Bienestar y cuidados: Estrategia para combatir el sinhogarismo."
+description: España es firmante de la Declaración de Lisboa sobre la Plataforma europea para resolver el sinhogarismo, que contiene entre sus compromisos que nadie se vea obligado a vivir en la calle por falta de una plaza de alojamiento y que las personas sin hogar pasen por un alojamiento de emergencia o de transición sólo el tiempo estrictamente necesario hasta que puedan ser ubicados en una vivienda estable.
+statements:
+  -
+    id: 1
+    quote: Para cumplir este compromiso garantizaremos la financiación y desplegaremos la Estrategia Nacional para la lucha contra el sinhogarismo, 2023-2030, en la que ha estado trabajando el Gobierno de España en colaboración con los ayuntamientos, comunidades autónomas y entidades del tercer sector y que pone particularmente el foco en garantizar el derecho a la vivienda. 
+  -
+    id: 2
+    quote: Uno de los pilares clave de esta estrategia ha de ser el principio de desinstitucionalización, impulsando un nuevo modelo de atención a personas en situación de sinhogarismo centrado en la atención en la comunidad y en la provisión de apoyos personalizados y libremente elegidos.

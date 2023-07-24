@@ -1,0 +1,54 @@
+id: e7349a00-b099-4573-9dc4-bfb7debb30ca
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 90
+    section: 7
+categories:
+  - Derechos y servicios sociales
+  - Sanidad
+  - Trabajo
+  - Educación
+title: "Derecho a la salud: Salud mental."
+description: Pondremos en marcha un Plan de Choque en Salud Mental que aborde los problemas relacionados con el sufrimiento psíquico desde una perspectiva comunitaria, interdisciplinar y sensible a los determinantes sociales de la salud mental.
+statements:
+  -
+    id: 1
+    quote: El Plan incluirá campañas urgentes para mejorar la atención específica de colectivos especialmente vulnerables al sufrimiento psíquico.
+  -
+    id: 2
+    quote: Promoveremos un pacto de Estado por la salud mental para que estas políticas partan del consenso institucional, con líneas de financiación finalista a comunidades autónomas para estrategias de salud mental, destinadas especialmente a aumentar las plantillas de profesionales de psicología, así como medidas específicas para abordar la salud mental de juventud y prevenir el suicidio juvenil, con atención específica en centros educativos.
+  -
+    id: 3
+    quote: Se incrementará el número de profesionales de psicología clínica, enfermería especializada en salud mental, trabajo social y psiquiatría de la red sanitaria pública con el objetivo de crear una red de continuidad de cuidados basada en los centros de salud mental comunitarios y los centros de atención primaria. 
+  -
+    id: 4
+    quote: Se reducirán las listas de espera y los tiempos entre citas, y se garantizará el tiempo de consulta necesario para atender debidamente a los pacientes.
+  -
+    id: 5
+    quote: Se desarrollará una estrategia de salud mental infantojuvenil que abarque la prevención, detección precoz, promoción y atención desde una perspectiva multidisciplinar, comunitaria y que priorice la intervención psicosocial. 
+  -
+    id: 6
+    quote: Se abordará la elaboración de los planes educativos teniendo en cuenta el impacto en la salud mental de los estudiantes. 
+  -
+    id: 7
+    quote: Serán imprescindibles medidas en el entorno de niños y adolescentes, con promoción del ocio saludable, espacios de encuentro entre iguales, o la implantación de estrategias de interlocución entre adolescentes y autoridades (educativas, sanitarias o administrativas) para que se puedan tener en cuenta sus necesidades y demandas expresadas en sus propios términos. 
+  -
+    id: 8
+    quote: Se incluirán medidas específicas para prevenir y atajar prácticas y problemas asociados como malos tratos (negligencia y violencia), abuso sexual, acoso escolar, ciberacoso, sextorsión, suicidio, discriminación sexual e identidad de género, xenofobia, consumo de alcohol, adicciones a sustancias tóxicas, tecnologías y apuestas así como otras conductas de riesgo.
+  -
+    id: 9
+    quote: Se pondrá en marcha una estrategia estatal de cero contenciones, dirigida a conseguir que las prácticas coercitivas en los centros sanitarios y entornos penitenciarios sean realmente excepcionales y siempre ateniéndose a unas causas y a través de unos procedimientos previamente protocolizados. 
+  -
+    id: 10
+    quote: Se promoverán prácticas de cuidados en las crisis de salud mental respetuosas con la dignidad de los pacientes y se impulsarán las unidades hospitalarias de modelo abierto, el ingreso domiciliario y los modelos comunitarios intensivos.
+  -
+    id: 11
+    quote: Se desarrollará un plan nacional contra el suicidio que no solo refuerce la dimensión asistencial sino que también ponga el foco en las condiciones de vida y las intervenciones en el medio.

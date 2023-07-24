@@ -1,0 +1,33 @@
+id: d18201b8-0a96-421d-9d45-7b8f9dd1984a
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 113
+    section: 16
+categories:
+  - Derechos y servicios sociales
+  - Cambio climático
+  - Educación
+  - Trabajo
+title: "Igualdad y feminismo:  Mujeres, transición ecológica y cambio climático."
+description: Las mujeres sufren de forma desproporcionada los efectos del cambio climático. 
+statements:
+  -
+    id: 1
+    quote: Se ahondará en la integración de la perspectiva de género en la formulación, implementación y monitoreo de las políticas relacionadas con la transición ecológica y con el cambio climático; se deberá contar con las mujeres como agentes de cambio, incrementando especialmente su presencia en los puestos relacionados con esta materia que impliquen toma de decisiones.
+  -
+    id: 2
+    quote: Se fomentará la participación de la mujer en los ya citados estudios STEM y en profesiones próximas al sector de la transformación ecológica y energética por medio de campañas de difusión y de respuestas que alcancen a las mujeres y a las niñas.
+  -
+    id: 3
+    quote: Se promoverá la inversión en el desarrollo de talentos femeninos mediante el fomento de las ayudas en I+D+I. 
+  -
+    id: 4
+    quote: En esta línea, también se desarrollarán más programas de capacitación en el sector dirigidos a profesionalizar a las mujeres como agentes de cambio en la transición ecológica y la justicia climática.

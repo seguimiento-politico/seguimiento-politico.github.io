@@ -169,7 +169,7 @@
             {% if divergent.size > 0 %}
             <div class="notice-danger col-md">
                 <div class="border-bottom align-self-center text-center">
-                        Objetivos divergentes
+                        Objetivos en conflicto
                 </div>
                 <!-- divergent promises -->
                     {% for d in divergent %}
@@ -192,8 +192,8 @@
                 <div class="border-bottom align-self-center text-center">
                     Comparativa ambigua
                 </div>
-              <!-- ambiguous promises -->
-              {% for d in ambiguous %}
+                    <!-- ambiguous promises -->
+                    {% for d in ambiguous %}
                         <p><span class="align-self-center">
                         {% assign p = site.data.promises | where: "id", d %}
                         {% for party in p[0].parties %}
@@ -211,10 +211,10 @@
             {% if convergent.size > 0 %}
             <div class="notice-success col-md">
                 <div class="border-bottom align-self-center text-center">
-                    Objetivos convergentes
+                    Objetivos compatibles
                 </div>
-              <!-- convergent promises -->
-              {% for d in convergent %}
+                    <!-- convergent promises -->
+                    {% for d in convergent %}
                         <p><span class="align-self-center">
                         {% assign p = site.data.promises | where: "id", d %}
                         {% for party in p[0].parties %}
@@ -229,7 +229,7 @@
                     {% endfor %} 
             </div>
             {% endif %}
-          </div> 
+        </div> 
     </div>    
 </div>
 {% endif %}
