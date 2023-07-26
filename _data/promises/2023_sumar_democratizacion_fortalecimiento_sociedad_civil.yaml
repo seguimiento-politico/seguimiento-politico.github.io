@@ -1,0 +1,25 @@
+id: c9def403-4b9e-4dc5-b0d3-3029c7fc469e
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 117
+    section: 2.1, 3
+categories:
+  - Democracia
+  - Agencias públicas
+title: "Fortalecimiento de la sociedad civil: la comunidad frente al individualismo."
+description: La democracia nos insta a superar el individualismo predominante y a reforzar nuestro sentido de comunidad.
+statements:
+  -
+    id: 1
+    quote: Proponemos, pues, diversas medidas para articular y reforzar la sociedad civil, como destinar recursos a fomentar el asociacionismo, contribuir a la formación interna de las entidades, potenciar su presencia en los diversos entes de representación y establecer vías de comunicación estables con las instituciones.
+  -
+    id: 2
+    quote: También proponemos la creación de Observatorios Ciudadanos destinados a favorecer el seguimiento y el control de las actividades políticas por parte de la ciudadanía. Su objetivo será  favorecer el empoderamiento de la sociedad civil y mejorar la legitimidad de la acción política.

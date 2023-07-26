@@ -1,0 +1,102 @@
+id: 97a58ba3-5f76-4eb8-97d3-74401c2cf4af
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 114
+    section: 1.2
+categories:
+  - Derechos y servicios sociales
+  - Seguridad y defensa
+  - Educación
+  - Trabajo
+  - Sanidad
+  - Cultura
+  - Ciencia y tecnología
+  - Migración
+title: "Igualdad y feminismo: Derechos y libertades LGTBI+"
+description: Para Sumar, es una prioridad dar cumplimiento efectivo a las disposiciones contenidas en la Ley 4/2023 para la Igualdad Real y Efectiva de las Personas Trans y para la Garantía de los Derechos de las Personas LGTBI+, del 28 de febrero. Con este objetivo, se propondrán políticas públicas (incluyendo planes estratégicos) para su desarrollo, y se establecerá un proceso de evaluación continua que nos permita conocer sus efectos y adaptar las políticas públicas a las necesidades de las personas LGTBI+. Para ello, será fundamental hacer efectivo el artículo 7 de la ley sobre estadísticas y estudios.
+statements:
+  -
+    id: 1
+    quote:  <b>lmpulso de un pacto de Estado contra los discursos de odio</b> dirigido a:<br> ● Concienciar y sensibilizar a fin de lograr un consenso social y político de repulsa de los mismos.<br> ● Proteger a aquellos grupos que se encuentren en situación de vulnerabilidad como consecuencia de estos discursos, como el colectivo LGTBI+, las personas gitanas, las personas migrantes, las personas racializadas, las personas sin hogar, las personas con VIH, las personas con discapacidad o las mujeres.<br> ● Buscar sinergias por la diversidad entre ellos y los movimientos sociales en los que se enmarcan, como el feminista.<br> ● Facilitar información a las víctimas sobre sus derechos y sobre las herramientas que tienen para defenderse del odio.<br>
+  -
+    id: 2
+    quote: <b>Erradicación del odio y la discriminación LGTBI+fóbica.</b> <br>● Ahondar en la formación específica de la Administración de Justicia y de las Fuerzas y Cuerpos de Seguridad y en la derivación y la atención a las víctimas en línea con lo previsto en el II Plan de Acción de lucha contra los delitos de odio.<br>● Revisar los protocolos de detección de delitos de odio, para mejorar la identificación de estos.
+  -
+    id: 2
+    quote: <b>Apoyo a las víctimas y supervivientes de la discriminación y la violencia.</b> Partiendo del marco de la Ley 4/2023, se creará una red de recursos de acogida y alojamiento, medios jurídicos, asistenciales, psicológicos y de orientación al empleo para las víctimas de la violencia LGTBI+fóbica y se establecerán mecanismos de coordinación con los otros servicios que estén en contacto con las víctimas.
+  -
+    id: 3
+    quote: <b>Educación y formación en la diversidad.</b> Proponemos integrar, en el marco de la ya mencionada educación sexoafectiva, la diversidad como factor transversal; planes de formación para su correcta implementación; el nombramiento de personas o de unidades responsables de promover y garantizar el respeto a la diversidad sexo-genérica en todos los niveles educativos; así como planes de formación para el funcionariado. En el ámbito universitario, se promoverán posgrados específicos de género y diversidad LGTBI+ en coordinación con las universidades y se incorporará la perspectiva de género y sexoafectiva en los másteres de habilitación docente para educación primaria y secundaria.
+  -
+    id: 4
+    quote: <b>Políticas de empleo y lucha contra la marginalidad.</b> <br>● Implantar los planes de igualdad LGTBI+ en el ámbito del empleo y crear políticas activas de inserción laboral para prevenir el riesgo de exclusión social por diversidad sexual o de género, así como para apoyar a quienes ya se encuentran en situación de exclusión social. Se prestará especial atención a las políticas de inserción laboral específicas para mujeres trans, especialmente afectadas por el desempleo. <br>● Reconocer la LGTBI+fobia como causa de riesgo psicosocial en el empleo. <br>● Garantizar que el trabajo sea un espacio libre de acoso o discriminación por orientación sexual, expresión o identidad de género y características sexuales, en conexión con otras formas de violencia y acoso en el ámbito del trabajo, como las que sufren las mujeres
+  -
+    id: 5
+    quote: <b>Protección del derecho a la salud. Protocolos sanitarios específicos.</b> en todo el territorio la implantación de protocolos sanitarios específicos dirigidos a cubrir las necesidades del colectivo LGTBI+ y garantizar su atención sociosanitaria, de forma que se evite cualquier forma de violencia y discriminación por razón de género; garantizar el pleno acceso a todas las técnicas de reproducción asistida en el sistema público, así como el acceso a tratamientos completos de atención a la identidad de género. Realizar planes estatales de prevención y tratamiento de las cuestiones de salud que puedan afectar de manera específica al colectivo como el VIH, ITS, chemsex o la salud mental de las personas LGTBI+, considerando la especificidad de un colectivo que se ha visto expuesto a décadas de estigmatización, violencias verbales, físicas, emocionales y a la exclusión social. 
+  -
+    id: 6
+    quote: Se apostará por la formación de los profesionales en atención a la diversidad como factor transversal en el ámbito sanitario. Debemos conseguir la completa erradicación de las mal llamadas «terapias de conversión», tal y como se establece en la Ley 4/2023, así como de los planteamientos pseudoterapéuticos que estigmatizan y clasifican como trastornos o enfermedades la atracción afectivo-sexual no normativa (por ejemplo, la bisexualidad, la asexualidad) y las identidades de género (como las personas trans y no binarias).
+  -
+    id: 7
+    quote: <b>Infancia, juventud, vejez. Políticas para una vida con pleno desarrollo de la personalidad. </b> Para abordar el tratamiento del colectivo LGTBI+ en su curso vital completo, es preciso asegurar a los y las menores y jóvenes el derecho a una infancia segura y en libertad, con independencia de su orientación sexual, su identidad, su expresión de género o sus características sexuales. Y es necesario asegurar también las condiciones para un envejecimiento activo y participativo, por medio de políticas asistenciales (centros de día y residencias, sin infantilización o vuelta al armario) que contemplen la diversidad, así como adaptar la asistencia gerontológica a las particularidades de cada persona, haciendo hincapié en la formación de los y las profesionales en contacto directo con las personas mayores.
+  -
+    id: 8
+    quote: <b>Pobreza, exilio y habitabilidad.</b> Reconocemos que la orientación afectivo-sexual, la expresión y la identidad de género, la diversidad corporal o las manifestaciones de diversidad sexo-genérica son todavía factores de vulnerabilidad social, por cuanto se demuestra que provocan en muchas personas el abandono temprano de la educación; la expulsión del hogar; la migración forzosa desde los países que criminalizan o aplican una violencia estructural; y dificultades en el acceso al empleo, o el éxodo de las zonas rurales a las ciudades. Ser LGTBI+ es, para muchas personas, causa de pobreza, exclusión y sinhogarismo, lo que requiere de una respuesta pública dirigida tanto a la protección y el reconocimiento de la diversidad como a asegurar una retribución justa y el acceso a los recursos habitacionales disponibles, a la vivienda pública y a un empleo digno.
+  -
+    id: 9
+    quote: <b>Familias diversas pero iguales en derechos.</b> Favorecer el reconocimiento, el respeto y el trato legal y social en condiciones de igualdad de los diversos modelos de familia y convivencia que ya son una realidad para muchas familias LGTBI+.
+  -
+    id: 10
+    quote: Avanzar hacia el reconocimiento de la multiparentalidad, para que los menores de edad que crecen en familias reconstituidas estén protegidos legalmente. Facilitaremos los reconocimientos registrales y evaluaremos la posibilidad de adoptar, acoger y tutelar a menores por parte de un núcleo de más de dos personas.
+  -
+    id: 11
+    quote: Examinar el concepto jurídico de «familia» para que incorpore otros tipos de relaciones no recogidas en la noción de matrimonio (convivientes, cuidadores y cuidadoras). Trabajar para que sean legalmente posibles las paternidades y maternidades diversas.
+  -
+    id: 12
+    quote: Mejorar los procesos de adopción, haciéndolos más ágiles y homogéneos en todas las comunidades autónomas. 
+  -
+    id: 13
+    quote: Asimismo, mejoraremos y agilizaremos las resoluciones de patria potestad de la infancia en situación de acogimiento hacia las familias de acogida.
+  -
+    id: 14
+    quote: Trabajar para asegurar la libre movilidad de las familias LGTBI+ en la Unión Europea manteniendo los mismos derechos que tienen en España. 
+  -
+    id: 15
+    quote: Prestaremos especial atención a la creación de un certificado de filiación europeo.
+  -
+    id: 16
+    quote: <b>Cultura, innovación e investigación.</b> Combatir la LGTBI+fobia como estigma interiorizado y la asunción de modelos tóxicos a través de medidas de sensibilización y de la formación en todos los ámbitos. 
+  -
+    id: 17
+    quote: Incentivar, mediante convocatorias y financiación estatal, políticas transculturales que se desarrollen en exposiciones, festivales, medios audiovisuales, canales de comunicación y redes sociales, a fin de sensibilizar y visibilizar de forma positiva la diversidad LGTBI+.
+  -
+    id: 18
+    quote: Potenciar la investigación básica y aplicada para crear conocimiento que contribuya a la transformación y a la mejora de la calidad de las condiciones de vida de las personas LGTBI+ y de sus familias.
+  -
+    id: 19
+    quote: Promover imaginarios y referentes culturales que expongan la diversidad sexual y erradiquen los modelos de hostilidad y exclusión generados por la sociedad patriarcal.
+  -
+    id: 20
+    quote: Financiar proyectos culturales que visibilicen a las personas LGTBI+ y permitan crear referentes y modelos de identidad diversos.
+  -
+    id: 21 
+    quote: <b> Personas LGTBI+ refugiadas y migrantes.</b> Priorizar el cumplimiento del artículo 50 de la ley para que se emita la documentación de personas migrantes de acuerdo con su identidad de género, permitiendo el cambio de nombre y de la mención del sexo en su documentación.
+  -
+    id: 22
+    quote: Impulsar campañas de incidencia que permitan que las personas LGTBI+ refugiadas y migrantes conozcan sus derechos, así como revisar y mejorar las medidas relacionadas con el trámite, la atención, la acogida, el estudio y la resolución de las solicitudes de protección internacional de aquellas personas que sufran persecución en sus países de origen o en países de tránsito por su orientación sexual o su identidad de género.
+  -
+    id: 23
+    quote: <b>Defender el principio de autodeterminación y libre desarrollo de la personalidad y autonomía corporal de las personas trans, intersex y no binarias.</b>
+  -
+    id: 24
+    quote: <b>Medidas para prevenir y atajar de manera específica la violencia intragénero</b>, aquella que se produce en el seno de parejas del mismo género, y para otorgar derechos y protección a sus víctimas.
+
+

@@ -1,0 +1,26 @@
+id: d7d93058-6f1a-41e7-be4e-f528ff40fa23
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 117
+    section: 2.1, 4
+categories:
+  - Democracia
+  - Educación
+title: "La ciudadanía es el pilar de la democracia: educación, educación y educación."
+description: El ingrediente principal para el buen funcionamiento de la democracia es contar con una ciudadanía virtuosa; es decir, con ciudadanos y ciudadanas capaces de entender y formar parte del debate público sobre nuestro destino compartido. Por ello, siempre se ha puesto tanto énfasis en la relación entre educación y democracia.
+statements:
+  -
+    id: 1
+    quote: Proponemos, pues, fomentar la formación democrática en las diferentes etapas educativas (de la escuela a la Universidad); 
+  -
+    id: 2
+    quote: así como una campaña comunicativa sobre los valores de la democracia y su importancia a la hora de afrontar los retos actuales. Es importante mostrar que la mejor forma de abordar problemas como el cambio climático, la pobreza o la salud es a través del diálogo democrático.
+  

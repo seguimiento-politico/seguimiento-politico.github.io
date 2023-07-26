@@ -1,0 +1,24 @@
+id: 824d6738-138d-49f9-a205-9b49c4bea1de
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 117
+    section: 2.1, 
+categories:
+  - Democracia
+title: "Democratización de las instituciones públicas: refuerzo de la cultura del diálogo."
+description: Nuestras instituciones responden a un diseño democrático heredado del siglo pasado, de manera que hemos de adaptarlas a los requisitos del nuevo milenio.
+statements:
+  -
+    id: 1
+    quote: En este sentido, en primer lugar, valoraremos la oportunidad de impulsar algunas iniciativas normativas —como una ley de participación ciudadana, la revisión de la ILP, la actualización de la LOREG o la ampliación del número de diputados y diputadas para mejorar su capacidad de representación—, siempre contando con una comisión que valore sus contenidos y anclaje constitucional.
+  -
+    id: 2
+    quote: Con todo, el centro de atención lo situaremos en la incorporación del diálogo en nuestras instituciones públicas. Abogamos por una democracia deliberativa, basada en la cultura del diálogo y que, a nivel institucional, implique acciones como la celebración de debates parlamentarios sobre retos a medio y largo plazo o la apertura de las instituciones a las propuestas de la ciudadanía.

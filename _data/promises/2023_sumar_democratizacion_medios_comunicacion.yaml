@@ -1,0 +1,33 @@
+id: 3223e108-7398-465d-840e-d960053e65e9
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 118
+    section: 2.1, 5
+categories:
+  - Democracia
+  - Medios de comunicación
+  - Ciencia y tecnología
+  - Derechos y servicios sociales
+title: "Por la libertad de expresión, contra el uso fraudulento de la información."
+description: La libertad de expresión y de comunicación son pilares de la democracia, de manera que necesitamos potenciar la primera y proteger la segunda de usos fraudulentos.
+statements:
+  -
+    id: 1
+    quote: En este sentido, proponemos una regulación soft; es decir, promover un debate público que culmine en códigos de buenas prácticas y compromisos de las partes.
+  -
+    id: 2
+    quote: También nos parece imprescindible explorar algunas vías normativas concretas, como una ley orgánica sobre el derecho a dar y recibir información veraz o la reforma del derecho de rectificación de las informaciones falsas. 
+  -
+    id: 3
+    quote: Y, como hemos de proteger la libertad de expresión, deberemos revisar los delitos de opinión y de odio, así como modificar o, en su caso, derogar parcialmente la ley de seguridad ciudadana. 
+  -
+    id: 4
+    quote: Finalmente, resulta ineludible abordar la regulación y el control democrático sobre el uso de datos masivos, el control público de algoritmos y la imparable introducción de la IA.

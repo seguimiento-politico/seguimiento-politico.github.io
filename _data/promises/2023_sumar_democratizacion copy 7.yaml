@@ -1,0 +1,21 @@
+id: 5160d16f-8144-4727-987e-0aeb6a23bd40
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 118
+    section: 3.2.2.1
+categories:
+  - Democracia
+title: "Nuevas instituciones para el medio rural"
+statements:
+  -
+    id: 
+    quote: 
+  

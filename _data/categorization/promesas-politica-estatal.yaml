@@ -1,111 +1,110 @@
 categories:
-    - 
-        name: Agricultura
-        icon: tractor
-    -
-        name: Agencias públicas
-        icon: tasks
-    - 
-        name: Agua
-        icon: faucet
-    - 
-        name: Alimentación
-        icon: utensils
-    -
-        name: Cambio climático
-        icon: cloud-sun-rain
-    - 
-        name: Ciencia y tecnología
-        icon: microscope
-    - 
-        name: Empresas y comercio
-        icon: store-alt
-    - 
-        name: Consumo
-        icon: shopping-cart
-    - 
-        name: Cultura
-        icon: book
-    - 
-        name: Democracia
-        icon: university
-    - 
-        name: Deportes
-        icon: running
-    - 
-        name: Derechos y servicios sociales
-        icon: universal-access
-    - 
-        name: Economía
-        icon: eur
-    - 
-        name: Educación 
-        icon: user-graduate
-    -
-        name: Empresas públicas
-        icon: sitemap
-    - 
-        name: Energía
-        icon: charging-station
-    - 
-        name: Ganadería
-        icon: horse
-    - 
-        name: Hacienda y fiscalidad
-        icon: search-dollar
-    - 
-        name: Industria
-        icon: industry
+
     - 
         name: Infraestructuras
         icon: snowplow
     - 
-        name: Justicia
-        icon: balance-scale
+        name: Vivienda y urbanismo
+        icon: house
     - 
-        name: Medioambiente y biodiversidad
-        icon: tree
-    - 
-        name: Migración
-        icon: globe-africa
-    - 
-        name: Organización estatal y administraciones públicas
-        icon: flag
-    - 
-        name: Pesca
-        icon: fish
-    - 
-        name: Política internacional
-        icon: globe
-    - 
-        name: Residuos
-        icon: skull-crossbones
-    -
-        name: Religion
-        icon: pray
-    - 
-        name: Sanidad
-        icon: stethoscope
-    - 
-        name: Seguridad y defensa
-        icon: fighter-jet 
-    - 
-        name: Territorio
-        icon: map-signs
-    - 
-        name: Transporte
-        icon: car-side
+        name: Economía
+        icon: eur
     - 
         name: Trabajo
         icon: wrench
+    -
+        name: Empresas públicas
+        icon: sitemap
+    - 
+        name: Empresas y comercio
+        icon: store-alt
+    - 
+        name: Industria
+        icon: industry
     - 
         name: Turismo
         icon: umbrella-beach
     - 
-        name: Vivienda y urbanismo
-        icon: house
-
-    
+        name: Agricultura
+        icon: tractor
+    - 
+        name: Ganadería
+        icon: horse
+    - 
+        name: Pesca
+        icon: fish
+    - 
+        name: Agua
+        icon: faucet
+    - 
+        name: Energía
+        icon: charging-station
+    - 
+        name: Consumo
+        icon: shopping-cart
+    - 
+        name: Alimentación
+        icon: utensils
+    - 
+        name: Ciencia y tecnología
+        icon: microscope
+    -
+        name: Cambio climático
+        icon: cloud-sun-rain
+    - 
+        name: Medioambiente y biodiversidad
+        icon: tree
+    - 
+        name: Residuos
+        icon: skull-crossbones
+    - 
+        name: Territorio
+        icon: map-signs
+    - 
+        name: Democracia
+        icon: university
+    - 
+        name: Organización estatal y administraciones públicas
+        icon: flag
+    -
+        name: Agencias públicas
+        icon: tasks
+    - 
+        name: Derechos y servicios sociales
+        icon: universal-access
+    - 
+        name: Hacienda y fiscalidad
+        icon: search-dollar
+    - 
+        name: Justicia
+        icon: balance-scale
+    - 
+        name: Educación 
+        icon: user-graduate
+    -
+        name: Medios de comunicación
+        icon: broadcast-tower
+    - 
+        name: Sanidad
+        icon: stethoscope
+    - 
+        name: Cultura
+        icon: book
+    -
+        name: Religion
+        icon: pray
+    - 
+        name: Deportes
+        icon: running
+    - 
+        name: Migración
+        icon: globe-africa
+    - 
+        name: Seguridad y defensa
+        icon: fighter-jet 
+    - 
+        name: Política internacional
+        icon: globe  
 
 statuses:
     -

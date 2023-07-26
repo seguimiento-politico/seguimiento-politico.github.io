@@ -1,0 +1,225 @@
+id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: manifesto
+title: Un programa por tí
+parties: [SUMAR]
+elections:
+  type: generales
+  date:  "2023-07-23"
+location:
+  local: 2023_sumar.pdf
+  url: https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf
+  web_history: https://web.archive.org/web/20230712065723/https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf
+index:
+    - chapter: 1
+      title: Una democracia económica y ecosocial al servicio de las personas
+      children: 
+        - chapter: 1
+          title: Economía
+          page: 7
+          children: 
+            - chapter: 1
+              title: Economía para una vida mejor
+              page: 7
+        - chapter: 2
+          title: Trabajo decente. Mejorar la vida de las personas trabajadoras
+          page: 23
+        - chapter: 3
+          title: La transición ecológica justa, el desafío de nuestro tiempo 
+          page: 37
+        - chapter: 4
+          title: Por un mundo rural vivo y activo
+          page: 57
+          children: 
+            - chapter: 1
+              title:  Agricultura y mundo rural
+              page: 57
+              children:
+                - chapter: I
+                  title: Un mundo rural para vivir con igualdad de servicios y oportunidades
+                - chapter: II
+                  title: Consolidar el futuro de una agricultura y una ganadería sostenibles
+                - chapter: III
+                  title: Una gestión sostenible de los recursos naturales en defensa del bien común
+                - chapter: V
+                  title: Un país que ganará la batalla al desierto
+                - chapter: VI
+                  title: Biodiversidad y protección del patrimonio natural
+                - chapter: VII
+                  title: Hacia un país circular
+                - chapter: VIII
+                  title: Menos contaminación, más salud
+                - chapter: IX
+                  title: Protección y bienestar animal
+            - chapter: 2
+              title: Pesca, sostenibilidad y sector pesquero
+            - chapter: 3
+              title: Alimentación saludable
+              children:
+                - chapter: I
+                  title: Educar, informar y acompañar para fomentar la alimentación saludable y sostenible
+                - chapter: II
+                  title: Desarrollo de la oferta pública saludable y sostenible
+                - chapter: III
+                  title: Tejer alianzas entre consumo y producción para la transición
+                - chapter: IV
+                  title: Gobernanza multiactor, multinivel y de abajo arriba
+        - chapter: 5
+          title: Hábitat para la vida
+          page: 72
+          children: 
+            - chapter: 1
+              title: Ciudades y pueblos habitable
+            - chapter: 2
+              title: Derecho a la vivienda
+            - chapter: 3
+              title: Movilidad sostenible
+    - chapter: 2
+      title: Una sociedad del bienestar justa, saludable y verde
+      children: 
+        - chapter: 1
+          title: Políticas de bienestar y de cuidados 
+          page: 86
+        - chapter: 2
+          title: El derecho a la salud 
+          page: 89
+        - chapter: 3
+          title: Protección de los derechos de los niños y las niñas y de sus familias
+          page: 93
+        - chapter: 4
+          title: Envejecer con autonomía y seguridad
+          page: 97
+        - chapter: 5
+          title: Inclusión de personas con discapacidad
+          page: 100
+        - chapter: 6
+          title: Un país para jóvenes 
+          page: 102
+        - chapter: 7
+          title: Migraciones. Frenar el racismo y la xenofobia
+          page: 104
+    - chapter: 3
+      title: Un proyecto para ensanchar la democracia
+      children: 
+        - chapter: 1
+          title:  Feminismos e igualdad
+          children: 
+            - chapter: 1
+              title: Un feminismo del 99%
+            - chapter: 2
+              title: Derechos y libertades LGTBI+
+          page: 107
+        - chapter: 2
+          title: Democracia de calidad
+          children: 
+            - chapter: 1
+              title: Democratización y sociedad civil
+            - chapter: 2
+              title: Administración y buen gobierno
+            - chapter: 3
+              title: Modelo territorial
+          page: 117
+        - chapter: 3
+          title: Un país más justo
+          children: 
+            - chapter: 1
+              title:  Un modelo de Justicia
+            - chapter: 2
+              title: Políticas de seguridad y prevención
+            - chapter: 3
+              title: Memoria democrática
+          page: 123
+    - chapter: 4
+      title: Un programa internacional. España, potencia de paz y progreso
+      children: 
+        - chapter: 1
+          title: Una política exterior para cuidar la democracia y el planeta
+          page: 138
+        - chapter: 2
+          title: Una Europa que proteja a las personas
+          page: 143
+        - chapter: 3
+          title: Una política de desarrollo a favor de la justicia global
+          page: 147
+        - chapter: 4
+          title: Una política de movilidad humana con los derechos humanos en el centro
+          page: 149
+    - chapter: 5
+      title: Un proyecto de educación, universidad, conocimiento, ciencia, cultura, deporte, innovación y digitalización para la cohesión social y la transición justa y sostenible
+      children: 
+        - chapter: 1
+          title: Derecho a la educación y sistema educativo
+          page: 154
+        - chapter: 2
+          title: Universidad, ciencia e innovación
+          page: 159
+          children: 
+            - chapter: 1
+              title: Universidad
+              children:
+                - chapter: I
+                  title:  "La universidad como servicio público para el conocimiento y la ciencia, la innovación, a cultura y la cohesión social"
+                - chapter: II
+                  title:  "Combatir la precariedad vital: Un estudiantado amplio y diverso y la formación universitaria como derecho efectivo para una ciudadanía fuerte"
+                - chapter: III
+                  title:  "Personal Docente e Investigador (PDI) y Personal Técnico, de Gestión y de Administración y Servicios (PTGAS): trayectorias estables y nuevas evaluaciones para combatir la precariedad laboral"
+                - chapter: IV
+                  title: "Docencia, formación, investigación, transferencia, cultura universitaria y ciencia abierta y ciudadana para las personas y la cohesión social"
+                - chapter: V
+                  title: "Igualdad de género: consolidar su aplicación transversal"
+                - chapter: VI
+                  title: "Igualdad e inclusión efectiva y transversal de la discapacidad y de las distintas diversidades"
+                - chapter: VII
+                  title: "Internacionalización de la investigación, de la docencia y del intercambio de conocimientos"
+                - chapter: VIII
+                  title: "Universidades comprometidas con sus territorios: poner en valor la relación de las universidades con sus entornos locales y sus contribuciones mutuas"
+                - chapter: IX
+                  title: Gobernanza participativa, responsable y sostenible en el marco de los ODS y del Pilar Europeo de Derechos Sociales. Agencias de evaluación
+                - chapter: X
+                  title: Financiación estructural. Cumplimiento obligatorio del compromiso de la LOSU y aumento posterior sostenido, con rendición de cuentas y transparencia
+            - chapter: 2
+              title: Ciencia e innovación
+              children:
+                - chapter: I
+                  title: Por una ciencia e innovación al servicio de una sociedad más justa, crítica y sostenible
+                - chapter: II
+                  title: Cuidar de las personas de la ciencia y de la aproximación de la ciencia a la sociedad
+                - chapter: III
+                  title: Incremento sustantivo en la financiación estructural, simplificación de la burocracia y mejora sustantiva de la gobernanza
+        - chapter: 3
+          title: Cultura y deporte
+          page: 167
+          children: 
+            - chapter: 1
+              title: Cultura
+              children:
+                - chapter: I
+                  title: Libertad de producción y creación sin precariedad y cultura para el conjunto de la sociedad
+                - chapter: II
+                  title: Una nueva arquitectura normativa
+                - chapter: III
+                  title: Una mayor financiación, en crecimiento y sin incertidumbres
+                - chapter: IV
+                  title: Trabajo cultural. Acabar con la precariedad laboral
+                - chapter: V
+                  title: Cultura digital
+                - chapter: VI
+                  title: Una cultura imbricada en los territorios y con ambición de protagonismo internacional
+                - chapter: VII
+                  title: Cultura y educación
+                - chapter: VIII
+                  title: Cultura, igualdad y diversidad
+                - chapter: IX
+                  title: Cultura para la transición ecológica
+            - chapter: 2
+              title: Deporte
+              children:
+                - chapter: I
+                  title: Actividad deportiva como parte del bienestar, la calidad de la vida y de la salud, para todas y todos
+                - chapter: II
+                  title: Ampliar y diversificar la oferta pública y la accesibilidad a la actividad deportiva y la corresponsabilidad de las empresas y otros agentes sociales
+                - chapter: III
+                  title: Modernización del sector y de sus regulaciones
+                - chapter: IV
+                  title: Incrementar la financiación de la actividad deportiva
+            - chapter: 3
+              title: Digitalización con derechos
