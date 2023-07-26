@@ -1,0 +1,28 @@
+id: 091b647e-7ce3-4823-b745-e29b8e66cd7f
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 125
+    parent_chapter: 3.3.1
+    section: 7
+categories:
+  - Justicia
+title: "Reestructuración de la oficina judicial"
+description: "Necesitamos un nuevo modelo de Oficina Judicial."
+statements:
+  - id: 1
+    quote: Debe pasarse del actual sistema de órganos judiciales separados a otro de actuaciones conjuntas integradas con servicios comunes a todos ellos.
+  - id: 2
+    quote: Desarrollaremos la Oficina Judicial basándonos en los principios de jerarquía, división de funciones y coordinación.
+  - id: 3
+    quote: Reorganizaremos los recursos actualmente existentes, buscando criterios de agilidad, eficacia, eficiencia, racionalización del trabajo, responsabilidad por la gestión, coordinación y cooperación entre Administraciones, con el despliegue simultáneo de nuevas herramientas tecnológicas (expediente judicial electrónico accesible, interoperabilidad y utilización de datos para proyectar mejoras, videoconferencias)
+  - id: 4
+    quote: La nueva Oficina Judicial, con la esencial utilización de los medios informáticos, no debe impedir que los ciudadanos puedan relacionarse presencialmente con el personal judicial.
+

@@ -1,110 +1,76 @@
 categories:
-
-    - 
-        name: Infraestructuras
-        icon: snowplow
-    - 
-        name: Vivienda y urbanismo
-        icon: house
-    - 
-        name: Economía
-        icon: eur
-    - 
-        name: Trabajo
-        icon: wrench
-    -
-        name: Empresas públicas
-        icon: sitemap
-    - 
-        name: Empresas y comercio
-        icon: store-alt
-    - 
-        name: Industria
-        icon: industry
-    - 
-        name: Turismo
-        icon: umbrella-beach
-    - 
-        name: Agricultura
-        icon: tractor
-    - 
-        name: Ganadería
-        icon: horse
-    - 
-        name: Pesca
-        icon: fish
-    - 
-        name: Agua
-        icon: faucet
-    - 
-        name: Energía
-        icon: charging-station
-    - 
-        name: Consumo
-        icon: shopping-cart
-    - 
-        name: Alimentación
-        icon: utensils
-    - 
-        name: Ciencia y tecnología
-        icon: microscope
-    -
-        name: Cambio climático
-        icon: cloud-sun-rain
-    - 
-        name: Medioambiente y biodiversidad
-        icon: tree
-    - 
-        name: Residuos
-        icon: skull-crossbones
-    - 
-        name: Territorio
-        icon: map-signs
-    - 
-        name: Democracia
-        icon: university
-    - 
-        name: Organización estatal y administraciones públicas
-        icon: flag
-    -
-        name: Agencias públicas
-        icon: tasks
-    - 
-        name: Derechos y servicios sociales
-        icon: universal-access
-    - 
-        name: Hacienda y fiscalidad
-        icon: search-dollar
-    - 
-        name: Justicia
-        icon: balance-scale
-    - 
-        name: Educación 
-        icon: user-graduate
-    -
-        name: Medios de comunicación
-        icon: broadcast-tower
-    - 
-        name: Sanidad
-        icon: stethoscope
-    - 
-        name: Cultura
-        icon: book
-    -
-        name: Religion
-        icon: pray
-    - 
-        name: Deportes
-        icon: running
-    - 
-        name: Migración
-        icon: globe-africa
-    - 
-        name: Seguridad y defensa
-        icon: fighter-jet 
-    - 
-        name: Política internacional
-        icon: globe  
+    - name: Infraestructuras
+      icon: snowplow
+    - name: Transporte
+      icon: car-side
+    - name: Vivienda y urbanismo
+      icon: house
+    - name: Economía
+      icon: eur
+    - name: Trabajo
+      icon: wrench
+    - name: Empresas públicas
+      icon: sitemap
+    - name: Empresas y comercio
+      icon: store-alt
+    - name: Industria
+      icon: industry
+    - name: Turismo
+      icon: umbrella-beach
+    - name: Agricultura
+      icon: tractor
+    - name: Ganadería
+      icon: horse
+    - name: Pesca
+      icon: fish
+    - name: Agua
+      icon: faucet
+    - name: Energía
+      icon: charging-station
+    - name: Consumo
+      icon: shopping-cart
+    - name: Alimentación
+      icon: utensils
+    - name: Ciencia y tecnología
+      icon: microscope
+    - name: Cambio climático
+      icon: cloud-sun-rain
+    - name: Medioambiente y biodiversidad
+      icon: tree
+    - name: Residuos
+      icon: skull-crossbones
+    - name: Territorio
+      icon: map-signs
+    - name: Democracia
+      icon: university
+    - name: Organización estatal y administraciones públicas
+      icon: flag
+    - name: Agencias y órganos públicos
+      icon: tasks
+    - name: Derechos y servicios sociales
+      icon: universal-access
+    - name: Hacienda y fiscalidad
+      icon: search-dollar
+    - name: Justicia
+      icon: balance-scale
+    - name: Educación 
+      icon: user-graduate
+    - name: Medios de comunicación
+      icon: broadcast-tower
+    - name: Sanidad
+      icon: stethoscope
+    - name: Cultura
+      icon: book
+    - name: Religion
+      icon: pray
+    - name: Deportes
+      icon: running
+    - name: Migración
+      icon: globe-africa
+    - name: Seguridad y defensa
+      icon: fighter-jet 
+    - name: Política internacional
+      icon: globe  
 
 statuses:
     -

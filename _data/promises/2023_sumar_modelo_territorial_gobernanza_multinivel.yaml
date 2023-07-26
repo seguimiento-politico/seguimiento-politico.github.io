@@ -1,0 +1,24 @@
+id: 2103a962-0284-447d-a799-fe615c1a761d
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 121
+    parent_chapter: 3.2.3
+    section: 4
+categories:
+  - Territorio
+  - Organización estatal y administraciones públicas
+title: "Reconocimiento y potenciación de los Gobiernos locales"
+description: El modelo territorial está incompleto si no incorporamos a los municipios. En este sentido, nuestra propuesta es nítidamente municipalista y reconoce su importante papel a la hora de trabajar por el bienestar de nuestra sociedad. 
+statements:
+  - id: 1
+    quote: Para ello aprobaremos de forma inmediata una ley de gobiernos locales y financiación local, y aseguraremos el reconocimiento a la capacidad y la legitimidad de los gobiernos locales para formar parte del modelo de gobernanza multinivel;
+  - id: 2
+    quote: del mismo modo, apuntalaremos sus competencias y mejoraremos los recursos para desarrollarlas.

@@ -1,0 +1,55 @@
+id: 6eb3bb2c-8908-41b6-b929-98886f9c751b
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 120
+    parent_chapter: 3.2.2
+    section: 7
+categories:
+  - Democracia
+  - Organización estatal y administraciones públicas
+  - Ciencia y tecnología
+  - Agencias y órganos públicos
+  - Educación
+title: "Innovación, digitalización y gestión del conocimiento."
+description: Como tantos otros ámbitos, la transformación de la Administración pública reclama disponer de espacios innovadores, así como promover una gestión de los datos y del conocimiento.
+statements:
+  -
+    id: 1
+    quote: En este sentido, proponemos impulsar tanto los Laboratorios de Innovación Pública como una agencia pública para la transición digital destinada a impulsar y controlar la introducción del análisis de datos masivos, los procesos de digitalización y los riesgos de exclusión que generan el uso de algoritmos en la toma de decisiones o la llegada de la IA a la Administración pública.
+  -
+    id: 2
+    quote: En términos más generales, hemos de garantizar una transición digital transparente y con criterios democráticos y de justicia.
+  -
+    id: 3
+    quote: En el marco de la agencia para la transición digital, se proponen actuaciones diversas, como promover una pacto nacional de innovación tecnológica, 
+    partial: ini
+  -
+    id: 4
+    quote: impulsar un ecosistema de plataformas público-comunitarias, 
+  -
+    id: 5
+    quote: garantizar el derecho a la propiedad común de los datos, 
+  -
+    id: 6
+    quote: crear infraestructuras tecnológicas nacionales y europeas soberanas, 
+  -
+    id: 7
+    quote: asegurar la toma democrática de decisiones en torno al desarrollo tecnológico, 
+  -
+    id: 8
+    quote: generar una red de equipamientos para la inclusión digital, 
+  -
+    id: 9
+    quote: impulsar programas de alfabetización digital promovidos por la Administración pública, 
+  -
+    id: 10
+    quote: implementar medidas para combatir la brecha digital o un plan de igualdad digital para la promoción de una digitalización feminista.
+    partial: end

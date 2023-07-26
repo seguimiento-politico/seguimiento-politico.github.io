@@ -1,0 +1,29 @@
+id: c6eaf70c-7a64-4686-bd75-d3d0be47c347
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 119
+    parent_chapter: 3.2.2
+    section: 6
+categories:
+  - Democracia
+  - Organización estatal y administraciones públicas
+title: "Liderazgo: politización y función directiva profesional"
+description: La transformación de la Administración no es sencilla y requiere de un fuerte compromiso por parte tanto del liderazgo político como de la 120Un proyecto para ensanchar la democracia Democracia de calidad función directiva profesional. Un liderazgo también renovado, pero fuertemente comprometido con los propósitos de cambiar las dinámicas de funcionamiento de las instituciones públicas.
+statements:
+  -
+    id: 1
+    quote: Por un lado, se requiere un compromiso explícito desde la cúpula del Gobierno y un encargo político, claro y potente, al responsable de la transformación administrativa. Este liderazgo político debe combinar mucha fuerza para imponerse en un entorno repleto de resistencias y mucha sensibilidad, pues no se trata de un liderazgo vertical, sino de un liderazgo que escucha y articula.
+  -
+    id: 2
+    quote: Por otro lado, deberemos poner en marcha un proyecto de dirección pública profesional, con nuevos perfiles y habilidades adecuadas a la Administración que se pretende construir.
+  -
+    id: 3
+    quote: Finalmente, impulsaremos políticas de integridad y de rendición de cuentas, asegurando así el comportamiento ético y responsable de los cargos públicos y los profesionales de la Administración.

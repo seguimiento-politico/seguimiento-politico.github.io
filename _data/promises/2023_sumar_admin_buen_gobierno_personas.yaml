@@ -1,0 +1,31 @@
+id: fd6a61e2-a8c5-4518-a658-d72284dd176e
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 119
+    parent_chapter: 3.2.2
+    section: 2
+categories:
+  - Democracia
+  - Organización estatal y administraciones públicas
+title: "Personas, personas y más personas."
+statements:
+  -
+    id: 1
+    quote: Situar a las personas en el centro de la transformación de la Administración pública es, probablemente, la piedra angular de nuestra propuesta. Y al usar el término personas nos referimos tanto a la ciudadanía como al conjunto de los empleados públicos.
+  -
+    id: 2
+    quote: Nuestra guía debe ser una Administración centrada en las personas y, por lo tanto, que garantice tanto el respeto a su diversidad como la inclusión de todas sus situaciones y todas sus voces.
+  -
+    id: 3
+    quote: Para ello deberemos diseñar mecanismos de escucha y de cuidado, esforzarnos en hacer una Administración inteligible e incorporar a la ciudadanía en experiencias de cogestión y cocreación de servicios públicos.
+  -
+    id: 4
+    quote: "Además, lejos de las críticas tradicionales, afirmamos que el principal activo de la Administración pública son las personas que trabajan en ella y que, por lo tanto, especialmente en un momento de relevo generacional, deberemos poner mucho empeño en las políticas de recursos humanos: redimensionar las plantillas y definir nuevos perfiles y mecanismos de selección y de captación de talento (especialmente entre los jóvenes)."

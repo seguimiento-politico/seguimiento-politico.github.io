@@ -1,0 +1,42 @@
+id: f08cc810-7084-43d9-a77a-517023e9f05f
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 126
+    parent_chapter: 3.3.1
+    section: 11
+categories:
+  - Justicia
+  - Trabajo
+  - Educación
+  - Derechos y servicios sociales
+title: " Propondremos un nuevo modelo de acceso, formación, especialización y promoción de jueces y fiscales. "
+description: El derecho a la tutela judicial efectiva exige garantizar a las personas que no disponen de recursos económicos suficientes el asesoramiento, la representación procesal y la defensa de calidad por mandato de los artículos 119 y 24 de la Constitución
+statements:
+  - id: 1
+    quote: Nos comprometemos a proponer una reforma de los sistemas de acceso a las carreras profesionales relacionadas con la justicia, 
+    partial: ini
+  - id: 2
+    quote: con la creación de un centro de altos estudios de carácter público, propiciando modalidades de pruebas y criterios de selección que, sin merma de su carácter rigurosamente objetivo, prioricen la madurez intelectual y cultural, la adquisición de conocimientos jurídicos y la capacidad argumentativa frente al acopio memorístico de conocimientos, 
+  - id: 3
+    quote: estableciendo un periodo transitorio para la adaptación de los actuales opositores.
+    partial: end
+  - id: 4
+    quote: Los estudiantes admitidos durante el periodo de estudios y prácticas, tras cuya superación adquirirían la correspondiente titularidad, recibirán la retribución correspondiente para garantizar la igualdad.
+  - id: 5
+    quote: En este nuevo modelo de acceso se reforzarán las materias de igualdad de género, derechos humanos y respeto hacia las minorías.
+  - id: 6
+    quote: Se incidirá en las aptitudes para la toma de decisiones y en el conocimiento de la trascendencia que pueden tener en el entorno social al que van dirigidas, en la motivación y en el ejemplar trato que se dispense a todos los intervinientes.
+  - id: 7
+    quote: Estableceremos un sistema de becas públicas, ayudas y compensaciones para preparar el acceso al empleo público en la justicia para garantizar que ninguna persona quede excluida del acceso por motivos socioeconómicos. 
+  - id: 8
+    quote: Asimismo, se favorecerá el acceso de las minorías a la carrera judicial y fiscal.
+  - id: 9
+    quote: Además, se establecerán formas especiales de acceso a las carreras judicial y fiscal, tercer y cuarto turno, para profesiones jurídicas y universitarias y para determinados colectivos (letrados y letradas Administraciones de Justicia, así como personal judicial y fiscal sustituto).

@@ -1,0 +1,25 @@
+id: c28c6f4d-6529-439c-a0d4-86f15b66f309
+config:
+  scope: national
+  country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+reference:
+    type: manifesto
+    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+    page: 125
+    parent_chapter: 3.3.1
+    section: 9
+categories:
+  - Justicia
+  - Derechos y servicios sociales
+title: "Impulso de una Ley Orgánica sobre el derecho a la defensa"
+statements:
+  - id: 1
+    quote: Esta Ley Orgánica del derecho de defensa tendrá como objeto desplegar el catálogo de derechos que asisten a toda persona, regular las garantías y deberes de la asistencia jurídica, así como las garantías institucionales para su ejercicio a través de las instituciones que le son propias, rechazando fórmulas de privatización y reconociendo el derecho a la indemnidad por el ejercicio del derecho de defensa.
+  - id: 2
+    quote: Garantizaremos el suministro por parte del Estado de los medios de prueba pertinentes en los casos de evidente desigualdad entre las partes.
+  - id: 3
+    quote: Se adelantarán las indemnizaciones a las víctimas, en especial de accidentes de trabajo, enfermedades profesionales y de delitos, para impedir que las demoras conlleven la reducción de sus derechos.

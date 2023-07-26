@@ -37,14 +37,21 @@
         {% endif %}
         {% if item[0].statements %}
             {% assign cont = 0 %}
+            {% assign partial = false %}
             <ul>
             {% for statement in item[0].statements %}
                 {% assign cont = cont | plus: 1 %}
-                {% if statement.partial == "ini" or statement.partial == nil %}
+                {% if partial == false %}
                     <li>
                 {% endif %}
+                {% if statement.partial == "ini" %}
+                    {% assign partial = true %}
+                {% endif %} 
                 <b>{{"("}} {{cont}} {{") " }}</b> {{ statement.quote}} 
-                {% if statement.partial contains "end" or statement.partial == nil %}
+                {% if statement.partial == "end" %}
+                    {% assign partial = false %}
+                {% endif %} 
+                {% if partial == false %}
                     </li>
                 {% endif %}
             {% endfor %}
