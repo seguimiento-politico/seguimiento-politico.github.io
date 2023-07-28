@@ -7,9 +7,9 @@ parties:
   - SUMAR
 ref_type: manifesto
 ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-ref_page: X
-ref_parent_chapter:
-ref_section: Y.Y
+ref_page:
+ref_parent_chapter: 
+ref_section: "Y.Y"
 categories:
   - Agua
   - Medioambiente y biodiversidad

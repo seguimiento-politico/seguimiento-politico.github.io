@@ -7,7 +7,7 @@ title: Fondo de Compensación de Daños Medioambientales
 statements:
   -
     id: 1
-    quote: Creación del Fondo de Compensación de Daños Medioambientales. El Fondo se irá constituyendo a partir de los recargos en las pólizas de seguro obligatorias a los operadores que realicen ciertas actividades económicas susceptibles de ocasionar daños al medioambiente. La finalidad de este Fondo será extender en el tiempo la cobertura de tales daños, de forma que, vencido el seguro, los daños pasan a cubrirse con cargo al Fondo por un tiempo adicional igual al que estuvo vigente la póliza, con un límite de 30 años.
+    quote: Creación del Fondo de Compensación de Daños Medioambientales. El Fondo se irá constituyendo a partir de los recargos en las pólizas de seguro obligatorias a los operadores que realicen ciertas actividades económicas susceptibles de ocasionar daños al medioambiente. La finalidad de este Fondo será extender en el tiempo la cobertura de tales daños, de forma que, vencido el seguro, los daños pasan a cubrirse con cargo al Fondo por un tiempo adicional igual al que estuvo vigente la póliza, con un límite de 30 años."
 categories: Medioambiente
 parties:
   - PSOE
@@ -15,6 +15,5 @@ parties:
 ref_type: goverment_agreement
 ref_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 ref_page:
-ref_parent_chapter:
+ref_parent_chapter: 
 ref_section: 
-    

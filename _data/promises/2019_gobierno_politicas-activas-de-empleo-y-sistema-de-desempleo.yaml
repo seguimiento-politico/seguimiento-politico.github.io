@@ -26,7 +26,7 @@ statements:
     quote: Garantizaremos una atención individualizada, profesional e integral a los desempleados y desempleadas, dirigida a su rápida reincorporación al mercado de trabajo, prestando especial atención a los jóvenes, parados de larga duración y a los supuestos de exclusión social. Las políticas activas de empleo garantizarán que\r\nlas ofertas de colocación sean adecuadas a las aptitudes y los perfiles formativos\r\nde las personas desempleadas.
   -
     id: 6
-    quote: Mejoraremos el sistema de protección por desempleo mediante una reordenación y simplificación que refuerce la protección de las personas desempleadas que lo necesiten
+    quote: Mejoraremos el sistema de protección por desempleo mediante una reordenación y simplificación que refuerce la protección de las personas desempleadas que lo necesiten"
 categories: 'Economía, trabajo y hacienda'
 parties:
   - PSOE
@@ -34,6 +34,5 @@ parties:
 ref_type: goverment_agreement
 ref_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 ref_page:
-ref_parent_chapter:
+ref_parent_chapter: 
 ref_section: 
-    

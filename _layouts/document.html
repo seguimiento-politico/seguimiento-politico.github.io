@@ -2,10 +2,7 @@
 layout: page
 ---
 
-{% assign doc = site.data.documents.[page.doc_name] | sort: 'ref_section' %}
+{% assign doc = site.data.documents.[page.doc_name] %}
 
-{% if doc.index %}
-    {% include document_sidebar.html %}
-{% endif %}
-
+{% include document_sidebar.html %}
 {% include document_promises.html %}

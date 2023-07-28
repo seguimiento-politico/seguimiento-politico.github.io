@@ -16,7 +16,7 @@ statements:
     quote: Garantizaremos el agua potable y de riego, al tiempo que se protege el medioambiente y se consagra el acceso al agua como un derecho humano y no como un bien mercantil. Se prohibirá, por tanto y como parte de este principio, la compraventa de derechos concesionales del agua.
   -
     id: 4
-    quote: Llevaremos a cabo el saneamiento de las rías, desembocaduras de ríos y otros lugares de especial riqueza ambiental, económica y social.
+    quote: Llevaremos a cabo el saneamiento de las rías, desembocaduras de ríos y otros lugares de especial riqueza ambiental, económica y social."
 categories:
   - Agua
   - Agricultura
@@ -27,6 +27,5 @@ parties:
 ref_type: goverment_agreement
 ref_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 ref_page:
-ref_parent_chapter:
+ref_parent_chapter: 
 ref_section: 
-    

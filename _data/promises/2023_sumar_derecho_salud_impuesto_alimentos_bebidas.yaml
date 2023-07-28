@@ -8,8 +8,8 @@ parties:
 ref_type: manifesto
 ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
 ref_page: 91
-ref_parent_chapter:
-ref_section: 9
+ref_parent_chapter: 
+ref_section: "9"
 categories:
   - Hacienda y fiscalidad
   - Sanidad

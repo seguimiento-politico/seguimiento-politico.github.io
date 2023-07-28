@@ -15,7 +15,7 @@ statements:
   - 
     id: 3
     quote: mejoraremos la coordinación y coherencia de acción desde los diferentes Departamentos ministeriales.
-    partial: end
+    partial: end"
 categories:
   - Economía
   - Trabajo
@@ -25,6 +25,5 @@ parties:
 ref_type: goverment_agreement
 ref_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 ref_page:
-ref_parent_chapter:
+ref_parent_chapter: 
 ref_section: 
-    

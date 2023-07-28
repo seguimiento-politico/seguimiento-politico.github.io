@@ -7,7 +7,7 @@ title: Ley de Costas
 statements: 
   -
     id: 1
-    quote: Actualizaremos la Ley de Costas ante la amenaza real que supone el cambio climático, para aumentar la protección y evitar que continúe la actual destrucción de ecosistemas costeros.
+    quote: Actualizaremos la Ley de Costas ante la amenaza real que supone el cambio climático, para aumentar la protección y evitar que continúe la actual destrucción de ecosistemas costeros."
 categories: Medioambiente
 parties:
   - PSOE
@@ -15,6 +15,5 @@ parties:
 ref_type: goverment_agreement
 ref_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 ref_page:
-ref_parent_chapter:
+ref_parent_chapter: 
 ref_section: 
-    

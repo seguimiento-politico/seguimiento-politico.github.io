@@ -8,8 +8,8 @@ parties:
 ref_type: manifesto
 ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
 ref_page: 157
-ref_parent_chapter: 5.1.IV
-ref_section: 17
+ref_parent_chapter: "5.1.IV"
+ref_section: "17"
 categories:
   - Educación
 title: "Gratuidad de todas las etapas educativas en los centros públicos, obligatorias y no obligatorias."

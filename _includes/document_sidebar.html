@@ -15,7 +15,7 @@
                                     {% if sub_chapter.children %} 
                                         {{sub_chapter.chapter}}. {{ sub_chapter.title }} 
                                     {% else %}
-                                        <a href="#" class="link-dark rounded">{{sub_chapter.chapter}}. {{sub_chapter.title}}</a>
+                                        <a href="#{{sub_chapter.title | slugify}}" class="link-dark rounded">{{sub_chapter.chapter}}. {{sub_chapter.title}}</a>
                                     {% endif %}
                                 </button>
                                 {% if sub_chapter.children %} 
@@ -23,7 +23,7 @@
                                     <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
                                         {% for sub2_chapter in sub_chapter.children %}
                                             <li>
-                                                <a href="#" class="link-dark rounded">{{sub2_chapter.chapter}}. {{sub2_chapter.title}}</a>
+                                                <a href="#{{sub2_chapter.title | slugify}}" class="link-dark rounded">{{sub2_chapter.chapter}}. {{sub2_chapter.title}}</a>
                                             </li>
                                         {% endfor %}
                                     </ul>

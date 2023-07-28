@@ -8,8 +8,8 @@ parties:
 ref_type: manifesto
 ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
 ref_page: 150
-ref_parent_chapter: 4.4
-ref_section: 34
+ref_parent_chapter: "4.4"
+ref_section: "34"
 categories:
   - Migracion
   - Política internacional

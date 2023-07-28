@@ -13,7 +13,7 @@ statements:
     quote: Se llevarán a cabo medidas de asesoramiento de explotaciones agrarias para mejorar la sostenibilidad de la producción ganadera y la conservación de los suelos agrícolas. 
   -
     id: 3
-    quote: Igualmente, se revisará el Plan Forestal Español para una gestión y aprovechamiento sostenible de nuestros montes.
+    quote: Igualmente, se revisará el Plan Forestal Español para una gestión y aprovechamiento sostenible de nuestros montes."
 categories:
   - 'Agricultura, ganadería y pesca'
   - Medioambiente y biodiversidad
@@ -23,6 +23,5 @@ parties:
 ref_type: goverment_agreement
 ref_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 ref_page:
-ref_parent_chapter:
+ref_parent_chapter: 
 ref_section: 
-    

@@ -29,7 +29,7 @@ statements:
     quote: Como elemento del Green New Deal implementaremos un Plan de Vivienda Sostenible (desde el punto de vista energético, ecológico y social) ligado a la Estrategia de Rehabilitación de Edificios a Largo Plazo.
   - 
     id: 8
-    quote: Completaremos la aprobación del Estatuto del consumidor electrointensivo, con el objetivo de potenciar la competitividad y la eficiencia de las empresas con altos costes energéticos, a través de compensaciones y exenciones de pago a cambio de que éstas mejoren su eficiencia energética y que mantengan y generen empleo."
+    quote: Completaremos la aprobación del Estatuto del consumidor electrointensivo, con el objetivo de potenciar la competitividad y la eficiencia de las empresas con altos costes energéticos, a través de compensaciones y exenciones de pago a cambio de que éstas mejoren su eficiencia energética y que mantengan y generen empleo.
 categories:
   - Industria
   - Energía
@@ -40,6 +40,5 @@ parties:
 ref_type: goverment_agreement
 ref_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 ref_page:
-ref_parent_chapter:
+ref_parent_chapter: 
 ref_section: 
-    

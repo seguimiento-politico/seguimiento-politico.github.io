@@ -49,7 +49,7 @@ statements:
   - 
     id: 12
     quote: y reforzaremos el papel de la ITSS y la utoridad laboral en el control de los despidos colectivos y en otros expedientes de regulación de empleo.
-    partial: end
+    partial: end"
 categories:
   - Economía
   - Trabajo
@@ -59,6 +59,5 @@ parties:
 ref_type: goverment_agreement
 ref_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 ref_page:
-ref_parent_chapter:
+ref_parent_chapter: 
 ref_section: 
-    

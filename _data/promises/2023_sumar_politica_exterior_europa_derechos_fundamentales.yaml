@@ -8,8 +8,8 @@ parties:
 ref_type: manifesto
 ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
 ref_page: 145
-ref_parent_chapter: 4.2
-ref_section: 21
+ref_parent_chapter: "4.2"
+ref_section: "21"
 categories:
   - Derechos y servicios sociales
   - Seguridad y defensa

@@ -7,7 +7,7 @@ title: Plan Nacional de Salud y Medio Ambiente
 statements:
   - 
     id: 1
-    quote: Elaboraremos un Plan Nacional de Salud y Medio Ambiente, para abordar los crecientes impactos sobre la salud de los cambios ambientales consecuencia de la crisis ecológica.
+    quote: Elaboraremos un Plan Nacional de Salud y Medio Ambiente, para abordar los crecientes impactos sobre la salud de los cambios ambientales consecuencia de la crisis ecológica."
 categories:
   - Medioambiente y biodiversidad
   - Sanidad
@@ -17,6 +17,5 @@ parties:
 ref_type: goverment_agreement
 ref_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 ref_page:
-ref_parent_chapter:
+ref_parent_chapter: 
 ref_section: 
-    

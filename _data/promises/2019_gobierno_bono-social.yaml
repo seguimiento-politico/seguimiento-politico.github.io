@@ -11,7 +11,7 @@ statements:
     quote: Aprobaremos una reforma profunda del bono social eléctrico y creación un bono general que incluye el bono gasista.
   -
     id: 2
-    quote: El coste del bono social eléctrico, será asumido por las matrices de los grupos de sociedades que desarrollen la actividad de   comercialización de energía eléctrica, o por las propias sociedades que así lo hagan si no forman parte de ningún grupo societario. 
+    quote: El coste del bono social eléctrico, será asumido por las matrices de los grupos de sociedades que desarrollen la actividad de   comercialización de energía eléctrica, o por las propias sociedades que así lo hagan si no forman parte de ningún grupo societario. "
 categories: Derechos y servicios sociales
 parties:
   - PSOE
@@ -19,6 +19,5 @@ parties:
 ref_type: goverment_agreement
 ref_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 ref_page:
-ref_parent_chapter:
+ref_parent_chapter: 
 ref_section: 
-    

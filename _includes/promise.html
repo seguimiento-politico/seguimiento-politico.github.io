@@ -124,15 +124,15 @@
         </div>
     </div>
     <div class="card-footer">
-        {% assign type = item[0].reference.type %}
-        {% assign source = site.data.references.[type] | where: "id", item[0].reference.id %}
+        {% assign type = item[0].ref_type %}
+        {% assign source = site.data.references.[type] | where: "id", item[0].ref_id %}
         {% assign url = source[0].url %}
-        {% if item[0].reference.page %}
-            {% assign url = url | append: '#page=' | append: item[0].reference.page %}
-            {% assign text = 'pag. ' | append: item[0].reference.page | append: ", art. " | append: item[0].reference..section %}
+        {% if item[0].ref_page %}
+            {% assign url = url | append: '#page=' | append: item[0].ref_page %}
+            {% assign text = 'pag. ' | append: item[0].ref_page | append: ", art. " | append: item[0].ref_.section %}
         {% endif %}
-        {% if item[0].reference.text %}
-            {% assign text = item[0].reference.text %}
+        {% if item[0].ref_text %}
+            {% assign text = item[0].ref_text %}
         {% endif %}
         
         Fuente del compromiso:

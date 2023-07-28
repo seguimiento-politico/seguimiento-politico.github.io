@@ -13,7 +13,7 @@ statements:
     quote: Se convocará la mesa del Dialogo Social al objeto de promover un acuerdo que será la base para la propuesta del Gobierno. 
   -
     id: 3
-    quote: Se creará una Comisión asesora del Ministerio de Trabajo y a disposición del Diálogo Social, compuesta por profesionales de reconocido prestigio, académicos y representantes de los sindicatos y empresarios, que estudiará la evolución del Salario Mínimo Interprofesional. Para su análisis se tendrán en cuenta, entre otras cuestiones, el índice de precios de consumo, la productividad media nacional alcanzada, el incremento de la participación del trabajo en la renta nacional, y la coyuntura económica general.
+    quote: Se creará una Comisión asesora del Ministerio de Trabajo y a disposición del Diálogo Social, compuesta por profesionales de reconocido prestigio, académicos y representantes de los sindicatos y empresarios, que estudiará la evolución del Salario Mínimo Interprofesional. Para su análisis se tendrán en cuenta, entre otras cuestiones, el índice de precios de consumo, la productividad media nacional alcanzada, el incremento de la participación del trabajo en la renta nacional, y la coyuntura económica general."
 categories: 'Economía, trabajo y hacienda'
 parties:
   - PSOE
@@ -21,6 +21,5 @@ parties:
 ref_type: goverment_agreement
 ref_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 ref_page:
-ref_parent_chapter:
+ref_parent_chapter: 
 ref_section: 
-    

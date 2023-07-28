@@ -8,8 +8,8 @@ parties:
 ref_type: manifesto
 ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
 ref_page: 125
-ref_parent_chapter: 3.3.1
-ref_section: 7
+ref_parent_chapter: "3.3.1"
+ref_section: "7"
 categories:
   - Justicia
 title: "Reestructuración de la oficina judicial"

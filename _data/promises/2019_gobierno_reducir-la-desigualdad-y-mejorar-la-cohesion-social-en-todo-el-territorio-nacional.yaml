@@ -24,7 +24,7 @@ statements:
   -
     id: 6
     quote: la protección del estado de bienestar, con especial atención a las personas más vulnerables, y a los niños y niñas."
-    partial: end
+    partial: end"
 categories:
   - Derechos y servicios sociales
   - Territorio
@@ -34,6 +34,5 @@ parties:
 ref_type: goverment_agreement
 ref_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 ref_page:
-ref_parent_chapter:
+ref_parent_chapter: 
 ref_section: 
-    

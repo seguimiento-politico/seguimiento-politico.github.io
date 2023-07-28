@@ -13,7 +13,7 @@ statements:
     quote: Estableceremos reglamentariamente la retribución de la energía vertida a la red por las instalaciones de autoconsumo que deberá ser, como mínimo, igual al valor de mercado mayorista de electricidad. 
   -
     id: 3
-    quote: Se continuará trabajando para reparar la situación de los pequeños inversores perjudicados por el cambio regulatorio respecto de la retribución de las renovables."
+    quote: Se continuará trabajando para reparar la situación de los pequeños inversores perjudicados por el cambio regulatorio respecto de la retribución de las renovables.
 categories:
   - Industria
   - Energía
@@ -24,6 +24,5 @@ parties:
 ref_type: goverment_agreement
 ref_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 ref_page:
-ref_parent_chapter:
+ref_parent_chapter: 
 ref_section: 
-    
