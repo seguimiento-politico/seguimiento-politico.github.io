@@ -1,0 +1,20 @@
+id: 63c7a791-9cc5-48c5-bfb5-228a31e67f25
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 156
+ref_parent_chapter: 5.1.II
+ref_section: 12
+categories:
+  - Educación
+title: "Enseñanza plurilingüe para garantizar la igualdad lingüística."
+statements: 
+  - id: 1
+    quote: Proteger las lenguas oficiales del Estado es necesario para potenciar la igualdad lingüística; el sistema educativo es el lugar para garantizar que se conozcan y estudien. 
+  - id: 2
+    quote: Para ello, se impulsará una Ley Estatal de uso y enseñanza de lenguas oficiales y minorizadas.

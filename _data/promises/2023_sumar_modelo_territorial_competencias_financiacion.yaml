@@ -1,17 +1,15 @@
 id: 33bddebd-5ecc-4f9e-914b-fdedf6b34307
-config:
-  scope: national
-  country: spain
+scope: national
+scope_country: spain
 election_type: generales
 from: "2023-07-23"
 parties:
   - SUMAR
-reference:
-    type: manifesto
-    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-    page: 121
-    parent_chapter: 3.2.3
-    section: 2
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 121
+ref_parent_chapter: 3.2.3
+ref_section: 2
 categories:
   - Territorio
   - Organización estatal y administraciones públicas

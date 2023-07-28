@@ -1,0 +1,26 @@
+id: fc6122c3-3ba0-4d98-8221-7863966e05ea
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 133
+ref_parent_chapter: 3.3.2
+ref_section: 15
+categories:
+  - Seguridad y defensa
+  - Medios de comunicación
+title: "Mejores prácticas en la promoción y publicidad de la seguridad privada"
+description: Es importante que la publicidad de estos servicios no contribuya a crear sentimientos públicos exagerados de inseguridad ciudadana (como ocurre, por ejemplo, con el fenómeno de la ocupación),
+statements:
+  - id: 1
+    quote: para lo que sería preciso emprender reformas legales,
+    partial: ini
+  - id: 2
+    quote: pero también el desarrollo de un código de buenas prácticas para la industria policial 
+  - id: 3
+    quote: y penitenciaria similar al que existe para la industria farmacéutica.
+    partial: end

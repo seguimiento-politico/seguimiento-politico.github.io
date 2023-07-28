@@ -1,0 +1,34 @@
+id: dcae6b18-3248-4abf-90d9-65bcb4522bf9
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 157
+ref_parent_chapter: 5.1.IV
+ref_section: 18
+categories:
+  - Educación
+title: "Mayor inversión en educación"
+statements: 
+  - id: 1
+    quote: en personal, infraestructuras y equipamientos. 
+  - id: 2
+    quote: El mantenimiento y mejora de los centros públicos requiere una mayor inversión en sus infraestructuras y equipamientos, con dotación de espacios de uso múltiple, talleres, bibliotecas, aulas de música, gimnasios, comedores escolares, etcétera. 
+  - id: 3
+    quote: También es fundamental la bioclimatización de los centros públicos, para convertirlos en entornos escolares seguros, saludables, verdes y sostenibles.
+  - id: 4
+    quote: Es imprescindible contar con una inversión adecuada para la dotación de profesorado suficiente y de otros profesionales de la educación; 
+    partial: ini
+  - id: 5
+    quote: para el aumento de las becas y ayudas al estudio y el reforzamiento de la acción tutorial y la orientación; 
+  - id: 6
+    quote: para programas de acogida temprana 
+  - id: 7
+    quote: y de educación afectivo-sexual 
+  - id: 8
+    quote: y en planes integrales de refuerzo y apoyo contra el fracaso escolar y el abandono educativo prematuro que compensen los recortes y la financiación insuficiente del último decenio.
+    partial: end

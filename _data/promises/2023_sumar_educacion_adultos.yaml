@@ -1,0 +1,18 @@
+id: e7718d95-8ffe-4f77-940b-2bf458363879
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 155
+ref_parent_chapter: 5.1.I
+ref_section: 7
+categories:
+  - Educación
+title: "Formación a lo largo de la vida"
+statements: 
+  - id: 1
+    quote: Se reforzarán de manera sustantiva la formación y educación de las personas adultas, incluyendo los cambios normativos que sean necesarios para alcanzar este objetivo, de manera que se garantice de manera efectiva la formación y el reciclaje profesional a lo largo de la vida.

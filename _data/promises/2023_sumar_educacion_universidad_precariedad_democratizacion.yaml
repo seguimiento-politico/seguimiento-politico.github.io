@@ -1,0 +1,22 @@
+id: fd81e8de-e686-422a-910a-bd503c2d25cb
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 160
+ref_parent_chapter: 5.2.II
+ref_section: 1
+categories:
+  - Educación
+title: "Universidad: Garantizar el mayor esfuerzo posible en la democratización y ampliación del acceso del estudiantado universitario."
+statements: 
+  - id: 1
+    quote: Debe hacerse hincapié en la minimización de las desigualdades según origen socio-familiar, género, procedencia étnica o nacional, edad, discapacidad u otras diversidades. 
+  - id: 2
+    quote: Aumentar las vías de acceso a los estudios universitarios reglados desde actividades o formaciones previas, o que se dirijan a colectivos de edades más elevadas de las habituales, facilitando la incorporación de quienes no pudieron hacerlo previamente o deseen regresar al sistema. 
+  - id: 3
+    quote: Adaptar la oferta formativa en consecuencia, incorporando aspectos como los horarios flexibles o matrículas a tiempo parcial.

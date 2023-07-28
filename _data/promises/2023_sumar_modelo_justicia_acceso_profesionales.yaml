@@ -1,23 +1,21 @@
 id: f08cc810-7084-43d9-a77a-517023e9f05f
-config:
-  scope: national
-  country: spain
+scope: national
+scope_country: spain
 election_type: generales
 from: "2023-07-23"
 parties:
   - SUMAR
-reference:
-    type: manifesto
-    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-    page: 126
-    parent_chapter: 3.3.1
-    section: 11
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 126
+ref_parent_chapter: 3.3.1
+ref_section: 11
 categories:
   - Justicia
   - Trabajo
   - Educación
   - Derechos y servicios sociales
-title: " Propondremos un nuevo modelo de acceso, formación, especialización y promoción de jueces y fiscales. "
+title: "Propondremos un nuevo modelo de acceso, formación, especialización y promoción de jueces y fiscales. "
 description: El derecho a la tutela judicial efectiva exige garantizar a las personas que no disponen de recursos económicos suficientes el asesoramiento, la representación procesal y la defensa de calidad por mandato de los artículos 119 y 24 de la Constitución
 statements:
   - id: 1

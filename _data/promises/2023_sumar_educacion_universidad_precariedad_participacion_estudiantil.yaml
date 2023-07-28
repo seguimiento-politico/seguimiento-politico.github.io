@@ -1,0 +1,24 @@
+id: bad5b0ca-446e-4948-8835-d16cb9a90146
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 160
+ref_parent_chapter: 5.2.II
+ref_section: 5
+categories:
+  - Educación
+title: "Potenciación de la participación estudiantil en la vida universitaria"
+statements: 
+  - id: 1
+    quote: Se reconocerán los derechos estudiantiles y de los consejos u órganos de este colectivo, y facilitaremos su participación tanto en los órganos de gobierno y en la gestión de la vida universitaria como en las organizaciones estudiantiles, en todas las misiones y en la organización de actividades. 
+  - id: 2
+    quote: Las universidades deben promover, además, su adecuado reconocimiento académico, asegurando su conciliación con las restantes tareas académicas y personales del estudiantado. 
+  - id: 3
+    quote: Deben reforzar el acompañamiento, orientación y formación ofrecidas a todo el estudiantado en relación con el acceso y la salida del sistema universitario, pero también para posibilitar la permanencia en el sistema y su participación en actividades de docencia, investigación, transferencia o cultura, no siempre conocidas. 
+  - id: 4
+    quote: También para fortalecer su vinculación con el conjunto de la sociedad y el mundo del trabajo, o para su internacionalización, incluyendo el aprendizaje de idiomas extranjeros.

@@ -1,0 +1,25 @@
+id: ff8cd012-73d4-459a-a04b-84b3bb53041a
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 150
+ref_parent_chapter: 4.4
+ref_section: 34
+categories:
+  - Migracion
+  - Política internacional
+title: "Un acceso al asilo más sencillo, rápido y democrático."
+statements:
+  - id: 1
+    quote: Estableceremos un procedimiento para atender los casos de asilo que se presenten fuera del territorio nacional para proteger la vida de todas las personas, con independencia de su estatus jurídico.
+  - id: 2
+    quote: Aseguraremos que los consulados y embajadas de España reciban las solicitudes de manera presencial o virtual, garanticen el acceso físico a la representación y habiliten un espacio seguro para atender a las personas solicitantes.
+  - id: 3
+    quote: Facilitaremos el traslado a España de las personas a las que se otorgue protección o a las que se autorice su traslado durante la tramitación del procedimiento.
+  - id: 4
+    quote: Garantizaremos el pleno cumplimiento del principio de no devolución (non-refoulement).

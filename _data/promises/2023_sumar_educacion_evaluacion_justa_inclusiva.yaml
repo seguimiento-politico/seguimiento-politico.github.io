@@ -1,0 +1,22 @@
+id: 1c2ac2b9-1ed3-4e0e-bb37-5a9bff0980a1
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 156
+ref_parent_chapter: 5.1.II
+ref_section: 13
+categories:
+  - Educación
+title: "Evaluación formativa justa, equitativa e inclusiva, planteada como un proceso integral."
+statements: 
+  - id: 1
+    quote: Estará orientada a producir información, contextualizada social y culturalmente, para mejorar la dinámica de los centros, el proceso de enseñanza y aprendizaje, y los procesos de construcción del conocimiento, sin dejar a nadie fuera del sistema educativo. 
+  - id: 2
+    quote: Ello exige evaluar para mejorar la metodología empleada en la construcción del conocimiento. 
+  - id: 3
+    quote: Y hay que evaluar también a las Administraciones educativas y el funcionamiento de los centros, teniendo en cuenta el papel del alumnado en estos procesos de evaluación.

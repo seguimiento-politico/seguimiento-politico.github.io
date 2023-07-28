@@ -1,0 +1,29 @@
+id: 8a90648e-b288-410f-8b47-155e346168cb
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 144
+ref_parent_chapter: 4.2
+ref_section: 17
+categories:
+  - Derechos y servicios sociales
+  - Medioambiente
+  - Ciencia y tecnología
+  - Política internacional
+title: "Los derechos laborales, en el centro de la transición ecológica y digital europea"
+statements:
+  - id: 1
+    quote: Desarrollaremos un sistema de relaciones laborales propiamente europeo que asegure una transición digital y ecológica justa que ensanche la protección de los derechos laborales nacionales.
+  - id: 2
+    quote: Ahondaremos en la condicionalidad social y medioambiental del desembolso de fondos públicos a empresas privadas.
+  - id: 3
+    quote: Profundizaremos en el diálogo social europeo, con más y mejores acuerdos de diálogo social en el seno de la Unión para proteger a las personas trabajadoras en el marco de las transiciones ecológica y digital, promoviendo la introducción de convenios colectivos europeos y de una nueva negociación colectiva verde y reforzando el papel de la Autoridad Laboral Europea para avanzar en la convergencia en materia laboral y de seguridad social.
+  - id: 4
+    quote: Promoveremos la creación de centros de datos paneuropeos, así como la producción de hardware y el diseño y control de herramientas por parte de organismos públicos, para garantizar el carácter democrático de las decisiones adoptadas en materia de desarrollo tecnológico.
+  - id: 5
+    quote: Aseguraremos la concreción normativa de la Declaración Europea sobre los Derechos yPrincipios Digitales para reafirmar la gobernanza democrática y abierta de la red y blindar los derechos laborales asociados a la economía digital.

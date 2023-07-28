@@ -1,7 +1,6 @@
 id: 968b6c5f-7fab-4c6c-9ef8-d1aa757dbf7e
-config:
-  scope: national
-  country: spain
+scope: national
+scope_country: spain
 election_type: generales
 from: "2019-11-10"
 categories:
@@ -11,10 +10,10 @@ categories:
   - Hacienda y fiscalidad
 parties:
   - PSOE
-reference:
-    type: manifesto
-    id: 4540ee8a-066e-4224-9f26-1297932c6560
-    page:
-    section: 1.1
+ref_type: manifesto
+ref_id: 4540ee8a-066e-4224-9f26-1297932c6560
+ref_page:
+ref_parent_chapter:
+ref_section: 1.1
 title: Reforma laboral
 description: |-

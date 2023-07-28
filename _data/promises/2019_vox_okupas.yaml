@@ -1,16 +1,15 @@
 id: d8ce478a-4361-48ce-bb61-701e13a761fb
-config:
-  scope: national
-  country: spain
+scope: national
+scope_country: spain
 election_type: generales
 from: "2019-11-10"
 parties:
   - VOX
-reference:
-    type: manifesto
-    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
-    page: 20
-    section: 86
+ref_type: manifesto
+ref_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+ref_page: 20
+ref_parent_chapter:
+ref_section: 86
 categories:
   - Derechos y servicios sociales
   - Justicia

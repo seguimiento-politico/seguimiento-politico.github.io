@@ -1,0 +1,25 @@
+id: b6beee68-4744-41ee-a7df-54bc6353b006
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 145
+ref_parent_chapter: 4.2
+ref_section: 19
+categories:
+  - Economía
+  - Política internacional
+title: "Llevar la democracia económica a Europa"
+statements:
+  - id: 1
+    quote: Sustituiremos el Mecanismo Europeo de Estabilidad, situado fuera del ámbito del derecho de la Unión Europea, por una agencia europea de la deuda plenamente responsable ante el Parlamento Europeo y con un mandato renovado que haga posible el desarrollo de políticas macroeconómicas activas a escala europea.
+  - id: 2
+    quote: Lucharemos por la reforma del Sistema Europeo de Bancos Centrales para facilitar una mayor participación de las instituciones representativas de la Unión Europea en el diseño e implementación de la política monetaria.
+  - id: 3
+    quote: Fomentaremos la ampliación de los objetivos del Banco Central Europeo, incorporando a su mandato consideraciones relativas a la cohesión social, la sostenibilidad climática y la búsqueda del pleno empleo. También mejoraremos los mecanismos de rendición de cuentas.
+  - id: 4
+    quote: Procuraremos la ampliación de la capacidad del Parlamento Europeo para definir y fiscalizar la política macroeconómica y monetaria de la eurozona, reformando su estructura para asegurar una verdadera capacidad legislativa y de control político sobre la agenda de la zona euro.

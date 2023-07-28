@@ -1,0 +1,22 @@
+id: 716fb8cc-e79b-4244-84c5-89a90579d593
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 131
+ref_parent_chapter: 3.3.2
+ref_section: 8
+categories:
+  - Seguridad y defensa
+  - Democracia
+title: "Estableceremos modelos de gestión policial de las movilizaciones sociales y la desobediencia civil más tolerantes, menos agresivos y más respetuosos con los derechos a la libertad de expresión, reunión y asociación"
+description: No podemos decir que la seguridad ciudadana es la garantía de los derechos fundamentales si la usamos como excusa para restringirlos excesivamente.
+statements:
+  - id: 1
+    quote: El modelo de gestión mediada —avalado por el Alto Comisionado de Derechos Humanos de Naciones Unidas, el Parlamento Catalán y la Audiencia Nacional— constituye una buena práctica que debería convertirse en referente.
+  - id: 2
+    quote: También reformaremos, y derogaremos, aquellos aspectos de la normativa vigente que limita los derechos de reunión y libertad de expresión (la «ley mordaza» y el Código Penal) en un momento en el que las movilizaciones sociales son importantes para, por ejemplo, concienciarnos de la emergencia climática.

@@ -1,0 +1,27 @@
+id: a7ff9b0e-ec1c-452e-937b-e6560415dd2d
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 133
+ref_parent_chapter: 3.3.2
+ref_section: 13
+categories:
+  - Seguridad y defensa
+  - Sanidad
+  - Justicia
+title: "Acabaremos con las deficiencias del sistema penitenciario para satisfacer el principio de equivalencia de la sanidad penitenciaria."
+description: Proponemos un sistema por el cual las víctimas estén más protegidas y se cometan menos delitos, pero con un menor coste en privación de libertad de las personas, acercando las tasas de encarcelamiento españolas a las de países como Finlandia, Países Bajos o Noruega.
+statements:
+  - id: 1
+    quote: Proponemos hacer efectivo lo previsto en la Ley de Cohesión y Calidad del Sistema Nacional de Salud de 2003 mediante la integración de la sanidad penitenciaria en los sistemas de salud autonómicos con plena identidad de prestaciones.
+  - id: 2
+    quote: Se prestará especial atención a la salud mental y a la discapacidad, promoviendo como medida normal el no ingreso en prisión de las personas con enfermedad mental o discapacidad intelectual.
+  - id: 3
+    quote: Estableceremos un plan para que las personas con trastornos mentales graves no entren en el sistema penitenciario, sino que sean atendidas por el sistema sociosanitario y comunitario, abandonando el modelo de hospital psiquiátrico penitenciario.
+  - id: 4
+    quote: No se puede permitir que el desistimiento de las Administraciones públicas dé lugar a una privatización de la sanidad penitenciaria que conduzca a una atención médica de peor calidad y más cara para el contribuyente.

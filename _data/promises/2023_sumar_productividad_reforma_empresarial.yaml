@@ -1,14 +1,13 @@
 id: 7edfaa52-05b7-473a-9deb-b99519a4db16
-config:
-  scope: national
-  country: spain
+scope: national
+scope_country: spain
 election_type: generales
 from: "2023-07-23"
-reference:
-    type: manifesto
-    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-    page: 14
-    section: 1.1.1, VI
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 14
+ref_parent_chapter:
+ref_section: 1.1.1, VI
 parties:
   - SUMAR
 categories:

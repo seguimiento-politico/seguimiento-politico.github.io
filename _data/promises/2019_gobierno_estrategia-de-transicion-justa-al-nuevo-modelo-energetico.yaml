@@ -1,7 +1,6 @@
 id: eb9eeb50-0914-11ed-9596-d163a910696f
-config:
-  scope: national
-  country: spain
+scope: national
+scope_country: spain
 election_type: generales
 from: "2019-11-10"
 title: Estrategia de transición justa al nuevo modelo energético
@@ -18,9 +17,9 @@ categories:
 parties:
   - PSOE
   - UNIDAS-PODEMOS
-reference:
-    type: goverment_agreement
-    id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
-    page:
-    section: 
+ref_type: goverment_agreement
+ref_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+ref_page:
+ref_parent_chapter:
+ref_section: 
     

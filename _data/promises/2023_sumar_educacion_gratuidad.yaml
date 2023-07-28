@@ -1,0 +1,24 @@
+id: 5180defd-80d8-4de0-a834-93cae16a1ff8
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 157
+ref_parent_chapter: 5.1.IV
+ref_section: 17
+categories:
+  - Educación
+title: "Gratuidad de todas las etapas educativas en los centros públicos, obligatorias y no obligatorias."
+statements: 
+  - id: 1
+    quote: Gratuidad, especialmente, como se ha señalado, en la Educación Infantil de cero a tres años, 
+    partial: ini
+  - id: 2
+    quote: en Formación Profesional 
+  - id: 3
+    quote: y también en los ecocomedores escolares de gestión directa en los centros públicos durante toda la etapa obligatoria.
+    partial: end

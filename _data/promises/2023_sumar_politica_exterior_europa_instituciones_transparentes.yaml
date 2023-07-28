@@ -1,0 +1,27 @@
+id: 129f53e2-7e9d-4ebe-a8d8-b6c5b3c036ec
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 146
+ref_parent_chapter: 4.2
+ref_section: 23
+categories:
+  - Democracia
+  - Política internacional
+title: "Unas instituciones europeas transparentes al servicio de la ciudadanía"
+statements:
+  - id: 1
+    quote: Lucharemos por mejorar la calidad democrática de las agencias europeas con medidas específicas de incremento de la transparencia y rendición de cuentas.
+  - id: 2
+    quote: Impulsaremos la creación de un plan europeo contra la corrupción y el fortalecimiento de la Oficina Europea de Lucha contra el Fraude para que casos como el Qatargate no vuelvan a suceder.
+  - id: 3
+    quote: Promoveremos la regulación de los grupos de interés, limitando su influencia y estableciendo la difusión pública obligatoria de sus actividades.
+  - id: 4
+    quote: Reforzaremos los procedimientos mediante los que la Unión Europea contribuye a frenar los procesos de involución democrática en los Estados miembros.
+  - id: 5
+    quote: Apoyaremos aquellas medidas que incrementen la efectividad del derecho a acceder a la información pública en manos de las instituciones y agencias de la Unión Europea, como la ampliación de los tipos de documentos a los que se puede solicitar acceso y la creación de un registro público.

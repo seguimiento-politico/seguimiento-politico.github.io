@@ -1,16 +1,15 @@
 id: 4d6a2f91-f634-4396-a0d6-b2f2688c3c65
-config:
-  scope: national
-  country: spain
+scope: national
+scope_country: spain
 election_type: generales
 from: "2023-07-23"
 parties:
   - SUMAR
-reference:
-    type: manifesto
-    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-    page: 15
-    section: 1.1.1, VII
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 15
+ref_parent_chapter:
+ref_section: 1.1.1, VII
 categories:
   - Derechos y servicios sociales
 title: Más igualdad y mejor protección social

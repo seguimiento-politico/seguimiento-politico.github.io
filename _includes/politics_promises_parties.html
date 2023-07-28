@@ -58,9 +58,6 @@
                     <tbody class="list">
                     <!-- add color to each policy -->
                     {% for item in items %}
-                        
-                        {% assign scope_data = item.config %}
-
                         {% assign item_analysis = site.data.promises_analysis | where: "promise_id", item.id %}  
                         {% if item_analysis[0].status %}
                             {% assign status = statuses_data | where: "name", item_analysis[0].status | first %}
@@ -71,6 +68,7 @@
                         
                         <tr class="list-group-item-{{ status.color }}">
                             <td>
+                                {% assign scope_data = item %}
                                 {% include items_logo.html type='parties' %}
                             </td>
                             <td class="list-year">

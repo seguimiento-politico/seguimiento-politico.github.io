@@ -1,0 +1,25 @@
+id: 1b12841a-507d-41e2-9153-a003f36538b7
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 132
+ref_parent_chapter: 3.3.2
+ref_section: 12
+categories:
+  - Seguridad y defensa
+  - Justicia
+  - Ciencia y tecnología
+  - Agencias y órganos públicos
+title: "Medidas para promocionar la I+D y el conocimiento público en materia de seguridad y convivencia."
+statements:
+  - id: 1
+    quote: Adoptaremos el modelo sueco de una agencia nacional de prevención que sirva para desarrollar el conocimiento sobre el sistema de justicia penal y prevención del delito, adoptando un papel central en auditar, potenciar la transparencia y mejorar la calidad de las estadísticas sobre la criminalidad y el funcionamiento del sistema penal, así como su reutilización a efectos de la investigación científica.
+  - id: 2
+    quote: La agencia elaborará indicadores públicos y transparentes de rendimiento de los cuerpos policiales y sus subdivisiones para auditar su funcionamiento.
+  - id: 3
+    quote: Desarrollaremos una encuesta nacional de seguridad, al menos con carácter bianual, que se inspire en la experiencia de otros países o del área metropolitana de Barcelona y que ofrezca un retrato más fiable de las tendencias en inseguridad, dado que las estadísticas policiales solo recogen delitos denunciados.

@@ -1,16 +1,15 @@
 id: 24e69fd2-ef8f-4664-b4da-fd8d0cbf357e
-config:
-  scope: national
-  country: spain
+scope: national
+scope_country: spain
 election_type: generales
 from: "2023-07-23"
 parties:
   - SUMAR
-reference:
-    type: manifesto
-    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-    page: 117
-    section: 2.1, 2
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 117
+ref_parent_chapter:
+ref_section: 2.1, 2
 categories:
   - Democracia
 title: "Democratización de las políticas públicas: incorporación de la inteligencia colectiva."

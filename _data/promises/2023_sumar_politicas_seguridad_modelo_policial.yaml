@@ -1,0 +1,26 @@
+id: 79419034-cd7b-427b-9b23-cba8ee225488
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 130
+ref_parent_chapter: 3.3.2
+ref_section: 3
+categories:
+  - Seguridad y defensa
+  - Territorio
+  - Organización estatal y administraciones públicas
+title: "Propondremos una comisión parlamentaria para reabrir el debate sobre el modelo policial español"
+statements:
+  - id: 1
+    quote: Es preciso impulsar un nuevo modelo policial que delimite adecuadamente sus funciones sobre el principio de subsidiariedad frente a otros actores sociales e institucionales, que sirva para profundizar en su profesionalidad y su modernización y que acentúe su carácter de institución al servicio de la ciudadanía.
+  - id: 2
+    quote: El nuevo modelo ha de apostar por estructuras menos burocráticas, más horizontales y flexibles, con mayor capacidad para la colaboración con otras administraciones, más abierto a la participación ciudadana y con una mejor capacidad de planificación, gestión de la información y adaptación al cambio tecnológico. 
+  - id: 3
+    quote: Este modelo tendrá que reconocer las particulares necesidades y retos del ámbito rural y de la España vaciada
+  - id: 4
+    quote: Esta comisión propondrá las líneas maestras para la reforma de la Ley de Fuerzas y Cuerpos de Seguridad del Estado (FCSE) de 1986, a fin de diseñar un nuevo mapa de funciones actualizado a los retos de seguridad actuales, así como nuevos mecanismos de coordinación y colaboración entre el nivel municipal, el autonómico y el central.

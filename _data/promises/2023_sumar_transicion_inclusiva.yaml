@@ -1,14 +1,12 @@
 id: 0dd83302-5e35-4d2c-8dc6-d5af84e1775f
-config:
-  scope: national
-  country: spain
+scope: national
+scope_country: spain
 election_type: generales
 from: "2023-07-23"
 parties:
   - SUMAR
-reference:
-    type: manifesto
-    id: afa27807-23cd-4d97-98a6-7e1a5d15f2e3
+ref_type: manifesto
+ref_id: afa27807-23cd-4d97-98a6-7e1a5d15f2e3
 categories:
   - Economía
   - Trabajo

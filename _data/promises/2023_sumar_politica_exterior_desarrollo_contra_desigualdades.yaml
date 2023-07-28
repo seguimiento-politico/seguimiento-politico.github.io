@@ -1,0 +1,25 @@
+id: 7c1fcd8d-e4d6-4914-94f9-2ea20129256d
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 147
+ref_parent_chapter: 4.3
+ref_section: 25
+categories:
+  - Derechos y servicios sociales
+  - Democracia
+  - Política internacional
+  - Cooperación internacional
+title: "Una cooperación al servicio de la planificación ecológica a escala global."
+statements:
+  - id: 1
+    quote: Apoyaremos, en los países del Sur Global, la consolidación de instituciones democráticas, sistemas fiscales capaces y progresivos, y políticas públicas orientadas a mejorar las condiciones de vida de la ciudadanía y a garantizar un reparto más justo de las tareas de reproducción y del cuidado de la vida, tradicionalmente delegadas a las mujeres.
+  - id: 2
+    quote: Daremos respaldo a la configuración, en otros países, de sistemas de protección social universales, solidarios y redistributivos, que incluyan garantías mínimas de ingresos, protecciones a las personas trabajadoras, contra el desempleo y otras políticas sociales que garanticen el derecho a una vida digna de forma integral.
+  - id: 3
+    quote: Impulsaremos la creación y suministro equitativo de servicios públicos de calidad, incluyendo sistemas de educación y salud públicos; la defensa integral de los derechos de la infancia. Además del acceso a la vivienda, a una alimentación adecuada y al agua como bienes públicos y derechos justiciables.

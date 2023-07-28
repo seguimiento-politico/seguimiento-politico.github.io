@@ -1,16 +1,15 @@
 id: 609ff093-3fee-47ec-b36b-574150de3b3d
-config:
-  scope: national
-  country: spain
+scope: national
+scope_country: spain
 election_type: generales
 from: "2023-07-23"
 parties:
   - SUMAR
-reference:
-    type: manifesto
-    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-    page: 17
-    section: IX
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 17
+ref_parent_chapter:
+ref_section: IX
 categories:
   - Organización estatal y administraciones públicas
 title: Una administración pública mejor dotada para el servicio a la ciudadanía

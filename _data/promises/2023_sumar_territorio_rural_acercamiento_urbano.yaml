@@ -1,16 +1,15 @@
 id: 6b3a9a07-372f-462d-a2a9-82d2c7af7b1c
-config:
-  scope: national
-  country: spain
+scope: national
+scope_country: spain
 election_type: generales
 from: "2023-07-23"
 parties:
   - SUMAR
-reference:
-    type: manifesto
-    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-    page: 58
-    section: 4
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 58
+ref_parent_chapter:
+ref_section: 4
 categories:
   - Agricultura
   - Ganadería

@@ -1,16 +1,15 @@
 id: a8578fa9-b83f-498e-86fd-ec4469c3941c
-config:
-  scope: national
-  country: spain
+scope: national
+scope_country: spain
 election_type: generales
 from: "2019-11-10"
 parties:
   - VOX
-reference:
-    type: manifesto
-    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
-    page: 2
-    section: 2
+ref_type: manifesto
+ref_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+ref_page: 2
+ref_parent_chapter:
+ref_section: 2
 categories:
   - Democracia
 title: "Ilegalización organizaciones"

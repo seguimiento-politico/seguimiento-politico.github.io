@@ -1,16 +1,15 @@
 id: 55fca26e-cab6-4625-a416-a8079397623b
-config:
-  scope: national
-  country: spain
+scope: national
+scope_country: spain
 election_type: generales
 from: "2023-07-23"
 parties:
   - SUMAR
-reference:
-    type: manifesto
-    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-    page: 75
-    section: 5.2, 1-6
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 75
+ref_parent_chapter:
+ref_section: 5.2, 1-6
 categories:
   - Vivienda y urbanismo
   - Hacienda y fiscalidad

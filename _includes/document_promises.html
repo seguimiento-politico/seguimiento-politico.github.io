@@ -1,0 +1,5 @@
+{% assign promises = site.data.promises | where: "ref_id", doc.id %}
+
+<div>
+    {{ promises }}
+</div>

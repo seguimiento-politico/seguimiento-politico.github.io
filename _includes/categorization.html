@@ -1,7 +1,7 @@
-{% if track_data.config.scope == 'national' %}
+{% if track_data.scope == 'national' %}
     {% assign categories_data = site.data.categorization.[track_data.config.categorization].categories | sort: 'name' %}
     {% assign statuses_data = site.data.categorization.[track_data.config.categorization].statuses %}
-{% elsif track_data.config.scope == 'international' %}
+{% elsif track_data.scope == 'international' %}
     {% assign categories_data = site.data.categorization.[track_data.config.organization].[track_data.config.categorization].categories | sort: 'name' %}
     {% assign statuses_data = site.data.categorization.[track_data.config.organization].[track_data.config.categorization].statuses %}
 {% endif %}

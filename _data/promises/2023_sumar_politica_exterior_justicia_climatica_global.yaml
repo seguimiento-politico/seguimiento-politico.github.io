@@ -1,0 +1,28 @@
+id: b278b504-0d31-4caf-a857-af0b52e8151d
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 138
+ref_parent_chapter: 4.1
+ref_section: 1
+categories:
+  - Política exterior
+  - Cambio climático
+  - Cooperación internacional
+title: "Una política exterior comprometida con la justicia climática global"
+statements:
+  - id: 1
+    quote: Promoveremos la conformación de una Internacional Climática que impulse la descarbonización de la economía, la provisión de energías renovables, la justicia climática global y el cumplimiento de los compromisos del Acuerdo de París y del Pacto Verde Europeo.
+  - id: 2
+    quote: Apoyaremos la Agenda de Bridgetown y promoveremos la creación de un fondo mundial para la mitigación del cambio climático alimentado con los derechos especiales de giro del fondo monetario internacional y la financiación en condiciones favorables a los países más vulnerables frente los efectos de la emergencia climática causada por los bancos multilaterales de desarrollo.
+  - id: 3
+    quote: Impulsaremos la creación de una fuerza civil de control ecológico en el seno de Naciones Unidas y de un tribunal internacional de justicia climática para facilitar la lucha global contra el ecocidio, que debe ser reconocido como delito en el ámbito de la Corte Penal Internacional.
+  - id: 4
+    quote: Apoyaremos la adopción de un Tratado de No Proliferación de Combustibles Fósiles, con los objetivos de detener la explotación de nuevos campos gaspetroleros y de proyectar un cronograma ambicioso y factible para el abandono de los combustibles fósiles.
+  - id: 5
+    quote: Volveremos a promover la creación de la Organización Mundial del Medio Ambiente y reforzaremos el Programa de las Naciones Unidas para el Medio Ambiente.

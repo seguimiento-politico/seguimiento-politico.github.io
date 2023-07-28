@@ -1,16 +1,15 @@
 id: 233a86ec-8fca-4b6e-bca6-5b8d9f897323
-config:
-  scope: national
-  country: spain
+scope: national
+scope_country: spain
 election_type: generales
 from: "2019-11-10"
 parties:
   - VOX
-reference:
-    type: manifesto
-    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
-    page: 14
-    section: 56-57
+ref_type: manifesto
+ref_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+ref_page: 14
+ref_parent_chapter:
+ref_section: 56-57
 categories:
   - Sanidad
 title: Modificación de cartera de servicios sanitarios 

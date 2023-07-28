@@ -1,0 +1,28 @@
+id: edb5fd0f-9362-42a7-873f-3327e26d0283
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 148
+ref_parent_chapter: 4.3
+ref_section: 29
+categories:
+  - Cooperación internacional
+  - Agencias y órganos públicos
+  - Política internacional
+title: "Una nueva arquitectura de cooperación a la altura del reto."
+statements:
+  - id: 1
+    quote: Fortaleceremos el centro político y estratégico del sistema de cooperación en el seno del Gobierno, ubicándolo en una Vicepresidencia, bien dotada técnicamente y con capacidad de coordinación con los Ministerios implicados.
+  - id: 2
+    quote: Reformaremos en profundidad la Agencia Española de Cooperación Internacional al Desarrollo (AECID), convirtiéndola en una institución abierta a la sociedad, bien asentada en los países en los que opera, eficaz en la promoción de iniciativas y alianzas y con capacidad para atraer talento.
+  - id: 3
+    quote: Defenderemos de forma urgente el despliegue de la Ley 1/2023 sobre Cooperación para el Desarrollo y por la Solidaridad Global, culminando todas las reformas reglamentarias comprometidas en dicha Ley.
+  - id: 4
+    quote: Promoveremos la creación de un banco público de desarrollo sostenible que promueva la gestión del conocimiento y el diálogo con la sociedad española y los países socios.
+  - id: 5
+    quote: mpulsaremos un modelo de cooperación descentralizada, con mayor protagonismo de las comunidades autónomas y las entidades locales

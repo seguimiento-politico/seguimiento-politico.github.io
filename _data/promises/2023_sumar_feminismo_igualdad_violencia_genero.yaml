@@ -1,16 +1,15 @@
 id: 79e46564-8c3d-4af8-8f68-d9ffdce88568
-config:
-  scope: national
-  country: spain
+scope: national
+scope_country: spain
 election_type: generales
 from: "2023-07-23"
 parties:
   - SUMAR
-reference:
-    type: manifesto
-    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-    page: 110
-    section: 8.1 - 9
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 110
+ref_parent_chapter:
+ref_section: 8.1 - 9
 categories:
   - Derechos y servicios sociales
   - Seguridad y defensa

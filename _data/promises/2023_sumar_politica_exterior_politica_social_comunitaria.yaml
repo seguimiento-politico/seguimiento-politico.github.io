@@ -1,0 +1,21 @@
+id: 00b05044-a434-4024-9f33-c090d0ddccf8
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 143
+ref_parent_chapter: 4.2
+ref_section: 15
+categories:
+  - Derechos y servicios sociales
+  - Política internacional
+title: "Una Europa con una política social a escala continental"
+statements:
+  - id: 1
+    quote: Garantizaremos que la ciudadanía europea tenga acceso a protección social en las mismas condiciones, con independencia de su lugar de residencia, armonizando las normas que regulan el acceso a las prestaciones por parte de la ciudadanía de otros Estados, mejorando la coordinación entre las autoridades nacionales para garantizar los derechos, perfeccionando los mecanismos de compensación financiera y ampliando el limitado margen competencial de la UE en materia sociolaboral.
+  - id: 2
+    quote: Promoveremos medidas de apoyo a las medidas sociales de los Estados miembros, como la coordinación de las políticas tributarias, y avanzaremos hacia la creación de un seguro de desempleo europeo.

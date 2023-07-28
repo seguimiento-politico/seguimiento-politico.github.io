@@ -1,7 +1,6 @@
 id: 37d8b8c1-6963-4111-af2a-4fa647650be6
-config:
-  scope: national
-  country: spain
+scope: national
+scope_country: spain
 election_type: generales
 from: "2023-07-23"
 parties:
@@ -9,8 +8,9 @@ parties:
 reference:
   type: manifesto
   id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-  page: 54
-  section: 2 y 4-7
+  ref_page: 54
+  ref_parent_chapter:
+ref_section: 2 y 4-7
 categories:
   - Medioambiente y biodiversidad
   - Economía

@@ -1,7 +1,6 @@
 id: 818b128d-b25a-4be3-9178-bb23a10841c2
-config:
-  scope: national
-  country: spain
+scope: national
+scope_country: spain
 election_type: generales
 from: "2023-07-23"
 categories:
@@ -13,11 +12,11 @@ categories:
   - Turismo
 parties:
   - SUMAR
-reference:
-    type: manifesto
-    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-    page: 8 
-    section: 1.1.1, II
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 8 
+ref_parent_chapter:
+ref_section: 1.1.1, II
 title: Defender el poder adquisitivo frente a los efectos de la inflación
 statements:
   -

@@ -1,0 +1,24 @@
+id: d3fe492e-4670-4ee2-8e75-672e0f30be5f
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 130
+ref_parent_chapter: 3.3.2
+ref_section: 2
+categories:
+  - Seguridad y defensa
+title: "Articularemos una red estatal de resolución comunitaria de conflictos leves, fortaleciendo el sentido de responsabilidad compartida y de pertenencia a la comunidad cívica."
+statements:
+  - id: 1
+    quote: Se articulará una red estatal de resolución comunitaria de conflictos leves no judicializados promoviendo la cohesión social y generando condiciones colectivas de escucha, entendimiento, confianza, respeto y cuidado. 
+  - id: 2
+    quote: Se fomentarán redes de mediación en barrios y pueblos, así como espacios comunitarios de reflexión y participación cívica desde una perspectiva de educación para la igualdad, la diversidad, la paz, la no violencia y la no polarización. 
+  - id: 3
+    quote: Es necesario invertir en estructuras administrativas, de la sociedad civil, y figuras diferentes de las fuerzas y cuerpos de seguridad del Estado, como profesionales del trabajo social, la mediación, o la salud mental, a quienes se dote de estabilidad, salarios dignos, y medios para prevenir, gestionar, intervenir y resolver de forma mediada problemas de convivencia y conflicto social, o de naturaleza sanitaria en espacios públicos, en las escuelas o los barrios. 
+  - id: 4
+    quote: Igualmente, tendremos que formar y reorganizar a la policía para que pueda apoyar la labor de estos profesionales

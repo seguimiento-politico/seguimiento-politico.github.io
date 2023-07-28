@@ -1,17 +1,15 @@
 id: a766f3d9-7ddc-4a82-8adc-1b071c121879
-config:
-  scope: national
-  country: spain
+scope: national
+scope_country: spain
 election_type: generales
 from: "2023-07-23"
 parties:
   - SUMAR
-reference:
-    type: manifesto
-    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-    page: 124
-    parent_chapter: 3.3.1
-    section: 3
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 124
+ref_parent_chapter: 3.3.1
+ref_section: 3
 categories:
   - Justicia
   - Agencias y órganos públicos

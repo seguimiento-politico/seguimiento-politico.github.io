@@ -1,0 +1,22 @@
+id: bdfdc10f-272d-4c3d-9196-eeb1f78f3e27
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 134
+ref_parent_chapter: 3.3.3
+ref_section: 4
+categories:
+  - Democracia
+title: "Respaldo del reconocimiento y reparación de la represión sufrida por las personas LGTBI+ durante el franquismo y reivindicar, social e institucionalmente, el papel cumplido por el movimiento LGTBI+ en la lucha por las libertades y la democracia."
+statements:
+  - id: 1
+    quote: Las políticas de la memoria han de incluir el reconocimiento del papel cumplido por el movimiento LGTBI+ en la transición
+  - id: 2
+    quote: Se dignificarán institucionalmente aquellos lugares o hitos relevantes en esa lucha.
+  - id: 3
+    quote: Se creará una comisión, con participación académica y de las entidades memorialistas y LGTBI+, que elabore un informe en el que se recoja el estado de la cuestión, señale las insuficiencias de lo realizado hasta ahora y plantee propuestas para políticas de verdad, justicia y reparación.

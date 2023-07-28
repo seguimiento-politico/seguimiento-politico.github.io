@@ -1,0 +1,24 @@
+id: 6e194a32-5196-47b8-8b43-577a0e2ffd1b
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 130
+ref_parent_chapter: 3.3.2
+ref_section: 5
+categories:
+  - Seguridad y defensa
+  - Territorio
+  - Organización estatal y administraciones públicas
+title: "Impulso de medidas para mejorar la formación, selección y promoción de los miembros de las FCSE en negociación con los representantes de estos colectivos"
+statements:
+  - id: 1
+    quote: Es necesaria una nueva visión de la profesión policial en consonancia con un nuevo modelo de seguridad, basada en nuevas habilidades y funciones y una mayor apertura a la sociedad, asegurando que la selección, formación y promoción interna garanticen la diversidad e igualdad de oportunidades para mujeres y colectivos infrarrepresentados en los cuerpos de seguridad. 
+  - id: 2
+    quote: La legitimidad policial deriva del respeto y la confianza ciudadana, frente a soluciones propias de otro tipo de regímenes que ponen el acento en el principio de autoridad, proponemos un modelo policial construido sobre la cercanía y el respeto a la ciudadanía.
+  - id: 3
+    quote: Las FCSE deberían, por una parte, ser capaces de atraer y retener a profesionales con alta cualificación de otros sectores (ciencia de datos, investigación financiera) para desarrollar funciones que no requieran ser agente de autoridad y, por otra, delegar muchas de las tareas administrativas a personal que no sean policías, como ocurre en el resto de Europa.

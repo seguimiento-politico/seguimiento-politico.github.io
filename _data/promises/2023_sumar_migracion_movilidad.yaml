@@ -1,0 +1,25 @@
+id: 7b4b266a-181e-4220-b177-bdb135324c5b
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 149
+ref_parent_chapter: 4.4
+ref_section: 31
+categories:
+  - Migracion
+  - Política internacional
+title: "Abandono del paradigma securitario y de las devoluciones sumarias"
+statements:
+  - id: 1
+    quote: Apostaremos por una política integral de movilidad humana que promueva una movilidad con derechos, mediante el establecimiento de espacios de diálogo y colaboración entre países de origen, tránsito y destino, añadiendo a la agenda cuestiones que vayan más allá del control fronterizo o de la seguridad.
+  - id: 2
+    quote: Aplicaremos la Ley de Transparencia en todos los acuerdos migratorios con terceros países para avanzar hacia un modelo de gestión migratoria innovador y positivo, poniendo fin a los acuerdos bilaterales de externalización de fronteras con países que no garantizan el cumplimiento de los derechos humanos.
+  - id: 3
+    quote: Fortaleceremos y garantizaremos los instrumentos para la acogida y defensa de las personas en necesidad de protección internacional, así como las vías de acceso al asilo.
+  - id: 4
+    quote: Tipificaremos el delito de devolución sumaria en frontera y eliminaremos la disposición adicional de la Ley de Extranjería que legitima esta práctica, financiando y promoviendo mecanismos de monitoreo independiente de los derechos humanos en la Frontera Sur para que masacres como la de Melilla en junio de 2022 no vuelvan a suceder nunca más y se depuren todas las responsabilidades.

@@ -1,16 +1,15 @@
 id: 01e67731-8410-4e54-a20c-6d748fa1ed6c
-config:
-  scope: national
-  country: spain
+scope: national
+scope_country: spain
 election_type: generales
 from: "2019-11-10"
 parties:
   - VOX
-reference:
-    type: manifesto
-    id: d6790646-5ed5-43ef-88a0-1683dbbe464b
-    page: 23
-    section: 97
+ref_type: manifesto
+ref_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+ref_page: 23
+ref_parent_chapter:
+ref_section: 97
 categories:
   - Política internacional
 title: Soberania nacional del estado frente a Europa y CC.AA.

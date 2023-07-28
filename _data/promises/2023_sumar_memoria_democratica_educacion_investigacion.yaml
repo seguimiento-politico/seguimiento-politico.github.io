@@ -1,0 +1,19 @@
+id: a86cbc6b-b38c-4432-b4a0-026d49d404d2
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 135
+ref_parent_chapter: 3.3.3
+ref_section: 5
+categories:
+  - Democracia
+  - Educación
+title: "Impulsaremos la formación en materia de memoria democrática, en todos los niveles del sistema educativo, y promoveremos la divulgación, la investigación y la formación sobre la represión, la dictadura franquista y la memoria democrática."
+statements:
+  - id: 1
+    quote: Se procederá a la actualización de los contenidos curriculares en las distintas etapas educativas y se impulsará la incorporación en los libros de texto y materiales curriculares del estudio de la represión y las luchas por la democracia en España con el objetivo de garantizar el conocimiento ciudadano crítico sobre lo sucedido, así como el derecho a la verdad, con especial atención a la etapa escolar.

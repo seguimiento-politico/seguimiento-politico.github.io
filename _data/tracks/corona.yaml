@@ -4,11 +4,11 @@ config:
     subtype: initiatives
     agents: parties
     categorization: promesas-electorales-estado
-    scope: national # internationa, national, regional or local
-    country: spain # if scope is "international" then instead of "country:" use "organization:"
-    institution: corona
     lang: es
     group_by: legislature   
+scope: national # internationa, national, regional or local
+scope_country: spain # if scope is "international" then instead of "country:" use "organization:"
+scope_institution: corona
 context:
     name: "La Corona: Felipe VI"
     description: Seguimiento de la Casa Real española y sus miembros en tiempos del Rey Felipe VI.

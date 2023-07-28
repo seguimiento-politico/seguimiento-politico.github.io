@@ -1,0 +1,22 @@
+id: 4728d998-e055-479b-839f-2f906ddbbbbd
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 135
+ref_parent_chapter: 3.3.3
+ref_section: 8
+categories:
+  - Democracia
+  - Justicia
+title: "Impulsaremos una ley de «bebés robados» que garantice verdad, justicia y reparación para todas las víctimas y familias."
+description: La sustracción de bebés fue una práctica que comenzó en la posguerra española y se alargó hasta los primeros años de la democracia. Se calcula que solo entre los años 1944 y 1954 fueron apartados de sus madres un total de 30.960 niños y niñas. La práctica se realizó, fundamentalmente, contra las mujeres republicanas, anarquistas y antifranquistas presas en las cárceles, a las que se privaba de sus hijos para integrarlos en familias que el franquismo consideraba de «comportamiento irreprochable».
+statements:
+  - id: 1
+    quote: Impulsaremos una ley que garantice la búsqueda e identificación de niños y niñas y el reconocimiento público del impacto que este tipo de violencia ha tenido específicamente en las mujeres durante décadas.
+  - id: 2
+    quote:  La ley debe tener un enfoque global que facilite los procesos de búsqueda y proporcione acompañamiento a las víctimas en todas las fases de dichos procesos, velando por que el plazo de prescripción se cuente a partir del momento en que se restituye la identidad de las víctimas, permitiendo el acceso a los archivos, documentos públicos y privados y garantizando que todas las víctimas reciban reparación integral.

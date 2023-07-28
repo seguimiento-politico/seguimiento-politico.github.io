@@ -1,0 +1,25 @@
+id: 5c542221-806c-46f4-9286-6b3a8d86d3e2
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 129
+ref_parent_chapter: 3.3.1
+ref_section: 19
+categories:
+  - Justicia
+  - Seguridad y defensa
+title: "Supresión de la justicia militar e integración en la jurisdicción ordinaria"
+statements:
+  - id: 1
+    quote: Proponemos la supresión de la Justicia Militar. Todas las cuestiones de las que conocen los tribunales militares son susceptibles de ser conocidas por las jurisdicciones ordinarias, en especial por los órdenes penales y por el contencioso administrativo.
+  - id: 2
+    quote: De igual modo, y en coherencia con lo anterior, proponemos la derogación del código penal militar, sin perjuicio de integrar en el código penal ordinario aquellos tipos penales específicos al ejercicio de las armas.
+  - id: 3
+    quote: Asimismo, las normas procesales aplicables serán las de las leyes procesales que correspondan conforme a las cuestiones que se hayan de dilucidar, sin perjuicio de las adaptaciones que fuesen precisas debidas a la singular naturaleza del ejercicio de las armas.
+  - id: 4
+    quote: En cuanto a la situación de los profesionales que sirven el cargo en la jurisdicción militar como jurídicos militares, se les dará la opción de integrarse, además de en los cuerpos o armas militares, si así se decidiera y fuese procedente, a su elección, en las carreras judicial, fiscal o en el cuerpo de abogados del Estado, según las vacantes existentes en cada uno de estos cuerpos, sin merma de los derechos adquiridos como el de la antigüedad o los demás que les pudieran corresponder.

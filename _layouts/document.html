@@ -1,0 +1,11 @@
+---
+layout: page
+---
+
+{% assign doc = site.data.documents.[page.doc_name] | sort: 'ref_section' %}
+
+{% if doc.index %}
+    {% include document_sidebar.html %}
+{% endif %}
+
+{% include document_promises.html %}

@@ -1,0 +1,24 @@
+id: 72ee0798-902c-4dd5-999e-09d15be54e5a
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 139
+ref_parent_chapter: 4.1
+ref_section: 5
+categories:
+  - Política exterior
+  - Derechos y servicios sociales
+  - Justicia
+title: "Los derechos humanos, pilar de nuestra acción exterior"
+statements:
+  - id: 1
+    quote: Adoptaremos un plan nacional de derechos humanos y acción exterior con un enfoque feminista e interseccional, un programa integral de protección de las personas defensoras de los derechos humanos y una ley nacional de debida diligencia en la cadena de suministro para reorientar nuestra política exterior, en todas las dimensiones y con todos los instrumentos, con el objetivo de respetar, proteger y hacer efectivos los derechos humanos, de forma real y vinculante.
+  - id: 2
+    quote: Recuperaremos la jurisdicción universal para perseguir la vulneración de derechos humanos en todo el mundo y la ratificación de convenios internacionales, como la Convención sobre la Imprescriptibilidad de los Crímenes de Guerra y de los Crímenes de Lesa Humanidad.
+  - id: 3
+    quote: Impulsaremos una Carta Global de Derechos Laborales, con objeto de blindar los derechos de las personas trabajadoras a nivel internacional, especialmente las más vulnerables, y promoveremos la integración de los principios fundamentales de la Organización Internacional del Trabajo en los acuerdos comerciales globales.

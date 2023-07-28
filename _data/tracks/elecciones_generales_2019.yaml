@@ -1,11 +1,11 @@
 config:
     type: politics-promises-by-party
     categorization: promesas-politica-estatal
-    scope: national # international, national, regional or local
-    country: spain # if scope is "international" then instead of "country:" use "organization:"
-    institution: 2019-elecciones-generales-10N
     lang: es
     group_by: legislature
+scope: national # international, national, regional or local
+scope_country: spain # if scope is "international" then instead of "country:" use "organization:"
+scope_institution: 2019-elecciones-generales-10N
 context:
     name: Elecciones generales 2019
     description: Listado exhaustivo y análisis de las propuestas de los principales partidos políticos.

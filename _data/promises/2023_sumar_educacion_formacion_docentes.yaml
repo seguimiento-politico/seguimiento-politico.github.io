@@ -1,0 +1,26 @@
+id: 90552a2b-a645-4096-a6e4-88a6f2c53415
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 157
+ref_parent_chapter: 5.1.III
+ref_section: 16
+categories:
+  - Educación
+title: "Formación inicial y permanente del profesorado"
+statements: 
+  - id: 1
+    quote: Los centros deben converger en un proyecto común que refuerce la formación inicial y la permanente. 
+  - id: 2
+    quote: El profesorado debe contar con una formación inicial de equivalente relevancia en docencia y especialización en su área, sin perjuicio de la formación universitaria en su especialidad. 
+  - id: 3
+    quote: La formación inicial debe combinar práctica (en los centros y con profesorado reconocido) y teoría (en las facultades de educación) que ayuden a investigar y mejorar. 
+  - id: 4
+    quote: Se debe ofrecer también una formación permanente teórico-práctica a este colectivo, como parte de su labor docente, con alicientes de desarrollo profesional, además de económicos, para su realización. 
+  - id: 5
+    quote: Es importante, asimismo, incorporar formación en cuestiones como la igualdad de género para contribuir a un modelo verdaderamente coeducativo, o a la inclusión de la diversidad.

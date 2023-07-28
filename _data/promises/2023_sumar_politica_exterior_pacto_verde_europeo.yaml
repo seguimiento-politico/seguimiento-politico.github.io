@@ -1,0 +1,30 @@
+id: 3792598b-6653-4eda-921a-c6bb886e7012
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 143
+ref_parent_chapter: 4.2
+ref_section: 13
+categories:
+  - Medioambiente
+  - Cambio climático
+  - Economía
+  - Industria
+  - Política internacional
+title: "Un Pacto Verde Europeo con ambiciones renovadas y objetivos adelantados."
+statements:
+  - id: 1
+    quote: Impulsaremos el papel de la Unión Europea como promotora de una planificación ecológica en clave democrática a escala global, aprovechando su liderazgo normativo y regulatorio, su facultad para ejercer la diplomacia climática y su capacidad de evitar la competencia a la baja entre los Estados miembros.
+  - id: 2
+    quote: Reforzaremos decididamente los instrumentos del Pacto Verde Europeo, como el Fondo de Transición Justa y el Fondo Social Climático, para asegurar que la lucha contra la emergencia climática no recaiga en las personas trabajadoras y que contribuyan más aquellos que contaminen en mayor medida.
+  - id: 3
+    quote: Promoveremos la creación de un mecanismo SURE climático, una herramienta financiera que asegure que la transición ecológica no produzca un impacto negativo en el empleo y se proteja a las personas trabajadoras.
+  - id: 4
+    quote: Fortaleceremos la agenda legislativa del Objetivo 55 (Fit for 55) para convertir el impulso de las energías renovables y la descarbonización de sectores clave como la industria y la vivienda en ejes prioritarios de la acción europea, y así garantizar el cumplimiento de la reducción de emisiones de la Unión Europea en al menos un 55% en 2030
+  - id: 5
+    quote: Impulsaremos una planificación industrial verde que corrija las desigualdades territoriales en el seno de la Unión, promueva la creación de empleo verde en toda Europa y desarrolle una base industrial propia en el sector de las energías renovables, profundizando así en la autonomía estratégica de la UE.

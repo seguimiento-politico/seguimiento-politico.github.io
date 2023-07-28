@@ -1,0 +1,22 @@
+id: 56398f43-25f1-439c-9af9-ab596624c2c3
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 140
+ref_parent_chapter: 4.1
+ref_section: 8
+categories:
+  - Política exterior
+title: "Una internacional feminista y orgullosamente diversa."
+statements:
+  - id: 1
+    quote: Avanzaremos y profundizaremos en el desarrollo de una política exterior que contribuya a eliminar las causas estructurales que generan desigualdades de género en el mundo.
+  - id: 2
+    quote: Impulsaremos la creación de una alianza global por la igualdad y la diversidad, una internacional feminista conformada por aquellos países que promuevan activamente la igualdad de género y la defensa de los derechos de las personas LGTBI+ en la acción tanto interior como exterior.
+  - id: 3
+    quote: Crearemos una secretaría de Estado sobre política exterior feminista que transversalice el enfoque feminista e interseccional en todas las políticas y actividades e impulse planes de desarrollo de la Declaración y Plan de Acción de Beijing; la Agenda Mujeres, Paz y Seguridad; la Agenda 2030 y el Convenio de Estambul contra la violencia de género.

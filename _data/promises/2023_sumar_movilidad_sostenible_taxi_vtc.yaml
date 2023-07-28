@@ -1,16 +1,15 @@
 id: 57c0a2f8-cb54-4271-94b2-39586104c04a
-config:
-  scope: national
-  country: spain
+scope: national
+scope_country: spain
 election_type: generales
 from: "2023-07-23"
 parties:
   - SUMAR
-reference:
-    type: manifesto
-    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-    page: 82
-    section: 5.3, 12
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 82
+ref_parent_chapter:
+ref_section: 5.3, 12
 categories:
   - Cambio climático
   - Transporte

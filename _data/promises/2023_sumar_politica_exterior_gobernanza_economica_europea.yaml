@@ -1,0 +1,23 @@
+id: 2daed85c-595d-4151-b9fc-b084ebb1124e
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 144
+ref_parent_chapter: 4.2
+ref_section: 18
+categories:
+  - Economía
+  - Política internacional
+title: "Una gobernanza económica europea al servicio de las personas"
+statements:
+  - id: 1
+    quote: Impulsaremos una superación del Pacto de Estabilidad y Crecimiento para fomentar y no penalizar las inversiones públicas y los gastos asociados a las mismas y avanzar así hacia un nuevo modelo de gobernanza económica que impida la vuelta a la Europa neoliberal de la austeridad.
+  - id: 2
+    quote: Promoveremos que la última palabra sobre las trayectorias de deuda y déficit corresponda al Consejo Europeo y al Parlamento Europeo, y no a la Comisión Europea, para garantizar así la legitimidad democrática de las decisiones en materia de coordinación de políticas económicas.
+  - id: 3
+    quote: Trabajaremos por un mayor pluralismo en el pensamiento económico dentro de las instituciones de la Unión Europea, impulsando un enfoque de elaboración de políticas que se base en indicadores que midan el progreso más allá del PIB y apostando por avanzar hacia un modelo más allá del crecimiento.

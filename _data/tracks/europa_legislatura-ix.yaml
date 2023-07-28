@@ -4,12 +4,11 @@ config:
     subtype: initiatives
     agents: parties
     categorization: promesas-electorales-estado
-    scope: international # internationa, national, regional or local
-    organization: europe
-    institution: europe
     lang: es
-
     group_by: legislature
+scope: international # internationa, national, regional or local
+scope_organization: europe
+scope_institution: europe
 context:
     name: "Europa: Legislatura IX"
     description: Seguimiento de las políticas y actividad legislativa de la Unión Europea.

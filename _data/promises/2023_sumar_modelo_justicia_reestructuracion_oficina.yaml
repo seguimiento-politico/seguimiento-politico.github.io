@@ -1,17 +1,15 @@
 id: 091b647e-7ce3-4823-b745-e29b8e66cd7f
-config:
-  scope: national
-  country: spain
+scope: national
+scope_country: spain
 election_type: generales
 from: "2023-07-23"
 parties:
   - SUMAR
-reference:
-    type: manifesto
-    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-    page: 125
-    parent_chapter: 3.3.1
-    section: 7
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 125
+ref_parent_chapter: 3.3.1
+ref_section: 7
 categories:
   - Justicia
 title: "Reestructuración de la oficina judicial"

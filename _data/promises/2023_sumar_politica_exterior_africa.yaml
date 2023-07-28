@@ -1,0 +1,25 @@
+id: d9596aee-5595-468d-b498-42bdf03afcb5
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 141
+ref_parent_chapter: 4.1
+ref_section: 10
+categories:
+  - Política exterior
+  - Educación
+  - Cambio climático
+  - Cooperación internacional
+title: "Una nueva relación estratégica con nuestra Vecindad Sur"
+statements:
+  - id: 1
+    quote: Construiremos una visión estratégica hacia nuestra Vecindad Sur que acompase intereses y valores y supere la visión dicotómica que reduce estas relaciones de vecindad al prisma exclusivo de cooperación o conflicto en la región del Magreb. En situaciones de tensión, apostaremos por el diálogo, sin abandonar los valores y objetivos propios, evitando una política puramente reactiva y poniendo siempre los derechos humanos en el centro.
+  - id: 2
+    quote: Promoveremos, desde el marco europeo, la creación de una fuerza mediterránea de intervención climática y protección civil para luchar contra los incendios y otras catástrofes naturales, prestar asistencia en el mar y luchar contra la contaminación en la región del Magreb.
+  - id: 3
+    quote: Reconoceremos y apoyaremos a la pluralidad de agentes no estatales políticos y sociales en la región del Magreb, fomentando los intercambios educativos, culturales y en materia de economía social.

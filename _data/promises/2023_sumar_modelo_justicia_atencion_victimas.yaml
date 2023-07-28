@@ -1,17 +1,15 @@
 id: 74d2b2ec-418e-4753-b895-6d05fb0afc92
-config:
-  scope: national
-  country: spain
+scope: national
+scope_country: spain
 election_type: generales
 from: "2023-07-23"
 parties:
   - SUMAR
-reference:
-    type: manifesto
-    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-    page: 124
-    parent_chapter: 3.3.1
-    section: 4
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 124
+ref_parent_chapter: 3.3.1
+ref_section: 4
 categories:
   - Justicia
 title: "Mejoraremos la atención a las víctimas mediante la implantación de servicios de justicia restaurativa de carácter público y universal en todas las fases del proceso penal."

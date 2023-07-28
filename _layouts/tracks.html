@@ -4,27 +4,28 @@ layout: page
 
 <div class="card py-3 shadow-sm">
     <div class="container">
-      <div class="row row-cols-1 row-cols-xs-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4">
+        <div class="row row-cols-1 row-cols-xs-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4">
         {% assign tracks = site.data.tracks | sort %}
         
         {% for track in tracks %}
-            {% assign scope_data = track[1].config %} 
+            {% assign config_data = track[1].config %} 
             {% if track[1].draft == true %}
-              {% continue %}
+                {% continue %}
             {% endif %}
             
-              {% assign teaser = site.images_path | append: 'teasers/' %}  
-              
-              {% include scope_path.html %}         
-              {% if scope_data.institution %}
-                {% assign scope_path = scope_path | append: scope_data.institution | append: '.png' %}
-              {% endif %}
-              {% assign teaser = teaser | append: scope_path %} 
+            {% assign teaser = site.images_path | append: 'teasers/' %}  
+            
+            {% assign scope_data = track[1] %}
+            {% include scope_path.html %}         
+            {% if track[1].scope_institution %}
+                {% assign scope_path = scope_path | append: track[1].scope_institution | append: '.png' %}
+            {% endif %}
+            {% assign teaser = teaser | append: scope_path %} 
 
                 <div class="col py-3">
                     <div class="card shadow-sm bg-light h-100">
                     {% if teaser != site.teaser %}
-                        <img src="{{ teaser }}" class="" alt="{{ scope_data.institution }}">
+                        <img src="{{ teaser }}" class="" alt="{{ track[1].scope_institution }}">
                     {% endif %}
                     <div class="card-body">
                     <h5 class="card-title">{{ track[1].context.name }}</h5>
@@ -39,10 +40,10 @@ layout: page
                             <a class="btn btn-sm btn-outline-secondary" href="{{ site.raw-repository-source }}{{ site.repository}}/master/_data/tracks/trackers/{{ path }}/{{ track[0] }}.yaml" role="button">{{ site.data.ui-text[site.locale].open_label | default: "open data" | downcase }}</a>
                         </div>
                         {% assign track_name = track[0] %}
-                        {% if scope_data.group_by == "legislature"  %}  
+                        {% if config_data.group_by == "legislature"  %}  
                             {% assign items = site.data.promises | where_exp: 'item', 'item.election_type == track[1].context.election_type' | where_exp: 'item', 'item.from == track[1].context.from' %}
-                        {% elsif scope_data.group_by == "party" %}
-                            {% assign items = site.data.promises | where: "parties", scope_data.party %}
+                        {% elsif config_data.group_by == "party" %}
+                            {% assign items = site.data.promises | where: "parties", config_data.party %}
                         {% else %}
                             {% assign items = "" | split:"," %}
                         {% endif %}
@@ -52,7 +53,7 @@ layout: page
                 </div>
                 </div>
         {% endfor %}
-      </div>
+        </div>
     </div>
 </div>
 <br>

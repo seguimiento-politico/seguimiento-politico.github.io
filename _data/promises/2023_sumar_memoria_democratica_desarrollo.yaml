@@ -1,0 +1,48 @@
+id: 19caccc5-91a8-42ad-b64e-b28272ade817
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 134
+ref_parent_chapter: 3.3.3
+ref_section: 1
+categories:
+  - Democracia
+  - Agencias y órganos públicos
+  - Justicia
+title: "Abordaremos de forma urgente el desarrollo reglamentario de la Ley de Memoria Democrática de 2022 y desplegar todas las medidas contenidas en la misma"
+statements:
+  - id: 1
+    quote: En particular, la elaboración, en colaboración con las comunidades autónomas, del censo público de víctimas;
+    partial: ini
+  - id: 2
+    quote: el impulso al Banco Estatal de ADN de los posibles familiares de las personas desaparecidas que sea técnicamente compatible con los que ya se han implantado en varias autonomías;
+  - id: 3
+    quote: la garantía del derecho al libre acceso y consulta gratuita de los archivos públicos y privados con la reforma de la Ley de Secretos Oficiales;
+  - id: 4
+    quote: la auditoría sobre los bienes y derechos incautados durante la dictadura; 
+  - id: 5
+    quote: el inventario de edificaciones y obras realizados por las víctimas que sufrieron trabajos forzados; 
+  - id: 6
+    quote: a revisión y revocación de todas las condecoraciones, medallas y recompensas concedidas a personas que formaron parte del aparato de represión de la dictadura; 
+  - id: 7
+    quote: el inventario estatal de lugares de memoria;
+  - id: 8
+    quote: la constitución del Consejo de Memoria Democrática y la creación y dotación del Centro de la Memoria Democrática.
+    partial: end
+  - id: 9
+    quote: Hay que ampliar el objeto de la Comisión para contribuir al esclarecimiento de las violaciones de los derechos humanos durante la Guerra Civil 
+    partial: ini
+  - id: 10
+    quote: y la dictadura, 
+  - id: 11
+    quote: así como al estudio de las vulneraciones de derechos humanos durante la Transición.
+    partial: end
+  - id: 12
+    quote: Además, se instará al Ministerio Fiscal a cumplir con el mandato de la ley, dando cauce de participación a las personas y organizaciones cuyos derechos están amparados por la normativa internacional, la Convención europea sobre derechos humanos y el pacto internacional de derechos civiles y políticos y la propia Ley de Memoria Democrática. 
+  - id: 13
+    quote: Reconociendo este el derecho a obtener una Declaración de reparación y reconocimiento, así como el derecho de las víctimas, sus familiares y la sociedad en general, a la verificación de los hechos y la revelación pública y completa de los motivos y circunstancias en que se cometieron las violaciones del Derecho Internacional Humanitario o de violaciones graves y manifiestas de las normas internacionales de los derechos humanos ocurridas a causa de la Guerra y de la Dictadura

@@ -1,0 +1,19 @@
+id: e97a0cd5-65fc-4c35-bbcc-9d1d62e2eb5e
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 129
+ref_parent_chapter: 3.3.1
+ref_section: 18
+categories:
+  - Justicia
+title: "Recuperación de la justicia universal penal como medio para evitar la impunidad de acciones que atentan contra los derechos más fundamentales del ser humano y garantizar la realización del valor de la justicia."
+description: Cada vez son más los casos en los que existe interés por parte de toda la comunidad internacional en que determinados hechos delictivos, los más graves o los que se cometen en varios países, no queden impunes. Esto va unido a la constante reformulación del concepto de soberanía de los Estados como lo demuestra la creación del Tribunal Penal Internacional.
+statements:
+  - id: 1
+    quote: Se garantizará la formación de los jueces en tratados, convenios y resto de normativa internacional para garantizar una adecuada aplicación de la justicia multinivel.

@@ -1,0 +1,23 @@
+id: 0bf86c07-70ba-4594-b97f-52f6b82ce23d
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 143
+ref_parent_chapter: 4.2
+ref_section: 14
+categories:
+  - Derechos y servicios sociales
+  - Política internacional
+title: "Reforma de los tratados para blindar la Europa social."
+statements:
+  - id: 1
+    quote: Promoveremos la inclusión de un protocolo de progreso social en los tratados para garantizar que, en caso de conflicto, los derechos sociales, económicos, culturales y medioambientales de las personas tengan prioridad sobre las libertades económicas de las corporaciones.
+  - id: 2
+    quote: Haremos de la Carta de Derechos Fundamentales de la Unión Europea y de la Carta Social Europea el programa de una nueva política social europea y promoveremos la concreción normativa de los principios del Pilar Europeo de Derechos Sociales.
+  - id: 3
+    quote: Reforzaremos la labor de asistencia y asesoramiento de la Agencia de los Derechos Fundamentales de la Unión Europea en materia de derechos sociales, económicos, culturales y medioambientales.

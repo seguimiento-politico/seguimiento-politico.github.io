@@ -1,17 +1,15 @@
 id: 36cc3e97-235e-4305-bec8-4ed8d225c79e
-config:
-  scope: national
-  country: spain
+scope: national
+scope_country: spain
 election_type: generales
 from: "2023-07-23"
 parties:
   - SUMAR
-reference:
-    type: manifesto
-    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-    page: 123
-    parent_chapter: 3.3.1
-    section: 2
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 123
+ref_parent_chapter: 3.3.1
+ref_section: 2
 categories:
   - Justicia
   - Democracia

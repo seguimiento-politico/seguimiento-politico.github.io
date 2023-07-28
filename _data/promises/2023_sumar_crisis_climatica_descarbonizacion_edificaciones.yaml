@@ -1,16 +1,15 @@
 id: 7de68aa2-adc3-4c7d-ae92-85ee2247b506
-config:
-  scope: national
-  country: spain
+scope: national
+scope_country: spain
 election_type: generales
 from: "2023-07-23"
 parties:
   - SUMAR
-reference:
-    type: manifesto
-    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-    page: 36
-    section: 2.2
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 36
+ref_parent_chapter:
+ref_section: 2.2
 categories:
   - Medioambiente y biodiversidad
   - Cambio climático

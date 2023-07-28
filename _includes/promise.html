@@ -9,7 +9,7 @@
 {% assign item_analysis = site.data.promises_analysis | where: "promise_id", item[0].id %}
 {% assign status = statuses_data | where:'name', item_analysis[0].status | first %}
 
-{% assign scope_data = item[0].config %}
+{% assign scope_data = item[0] %}
 
 <div class="callout callout-{{ status.color }} p-0 m-0 mb-3 bg-body shadow-sm border-{{ status.color }}">
     <div class="border-bottom p-2 m-2 d-flex justify-content-between align-items-start">
@@ -19,7 +19,6 @@
                 {% include logos_settings.html type='party' %}        
                 {% include logos_show.html type='party' %}
             {% endfor %}  
-                      
             <b>{{ item[0].title }}</b>
         </span>
         <div class="btn-group">

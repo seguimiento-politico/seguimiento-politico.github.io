@@ -1,0 +1,26 @@
+id: b8e61060-3712-4394-9ffe-c0775456a3d9
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 144
+ref_parent_chapter: 4.2
+ref_section: 16
+categories:
+  - Derechos y servicios sociales
+  - Seguridad y defensa
+  - Política internacional
+title: "Un horizonte feminista para Europa"
+statements:
+  - id: 1
+    quote: Lideraremos a nivel europeo la lucha contra la violencia machista y la defensa del Convenio de Estambul frente a las fuerzas reaccionarias del continente y reforzaremos los mecanismos para luchar contra la trata de personas.
+  - id: 2
+    quote: Garantizaremos que todas la políticas públicas, normativas y presupuestos de la Unión Europea y de los Estados miembros se elaboren desde la perspectiva de género y el análisis feminista con enfoque interseccional, haciendo preceptivo el dictamen del Instituto Europeo de la Igualdad de Género o de órganos estatales análogos.
+  - id: 3
+    quote: Aseguraremos el cumplimiento de la Estrategia Europea de los Cuidados y ampliaremos sus objetivos para asegurar una auténtica transición de los cuidados en toda Europa.
+  - id: 4
+    quote: Haremos que los espacios de representación, toma de decisiones y liderazgo de la Unión Europeo sean paritarios.

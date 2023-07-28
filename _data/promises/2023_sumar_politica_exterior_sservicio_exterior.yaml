@@ -1,0 +1,24 @@
+id: a7d60e3d-af5f-4a7d-9baa-8f147b55c92f
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 142
+ref_parent_chapter: 4.1
+ref_section: 12
+categories:
+  - Política exterior
+title: "Un servicio exterior moderno y democrático"
+statements:
+  - id: 1
+    quote: Reordenaremos las prioridades de la política exterior española, privilegiando asuntos como la igualdad, la diversidad, las cuestiones climáticas y la construcción de paz.
+  - id: 2
+    quote: Daremos al conjunto de nuestra política exterior una capacidad de anticipación propositiva y dinámica, así como una mayor coherencia y coordinación con los actores implicados en la agenda exterior
+  - id: 3
+    quote: Impulsaremos una hoja de ruta ciudadana en materia de acción exterior para fortalecer la conexión entre la sociedad civil y nuestro servicio exterior.
+  - id: 4
+    quote: Democratizaremos la carrera diplomática con un sistema de becas para reflejar plenamente la diversidad existente en la sociedad española y garantizar que el origen social y el género no limiten las posibilidades de entrada.

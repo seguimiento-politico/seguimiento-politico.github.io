@@ -1,7 +1,6 @@
 id: 82c7eefd-7a7c-473b-b9e5-10d3dcb7fc8a
-config:
-  scope: national
-  country: spain
+scope: national
+scope_country: spain
 election_type: generales
 from: "2023-07-23"
 parties:
@@ -9,8 +8,9 @@ parties:
 reference:
   type: manifesto
   id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-  page: 52
-  section: 8
+  ref_page: 52
+  ref_parent_chapter:
+ref_section: 8
 categories:
   - Medioambiente y biodiversidad
   - Territorio

@@ -1,0 +1,18 @@
+id: e32ec9ef-5c30-406e-a952-20c952e95d16
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 161
+ref_parent_chapter: 5.2.III
+ref_section: 6
+categories:
+  - Educación
+title: "Recuperación de los estándares adecuados en la cantidad y calidad del empleo de las universidades."
+statements: 
+  - id: 1
+    quote: 

@@ -1,22 +1,20 @@
 id: 9ee370ee-9dbd-448d-a5b0-ef5db0b7e4c6
-config:
-  scope: national
-  country: spain
+scope: national
+scope_country: spain
 election_type: generales
 from: "2023-07-23"
 parties:
   - SUMAR
-reference:
-    type: manifesto
-    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-    page: 25
-    section: 1.2 IV
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 25
+ref_parent_chapter:
+ref_section: 1.2 IV
 categories:
   - Economía
   - Trabajo
   - Hacienda y fiscalidad
   - Cultura
-  - Deportes
   - Derechos y servicios sociales
   - Justicia
 title: Avanzar en la mejora de las condiciones de trabajo y la garantía de los derechos laborales
@@ -41,7 +39,7 @@ statements:
     quote: <b>Protección a las personas empleadas del hogar.</b> Los avances decisivos que en esta legislatura se han producido en la protección de las personas empleadas del hogar deben continuar a través del desarrollo reglamentario de su derecho a la prevención de riesgos laborales y abordando otras cuestiones que no pudieron incluirse por motivos formales en el RDL 16/2022, especialmente el su puesto de las internas. Es preciso, también, avanzar en sistemas que permitan a la ITSS ser más efi caz en este ámbito y abordar la cuestión de las personas empleadas del hogar migrantes carentes de autorización, así como la de aquellas que prestan sus servicios en situaciones transfronterizas.
   -
     id: 7
-    quote: <b>Seguiremos protegiendo el trabajo en la cultura.</b> Las medidas legislativas adoptadas durante esta legislatura para el desarrollo del Estatuto del Artista han de valorarse como históricas, particularmente las referidas al ámbito laboral (la modernización de la regulación de las relaciones la borales del personal artístico, técnico y auxiliar y el reconocimiento de una prestación especial de desempleo) y al de la seguridad social (compatibilidad de las prestaciones con otras actividades y especialidades en cotización). Pero aún queda trabajo por desarrollar; 1) En la fiscalidad, asegurando un trato adecuado de los gastos y la compensación de ganancias en varios años, dado el carácter irregular de las rentas. 2) En la regulación de las enseñanzas artísticas superiores y sus equivalencias con las enseñanzas artísticas profesionales. 3) En el campo de las transiciones profesionales, estableciendo procedimientos y mecanismos que permitan procesos de reciclaje y formación paralelos a la protección social mientras se accede a otros ámbitos profesionales.  4) En materias relativas a la compatibilidad y la adaptación de las ayudas por cese de actividad. Por otro lado, es necesario mantener en funcionamiento e impulsar los grupos de trabajo, previstos en la ley, relativos a las enfermedades de las personas artistas y al estudio del sistema de cotizaciones a la seguridad social. Finalmente, es preciso abordar un tratamiento global y holístico del mundo de la cultura que permi ta la adopción coordinada de medidas de distintos tipos, pero siempre con una doble finalidad. por  un lado, convertir el sector de la cultura en un ámbito de desarrollo económico que incremente la cantidad y calidad del empleo y, por otro, convertir el mundo de la cultura, su actividad, su industria, sus personas en una referencia, en una marca de país."
+    quote: <b>Seguiremos protegiendo el trabajo en la cultura.</b> Las medidas legislativas adoptadas durante esta legislatura para el desarrollo del Estatuto del Artista han de valorarse como históricas, particularmente las referidas al ámbito laboral (la modernización de la regulación de las relaciones la borales del personal artístico, técnico y auxiliar y el reconocimiento de una prestación especial de desempleo) y al de la seguridad social (compatibilidad de las prestaciones con otras actividades y especialidades en cotización). Pero aún queda trabajo por desarrollar; <br>1) En la fiscalidad, asegurando un trato adecuado de los gastos y la compensación de ganancias en varios años, dado el carácter irregular de las rentas. <br>2) En la regulación de las enseñanzas artísticas superiores y sus equivalencias con las enseñanzas artísticas profesionales. <br>3) En el campo de las transiciones profesionales, estableciendo procedimientos y mecanismos que permitan procesos de reciclaje y formación paralelos a la protección social mientras se accede a otros ámbitos profesionales. <br>4) En materias relativas a la compatibilidad y la adaptación de las ayudas por cese de actividad. Por otro lado, es necesario mantener en funcionamiento e impulsar los grupos de trabajo, previstos en la ley, relativos a las enfermedades de las personas artistas y al estudio del sistema de cotizaciones a la seguridad social. Finalmente, es preciso abordar un tratamiento global y holístico del mundo de la cultura que permi ta la adopción coordinada de medidas de distintos tipos, pero siempre con una doble finalidad. por  un lado, convertir el sector de la cultura en un ámbito de desarrollo económico que incremente la cantidad y calidad del empleo y, por otro, convertir el mundo de la cultura, su actividad, su industria, sus personas en una referencia, en una marca de país."
   -
     id: 8
     quote: <b>Crearemos una unidad de la fiscalía especializada en los delitos contra los derechos de los trabajadores,</b> así como la modificación de estos delitos, para hacer más eficaz su persecución, y la incorporación de nuevas formas de criminalidad laboral en línea con lo ya realizado en el nuevo artí culo 311.2º del Código Penal.

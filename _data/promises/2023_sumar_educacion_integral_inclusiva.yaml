@@ -1,0 +1,24 @@
+id: f0f8809c-0371-4c3d-b95a-1cf4e8045240
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 156
+ref_parent_chapter: 5.1.II
+ref_section: 8
+categories:
+  - Educación
+title: "Educación integral e inclusiva"
+statements: 
+  - id: 1
+    quote: La educación debe atender a un alumnado diverso en intereses y potencialidades, y lograr que cada estudiante desarrolle al máximo sus capacidades. 
+  - id: 2
+    quote: Para ello, necesitamos una educación integral que atienda a todas las dimensiones de la persona. 
+  - id: 3
+    quote: Se requiere también una educación inclusiva que compense las desigualdades socioeconómicas, culturales e individuales, que son las que más directamente influyen en el éxito o en el fracaso del alumnado.
+  - id: 4
+    quote: Debe basarse así en una cultura de la diversidad y de la inclusión social para poder dar respuesta a todo el estudiantado, sin discriminación alguna, educando en igualdad, equidad y justicia social.

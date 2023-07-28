@@ -1,0 +1,23 @@
+id: 9d2d1234-faf4-4950-b8b9-ba920b9dd89f
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 138
+ref_parent_chapter: 4.1
+ref_section: 3
+categories:
+  - Política exterior
+  - Democracia
+title: "España, impulsora de un nuevo multilateralismo democrático."
+statements:
+  - id: 1
+    quote: Apoyaremos una reestructuración profunda del sistema de Naciones Unidas y de organismos como el Fondo Monetario Internacional y el Banco Mundial para que sean organismos más transparentes, dotarlos de capacidad operativa y de mecanismos de rendición de cuentas, mejorar la representatividad y derechos de voto del Sur Global y fortalecer la participación de los actores no gubernamentales, además de proteger y promover los bienes públicos globales.
+  - id: 2
+    quote: Fomentaremos una completa revisión de la arquitectura internacional de paz y seguridad, incluido el Consejo de Seguridad de la ONU, ante la incapacidad manifiesta de dar respuestas a conflictos como los de Ucrania, Yemen, Etiopía o República Democrática del Congo, entre muchos otros.
+  - id: 3
+    quote: Promoveremos la creación de una agencia fiscal internacional y un tribunal de justicia económica para juzgar los crímenes financieros transnacionales, así como el establecimiento de un impuesto global sobre la riqueza y sobre las transacciones financieras.

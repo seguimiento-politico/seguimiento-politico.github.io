@@ -1,0 +1,24 @@
+id: b125844d-628d-4c8c-97f4-014012d07e4f
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 156
+ref_parent_chapter: 5.1.II
+ref_section: 11
+categories:
+  - Educación
+title: " Educar en y para la democracia y en contacto con la comunidad social del entorno."
+statements: 
+  - id: 1
+    quote: Democracia para aprender a convivir en igualdad y en libertad, lo que exige que las escuelas sean un ejemplo de democracia. 
+  - id: 2
+    quote: Para ello, todos los sectores de la comunidad educativa deben participar de manera equilibrada en la elección y composición de los órganos de gobierno de los centros. 
+  - id: 3
+    quote: Hacer de los centros educativos un lugar de encuentro, participación y diálogo entre las familias, profesorado y alumnado. 
+  - id: 4
+    quote: Impulsar la implicación de la comunidad social en el funcionamiento de los centros y que estos participen en su entorno permitiendo, por ejemplo, que sus espacios y recursos puedan ser utilizados fuera del horario lectivo por la comunidad vecinal para la realización de actividades sociales, artísticas, deportivas, lúdicas y creativas.

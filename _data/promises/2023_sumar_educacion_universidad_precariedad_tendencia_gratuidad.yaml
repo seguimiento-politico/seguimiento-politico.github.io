@@ -1,0 +1,22 @@
+id: 827f15ec-b119-4d1d-b336-a8bcac2f9946
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 160
+ref_parent_chapter: 5.2.II
+ref_section: 2
+categories:
+  - Educación
+title: "Universidad: Una política de precios públicos que tienda a la reducción y, de manera progresiva, a la gratuidad"
+statements: 
+  - id: 1
+    quote: Se sigue el modelo de otras universidades europeas, comenzando, de forma inmediata, por el primer curso de los grados. 
+  - id: 2
+    quote: Eliminaremos el actual castigo económico que resulta de las matrículas sucesivas en una misma asignatura, facilitar el acceso a los estudios de Máster del estudiantado económicamente más desfavorecido 
+  - id: 3
+    quote: y compensar el coste de oportunidad de la dedicación exclusiva al estudio.

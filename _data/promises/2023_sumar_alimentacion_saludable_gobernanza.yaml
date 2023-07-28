@@ -1,7 +1,6 @@
 id: 238e41b6-ef04-4623-b3f0-e17cbe6e77f1
-config:
-  scope: national
-  country: spain
+scope: national
+scope_country: spain
 election_type: generales
 from: "2023-07-23"
 parties:
@@ -9,8 +8,9 @@ parties:
 reference:
   type: manifesto
   id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-  page: 71
-  section: 4.3 IV, 12-13
+  ref_page: 71
+  ref_parent_chapter:
+ref_section: 4.3 IV, 12-13
 categories:
   - Alimentación
   - Agricultura

@@ -1,16 +1,15 @@
 id: f202e9c2-afad-4b76-b373-52af0534985c
-config:
-  scope: national
-  country: spain
+scope: national
+scope_country: spain
 election_type: generales
 from: "2023-07-23"
 parties:
   - SUMAR
-reference:
-    type: manifesto
-    id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-    page: X
-    section: Y.Y
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: X
+ref_parent_chapter:
+ref_section: Y.Y
 categories:
   - Agua
   - Medioambiente y biodiversidad

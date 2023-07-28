@@ -1,13 +1,12 @@
 config:
     type: politics-promises-by-party
     categorization: promesas-politica-estatal
-    scope: national # international, national, regional or local
-    country: spain # if scope is "international" then instead of "country:" use "organization:"
-    institution: unidas_podemos
     lang: es
     group_by: party
     party: UNIDAS PODEMOS
- 
+scope: national # international, national, regional or local
+scope_country: spain # if scope is "international" then instead of "country:" use "organization:"
+scope_institution: unidas_podemos
 context:
     name: Historico de propuestas
     description: Control sobre el grado de cumplimiento de los compromisos electorales de los partidos políticos y congresistas.

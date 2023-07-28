@@ -1,7 +1,6 @@
 id: 8b87b050-09cb-11ed-a0d2-6fd1e8b9a6a8
-config:
-  scope: national
-  country: spain
+scope: national
+scope_country: spain
 election_type: generales
 from: "2019-11-10"
 title: Políticas activas de empleo y sistema de desempleo
@@ -32,9 +31,9 @@ categories: 'Economía, trabajo y hacienda'
 parties:
   - PSOE
   - UNIDAS-PODEMOS
-reference:
-    type: goverment_agreement
-    id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
-    page:
-    section: 
+ref_type: goverment_agreement
+ref_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+ref_page:
+ref_parent_chapter:
+ref_section: 
     

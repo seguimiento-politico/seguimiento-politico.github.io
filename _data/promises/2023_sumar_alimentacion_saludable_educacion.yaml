@@ -1,7 +1,6 @@
 id: c2823be2-3d6e-492e-8bf1-b4a8305de687
-config:
-  scope: national
-  country: spain
+scope: national
+scope_country: spain
 election_type: generales
 from: "2023-07-23"
 parties:
@@ -9,8 +8,9 @@ parties:
 reference:
   type: manifesto
   id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-  page: 69
-  section: 4.3 I, 7-9
+  ref_page: 69
+  ref_parent_chapter:
+ref_section: 4.3 I, 7-9
 categories:
   - Alimentación
   - Educación
