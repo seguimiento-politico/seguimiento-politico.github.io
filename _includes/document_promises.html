@@ -49,7 +49,7 @@
         {% for chapter in doc.index %}
             <h2 id="{{chapter.title | slugify}}">{{chapter.chapter}}. {{chapter.title}} </h2>
             {% assign proms = promises | where: 'ref_parent_chapter', chapter.chapter %}
-            <ul class="ms-3">
+            <ul >
                 {% for item in proms %}
                     <li>
                     {{ item.title }}
@@ -58,10 +58,10 @@
             </ul>
 
             {% for chapter1 in chapter.children %}
-                <h3 id="{{chapter1.title | slugify}}" class="ms-3">{{chapter.chapter}}.{{chapter1.chapter}}. {{chapter1.title}} </h3>
+                <h3 id="{{chapter1.title | slugify}}" >{{chapter.chapter}}.{{chapter1.chapter}}. {{chapter1.title}} </h3>
                 {% assign index = chapter.chapter | append: "." | append: chapter1.chapter %}
                 {% assign proms = promises | where: 'ref_parent_chapter', index %}
-                <ul class="ms-4">
+                <ul >
                     {% for item in proms %}
                         <li>
                         {{ item.title }}
@@ -70,10 +70,10 @@
                 </ul>
 
                 {% for chapter2 in chapter1.children %}
-                    <h4 id="{{chapter2.title | slugify}}" class="ms-4">{{chapter.chapter}}.{{chapter1.chapter}}.{{chapter2.chapter}}. {{chapter2.title}} </h4>
+                    <h4 id="{{chapter2.title | slugify}}" >{{chapter.chapter}}.{{chapter1.chapter}}.{{chapter2.chapter}}. {{chapter2.title}} </h4>
                     {% assign index = chapter.chapter | append: "." | append: chapter1.chapter | append: "." | append: chapter2.chapter %}
                     {% assign proms = promises | where: 'ref_parent_chapter', index %}
-                    <ul class="ms-5">
+                    <ul>
                         {% for item in proms %}
                             <li>
                             {{ item.title }}
@@ -82,10 +82,10 @@
                     </ul>
 
                     {% for chapter3 in chapter2.children %}
-                        <h5 id="{{chapter3.title | slugify}}" class="ms-5">{{chapter.chapter}}.{{chapter1.chapter}}.{{chapter2.chapter}}.{{chapter3.chapter}}. {{chapter3.title}} </h5>
+                        <h5 id="{{chapter3.title | slugify}}" >{{chapter.chapter}}.{{chapter1.chapter}}.{{chapter2.chapter}}.{{chapter3.chapter}}. {{chapter3.title}} </h5>
                         {% assign index = chapter.chapter | append: "." | append: chapter1.chapter | append: "." | append: chapter2.chapter | append: "." | append: chapter3.chapter %}
                         {% assign proms = promises | where: 'ref_parent_chapter', index %}
-                        <ul class="ms-5">
+                        <ul >
                             {% for item in proms %}
                                 <li>
                                 {{ item.title }}
@@ -94,10 +94,10 @@
                         </ul>
 
                         {% for chapter4 in chapter3.children %}
-                            <h6 id="{{chapter4.title | slugify}}" class="ms-6">{{chapter.chapter}}.{{chapter1.chapter}}.{{chapter2.chapter}}.{{chapter3.chapter}}.{{chapter4.chapter}}. {{chapter4.title}} </h6>
+                            <h6 id="{{chapter4.title | slugify}}">{{chapter.chapter}}.{{chapter1.chapter}}.{{chapter2.chapter}}.{{chapter3.chapter}}.{{chapter4.chapter}}. {{chapter4.title}} </h6>
                             {% assign index = chapter.chapter | append: "." | append: chapter1.chapter | append: "." | append: chapter2.chapter | append: "." | append: chapter3.chapter | append: "." | append: chapter4.chapter %}
                             {% assign proms = promises | where: 'ref_parent_chapter', index %}
-                            <ul class="ms-5">
+                            <ul >
                             {% for item in proms %}
                                 <li>
                                 {{ item.title }}
