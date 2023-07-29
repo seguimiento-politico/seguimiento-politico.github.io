@@ -105,8 +105,11 @@ compress_html:
 collections:
   tracks:
     output: true
-    permalink: /:collection/:path
+    permalink: /:path
   promises:
+    output: true
+    permalink: /:collection/:path
+  docs:
     output: true
     permalink: /:collection/:path
 
@@ -119,13 +122,12 @@ defaults:
     values:
       permalink: :basename
       layout: single 
-  # tracks and promises
   - scope:
-      path: ""
-      type: tracks
+      path: "_docs"
     values:
-      layout: track_item 
+      layout: document
       comments: true
+  # tracks and promises
   - scope:
       path: "_promises"
     values:

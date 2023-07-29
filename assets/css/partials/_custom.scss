@@ -35,9 +35,9 @@
 }
 
 .bd-main {
-	grid-template-areas: "intro   toc" "content toc";
-	grid-template-rows: auto 1fr;
-	grid-template-columns: 5fr 2fr;
+	grid-template-areas: "toc   intro" "toc content";
+	grid-template-rows: 1fr auto;
+	grid-template-columns: 2fr 5fr;
 }
 
 @media (max-width: 767px) {
