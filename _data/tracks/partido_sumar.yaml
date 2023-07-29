@@ -7,6 +7,7 @@ config:
 scope: national # international, national, regional or local
 scope_country: spain # if scope is "international" then instead of "country:" use "organization:"
 scope_institution: sumar
+document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 context:
     name: Historico de propuestas
     description: Control sobre el grado de cumplimiento de los compromisos electorales de los partidos políticos y congresistas.

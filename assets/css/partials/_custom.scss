@@ -1,26 +1,10 @@
-#back_to_top{
+#btn-back-to-top {
   position: fixed;
-  bottom: 40px;
+  bottom: 20px;
   right: 20px;
-  background: black;
-  background: rgba(103,107,94,.7);
   display: none;
-  border: 2px solid #fff;
-  transition: all .3s ease;
 }
-#back_to_top i{
-  color: #fff;
-  margin: 0;
-  position: relative;
-  font-size: 19px;
-  transition: all .3s ease;
-}
-#back_to_top:hover{
-  background: rgba(103,107,94,.9);
-}
-#back_to_top:hover i{
-  bottom: 5px;
-}
+
 .source_sup{
   outline: none;
   text-decoration: none;
@@ -41,6 +25,19 @@
   display: inline-block; 
   cursor: pointer; 
   margin-left: 0.5rem;
+}
+
+.bd-layout {
+	display: flex;
+	grid-template-areas: "sidebar main";
+	grid-template-columns: 1fr 5fr;
+	gap: 1.5rem;
+}
+
+.bd-main {
+	grid-template-areas: "intro   toc" "content toc";
+	grid-template-rows: auto 1fr;
+	grid-template-columns: 5fr 2fr;
 }
 
 @media (max-width: 767px) {

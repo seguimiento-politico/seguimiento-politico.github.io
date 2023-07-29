@@ -1,8 +1,21 @@
 ---
-layout: page
+layout: default_document
 ---
 
-{% assign doc = site.data.documents.[page.doc_name] %}
+{% if page.updates %}
+    {% include updates.html %}
+{% endif %}
 
-{% include document_sidebar.html %}
+{% assign doc = site.data.documents.[page.doc_name] %}
+{% assign reference_data = site.data.references.[doc.type] | where: 'id', doc.id %}
+
+{% include document_search.html %}
+
+<div class="container-xxl bd-gutter mt-3 my-md-4 bd-layout">
+<!-- {% include document_sidebar.html %} -->
 {% include document_promises.html %}
+</div>
+
+{% if site.comments.active and page.comments %}
+    {% include comments.html %}
+{% endif %}

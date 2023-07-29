@@ -1,40 +1,55 @@
-<div class="sidebar py-3">
-    <div class="flex-shrink-0 p-3 bg-white" style="width: 280px;">
-        <span class="fs-5 fw-semibold">Índice</span>
-        <ul class="list-unstyled ps-0 border-top my-3">
-        {% for chapter in doc.index %}
-            <li class="mb-1 border-top">
-                <button class="btn btn-toggle align-items-center rounded collapsed text-start" data-bs-toggle="collapse" data-bs-target="#main_{{chapter.title | slugify}}" aria-expanded="true">
-                    {{chapter.chapter}}. {{ chapter.title }}
-                </button>
-                <div class="collapse ms-3" id="main_{{chapter.title | slugify}}">
-                    <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
-                        {% for sub_chapter in chapter.children %}
-                            <li>
-                                <button class="btn btn-toggle align-items-center rounded collapsed text-start" data-bs-toggle="collapse" data-bs-target="#sub_{{sub_chapter.title | slugify}}" aria-expanded="true">
-                                    {% if sub_chapter.children %} 
-                                        {{sub_chapter.chapter}}. {{ sub_chapter.title }} 
-                                    {% else %}
-                                        <a href="#{{sub_chapter.title | slugify}}" class="link-dark rounded">{{sub_chapter.chapter}}. {{sub_chapter.title}}</a>
-                                    {% endif %}
-                                </button>
-                                {% if sub_chapter.children %} 
-                                <div class="collapse ms-4" id="sub_{{sub_chapter.title | slugify}}">
-                                    <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
-                                        {% for sub2_chapter in sub_chapter.children %}
-                                            <li>
-                                                <a href="#{{sub2_chapter.title | slugify}}" class="link-dark rounded">{{sub2_chapter.chapter}}. {{sub2_chapter.title}}</a>
-                                            </li>
-                                        {% endfor %}
-                                    </ul>
-                                </div>
-                                {% endif %}
-                            </li>
-                        {% endfor %}
+<aside class="bd-sidebar">
+    <div class="offcanvas-lg offcanvas-start" tabindex="-1" id="bdSidebar" aria-labelledby="bdSidebarOffcanvasLabel">
+        <div class="offcanvas-header border-bottom">
+            <h5 class="offcanvas-title" id="bdSidebarOffcanvasLabel">Browse docs</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close" data-bs-target="#bdSidebar"></button>
+        </div>
+
+        <div class="offcanvas-body">
+            <nav class="bd-links w-100" id="bd-docs-nav" aria-label="Docs navigation">
+                <ul class="bd-links-nav list-unstyled mb-0 pb-3 pb-md-2 pe-lg-2">
+                    <li class="bd-links-group py-2">
+                    <strong class="bd-links-heading d-flex w-100 align-items-center fw-semibold">
+                        <svg class="bi me-2" style="color: var(--bs-indigo);" aria-hidden="true"><use xlink:href="#book-half"></use></svg>
+                        Programas electorales
+                    </strong>
+
+                    <ul class="list-unstyled fw-normal pb-2 small">
+                        <li><a href="/docs/5.3/getting-started/introduction/" class="bd-links-link d-inline-block rounded">Introduction</a></li>
+                        <li><a href="/docs/5.3/getting-started/download/" class="bd-links-link d-inline-block rounded active" aria-current="page">Download</a></li>
+                        <li><a href="/docs/5.3/getting-started/contents/" class="bd-links-link d-inline-block rounded">Contents</a></li>
+                        <li><a href="/docs/5.3/getting-started/browsers-devices/" class="bd-links-link d-inline-block rounded">Browsers &amp; devices</a></li>
+                        <li><a href="/docs/5.3/getting-started/javascript/" class="bd-links-link d-inline-block rounded">JavaScript</a></li>
+                        <li><a href="/docs/5.3/getting-started/webpack/" class="bd-links-link d-inline-block rounded">Webpack</a></li>
+                        <li><a href="/docs/5.3/getting-started/parcel/" class="bd-links-link d-inline-block rounded">Parcel</a></li>
+                        <li><a href="/docs/5.3/getting-started/vite/" class="bd-links-link d-inline-block rounded">Vite</a></li>
+                        <li><a href="/docs/5.3/getting-started/accessibility/" class="bd-links-link d-inline-block rounded">Accessibility</a></li>
+                        <li><a href="/docs/5.3/getting-started/rfs/" class="bd-links-link d-inline-block rounded">RFS</a></li>
+                        <li><a href="/docs/5.3/getting-started/rtl/" class="bd-links-link d-inline-block rounded">RTL</a></li>
+                        <li><a href="/docs/5.3/getting-started/contribute/" class="bd-links-link d-inline-block rounded">Contribute</a></li>
                     </ul>
-                </div>
-            </li>
-        {% endfor %}
-        </ul>
+                    </li>
+                    <li class="bd-links-group py-2">
+                    <strong class="bd-links-heading d-flex w-100 align-items-center fw-semibold">
+                        <svg class="bi me-2" style="color: var(--bs-pink);" aria-hidden="true"><use xlink:href="#palette2"></use></svg>
+                        Acuerdos de gobierno
+                    </strong>
+
+                    <ul class="list-unstyled fw-normal pb-2 small">
+                        <li><a href="/docs/5.3/customize/overview/" class="bd-links-link d-inline-block rounded">Overview</a></li>
+                        <li><a href="/docs/5.3/customize/sass/" class="bd-links-link d-inline-block rounded">Sass</a></li>
+                        <li><a href="/docs/5.3/customize/options/" class="bd-links-link d-inline-block rounded">Options</a></li>
+                        <li><a href="/docs/5.3/customize/color/" class="bd-links-link d-inline-block rounded">Color</a></li>
+                        <li><a href="/docs/5.3/customize/color-modes/" class="bd-links-link d-inline-block rounded">Color modes</a></li>
+                        <li><a href="/docs/5.3/customize/components/" class="bd-links-link d-inline-block rounded">Components</a></li>
+                        <li><a href="/docs/5.3/customize/css-variables/" class="bd-links-link d-inline-block rounded">CSS variables</a></li>
+                        <li><a href="/docs/5.3/customize/optimize/" class="bd-links-link d-inline-block rounded">Optimize</a></li>
+                    </ul>
+                    </li>
+
+                </ul>
+            </nav>
+        </div>
     </div>
-</div>
+  </aside>
+

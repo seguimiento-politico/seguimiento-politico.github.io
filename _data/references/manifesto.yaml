@@ -24,7 +24,8 @@
   parties: [SUMAR]
   local: 2023_sumar.pdf
   url: https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf
-  web_history:
+  web_history: https://web.archive.org/web/20230712065723/https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf
+
 -
   id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
   election_type: generales
