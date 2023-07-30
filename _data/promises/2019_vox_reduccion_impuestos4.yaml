@@ -1,0 +1,24 @@
+id: 16dfd07a-c0b4-4cbb-8498-998ca7147de3
+scope: national
+scope_country: spain
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+ref_type: manifesto
+ref_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+ref_page: 10
+ref_parent_chapter: "6"
+ref_section: "42"
+categories:
+  - Economía
+  - Trabajo
+  - Hacienda y fiscalidad
+title: Apoyo a las PYMES
+statements:
+  -
+    id: 1
+    quote: Reducción del impuesto de sociedades para las PYMES al 15%, y minimización de los trámites burocráticos para su aprobación administrativa. 
+  - id: 2
+    quote: Apoyar a las Pymes para que no se las penalice a la hora de recibir financiación bancaria.
+    

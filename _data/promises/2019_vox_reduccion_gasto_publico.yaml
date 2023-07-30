@@ -8,10 +8,11 @@ parties:
 ref_type: manifesto
 ref_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
 ref_page: 9
-ref_parent_chapter: 
-ref_section: "35-36"
+ref_parent_chapter: "6"
+ref_section: "35"
 categories:
   - Organización estatal y administraciones públicas
+  - Agencias y órganos públicos
 title: Reducción gasto público
 statements:
   -
@@ -23,9 +24,3 @@ statements:
   -
     id: 3
     quote: Cerrar organismos destinados a crear estructuras paralelas al Estado, las televisiones autonómicas, defensores del pueblo, Consejos Consultivos, Agencias Meteorológicas, etcétera.
-  -
-    id: 4
-    quote: Fusión de ayuntamientos y significativa reducción en el número de representantes locales. 
-  - 
-    id: 5
-    quote: Reducir al mínimo el número de asesores contratados por las diferentes administraciones públicas potenciando de esta manera la carrera profesional de los empleados públicos.

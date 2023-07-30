@@ -1,0 +1,45 @@
+id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+type: goverment_agreement
+parties: [PSOE, UNIDAS PODEMOS]
+election_type: generales
+election_date:  "2019-11-10"
+url: https://www.psoe.es/media-content/2019/12/30122019-Coalici%C3%B3n-progresista.pdf
+web_history: https://web.archive.org/web/20200113183843/https://www.psoe.es/media-content/2019/12/30122019-Coalici%C3%B3n-progresista.pdf
+title: Coalición progresista
+description: Acuerdo de gobierno entre PSOE y Unidas Podemos para la Legislatura XIV
+index:
+  - chapter: 1
+    title: Consolidar el crecimiento y la creación de empleo de calidad
+    page: 4
+  - chapter: 2
+    title: Derechos sociales, regeneración democrática, ciencia e innovación
+    page: 10
+  - chapter: 3
+    title: Luchar contra el cambio climático
+    page: 23
+  - chapter: 4
+    title: Industria, pymes, autónomos/as y sector primario
+    page: 27
+  - chapter: 5
+    title: Nuevos derechos y memoria democrática
+    page: 31
+  - chapter: 6
+    title: Cultura y deportes
+    page: 34
+  - chapter: 7
+    title: Políticas feministas
+    page: 36
+  - chapter: 8
+    title: Revertir la despoblación
+    page: 40
+  - chapter: 9
+    title: "Cohesión y eficiencia: Actualización del estado autonómico"
+    page: 42
+  - chapter: 10
+    title: Justicia fiscal y equilibrio presupuestario
+    page: 45
+  - chapter: 11
+    title: Una España europea abierta al mundo
+    page: 48
+
+

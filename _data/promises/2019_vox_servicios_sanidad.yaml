@@ -8,8 +8,8 @@ parties:
 ref_type: manifesto
 ref_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
 ref_page: 14
-ref_parent_chapter: 
-ref_section: "56-57"
+ref_parent_chapter: "7"
+ref_section: "56"
 categories:
   - Sanidad
 title: Modificación de cartera de servicios sanitarios 
@@ -20,6 +20,3 @@ statements:
   -
     id: 2
     quote: Las vacunas infantiles serán obligatorias y gratuitas.
-  -
-    id: 3
-    quote: Incluir Odontología Pediátrica en la Seguridad Social hasta el recambio de dentición temporal.

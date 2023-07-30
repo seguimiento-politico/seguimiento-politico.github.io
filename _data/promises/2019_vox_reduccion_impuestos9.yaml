@@ -1,0 +1,22 @@
+id: 7d8604c1-105f-429b-90c1-e50a45a2fcf2
+scope: national
+scope_country: spain
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+ref_type: manifesto
+ref_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+ref_page: 10
+ref_parent_chapter: "6"
+ref_section: "49"
+categories:
+  - Economía
+  - Trabajo
+  - Hacienda y fiscalidad
+title: Apoyo a los desempleados mayores y de larga duración
+statements:
+  -
+    id: 1
+    quote: Apoyo a los desempleados mayores de 50 años y a aquellos desempleados de larga duración mediante la reducción de un 20% de las cotizaciones de la empresa para nuevos contratos de carácter indefinido.
+  

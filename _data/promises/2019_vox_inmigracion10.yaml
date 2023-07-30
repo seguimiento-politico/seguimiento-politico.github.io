@@ -1,0 +1,20 @@
+id: 0fb6ed77-2293-4e1e-9d77-954552f343eb
+scope: national
+scope_country: spain
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+ref_type: manifesto
+ref_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+ref_page: 5
+ref_parent_chapter: "3"
+ref_section: "31"
+categories:
+  - Migración
+title: Publicacion nacionalidad en estadísticas de delitos
+statements:
+  -
+    id: 1
+    quote: Publicación de datos sobre nacionalidad y origen en estadísticas de delitos
+  

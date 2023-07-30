@@ -1,0 +1,25 @@
+id: 15247a3d-2a3e-4f09-a498-9da999be1e00
+scope: national
+scope_country: spain
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+ref_type: manifesto
+ref_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+ref_page: 7 
+ref_parent_chapter: "5"
+ref_section: "25"
+categories:
+  - Educación
+  - Religión
+  - Seguridad y defensa
+title: Colaboración detección radicales y exclusión Islam de la enseñanza pública
+statements:
+  -
+    id: 1
+    quote: Exigir a los responsables de la religión islámica en España una absoluta colaboración para la detección de radicales.
+  -
+    id: 2
+    quote: Exclusión de la enseñanza del Islam en la escuela pública.
+  

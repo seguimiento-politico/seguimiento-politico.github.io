@@ -25,7 +25,10 @@
             <a class="btn btn-sm btn-primary" href="{{page.url}}/edit-item">
                 <i class="fas fa-fw fa-pen"></i> Editar promesa
             </a>
-            <a class="btn btn-sm btn-outline-secondary" href="{{ site.raw-repository-source }}{{ site.repository}}/master/_data/tracks{{page.subfolder}}/{{page.track_name}}/{{page.item_name}}.yaml" role="button">{{ site.data.ui-text[site.locale].open_label | default: "open data" | downcase }}</a>
+            <a class="btn btn-sm btn-outline-secondary" href="{{ site.raw-repository-source }}/_data{{page.url}}.yaml" role="button">
+                <i class="fas fa-fw fa-lock-open fa-fw"></i>
+                {{ site.data.ui-text[site.locale].open_label | default: "open data" | downcase }}
+            </a>
         </div>
     </div>
 

@@ -1,0 +1,22 @@
+id: 202d0bb0-e8ff-4261-8836-51cd1957bd5b
+scope: national
+scope_country: spain
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+ref_type: manifesto
+ref_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+ref_page: 5
+ref_parent_chapter: "3"
+ref_section: "22"
+categories:
+  - Migración
+title: Inmigracion regular condicionada
+statements:
+  -
+    id: 1
+    quote: La inmigración se afrontará atendiendo a las necesidades de la economía española y a la capacidad de integración del inmigrante. 
+  - id: 2
+    quote: Se establecerán cuotas de origen privilegiando a las nacionalidades que comparten idioma e importantes lazos de amistad y cultura con España.
+  

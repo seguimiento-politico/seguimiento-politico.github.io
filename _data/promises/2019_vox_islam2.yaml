@@ -1,0 +1,28 @@
+id: aac02dce-fb54-4dec-a844-e490312e515d
+scope: national
+scope_country: spain
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+ref_type: manifesto
+ref_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+ref_page: 7 
+ref_parent_chapter: "5"
+ref_section: "24"
+categories:
+  - Religión
+  - Política internacional
+  - Seguridad y defensa
+title: Construcción lugares de culto Islam, reciprocidad y financiación
+statements:
+  -
+    id: 1
+    quote: Prohibición de erigir mezquitas promovidas por el wahabismo, el salafismo, o cualquier interpretación fundamentalista del Islam. 
+  -
+    id: 2
+    quote: Exigencia del principio de reciprocidad en la apertura de lugares de culto. 
+  -
+    id: 3
+    quote: Rechazar e ilegalizar la financiación por parte de terceros países de lugares de culto en suelo español.
+  

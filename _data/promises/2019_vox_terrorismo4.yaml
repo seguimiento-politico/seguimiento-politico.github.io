@@ -1,0 +1,22 @@
+id: 58f35fcb-ea64-4237-8887-873ce650a38f
+scope: national
+scope_country: spain
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+ref_type: manifesto
+ref_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+ref_page: 20
+ref_parent_chapter: "10"
+ref_section: "88"
+categories:
+  - Justicia
+title: "Terrorismo: Depuración de responsabilidades políticas e inhabilitacion"
+statements:
+  -
+    id: 1
+    quote: Depuración de responsabilidades a quienes, desde el estado o desde las fuerzas de seguridad, hayan negociado y pactado con terroristas. 
+  -
+    id: 2
+    quote: Inhabilitación de por vida para ocupar cargos públicos a quienes hayan formado parte o apoyado a una organización terrorista o cualquier asociación mafiosa.

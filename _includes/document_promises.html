@@ -1,17 +1,27 @@
 {% assign promises = site.data.promises | where: "ref_id", doc.id | sort: 'ref_parent_chapter' %}
 
+{% assign categories_data = site.data.categorization.promesas-politica-estatal.categories | sort: 'name' %}
+{% assign statuses_data = site.data.categorization.promesas-politica-estatal.statuses %}
+
+<style>  
+    ol {  
+    list-style-type: none;  
+    }  
+    ul {  
+    list-style-type: none;   
+    }  
+    </style>
+
+
 <main class="bd-main">
     <div class="bd-intro pt-2 ps-lg-2">
         <div class="d-md-flex flex-md-row-reverse align-items-center justify-content-between">
             <div class="mb-3 mb-md-0 d-flex text-nowrap">
-                <a class="btn btn-sm btn-bd-light rounded-2" href="https://github.com/twbs/bootstrap/blob/v5.3.1/site/content/docs/5.3/getting-started/download.md" title="View and edit this file on GitHub" target="_blank" rel="noopener">
-                    open data
+                <a class="btn btn-sm btn-bd-light rounded-2 ms-2" href="{{reference_data[0].url}}" title="Ver el documento original" target="_blank" rel="noopener">
+                    <i class="fas fa-fw fa-file-pdf fa-fw"></i> Doc. original
                 </a>
-                <a class="btn btn-sm btn-bd-light rounded-2" href="{{reference_data[0].url}}" title="View and edit this file on GitHub" target="_blank" rel="noopener">
-                    original
-                </a>
-                <a class="btn btn-sm btn-bd-light rounded-2" href="{{reference_data[0].web_history}}" title="View and edit this file on GitHub" target="_blank" rel="noopener">
-                    historico
+                <a class="btn btn-sm btn-bd-light rounded-2 ms-2" href="{{reference_data[0].web_history}}" title="Ver el documento original (respaldo)" target="_blank" rel="noopener">
+                    <i class="fas fa-fw fa-calendar-days fa-fw"></i> Doc. historico
                 </a>
             </div>
             <h2 class="bd-title mb-0" id="content">{{ doc.parties}} - {{ doc.title }}</h2>
@@ -20,6 +30,7 @@
         <hr class="d-none d-md-block my-2">
     </div>
     
+    <!-- TOC -->
     <div class="bd-toc mt-3 mb-5 my-lg-0 mb-lg-5 px-sm-1 text-body-secondary">
         <button class="btn btn-link p-md-0 mb-2 mb-md-0 text-decoration-none bd-toc-toggle d-md-none" type="button" data-bs-toggle="collapse" data-bs-target="#tocContents" aria-expanded="false" aria-controls="tocContents">
         Índice
@@ -34,7 +45,12 @@
                     <li><a href="#{{chapter.title | slugify}}" class="">{{chapter.chapter}}. {{ chapter.title }}</a>
                         <ul>
                             {% for sub_chapter in chapter.children %}
-                                <li><a href="#{{chapter.title | slugify}}" class="">{{chapter.chapter}}.{{sub_chapter.chapter}}. {{ sub_chapter.title }} </a></li>
+                                <li><a href="#{{sub_chapter.title | slugify}}" class="">{{chapter.chapter}}.{{sub_chapter.chapter}}. {{ sub_chapter.title }} </a></li>
+                                <ul>
+                                    {% for sub2_chapter in sub_chapter.children %}
+                                        <li><a href="#{{sub2_chapter.title | slugify}}" class="">{{chapter.chapter}}.{{sub_chapter.chapter}}.{{sub2_chapter.chapter}}. {{ sub2_chapter.title }} </a></li>
+                                    {% endfor %}
+                                </ul>
                             {% endfor %}
                         </ul>
                     </li>
@@ -44,15 +60,37 @@
         </div>
     </div>
     
-
+    <!-- CONTENT -->
     <div class="bd-content ps-lg-2">
         {% for chapter in doc.index %}
             <h2 id="{{chapter.title | slugify}}">{{chapter.chapter}}. {{chapter.title}} </h2>
-            {% assign proms = promises | where: 'ref_parent_chapter', chapter.chapter %}
+            {% assign proms = promises | where: 'ref_id', doc.id | where: 'ref_parent_chapter', chapter.chapter | sort: 'ref_section' %}
             <ul >
                 {% for item in proms %}
+                    {% assign item_analysis = site.data.promises_analysis | where: "promise_id", item.id %} 
+                    {% if item_analysis[0].status %}
+                        {% assign status = statuses_data | where: "name", item_analysis[0].status | first %}
+                    {% else %}
+                        {% assign status = site.data.categorization.default.statuses | first %}
+                    {% endif %}
                     <li>
-                    {{ item.title }}
+                        {% assign promises = site.data.promises %}
+                                {% for promise in promises %}
+                                    {% if promise[1].id == item.id %}
+                                    <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="Cumplimiento: {{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}"></i>
+                                        <a class="link-{{status.color}}" href="/promises/{{ promise[0] }}">{{ item.title }}</a>    
+                                        {% if item_analysis[0].topics %}
+                                        <p><span class="text-muted ms-3">
+                                            {% for topic in item_analysis[0].topics %}
+                                                {{ topic.name}}
+                                                {% if forloop.last == false %}
+                                                    {{ ", "}}
+                                                {% endif %}     
+                                            {% endfor %}
+                                        </span></p>
+                                    {% endif %}
+                                    {% endif %}   
+                                {% endfor %}
                     </li>
                 {% endfor %}
             </ul>
@@ -60,11 +98,33 @@
             {% for chapter1 in chapter.children %}
                 <h3 id="{{chapter1.title | slugify}}" >{{chapter.chapter}}.{{chapter1.chapter}}. {{chapter1.title}} </h3>
                 {% assign index = chapter.chapter | append: "." | append: chapter1.chapter %}
-                {% assign proms = promises | where: 'ref_parent_chapter', index %}
+                {% assign proms = promises | where: 'ref_id', doc.id | where: 'ref_parent_chapter', index | sort: 'ref_section' %}
                 <ul >
                     {% for item in proms %}
+                        {% assign item_analysis = site.data.promises_analysis | where: "promise_id", item.id %} 
+                        {% if item_analysis[0].status %}
+                            {% assign status = statuses_data | where: "name", item_analysis[0].status | first %}
+                        {% else %}
+                            {% assign status = site.data.categorization.default.statuses | first %}
+                        {% endif %}
                         <li>
-                        {{ item.title }}
+                            {% assign promises = site.data.promises %}
+                                {% for promise in promises %}
+                                    {% if promise[1].id == item.id %}
+                                    <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="Cumplimiento: {{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}"></i>
+                                        <a class="link-{{status.color}}" href="/promises/{{ promise[0] }}">{{ item.title }}</a>    
+                                        {% if item_analysis[0].topics %}
+                                        <p><span class="text-muted">
+                                            {% for topic in item_analysis[0].topics %}
+                                                {{ topic.name}}
+                                                {% if forloop.last == false %}
+                                                    {{ ", "}}
+                                                {% endif %}     
+                                            {% endfor %}
+                                        </span></p>
+                                    {% endif %}
+                                    {% endif %}   
+                                {% endfor %}                    
                         </li>
                     {% endfor %}
                 </ul>
@@ -72,11 +132,33 @@
                 {% for chapter2 in chapter1.children %}
                     <h4 id="{{chapter2.title | slugify}}" >{{chapter.chapter}}.{{chapter1.chapter}}.{{chapter2.chapter}}. {{chapter2.title}} </h4>
                     {% assign index = chapter.chapter | append: "." | append: chapter1.chapter | append: "." | append: chapter2.chapter %}
-                    {% assign proms = promises | where: 'ref_parent_chapter', index %}
+                    {% assign proms = promises | where: 'ref_id', doc.id | where: 'ref_parent_chapter', index | sort: 'ref_section' %}
                     <ul>
                         {% for item in proms %}
+                            {% assign item_analysis = site.data.promises_analysis | where: "promise_id", item.id %} 
+                            {% if item_analysis[0].status %}
+                                {% assign status = statuses_data | where: "name", item_analysis[0].status | first %}
+                            {% else %}
+                                {% assign status = site.data.categorization.default.statuses | first %}
+                            {% endif %}
                             <li>
-                            {{ item.title }}
+                                {% assign promises = site.data.promises %}
+                                {% for promise in promises %}
+                                    {% if promise[1].id == item.id %}
+                                    <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="Cumplimiento: {{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}"></i>
+                                        <a class="link-{{status.color}}" href="/promises/{{ promise[0] }}">{{ item.title }}</a>    
+                                        {% if item_analysis[0].topics %}
+                                        <p><span class="text-muted">
+                                            {% for topic in item_analysis[0].topics %}
+                                                {{ topic.name}}
+                                                {% if forloop.last == false %}
+                                                    {{ ", "}}
+                                                {% endif %}     
+                                            {% endfor %}
+                                        </span></p>
+                                    {% endif %}
+                                    {% endif %}   
+                                {% endfor %}
                             </li>
                         {% endfor %}
                     </ul>
@@ -84,11 +166,33 @@
                     {% for chapter3 in chapter2.children %}
                         <h5 id="{{chapter3.title | slugify}}" >{{chapter.chapter}}.{{chapter1.chapter}}.{{chapter2.chapter}}.{{chapter3.chapter}}. {{chapter3.title}} </h5>
                         {% assign index = chapter.chapter | append: "." | append: chapter1.chapter | append: "." | append: chapter2.chapter | append: "." | append: chapter3.chapter %}
-                        {% assign proms = promises | where: 'ref_parent_chapter', index %}
+                        {% assign proms = promises | where: 'ref_id', doc.id | where: 'ref_parent_chapter', index | sort: 'ref_section' %}
                         <ul >
                             {% for item in proms %}
+                                {% assign item_analysis = site.data.promises_analysis | where: "promise_id", item.id %} 
+                                {% if item_analysis[0].status %}
+                                    {% assign status = statuses_data | where: "name", item_analysis[0].status | first %}
+                                {% else %}
+                                    {% assign status = site.data.categorization.default.statuses | first %}
+                                {% endif %}
                                 <li>
-                                {{ item.title }}
+                                    {% assign promises = site.data.promises %}
+                                {% for promise in promises %}
+                                    {% if promise[1].id == item.id %}
+                                    <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="Cumplimiento: {{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}"></i>
+                                        <a class="link-{{status.color}}" href="/promises/{{ promise[0] }}">{{ item.title }}</a>    
+                                        {% if item_analysis[0].topics %}
+                                        <p><span class="text-muted">
+                                            {% for topic in item_analysis[0].topics %}
+                                                {{ topic.name}}
+                                                {% if forloop.last == false %}
+                                                    {{ ", "}}
+                                                {% endif %}     
+                                            {% endfor %}
+                                        </span></p>
+                                    {% endif %}
+                                    {% endif %}   
+                                {% endfor %}
                                 </li>
                             {% endfor %}
                         </ul>
@@ -96,11 +200,33 @@
                         {% for chapter4 in chapter3.children %}
                             <h6 id="{{chapter4.title | slugify}}">{{chapter.chapter}}.{{chapter1.chapter}}.{{chapter2.chapter}}.{{chapter3.chapter}}.{{chapter4.chapter}}. {{chapter4.title}} </h6>
                             {% assign index = chapter.chapter | append: "." | append: chapter1.chapter | append: "." | append: chapter2.chapter | append: "." | append: chapter3.chapter | append: "." | append: chapter4.chapter %}
-                            {% assign proms = promises | where: 'ref_parent_chapter', index %}
+                            {% assign proms = promises | where: 'ref_id', doc.id | where: 'ref_parent_chapter', index | sort: 'ref_section' %}
                             <ul >
                             {% for item in proms %}
+                                {% assign item_analysis = site.data.promises_analysis | where: "promise_id", item.id %} 
+                                {% if item_analysis[0].status %}
+                                    {% assign status = statuses_data | where: "name", item_analysis[0].status | first %}
+                                {% else %}
+                                    {% assign status = site.data.categorization.default.statuses | first %}
+                                {% endif %}
                                 <li>
-                                {{ item.title }}
+                                    {% assign promises = site.data.promises %}
+                                {% for promise in promises %}
+                                    {% if promise[1].id == item.id %}
+                                    <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="Cumplimiento: {{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}"></i>
+                                        <a class="link-{{status.color}}" href="/promises/{{ promise[0] }}">{{ item.title }}</a>    
+                                        {% if item_analysis[0].topics %}
+                                        <p><span class="text-muted">
+                                            {% for topic in item_analysis[0].topics %}
+                                                {{ topic.name}}
+                                                {% if forloop.last == false %}
+                                                    {{ ", "}}
+                                                {% endif %}     
+                                            {% endfor %}
+                                        </span></p>
+                                    {% endif %}
+                                    {% endif %}   
+                                {% endfor %}
                                 </li>
                             {% endfor %}
                             </ul>

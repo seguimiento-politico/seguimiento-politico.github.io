@@ -1,0 +1,40 @@
+id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+type: manifesto
+parties: [VOX]
+election_type: generales
+election_date: "2019-11-10"
+url: https://www.voxespana.es/biblioteca/espana/2018m/gal_c2d72e181103013447.pdf
+web_history: https://web.archive.org/web/20190616033944/https://www.voxespana.es/biblioteca/espana/2018m/gal_c2d72e181103013447.pdf
+title: 100 medidas para la España viva
+description: Programa electoral para las elecciones generales del 10 de Noviembre de 2019
+index:
+  - chapter: 1
+    title: España, unidad y soberanía
+    page: 2
+  - chapter: 2
+    title: Ley electoral y transparencia
+    page: 4
+  - chapter: 3
+    title: Inmigración
+    page: 5
+  - chapter: 5
+    title: Defensa, seguridad y fronteras
+    page: 7
+  - chapter: 6
+    title: Economía y recursos
+    page: 9
+  - chapter: 7
+    title: salud
+    page: 14
+  - chapter: 8
+    title: Educación y cultura
+    page: 15
+  - chapter: 9
+    title: Vida y familia
+    page: 17
+  - chapter: 10
+    title: Libertades y justicia
+    page: 20
+  - chapter: 11
+    title: Europa e internacional
+    page: 23

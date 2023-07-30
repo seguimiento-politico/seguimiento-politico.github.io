@@ -1,0 +1,20 @@
+id: 97cd6de2-90f1-4684-b646-78ac2f2edbd5
+scope: national
+scope_country: spain
+election_type: generales
+from: "2019-11-10"
+parties:
+  - VOX
+ref_type: manifesto
+ref_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+ref_page: 5
+ref_parent_chapter: "3"
+ref_section: "16"
+categories:
+  - Migración
+title: Revision penas para combatir a las mafias de la inmigración
+statements:
+  -
+    id: 1
+    quote: Revisión de los tipos penales (y endurecimiento de sus penas) para combatir a las mafias de la inmigración ilegal, así como para quienes colaboren con ellas, ya sean ONGs, empresas o particulares.
+  
