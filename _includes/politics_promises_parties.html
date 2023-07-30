@@ -29,21 +29,25 @@
 <!-- Programas Electorales y otros documentos -->
 <div class="border my-3 p-3 bg-body rounded shadow-sm">
     <h6 class="border-bottom pb-2">Manifestos, goverment agreements and other documents</h6>
-    {% for doc in documents %}
-    <div class="card py-3" style="width: 18rem;">
-        <div class="card-body">
-            <h5 class="card-title">{{ doc.parties }} - {{ doc.election_date | date: "%Y" }}</h5>
-            <h6 class="card-subtitle mb-2 text-muted">{{ doc.type }} - elecciones {{ doc.election_type }} {{ doc.election_location }} {{ doc.election_date | date: "%-d %B %Y" }}</h6>
-            <p class="card-text">{{ doc.title }}</p>
-            {% for page in site.docs %}
-                {% if page.uid == doc.id %}
-                    <a href="/docs/{{page.doc_name}}" class="card-link">ver contenido</a>
-                    {% break %}
-                {% endif %}
+    <div class="container-fluid">
+        <div class="row row-cols-auto">
+            {% for doc in documents %}
+            <div class="col card me-2" style="width: 18rem;">
+                <div class="card-body">
+                    <h5 class="card-title">{{ doc.parties }} - {{ doc.election_date | date: "%Y" }}</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">{{ doc.type }} - elecciones {{ doc.election_type }} {{ doc.election_location }} {{ doc.election_date | date: "%-d %B %Y" }}</h6>
+                    <p class="card-text">{{ doc.title }}</p>
+                    {% for page in site.docs %}
+                        {% if page.uid == doc.id %}
+                            <a href="/docs/{{page.doc_name}}" class="card-link">ver contenido</a>
+                            {% break %}
+                        {% endif %}
+                    {% endfor %}
+                </div>
+            </div> 
             {% endfor %}
-        </div>
+        </div> 
     </div>
-    {% endfor %}
 </div>
 
 <!-- Promesas -->
