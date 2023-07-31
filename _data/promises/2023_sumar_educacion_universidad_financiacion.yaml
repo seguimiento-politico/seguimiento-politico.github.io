@@ -1,0 +1,18 @@
+id: cf30caaa-ffe9-4788-9c6b-4e4104c35f55
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 164
+ref_parent_chapter: "5.2.1.X"
+ref_section: "18"
+categories:
+  - Educación
+title: "Obligación, como mínimo, de cumplir la referencia de la Ley Orgánica del Sistema Universitario (LOSU) de destinar el 1% del PIB a financiación pública de las universidades públicas. "
+statements: 
+  - id: 1
+    quote: Se aumentarán progresivamente las dotaciones presupuestarias a partir de esa base para alcanzar en diez años el nivel de financiación correspondiente a una de las principales economías de la Unión Europea, como es el caso de España.

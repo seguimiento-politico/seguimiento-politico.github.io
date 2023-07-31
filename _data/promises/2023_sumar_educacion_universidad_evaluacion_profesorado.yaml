@@ -1,0 +1,28 @@
+id: 04135130-6c82-4ef8-86e7-81c919aadd65
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 161
+ref_parent_chapter: "5.2.1.III"
+ref_section: "7"
+categories:
+  - Educación
+title: "Replanteamiento del sistema de evaluación del profesorado."
+statements: 
+  - id: 1
+    quote: Se considerarán el conjunto de sus trayectorias y contribuciones, y en especial las vinculadas con la función social más amplia del sistema universitario. 
+  - id: 2
+    quote: Incluir la evaluación de carácter cualitativo, la relativa a la docencia o a la gestión académica y la vinculada al bienestar común o a la transferencia a la sociedad sin ánimo de lucro. 
+  - id: 3
+    quote: Estas evaluaciones son también más adecuadas para considerar las trayectorias de las mujeres y de otros colectivos menos favorecidos o con menor peso en las categorías superiores del sistema. 
+  - id: 4
+    quote: Este último tipo de evaluación de la actividad investigadora permite, además, tener en cuenta de una manera más adecuada las ideas y trabajos más creativos y novedosos, o simplemente más transdisciplinares y heterodoxos, tan necesarios para el avance científico. 
+  - id: 5
+    quote: Habría que integrar, asimismo, la especificidad de las distintas especialidades, la perspectiva de género, la inclusión de las distintas diversidades y, de manera conjunta, la contribución de todo ello a los fines del sistema universitario. La investigación, la transferencia y la docencia se evaluarán con nuevos indicadores que no dificulten las carreras del profesorado, especialmente del más joven, de los grupos de investigación más pequeños, de líneas de investigación menos competitivas o no prioritarias, o de las universidades periféricas, entre otros casos, y que favorezcan carreras estables y más diversas. 
+  - id: 6
+    quote: Poner en marcha el sexenio de evaluación de la docencia, además de los de investigación y transferencia.

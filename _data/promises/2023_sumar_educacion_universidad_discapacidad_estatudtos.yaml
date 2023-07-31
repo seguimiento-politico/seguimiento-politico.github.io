@@ -1,0 +1,26 @@
+id: e9468691-04a5-4199-8581-8118a40bff78
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 162
+ref_parent_chapter: "5.2.1.VI"
+ref_section: "12"
+categories:
+  - Educación
+title: " Incorporación de oficinas o unidades de atención a la discapacidad y a las distintas diversidades en los estatutos de todas las universidades."
+statements: 
+  - id: 1
+    quote: Se facilitarán recursos materiales, presupuestarios y humanos suficientes para abordar este compromiso. 
+  - id: 2
+    quote: Aseguraremos un presupuesto específico y suficiente para garantizar las actuaciones, así como los recursos humanos y técnicos adecuados a los estándares exigibles. 
+  - id: 3
+    quote: Conseguiremos la plena eliminación de las barreras y de la discriminación que sufren las personas con discapacidad tanto en el acceso a la universidad como en su permanencia en ella, en las transiciones a otras modalidades educativas o en la salida al mercado laboral. 
+  - id: 4
+    quote: Garantizaremos la incorporación plena del diseño para todas y todos y de la accesibilidad universal. 
+  - id: 5
+    quote: Fomentaremos el incremento de la presencia tanto en el PDI como en el PTGAS de las personas con certificado de discapacidad, garantizando el cumplimiento de la cuota establecida

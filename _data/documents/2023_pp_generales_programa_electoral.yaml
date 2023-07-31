@@ -1,0 +1,114 @@
+id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: manifesto
+parties: PP
+election_type: generales
+election_date: "2023-07-23"
+title: Un proyecto al servicio de un gran país - 365 medidas
+description: Programa electoral para las elecciones generales del 23 de Julio de 2023
+url: https://www.pp.es/sites/default/files/documentos/programa_electoral_pp_23j_feijoo_2023.pdf
+web_history: https://web.archive.org/web/20230724225247/https://www.pp.es/sites/default/files/documentos/programa_electoral_pp_23j_feijoo_2023.pdf
+index:
+  - chapter: 1
+    title: CRECER DE FORMA SOSTENIBLE
+    children:
+      - chapter: 0 
+        title: Objetivos
+      - chapter: 1
+        title: Impulsar una economía basada en el talento, la innovación y el conocimiento
+      - chapter: 2
+        title: Crear empleo de calidad para todos
+      - chapter: 3
+        title: Igualdad
+      - chapter: 4
+        title: Aprovechar las posibilidades de la inteligencia artificial
+      - chapter: 5
+        title: Controlar el déficit y la deuda y reducir la presión fiscal
+      - chapter: 6
+        title: Reindustrializar nuestra economía haciendo un mejor uso de los fondos europeos
+      - chapter: 7
+        title: "Un modelo más sostenible: fortalecer y proteger el sistema agroalimentario y el medio ambiente"
+      - chapter: 8
+        title: Combatir la despoblación y desarrollar la España rural
+      - chapter: 9
+        title: Repensar nuestras infraestructuras y favorecer el acceso a la vivienda
+      - chapter: 10
+        title: "España una potencia mundial: el turismo"   
+      - chapter: 11
+        title: "Pacto nacional del agua y energía limpia y barata para todos y para siempre"       
+  - chapter: 2
+    title: CUIDAR Y PROSPERAR
+    children:
+      - chapter: 0
+        title: Objetivos
+      - chapter: 1
+        title: Proteger y fortalecer el Sistema Nacional De Salud
+      - chapter: 2
+        title: Una educación excelente y de calidad
+      - chapter: 3
+        title: Apoyar la maternidad, la paternidad y la conciliación
+      - chapter: 4
+        title: Infancia y adolescencia
+      - chapter: 5
+        title: Cuidar a los mayores y combatir la soledad no deseada
+      - chapter: 6
+        title: "Las personas con discapacidad: igualdad e inclusión"
+      - chapter: 7
+        title: Erradicación de la violencia de género y de toda la violencia contra la mujer
+      - chapter: 8
+        title: Trabajar por la igualdad de las personas LGTBi
+  - chapter: 3
+    title: REGENERAR Y RESPETAR
+    children:
+      - chapter: 0
+        title: Objetivos
+      - chapter: 1
+        title: Garantizar la independencia de las instituciones y organismos del Estado
+      - chapter: 2
+        title: Promover de forma efectiva la convivencia de todos
+      - chapter: 3
+        title: El fortalecimiento del poder legislativo
+      - chapter: 4
+        title: Promover una justicia a la altura de nuestros compromisos europeos
+      - chapter: 5
+        title: Lograr un buen gobierno en el uso de los recursos públicos
+      - chapter: 6
+        title: Reforzar la lealtad institucional y la cooperación entre las administraciones públicas
+      - chapter: 7
+        title: Devolver la seguridad y tranquilidad a los ciudadanos
+      - chapter: 8
+        title: En defensa de la propiedad privada de los españoles
+  - chapter: 4
+    title: SERVIR
+    children:
+      - chapter: 0
+        title: Objetivos
+      - chapter: 1
+        title: El ciudadano en el centro. Una Administración transparente y participativa
+      - chapter: 2
+        title: Una Administración flexible, dinámica y eficaz
+      - chapter: 3
+        title: Una Administración inteligente
+      - chapter: 4
+        title: Atraer y retener el talento en la Administración
+  - chapter: 5
+    title: LIDERAR E INFLUIR
+    children:
+      - chapter: 0
+        title: Objetivos
+      - chapter: 1
+        title: España, en el puente de mando de la Unión Europea
+      - chapter: 2
+        title: Iberoamérica, una prioridad renovada
+      - chapter: 3
+        title: Recuperar el protagonismo de España en el mundo
+      - chapter: 4
+        title: Invertir en seguridad y defensa
+      - chapter: 5
+        title: Relanzar la cooperación internacional
+      - chapter: 6
+        title: Mejorar el servicio a los españoles en el exterior
+      - chapter: 7
+        title: España, una potencia cultural en el mundo
+      - chapter: 8
+        title: España, país referente en el deporte
+

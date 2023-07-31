@@ -1,0 +1,33 @@
+id: eb88c663-c086-48c8-8bc5-a3b76a062e44
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 163
+ref_parent_chapter: "5.2.1.VIII"
+ref_section: "14"
+categories:
+  - Educación
+  - Territorio
+title: "Potenciación de la ciencia abierta y ciudadana y los intercambios con los agentes sociales de los contextos locales."
+statements: 
+  - id: 1
+    quote: Normalizaremos las relaciones fluidas y regulares con los restantes escalones del sistema educativo en sus territorios, como la organización de campamentos de verano con contenidos científicos, humanísticos, culturales, deportivos y de profundización en la digitalización;
+  - id: 2
+    quote: cursos de formación complementaria o actividades extraescolares, culturales y deportivas en los campus; 
+  - id: 3
+    quote: así como distintos eventos en los restantes centros educativos locales. 
+  - id: 4
+    quote: Reforzaremos los intercambios con los ámbitos rurales mediante programas como el Erasmus o la formación continua dirigidos a estos núcleos, u otras actividades (alojamiento a precio más reducido, por ejemplo).
+  - id: 5
+    quote: Implicaremos a los centros universitarios en la recuperación y puesta en valor del patrimonio ambiental y cultural de las ciudades y localidades en que se asientan; en la gestión de los sectores económicos, ambientales y socioculturales vinculados a dicho patrimonio; y en el desarrollo local, en sus vertientes urbanísticas, ecológicas, culturales y científicas. 
+  - id: 6
+    quote: Realizaremos una tarea semejante en los barrios desfavorecidos y vulnerables, especialmente, en lo que hace a la incorporación al mundo universitario. 
+  - id: 7
+    quote: Se diseñarán programas de prácticas externas que vinculen a las citadas organizaciones y al entramado productivo local con los centros universitarios. 
+  - id: 8
+    quote: Fortaleceremos la contribución de estos al tejido productivo local y a la cantidad y calidad del empleo, configurando medios de innovación productiva y de conocimiento.

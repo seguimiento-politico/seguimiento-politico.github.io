@@ -1,0 +1,22 @@
+id: 7ca36d5d-2333-45d6-9722-12c0fcc86be5
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 162
+ref_parent_chapter: "5.2.1.IV"
+ref_section: "10"
+categories:
+  - Educación
+title: "Consideración, de manera integrada, del conjunto de las actividades desempeñadas por el PDI de modo que concuerde con el número máximo de horas de dedicación"
+statements: 
+  - id: 1
+    quote: Reconoceremos adecuadamente la docencia, su papel en la carrera académica del profesorado y la importancia de evaluar su calidad, con participación del estudiantado. 
+  - id: 2
+    quote: Enriqueceremos el reconocimiento de la transferencia productiva o remunerada con el de las actividades de intercambio con la sociedad sin ánimo de lucro o sin rentabilidad económica inmediata asociada. 
+  - id: 3
+    quote: Asimismo, fortaleceremos la oferta de formación permanente y a lo largo de la vida, dirigida no solo al personal egresado y universitario actual, sino también, de manera más amplia, al conjunto de la sociedad.

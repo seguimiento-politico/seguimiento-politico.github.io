@@ -1,0 +1,99 @@
+id: 4540ee8a-066e-4224-9f26-1297932c6560
+type: manifesto
+election_type: generales
+election_date: "2019-11-10"
+title: Ahora, progreso
+description: Programa electoral para las elecciones generales del 10 de Noviembre de 2019
+parties: [PSOE]
+url: https://www.psoe.es/media-content/2019/10/Ahora-progreso-programa-PSOE-10N-31102019.pdf
+web_history: https://web.archive.org/web/20191109163507/https://www.psoe.es/media-content/2019/10/Ahora-progreso-programa-PSOE-10N-31102019.pdf
+index: 
+  - chapter: 1
+    title: EMPLEO DIGNO Y PENSIONES JUSTAS
+  - chapter: 2 
+    title: FEMINISMO, LUCHA CONTRA LA DESIGUALDAD Y CALIDAD DEMOCRÁTICA.  
+    children:
+      - chapter: 1
+        title: Agenda Feminista
+        children:
+          - chapter: 1
+            title: Igualdad de oportunidades en el empleo y la ocupación
+          - chapter: 2
+            title: Lucha contra la violencia machista
+          - chapter: 3
+            title: Derechos sexuales y reproductivos. Por una maternidad libremente decidida
+          - chapter: 4
+            title: Contra los vientres de alquiler
+      - chapter: 2
+        title: Lucha contra la desigualdad social
+        children: 
+          - chapter: 1
+            title: Educación
+          - chapter: 2
+            title: Vivienda
+          - chapter: 3
+            title: Cultura y Deporte
+          - chapter: 4
+            title: Sanidad, Bienestar Social y Consumo
+            children: 
+              - chapter: 1
+                title: Derecho a la salud y asistencia sanitaria
+              - chapter: 2
+                title: Servicios Sociales
+              - chapter: 3
+                title: Protección para todo tipo de familias
+              - chapter: 4
+                title: Consumo
+              - chapter: 5
+                title: Pobreza energética
+              - chapter: 6
+                title: Prevención de adicciones
+          - chapter: 5
+            title: Fiscalidad
+      - chapter: 3
+        title: Calidad democrática y garantía de derechos y libertades de la ciudadanía
+        children:
+          - chapter: 1
+            title: Mejora de la calidad democrática, anticorrupción y transparencia
+          - chapter: 2
+            title: Derechos de las personas con discapacidad
+          - chapter: 3
+            title: Igualdad de trato y diversidad
+          - chapter: 4
+            title: Inmigración
+          - chapter: 5
+            title: Memoria democrática
+          - chapter: 6
+            title: Lucha contra el terrorismo y atención a sus víctimas
+          - chapter: 7
+            title: Justicia independiente
+      - chapter: 4
+        title: Jóvenes
+  - chapter: 3
+    title: EMERGENCIA CLIMÁTICA Y TRANSICIÓN ECOLÓGICA DE LA ECONOMÍA
+    children:
+      - chapter: 1
+        title: Emergencia climática
+      - chapter: 2
+        title: Transición ecológica de la economía
+      - chapter: 3
+        title: Agricultura y pesca sostenibles
+  - chapter: 4
+    title: AVANCE CIENTÍFICO, TECNOLÓGICO Y TRANSICIÓN DIGITAL
+    children:
+      - chapter: 1
+        title: Investigación, Desarrollo e Innovación (I+D+i)
+      - chapter: 2
+        title: Transformación digital
+  - chapter: 5
+    title: ESTRUCTURA TERRITORIAL
+    children:
+      - chapter: 1
+        title: Estado autonómico
+      - chapter: 2
+        title: Reto demográfico en el medio rural
+      - chapter: 3
+        title: Agenda 2030
+  - chapter: 6
+    title: ESPAÑA EN EUROPA, ESPAÑA EN EL MUNDO
+    

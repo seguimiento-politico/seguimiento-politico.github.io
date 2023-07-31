@@ -1,0 +1,22 @@
+id: 0b53a389-6742-4ea4-812c-39f27f32ac5d
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 164
+ref_parent_chapter: "5.2.1.X"
+ref_section: "19"
+categories:
+  - Educación
+  - Cambio climático
+  - Hacienda y fiscalidad
+title: " Implementación de una política de desgravación fiscal condicionada a la puesta en marcha de planes de inversión de descarbonización y autonomía energética."
+statements: 
+  - id: 1
+    quote: Se aplicará un plan de infraestructuras destinado a la reposición de la capacidad investigadora y a la modernización y adecuación de las instalaciones desde criterios de sostenibilidad ambiental. 
+  - id: 1
+    quote: "Desarrollaremos planes estratégicos y Campus Verdes como parte de la sostenibilidad urbana: movilidad, renaturalización, transiciones energéticas en edificios y potenciación de comunidades locales de energía."

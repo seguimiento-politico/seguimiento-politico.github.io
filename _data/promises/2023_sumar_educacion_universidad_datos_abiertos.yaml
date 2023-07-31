@@ -1,0 +1,21 @@
+id: 222e507a-28a8-42b1-b075-a703c92c93f0
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 162
+ref_parent_chapter: "5.2.1.IV"
+ref_section: "9"
+categories:
+  - Educación
+  - Ciencia y tecnología
+title: "Potenciación de la ciencia y los datos abiertos recogidos en repositorios públicos y apoyadospor las instituciones universitarias y científicas responsables."
+statements: 
+  - id: 1
+    quote: Reaccionaremos frente al mercado de editoriales privadas que domina la difusión del conocimiento y condiciona nuestro sistema de publicaciones y evaluación de la investigación, así como gran parte del presupuesto de los proyectos de investigación y de las bibliotecas universitarias. 
+  - id: 2
+    quote: Promocionaremos la cultura universitaria y la ciencia ciudadana como forma de democratizar la ciencia y favorecer la participación de la ciudadanía en los procesos de investigación. Y también como herramienta con capacidad para ser un elemento transformador de las estructuras de investigación y de la propia institución universitaria por sus valores.

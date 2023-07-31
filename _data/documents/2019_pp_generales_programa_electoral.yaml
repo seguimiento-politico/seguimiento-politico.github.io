@@ -1,0 +1,176 @@
+id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+type: manifesto
+parties: PP
+election_type: generales
+election_date: "2019-11-10"
+title: Elecciones generales 2019
+description: Programa electoral para las elecciones generales del 10 de Noviembre de 2019
+url: https://www.pp.es/sites/default/files/documentos/programa-electoral-elecciones-generales-2019.pdf
+web_history: https://www.pp.es/sites/default/files/documentos/programa-electoral-elecciones-generales-2019.pdf
+index:
+  - chapter: 1
+    title: Comprometidos con el fortalecimiento de la Nación 
+    page: 12
+  - chapter: 2
+    title: Una revolución fiscal para el crecimiento económico y la competitividad 
+    page: 16
+  - chapter: 3
+    title: Por una economía moderna y avanzada 
+    page: 19
+    children:
+      - chapter: 1
+        title: I+D+i 
+        page: 22
+      - chapter: 2
+        title: Autónomos 
+        page: 25
+      - chapter: 3
+        title: Empleo 
+        page: 26
+      - chapter: 4
+        title: Comercio 
+        page: 28
+      - chapter: 5
+        title: Turismo 
+        page: 29
+  - chapter: 4
+    title: Por una educación de calidad y en libertad 
+    page: 31
+    children:    
+      - chapter: 1
+        title: Universidades 
+        page: 35
+      - chapter: 2
+        title: Deporte 
+        page: 36
+  - chapter: 5
+    title: Más y mejor sociedad del bienestar 
+    page: 37
+    children:    
+      - chapter: 1
+        title: Sanidad 
+        page: 39
+      - chapter: 2
+        title: Consumo 
+        page: 43
+      - chapter: 3
+        title: Dependencia 
+        page: 44
+      - chapter: 4
+        title: Mayores 
+        page: 45
+      - chapter: 5
+        title: Pensiones 
+        page: 46
+  - chapter: 6
+    title: Familia. Políticas sociales para la igualdad de oportunidades 
+    page: 47
+    children:    
+      - chapter: 1
+        title:  Familia 
+        page: 49
+      - chapter: 2
+        title:  Discapacidad 
+        page: 51
+      - chapter: 3
+        title:  Servicios sociales 
+        page: 53
+      - chapter: 4
+        title:  Igualdad 
+        page: 54
+      - chapter: 5
+        title:  Violencia de género 
+        page: 55
+      - chapter: 6
+        title:  Infancia y juventud 
+        page: 57
+      - chapter: 7
+        title:  Animales de compañía
+  - chapter: 7
+    title: Más oportunidades para las personas  
+    page: 59
+    children:    
+      - chapter: 1
+        title:  Movilidad 
+        page: 61
+      - chapter: 2
+        title:  Infraestructuras 
+        page: 62
+      - chapter: 3
+        title:  Vivienda y urbanismo 
+        page: 63
+      - chapter: 4
+        title:  Cultura 
+        page: 64
+  - chapter: 8
+    title: Una España sostenible con futuro 
+    page: 67
+    children:    
+      - chapter: 1
+        title:  Energía y cambio climático 
+        page: 69
+      - chapter: 2
+        title:  Medio ambiente 
+        page: 71
+      - chapter: 3
+        title:  Agricultura, ganadería y pesca 
+        page: 72
+      - chapter: 4
+        title:  Agua 
+        page: 75
+      - chapter: 5
+        title:  Medio rural 
+        page: 76
+  - chapter: 9
+    title: Una Mejor Democracia 
+    page: 78
+    children:    
+      - chapter: 1
+        title:  Justicia 
+        page: 80
+      - chapter: 2
+        title:  Función pública 
+        page: 82
+      - chapter: 3
+        title:  Transparencia y regeneración 
+        page: 84
+  - chapter: 10
+    title: Retos globales de una Sociedad Abierta 
+    page: 86
+    children:    
+      - chapter: 1
+        title:  Terrorismo 
+        page: 90
+      - chapter: 2
+        title:  Inmigración 
+        page: 91
+      - chapter: 3
+        title:  Lucha contra la ocupación de viviendas 
+        page: 92
+      - chapter: 4
+        title:  Lucha contra el comercio ilegal 
+        page: 93
+      - chapter: 5
+        title:  Lucha contra la explotación sexual 
+        page: 94
+      - chapter: 6
+        title:  Seguridad vial 
+        page: 94
+      - chapter: 7
+        title:  Seguridad y emergencias 
+        page: 94
+      - chapter: 8
+        title:  Acción exterior 
+        page: 95
+      - chapter: 9
+        title:  Unión Europea 
+        page: 96
+      - chapter: 10
+        title:  Defensa 
+        page: 99
+      - chapter: 11
+        title:  Cooperación 
+        page: 100
+      - chapter: 12
+        title:  Emigración 
+        page: 101
