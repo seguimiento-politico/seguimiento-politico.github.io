@@ -7,7 +7,7 @@ layout: default_document
 {% endif %}
 
 {% assign doc = site.data.documents.[page.doc_name] %}
-{% assign reference_data = site.data.references.[doc.type] | where: 'id', doc.id %}
+{% assign reference_data = site.data.documents | where: 'id', doc.id %}
 
 {% include document_search.html %}
 

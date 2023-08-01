@@ -128,11 +128,11 @@
     </div>
     <div class="card-footer">
         {% assign type = item[0].ref_type %}
-        {% assign source = site.data.references.[type] | where: "id", item[0].ref_id %}
+        {% assign source = site.data.documents | where: "id", item[0].ref_id %}
         {% assign url = source[0].url %}
         {% if item[0].ref_page %}
             {% assign url = url | append: '#page=' | append: item[0].ref_page %}
-            {% assign text = 'pag. ' | append: item[0].ref_page | append: ", art. " | append: item[0].ref_.section %}
+            {% assign text = 'pag. ' | append: item[0].ref_page | append: ", art. " | append: item[0].ref_section %}
         {% endif %}
         {% if item[0].ref_text %}
             {% assign text = item[0].ref_text %}
