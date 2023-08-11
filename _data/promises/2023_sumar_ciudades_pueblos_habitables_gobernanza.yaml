@@ -8,30 +8,20 @@ parties:
 ref_type: manifesto
 ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
 ref_page: 74
-ref_parent_chapter: 
-ref_section: "5.1, 9-11"
+ref_parent_chapter: "1.5.1"
+ref_section: "9"
 categories:
-  - Medioambiente y biodiversidad
   - Vivienda y urbanismo
-  - Derechos y servicios sociales
   - Organización estatal y administraciones públicas
-title: Creación de un programa estatal para los barrios vulnerables.
+  - Democracia
+title: Marco de colaboración y coordinación de políticas urbanas.
 statements:
   -
     id: 1
-    quote: <b>Marco de colaboración y coordinación de políticas urbanas.</b> Queremos avanzar hacia una gobernanza colaborativa interdepartamental y hacia una gobernanza multinivel en relación al tema urbano, en donde la consecución de objetivos se ponga por delante de la tradicional lógica de defensa de las competencias propias.
+    quote: Queremos avanzar hacia una gobernanza colaborativa interdepartamental y hacia una gobernanza multinivel en relación al tema urbano, en donde la consecución de objetivos se ponga por delante de la tradicional lógica de defensa de las competencias propias.
   -
     id: 2
-    quote: Así, en colaboración con las comunidades autónomas, los entes locales y la sociedad civil, se avanzará en la constitución de entes metropolitanos para gobernar las áreas funcionales de las ciudades de mayor tamaño. Se incentivará la coordinación de las políticas municipales en estas áreas funcionales, con la participación de todos los agentes implicados.
-  -
-    id: 3
-    quote: <b>Creación de una red estatal sobre urbanismo y cambio climático.</b> La urgencia de la situación nos obliga a implementar cambios en nuestros pueblos, barrios y ciudades que permitan un mayor control sobre los efectos de las altas temperaturas, las sequías y las lluvias torrenciales u otras situaciones climáticas extremas.
-  -
-    id: 4
-    quote: "Para ello, se propone la creación de una red compuesta por representantes de consejos municipales de Medio Ambiente, de colectivos ambientalistas y de transformación urbana, cuyo primer objetivo sea impulsar un marco legal que propicie la disminución de los efectos del cambio climático en nuestros barrios y ciudades. El marco de acción son: el espacio público urbano (calles, plazas, parques, vías de comunicación) y los espacios de lo público (escuelas, mercados, hospitales...)."
-  -
-    id: 5
-    quote: Las ciudades deben convertirse en un laboratorio de investigación medioambiental que pueda sustentar, además, un verdadero espacio coeducativo. Estas prácticas servirán asimismo a la mejora de la equidad y la cohesión social, puesto que la brecha existente con las ciudades y los barrios más desfavorecidos se amplía con los efectos sobrevenidos por el cambio climático, dificultando más (si cabe) la vida cotidiana, el ocio, los cuidados y el trabajo en estos entornos más vulnerables.
-  -
-    id: 5
-    quote: <b>Refuerzo de la capacidad administrativa y técnica de los ayuntamientos.</b> Se llevará a cabo un estudio sobre cómo está funcionando la administración local con relación a la puesta en marcha de políticas urbanas sostenibles, innovadoras e integradas en municipios de cualquier tamaño. Se identificarán los obstáculos y se actuará con el fin de reforzar la capacidad administrativa y técnica de los ayuntamientos y de las diputaciones provinciales. Se contempla el refuerzo de las plantillas a través de un nuevo marco de financiación específico.
+    quote: Así, en colaboración con las comunidades autónomas, los entes locales y la sociedad civil, se avanzará en la constitución de entes metropolitanos para gobernar las áreas funcionales de las ciudades de mayor tamaño. 
+  - id: 3
+    quote: Se incentivará la coordinación de las políticas municipales en estas áreas funcionales, con la participación de todos los agentes implicados.
+  

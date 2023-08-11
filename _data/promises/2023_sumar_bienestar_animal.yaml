@@ -8,38 +8,18 @@ parties:
 ref_type: manifesto
 ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
 ref_page: 56
-ref_parent_chapter: 
-ref_section: "IX
-    "
+ref_parent_chapter: "1.3.IX"
+ref_section: "1"
 categories:
   - Derechos y servicios sociales
-title: Protección y bienestar animal
-description: La protección y el bienestar de los animales es una prioridad para Sumar. Los animales conviven con las personas como parte de la familia, forman parte de nuestro entorno en el ámbito doméstico, en el medio rural y son parte de nuestro sistema productivo. Con los animales silvestres compartimos además el territorio, ya vivan en espacios naturales o en nuestras mismas ciudades. Todos merecen atención y respeto, y por eso Sumar propone una serie de medidas para garantizar su bienestar.
+topics: [Bienestar animal, Tauromaquia]
+title: Derogación de la Ley 18/2013 de protección cultural y patrimonial de la tauromaquia
 statements:
   -
     id: 1
-    quote: <b>Derogación de la Ley 18/2013 de protección cultural y patrimonial de la tauromaquia</b>. Protección de menores limitando su participación en espectáculos crueles con animales. Supresión de la financiación pública de los espectáculos taurinos con muerte del animal.
-  -
-    id: 2
-    quote: <b>Reconocimiento de las clínicas veterinarias como centros sanitarios y reducción del IVA</b> de los servicios veterinarios al 10%.
-  -
-    id: 3
-    quote: <b>Desarrollo de planes estatales contra el maltrato a los animales</b>. Dotación presupuestaria destinada a fuerzas y cuerpos de seguridad, ámbitos judiciales y sociales.
-  -
-    id: 4
-    quote: Desarrollo de estrategia educativa en materia de empatía, convivencia y derechos de los animales en el sistema educativo, cumpliendo la LOMLOE y ampliando a los diferentes sistemas educativos.
-  -
-    id: 5
-    quote: <b>Inclusión de los animales de compañía de trabajo en la Ley de Protección, Derechos y Bienestar de los Animales (7/2023)</b> y aprobación del reglamento de desarrollo de la Ley 7/2023.
-  -
-    id: 6
-    quote: Desarrollo de la legislación de grandes simios, ampliando su protección y derechos.
-  -
-    id: 7
-    quote: <b>Avanzar en la transformación de los espacios zoológicos</b> para que se conviertan en garantes de los planes de conservación sobre los conceptos de exhibición. Acabaremos paulatinamente con la cautividad de delfines y otros cetáceos, así como de los espectáculos en los que participan.
-  -
-    id: 8
-    quote: <b>Desarrollo de la Directiva 2010/63/UE</b> del Parlamento Europeo y del Consejo Europeo relativa a la protección de los animales utilizados para fines científicos.
-  -
-    id: 9
-    quote: <b>Ampliaremos los recursos, subvenciones, ayudas y convenios estatales</b> a entidades de protección animal y reforzaremos, con recursos y reconocimiento, las ciudades y pueblos amigos de los animales.
+    quote: Derogación de la Ley 18/2013 de protección cultural y patrimonial de la tauromaquia.
+  - id: 2
+    quote: Protección de menores limitando su participación en espectáculos crueles con animales. 
+  - id: 3
+    quote: Supresión de la financiación pública de los espectáculos taurinos con muerte del animal.
+  

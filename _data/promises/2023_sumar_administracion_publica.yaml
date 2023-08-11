@@ -8,31 +8,26 @@ parties:
 ref_type: manifesto
 ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
 ref_page: 17
-ref_parent_chapter: 
-ref_section: "IX"
+ref_parent_chapter: "1.1.1.IX"
+ref_section: "1"
 categories:
   - Organización estatal y administraciones públicas
-title: Una administración pública mejor dotada para el servicio a la ciudadanía
+  - Trabajo
+title: Reforma de la Administración pública para mejorar la atención a la ciudadanía.
+description: La Administración pública necesita un amplio proceso de reformas para conseguir mejorar la atención y los servicios que presta a la ciudadanía española. 
 statements:
   -
     id: 1
-    quote: <b>Reforma de la Administración pública para mejorar la atención a la ciudadanía.</b> La Administración pública necesita un amplio proceso de reformas para conseguir mejorar la atención y los servicios que presta a la ciudadanía española. Para conseguirlo, será preciso actuar para corregir la reducción de las plantillas en el sector público, recuperar tasas positivas de reposición que nos permitan afrontar el problema del envejecimiento y de la jubilación de las plantillas de muchos servicios públicos en pocos años en muchos servicios públicos. Al mismo tiempo, es necesario mejorar los procesos de estabilización laboral iniciados con la Ley 20/2021 de medidas urgentes para la reducción de la temporalidad en el empleo público. Se requiere también la puesta en marcha de reformas normativas, al menos en los siguientes ámbitos; el de la gestión a objetivos, que debe ser mejorada; el de la contratación pública estratégica, innovadora y de «impacto», que debe potenciarse mediante los conciertos sociales como una herramienta de intervención social; el de los puestos directivos, en el que debe mejorarse la profesionalización y cambiar los procesos de selección.
-  -
-    id: 2
-    quote: <b>Promoveremos medidas de innovación y transversalidad en las Administraciones públicas.</b> Para evitar un funcionamiento excesivamente burocrático y rígido de las Administraciones públicas, se impulsarán medidas de cambio e innovación en estas para hacerlas más flexibles, más capaces de responder a la complejidad de la sociedad actual y más abiertas al conjunto de la ciudadanía. Entre otras, proponemos; a través de enfoques integrales y transversales, partir de la naturaleza de cada problema, en lugar de hacerlo a través de la actual lógica de fragmentación competencial; utilizar las nuevas tecnologías para conocer mejor las necesidades de la ciudadanía (mejora de diagnósticos) y adaptar las respuestas a las necesidades de cada persona, colectivo o territorio; potenciar las lógicas de trabajo colaborativo entre la ciudadanía y las Administraciones públicas, y unificar sistemas informáticos y bases de datos que eviten trámites innecesarios y duplicidades.
-  -
-    id: 3
-    quote: <b>Mejora de la gestión de las prestaciones sociales y vuelta a la atención presencial plena.</b> La reducción de las plantillas de trabajadores del sector público, como resultado de los recortes aplicados por Gobiernos anteriores, así como la eliminación de la atención presencial exigida por la política de distanciamiento social para luchar contra el COVID-19, han limitado el acceso a la atención presencial en la Administración pública para muchas personas, sin haber ido acompañada de una mejora suficiente del acceso por medios digitales. Esto provoca un peor servicio público. La atención presencial debe estar disponible para la ciudadanía en todos los niveles de la Administración, a la vez que debe potenciarse la administración electrónica, siempre como una herramienta de mejora del servicio, y no como sustitución obligatoria de la atención presencial.
-  -
-    id: 4
-    quote: <b>Impulsaremos la reforma inmediata de los sistemas de financiación de las comunidades autónomas y de las corporaciones locales.</b> Reformas que, en ambos casos, estarán basadas en tres ejes fundamentales. El primero es garantizar recursos suficientes para prestar los servicios públicos descentralizados de acuerdo con la población beneficiaria, incorporando bases mínimas de gastos sociales y teniendo en cuenta los criterios necesarios para contemplar las necesidades financieras de cada comunidad, por las vías jurídicas coherentes con el marco constitucional. En este sentido, se abordarán los problemas de la infrafinanciación y de la deuda acumulada como consecuencia de ello. El segundo es potenciar la capacidad de autogobierno para comunidades autónomas y municipios, garantizando en este caso su participación de los ingresos autonómicos, en línea con el informe de la comisión de expertos para la revisión del modelo de financiación local de 2017. Siempre que se asegure una cartera básica de servicios, la ciudadanía de cada territorio debe tener la posibilidad de ajustar gastos e ingresos fiscales a las preferencias mayoritarias. En tercer lugar, fomentar la claridad y la transparencia para que la ciudadanía diferencie correctamente las responsabilidades de cada nivel de gobierno, incorporando todos los recursos tributarios en los cálculos de distribución de fondos públicos. Esta es una condición imprescindible para la rendición de cuentas propia de una democracia.
-  -
-    id: 5
-    quote: <b>Refuerzo de las herramientas de cogobierno existentes.</b> En particular, la Conferencia de Presidentes y Presidentas debe ser convocada al menos una vez al año para avanzar y resolver la agenda de asuntos pendientes que sean relevantes para el ejercicio del autogobierno y la cogobernanza. En segundo lugar, el Consejo de Política Fiscal y Financiera debe ser reformado para que sea una herramienta clave y eficaz en la resolución de todos los asuntos de naturaleza financiera que atañen a las comunidades autónomas. Debe contar con los recursos humanos y financieros necesarios para realizar todo el trabajo técnico. Deben cambiarse las reglas de votación para que el Gobierno central no tenga garantizada la aprobación de sus propuestas, sino que sea siempre necesario el diálogo y el pacto con las autonomías.
-  -
-    id: 6
-    quote: <b>Reforma de la Ley de Estabilidad Presupuestaria.</b> Es necesario reformar la ley en vigor, diseñada para institucionalizar la austeridad en España. Lo que se necesita, al contrario, es hacer compatible la sostenibilidad de las finanzas públicas y la estabilidad de la deuda con la inversión y el papel proactivo que debe tener la política fiscal para abordar las transiciones ecológica y digital e impulsar el pleno empleo. La experiencia de la última década pone de manifiesto que los efectos negativos sobre el crecimiento de los recortes de gasto acaban siendo contraproducentes para la estabilidad fiscal, que la política fiscal debe aplicarse con flexibilidad para adaptarse a las circunstancias, y que los efectos positivos de la inversión pública son la mejor fórmula para una reducción progresiva de las ratios de deuda.
-  -
-    id: 7
-    quote: <b>Potenciaremos los sistemas de evaluación de políticas públicas.</b> Para conseguirlo es preciso en primer lugar dotar de recursos operativos a la Oficina Nacional de Evaluación creada a finales de 2021. Es importante que aborde la elaboración de informes obligatorios sobre la sostenibilidad financiera, la eficacia y eficiencia de los proyectos de concesiones públicas y privadas en todas las Administraciones públicas que impliquen compromisos plurianuales por emplear grandes volúmenes de recursos públicos. En segundo lugar, se posibilitará que las mayorías del Parlamento nacional, de los regionales y de grandes municipios, puedan instar la emisión de informes a la AIREF, que en estos momentos está limitada a los Gobiernos. En tercer lugar, se mejorará la transparencia y la disponibilidad de datos para la evaluación externa de las políticas públicas. Para el diseño y puesta en marcha de nuevas políticas públicas es importante disponer de un sistema de homologación de toda la información administrativa que actualmente está a disposición de las administraciones públicas (en todos los niveles) para facilitar su utilización por parte de la Administración y de los investigadores.
-  
+    quote: Para conseguirlo, será preciso actuar para corregir la reducción de las plantillas en el sector público, recuperar tasas positivas de reposición que nos permitan afrontar el problema del envejecimiento y de la jubilación de las plantillas de muchos servicios públicos en pocos años en muchos servicios públicos. 
+  - id: 2
+    quote: Al mismo tiempo, es necesario mejorar los procesos de estabilización laboral iniciados con la Ley 20/2021 de medidas urgentes para la reducción de la temporalidad en el empleo público. 
+  - id: 3
+    quote: Se requiere también la puesta en marcha de reformas normativas, al menos en los siguientes ámbitos;
+    partial: ini
+  - id: 4 
+    quote: el de la gestión a objetivos, que debe ser mejorada; 
+  - id: 5
+    quote: el de la contratación pública estratégica, innovadora y de «impacto», que debe potenciarse mediante los conciertos sociales como una herramienta de intervención social; 
+  - id: 6
+    quote: el de los puestos directivos, en el que debe mejorarse la profesionalización y cambiar los procesos de selección.
+    partial: end

@@ -1,0 +1,20 @@
+id: af3d66cb-096d-42d0-8dcf-9523378d1ec5
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 53
+ref_parent_chapter: "1.4.1.VI"
+ref_section: "12"
+categories:
+  - Medioambiente y biodiversidad
+title: "Estrategia nacional de infraestructuras verdes, conectividad y restauración ecológica"
+statements:
+  -
+    id: 1
+    quote: "Aprobaremos una estrategia nacional de infraestructuras verdes, conectividad y restauración ecológica que fomente la integración de la biodiversidad y los servicios ecosistémicos mediante una ordenación territorial basada en soluciones naturales, la conexión de ecosistemas terrestres y fluviales mediante corredores ecológicos e infraestructuras urbanas y la justa asignación del valor correspondiente a los servicios ambientales."
+  

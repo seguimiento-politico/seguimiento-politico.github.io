@@ -1,0 +1,22 @@
+id: b73ea7eb-1cc9-4548-92a3-45262ce313ea
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 73
+ref_parent_chapter: "1.5.1"
+ref_section: "5-7"
+categories:
+  - Territorio
+  - Vivienda y urbanismo
+title: Recuperación y derecho a uso en la España vaciada
+statements:
+  -
+    id: 1
+    quote: Creemos necesario generar un marco legal, en cooperación con las comunidades autónomas y los entes locales, para el impulso de proyectos de rehabilitación y recuperación de pueblos abandonados o en vías de abandono. 
+  - id: 2
+    quote: Estará dirigido a personas o colectivos y se actuará mediante la presentación de proyectos a la Administración pública, que hará el seguimiento de los mismos y que financiará con inversión pública las infraestructuras necesarias para garantizar la conectividad y el acceso.

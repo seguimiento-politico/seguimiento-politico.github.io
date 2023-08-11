@@ -1,0 +1,19 @@
+id: 2c645d9d-ae94-4db6-ad02-9f4cc06968b6
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 52
+ref_parent_chapter: "1.4.1.VI"
+ref_section: "3"
+categories:
+  - Medioambiente y biodiversidad
+title: "Impulso de la protección del mar y su biodiversidad"
+statements:
+  -
+    id: 1
+    quote: Con la vocación de alcanzar los objetivos de protección de, al menos, un 30% de la superficie marina para 2030, se impulsará un aumento de las reservas marinas en aguas exteriores, así como una protección de aquellos ecosistemas especialmente singulares, como la posidonia oceánica, entre otros.

@@ -1,0 +1,28 @@
+id: 2da88433-3a08-49e5-9e94-8ea265a208f3
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 67
+ref_parent_chapter: "1.4.3"
+ref_section: "2"
+topics: [Alimentación saludable]
+categories:
+  - Consumo
+  - Impuestos y financiación pública
+title: Política fiscal para incentivar el consumo de alimentos saludables y sostenibles y reducir el de alimentos no saludables ni sostenibles.
+description: "Alimentación saludable: La puesta en marcha de una seguridad social alimentaria que garantice el derecho a una alimentación saludable y sostenible para toda la población puede alcanzarse mediante la combinación de medidas de diversa índole, como propuestas legislativas y fiscales, el apoyo económico a familias vulnerables, el fomento de la organización productiva y logística de alimentos sostenibles o la compra pública."
+statements:
+  -
+    id: 1
+    quote: "El precio es el principal condicionante en la compra de alimentos para las familias con rentas menores; por eso, introduciremos beneficios fiscales o ayudas económicas a los alimentos saludables y sostenibles (frutas, hortalizas, legumbres, cereales integrales; provenientes de canales cortos, poco procesados, agroecológicos) que favorezcan un aumento de su consumo, especialmente entre la población vulnerable."
+    partial: ini
+  -
+    id: 2
+    quote: "Complementariamente, y dadas las elevadas tasas de obesidad y sobrepeso infantil que tenemos en España, estableceremos políticas fiscales que desincentiven y reduzcan el consumo de los alimentos no saludables (ultraprocesados, batidos, refrescos...) dirigidos especialmente a la infancia, para lograr un cambio sustancial del modelo alimentario actual y, como consecuencia, mejorar la salud de la población."
+    partial: end
+  

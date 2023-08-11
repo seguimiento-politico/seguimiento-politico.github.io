@@ -1,0 +1,25 @@
+id: 4abe5b04-d6b9-4700-b5ae-9fd0f314c649
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 18
+ref_parent_chapter: "1.1.1.IX"
+ref_section: "4"
+categories:
+  - Organización estatal y administraciones públicas
+title: Impulsaremos la reforma inmediata de los sistemas de financiación de las comunidades autónomas y de las corporaciones locales.
+description: Reformas que, en ambos casos, estarán basadas en tres ejes fundamentales.
+statements:
+  -
+    id: 1
+    quote: El primero es garantizar recursos suficientes para prestar los servicios públicos descentralizados de acuerdo con la población beneficiaria, incorporando bases mínimas de gastos sociales y teniendo en cuenta los criterios necesarios para contemplar las necesidades financieras de cada comunidad, por las vías jurídicas coherentes con el marco constitucional. En este sentido, se abordarán los problemas de la infrafinanciación y de la deuda acumulada como consecuencia de ello. 
+  - id: 2
+    quote: El segundo es potenciar la capacidad de autogobierno para comunidades autónomas y municipios, garantizando en este caso su participación de los ingresos autonómicos, en línea con el informe de la comisión de expertos para la revisión del modelo de financiación local de 2017. Siempre que se asegure una cartera básica de servicios, la ciudadanía de cada territorio debe tener la posibilidad de ajustar gastos e ingresos fiscales a las preferencias mayoritarias. 
+  - id: 3
+    quote: En tercer lugar, fomentar la claridad y la transparencia para que la ciudadanía diferencie correctamente las responsabilidades de cada nivel de gobierno, incorporando todos los recursos tributarios en los cálculos de distribución de fondos públicos. Esta es una condición imprescindible para la rendición de cuentas propia de una democracia.
+  

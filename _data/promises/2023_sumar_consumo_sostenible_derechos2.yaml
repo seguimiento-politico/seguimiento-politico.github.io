@@ -1,0 +1,26 @@
+id: 22dd4e6a-9713-4619-a237-83027c4b09b6
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 20
+ref_parent_chapter: "1.1.2"
+ref_section: "2"
+categories:
+  - Consumo
+  - Agua
+  - Energía
+topics: [consumo responsable, alimentación, juego]
+title: Acceso garantizado a los suministros básicos de agua, energía y calefacción a todos los hogares.
+statements:
+  -
+    id: 1
+    quote: Se impedirá el corte de estos suministros a las familias y personas en situación de vulnerabilidad. 
+  - id: 2
+    quote: Se implantará un nuevo sistema tarifario para el consumidor doméstico que sea progresivo en relación con el consumo, incluyendo las características de la unidad familiar. En especial, se establecerá una tarificación social que asegure el acceso a un consumo mínimo vital de agua y energía (gas y electricidad). 
+  - id: 3
+    quote: También se facilitará el cambio a sistemas de climatización y agua caliente con energías renovables, así como la rehabilitación energética de viviendas para reducir las necesidades de suministro.

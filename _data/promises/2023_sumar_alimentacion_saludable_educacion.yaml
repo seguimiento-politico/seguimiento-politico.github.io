@@ -8,48 +8,24 @@ parties:
 ref_type: manifesto
 ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
 ref_page: 69
-ref_parent_chapter: 
-ref_section: "4.3 I, 7-9"
+ref_parent_chapter: "1.4.3.I"
+ref_section: "7"
+topics: [Alimentación saludable]
 categories:
-  - Alimentación
+  - Consumo
   - Educación
-  - Ciencia y tecnología
+  - Trabajo
   - Sanidad
   - Derechos y servicios sociales
-title: "Alimentación saludable: Educación e información para fomentar una alimentación saludable y sostenible"
+title: "Educación nutricional para todas las personas"
 statements:
   -
     id: 1
-    quote: <b>Educación nutricional para todas las personas</b> con objeto de incidir positivamente en la reducción de enfermedades, el ahorro de recursos sanitarios y el mayor bienestar de la población
+    quote: con objeto de incidir positivamente en la reducción de enfermedades, el ahorro de recursos sanitarios y el mayor bienestar de la población
   -
     id: 2
     quote: "Incorporaremos en los contenidos básicos curriculares, tanto de educación primaria y secundaria como en los grados universitarias del ámbito sanitario, asignaturas obligatorias sobre alimentación saludable y sostenible. Se incorporarán en el currículo del resto de carreras y ciclos formativos medios y superiores como asignaturas optativas. Todo ello respetando el ámbito competencial y en coordinación con las comunidades autónomas."
-    partial: ini
   -
     id: 3
     quote: "Se diseñarán programas específicos de alimentación y nutrición relacionados con la salud y el bienestar para la formación del personal docente."
-    partial: end
-  -
-    id: 4
-    quote: <b>Información y comunicación sobre la calidad y salubridad de los alimentos</b>
-  -
-    id: 5
-    quote: "Se difundirán recomendaciones alimentarias para promover un patrón dietético saludable y sostenible con el medio ambiente, como las publicadas a nivel estatal por la Agencia Española de Seguridad Alimentaria y Nutrición. Se evitarán los mensajes que puedan llevar a confusión."
-  -
-    id: 6
-    quote: "Garantizaremos el derecho de la infancia a una alimentación saludable. Se regulará por ley la publicidad en las comunicaciones comerciales de alimentos y bebidas dirigida al público infantil y juvenil."
-  -
-    id: 7
-    quote: "Apostaremos por la progresiva retirada de alimentos no saludables en los centros educativos, incluyendo cafeterías y máquinas de vending, así como aquellas situadas en otros espacios de acceso a colectivos vulnerables (hospitales o residencias de mayores, entre otros)."
-  -
-    id: 8
-    quote: <b>Inclusión de dietistas-nutricionistas en los sistemas públicos de salud y formación en alimentación de los profesionales de la salud</b>
-  -
-    id: 9
-    quote: "Trabajaremos para que toda la población tenga acceso a equipos multidisciplinares formados en alimentación, para la prevención temprana y tratamiento de las diferentes patologías asociadas a la mala alimentación."
-  -
-    id: 10
-    quote: "Siempre que sea posible, se incorporará en todos los equipos de los centros de atención primaria y hospitales públicos a dietistas-nutricionistas para tal fin y se realizarán acciones formativas dirigidas a los profesionales de la salud pública comunitaria y la geriatría, por su potencial incidencia sobre el cambio de hábitos de salud entre la población."
-  -
-    id: 11
-    quote: "Se garantizará la formación en alimentación saludable y sostenible y en todos los componentes del Sistema de Seguridad Alimentaria de estos profesionales en contacto con la ciudadanía."
+  

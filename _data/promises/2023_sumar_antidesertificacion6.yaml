@@ -1,0 +1,23 @@
+id: 2a74193d-f6b0-4989-a186-94c3d8c2b6aa
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 50
+ref_parent_chapter: "1.4.1.V"
+ref_section: "7"
+categories:
+  - Medioambiente y biodiversidad
+  - Cambio climático
+  - Energía
+  - Agua
+  - Infraestructuras
+title: " Apuesta por alternativas hídricas disponibles."
+statements:
+  -
+    id: 1
+    quote: "Promoveremos la desalinización del agua de mar y de caudales salobres, así como la regeneración y la reutilización de retornos, en territorios costeros, usando energía solar y eólica."

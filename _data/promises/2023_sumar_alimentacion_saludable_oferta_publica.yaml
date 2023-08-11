@@ -8,10 +8,11 @@ parties:
 ref_type: manifesto
 ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
 ref_page: 70
-ref_parent_chapter: 
-ref_section: "4.3 II, 10"
+ref_parent_chapter: "1.4.3.II"
+ref_section: "10"
+topics: [Alimentación saludable]
 categories:
-  - Alimentación
+  - Consumo
   - Sanidad
   - Derechos y servicios sociales
   - Economía y fiscalidad

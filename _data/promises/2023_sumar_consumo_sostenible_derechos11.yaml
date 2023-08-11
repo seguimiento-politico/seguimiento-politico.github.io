@@ -1,0 +1,20 @@
+id: ec3c1711-e817-463a-b011-ab589eec32e1
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 21
+ref_parent_chapter: "1.1.2"
+ref_section: "11"
+categories:
+  - Consumo
+title: Aprobación de una ley de loot boxes o cajas botín
+description: Recientemente se han incorporado en los videojuegos mecanismos aleatorios de recompensa que ofrecen mejoras, premios o alicientes para las personas jugadoras. Estas recompensas son conocidas como loot boxes o cajas botín. 
+statements:
+  -
+    id: 1
+    quote: La expansión y normalización de estos mecanismos dentro de los videojuegos requiere un abordaje integral para proteger a la población menor de edad de la posible exposición a dinámicas de apuestas y juegos de azar desde etapas tempranas de la vida.

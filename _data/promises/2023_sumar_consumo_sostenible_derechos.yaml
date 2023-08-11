@@ -7,67 +7,26 @@ parties:
   - SUMAR
 ref_type: manifesto
 ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-ref_page: 19
-ref_parent_chapter: 
-ref_section: "1.1.2"
+ref_page: 20
+ref_parent_chapter: "1.1.2"
+ref_section: "1"
 categories:
   - Consumo
-  - Agua
-  - Energía
-  - Alimentación
   - Medioambiente y biodiversidad
-  - Derechos y servicios sociales
-  - Organización estatal y administraciones públicas
-tags: [consumo responsable, alimentación, juego]
-title: Consumo sostenible y con derechos
+title: Aprobación de una estrategia para la reducción del impacto ecológico del consumo.
 statements:
   -
     id: 1
-    quote: <b>Aprobación de una estrategia para la reducción del impacto ecológico del consumo.</b> Impulsaremos patrones de consumo más saludables y sostenibles. Esta estrategia incluirá información, sensibilización y herramientas para que las personas conozcan el impacto ecológico de lo que consumen y reduzcan su huella ecológica. Se fomentarán también los canales cortos de producción-distribución-consumo, especialmente en el ámbito de la alimentación. Se fomentará el ocio alternativo, saludable y sostenible vinculado a las oportunidades territoriales y estacionales. Se reforzará el conocimiento de la dieta mediterránea y de los alimentos tradicionales y de temporada. Se fomentarán las alternativas de movilidad pública colectiva y la mejora de la eficiencia energética en las viviendas. Finalmente, se fomentarán la reparabilidad y la durabilidad y se tomarán medidas contra la publicidad engañosa en materia de sostenibilidad (greenwashing), la obsolescencia programada y el desperdicio tecnológico y alimentario.
-  -
-    id: 2
-    quote: <b>Acceso garantizado a los suministros básicos de agua, energía y calefacción a todos los hogares.</b> Se impedirá el corte de estos suministros a las familias y personas en situación de vulnerabilidad. Se implantará un nuevo sistema tarifario para el consumidor doméstico que sea progresivo en relación con el consumo, incluyendo las características de la unidad familiar. En especial, se establecerá una tarificación social que asegure el acceso a un consumo mínimo vital de agua y energía (gas y electricidad). También se facilitará el cambio a sistemas de climatización y agua caliente con energías renovables, así como la rehabilitación energética de viviendas para reducir las necesidades de suministro.
-  -
-    id: 3
-    quote: <b>Refuerzo de los derechos de las personas consumidoras.</b> Se potenciará que la ciudadanía cuente con mecanismos ágiles, gratuitos y universales para defenderse, para la protección y la representación ante conflictos, fraudes y abusos en materia de consumo frente a empresas. Para ello, se reforzará y modernizará el Sistema Arbitral de Consumo, se fomentará el asociacionismo, renovando e impulsando el Consejo de Consumidores y Usuarios, y se mejorarán los mecanismos procesales a favor de las acciones de representación de las personas consumidoras. Se incrementará el presupuesto destinado a las políticas de protección de personas consumidoras y usuarias, mejorando la coordinación interterritorial e interadministrativa.
-  -
-    id: 4
-    quote: <b>Aprobación de un plan integral de formación en materia de consumo y protección de los consumidores.</b> Se hace necesario garantizar a diversos públicos el acceso a la formación sobre el impacto social y medioambiental del modelo de producción y consumo actual, así como las alternativas de producción y consumo sostenibles existentes.
-  -
-    id: 5
-    quote: <b>Aprobación de una nueva Ley de Condiciones Generales de la Contratación</b>, con la finalidad de erradicar prácticas como las «cláusulas suelo», las tarjetas revolving o las hipotecas multidivisa, entre otras. Esta ley ha de recoger los principios inspiradores de la Directiva 93/13/CEE del Consejo, del 5 de abril de 1993, sobre las cláusulas abusivas en los contratos celebrados con consumidores, así como la jurisprudencia correspondiente del Tribunal de Justicia de la Unión Europea.
-  -
-    id: 6
-    quote: <p>Aprobación de una ley de servicios de atención a la clientela</p>, para regular los elementos que componen el derecho y el servicio de atención a la clientela, especialmente en suministros y servicios esenciales como el agua, la energía, el transporte y las telecomunicaciones. Esta ley abordará aspectos como la obligatoriedad de la atención personalizada, gratuita y accesible, los tiempos de espera, los plazos de respuesta o el seguimiento del estado de las quejas y sugerencias. 
-  -
-    id: 7 
-    quote: <b>Aseguraremos un etiquetado inclusivo y accesible.</b> La adecuada comprensión del etiquetado de bienes y productos es fundamental para la protección y la seguridad de la ciudadanía. Sin embargo, a pesar de los avances en materia de inclusión y accesibilidad, las dificultades para la lectura y la comprensión de las etiquetas sigue siendo una barrera para que muchas personas puedan ejercer sus derechos en igualdad de condiciones. Por ello, es necesario regular el desarrollo de etiquetados inclusivos, como el etiquetado en braille.
-  -
-    id: 8
-    quote: <b>Aprobación de una ley de regulación de la publicidad de alimentos no saludables dirigidos al público infantil.</b> Uno de los principales vectores para luchar contra la obesidad infantil es generar un entorno libre de bombardeos publicitarios de comida basura y no saludable. Ante el fracaso de los acuerdos de autorregulación de la industria relativos a los mensajes publicitarios para reducir el sobrepeso y la obesidad infantil, se abordará por ley una regulación que, siguiendo los criterios científicos internacionales de la Organización Mundial de la Salud (OMS), proteja a los menores de edad de la exposición a la publicidad de alimentos no saludables en los canales convencionales (TV, radio, prensa y revistas) y en las nuevas tecnología de la información, es decir, redes sociales, internet o influencers. En educación primaria se reforzará la formación sobre nutrición y alimentación saludable.
-  -
-    id: 9
-    quote: <b>Aprobación de una normativa estatal para la mejora de la composición y la calidad nutricional de los menús en los comedores escolares.</b> Una adecuada alimentación en edades tempranas es fundamental para generar hábitos alimentarios saludables, variados y sostenibles. Para ello, se deberá incorporar al menos un 45% de frutas y verduras, y la base de los menús deberá incorporar alimentos de temporada característicos de la dieta mediterránea, como hortalizas, legumbres, cereales, frutas, frutos secos y aceite de oliva. La normativa, además, regulará la oferta en las máquinas de vending y puntos de venta en centros educativos para que sea saludable.
-  -
-    id: 10
-    quote: <b>Actualización de la Ley de Regulación del Juego de 2011</b>, con el fin de garantizar que los menores de edad no accedan a productos de juego, que los jóvenes no incurran en prácticas de juego peligrosas y asegurar un mayor control sobre la venta de loterías instantáneas y sobre la verificación de la edad en la venta de productos de lotería. 
-  -
-    id: 11
-    quote: <b>Aprobación de una ley de loot boxes o cajas botín.</b> Recientemente se han incorporado en los videojuegos mecanismos aleatorios de recompensa que ofrecen mejoras, premios o alicientes para las personas jugadoras. Estas recompensas son conocidas como loot boxes o cajas botín. La expansión y normalización de estos mecanismos dentro de los videojuegos requiere un abordaje integral para proteger a la población menor de edad de la posible exposición a dinámicas de apuestas y juegos de azar desde etapas tempranas de la vida.
-  -
-    id: 12
-    quote: <b>Impulso de la compra pública responsable.</b> La Administración pública tiene un papel ejemplarizante que es fundamental para difundir prácticas de consumo responsable al conjunto de la sociedad española. Además, la compra pública responsable debe servir para incentivar modelos empresariales justos y sostenibles, facilitando el acceso a la contratación pública a aquellas empresas que hayan incorporado políticas para la mejora de las condiciones laborales y medidas de conciliación familiar, y hayan impulsado la participación de los trabajadores y las trabajadoras en la gobernanza de la empresa. De igual manera, se incentivará a aquellas empresas que presenten planes de sostenibilidad medioambiental sólidos y una política de compras que aseguren ingresos suficientes para los proveedores, corresponsabilidad en la relación comercial e información pública sobre sus prácticas de compra responsable.
-  -
-    id: 13
-    quote: <b>Aprobación de una estrategia estatal contra el lavado verde (greenwashing)</b> que identifique las prácticas abusivas, la publicidad engañosa y los falsos reclamos de las empresas en materia de sostenibilidad (con el fin de garantizar a las personas consumidoras el derecho a una información transparente, completa y veraz) y que defienda, además, los intereses económicos y sociales de las personas consumidoras y no fomente prácticas de consumo contrarias a la sostenibilidad.
-  -
-    id: 14
-    quote: <b>Garantizaremos el derecho a reparar de las personas consumidoras</b> por medio de una transposición rápida y efectiva de la normativa europea y de la monitorización de las buenas y malas prácticas de las empresas (en materias como el etiquetado, las garantías de durabilidad o la disponibilidad de piezas), así como con campañas de divulgación y sensibilización que incentiven la reparación frente a la sustitución.
-  -
-    id: 15
-    quote: <b>Garantizaremos el derecho a la información de los consumidores sobre las condiciones laborales y medioambientales en las que se han elaborado los productos que consumen.</b> Es fundamental proporcionar información exacta, verificable y clara que sea suficiente para tomar decisiones de compra con conocimiento de causa. Para hacer efectivo este derecho, pondremos en marcha una normativa dirigida a las empresas que asegure la transparencia y la trazabilidad de la elaboración de sus productos de forma comprensible y fácilmente accesible.
-  -
-    id: 16
-    quote: <b>Diseño de una estrategia para la erradicación de las «brechas digitales».</b> Esto es especialmente necesario en tres ámbitos; el territorial, con la creación de mecanismos para las zonas rurales donde el acceso a las nuevas tecnologías sea más difícil; el económico, para evitar la discriminación que pueda suponer el no disponer de acceso a estos servicios; y el de las habilidades, acabando con el desconocimiento de las oportunidades que ofrecen para el consumo.
-  
-  
+    quote: Impulsaremos patrones de consumo más saludables y sostenibles. 
+  - id: 2
+    quote: Esta estrategia incluirá información, sensibilización y herramientas para que las personas conozcan el impacto ecológico de lo que consumen y reduzcan su huella ecológica. 
+  - id: 3
+    quote: Se fomentarán también los canales cortos de producción-distribución-consumo, especialmente en el ámbito de la alimentación. 
+  - id: 4
+    quote: Se fomentará el ocio alternativo, saludable y sostenible vinculado a las oportunidades territoriales y estacionales. 
+  - id: 5
+    quote: Se reforzará el conocimiento de la dieta mediterránea y de los alimentos tradicionales y de temporada. 
+  - id: 6
+    quote: Se fomentarán las alternativas de movilidad pública colectiva y la mejora de la eficiencia energética en las viviendas. 
+  - id: 7
+    quote: Finalmente, se fomentarán la reparabilidad y la durabilidad y se tomarán medidas contra la publicidad engañosa en materia de sostenibilidad (greenwashing), la obsolescencia programada y el desperdicio tecnológico y alimentario.

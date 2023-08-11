@@ -1,0 +1,22 @@
+id: 97365f7a-0248-479b-91c9-c13d9bf3d455
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 20
+ref_parent_chapter: "1.1.2"
+ref_section: "5"
+categories:
+  - Consumo
+  - Derechos y servicios sociales
+title: Aprobación de una nueva Ley de Condiciones Generales de la Contratación
+statements:
+  -
+    id: 1
+    quote: con la finalidad de erradicar prácticas como las «cláusulas suelo», las tarjetas revolving o las hipotecas multidivisa, entre otras. 
+  - id: 2
+    quote: Esta ley ha de recoger los principios inspiradores de la Directiva 93/13/CEE del Consejo, del 5 de abril de 1993, sobre las cláusulas abusivas en los contratos celebrados con consumidores, así como la jurisprudencia correspondiente del Tribunal de Justicia de la Unión Europea.

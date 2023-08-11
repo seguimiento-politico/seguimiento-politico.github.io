@@ -8,94 +8,26 @@ parties:
 ref_type: manifesto
 ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
 ref_page: 67
-ref_parent_chapter: 
-ref_section: "4.3, 1-6"
+ref_parent_chapter: "1.4.3"
+ref_section: "1"
+topics: [Alimentación saludable]
 categories:
-  - Alimentación
-  - Agricultura
-  - Ganadería
-  - Pesca
-  - Sanidad
-  - Derechos y servicios sociales
-  - Educación
-  - Ciencia y tecnología
-title: Alimentación saludable
-description: "Alimentación saludable: La puesta en marcha de una seguridad social alimentaria que garantice el derecho a una alimentación saludable y sostenible para toda la población puede alcanzarse mediante la combinación de medidas de diversa índole, como propuestas legislativas y fiscales, el apoyo económico a familias vulnerables, el fomento de la organización productiva y logística de alimentos sostenibles o la compra pública."
+  - Consumo
+  - Consumo
+  - Agencias y órganos públicos
+title: Reforma de la Ley de Seguridad Alimentaria y Nutrición
+description: "para desarrollar instrumentos y políticas que garanticen el derecho a la alimentación saludable y sostenible, especialmente para la infancia y adolescencia."
 statements:
   -
     id: 1
-    quote: "<b>Reforma de la Ley de Seguridad Alimentaria y Nutrición</b> para desarrollar instrumentos y políticas que garanticen el derecho a la alimentación saludable y sostenible, especialmente para la infancia y adolescencia."
-  -
-    id: 2
     quote: "Actualización de la Estrategia NAOS, para reducir de forma efectiva el «entorno obesogénico», especialmente en el ámbito infantil y juvenil."
   -
-    id: 3
+    id: 2
     quote: "Impulso y dotación de más competencias y medios al Observatorio de la Nutrición y de Lucha contra la Obesidad."
   -
-    id: 4
+    id: 3
     quote: "Incorporación de las recomendaciones de la OMS en las políticas sobre la mejora de la calidad nutricional de alimentos y productos."
   -
-    id: 5
+    id: 4
     quote: "Desarrollar reglamentariamente esta ley en lo relativo a la fijación de unos criterios mínimos de alimentación saludable y sostenible en los comedores escolares, garantizando la presencia en los menús de un mínimo de alimentos de temporada y propios de la dieta mediterránea, de al menos un día vegetariano a la semana para todas y todos, así como una alternativa vegetariana diaria para el alumnado que lo desee (ya sea por razones de salud, éticas, religiosas, etcétera)."
-  -
-    id: 6
-    quote: "<b>Política fiscal para incentivar el consumo de alimentos saludables y sostenibles</b> y reducir el de alimentos no saludables ni sostenibles."
-  -
-    id: 7
-    quote: "El precio es el principal condicionante en la compra de alimentos para las familias con rentas menores; por eso, introduciremos beneficios fiscales o ayudas económicas a los alimentos saludables y sostenibles (frutas, hortalizas, legumbres, cereales integrales; provenientes de canales cortos, poco procesados, agroecológicos) que favorezcan un aumento de su consumo, especialmente entre la población vulnerable."
-    partial: ini
-  -
-    id: 8
-    quote: "Complementariamente, y dadas las elevadas tasas de obesidad y sobrepeso infantil que tenemos en España, estableceremos políticas fiscales que desincentiven y reduzcan el consumo de los alimentos no saludables (ultraprocesados, batidos, refrescos...) dirigidos especialmente a la infancia, para lograr un cambio sustancial del modelo alimentario actual y, como consecuencia, mejorar la salud de la población."
-    partial: end
-  -
-    id: 9
-    quote: "<b>Fomento de una red alternativa pública de distribución de alimentos.</b> Se fomentará económicamente la articulación de una red alternativa de distribución de alimentos basada en criterios sociales y agroecológicos con precios justos para los productores y las productoras, y consumidores y consumidoras, y atendiendo a criterios de accesibilidad territorial. Podrán vincularse a esta red de forma voluntaria todas aquellas iniciativas productivas que tengan un enfoque de sostenibilidad."
-  -
-    id: 10
-    quote: "<b>Creación de una red de espacios públicos comunitarios para facilitar el derecho a la alimentación saludable y sostenible</b> a escala de barrio o municipal."
-  -
-    id: 11
-    quote: "Uso de equipamientos públicos de proximidad (economatos cooperativos, centros de distribución de alimentos para redes asociativas, entre otros) en los que se pueda disponer de cocina y comedor colectivos y que pudieran vincularse a despensas comunitarias y a redes de distribución alternativa de alimentos agroecológicos."
-    partial: ini
-  -
-    id: 12
-    quote: "Fomento de políticas municipales dirigidas al desarrollo de huertos urbanos y de mercados municipales, con el fin de que se puedan aprovechar mejor estos espacios."
-  -
-    id: 13
-    quote: "Impulso de mercados de agricultores y de la venta directa de productos, tanto en explotaciones como en puntos de venta específicos."
-  -
-    id: 14
-    quote: "Acciones que favorezcan el encuentro y la colaboración, la búsqueda de soluciones colectivas, la visibilización de las tareas, el intercambio de conocimientos y recursos en torno a prácticas culinarias y la mejora de conocimientos de cocina, nutrición y gestión doméstica para hacer frente a la pobreza energética."
-    partial: end
-  -
-    id: 15
-    quote: "<b>Evaluación y monitorización de la inseguridad alimentaria</b> mediante mecanismos para que las estadísticas e indicadores determinen el grado de cumplimiento del derecho a la alimentación saludable y sostenible."
-  -
-    id: 16
-    quote: "Inclusión de este enfoque en las encuestas del INE a través de indicadores clave como el FIES, entre otros."
-    partial: ini
-  -
-    id: 17
-    quote: "Desarrollo de un informe periódico anual que genere recomendaciones de mejora para todas las políticas públicas mediante datos adecuados y desagregados en función de territorio (rural/urbano; centro/periferia), renta, edad, género, origen geográfico y cultura, entre otros, como los recogidos actualmente por el Observatorio por el Derecho de la Alimentación."
-  -
-    id: 18
-    quote: "Incorporación del enfoque de la alimentación como derecho en la negociación sobre la aprobación de la futura directiva de la UE sobre sistemas alimentarios sostenibles."
-    partial: end
-  -
-    id: 19
-    quote: "<b>Freno a la exposición a contaminantes químicos de origen alimentario</b>"
-  -
-    id: 20
-    quote: Apoyo a la producción y el consumo de alimentos libres de productos fitosanitarios, medicamentos o residuos químicos en la preparación, procesado y embalajes; favoreciendo la producción agroecológica frente a la convencional y los productos de la ganadería y la acuicultura libres de medicamentos.
-    partial: ini
-  -
-    id: 21
-    quote: Refuerzo de los controles de residuos de pesticidas en alimentos y estableciendo un sistema más seguro que no abuse del «uso excepcional».
-  -
-    id: 22
-    quote: Establecimiento de restricciones en la determinación de los límites máximos de residuos a partir del conocimiento científico generado.
-  -
-    id: 23
-    quote: Promoción de la reducción del uso del embalaje alimentario innecesario y eliminando los materiales de «un solo uso».
-    partial: end
+  

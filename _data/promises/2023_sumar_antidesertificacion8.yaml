@@ -1,0 +1,24 @@
+id: e7ec2c24-d85f-480c-945a-b2d13bf4df42
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 50
+ref_parent_chapter: "1.4.1.V"
+ref_section: "9"
+categories:
+  - Medioambiente y biodiversidad
+  - Agricultura
+  - Ganadería
+  - Agua
+title: "Reducción de la contaminación del agua"
+statements:
+  -
+    id: 1
+    quote: "Reducción de la contaminación del agua provocada por el uso excesivo de fertilizantes sintéticos y excrementos y purines de la ganadería industrial, priorizando aquellos que afectan a los espacios naturales con un alto interés para la biodiversidad."
+
+  

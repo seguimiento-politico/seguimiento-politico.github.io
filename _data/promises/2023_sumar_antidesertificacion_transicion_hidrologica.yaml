@@ -8,8 +8,8 @@ parties:
 ref_type: manifesto
 ref_id: 9e1b3a33-6a77-4879-97f2-bfd73ea1a939
 ref_page: 49
-ref_parent_chapter: 
-ref_section: "5"
+ref_parent_chapter: "1.4.1.V"
+ref_section: "2"
 categories:
   - Agua
   - Medioambiente y biodiversidad
@@ -17,7 +17,7 @@ categories:
   - Ganadería
   - Turismo
   - Vivienda y urbanismo
-title: "Antidesertificación: Estrategia nacional de transición hidrológica justa"
+title: "Estrategia nacional de transición hidrológica justa"
 statements:
   -
     id: 1

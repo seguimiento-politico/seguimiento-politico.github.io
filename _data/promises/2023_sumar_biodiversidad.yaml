@@ -7,36 +7,21 @@ parties:
   - SUMAR
 ref_type: manifesto
 ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-ref_page: 52
-ref_parent_chapter: 
-ref_section: "1-7"
+ref_page: 51
+ref_parent_chapter: "1.4.1.VI"
+ref_section: "1"
 categories:
   - Medioambiente y biodiversidad
   - Cambio climático
-  - Agua
-  - Organización estatal y administraciones públicas
-title: "Biodiversidad: Propuestas para cuidar de nuestra biodiversidad y proteger nuestro patrimonio natural"
+  - Agencias y órganos públicos
+title: "Estrategia nacional contra Incendios de nueva generación:"
+description: Dentro del principio de seguridad climática daremos prioridad a mejorar la lucha contra los incendios, para ello proponemos
 statements:
-  -
-    id: 1
-    quote: "<b>Estrategia nacional contra Incendios de nueva generación:</b> Dentro del principio de seguridad climática daremos prioridad a mejorar la lucha contra los incendios, para ello proponemos intensificar la coordinación con las Comunidades Autónomas en la prevención de incendios forestales, siguiendo las directrices y criterios comunes para la elaboración de los planes de prevención del Real Decreto Ley 15/2022. Reforzaremos las competencias del Comité de Lucha contra los Incendios Forestales (CLIF) y mejoraremos el acceso a la información para fomentar una cultura forestal que tenga como pilares la transparencia y la participación de todos los actores sociales y las entidades locales. Estableceremos un fondo presupuestario de apoyo a la prevención de incendios y a la gestión forestal para poder fortalecer el trabajo de todas las administraciones y actores, ayudando al cumplimiento de las obligaciones en materia de prevención de incendios forestales. Finalizaremos la tramitación de la Ley Básica para el Estatuto de los Bomberos Forestales, cuya tramitación quedó interrumpida por la convocatoria electoral, armonizando sus funciones y categorías profesionales en todo el territorio nacional."
-  -
-    id: 2
-    quote: "<b>Estrategia de uso forestal sostenible:</b> Pondremos en marcha medidas económicas y fiscales para sustituir progresivamente las plantaciones de pinos exóticos y eucaliptos con el fin de generar bosques con especies autóctonas, de crecimiento menos rápido, pero menos proclives a generar grandes incendios. Realizaremos, en cooperación con las comunidades autónomas, un inventario de bosques naturales maduros para favorecer su extensión y su gestión sostenible. Exigiremos en las compras públicas de madera y productos forestales los sistemas de certificación forestal sostenible."
-  -
-    id: 3
-    quote: "<b>Impulso de la protección del mar y su biodiversidad:</b> Con la vocación de alcanzar los objetivos de protección de, al menos, un 30% de la superficie marina para 2030, se impulsará un aumento de las reservas marinas en aguas exteriores, así como una protección de aquellos ecosistemas especialmente singulares, como la posidonia oceánica, entre otros."
-  -
-    id: 4
-    quote: "<b>Reforma de la Ley de Costas y gestión de inundaciones:</b> Reformaremos la Ley de Costas para ampliar de 20 metros a 100 metros la zona de servidumbre de protección, y reorientaremos las políticas urbanísticas no autorizando nuevas construcciones en zonas de riesgo por inundaciones o por aumento del nivel del mar. Se fomentará una política rigurosa de gestión de inundaciones basada en el respeto a las llanuras de inundación, sistemas de drenaje sostenible e inversiones para la mejora de las infraestructuras de las Estaciones Depuradoras de Agua, con el objetivo de retener el agua torrencial y evitar así desbordamientos que contaminen los ríos y las playas."
-  -
-    id: 5
-    quote: "<b>Mapa de vulnerabilidad climática y mejora climática de los servicios de protección civil:</b> Se elaborará el Mapa Nacional de Vulnerabilidad Climática como herramienta de diagnóstico de riesgos imprescindibles para avanzar en la adaptación al cambio climático. De la misma manera, ante el previsible aumento de las catástrofes naturales ligadas a la emergencia climática en territorio nacional, impulsaremos un programa de capacitación climática tanto en la Unidad Militar de Emergencia como en los Servicios de Protección Civil, recomendando su extensión a las fuerzas y equipos de seguridad y emergencia de las comunidades autónomas."
-  -
-    id: 6
-    quote: "<b>Reformulación de la Planificación Hidrológica en clave de emergencia climática:</b> Se reformulará la planificación hidrológica y se revisarán los vigentes Planes de Sequía y Planes de Inundación, ajustándose a la nueva realidad del cambio climático y proponiendo las acciones necesarias de minimización de riesgos. Ante la previsión del cambio climático, estos ajustes incluirán la revisión de las concesiones de agua actuales para evitar su sobreexplotación, estableciendo criterios de eficiencia y evitando procesos especulativos. Se fomentará la reutilización de aguas depuradas o de escorrentía."
-  -
-    id: 7
-    quote: "<b>Actuación de emergencia para salvar y restaurar el Mar Menor:</b> Desde Sumar, y en consonancia con la declaración del Mar Menor como ecosistema sujeto de derechos, proponemos un plan nacional urgente en el ámbito de la cuenca del Mar Menor, con la adecuada dotación presupuestaria para revertir su catástrofe ecológica y regenerarlo. Eliminaremos la entrada de nutrientes y otros contaminantes (metales pesados y pesticidas). Impulsaremos la coordinación de todas las Administraciones, la implicación del sector agrario y la participación ciudadana de los diferentes actores sociales, con el fin de plantear una estrategia verdaderamente integrada que incluya la aplicación de todos los instrumentos de gestión y ordenación existentes. Impulsaremos una transición ecológica de la agricultura intensiva en el campo de Cartagena mediante su reconversión hacia un modelo sostenible y susceptible de ser beneficiado por medidas agroambientales de la PAC. Iremos de la mano de la comunidad científica en las propuestas y seremos firmes en la persecución de ilegalidades y la búsqueda de responsabilidades."
-
-  
+  - id: 1
+    quote: "Intensificar la coordinación con las Comunidades Autónomas en la prevención de incendios forestales, siguiendo las directrices y criterios comunes para la elaboración de los planes de prevención del Real Decreto Ley 15/2022."
+  - id: 2
+    quote: Reforzaremos las competencias del Comité de Lucha contra los Incendios Forestales (CLIF) y mejoraremos el acceso a la información para fomentar una cultura forestal que tenga como pilares la transparencia y la participación de todos los actores sociales y las entidades locales. 
+  - id: 3
+    quote: Estableceremos un fondo presupuestario de apoyo a la prevención de incendios y a la gestión forestal para poder fortalecer el trabajo de todas las administraciones y actores, ayudando al cumplimiento de las obligaciones en materia de prevención de incendios forestales. 
+  - id: 4
+    quote: Finalizaremos la tramitación de la Ley Básica para el Estatuto de los Bomberos Forestales, cuya tramitación quedó interrumpida por la convocatoria electoral, armonizando sus funciones y categorías profesionales en todo el territorio nacional.

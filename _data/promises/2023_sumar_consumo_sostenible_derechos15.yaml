@@ -1,0 +1,21 @@
+id: f2f81ff0-a80d-4224-ae7d-ac4819fc56d4
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 22
+ref_parent_chapter: "1.1.2"
+ref_section: "15"
+categories:
+  - Consumo
+  - Trabajo
+  - Medioambiente y biodiversidad
+title: Garantizaremos el derecho a la información de los consumidores sobre las condiciones laborales y medioambientales en las que se han elaborado los productos que consumen.
+statements:
+  -
+    id: 1
+    quote: Es fundamental proporcionar información exacta, verificable y clara que sea suficiente para tomar decisiones de compra con conocimiento de causa. Para hacer efectivo este derecho, pondremos en marcha una normativa dirigida a las empresas que asegure la transparencia y la trazabilidad de la elaboración de sus productos de forma comprensible y fácilmente accesible.

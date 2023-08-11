@@ -1,0 +1,28 @@
+id: 1dabb1d0-98d5-4135-af04-6031967fef75
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 18
+ref_parent_chapter: "1.1.1.IX"
+ref_section: "2"
+categories:
+  - Organización estatal y administraciones públicas
+  - Ciencia y tecnología
+title: Promoveremos medidas de innovación y transversalidad en las Administraciones públicas.
+description: Para evitar un funcionamiento excesivamente burocrático y rígido de las Administraciones públicas, se impulsarán medidas de cambio e innovación en estas para hacerlas más flexibles, más capaces de responder a la complejidad de la sociedad actual y más abiertas al conjunto de la ciudadanía. Entre otras, proponemos;
+statements:
+  -
+    id: 1
+    quote: a través de enfoques integrales y transversales, partir de la naturaleza de cada problema, en lugar de hacerlo a través de la actual lógica de fragmentación competencial; 
+  - id: 2
+    quote: utilizar las nuevas tecnologías para conocer mejor las necesidades de la ciudadanía (mejora de diagnósticos) y adaptar las respuestas a las necesidades de cada persona, colectivo o territorio; 
+  - id: 3
+    quote: potenciar las lógicas de trabajo colaborativo entre la ciudadanía y las Administraciones públicas, 
+  - id: 4
+    quote: y unificar sistemas informáticos y bases de datos que eviten trámites innecesarios y duplicidades.
+  

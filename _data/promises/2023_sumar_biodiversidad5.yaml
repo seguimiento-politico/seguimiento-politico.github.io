@@ -1,0 +1,23 @@
+id: daf5ab5c-a137-43ba-b15a-6a11f467d666
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 52
+ref_parent_chapter: "1.4.1.VI"
+ref_section: "5"
+categories:
+  - Cambio climático
+  - Seguridad y defensa
+title: "Mapa de vulnerabilidad climática y mejora climática de los servicios de protección civil"
+statements:
+  -
+    id: 1
+    quote: Se elaborará el Mapa Nacional de Vulnerabilidad Climática como herramienta de diagnóstico de riesgos imprescindibles para avanzar en la adaptación al cambio climático. 
+  - id: 2
+    quote: De la misma manera, ante el previsible aumento de las catástrofes naturales ligadas a la emergencia climática en territorio nacional, impulsaremos un programa de capacitación climática tanto en la Unidad Militar de Emergencia como en los Servicios de Protección Civil, recomendando su extensión a las fuerzas y equipos de seguridad y emergencia de las comunidades autónomas.
+  

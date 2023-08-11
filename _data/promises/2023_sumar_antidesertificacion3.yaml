@@ -1,0 +1,24 @@
+id: c2600731-8d27-490b-b512-97020d500d4f
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 50
+ref_parent_chapter: "1.4.1.V"
+ref_section: "4"
+categories:
+  - Cambio climático
+  - Energía
+  - Agua
+  - Infraestructuras
+title: "Nueva política hidroeléctrica"
+statements:
+  -
+    id: 1
+    quote: Exigiremos el canon hidroeléctrico a las centrales hidroeléctricas sin exenciones. 
+  - id: 2
+    quote: Las centrales hidroeléctricas deberán adaptar las presas y embalses a escenarios más frecuentes de inundaciones y sequías debido al cambio climático.
