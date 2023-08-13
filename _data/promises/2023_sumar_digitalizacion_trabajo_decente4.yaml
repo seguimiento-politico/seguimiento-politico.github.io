@@ -1,0 +1,21 @@
+id: 040893e4-3c44-430e-b89b-70a743795415
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 26
+ref_parent_chapter: "1.2.III"
+ref_section: "16"
+categories:
+  - Trabajo
+  - Derechos y servicios sociales
+title: Estableceremos limitaciones estrictas al poder de dirección y control de la actividad laboral
+topics: [digitalización, privacidad digital]
+statements:
+  -
+    id: 1
+    quote: Estableceremos limitaciones estrictas al poder de dirección y control de la actividad laboral, específicamente cuando se desarrolle a distancia, y en especial mediante el uso de medios audio visuales sobre las trabajadoras y los trabajadores, un control a distancia de su actividad laboral por geolocalización, así como la posibilidad de registros y cacheos personales.

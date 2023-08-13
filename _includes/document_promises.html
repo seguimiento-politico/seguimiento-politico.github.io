@@ -82,7 +82,8 @@
                                         {% if item.topics %}
                                         <span class="fw-light">
                                             {% for topic in item.topics %}
-                                                {{ topic.name}}
+                                            
+                                                {{ topic}}
                                                 {% if forloop.last == false %}
                                                     {{ ", "}}
                                                 {% endif %}     
@@ -115,13 +116,13 @@
                                     <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="Cumplimiento: {{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}"></i>
                                     {% if item.topics %}
                                     <span class="fw-light">
-                                        {% for topic in item.topics %}
-                                            {{ topic.name}}
-                                            {% if forloop.last == false %}
-                                                {{ ", "}}
-                                            {% endif %}     
-                                        {% endfor %}
-                                    </span>
+                                            {% for topic in item.topics %}
+                                                {{ topic}}
+                                                {% if forloop.last == false %}
+                                                    {{ ", "}}
+                                                {% endif %}     
+                                            {% endfor %}
+                                        </span>
                                     {% endif %}
                                     {% endif %}   
                                 {% endfor %}                    
@@ -151,7 +152,7 @@
                                         {% if item.topics %}
                                         <span class="fw-light">
                                             {% for topic in item.topics %}
-                                                {{ topic.name}}
+                                                {{ topic}}
                                                 {% if forloop.last == false %}
                                                     {{ ", "}}
                                                 {% endif %}     
@@ -186,7 +187,7 @@
                                         {% if item.topics %}
                                         <span class="fw-light">
                                             {% for topic in item.topics %}
-                                                {{ topic.name}}
+                                                {{"#"}}{{ topic}}
                                                 {% if forloop.last == false %}
                                                     {{ ", "}}
                                                 {% endif %}     
@@ -221,7 +222,7 @@
                                         {% if item.topics %}
                                         <span class="fw-light">
                                             {% for topic in item.topics %}
-                                                {{ topic.name}}
+                                                {{ topic}}
                                                 {% if forloop.last == false %}
                                                     {{ ", "}}
                                                 {% endif %}     

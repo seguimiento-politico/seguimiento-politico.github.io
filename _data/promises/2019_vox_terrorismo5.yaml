@@ -12,7 +12,8 @@ ref_parent_chapter: "10"
 ref_section: "90"
 categories:
   - Justicia
-title: "Terrorismo: Cadena perpetua"
+title: "Cadena perpetua"
+topics: [Terrorismo]
 statements:
   - 
     id: 1

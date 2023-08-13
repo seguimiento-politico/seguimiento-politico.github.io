@@ -1,0 +1,22 @@
+id: dd39e343-f1b1-46a9-93c2-b8621bf773b2
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 23
+ref_parent_chapter: "1.2.II"
+ref_section: "4"
+categories:
+  - Trabajo
+  - Derechos y servicios sociales
+title: Ganar más tiempo para la vida, limitando el tiempo de trabajo efectivo.
+statements:
+  -
+    id: 1
+    quote: Esta propuesta pretende la reducción y el reparto equitativo del tiempo de trabajo, evitando situaciones de desempleo, subempleo y sobreexplotación, así como garantizar el derecho a un uso del tiempo según las ne cesidades sociales y colectivas que haga realidad, con carácter general, el principio de adaptación del trabajo a la persona. 
+  - id: 2
+    quote: En 2024 se establecerá por ley una jornada laboral máxima de 37,5 horas y se abrirá un proceso de diálogo social para seguir reduciendo la jornada hasta alcanzar las 32 horas semanales.

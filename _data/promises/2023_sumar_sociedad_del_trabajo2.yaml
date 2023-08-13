@@ -1,0 +1,36 @@
+id: 828198dc-4692-4490-8239-dd8adc6f320b
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 23
+ref_parent_chapter: "1.2.I"
+ref_section: "2"
+categories:
+  - Economía
+  - Derechos y servicios sociales
+title: Dotaremos de centralidad al trabajo y al derecho al trabajo como proyecto de ciudadanía.
+statements:
+  -
+    id: 1
+    quote: Del derecho al trabajo, que fundamenta un horizonte de derechos individuales y colectivos, se deriva un derecho del trabajo que se propone como un proyecto igualitario, estructurado en torno a dos vectores de intervención, público-estatal y colectivo. 
+  - id: 2
+    quote: El derecho al trabajo exige como nivel mínimo esencial; el derecho a acceder en igualdad de condiciones a los servicios públicos de empleo, garantizando el eficaz funcionamiento de los mismos y su carácter público; el derecho a la igualdad de oportunidades y a la no discriminación en el acceso al trabajo, en el desarrollo de la relación laboral y al final de esta; 
+  - id: 3
+    quote: el derecho a unas políticas de inmigración que respeten y apliquen en su plenitud la Convención internacional de Naciones Unidas de diciembre de 1990 sobre la protección de los derechos de todos los trabajadores migratorios y de sus familiares; 
+  - id: 4
+    quote: el derecho a la estabilidad en el empleo y a la voluntariedad en la elección del trabajo, en especial del trabajo a tiempo parcial; 
+  - id: 5
+    quote: el derecho a trabajar en condiciones laborales dignas, seguras, previsibles y transparentes; 
+  - id: 6
+    quote: el derecho a la ocupación efectiva; 
+  - id: 7
+    quote: el derecho a que la relación laboral individual solo pueda extinguirse por una causa justa; 
+  - id: 8
+    quote: el derecho de todas las personas trabajadoras a ser representadas colectivamente; 
+  - id: 9
+    quote: el derecho a una prestación económica suficiente que proteja de las situaciones de pérdida de empleo, cese de actividad y ajustes temporales de empleo y el derecho a la prolongación voluntaria de la vida laboral activa.

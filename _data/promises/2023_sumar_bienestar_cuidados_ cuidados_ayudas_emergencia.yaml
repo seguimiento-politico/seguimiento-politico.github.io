@@ -8,56 +8,13 @@ parties:
 ref_type: manifesto
 ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
 ref_page: 86
-ref_parent_chapter: 
-ref_section: "1, 2-6"
+ref_parent_chapter: "2.1"
+ref_section: "2"
 categories:
   - Derechos y servicios sociales
   - Sanidad
-title: "Bienestar y cuidados: Cuidados y ayudas de emergencia"
-description: 
+title: "Ayudas de emergencia social eficaces y ágiles, por cauce ajeno a la Ley de Subvenciones."
 statements:
   -
     id: 1
-    quote: <b>Ayudas de emergencia social eficaces y ágiles, por cauce ajeno a la Ley de Subvenciones.</b> La emergencia social exige respuestas rápidas y eficaces por parte de la Administración. Por ello, sacaremos estas ayudas del obsoleto marco de la Ley de Subvenciones y generaremos normativa que en ese tipo de situaciones priorice un vínculo basado en la confianza -vía declaración responsable o similar- y no en la sospecha, algo desafortunadamente tan habitual con personas socialmente vulnerables.
-  -
-    id: 2
-    quote: <b>Universalización efectiva de los servicios sociales.</b> Los servicios sociales deben trascender la visión asistencialista convencional para convertirse en una herramienta que garantice el bienestar del conjunto de la población. Es imprescindible aumentar la eficiencia y la calidad de la atención ciudadana, eliminando las trabas burocráticas que impiden que muchas ayudas lleguen a sus potenciales beneficiarios.
-  -
-    id: 3
-    quote: Impulsaremos una Ley de Garantía de la Igualdad de Acceso a los Servicios Sociales, que declare estos servicios públicos como esenciales, que convierta en derecho subjetivo el acceso a los mismos y que, además, simplifique los trámites administrativos vinculados a ese acceso. Sobre todo, que asegure una financiación suficiente del sistema autonómico y local de servicios sociales públicos.
-  -
-    id: 4
-    quote: <b>Ley de Cuidados y de Sostenibilidad de la Vida.</b> Pondremos en marcha una ley que recoja el derecho universal al cuidado y que dignifique los trabajos de cuidado, reconozca y revalorice las tareas de cuidado que asumen mayoritariamente las mujeres y apueste por un sistema público universal de cuidados, que refuerce y diversifique la oferta de servicios, de forma que los cuidados puedan prestarse mayoritariamente de forma directa por parte de entidades públicas. 
-  -
-    id: 5
-    quote: Esa ley también promoverá medidas de concienciación que permitan un cambio de sistema y de reparto de las responsabilidades de cuidado que no se enmarcan dentro de las relaciones laborales.
-  -
-    id: 6
-    quote: Es necesario llevar a cabo una reorganización drástica del sistema de cuidados para construir una democracia cuidadora en todas sus dimensiones. Esto implica una transformación económica y social que debe venir acompañada también de un Pacto de Estado por los Cuidados. Nuestro país necesita un cambio urgente y profundo que priorice los derechos y condiciones de vida de las personas que necesitan de cuidados y también el reconocimiento y dignificación de las condiciones laborales vinculadas a las tareas de cuidado realizadas mayormente por mujeres.
-  -
-    id: 7
-    quote: Debe además prevalecer el sistema de contratación pública de servicios de cuidados y de atención a las personas con la inclusión de cláusulas sociales como mecanismo idóneo para incidir, de manera positiva, en el desarrollo de las políticas sociales.
-  -
-    id: 8
-    quote: "Desde esta perspectiva, los cuidados deben entenderse como el motor que refuerce y transforme los pilares del Estado de bienestar. Hay que pensar en una provisión de cuidados que vaya más allá de la lógica que hasta ahora hemos imaginado: mercado, hogares y Estado."
-  -
-    id: 9
-    quote: Es necesario garantizar la corresponsabilidad del cuidado para sostener la vida, posibilitando nuevos espacios para la entrada de la comunidad, del tercer sector y de las personas -mujeres y hombres-, en el ejercicio y la responsabilidad del cuidado, afrontando un cambio de actitudes personales y sociales con relación al cuidado. En relación con las tareas de cuidado no remuneradas y en aras de garantizar una redistribución justa de cuidados entre hombres y mujeres es fundamental adoptar medidas que interpelen a los hombres, a las empresas y a las administraciones públicas.
-  -
-    id: 10
-    quote: <b>Ley de Promoción de la Acción Comunitaria.</b> Ante el individualismo del «sálvese quien tenga», el aislamiento y la soledad no deseada urgen herramientas que favorezcan la integración relacional, lo que exige el empoderamiento de las comunidades, elemento clave para mejorar las condiciones de vida de las personas que habitan un determinado territorio. Para ello, necesitamos un marco normativo que facilite la creación y desarrollo de Equipos Interdisciplinares de Desarrollo Comunitario, con el objetivo de potenciar el trabajo en red con las asociaciones vecinales y las organizaciones sociales y ciudadanas que se encuentren en el territorio y sean capaces de facilitar la dinamización comunitaria. En definitiva, se trata de ir incardinando la acción comunitaria, entendida como instrumento para la convivencia en diversidad, la coproducción solidaria y la gobernanza participativa.
-  -
-    id: 11
-    quote: Duplicaremos la dotación presupuestaria del Plan Corresponsables para su implementación a través de comunidades autónomas y corporaciones locales, lo que supondría 200 millones anuales adicionales. 
-  -
-    id: 12
-    quote: Se crearán bolsas de cuidado en domicilio o en lugares públicos convenientemente habilitados, con garantías de dignidad laboral para las personas que entren a formar parte de las mismas. 
-  -
-    id: 13
-    quote: Fomentar el empleo en cuidados y dignificarlo mediante la certificación de la experiencia informal, para facilitar el tránsito hacia el mercado formal. 
-  -
-    id: 14
-    quote: Se creará empleo público en sectores comunicantes con los trabajos de reproducción social (cuidados infantiles, cuidados de personas adultas, ayuda a domicilio y atención a la dependencia, regeneración medioambiental, cuidado de parques y jardines, energías renovables, etcétera). 
-  -
-    id: 15
-    quote: Crear condiciones dignas para el desarrollo profesional del sector de cuidados resulta clave para el cambio de modelo productivo, ya que favorecería el paso de la aberración actual extractivista a una producción deseable para la sostenibilidad de la vida.
+    quote: La emergencia social exige respuestas rápidas y eficaces por parte de la Administración. Por ello, sacaremos estas ayudas del obsoleto marco de la Ley de Subvenciones y generaremos normativa que en ese tipo de situaciones priorice un vínculo basado en la confianza -vía declaración responsable o similar- y no en la sospecha, algo desafortunadamente tan habitual con personas socialmente vulnerables.

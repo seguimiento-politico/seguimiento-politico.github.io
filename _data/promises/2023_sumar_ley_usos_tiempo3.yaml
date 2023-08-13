@@ -1,0 +1,28 @@
+id: 0d32c250-87d3-4aa2-bdbe-3fcfd38f66cd
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 23
+ref_parent_chapter: "1.2.II"
+ref_section: "6"
+categories:
+  - Economía
+  - Trabajo
+  - Impuestos y financiación pública
+  - Derechos y servicios sociales
+title: Impulso del trabajo saludable medido en tiempo (ni una hora más)...
+statements:
+  -
+    id: 1
+    quote: Impulso del trabajo saludable medido en tiempo (ni una hora más), garantizando el derecho de las personas a la preservación de su salud física y mental en el trabajo.
+  - id: 2
+    quote: Con este fin, se propone la limitación efectiva del tiempo de trabajo, por la cual la distribución irregular de la jornada se realice por periodos máximos de cuatro meses; 
+  - id: 3
+    quote: el incremento del 100% del precio de la hora extraordinaria que no se haya pagado ni compensado con tiempos de descanso equivalentes; 
+  - id: 4
+    quote: el establecimiento de periodos de descanso para proteger a las personas frente a condiciones de trabajo que impliquen un ritmo monótono y repetitivo y la garantía del derecho de las personas trabajadoras a la desconexión digital, incluyendo la prohibición de la empresa de contactar con ellas fuera de la jornada laboral.

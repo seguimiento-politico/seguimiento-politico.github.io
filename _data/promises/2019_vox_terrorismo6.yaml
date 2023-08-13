@@ -12,7 +12,8 @@ ref_parent_chapter: "10"
 ref_section: "89"
 categories:
   - Justicia
-title: "Terrorismo: Víctimas"
+title: "Víctimas"
+topics: [Terrorismo]
 statements:
   -
     id: 1

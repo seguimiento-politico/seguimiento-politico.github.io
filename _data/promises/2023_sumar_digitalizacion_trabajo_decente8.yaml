@@ -1,0 +1,25 @@
+id: 41cdb4a7-ae79-4064-885d-6c21ca21b14a
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 24
+ref_parent_chapter: "1.2.III"
+ref_section: "20"
+categories:
+  - Trabajo
+  - Derechos y servicios sociales
+title: Implementaremos la auditoría algorítmica.
+description: El sesgo algorítmico ocurre cuando un sistema in formático refleja los valores de los humanos que están implicados en la codificación y la recolección de datos usados para entrenar el algoritmo. La legislación no recoge medidas específicas para la protección de las personas trabajadoras en el ámbito de las empresas frente a la discriminación de rivada del uso de algoritmos.
+topics: [digitalización, igualdad]
+statements:
+  -
+    id: 1
+    quote: Con la auditoría algorítmica, sistema de verificación con un contenido mínimo determinado reglamentariamente, la empresa deberá demostrar que el sistema de inteli gencia artificial utilizado en el ámbito laboral no incorpora sesgos que puedan traducirse en discriminación. 
+  - id: 2
+    quote: Esta auditoría estará a disposición de la representación de las personas trabajadoras, de estas mismas cuando no exista RLT y de la Inspección de Trabajo y Seguridad Social.
+  

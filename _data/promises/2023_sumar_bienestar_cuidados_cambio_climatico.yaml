@@ -8,13 +8,14 @@ parties:
 ref_type: manifesto
 ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
 ref_page: 88
-ref_parent_chapter: 
-ref_section: "1, 7"
+ref_parent_chapter: "2.1"
+ref_section: "7"
 categories:
   - Derechos y servicios sociales
   - Cambio climático
   - Energía
-title: "Bienestar y cuidados: Políticas de bienestar contra el cambio climático"
+title: "Políticas de bienestar contra el cambio climático"
+topics: [cambio climático: adaptación]
 description: La calidad del medioambiente influye de forma decisiva en nuestro bienestar. El cambio climático plantea graves amenazas para la salud y el desarrollo de una vida plena, especialmente de las personas en situaciones de mayor vulnerabilidad.
 statements:
   -

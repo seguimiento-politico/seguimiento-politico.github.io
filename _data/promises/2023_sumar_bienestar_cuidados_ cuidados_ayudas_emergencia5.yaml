@@ -1,0 +1,33 @@
+id: aeac69b5-09cf-4072-9554-945079614e10
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 87
+ref_parent_chapter: "2.1"
+ref_section: "6"
+categories:
+  - Derechos y servicios sociales
+  - Sanidad
+title: "Duplicaremos la dotación presupuestaria del Plan Corresponsables"
+description: 
+statements:
+  -
+    id: 1
+    quote: Duplicaremos la dotación presupuestaria del Plan Corresponsables para su implementación a través de comunidades autónomas y corporaciones locales, lo que supondría 200 millones anuales adicionales. 
+  -
+    id: 2
+    quote: Se crearán bolsas de cuidado en domicilio o en lugares públicos convenientemente habilitados, con garantías de dignidad laboral para las personas que entren a formar parte de las mismas. 
+  -
+    id: 3
+    quote: Fomentar el empleo en cuidados y dignificarlo mediante la certificación de la experiencia informal, para facilitar el tránsito hacia el mercado formal. 
+  -
+    id: 4
+    quote: Se creará empleo público en sectores comunicantes con los trabajos de reproducción social (cuidados infantiles, cuidados de personas adultas, ayuda a domicilio y atención a la dependencia, regeneración medioambiental, cuidado de parques y jardines, energías renovables, etcétera). 
+  -
+    id: 5
+    quote: Crear condiciones dignas para el desarrollo profesional del sector de cuidados resulta clave para el cambio de modelo productivo, ya que favorecería el paso de la aberración actual extractivista a una producción deseable para la sostenibilidad de la vida.

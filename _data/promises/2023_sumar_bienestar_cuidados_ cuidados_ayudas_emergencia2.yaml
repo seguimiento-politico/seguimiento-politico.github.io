@@ -1,0 +1,23 @@
+id: a46944c4-4f63-484c-9ff6-73e96cd9ef83
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 87
+ref_parent_chapter: "2.1"
+ref_section: "3"
+categories:
+  - Derechos y servicios sociales
+title: "Universalización efectiva de los servicios sociales."
+description: Los servicios sociales deben trascender la visión asistencialista convencional para convertirse en una herramienta que garantice el bienestar del conjunto de la población. Es imprescindible aumentar la eficiencia y la calidad de la atención ciudadana, eliminando las trabas burocráticas que impiden que muchas ayudas lleguen a sus potenciales beneficiarios.
+statements:
+  -
+    id: 1
+    quote: Impulsaremos una Ley de Garantía de la Igualdad de Acceso a los Servicios Sociales, que declare estos servicios públicos como esenciales, que convierta en derecho subjetivo el acceso a los mismos y que, además, simplifique los trámites administrativos vinculados a ese acceso. 
+  - id: 2
+    quote: Sobre todo, que asegure una financiación suficiente del sistema autonómico y local de servicios sociales públicos.
+  

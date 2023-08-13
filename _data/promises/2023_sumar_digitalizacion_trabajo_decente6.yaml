@@ -1,0 +1,21 @@
+id: ea84346c-f4e8-462b-8acb-f60a3aa7d21f
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 06a6d8cd-1381-400f-8422-55e03bb2b492
+ref_page: 26
+ref_parent_chapter: "1.2.III"
+ref_section: "18"
+categories:
+  - Trabajo
+  - Derechos y servicios sociales
+title: Protección del derecho a la indemnidad por la utilización de redes sociales
+topics: [digitalización, privacidad digital]
+statements:
+  -
+    id: 1
+    quote: Reconoceremos el derecho a la indemnidad en redes sociales, de modo que nadie pueda ser sancionado o despedido por el contenido recogido en sus redes sociales, que tampoco podrá ser tenido en cuenta dentro de un proceso de selección o contratación.
