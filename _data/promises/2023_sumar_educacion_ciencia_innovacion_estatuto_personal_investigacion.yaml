@@ -1,0 +1,32 @@
+id: 5c9f0779-a7ee-4cda-ba15-0c45a3400b21
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 165
+ref_parent_chapter: "5.2.2.II"
+ref_section: "5"
+categories:
+  - Ciencia y tecnología
+  - Trabajo
+  - Agencias y órganos públicos
+title: Cuidado de las personas dedicadas a la ciencia a través de un estatuto del personal de investigación
+statements: 
+  - id: 1
+    quote: Tanto por el bien de las personas dedicadas a la ciencia como de las instituciones en las que esta se desarrolla, las cuestiones de gestión del personal, que resultan críticas, han de ser objeto de una profunda revisión. 
+  - id: 2
+    quote: Objetivos como la reducción de la precariedad, el rejuvenecimiento de las plantillas o la recuperación de la emigración forzada o carreras investigadoras estables requieren un marco laboral más adecuado. 
+  - id: 3
+    quote: "Un marco flexible que permita la movilidad entre organismos y sectores, que facilite la estabilidad y la promoción, y que tenga en cuenta a todo el personal: investigador, de apoyo y de gestión."
+  - id: 4
+    quote: Los procesos de evaluación de la actividad evitarán la dependencia exclusiva de indicadores en el marco de las recomendaciones internacionales (declaración DORA), apostando por la transparencia que evite procesos de selección endogámicos. 
+  - id: 5
+    quote: Se debe diseñar una carrera investigadora integral y con contratación estable que tome en consideración todas las etapas en la investigación. 
+  - id: 6
+    quote: Además, se impulsará y desarrollará la carrera profesional del personal técnico y de gestión en términos similares a los que se contemplan para el personal investigador. 
+  - id: 7
+    quote: Se dotará al Comité Español de Ética de la Investigación de los medios necesarios para eliminar los abusos de poder, tales como la prevaricación en concursos públicos, el fraude científico y el acoso sexual.

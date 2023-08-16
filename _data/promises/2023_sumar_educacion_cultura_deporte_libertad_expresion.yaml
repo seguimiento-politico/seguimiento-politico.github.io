@@ -1,0 +1,25 @@
+id: 9797c56e-0d37-48c1-834e-9c71fe35a64a
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 167
+ref_parent_chapter: "5.3.1.I"
+ref_section: "1"
+categories:
+  - Cultura
+  - Democracia
+title: Garantizaremos y protegeremos la libertad de expresión, producción y creación
+statements: 
+  - id: 1
+    quote: Daremos cumplimiento al reconocimiento constitucional de la libertad de expresión, producción y creación literaria, artística, científica y técnica como derechos y libertades fundamentales. 
+  - id: 2
+    quote: Dotar a la libertad de creación en el campo cultural de una protección normativa específica y reforzada y de herramientas jurídicas para facilitar la consolidación de jurisprudencia al respecto. 
+  - id: 3
+    quote: También asegurar los mecanismos normativos y de control del ejercicio del poder en las instituciones culturales públicas para evitar la injerencia política y la censura, tanto en la creación y producción cultural como en el diseño de las programaciones y contenidos. 
+  - id: 4
+    quote: Asimismo, ampliaremos los límites impuestos a los derechos de propiedad intelectual para favorecer los usos educativos y culturales sin ánimo de lucro.

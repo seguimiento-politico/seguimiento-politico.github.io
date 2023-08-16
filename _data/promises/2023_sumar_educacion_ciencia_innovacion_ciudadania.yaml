@@ -1,0 +1,19 @@
+id: ed96138d-ee97-4798-acd1-c8d818ac9a77
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 164
+ref_parent_chapter: "5.2.2.I"
+ref_section: "1"
+categories:
+  - Educación
+  - Ciencia y tecnología
+title: Fomento de la ciencia ciudadana y abierta al conjunto de la sociedad
+statements: 
+  - id: 1
+    quote: Es necesario contar con la participación activa del conjunto de la sociedad, más allá de las personas expertas. Y ello no solo en las tareas de difusión, sino también en las de producción y formación, mediante proyectos colaborativos, de cocreación u otros, y en un contexto abierto y transversal.
