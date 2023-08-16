@@ -1,0 +1,28 @@
+id: 31fe3ffb-3138-45f7-991a-b2b016873cec
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 92
+ref_parent_chapter: "2.2"
+ref_section: "15"
+categories:
+  - Derechos y servicios sociales
+  - Sanidad
+title: "Regulación íntegra del cannabis"
+statements:
+  -
+    id: 1
+    quote: Regulación íntegra del cannabis y el modelo de asociaciones cannábicas basadas en el autoconsumo y sin ánimo de lucro. Se legislará para acabar con el vacío legal existente, despenalizando la producción y el consumo propio y sin ánimo de lucro para no favorecer a las mafias que se enriquecen con el tráfico ilegal, 
+    partial: ini
+  - id: 2
+    partial: end
+    quote: y se fomentará la información sobre los efectos del consumo de drogas para un consumo responsable y libre. 
+  - id: 3
+    quote: Legalizaremos el uso del cannabis con fines medicinales. 
+  - id: 4
+    quote: El cannabis se regulará íntegramente en el nuevo contexto nacional e internacional, desde planteamientos respetuosos con los derechos humanos, la evidencia científica, la realidad social, la salud individual y colectiva y la necesaria protección de las personas en situación de vulnerabilidad.

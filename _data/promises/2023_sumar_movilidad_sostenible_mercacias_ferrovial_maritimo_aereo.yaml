@@ -8,15 +8,15 @@ parties:
 ref_type: manifesto
 ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
 ref_page: 82
-ref_parent_chapter: 
-ref_section: "5.3, 6-9"
+ref_parent_chapter: "1.5.3"
+ref_section: "6-9"
 categories:
   - Cambio climático
   - Transporte
   - Infraestructuras
   - Empresas y comercio
   - Organización estatal y administraciones públicas 
-title: "Movilidad sostenible: Mercancías, transporte aéreo, marítimo y ferrovial"
+title: "Mercancías, transporte aéreo, marítimo y ferrovial"
 statements:
   -
     id: 1

@@ -1,0 +1,36 @@
+id: 1700b5be-2763-4c91-8732-c972901c20c2
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 33
+ref_parent_chapter: "1.2.XI"
+ref_section: "82"
+categories:
+  - Trabajo
+  - Derechos y servicios sociales
+title: Reforma del sistema de mutuas colaboradoras de la Seguridad Social (MATPSS).
+description: "Es necesario abordar la actuación de estas entidades, que gestionan recursos públicos con criterios exclusiva mente privados que no siempre redundan en una mejora de la salud de los ciudadanos y las ciudadanas. Para revertir esta situación:"
+statements:
+  -
+    id: 1
+    quote: Se introducirán sistemas de control, participación y transparencia en la gestión de las MATPSS.
+  - id: 2
+    quote: Se realizará un control exclusivo de la incapacidad temporal común de altas y bajas y el seguimiento por los facultativos de la Seguridad Social, así como el riesgo durante el embaazo o la lactancia; 
+    partial: ini
+  - id: 3
+    quote: se promoverá el retorno de la gestión económica de IT por contingencias comunes a la Seguridad Social 
+  - id: 4
+    quote: y se valorará el incremento de la cuantía de la prestación por incapacidad común al 75% desde el primer día, y al 100% por contingencias profesionales. 
+    partial: end
+  - id: 5
+    quote: Se pondrá fin a la discriminación en el pago de cuotas entre las empresas cubiertas por la Seguridad Social y las empresas cubiertas por entidades colaboradoras, 
+    partial: ini
+  - id: 6
+    quote: asimismo se eliminará el RD 404/2010, del 31 de marzo, de reducción de las cotizaciones por contingencias profesionales.
+    partial: end
+  

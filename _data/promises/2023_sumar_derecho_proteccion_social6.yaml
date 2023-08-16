@@ -1,0 +1,26 @@
+id: 8135ec1a-327c-4dff-826c-cade60fe612b
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 34
+ref_parent_chapter: "1.2.XI"
+ref_section: "79"
+categories:
+  - Migración
+  - Trabajo
+  - Cooperación internacional
+  - Derechos y servicios sociales
+title: Protegeremos los derechos de las personas trabajadoras migrantes
+statements:
+  -
+    id: 1
+    quote: Protegeremos los derechos de las personas trabajadoras migrantesa a nivel nacional
+    partial: ini
+  - id: 2
+    quote: y participaremos en actividades de cooperación bilateral y regional entre los países de origen, de tránsito y de destino para garantizar los derechos de protección social.
+    partial: end

@@ -8,14 +8,14 @@ parties:
 ref_type: manifesto
 ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
 ref_page: 90
-ref_parent_chapter: 
+ref_parent_chapter: "2.2"
 ref_section: "7"
 categories:
   - Derechos y servicios sociales
   - Sanidad
   - Trabajo
   - Educación
-title: "Derecho a la salud: Salud mental."
+title: "Salud mental."
 description: Pondremos en marcha un Plan de Choque en Salud Mental que aborde los problemas relacionados con el sufrimiento psíquico desde una perspectiva comunitaria, interdisciplinar y sensible a los determinantes sociales de la salud mental.
 statements:
   -

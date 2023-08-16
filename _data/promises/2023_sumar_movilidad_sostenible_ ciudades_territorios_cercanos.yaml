@@ -8,15 +8,15 @@ parties:
 ref_type: manifesto
 ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
 ref_page: 80
-ref_parent_chapter: 
-ref_section: "5.3, 4"
+ref_parent_chapter: "1.5.3"
+ref_section: "4"
 categories:
   - Cambio climático
   - Transporte
   - Territorio
   - Vivienda y urbanismo
   - Infraestructuras
-title: "Movilidad sostenible: Ciudades y territorios cercanos, accesibles y con servicios públicos."
+title: "Ciudades y territorios cercanos, accesibles y con servicios públicos."
 statements:
   -
     id: 1

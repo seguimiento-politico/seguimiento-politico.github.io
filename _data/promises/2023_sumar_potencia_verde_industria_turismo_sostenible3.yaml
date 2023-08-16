@@ -1,0 +1,24 @@
+id: 11858ee5-888f-4689-a8b3-e713c92ffc1d
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 44
+ref_parent_chapter: "1.3.III"
+ref_section: "2"
+categories:
+  - Industria
+  - Energía
+  - Territorio
+topics: [españa vaciada]
+title: Atracción de industria a zonas de producción renovable.
+statements:
+  -
+    id: 1
+    quote: Favorecer la instalación de industrias en las regiones de la España vaciada que acogen importantes desarrollos de energías renovables. 
+  - id: 2
+    quote: Para ello se estudiarán reformas en el mercado eléctrico que rebajen el precio de la electricidad en las cercanías a las zonas productoras de energía renovable y fomentaremos las subastas de contratos renovables a largo plazo que garanticen precios estables para pequeñas y medianas empresas.

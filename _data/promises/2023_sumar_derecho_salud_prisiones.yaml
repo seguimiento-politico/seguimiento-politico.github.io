@@ -1,0 +1,20 @@
+id: 1c4a79a7-0124-4a7a-94f1-174e7189f271
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 92
+ref_parent_chapter: "2.2"
+ref_section: "16"
+categories:
+  - Derechos y servicios sociales
+  - Sanidad
+title: "Sanidad penitenciaria"
+statements:
+  -
+    id: 1
+    quote: Se culminará la transferencia autonómica de las competencias en materia de sanidad penitenciaria estableciendo las garantías suficientes para su mejora con respecto a la situación actual.

@@ -7,14 +7,14 @@ parties:
   - SUMAR
 ref_type: manifesto
 ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-ref_page: 89
-ref_parent_chapter: 
+ref_page: 90
+ref_parent_chapter: "2.2"
 ref_section: "4"
 categories:
   - Derechos y servicios sociales
   - Sanidad
   - Trabajo
-title: "Derecho a la salud: Fin de la precariedad del personal sanitario - mejora de sus condiciones laborales."
+title: "Fin de la precariedad del personal sanitario: mejora de sus condiciones laborales."
 statements:
   -
     id: 1

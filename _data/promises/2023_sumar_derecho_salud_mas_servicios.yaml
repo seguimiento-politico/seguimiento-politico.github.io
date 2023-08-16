@@ -8,12 +8,12 @@ parties:
 ref_type: manifesto
 ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
 ref_page: 89
-ref_parent_chapter: 
+ref_parent_chapter: "2.2"
 ref_section: "3"
 categories:
   - Derechos y servicios sociales
   - Sanidad
-title: "Derecho a la salud: Más y mejores servicios de salud sin listas de espera."
+title: "Más y mejores servicios de salud sin listas de espera."
 statements:
   -
     id: 1

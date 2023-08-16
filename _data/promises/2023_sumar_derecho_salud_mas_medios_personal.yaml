@@ -1,4 +1,4 @@
-id: f42c8c4a-672e-4c0a-a91f-1e512c56485d
+id: 1946cb9c-ef6b-4a19-b6d1-6d983c205f87
 scope: national
 scope_country: spain
 election_type: generales
@@ -7,20 +7,19 @@ parties:
   - SUMAR
 ref_type: manifesto
 ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
-ref_page: 89
-ref_parent_chapter: 
-ref_section: "5-6"
+ref_page: 90
+ref_parent_chapter: "2.2"
+ref_section: "6"
 categories:
   - Derechos y servicios sociales
   - Sanidad
   - Educación
   - Trabajo
-title: "Derecho a la salud: Más medios y personal"
+title: "Un sistema sanitario con futuro."
 description: 
 statements:
   -
     id: 1
-    quote: "Atención primaria fortalecida. Plan de choque para fortalecer la atención primaria en todo el Estado. El plan supondrá la financiación directa para que las comunidades autónomas puedan aumentar personal, mejorar las infraestructuras y adquirir material sanitario."
-  -
-    id: 2
-    quote: Un sistema sanitario con futuro. Ampliaremos las plazas de formación de medicina, enfermería y psicología en las universidades públicas, con criterios de distribución geográfica según las necesidades de la sanidad de cada territorio. Aumento de las plazas de formación MIR, EIR y PIR y de otras especialidades, también según las necesidades.
+    quote:  Ampliaremos las plazas de formación de medicina, enfermería y psicología en las universidades públicas, con criterios de distribución geográfica según las necesidades de la sanidad de cada territorio. 
+  - id: 2
+    quote: Aumento de las plazas de formación MIR, EIR y PIR y de otras especialidades, también según las necesidades.

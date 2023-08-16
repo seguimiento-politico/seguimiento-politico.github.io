@@ -1,0 +1,25 @@
+id: e962dc4f-623d-4dcf-8c19-43935536f15e
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 92
+ref_parent_chapter: "2.2"
+ref_section: "13"
+categories:
+  - Derechos y servicios sociales
+  - Sanidad
+title: "Atención a las adicciones."
+statements:
+  -
+    id: 1
+    quote: Incrementaremos las plazas públicas en las comunidades terapéuticas de tratamiento de las drogodependencias y otros trastornos adictivos, 
+    partial: ini
+  - id: 2
+    partial: end
+    quote: y crearemos una específica para infancia y adolescencia.
+  

@@ -1,0 +1,26 @@
+id: f42c8c4a-672e-4c0a-a91f-1e512c56485d
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 90
+ref_parent_chapter: "2.2"
+ref_section: "5"
+categories:
+  - Derechos y servicios sociales
+  - Sanidad
+  - Educación
+  - Trabajo
+title: "Atención primaria fortalecida."
+description: 
+statements:
+  -
+    id: 1
+    quote: Plan de choque para fortalecer la atención primaria en todo el Estado. 
+  - id: 2
+    quote: El plan supondrá la financiación directa para que las comunidades autónomas puedan aumentar personal, mejorar las infraestructuras y adquirir material sanitario.
+ 

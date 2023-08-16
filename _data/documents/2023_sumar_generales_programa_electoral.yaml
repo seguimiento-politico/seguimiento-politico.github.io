@@ -240,6 +240,15 @@ index:
           title: Derecho a la educación y sistema educativo
           description: "La educación es la base y motor de nuestra sociedad. Su finalidad es desarrollar las potencialidades de todo ser humano. La educación nos hace mejores. Un proyecto de país avanzado necesita de un modelo educativo público que asegure el bienestar de la población y una democracia de calidad. Necesitamos un nuevo contrato social para la educación que se base en dos principios fundamentales: el derecho universal a la educación y el compromiso con su carácter público, en tanto que bien común esencial, y que garantice el ejercicio de ese derecho en condiciones de igualdad. Nuestro Proyecto de Educación Democrática puede convertirse en uno de los instrumentos de mayor capacidad transformadora para combatir las desigualdades y conseguir una sociedad más justa y equitativa. Ello requiere que la sociedad, en su conjunto, asuma la responsabilidad de la educación como un derecho fundamental y un bien común. Es la forma de dar esperanza de futuro a nuestras niñas, niños, jóvenes y a todas las personas a lo largo de su vida."
           page: 154
+          children:
+            - chapter: I
+              title: Un sistema educativo para todas y todos
+            - chapter: II
+              title: Una educación integral e inclusiva, en y para la democracia, y orientada por los ods
+            - chapter: III
+              title: Una educación con las personas, la formación, las condiciones laborales y los recursos adecuados
+            - chapter: IV
+              title: Centralidad de la educación pública, gratuita y adecuadamente financiada, y de la responsabilidad pública del conjunto del sistema
         - chapter: 2
           title: Universidad, ciencia e innovación
           page: 159
