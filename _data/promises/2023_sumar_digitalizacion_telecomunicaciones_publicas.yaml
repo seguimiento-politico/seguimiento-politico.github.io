@@ -1,0 +1,29 @@
+id: c915e760-d9b2-411d-b211-4a2c504f2748
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 180
+ref_parent_chapter: "5.3.3"
+ref_section: "6"
+categories:
+  - Ciencia y tecnología
+  - Empresas públicas
+  - Infraestructuras
+  - Economía
+title: Promoción de una política tecnológica libre y descentralizada
+statements: 
+  - id: 1
+    quote: Consideramos el despliegue de infraestructuras de telecomunicaciones desde el sector público para la ciudadanía, las empresas y las Administraciones del Estado, la mejor garantía para poder disponer de nuevos servicios, de calidad, a precios competitivos y en todo el país. 
+  - id: 2
+    quote: Será garantía de que estas infraestructuras son de propiedad pública y ofrecen un servicio público. Por lo tanto, hay que favorecer el uso compartido de infraestructuras entre operadores y operadoras, estableciendo sistemas de contraprestación y exigiendo inversiones reales a los operadores y operadoras que quieran actuar en el mercado de las telecomunicaciones. 
+  - id: 3
+    quote: Se debe garantizar el derecho al acceso a internet con la potenciación de las redes abiertas, como Guifi.net, 
+    partial: ini
+  - id: 4
+    quote: y desarrollar una normativa destinada a impedir los monopolios en los medios de comunicación con la limitación del porcentaje de un mismo ámbito comunicacional (o en todos ellos), que puede tener un mismo grupo o empresa (de radio, televisión o Internet).
+    partial: end

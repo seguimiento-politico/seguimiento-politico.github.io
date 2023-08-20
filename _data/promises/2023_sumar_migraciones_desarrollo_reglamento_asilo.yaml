@@ -1,0 +1,22 @@
+id: 59d72249-1858-4045-8c98-3b9b9862eac2
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 104
+ref_parent_chapter: "2.7"
+ref_section: "5"
+categories:
+  - Migración
+title: Desarrollo del reglamento de la ley reguladora del derecho de asilo y la protección subsidiaria, sistematizando el acceso al asilo por vía diplomática
+statements: 
+  - id: 1
+    quote: Con ánimo de reducir o evitar en la medida de lo posible las migraciones internacionales irregulares, inseguras para los migrantes, se desarrollará el artículo 38 de la Ley de Asilo y se establecerá un procedimiento para atender los casos que se presenten fuera del territorio estatal. 
+  - id: 2
+    quote: En el futuro procedimiento, los consulados y las embajadas de España recibirán las solicitudes de manera presencial o virtual y garantizarán el acceso físico a la representación diplomática o habilitarán un espacio seguro para atender a las personas solicitantes. 
+  - id: 3
+    quote: El Ministerio de Asuntos Exteriores, Unión Europea y Cooperación facilitará el traslado a España de las personas a las que se otorgue protección o de las que se autorice su traslado durante la tramitación del procedimiento.

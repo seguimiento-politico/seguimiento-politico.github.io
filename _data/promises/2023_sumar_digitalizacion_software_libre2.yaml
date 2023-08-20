@@ -1,0 +1,25 @@
+id: 43e86874-d67e-42fb-be09-96d5e0669640
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 180
+ref_parent_chapter: "5.3.3"
+ref_section: "3"
+topics: 
+  - software libre
+categories:
+  - Ciencia y tecnología
+  - Organización estatal y administraciones públicas
+title:  Dinero público, código libre y soberanía tecnológica
+statements: 
+  - id: 1
+    quote: Se trabajará en un plan de transición hacia el software libre en todas las herramientas y servicios digitales, buscando hacerlos más robustos, seguros, escalables y sostenibles. 
+  - id: 2
+    quote: Además, se promoverá el desarrollo de tecnología basada en software libre y soluciones de servicios para el interés general y común, así como la inversión en empresas tecnológicas (especialmente PYMES) que trabajen en soluciones para mejorar la calidad de vida de la ciudadanía. Esto facilitará, además, un ecosistema de empresas locales que escapen del modelo actual de consultoría y productos cerrados. 
+  - id: 3
+    quote: Finalmente, es esencial que las Administraciones públicas desarrollen sus propias tecnologías, creen protocolos comunes y contraten a personal técnico propio en lugar de externalizar todos los procesos de digitalización a consultoras o grandes tecnológicas. Para ello, se implementarán cláusulas que garanticen el código abierto en las contrataciones públicas.

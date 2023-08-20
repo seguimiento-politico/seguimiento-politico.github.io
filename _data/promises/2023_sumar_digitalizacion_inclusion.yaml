@@ -1,0 +1,26 @@
+id: e3f9eebe-6b93-4046-b527-cd602ebd15e1
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 181
+ref_parent_chapter: "5.3.3"
+ref_section: "10"
+topics:
+  - reciclaje
+  - eficiencia energética
+categories:
+  - Ciencia y tecnología
+  - Educación
+title: Red de equipamientos para la inclusión digital
+statements: 
+  - id: 1
+    quote: Es necesario fomentar el acompañamiento, la formación y el logro de todas las competencias digitales necesarias para una plena ciudadanía. 
+  - id: 2
+    quote: Para eso, se deberían generar espacios de aprendizaje sobre competencias digitales específicas con perspectiva de género, interseccional y atendiendo a la diversidad; promover espacios de aprendizaje, experimentación y prueba de tecnologías avanzadas para niñas, niños y jóvenes; o el diseño, desarrollo, prueba y despliegue de tecnologías en intersección con la cultura y la creación, la formación, la acción colectiva y el autoaprendizaje. 
+  - id: 3
+    quote: También es importante desplegar una estrategia integral para la digitalización diversa e inclusiva que promueva la alfabetización, el acercamiento y el empoderamiento digital al conjunto de la ciudadanía con el objetivo de garantizar un acceso universal a la sociedad digital.

@@ -1,0 +1,36 @@
+id: 2e55fff1-192d-4058-9c94-916d551dc61a
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 175
+ref_parent_chapter: "5.3.2.I"
+ref_section: "5"
+categories:
+  - Deportes
+title: Lograr la igualdad de género efectiva en el deporte
+statements: 
+  - id: 1
+    quote: Garantizar la presencia del deporte femenino en la carta de servicios de la radio y televisión públicas y el adecuado tratamiento informativo (sin estereotipos de género) en los medios de comunicación.
+  - id: 2
+    quote: Promover la presencia de mujeres en los cargos federativos y ámbitos técnicos del deporte reglado.
+  - id: 3
+    quote: Aumentar y garantizar el derecho de constitución de ligas profesionales y convenios colectivos profesionales en el deporte femenino.
+  - id: 4
+    quote: Promover medidas de ayuda a la conciliación de las mujeres deportistas profesionales y a otros niveles.
+  - id: 5
+    quote: Desarrollar programas de formación en prevención de acoso y abusos sexuales en clubes y federaciones deportivas.
+  - id: 6
+    quote: Promover la implantación de planes de igualdad en el seno de todas las federaciones deportivas.
+  - id: 7
+    quote: Modificar el Real Decreto 1006/1985 de 26 de junio, por el que se regula la relación laboral especial de los deportistas profesionales, para adaptarla a los tiempos presentes y que las mujeres puedan mejorar su relación laboral en el mundo del deporte.
+  - id: 8
+    quote: Crear campañas de difusión y programas específicos para potenciar la práctica del deporte femenino en edad escolar y prevenir el abandono anticipado por parte de las niñas y adolescentes.
+  - id: 9
+    quote: Asegurar que el deporte masculino y el femenino tengan los mismos derechos, también en aspectos como la cesión de espacios y horarios de las instalaciones deportivas. 
+  - id: 10
+    quote: Así como aplicar medidas de acción positiva, como podría ser la reducción en el precio de la inscripción de equipos femeninos en las competiciones municipales o regionales.

@@ -1,0 +1,29 @@
+id: c541a568-9b33-48e0-af3a-bc4f961c00fa
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 177
+ref_parent_chapter: "5.3.2.III"
+ref_section: "12"
+categories:
+  - Deportes
+  - Ciencia y tecnología
+  - Agencias y órganos públicos
+  - Educación
+title:  Apuesta por la investigación, la formación y el desarrollo normativo ante una sociedad cambiante
+statements: 
+  - id: 1
+    quote: Crear un Observatorio Nacional del Deporte, dirigido a la realización estable de investigación relacionada con la realidad deportiva, que proporcione datos periódicos a las Administraciones públicas, contribuyendo con ello a mejorar la política deportiva.
+  - id: 2
+    quote: Promover la innovación legislativa en torno a ámbitos de prioridad política en materia deportiva, tales como la regulación de nuevas disciplinas deportivas, mecenazgo y patrocinio deportivo, regulación deportiva en la Administración local, educación física, nuevos espacios deportivos, deporte universitario, protección de menores deportistas, uso de la tecnología en el ámbito del deporte, entre otras.
+  - id: 3
+    quote: Promover la formación especializada en nuevos ámbitos del deporte, a través de las universidades, los centros de formación profesional y las federaciones deportivas, tales como el deporte adaptado; la intervención social; la perspectiva de género en el deporte; la I+D+I; el deporte para todos y todas; el deporte de alto nivel; la búsqueda de financiación y patrocinio; la digitalización; la planificación y organización deportivas; la sostenibilidad, por ejemplo.
+  - id: 4
+    quote: Abordar la investigación de temas de importancia estratégica, no ya solo para el sistema deportivo, sino también para el interés general, como la incidencia del deporte en la salud y el bienestar; hábitos y comportamientos sociales en torno al deporte; impacto económico del deporte; tecnología y materiales; perspectiva de género en el deporte y deporte adaptado, entre otros.
+  - id: 5
+    quote: Potenciar el trabajo que desarrollan las instituciones científicas y académicas, dar a conocer sus resultados de investigación y apostar por el trabajo multidisciplinar para obtener resultados que puedan tener un impacto real en el sistema deportivo español.

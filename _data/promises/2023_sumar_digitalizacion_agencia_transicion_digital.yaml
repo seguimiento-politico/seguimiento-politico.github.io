@@ -1,0 +1,23 @@
+id: cf2f9434-e1b5-4c80-aba5-17b44ae0096c
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 181
+ref_parent_chapter: "5.3.3"
+ref_section: "8"
+categories:
+  - Ciencia y tecnología
+  - Agencias y órganos públicos
+title: Creación de una Agencia Pública para la Transición Digital
+statements: 
+  - id: 1
+    quote: Se debe promover el despliegue de una agencia que permita la gestión de sistemas de tecnologías libres, más sostenibles y justas, que acompañen y asesoren proyectos de innovación existentes, promueva los derechos digitales y genere espacios de participación y empoderamiento de la sociedad civil en nuevos modelos de gobernanza. 
+  - id: 2
+    quote: Para ello, se apostará por la creación de un órgano de participación con la ciudadanía, personas expertas y organizaciones sociales que oriente las políticas digitales desde la perspectiva de los derechos y la democratización de las tecnologías digitales. 
+  - id: 3
+    quote: Se podría contemplar la creación de un Fondo público estatal para la digitalización.

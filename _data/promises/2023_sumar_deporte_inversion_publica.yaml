@@ -1,0 +1,24 @@
+id: 02cfc0b8-1e56-40eb-9e85-72fef4f224db
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 178
+ref_parent_chapter: "5.3.2.IV"
+ref_section: "14"
+categories:
+  - Deportes
+  - Medios de comunicación
+title:  Pacto de suelo presupuestario en inversión pública deportiva al 0,25% del PIB
+description: Ninguna política deportiva será efectiva y útil sin recursos suficientes asignados en los presupuestos del Estado, en los de las comunidades autónomas y en los de los ayuntamientos. Desde la convicción de la utilidad social del deporte, de su importancia capital en la conformación de la personalidad de los individuos y, con ello, de nuestra sociedad, la salud y el bienestar físico, psíquico y social, se necesita garantizar una financiación adecuada para la política deportiva. Invertir en deporte es ahorrar en sanidad.
+statements: 
+  - id: 1
+    quote: Esto debe garantizarse mediante un pacto entre el Estado y las autonomías, que eleve la irrisoria inversión en deporte desde el 0,06% actual hasta el 0,25% del PIB a medio plazo, 
+    partial: ini
+  - id: 2
+    quote: acompañada de una política potente de patrocinio y mecenazgo
+    partial: end

@@ -1,0 +1,23 @@
+id: 9770f6a3-950b-44ce-85e7-99b4d0c4ecd5
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 178
+ref_parent_chapter: "5.3.2.III"
+ref_section: "13"
+categories:
+  - Deportes
+  - Medios de comunicación
+title:  Reforzar la comunicación del deporte
+statements: 
+  - id: 1
+    quote: Necesitamos medios de comunicación que contribuyan a la promoción de la cultura física, de estilos de vida activos y del multideporte; que muestren y potencien otras realidades deportivas y que se impliquen con la cultura física corporal como herramienta de mejora de la salud personal y el bienestar social. 
+  - id: 2
+    quote: Hay que colaborar con los medios de comunicación para promover la retransmisión e información de eventos de deporte femenino y de todo tipo de deportes mayoritarios y minoritarios; 
+  - id: 3
+    quote: colaborar en el desarrollo de campañas de lucha contra la obesidad y el sobrepeso infantil y juvenil, así como de una vida activa a través del deporte y el ejercicio físico.

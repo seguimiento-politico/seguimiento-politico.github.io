@@ -1,0 +1,21 @@
+id: c6217e93-12e7-402e-92b7-44d2dd6c6296
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 177
+ref_parent_chapter: "5.3.2.III"
+ref_section: "11"
+categories:
+  - Deportes
+  - Organización estatal y administraciones públicas
+title:  Coordinación interadministrativa de la política deportiva
+statements: 
+  - id: 1
+    quote:  Garantizaremos una cultura de cooperación y alianzas en torno a la realidad deportiva con la que se aproveche plenamente el potencial y los recursos de las distintas Administraciones públicas y de los agentes privados del sector deportivo en España. 
+  - id: 2
+    quote: Esto también implica al nivel interadministrativo por áreas o materias (sanidad, medio ambiente, educación, entre otras) a través de informes y de la planificación de la política deportiva

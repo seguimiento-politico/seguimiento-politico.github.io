@@ -1,0 +1,32 @@
+id: 204a2ade-7edc-4ca8-ad93-439719eebddd
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 176
+ref_parent_chapter: "5.3.2.II"
+ref_section: "7"
+topics: [eficiencia energética]
+categories:
+  - Deportes
+  - Infraestructuras
+title: Incremento y diversificación de la oferta de promoción pública de espacios, instalaciones y actividades deportivas y lúdicas. 
+statements: 
+  - id: 1
+    quote: Apostamos por el multideporte como prioridad política nacional, por eso queremos incrementar el número de espacios, instalaciones y equipamientos deportivos al aire libre con horarios abiertos y gratuitos, tales como carriles bici, parques de salud, senderos deportivos, espacios de parkour y calistenia, rocódromos, pistas de skate y patinaje, entre otros, configurando «ciudades activas». 
+  - id: 2
+    quote: Vamos a promover la ampliación de horarios de apertura (en horarios de tarde-noche y fines de semana) en las instalaciones y los equipamientos deportivos de los ayuntamientos y a incrementar la creación de centros de alto rendimiento de las nuevas disciplinas emergentes tanto en la práctica deportiva de la población como en el ámbito de la competición y el olimpismo, tales como la escalada o el skate.
+  - id: 3
+    quote: Es importante también que mejoremos la sostenibilidad energética de las instalaciones deportivas, 
+    partial: ini
+  - id: 4
+    quote: garanticemos la adaptación y accesibilidad de los espacios, las instalaciones y los equipamientos deportivos, potenciemos las instalaciones deportivas dirigidas específicamente a las personas con discapacidad 
+  - id: 5
+    quote: y que adaptemos, en su caso, los espacios e instalaciones deportivas a la demanda deportiva en el medio rural. 
+  - id: 6
+    quote: En este sentido, sería interesante consolidar el senderismo como actividad estratégica de salud, bienestar y sociabilidad.
+    partial: end

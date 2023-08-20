@@ -1,0 +1,29 @@
+id: 557c8b7a-8c50-4c90-9abe-1147d95af2b4
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 180
+ref_parent_chapter: "5.3.3"
+ref_section: "5"
+topics: 
+  - privacidad digital
+categories:
+  - Ciencia y tecnología
+  - Economía
+title:  Apuesta estratégica por la innovación tecnológica
+statements: 
+  - id: 1
+    quote: En primer lugar, se trataría de implementar un programa que facilite la colaboración entre diferentes colectivos y entidades y el sector público, así como de personas de muy diferentes perfiles que trabajen con marcos alternativos de tecnología, con el objetivo de fomentar la incorporación efectiva de toda la población, independientemente de su género, origen nacional o étnico, identidad sexual u otras diversidades y, especialmente, de las personas en situación de vulnerabilidad en el acceso y la participación en la innovación tecnológica. 
+    partial: ini
+  - id: 2
+    quote: Es importante, además, que se trate de una innovación sostenible y respetuosa con los derechos de las personas trabajadoras.
+    partial: end
+  - id: 3
+    quote: Se busca impulsar un modelo de economía digital cooperativo, social, solidario y feminista que garantice la democracia económica y la capacidad colectiva en el ámbito de la planificación desde el que se fomente el cooperativismo de plataforma y se apoye el desarrollo de tecnologías de plataforma de código abierto en colaboración con otras Administraciones. 
+  - id: 4
+    quote: La creación de redes de laboratorios público-comunitarios ligadas al sector privado también es una estrategia clave para impulsar la innovación y el desarrollo en diferentes ámbitos.

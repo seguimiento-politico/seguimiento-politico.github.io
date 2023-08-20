@@ -1,0 +1,27 @@
+id: 89b5f0b6-0169-4113-b269-fc151853f9cd
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 177
+ref_parent_chapter: "5.3.2.III"
+ref_section: "10"
+categories:
+  - Deportes
+  - Trabajo
+title: Garantizar la adecuada regulación profesional y las salidas laborales de deportistas de alto rendimiento en España
+statements: 
+  - id: 1
+    quote: Contribuir al desarrollo de una legislación estatal de regulación profesional.
+  - id: 2
+    quote: Aplicar un sistema de inspección del personal contratado en las tareas profesionales de la actividad física y deportiva para evitar el intrusismo y garantizar la salud pública.
+  - id: 3
+    quote: Diseñar planes de empleo deportivo para promover la diversificación profesional y la incorporación de profesionales del sector mediante conciertos en los servicios de empleo, empresas, organizaciones no gubernamentales, federaciones, ayuntamientos, etcétera.
+  - id: 4
+    quote: Promover mejoras en las herramientas de apoyo a la inserción laboral de las y los deportistas de alto rendimiento tras la finalización de sus etapas deportivas y establecer un convenio especial con la Seguridad Social para la cotización, con efecto retroactivo, de los años de dedicación como Deportistas de Alto Nivel (DAN) mientras se disfrutaba de becas oficiales.
+  - id: 5
+    quote: Articular servicios de atención y cuidado de la salud mental para deportistas de alto nivel y alto rendimiento tanto en activo como retirados de la actividad deportiva y que incorporen planes de intervención y preparación (a corto, medio y largo plazo) de la transición tras retirarse de la vida deportiva activa.

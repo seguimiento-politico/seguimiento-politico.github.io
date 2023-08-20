@@ -1,0 +1,39 @@
+id: 339d30e5-a8ed-4fad-928f-eeca35929c03
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 179
+ref_parent_chapter: "5.3.3"
+ref_section: "2"
+topics: 
+  - software libre
+  - inteligencia artificial
+categories:
+  - Ciencia y tecnología
+  - Agencias y órganos públicos
+  - Educación
+  - Organización estatal y administraciones públicas
+title:  Uso social y cooperativo del software libre de código abierto y de la gestión de datos abiertos y un ecosistema de plataformas público-comunitarias
+description: Deben crearse infraestructuras tecnológicas desde las instituciones públicas que puedan ser administradas por la sociedad civil y que permitan desarrollar buena parte de las funciones públicas de manera eficiente, sostenible y sin reproducir las brechas digitales
+statements: 
+  - id: 1
+    quote: Proponemos una digitalización con aplicaciones público-comunitarias de software libre, interoperables entre Administraciones y organismos, y centradas en la usabilidad y portabilidad de datos, manteniendo siempre opciones reales de tramitación presencial para no marginar a nadie.
+  - id: 2
+    quote: Proponemos potenciar la inteligencia artificial basada en la evidencia científica como refuerzo y mejora de servicios públicos tales como la sanidad, siempre y cuando sea esencial, evitando que la agenda la marque el marketing de consultoras y grandes empresas.
+  - id: 3
+    quote: La Agencia Pública para la Transición Digital que se propone podría ayudar, con el impulso del software libre, a promover entramados de proyectos digitales públicos.
+  - id: 4
+    quote: De acuerdo con los marcos normativos existentes, las instituciones públicas deben utilizar estándares abiertos; redefinir la hoja de ruta de implantación del software libre en las Administraciones e impulsar un compromiso para ejecutarlo.
+  - id: 5
+    quote: Es necesario también un apoyo firme al despliegue del software libre en el ámbito de la escuela. Hay que crear repositorios y espacios documentales para facilitar el acceso a estos contenidos y realizar actuaciones de promoción y divulgación sobre los usos y beneficios de las licencias libres.
+  - id: 6
+    quote: De acuerdo con esto, también haremos una evaluación de los contratos de externalización de los servicios informáticos, potenciando el uso de software libre.
+  - id: 7
+    quote: Promoveremos la creación por parte de los organismos del Estado (CENATIC) de una base de datos donde la ciudadanía pueda consultar y acceder a las aplicaciones y herramientas de software libre disponibles y actualizadas.
+  - id: 8
+    quote: Se fomentará desde los medios de comunicación públicos la información y difusión del software libre, con campañas para la alfabetización digital y las opciones disponibles en lo referente al software privativo. Y ello incluyendo en los planes de formación de la Administración del Estado, dirigidos al personal o a la ciudadanía, una formación orientada a la utilización de software libre que nos acerque a los niveles de utilización en los países de nuestro entorno.
