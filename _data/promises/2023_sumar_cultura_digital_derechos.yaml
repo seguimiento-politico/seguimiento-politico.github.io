@@ -1,0 +1,26 @@
+id: fe4a5456-5475-418b-b1de-440ff0fd14a6
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 170
+ref_parent_chapter: "5.3.1.V"
+ref_section: "15"
+categories:
+  - Cultura
+  - Agencias y órganos públicos
+  - Trabajo
+title: Derechos para la cultura digital
+statements: 
+  - id: 1
+    quote: Impulsaremos el desarrollo de un Estatuto para la Creación Digital que dé cuerpo y protección jurídica a los trabajadores y las trabajadoras que desarrollan su actividad en este ámbito, favoreciendo la sindicación en estos sectores, el establecimiento de marcos laborales regulados y seguros y los mecanismos para la representación formal de dicho trabajo. 
+  - id: 2
+    quote: Se desarrollará un Plan de Infraestructuras Digitales Públicas para garantizar el acceso, el alojamiento, la distribución y la protección de obras en el ámbito digital. 
+  - id: 3
+    quote: Una infraestructura que sirva de soporte para la creación y que parta de estándares de interoperabilidad, transparencia y soberanía de los datos, garantizando la privacidad y la seguridad en las comunicaciones. 
+  - id: 3
+    quote: Por último, se desarrollará una Agencia pública de auditoría del algoritmo y la inteligencia artificial, así como una mesa de trabajo institucional e intersectorial para abordar una propuesta normativa ante el desafío de la protección de los derechos de autor y conexos en este ámbito.

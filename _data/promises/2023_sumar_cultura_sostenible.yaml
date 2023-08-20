@@ -1,0 +1,25 @@
+id: c70043e0-6804-4466-a395-48e108fa8d7d
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 173
+ref_parent_chapter: "5.3.1.IX"
+ref_section: "25"
+categories:
+  - Cultura
+  - Medioambiente
+title: Programa de cultura y sostenibilidad
+statements: 
+  - id: 1
+    quote: Incorporaremos protocolos de acción sostenible en las instituciones culturales dependientes del Ministerio de Cultura y Deporte que abordarán aspectos energéticos y medioambientales (como la mejora de la eficiencia energética, la gestión de residuos, la optimización en el uso de materiales o la movilidad no contaminante). 
+  - id: 2
+    quote: Crearemos indicadores para evaluar la sostenibilidad de las actividades culturales y aplicaremos criterios de sostenibilidad en las ayudas y la contratación pública. 
+  - id: 3
+    quote: Asimismo, desarrollaremos instrumentos para medir y compensar la huella de carbono de las actividades culturales y estableceremos criterios estéticos y técnicos para promover las energías renovables y el autoconsumo, respetando el patrimonio en entornos protegidos. 
+  - id: 4
+    quote: Respaldaremos financiera y formativamente a los agentes del tejido cultural para que puedan adaptarse. Es importante, en esta dirección, avanzar hacia un cine sostenible, tanto en la creación como en la producción y distribución.

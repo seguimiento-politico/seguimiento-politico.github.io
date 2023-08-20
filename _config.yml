@@ -126,7 +126,7 @@ defaults:
       path: "_docs"
     values:
       layout: document
-      comments: true
+      comments: false
   # tracks and promises
   - scope:
       path: "_promises"

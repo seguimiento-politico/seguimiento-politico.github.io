@@ -1,0 +1,26 @@
+id: 425f7270-51f2-4060-a546-34ec74dceafe
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 168
+ref_parent_chapter: "5.3.1.I"
+ref_section: "4"
+categories:
+  - Cultura
+  - Democracia
+  - Agencias y órganos públicos
+title: "Escucha permanente para democratizar la cultura: Plan estatal de cultura e impulso de los órganos de coordinación territorial y sectorial."
+statements: 
+  - id: 1
+    quote: Elaboraremos un Plan estatal de cultura que ponga de relieve la realidad pluricultural y lingüística, su valor social y su carácter como sector estratégico. 
+  - id: 2
+    quote: Un plan sustentado en un proceso de escucha permanente como espacio de participación y basado en el consenso político y la cooperación institucional y sectorial. 
+  - id: 3
+    quote: Ese Plan debe permitir que la sociedad se sienta representada en las políticas culturales y en su planificación a largo plazo, y ha de preservar los derechos culturales, la igualdad, la diversidad y el equilibrio territorial, el fomento y sostenibilidad de las industrias y tejidos culturales y creativos, y la participación ciudadana. 
+  - id: 4
+    quote: "Potenciaremos la relevancia, funciones y composición de los órganos de coordinación territorial y sectorial del Ministerio de Cultura y Deporte: Conferencia Sectorial de Cultura, Consejo de Patrimonio Histórico, Consejo de Cooperación Bibliotecaria, Consejo Estatal de las Artes Escénicas y de la Música, Comisión Interterritorial de la Cinematografía y el Audiovisual. Promoveremos una Mesa de Cultura estatal con la participación de las autonomías y representación de los sectores (colegios profesionales, asociaciones, colectivos, etcétera) para garantizar la coherencia, con diálogo, de las políticas culturales."

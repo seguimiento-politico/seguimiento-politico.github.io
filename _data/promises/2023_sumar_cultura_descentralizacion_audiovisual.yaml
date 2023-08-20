@@ -1,0 +1,18 @@
+id: 12e59aaf-adb1-4af5-b0c8-9c3e499fea77
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 173
+ref_parent_chapter: "5.3.1.IX"
+ref_section: "31"
+categories:
+  - Cultura
+title: Descentralización de la promoción y difusión de la producción audiovisual
+statements: 
+  - id: 1
+    quote: El Estado favorecerá la presencia en ferias y festivales, también internacionales, con ayudas específicas, y financiará la producción audiovisual territorial.

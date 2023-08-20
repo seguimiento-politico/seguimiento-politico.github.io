@@ -1,0 +1,25 @@
+id: be633563-ef70-41c5-8d55-6f433fb3b294
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 170
+ref_parent_chapter: "5.3.1.VI"
+ref_section: "17"
+categories:
+  - Cultura
+  - Territorio
+title:  Programa estatal de impulso a la creación e investigación cultural
+statements: 
+  - id: 1
+    quote: Articularemos un programa estatal de apoyo a la creación e investigación cultural (artística, literaria, educativa o de cualquier disciplina, práctica o ámbito científico y de estudio como el patrimonio, la arqueología o la museología, entre otros) como primer motor de la articulación territorial. 
+  - id: 2
+    quote: Se implementarán convocatorias de becas para las fases previas o ajenas a estructuras de producción, exhibición o publicación, y para periodos de entre uno y dos años. 
+  - id: 3
+    quote: Potenciaremos las convocatorias existentes y nuevas líneas de subvención para creaciones o proyectos de investigación en residencia (destinadas tanto a personas físicas como a las diversas estructuras y formas jurídicas de trabajo) en espacios e instituciones tanto de titularidad pública como privada; 
+  - id: 4
+    quote: y se creará una nueva convocatoria de concurrencia competitiva para proyectos de fomento de la creatividad artística en el marco del programa del 2% cultural (partida procedente de los contratos de obras públicas), dando así cumplimiento a la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español y a la Ley 14/2021

@@ -1,0 +1,18 @@
+id: 99573dee-be1e-4876-a2d9-8c272d0b0efa
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 173
+ref_parent_chapter: "5.3.1.IX"
+ref_section: "30"
+categories:
+  - Cultura
+title: Avance hacia una programación completa multilingüe y en lenguas cooficiales en todas las radiotelevisiones públicas del Estado
+statements: 
+  - id: 1
+    quote: Deberá incluir las televisiones públicas que emiten en las diferentes comunidades autónomas en la totalidad del Estado, que contará con una programación completa en lengua propia, compartida e intercambiada con otras comunidades autónomas del mismo dominio lingüístico, e incluyendo la reciprocidad entre las televisiones públicas autonómicas que comparten un mismo sistema lingüístico.

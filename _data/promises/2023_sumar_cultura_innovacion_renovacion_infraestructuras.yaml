@@ -1,0 +1,20 @@
+id: 4682daac-9921-45b6-bc90-f787c50824ac
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 170
+ref_parent_chapter: "5.3.1.III"
+ref_section: "13"
+categories:
+  - Cultura
+  - Impuestos y financiación pública
+  - Economía
+title: Apoyo a la innovación y la renovación de infraestructuras culturales privadas
+statements: 
+  - id: 1
+    quote: Estableceremos incentivos fiscales y líneas específicas de acceso al crédito público que favorezcan la inversión para la innovación y renovación de las salas de cine, salas de concierto, espacios de arte y otros espacios destinados a la cultura, con el objetivo de tener una infraestructura que sea más eficiente y sostenible.

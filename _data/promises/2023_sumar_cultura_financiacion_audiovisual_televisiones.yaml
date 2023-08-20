@@ -1,0 +1,22 @@
+id: d57ce826-1328-4d38-bd21-c796a4f96bfb
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 173
+ref_parent_chapter: "5.3.1.IX"
+ref_section: "27"
+categories:
+  - Cultura
+title: Redefinición del papel de las televisiones públicas y privadas en la financiación del audiovisual español
+statements: 
+  - id: 1
+    quote: Se revisará la actual regulación que obliga a las televisiones a invertir en cine y animación, para contribuir de modo efectivo al apoyo de la producción independiente. 
+  - id: 2
+    quote: Se crearán comités públicos para que el proceso de selección de los proyectos en los que participen las televisiones públicas se rija por criterios de transparencia, equidad y pluralidad. 
+  - id: 3
+    quote: Asimismo, para fomentar la diversidad audiovisual las televisiones públicas deberán dedicar un porcentaje de sus ingresos a la adquisición de títulos en lenguas oficiales del Estado, títulos europeos (no españoles) y latinoamericanos en condiciones equilibradas de mercado.

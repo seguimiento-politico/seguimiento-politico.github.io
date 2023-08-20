@@ -1,0 +1,27 @@
+id: 658214a6-74ec-413c-999c-b09ce5f86555
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 172
+ref_parent_chapter: "5.3.1.VIII"
+ref_section: "25"
+categories:
+  - Cultura
+  - Derechos y servicios sociales
+title: Medidas para profundizar en la igualdad de género en cultura
+statements: 
+  - id: 1
+    quote: Garantizaremos el cumplimiento efectivo del artículo 26 de la Ley Orgánica 3/2007, para la igualdad efectiva de mujeres y hombres. 
+  - id: 2
+    quote: Para ello, implementaremos planes de igualdad en los organismos y equipamientos dependientes del Ministerio de Cultura y Deporte, elaboraremos informes periódicos sobre la situación de las mujeres en la cultura y el impacto de las políticas culturales públicas, y analizaremos desagregadamente por género los datos sobre personas beneficiarias de ayudas y las contrataciones artísticas. 
+  - id: 3
+    quote: Promoveremos medidas de acción positiva y una presencia equilibrada de mujeres en todas las áreas artísticas y en las programaciones culturales. 
+  - id: 4
+    quote: Fomentaremos buenas prácticas de género en las instituciones culturales, asegurando la paridad en jurados, tribunales y comisiones de valoración, así como la inclusión de cláusulas de género en la contratación pública. 
+  - id: 5
+    quote: Brindaremos apoyo para recuperar la memoria de mujeres artistas y creadoras, ampliando la documentación en museos, archivos y bibliotecas, así como respaldando proyectos de investigación e inventario de fondos artísticos en riesgo de desaparición.

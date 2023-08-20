@@ -112,7 +112,7 @@
                 {% assign index = chapter.chapter | append: "." | append: chapter1.chapter %}
                 {% assign proms = promises | where: 'ref_id', doc.id | where: 'ref_parent_chapter', index | sort: 'ref_section' %}
                 {% if include.type == 'full' or include.type == 'full_compact' or include.type == 'schematic' or include.type == 'schematic_compact' %}
-                    {% if chapter.description %}<p>{{ chapter.description }}</p>{% endif %}
+                    {% if chapter1.description %}<p>{{ chapter2.description }}</p>{% endif %}
                 {% endif %}
                 <ul >
                     {% for item in proms %}
@@ -159,7 +159,7 @@
                     {% assign index = chapter.chapter | append: "." | append: chapter1.chapter | append: "." | append: chapter2.chapter %}
                     {% assign proms = promises | where: 'ref_id', doc.id | where: 'ref_parent_chapter', index | sort: 'ref_section' %}
                     {% if include.type == 'full' or include.type == 'full_compact' or include.type == 'schematic' or include.type == 'schematic_compact' %}
-                        {% if chapter.description %}<p>{{ chapter.description }}</p>{% endif %}
+                        {% if chapter2.description %}<p>{{ chapter2.description }}</p>{% endif %}
                     {% endif %}
                     <ul>
                         {% for item in proms %}
@@ -206,7 +206,7 @@
                         {% assign index = chapter.chapter | append: "." | append: chapter1.chapter | append: "." | append: chapter2.chapter | append: "." | append: chapter3.chapter %}
                         {% assign proms = promises | where: 'ref_id', doc.id | where: 'ref_parent_chapter', index | sort: 'ref_section' %}
                         {% if include.type == 'full' or include.type == 'full_compact' or include.type == 'schematic' or include.type == 'schematic_compact' %}
-                            {% if chapter.description %}<p>{{ chapter.description }}</p>{% endif %}
+                            {% if chapter3.description %}<p>{{ chapter3.description }}</p>{% endif %}
                         {% endif %}
                         <ul >
                             {% for item in proms %}
@@ -253,7 +253,7 @@
                             {% assign index = chapter.chapter | append: "." | append: chapter1.chapter | append: "." | append: chapter2.chapter | append: "." | append: chapter3.chapter | append: "." | append: chapter4.chapter %}
                             {% assign proms = promises | where: 'ref_id', doc.id | where: 'ref_parent_chapter', index | sort: 'ref_section' %}
                             {% if include.type == 'full' or include.type == 'full_compact' or include.type == 'schematic' or include.type == 'schematic_compact' %}
-                                {% if chapter.description %}<p>{{ chapter.description }}</p>{% endif %}
+                                {% if chapter4.description %}<p>{{ chapter4.description }}</p>{% endif %}
                             {% endif %}
                             <ul >
                             {% for item in proms %}

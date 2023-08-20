@@ -1,0 +1,28 @@
+id: 0c6006e4-508b-47c1-aa95-a8116758a3d4
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - SUMAR
+ref_type: manifesto
+ref_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+ref_page: 168
+ref_parent_chapter: "5.3.1.I"
+ref_section: "5"
+categories:
+  - Cultura
+  - Educación
+  - Agencias y órganos públicos
+title: Refuerzo institucional de la cultura y de nuevos ámbitos de actuación.
+statements: 
+  - id: 1
+    quote: Se propondrá mantener el Ministerio de Cultura y Deporte y abordaremos mejoras en su estructura y funcionamiento, con el impulso de áreas como Cultura, Territorio y Ciudadanía, Cultura Digital y Comunicación Pública Cultural; 
+  - id: 2
+    quote: la reforma del Instituto Nacional de las Artes Escénicas y de la Música, así como la redefinición de la misión del Instituto de la Cinematografía y las Artes Audiovisuales (ICAA) y el estudio de creación de una Agencia Estatal del Cine y el Audiovisual. 
+  - id: 3
+    quote: Se defiende también la importancia de retomar la mesa de trabajo para el estudio de una ley específica, y la apuesta, entre otras cuestiones, por la creación del Centro Nacional de Danza. 
+  - id: 4
+    quote: Asimismo, se proponen medidas para los museos estatales en cuestiones como el equilibrio de recursos y la autonomía, o su misión acorde a la definición actualizada por el ICOM. 
+  - id: 5
+    quote: También se defiende la apuesta transversal de las instituciones, centros y unidades del Ministerio mediante programas de apoyo a la creación y a la cooperación cultural internacional, la dotación de personal suficiente y la formación continua para garantizar tanto el funcionamiento de equipamientos y programas como la tramitación de ayudas y subvenciones
