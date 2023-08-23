@@ -60,12 +60,17 @@
     </div>
     
     <!-- CONTENT -->
-    <div class="bd-content ps-lg-2">
+    <div class="bd-content ps-lg-2" id="doc_content">
         {% for chapter in doc.index %}
             <h2 id="{{chapter.title | slugify}}">{{chapter.chapter}}. {{chapter.title}} </h2>
             {% assign proms = promises | where: 'ref_id', doc.id | where: 'ref_parent_chapter', chapter.chapter | sort: 'ref_section' %}
-            {% if include.type == 'full' or include.type == 'full_compact' or include.type == 'schematic' or include.type == 'schematic_compact' %}
-                {% if chapter.description %}<p>{{ chapter.description }}</p>{% endif %}
+            {% if chapter.description %}
+                    <div class="card card-body summary mx-0">
+                        <p class="collapse mb-0" id="summary_{{chapter.title | slugify }}" data-bs-parent="#doc_content">
+                            {{ chapter.description }}
+                        </p>
+                        <a class="read-more collapsed" data-bs-toggle="collapse" href="#summary_{{chapter.title | slugify }}" role="button" aria-expanded="false" aria-controls="summary_{{chapter.title | slugify }}"></a>
+                    </div> 
             {% endif %}
             <ul >
                 {% for item in proms %}
@@ -111,8 +116,13 @@
                 <h3 id="{{chapter1.title | slugify}}" >{{chapter.chapter}}.{{chapter1.chapter}}. {{chapter1.title}} </h3>
                 {% assign index = chapter.chapter | append: "." | append: chapter1.chapter %}
                 {% assign proms = promises | where: 'ref_id', doc.id | where: 'ref_parent_chapter', index | sort: 'ref_section' %}
-                {% if include.type == 'full' or include.type == 'full_compact' or include.type == 'schematic' or include.type == 'schematic_compact' %}
-                    {% if chapter1.description %}<p>{{ chapter1.description }}</p>{% endif %}
+                {% if chapter1.description %}
+                    <div class="card card-body summary">
+                        <p class="collapse mb-0" id="summary_{{chapter1.title | slugify }}" data-bs-parent="#doc_content">
+                            {{ chapter1.description }}
+                        </p>
+                        <a class="read-more collapsed" data-bs-toggle="collapse" href="#summary_{{chapter1.title | slugify }}" role="button" aria-expanded="false" aria-controls="summary_{{chapter1.title | slugify }}"></a>
+                    </div> 
                 {% endif %}
                 <ul >
                     {% for item in proms %}
@@ -158,8 +168,13 @@
                     <h4 id="{{chapter2.title | slugify}}" >{{chapter.chapter}}.{{chapter1.chapter}}.{{chapter2.chapter}}. {{chapter2.title}} </h4>
                     {% assign index = chapter.chapter | append: "." | append: chapter1.chapter | append: "." | append: chapter2.chapter %}
                     {% assign proms = promises | where: 'ref_id', doc.id | where: 'ref_parent_chapter', index | sort: 'ref_section' %}
-                    {% if include.type == 'full' or include.type == 'full_compact' or include.type == 'schematic' or include.type == 'schematic_compact' %}
-                        {% if chapter2.description %}<p>{{ chapter2.description }}</p>{% endif %}
+                    {% if chapter2.description %}   
+                            <div class="card card-body summary">
+                                <p class="collapse mb-0" id="summary_{{chapter2.title | slugify }}" data-bs-parent="#doc_content">
+                                    {{ chapter2.description }}
+                                </p>
+                                <a class="read-more collapsed" data-bs-toggle="collapse" href="#summary_{{chapter2.title | slugify }}" role="button" aria-expanded="false" aria-controls="summary_{{chapter2.title | slugify }}"></a>
+                            </div> 
                     {% endif %}
                     <ul>
                         {% for item in proms %}
@@ -205,8 +220,13 @@
                         <h5 id="{{chapter3.title | slugify}}" >{{chapter.chapter}}.{{chapter1.chapter}}.{{chapter2.chapter}}.{{chapter3.chapter}}. {{chapter3.title}} </h5>
                         {% assign index = chapter.chapter | append: "." | append: chapter1.chapter | append: "." | append: chapter2.chapter | append: "." | append: chapter3.chapter %}
                         {% assign proms = promises | where: 'ref_id', doc.id | where: 'ref_parent_chapter', index | sort: 'ref_section' %}
-                        {% if include.type == 'full' or include.type == 'full_compact' or include.type == 'schematic' or include.type == 'schematic_compact' %}
-                            {% if chapter3.description %}<p>{{ chapter3.description }}</p>{% endif %}
+                        {% if chapter3.description %}
+                            <div class="card card-body summary">
+                                <p class="collapse mb-0" id="summary_{{chapter3.title | slugify }}" data-bs-parent="#doc_content">
+                                    {{ chapter3.description }}
+                                </p>
+                                <a class="read-more collapsed" data-bs-toggle="collapse" href="#summary_{{chapter3.title | slugify }}" role="button" aria-expanded="false" aria-controls="summary_{{chapter3.title | slugify }}"></a>
+                            </div> 
                         {% endif %}
                         <ul >
                             {% for item in proms %}
@@ -252,8 +272,13 @@
                             <h6 id="{{chapter4.title | slugify}}">{{chapter.chapter}}.{{chapter1.chapter}}.{{chapter2.chapter}}.{{chapter3.chapter}}.{{chapter4.chapter}}. {{chapter4.title}} </h6>
                             {% assign index = chapter.chapter | append: "." | append: chapter1.chapter | append: "." | append: chapter2.chapter | append: "." | append: chapter3.chapter | append: "." | append: chapter4.chapter %}
                             {% assign proms = promises | where: 'ref_id', doc.id | where: 'ref_parent_chapter', index | sort: 'ref_section' %}
-                            {% if include.type == 'full' or include.type == 'full_compact' or include.type == 'schematic' or include.type == 'schematic_compact' %}
-                                {% if chapter4.description %}<p>{{ chapter4.description }}</p>{% endif %}
+                            {% if chapter4.description %}
+                                <div class="card card-body summary">
+                                    <p class="collapse mb-0" id="summary_{{chapter4.title | slugify }}" data-bs-parent="#doc_content">
+                                        {{ chapter4.description }}
+                                    </p>
+                                    <a class="read-more collapsed" data-bs-toggle="collapse" href="#summary_{{chapter4.title | slugify }}" role="button" aria-expanded="false" aria-controls="summary_{{chapter4.title | slugify }}"></a>
+                                </div> 
                             {% endif %}
                             <ul >
                             {% for item in proms %}

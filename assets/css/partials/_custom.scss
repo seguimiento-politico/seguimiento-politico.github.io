@@ -1,8 +1,9 @@
 #btn-back-to-top {
   position: fixed;
-  bottom: 20px;
-  right: 20px;
+  bottom: 10px;
+  right: 10px;
   display: none;
+  z-index: 100;
 }
 
 .source_sup{
@@ -40,7 +41,43 @@
 	grid-template-columns: 2fr 5fr;
 }
 
-@media (max-width: 767px) {
-        #cookie-notice span {display: block; padding-top: 3px; margin-bottom: 1rem;}
-        #cookie-notice a {position: relative; bottom: 4px;}
-    }
+.summary {
+  position: relative;
+}
+
+.summary .collapse, 
+.summary .collapsing {
+  height: 3rem;
+}
+
+.summary .collapse {
+  display: block; // By default the bootstrap collapse has a display: none
+  overflow: hidden;
+}
+
+.summary .collapse.show {
+  height: auto;
+}
+
+
+.read-more {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+
+  // 60% is where it should start the transition from transparent to white, increase it if you want to show more of your text
+  background-image: linear-gradient(to bottom, transparent 20%, white);
+
+  // The opacity and transition is just to smooth out the effect 
+  opacity: 1;
+  transition: all .3s linear;
+}
+
+.read-more:not(.collapsed) {
+  opacity: 0;
+  // If you want to make the clickable area disapear once it is open, change the visibility to hidden:
+  /* visibility: hidden; */
+}
