@@ -1,0 +1,22 @@
+id: b27cac18-3c99-49bb-a773-ec06304f66cf
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 28
+ref_parent_chapter: "I.3"
+ref_section: "001"
+categories:
+  - Economía
+  - Trabajo
+  - Empresas y comercio
+  - Educación
+  - Ciencia y tecnología
+title: Seguiremos impulsando la agenda de transformación digital
+statements:
+  - id: 1
+    quote: Seguiremos impulsando la agenda de transformación digital, mediante la colaboración público-privada, con el fin de apoyar la inversión productiva y la modernización del conjunto de la economía, mediante la digitalización de las pymes, las competencias digitales del conjunto de la ciudadanía, y la integración de la inteligencia artificial y otras nuevas tecnologías en los procesos productivos.

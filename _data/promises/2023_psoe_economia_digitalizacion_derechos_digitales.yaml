@@ -1,0 +1,19 @@
+id: 5f9f4c67-2ff1-4491-92aa-b4bcf64fde69
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 29
+ref_parent_chapter: "I.3"
+ref_section: "006"
+categories:
+  - Ciencia y tecnología
+  - Derechos y servicios sociales
+title: Seguiremos impulsando la Carta de Derechos Digitales
+statements:
+  - id: 1
+    quote: Seguiremos impulsando la Carta de Derechos Digitales en el ordenamiento jurídico nacional e internacional, con atención especial a los menores, a las neurotecnologías, la biología sintética, las nuevas realidades inmersivas en plataformas y la inteligencia artificial generativa.

@@ -1,0 +1,20 @@
+id: 4fe635ef-6967-45cb-b52a-fc695f8565bd
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 30
+ref_parent_chapter: "I.3"
+ref_section: "014"
+categories:
+  - Educación
+  - Trabajo
+  - Ciencia y tecnología
+title: Garantizaremos la recualificación y la formación a todas las personas desempleadas y trabajadoras
+statements:
+  - id: 1
+    quote: Garantizaremos la recualificación y la formación a todas las personas desempleadas y trabajadoras, de manera que puedan acceder a los empleos de la nueva economía digital y verde.

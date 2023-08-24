@@ -1,0 +1,19 @@
+id: 075e6360-66c6-42cf-9860-2eb40cac8934
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 29
+ref_parent_chapter: "I.3"
+ref_section: "011"
+categories:
+  - Ciencia y tecnología
+  - Organización estatal y administraciones públicas
+title: Seguiremos impulsando la modernización y digitalización de las Administraciones Públicas
+statements:
+  - id: 1
+    quote: Seguiremos impulsando la modernización y digitalización de las Administraciones Públicas con el objetivo de ofrecer una gestión más eficiente, rápida y segura para toda la ciudadanía.

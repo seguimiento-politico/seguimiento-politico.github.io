@@ -1,0 +1,21 @@
+id: b56240d5-de24-4efb-a80c-44b80703201e
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 29
+ref_parent_chapter: "I.3"
+ref_section: "007"
+categories:
+  - Ciencia y tecnología
+  - Derechos y servicios sociales 
+  - Seguridad y defensa
+  - Sanidad
+title: Convocaremos un grupo de trabajo con el sector privado y expertos para articular una regulación adecuada del acceso de menores a internet/redes sociales
+statements:
+  - id: 1
+    quote: En la próxima legislatura, convocaremos un grupo de trabajo con el sector privado y expertos para articular una regulación adecuada del acceso de menores a internet/redes sociales, con el fin de garantizar su protección y su salud mental.

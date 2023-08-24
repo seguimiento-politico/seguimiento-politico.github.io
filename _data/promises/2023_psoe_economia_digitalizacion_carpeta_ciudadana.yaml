@@ -1,0 +1,23 @@
+id: 3f3cac7d-76db-41e6-a951-0cadb7b4f345
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 29
+ref_parent_chapter: "I.3"
+ref_section: "012"
+categories:
+  - Ciencia y tecnología
+  - Organización estatal y administraciones públicas
+title: Continuaremos incorporando funcionalidades a la Carpeta Ciudadana
+statements:
+  - id: 1
+    quote: Continuaremos incorporando funcionalidades a la Carpeta Ciudadana, 
+    partial: ini
+  - id: 2
+    partial: end
+    quote: y la ampliaremos al ámbito de las empresas y los autónomos, para que las principales gestiones se puedan realizar fácilmente en un clic.

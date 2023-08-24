@@ -1,0 +1,26 @@
+id: 6d164048-e168-4078-9345-77128ea1299f
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 31
+ref_parent_chapter: "I.4"
+ref_section: "007"
+categories:
+  - Empresas y comercio
+  - Ciencia y tecnología
+topics: [Autónomos, pymes] 
+title: Ampliaremos el programa Kit Digital para poder impulsar la digitalización de las pymes de más de 50 trabajadores y autónomos.
+statements:
+  - id: 1
+    quote: Ampliaremos el programa Kit Digital para poder impulsar la digitalización de las pymes de más de 50 trabajadores y autónomos.
+  - id: 2
+    quote: Seguiremos impulsando la digitalización de las PYMEs y autónomos, extendiendo el programa Kit Digital a empresas de más de 50 trabajadores,
+  - id: 3
+    quote: mpulsando el desarrollo de clusters, centros de innovación digital (Digital Innovation Hubs) y Asociaciones de Empresas Innovadoras,
+  - id: 4
+    quote: así como los programas de formación de directivos y autónomos, con el fin de promover las redes de colaboración entre empresas, claves para aumentar la productividad a través de la innovación.

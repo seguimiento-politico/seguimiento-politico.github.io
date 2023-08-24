@@ -1,0 +1,19 @@
+id: 9aecda4d-9137-43fd-9f65-ceef5d4498a3
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 25
+ref_parent_chapter: "I.1"
+ref_section: "006"
+categories:
+  - Derechos y servicios sociales
+topics:
+title: Seguiremos llenando la hucha de las pensiones
+statements:
+  - id: 1
+    quote: con el fin de garantizar la sostenibilidad a largo plazo y poder mantener pensiones dignas para las generaciones futuras.

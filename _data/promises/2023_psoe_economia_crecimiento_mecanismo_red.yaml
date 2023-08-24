@@ -1,0 +1,20 @@
+id: b45a4b08-5593-445b-b6ce-70b3430362cd
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 27
+ref_parent_chapter: "I.2"
+ref_section: "004"
+categories:
+  - Economía
+  - Trabajo
+  - Derechos y servicios sociales
+title: Dotaremos el fondo del mecanismo RED
+statements:
+  - id: 1
+    quote: Dotaremos el fondo del mecanismo RED, con el fin de disponer de una red de seguridad y un mecanismo de estabilización contracíclico para impulsar la recualificación y reincorporación de los trabajadores

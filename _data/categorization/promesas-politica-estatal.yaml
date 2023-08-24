@@ -73,6 +73,8 @@ categories:
         icon: globe  
     -   name: Cooperación internacional
         icon: peace
+    -   name: Europa
+        icon: earth-europe
 
 statuses:
     -   name: Desconocido

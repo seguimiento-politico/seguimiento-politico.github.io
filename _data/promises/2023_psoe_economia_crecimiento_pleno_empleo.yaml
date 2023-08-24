@@ -1,0 +1,45 @@
+id: 50d0d5bd-7313-40a5-80cd-9a52a7b0f2a0
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 25
+ref_parent_chapter: "I.2"
+ref_section: "001"
+categories:
+  - Derechos y servicios sociales
+  - Trabajo
+  - Educación
+  - Empresas y comercio
+topics:
+  - Igualdad
+title: Impulsaremos con los agentes sociales un Pacto por el Pleno Empleo para acelerar el círculo virtuoso de formación y colocación
+statements:
+  - id: 1
+    quote: desarrollando el segundo pilar de protección, en el ámbito laboral, para aumentar las posibilidades de ahorro y mejorar la calidad de vida de las personas de cara a la jubilación.
+    partial: ini
+  - id: 2
+    quote: "y, de ese modo, aprovechar el impulso de la inversión con los fondos europeos Next Generation, alinear los niveles de desempleo al 8% de paro estructural en línea con la media europea, con los siguientes componentes:"
+    partial: end
+  - id: 3
+    quote: Mejora de ajuste oferta-demanda de trabajo mediante un sistema integrado de información de los sistemas de gestión del SEPE y de la Seguridad Social. De esta forma, mejoraremos el mecanismo de ajuste de oferta y demanda de trabajo (matching), con la integración de los sistemas de gestión de los Servicios Públicos de Empleo y la Tesorería General de la Seguridad Social, la creación de un sistema integrado de información sobre vacantes, demandantes de empleo y perfiles formativos y la introducción de herramientas de inteligencia artificial para alinear las vacantes con los perfiles de las personas desempleadas.
+  - id: 4
+    quote: Impulso de un programa de planes cortos de formación y recualificación (microacreditaciones) para la nueva economía verde y digital.
+  - id: 5
+    quote: Con el fin de impulsar la formación en el empleo para los jóvenes, garantizándoles una protección adecuada con un Plan de Choque contra el desempleo juvenil con el mecanismo Pack “formación + empleo” en 12 meses.
+  - id: 6
+    quote: Aumento de las opciones y de la oferta de Formación Profesional, con atención especial al impulso en las pymes. Esta oferta estará alineada con los PERTES para promover los perfiles para la nueva economía verde, de los cuidados, sanitaria y digital.
+  - id: 7
+    quote: Pondremos en marcha el programa de prácticas de empresa, con el SMI y la SS cubiertos, con mentores en el sistema público de empleo y tutores en las empresas, como el mejor modo de entrada en el mercado de trabajo de los jóvenes que hayan estado un año en paro.
+  - id: 8
+    quote: Desarrollaremos los servicios garantizados de la Ley de Empleo 3/2023, tanto de las personas demandantes de empleo como de la pequeña y mediana empresa.
+  - id: 9
+    quote: Mantendremos la centralidad del diálogo social para la gobernanza de las relaciones laborales.
+  - id: 10
+    quote: Garantizaremos en el Estatuto de los trabajadores que el SMI se acompase al 60% del salario medio; medida tambien eficaz para lograr la igualdad salarial entre hombres y mujeres.
+  - id: 11
+    quote: Reforma de los sistemas de protección activa para los parados de larga duración y refuerzo de los incentivos al empleo de beneficiarios de subsidios y del Ingreso Mínimo Vital

@@ -1,0 +1,24 @@
+id: 8e68503a-7520-4593-aaae-058a9a727afa
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 30
+ref_parent_chapter: "I.4"
+ref_section: "003"
+categories:
+  - Medioambiente
+  - Cambio climático
+  - Empresas y comercio
+  - Ciencia y tecnología
+topics: [Autónomos, pymes]
+title: Acompañaremos a las empresas, especialmente a las pymes y autónomos, en el proceso de proceso de transición ecológica y de adaptación e incorporación de las nuevas reglas europeas en materia verde y digital.
+statements:
+  - id: 1
+    quote: Acompañaremos a las empresas, especialmente a las pymes y autónomos, en el proceso de proceso de transición ecológica y de adaptación e incorporación de las nuevas reglas europeas en materia verde y digital.
+  - id: 2
+    quote: Seguiremos apoyando con financiación pública las inversiones necesarias para la adaptación a los requisitos normativos, la incorporación de nuevas tecnologías y la modernización de los procesos empresariales.

@@ -1,0 +1,19 @@
+id: cb11794e-ca85-4bda-b28f-549abaf48480
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 29
+ref_parent_chapter: "I.3"
+ref_section: "010"
+categories:
+  - Ciencia y tecnología
+  - Seguridad y defensa
+title: Reforzaremos la ciberseguridad en el ámbito público y privado
+statements:
+  - id: 1
+    quote: Reforzaremos la ciberseguridad en el ámbito público y privado con el fin de proporcionar un entorno fiable y de confianza para el desarrollo de las nuevas tecnologías.

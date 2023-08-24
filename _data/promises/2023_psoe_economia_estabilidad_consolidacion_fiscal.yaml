@@ -1,0 +1,26 @@
+id: cbd084e8-11da-47fa-a5b6-ed183dc0a4ab
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 24
+ref_parent_chapter: "I.1"
+ref_section: "002"
+categories:
+  - Economía
+  - Impuestos y financiación pública
+topics:
+title: Seguiremos en la senda de consolidación fiscal y sostenibilidad de las cuentas públicas
+statements:
+  - id: 1
+    quote: reduciendo el déficit estructural y 
+    partial: ini
+  - id: 2
+    quote: luchando contra el fraude y la economía sumergida para incrementar los ingresos sin aumentar, con carácter general, los impuestos y permitir así financiar de forma eficiente y justa las políticas públicas, la inversión y el refuerzo del estado de bienestar. 
+    partial: end
+  - id: 3
+    quote: Velaremos por el cumplimiento de los parámetros de consolidación fiscal en el conjunto de los sectores.

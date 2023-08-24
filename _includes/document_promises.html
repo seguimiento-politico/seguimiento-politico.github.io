@@ -37,7 +37,7 @@
         </button>
         <strong class="d-none d-md-block h6 my-2 ms-3">Índice</strong>
         <hr class="d-none d-md-block my-2 ms-3">
-        <div class="collapse bd-toc-collapse" id="tocContents">
+        <div class="collapse bd-toc-collapse"id="tocContents">
             <nav id="TableOfContents">
                 <ul>
                     {% for chapter in doc.index %}
@@ -65,8 +65,8 @@
             <h2 id="{{chapter.title | slugify}}">{{chapter.chapter}}. {{chapter.title}} </h2>
             {% assign proms = promises | where: 'ref_id', doc.id | where: 'ref_parent_chapter', chapter.chapter | sort: 'ref_section' %}
             {% if chapter.description %}
-                    <div class="card card-body summary mx-0">
-                        <p class="collapse mb-0" id="summary_{{chapter.title | slugify }}" data-bs-parent="#doc_content">
+                    <div class="summary mx-0">
+                        <p class="collapse" id="summary_{{chapter.title | slugify }}" data-bs-parent="#doc_content">
                             {{ chapter.description }}
                         </p>
                         <a class="read-more collapsed" data-bs-toggle="collapse" href="#summary_{{chapter.title | slugify }}" role="button" aria-expanded="false" aria-controls="summary_{{chapter.title | slugify }}"></a>
@@ -117,8 +117,8 @@
                 {% assign index = chapter.chapter | append: "." | append: chapter1.chapter %}
                 {% assign proms = promises | where: 'ref_id', doc.id | where: 'ref_parent_chapter', index | sort: 'ref_section' %}
                 {% if chapter1.description %}
-                    <div class="card card-body summary">
-                        <p class="collapse mb-0" id="summary_{{chapter1.title | slugify }}" data-bs-parent="#doc_content">
+                    <div class="summary">
+                        <p class="collapse" id="summary_{{chapter1.title | slugify }}" data-bs-parent="#doc_content">
                             {{ chapter1.description }}
                         </p>
                         <a class="read-more collapsed" data-bs-toggle="collapse" href="#summary_{{chapter1.title | slugify }}" role="button" aria-expanded="false" aria-controls="summary_{{chapter1.title | slugify }}"></a>
@@ -169,8 +169,8 @@
                     {% assign index = chapter.chapter | append: "." | append: chapter1.chapter | append: "." | append: chapter2.chapter %}
                     {% assign proms = promises | where: 'ref_id', doc.id | where: 'ref_parent_chapter', index | sort: 'ref_section' %}
                     {% if chapter2.description %}   
-                            <div class="card card-body summary">
-                                <p class="collapse mb-0" id="summary_{{chapter2.title | slugify }}" data-bs-parent="#doc_content">
+                            <div class="summary">
+                                <p class="collapse" id="summary_{{chapter2.title | slugify }}" data-bs-parent="#doc_content">
                                     {{ chapter2.description }}
                                 </p>
                                 <a class="read-more collapsed" data-bs-toggle="collapse" href="#summary_{{chapter2.title | slugify }}" role="button" aria-expanded="false" aria-controls="summary_{{chapter2.title | slugify }}"></a>
@@ -221,8 +221,8 @@
                         {% assign index = chapter.chapter | append: "." | append: chapter1.chapter | append: "." | append: chapter2.chapter | append: "." | append: chapter3.chapter %}
                         {% assign proms = promises | where: 'ref_id', doc.id | where: 'ref_parent_chapter', index | sort: 'ref_section' %}
                         {% if chapter3.description %}
-                            <div class="card card-body summary">
-                                <p class="collapse mb-0" id="summary_{{chapter3.title | slugify }}" data-bs-parent="#doc_content">
+                            <div class="summary">
+                                <p class="collapse" id="summary_{{chapter3.title | slugify }}" data-bs-parent="#doc_content">
                                     {{ chapter3.description }}
                                 </p>
                                 <a class="read-more collapsed" data-bs-toggle="collapse" href="#summary_{{chapter3.title | slugify }}" role="button" aria-expanded="false" aria-controls="summary_{{chapter3.title | slugify }}"></a>
@@ -273,8 +273,8 @@
                             {% assign index = chapter.chapter | append: "." | append: chapter1.chapter | append: "." | append: chapter2.chapter | append: "." | append: chapter3.chapter | append: "." | append: chapter4.chapter %}
                             {% assign proms = promises | where: 'ref_id', doc.id | where: 'ref_parent_chapter', index | sort: 'ref_section' %}
                             {% if chapter4.description %}
-                                <div class="card card-body summary">
-                                    <p class="collapse mb-0" id="summary_{{chapter4.title | slugify }}" data-bs-parent="#doc_content">
+                                <div class="summary">
+                                    <p class="collapse" id="summary_{{chapter4.title | slugify }}" data-bs-parent="#doc_content">
                                         {{ chapter4.description }}
                                     </p>
                                     <a class="read-more collapsed" data-bs-toggle="collapse" href="#summary_{{chapter4.title | slugify }}" role="button" aria-expanded="false" aria-controls="summary_{{chapter4.title | slugify }}"></a>

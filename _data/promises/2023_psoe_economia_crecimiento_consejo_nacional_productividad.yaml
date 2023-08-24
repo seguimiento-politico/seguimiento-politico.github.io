@@ -1,0 +1,19 @@
+id: 8ffbcfd5-47e2-4a95-bfd7-42cc69630bb9
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 27
+ref_parent_chapter: "I.2"
+ref_section: "009"
+categories:
+  - Economía
+  - Agencias y órganos públicos
+title: Crearemos el Consejo Nacional por la Productividad
+statements:
+  - id: 1
+    quote: Crearemos el Consejo Nacional por la Productividad para profundizar en el análisis y estimación del impacto sobre la productividad y contribuir así a la evaluación de las reformas de forma coordinada con los distintos organismos de evaluación de políticas públicas.

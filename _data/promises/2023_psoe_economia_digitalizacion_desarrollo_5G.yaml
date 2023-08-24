@@ -1,0 +1,19 @@
+id: f73f7895-0071-47b5-a168-a1aa261973a2
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 29
+ref_parent_chapter: "I.3"
+ref_section: "009"
+categories:
+  - Ciencia y tecnología
+title: Impulsaremos el desarrollo de la tecnología 5G
+statements:
+  - id: 1
+    quote: Impulsaremos el desarrollo de la tecnología 5G, para que pueda desarrollarse la industria 4.0 en todo el territorio, así como la investigación y el desarrollo de la tecnología 6G.
+  

@@ -1,0 +1,21 @@
+id: 3a997084-40ca-4509-a298-f23621258207
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 24
+ref_parent_chapter: "I.1"
+ref_section: "003"
+categories:
+  - Economía
+  - Medioambiente
+  - Cambio climático
+topics:
+title: Potenciaremos la financiación verde
+statements:
+  - id: 1
+    quote: Potenciaremos la financiación verde sobre la base de un Libro Verde de Financiación Sostenible, que será trabajado con los agentes sociales, el sector financiero y los sectores económicos más directamente implicados, para hacer de España un referente en Europa en emisiones de instrumentos financieros sostenibles.

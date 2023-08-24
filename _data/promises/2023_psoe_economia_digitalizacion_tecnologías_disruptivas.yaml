@@ -1,0 +1,23 @@
+id: ccc99cc9-6739-4ccc-b2ec-3a6022cae619
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 28
+ref_parent_chapter: "I.3"
+ref_section: "003"
+categories:
+  - Economía
+  - Industria
+title: Seguiremos impulsando los proyectos emblemáticos para posicionar a España a la vanguardia en nuevas tecnologías disruptivas
+statements:
+  - id: 1
+    quote: Seguiremos impulsando los proyectos emblemáticos para posicionar a España a la vanguardia en nuevas tecnologías disruptivas
+    partial: ini
+  - id: 2
+    quote: como la computación y comunicaciones cuánticas, la neurociencia y neurotecnologías, la inteligencia artificial, los algoritmos verdes, el diseño y fabricación de semiconductores o el desarrollo de la nueva economía de la lengua.
+    partial: end

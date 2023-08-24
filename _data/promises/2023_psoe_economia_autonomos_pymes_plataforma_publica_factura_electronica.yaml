@@ -1,0 +1,20 @@
+id: 981f0fcc-6bfc-4601-a7d0-a867e06d0d23
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 31
+ref_parent_chapter: "I.4"
+ref_section: "005"
+categories:
+  - Empresas y comercio
+  - Ciencia y tecnología
+topics: [Autónomos, pymes]
+title: Crearemos una plataforma digital pública de factura electrónica
+statements:
+  - id: 1
+    quote: Crearemos una plataforma digital pública de factura electrónica, que permita a los autónomos y a las pymes aprovechar esta reforma de la Ley Crea y Crece para reducir sus costes y hacer más eficientes sus procesos.

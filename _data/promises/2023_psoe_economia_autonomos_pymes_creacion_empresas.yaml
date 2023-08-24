@@ -1,0 +1,28 @@
+id: dd188be5-b63f-4652-9196-3b11335880ed
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 31
+ref_parent_chapter: "I.4"
+ref_section: "006"
+categories:
+  - Empresas y comercio
+  - Ciencia y tecnología
+topics: [Autónomos, pymes]
+title: Apoyaremos la creación de empresas y su crecimiento
+statements:
+  - id: 1
+    quote: Apoyaremos la creación de empresas y su crecimiento
+  - id: 2
+    quote: la actividad de los autónomos y el nacimiento y escalado de las startups tecnológicas.
+  - id: 3
+    quote: En particular, impulsaremos la digitalización y agilización de todos los trámites empresariales
+  - id: 4
+    quote: lucharemos contra la morosidad comercial
+  - id: 5
+    quote: y apoyaremos instrumentos financieros que permitan escalar las empresas.

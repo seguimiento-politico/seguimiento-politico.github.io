@@ -1,0 +1,24 @@
+id: 9368b744-2225-42a3-8da9-089f65376f3e
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 30
+ref_parent_chapter: "I.4"
+ref_section: "002"
+categories:
+  - Derechos y servicios sociales
+  - Empresas y comercio
+  - Trabajo
+  - Agencias y órganos públicos
+topics: [Autónomos, pymes]
+title: Consolidaremos y evaluaremos las mejoras en protección social para autónomos aprobadas en la última legislatura.
+statements:
+  - id: 1
+    quote: Consolidaremos y evaluaremos las mejoras en protección social para autónomos aprobadas en la última legislatura.
+  - id: 2
+    quote: Y se reforzará la participación institucional de las organizaciones más representativas del trabajo autónomo a través del Consejo de Trabajo Autónomo.

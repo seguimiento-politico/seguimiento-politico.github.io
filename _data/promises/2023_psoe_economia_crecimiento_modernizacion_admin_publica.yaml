@@ -1,0 +1,18 @@
+id: 6ea436de-50ff-4abb-8083-048b581f4926
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 27
+ref_parent_chapter: "I.2"
+ref_section: "007"
+categories:
+  - Organización estatal y administraciones públicas
+title: Modernizaremos la administración pública
+statements:
+  - id: 1
+    quote: Modernizaremos la administración pública para aumentar su eficiencia y productividad mediante la digitalización, otras nuevas tecnológicas y la eliminación de costes y burocracia para las empresas, autónomos y toda la ciudadanía.
