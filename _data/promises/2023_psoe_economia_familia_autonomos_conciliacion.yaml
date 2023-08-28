@@ -1,0 +1,27 @@
+id: a139a4b9-fd6e-4d0e-88bd-2bcb6a95e121
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 33
+ref_parent_chapter: "I.5"
+ref_section: "008"
+categories:
+  - Derechos y servicios sociales
+  - Trabajo
+topics: [Conciliación]
+title: Pondremos en marcha un Plan Nacional para que las empresas ofrezcan una mejor conciliación
+statements:
+  - id: 1
+    quote: Pondremos en marcha un Plan Nacional para que las empresas ofrezcan una mejor conciliación mediante 
+    partial: ini
+  - id: 2
+    quote: jornadas híbridas que combinen lo presencial con lo remoto, 
+  - id: 3
+    quote: horarios más adaptables, 
+  - id: 4
+    quote: y la posibilidad de concentrar en cuatro días su semana laboral

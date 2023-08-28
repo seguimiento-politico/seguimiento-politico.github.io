@@ -1,0 +1,20 @@
+id: f2564989-9899-439c-aeba-d0a6023b22af
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 44
+ref_parent_chapter: "I.11"
+ref_section: "008"
+categories:
+  - Economía
+  - Turismo
+  - Medioambiente
+title: Impulsaremos proyectos que contribuyan a fomentar impactos positivos y reducir los efectos negativos de la actividad turística.
+statements:
+  - id: 1
+    quote: Impulsaremos proyectos con la colaboración de los agentes e instituciones implicados que contribuyan a fomentar impactos positivos y reducir los efectos negativos de la actividad turística.

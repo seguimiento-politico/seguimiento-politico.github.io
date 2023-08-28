@@ -1,0 +1,19 @@
+id: d087ae00-7ea1-4d52-ad24-a2bf35661a29
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 43
+ref_parent_chapter: "I.11"
+ref_section: "005"
+categories:
+  - Economía
+  - Turismo
+title: Aprobaremos una Estrategia de Turismo LGTBI 
+statements:
+  - id: 1
+    quote: Aprobaremos una Estrategia de Turismo LGTBI que tenga como objetivo el diseño y promoción de experiencias de turismo especializadas en el segmento LGTBI, contando además con la participación de empresas y asociaciones turísticas del colectivo, así como de las comunidades autónomas para su coordinación y aplicación

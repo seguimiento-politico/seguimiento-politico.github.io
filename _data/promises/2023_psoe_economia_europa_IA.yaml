@@ -1,0 +1,20 @@
+id: 11518482-ee7a-4c48-9f54-c2dc5d6b2560
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 35
+ref_parent_chapter: "I.7"
+ref_section: "006"
+categories:
+  - Ciencia y tecnología
+  - Europa
+title: Apoyaremos un refuerzo del presupuesto europeo con nuevos recursos propios
+topics: [Inteligencia artificial]
+statements:
+  - id: 1
+    quote: Desarrollaremos un marco adecuado en el ámbito de la Unión Europea para la inteligencia artificial que garantice la seguridad y los derechos fundamentales de las personas y las empresas.

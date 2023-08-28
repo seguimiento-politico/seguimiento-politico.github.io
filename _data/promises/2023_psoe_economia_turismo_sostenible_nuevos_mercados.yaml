@@ -1,0 +1,19 @@
+id: 4a31bf1d-efde-4cbd-b35d-19e3bf01fcec
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 44
+ref_parent_chapter: "I.11"
+ref_section: "010"
+categories:
+  - Economía
+  - Turismo
+title: Apoyaremos la búsqueda de nuevos mercados emisores de turistas
+statements:
+  - id: 1
+    quote: En el marco de una estrategia común, con la implicación de la Cámara de Comercio, las comunidades autónomas y las organizaciones empresariales, apoyaremos la búsqueda de nuevos mercados emisores de turistas, para la diversificación de la demanda internacional que reduzca la dependencia de específicos mercados.

@@ -1,0 +1,23 @@
+id: d4e9d006-1625-404a-adb0-a7b7191bcf96
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 46
+ref_parent_chapter: "I.12.2"
+ref_section: "002"
+categories:
+  - Economía
+  - Empresas y comercio
+  - Política internacional
+  - Europa
+topics:
+  - Comercio exterior
+title: Continuaremos trabajando en la ambiciosa agenda de acuerdos comerciales bilaterales de la UE
+statements:
+  - id: 1
+    quote: Continuaremos trabajando en la ambiciosa agenda de acuerdos comerciales bilaterales de la UE para fortalecer alianzas estratégicas que contribuyan a nuestro abastecimiento y generen nuevas oportunidades comerciales y de inversión para nuestras empresas.

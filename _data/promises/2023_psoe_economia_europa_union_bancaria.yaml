@@ -1,0 +1,20 @@
+id: ab69b8d6-075c-4e25-b559-5fb80da1a748
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 34
+ref_parent_chapter: "I.7"
+ref_section: "002"
+categories:
+  - Economía
+  - Europa
+  - Banca
+title: Impulsaremos la unión bancaria y de los mercados de capitales
+statements:
+  - id: 1
+    quote: Impulsaremos la unión bancaria y de los mercados de capitales para disponer de mercados financieros sólidos mediante la reforma del marco de gestión de crisis bancarias.

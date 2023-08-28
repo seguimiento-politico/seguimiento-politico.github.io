@@ -1,0 +1,21 @@
+id: e92ead15-5470-443e-a01c-1b351a9304fe
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 32
+ref_parent_chapter: "I.5"
+ref_section: "002"
+categories:
+  - Economía
+  - Vivienda y urbanismo
+  - Banca
+topics: [Hipotecas]
+title: Ampliaremos hasta la renta media (37.800€) el umbral para acceder a las medidas de apoyo a los afectados por la subida de tipos de interés de las hipotecas
+statements:
+  - id: 1
+    quote: "Ampliaremos hasta la renta media (37.800€) el umbral para acceder a las medidas de apoyo a los afectados por la subida de tipos de interés de las hipotecas: ampliación de crédito hasta 7 años y congelación de cuota de 1 año."

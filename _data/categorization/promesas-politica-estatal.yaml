@@ -7,6 +7,8 @@ categories:
         icon: house
     -   name: Economía
         icon: eur
+    -   name: Banca
+        icon: piggy-bank
     -   name: Trabajo
         icon: wrench
     -   name: Empresas públicas
@@ -75,6 +77,8 @@ categories:
         icon: peace
     -   name: Europa
         icon: earth-europe
+    -   name: Gobernanza y transparencia
+        icon: handshake
 
 statuses:
     -   name: Desconocido

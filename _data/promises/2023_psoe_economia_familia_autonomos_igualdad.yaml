@@ -1,0 +1,27 @@
+id: fcdd2895-bb00-40b0-a52a-46ffb5268e1c
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 32
+ref_parent_chapter: "I.5"
+ref_section: "007"
+categories:
+  - Derechos y servicios sociales
+topics: [Igualdad]
+title: Seguiremos impulsando la igualdad efectiva entre hombres y mujeres
+statements:
+  - id: 1
+    quote: Seguiremos impulsando la igualdad efectiva entre hombres y mujeres
+    partial: ini
+  - id: 2
+    quote: aumentando la tasa de participación y ocupación de las mujeres, 
+  - id: 3
+    quote: apoyando el emprendimiento femenino 
+  - id: 4
+    partial: end
+    quote: y la paridad en los puestos directivos en el ámbito público y privado.

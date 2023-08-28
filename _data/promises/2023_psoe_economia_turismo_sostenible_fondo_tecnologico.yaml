@@ -1,0 +1,19 @@
+id: 664c2e37-b29c-4c9e-bef8-322856b86bf3
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 43
+ref_parent_chapter: "I.11"
+ref_section: "002"
+categories:
+  - Economía
+  - Turismo
+title: Impulsaremos el fondo tecnológico para la creación de líneas de ayudas para apoyar establecimientos o áreas comerciales situadas en zonas turísticas y cuyos negocios estén vinculados con la llegada de visitantes
+statements:
+  - id: 1
+    quote: Impulsaremos el fondo tecnológico para la creación de líneas de ayudas para apoyar establecimientos o áreas comerciales situadas en zonas turísticas y cuyos negocios estén vinculados con la llegada de visitantes

@@ -1,0 +1,20 @@
+id: b56dfd38-dde2-47a3-906c-bbd99f0a6066
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 40
+ref_parent_chapter: "I.10"
+ref_section: "008"
+categories:
+  - Economía
+  - Empresas y comercio
+  - Derechos y servicios sociales
+title: Fomentaremos la capitalización de las prestaciones por desempleo para la transformación de las empresas en sociedades cooperativas o sociedades laborales.
+statements:
+  - id: 1
+    quote: Fomentaremos la capitalización de las prestaciones por desempleo para la transformación de las empresas en sociedades cooperativas o sociedades laborales.

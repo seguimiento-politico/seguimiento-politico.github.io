@@ -1,0 +1,30 @@
+id: e43c2b38-6b47-4ee7-acf6-e6f8b07f06b6
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 32
+ref_parent_chapter: "I.5"
+ref_section: "005"
+categories:
+  - Economía
+  - Vivienda y urbanismo
+  - Banca
+topics: [Hipotecas]
+title: Adoptaremos mejoras aplicables a todos los préstamos hipotecarios
+statements:
+  - id: 1
+    quote: Adoptaremos, fruto del diálogo con las entidades financieras del país, mejoras aplicables a todos los préstamos hipotecarios, 
+    partial: ini
+  - id: 2
+    quote: dirigidas a facilitar la amortización anticipada de los créditos, 
+  - id: 3
+    quote: la conversión de las hipotecas a tipo fijo, 
+  - id: 4
+    quote: la restructuración de los préstamos hipotecarios 
+  - id: 5
+    quote: o la solicitud de la dación en pago.

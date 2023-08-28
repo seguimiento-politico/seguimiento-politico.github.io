@@ -1,0 +1,25 @@
+id: 7aa16244-9a1e-4746-96e1-869a0f7f04fd
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 40
+ref_parent_chapter: "I.10"
+ref_section: "010"
+categories:
+  - Economía
+  - Empresas y comercio
+  - Democracia
+  - Gobernabilidad y transparencia
+title: Reforzaremos los instrumentos de diálogo permanente con las entidades representativas de la economía social
+statements:
+  - id: 1
+    quote: Reforzaremos los instrumentos de diálogo permanente con las entidades representativas de la economía social 
+  - id: 2
+    quote: y con las comunidades autónomas, 
+  - id: 3
+    quote: así como de coordinación interministerial.

@@ -1,0 +1,19 @@
+id: 52d22902-de17-46bb-b9ef-e1ca5645d716
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 40
+ref_parent_chapter: "I.10"
+ref_section: "003"
+categories:
+  - Economía
+  - Empresas y comercio
+title: Promoveremos un fondo estatal de inversiones con impacto social y ambiental en empresas y entidades de la economía social.
+statements:
+  - id: 1
+    quote: Promoveremos un fondo estatal de inversiones con impacto social y ambiental en empresas y entidades de la economía social.

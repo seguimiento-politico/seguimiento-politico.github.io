@@ -1,0 +1,20 @@
+id: 9a4b3088-8e68-4c02-9afb-5ca2315175b6
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 38
+ref_parent_chapter: "I.9.2"
+ref_section: "001"
+categories:
+  - Impuestos y financiación pública
+  - Derechos y servicios sociales
+topics: [Desigualdad]
+title: Asegurar la protección de los colectivos vulnerables y de la clase media y trabajadora con una política fiscal y de gasto social orientada a sus necesidades.
+statements:
+  - id: 1
+    quote: Asegurar la protección de los colectivos vulnerables y de la clase media y trabajadora con una política fiscal y de gasto social orientada a sus necesidades.

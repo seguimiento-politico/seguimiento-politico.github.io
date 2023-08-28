@@ -1,0 +1,20 @@
+id: fdf2b7de-d60b-4977-b89a-0e5f810c436d
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 45
+ref_parent_chapter: "I.12.1"
+ref_section: "001"
+categories:
+  - Economía
+  - Empresas y comercio
+  - Cambio climático
+title: Desarrollaremos instrumentos públicos para dinamizar el consumo local y apoyar al comercio de proximidad
+statements:
+  - id: 1
+    quote: Desarrollaremos instrumentos públicos para, en coordinación con otras administraciones, dinamizar el consumo local y apoyar al comercio de proximidad en el necesario proceso ordenado de avanzar hacia un modelo más innovador, verde y digital y que permita la creación de empleo de calidad y la cohesión social y territorial.

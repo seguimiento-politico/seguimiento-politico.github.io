@@ -1,0 +1,27 @@
+id: 872f65dc-7c1a-46e7-9a89-0d180a61ffdd
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 34
+ref_parent_chapter: "I.6"
+ref_section: "008"
+categories:
+  - Educación
+  - Banca
+title: Reforzaremos las acciones de educación financiera
+statements:
+  - id: 1
+    quote: Reforzaremos las acciones de educación financiera, 
+    partial: ini
+  - id: 2
+    quote: particularmente para jóvenes, en los centros educativos de bachillerato y Formación Profesional, 
+  - id: 3
+    quote: pero también para personas mayores y colectivos vulnerables, como por ejemplo la nueva población emigrante. 
+    partial: end
+  - id: 4
+    quote: Esta educación financiera estará centrada en ámbitos como las criptomonedas y los criptoactivos, el ahorro a largo plazo o la financiación hipotecaria.

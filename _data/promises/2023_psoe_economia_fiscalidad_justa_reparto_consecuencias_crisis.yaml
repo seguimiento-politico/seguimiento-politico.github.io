@@ -1,0 +1,21 @@
+id: 21a37f6e-6c52-41d0-a2a7-8c7ad0ed4859
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 37
+ref_parent_chapter: "I.9.1"
+ref_section: "004"
+categories:
+  - Impuestos y financiación pública
+  - Derechos y servicios sociales
+topics: [Desigualdad]
+title: Un sistema fiscal que permita un reparto más justo y equilibrado de las consecuencias de las crisis.
+description: La concentración de la riqueza y el incremento de las desigualdades son algunos de los mayores desafíos que afrontan los países y España no es una excepción. Es necesario hacer cambios estructurales en el sistema tributario para avanzar hacia una sociedad más justa.
+statements:
+  - id: 1
+    quote: Un sistema fiscal que permita un reparto más justo y equilibrado de las consecuencias de las crisis.

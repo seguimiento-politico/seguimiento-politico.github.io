@@ -1,0 +1,19 @@
+id: f0d98b95-7b1c-456b-ad1f-91b090c0b1b1
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 32
+ref_parent_chapter: "I.5"
+ref_section: "003"
+categories:
+  - Economía
+  - Trabajo
+title: Apoyaremos la aplicación del Acuerdo para el Empleo y la Negociación Colectiva para que los salarios ganen poder adquisitivo
+statements:
+  - id: 1
+    quote: Apoyaremos la aplicación del Acuerdo para el Empleo y la Negociación Colectiva para que los salarios ganen poder adquisitivo, tomando en cuenta la evolución de la productividad y de los resultados de las empresas.

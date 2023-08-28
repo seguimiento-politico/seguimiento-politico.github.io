@@ -1,0 +1,19 @@
+id: 12ee7d5c-220a-4e22-9cb2-07c1bdf6ff9a
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 40
+ref_parent_chapter: "I.10"
+ref_section: "004"
+categories:
+  - Economía
+  - Empresas y comercio
+title: Concretaremos la creación del hub de vanguardia de la economía social como instrumento tanto nacional como internacional.
+statements:
+  - id: 1
+    quote: Concretaremos la creación del hub de vanguardia de la economía social como instrumento tanto nacional como internacional.

@@ -1,0 +1,23 @@
+id: 0e390d77-c32b-42ca-b174-f37b7bff6b62
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 33
+ref_parent_chapter: "I.5"
+ref_section: "009"
+categories:
+  - Derechos y servicios sociales
+  - Trabajo
+  - Educación
+topics: [Conciliación]
+title: Seguiremos ampliando el sistema público de escolaridad de 0 a 3 años y la nueva economía de los cuidados 
+statements:
+  - id: 1
+    quote: Seguiremos ampliando el sistema público de escolaridad de 0 a 3 años
+  - id: 2
+    quote: y la nueva economía de los cuidados para impulsar la profesionalización de este sector y proporcionar un apoyo adecuado a las familias.

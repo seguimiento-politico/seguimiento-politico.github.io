@@ -1,0 +1,23 @@
+id: f61d5320-e85b-4885-a7e9-366917a0983e
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 44
+ref_parent_chapter: "I.11"
+ref_section: "007"
+categories:
+  - Economía
+  - Turismo
+title: Apoyaremos una política pública de Paradores de Turismo que ponga en valor la protección de nuestro patrimonio natural, paisajístico, histórico y cultural. 
+statements:
+  - id: 1
+    quote: Apoyaremos una política pública de Paradores de Turismo que ponga en valor la protección de nuestro patrimonio natural, paisajístico, histórico y cultural. 
+  - id: 2
+    quote: La empresa debe continuar siendo referente por su compromiso con el empleo de calidad y la mejora de la eficiencia energética de sus establecimientos. 
+  - id: 3
+    quote: Debemos continuar apostando por la digitalización, la sostenibilidad y la mejora de la experiencia del viajero.

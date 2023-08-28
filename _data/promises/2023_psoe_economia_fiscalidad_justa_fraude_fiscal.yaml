@@ -1,0 +1,25 @@
+id: e6ef0832-b1f4-44b4-8cda-17dee44009b1
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 38
+ref_parent_chapter: "I.9.2"
+ref_section: "004"
+categories:
+  - Impuestos y financiación pública
+  - Empresas y comercio
+  - Agencias y órganos públicos
+topics: [Fraude fiscal, Empleo público]
+title: Promover un Pacto de Estado contra el Fraude Fiscal
+statements:
+  - id: 1
+    quote: Promover un Pacto de Estado contra el Fraude Fiscal
+  - id: 2
+    quote: Consensuaremos con todas las fuerzas políticas, agentes sociales y profesionales del ámbito fiscal un plan de acción contra el fraude, la evasión y la elusión fiscal. 
+  - id: 3
+    quote: Y continuaremos reforzado y modernizando los recursos y la plantilla de la Agencia Tributaria.

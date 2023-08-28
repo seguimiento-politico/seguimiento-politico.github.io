@@ -1,0 +1,21 @@
+id: 2e888a46-4e46-4f13-854a-085e3f418733
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 44
+ref_parent_chapter: "I.11"
+ref_section: "006"
+categories:
+  - Economía
+  - Turismo
+title: Reforzaremos los programas de turismo y de termalismo del Instituto de Mayores y Servicios Sociales (IMSERSO) 
+statements:
+  - id: 1
+    quote: Reforzaremos los programas de turismo y de termalismo del Instituto de Mayores y Servicios Sociales (IMSERSO) para seguir mejorando la calidad de vida y el acceso de las personas mayores y de las personas con discapacidad a servicios de ocio y de salud, así como contribuir al mantenimiento del empleo turístico y a la desestacionalización del sector. 
+  - id: 2
+    quote: La mejora de los programas debe tener en cuenta las preferencias de las personas usuarias.

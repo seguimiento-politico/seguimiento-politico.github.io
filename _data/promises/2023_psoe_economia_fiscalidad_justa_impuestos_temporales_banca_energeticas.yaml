@@ -1,0 +1,19 @@
+id: 0f9989d3-1696-4a84-b5cd-ba93a0f6c70e
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 39
+ref_parent_chapter: "I.9.2"
+ref_section: "007"
+categories:
+  - Impuestos y financiación pública
+  - Economía
+title: Evaluaremos la prórroga y ajustes de los gravámenes temporales sobre la banca y energéticas, para que ambos sectores sigan contribuyendo a la justicia fiscal y al sostenimiento del Estado de bienestar.
+statements:
+  - id: 1
+    quote: Evaluaremos la prórroga y ajustes de los gravámenes temporales sobre la banca y energéticas, para que ambos sectores sigan contribuyendo a la justicia fiscal y al sostenimiento del Estado de bienestar.

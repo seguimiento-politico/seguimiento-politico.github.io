@@ -1,0 +1,19 @@
+id: 3fbfece9-e592-4c5d-afac-fa64649851e0
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 44
+ref_parent_chapter: "I.11"
+ref_section: "011"
+categories:
+  - Economía
+  - Turismo
+title: Pomoveremos planes de dinamización y de colaboración que generen nuevos productos turísticos
+statements:
+  - id: 1
+    quote: En el marco de las Conferencias Sectoriales de Turismo, promoveremos planes de dinamización y de colaboración que generen sinergias transformadoras y potenciadoras de nuevos productos turísticos entre comunidades autónomas.
