@@ -16,7 +16,11 @@ categories:
   - Medioambiente
   - Cambio climático
 title: Avanzaremos en la fiscalidad verde
-topics: [Cambio climático - mitigación]
+topics: 
+  - Cambio climático - mitigación
+  - Economía circular
+  - Fiscalidad verde
+  - Economía verde
 statements:
   - id: 1
     quote: Avanzaremos en la fiscalidad verde, contribuyendo al compromiso de nuestro país con la emergencia climática y con el futuro de nuestros jóvenes.

@@ -4,6 +4,8 @@ scope_country: spain
 election_type: generales
 from: "2019-11-10"
 title: Estrategia de economía circular
+topics:
+  - Economía circular
 statements: 
   -
     id: 1

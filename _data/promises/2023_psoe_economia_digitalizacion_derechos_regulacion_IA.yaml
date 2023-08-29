@@ -1,0 +1,23 @@
+id: c2f7c77d-d1d2-403e-9137-2ddba69b4373
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 54
+ref_parent_chapter: "I.14.1"
+ref_section: "003"
+categories:
+  - Derechos y servicios sociales
+  - Ciencia y tecnología
+  - Política internacional
+  - Europa
+title: Crearemos bancos de pruebas regulatorios para los sistemas de inteligencia artificial que apoyen la innovación y orienten el desarrollo de la regulación de la inteligencia artificial
+topics:
+  - Inteligencia artificial
+statements:
+  - id: 1
+    quote: Crearemos bancos de pruebas regulatorios para los sistemas de inteligencia artificial que apoyen la innovación y orienten el desarrollo de la regulación de la inteligencia artificial generativa y de determinados usos de la IA, tanto a nivel europeo como global, a través de la adopción de estándares internacionales respetuosos con los derechos de la ciudadanía.

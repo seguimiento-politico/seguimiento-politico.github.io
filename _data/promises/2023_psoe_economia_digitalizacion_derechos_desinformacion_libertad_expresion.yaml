@@ -1,0 +1,23 @@
+id: 75518607-4d3c-4fb1-9d6e-716496f8bc46
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 54
+ref_parent_chapter: "I.14.1"
+ref_section: "006"
+categories:
+  - Medios de comunicación
+  - Democracia
+  - Defensa y seguridad
+title: Impulsaremos planes de acción y de seguimiento continuo contra la desinformación y las campañas que puedan afectar a la seguridad ciudadana, la estabilidad de las instituciones democráticas
+topics:
+  - Desinformación
+  - Libertad de expresión
+statements:
+  - id: 1
+    quote: Impulsaremos planes de acción y de seguimiento continuo contra la desinformación y las campañas que puedan afectar a la seguridad ciudadana, la estabilidad de las instituciones democráticas y los valores comunes y para garantizar la libertad de expresión y la pluralidad.

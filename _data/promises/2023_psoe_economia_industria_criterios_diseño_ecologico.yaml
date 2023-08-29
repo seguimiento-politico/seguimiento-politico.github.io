@@ -1,0 +1,22 @@
+id: 80ab0b8a-27c7-4d62-878f-234c627bb807
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 50
+ref_parent_chapter: "I.13"
+ref_section: "013"
+categories:
+  - Economía
+  - Industria
+  - Medioambiente
+title: Fijación de criterios de diseño ecológico y etiquetado, dirigidos a potenciar la durabilidad, reutilizabilidad y reparabilidad de los productos en base a la economía circular.
+topics:
+  - Economía circular
+statements:
+  - id: 1
+    quote: Acompañaremos a nuestro tejido productivo en la fijación de criterios de diseño ecológico y etiquetado, dirigidos a potenciar la durabilidad, reutilizabilidad y reparabilidad de los productos en base a la economía circular.

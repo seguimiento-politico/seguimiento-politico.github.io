@@ -1,0 +1,24 @@
+id: 009e9a08-b749-4c6f-8c87-1f2f72c3162d
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 54
+ref_parent_chapter: "I.14.1"
+ref_section: "009"
+categories:
+  - Democracia
+  - Gobernanza y transparencia
+  - Agencias y órganos públicos
+title: Crearemos el Consejo Digital Joven, con el fin de contar con un órgano consultivo para articular las contribuciones y propuestas de las generaciones más jóvenes en la definición y ejecución de las políticas públicas en el ámbito digital.
+topics:
+  - Democracia participativa
+statements:
+  - id: 1
+    quote: Crearemos el Consejo Digital Joven, con el fin de contar con un órgano consultivo para articular las contribuciones y propuestas de las generaciones más jóvenes en la definición y ejecución de las políticas públicas en el ámbito digital. 
+  - id: 2
+    quote: Dicho Consejo contará con una representación propuesta por las comunidades autónomas, las asociaciones juveniles de España y el ámbito latinoamericano.

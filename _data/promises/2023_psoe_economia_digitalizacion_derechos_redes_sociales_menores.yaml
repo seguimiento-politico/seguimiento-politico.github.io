@@ -1,0 +1,24 @@
+id: 1e7b0c7c-6320-4b39-b9e8-3adbc7301a11
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 54
+ref_parent_chapter: "I.14.1"
+ref_section: "007"
+categories:
+  - Medios de comunicación
+  - Ciencia y tecnología
+  - Defensa y seguridad
+  - Educación
+title: Regularemos el uso de redes sociales de menores
+topics:
+  - Redes sociales
+  - Protección menores
+statements:
+  - id: 1
+    quote: Regularemos el uso de redes sociales de menores con enfoque transversal y mediante la colaboración público-privada, impulsando su pensamiento crítico para combatir la desinformación y el uso de contenidos no adecuados según la edad.

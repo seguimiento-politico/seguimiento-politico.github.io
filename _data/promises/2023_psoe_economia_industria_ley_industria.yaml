@@ -1,0 +1,21 @@
+id: b6128a26-8a41-4736-92c1-c17d090a78da
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 49
+ref_parent_chapter: "I.13"
+ref_section: "004"
+categories:
+  - Economía
+  - Industria
+title: Aceleraremos una propuesta para reformar y aprobar en el parlamento cuanto antes la Ley de Industria, ya que la actual data de 1992
+statements:
+  - id: 1
+    quote: Treinta años son demasiados para un sector en constante modernización. Aceleraremos una propuesta para reformar y aprobar en el parlamento cuanto antes la Ley de Industria, ya que la actual data de 1992, diseñada con todo el sector, los agentes sociales y todas las profesiones implicadas.
+  - id: 2
+    quote: El objetivo es adaptarla a la realidad industrial y económica actual teniendo en cuenta la doble transición verde y digital, acompañando a las empresas en esta transformación.

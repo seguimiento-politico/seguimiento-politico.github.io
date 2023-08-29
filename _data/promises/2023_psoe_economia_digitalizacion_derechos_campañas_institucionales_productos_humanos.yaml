@@ -1,0 +1,22 @@
+id: 83dfefbd-7991-4a42-82e5-4531d06284a6
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 54
+ref_parent_chapter: "I.14.1"
+ref_section: "008"
+categories:
+  - Trabajo
+  - Organización estatal y administraciones públicas
+title: Impulsaremos el compromiso de que las instituciones públicas encarguen siempre a profesionales y artistas humanos la ejecución de las imágenes, música... que se utilicen en campañas institucionales.
+topics:
+  - Inteligencia artificial
+  - Contratación pública
+statements:
+  - id: 1
+    quote: Impulsaremos el compromiso de que las instituciones públicas encarguen siempre a profesionales y artistas humanos la ejecución de las imágenes, música... que se utilicen en campañas institucionales.

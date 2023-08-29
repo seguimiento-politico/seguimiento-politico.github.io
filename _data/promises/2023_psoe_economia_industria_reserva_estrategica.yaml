@@ -1,0 +1,24 @@
+id: 79be78ef-7f95-4e6d-af74-9d15eac270d4
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 50
+ref_parent_chapter: "I.13"
+ref_section: "011"
+categories:
+  - Economía
+  - Industria
+  - Agencias y órganos públicos
+title: Impulsaremos la creación de una Reserva Estratégica basada en las Capacidades Nacionales de Producción Industrial (RECAPI)
+statements:
+  - id: 1
+    quote: Impulsaremos la creación de una Reserva Estratégica basada en las Capacidades Nacionales de Producción Industrial (RECAPI),
+  - id: 2
+    quote: así como la creación de un órgano interministerial para su coordinación en forma de Centro de Coordinación y Promoción de la Industria Estratégica.
+  - id: 3
+    quote: Queremos asegurar que nuestro país cuenta con las capacidades industriales para fabricar los productos y servicios esenciales para hacer frente a futuras disrupciones.

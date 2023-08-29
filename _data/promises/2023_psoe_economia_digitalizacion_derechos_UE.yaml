@@ -1,0 +1,21 @@
+id: 5ecc36b3-9718-46a6-b1fe-0c790b155be8
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 54
+ref_parent_chapter: "I.14.1"
+ref_section: "002"
+categories:
+  - Derechos y servicios sociales
+  - Europa
+title: Fomentaremos un debate entre los Estados miembros que sitúe los derechos digitales en el centro de las prioridades políticas de la Unión
+topics:
+  - Derechos digitales
+statements:
+  - id: 1
+    quote: Fomentaremos, en el marco de la Presidencia Española del Consejo de la Unión Europea, un debate entre los Estados miembros que sitúe los derechos digitales en el centro de las prioridades políticas de la Unión
