@@ -1,0 +1,248 @@
+<div class="px-2 m-2">
+    <p><b>El compromiso literal:</b></p>
+    {% if item[0].description %}
+        <p class="ms-3">{{ item[0].description | markdownify}}</p>
+    {% endif %}
+    <ul>
+        {% for statement in item[0].statements %}
+            <li> {{ statement.quote}} </li>
+        {% endfor %}
+    </ul>
+    
+    <p><b>El compromiso "estandarizado":</b></p>
+    <ul>
+        {% for ss in item[0].standarized_statements %}
+            <li>   
+                <b>Meta (objetivo superior):</b>
+                {% for g in ss.goals %}
+                    {% if forloop.length > 1 %}
+                        {% if forloop.last %}
+                            {% assign first_letter = g | slice: 0 | downcase %}
+                            {% if first_letter == "i" %}
+                                {{ "e "}}
+                            {% else %}
+                                {{ "y "}}
+                            {% endif %}
+                        {% elsif forloop.index > 1 %}
+                            {{ ", "}}
+                        {% endif %}  
+                    {% endif %}
+                    {{ g }}
+                {% endfor %}
+                {% if ss.goals.size  == 1 %}
+                    que de lugar a 
+                {% else %}
+                    que den lugar a 
+                {% endif %}
+                {% for pg in item[0].parent_goals %}
+                    {% if forloop.length > 1 %}
+                        {% if forloop.last %}
+                            {% assign first_letter = pg | slice: 0 | downcase %}
+                            {% if first_letter == "i" %}
+                                {{ "e "}}
+                            {% else %}
+                                {{ "y "}}
+                            {% endif %}
+                        {% elsif forloop.index > 1 %}
+                            {{ ", "}}
+                        {% endif %}  
+                    {% endif %}
+                    {{ pg }} 
+                {% endfor %}<br>             
+                <b>Objetivo concreto: </b> 
+                {% if ss.actions %}
+                    {% for m in ss.actions %}
+                        {% if forloop.length > 1 %}
+                            {% if forloop.last %}
+                                {% assign first_letter = a | slice: 0 | downcase %}
+                                {% if first_letter == "i" %}
+                                    {{ "e "}}
+                                {% else %}
+                                    {{ "y "}}
+                                {% endif %}
+                            {% elsif forloop.index > 1 %}
+                                {{ ", "}}
+                            {% endif %}  
+                        {% endif %}
+                        {{ a }}
+                    {% endfor %}
+                {% endif %}
+                {% if ss.objectives %}
+                    el/la
+                    {% for o in ss.objectives %}
+                        {% if forloop.length > 1 %}
+                            {% if forloop.last %}
+                                {% assign first_letter = o | slice: 0 | downcase %}
+                                {% if first_letter == "i" %}
+                                    {{ "e "}}
+                                {% else %}
+                                    {{ "y "}}
+                                {% endif %}
+                            {% elsif forloop.index > 1 %}
+                                {{ ", "}}
+                            {% endif %}  
+                        {% endif %}
+                        {{ o }}
+                    {% endfor %}
+                {% endif %}
+                {% if ss.topics %}
+                    en 
+                    {% for t in ss.topics %}
+                        {% if forloop.length > 1 %}
+                            {% if forloop.last %}
+                                {% assign first_letter = t | slice: 0 | downcase %}
+                                {% if first_letter == "i" %}
+                                    {{ "e "}}
+                                {% else %}
+                                    {{ "y "}}
+                                {% endif %}
+                            {% elsif forloop.index > 1 %}
+                                {{ ", "}}
+                            {% endif %}  
+                        {% endif %}
+                        {{ t }}
+                    {% endfor %}
+                {% endif %}<br>
+                <b>Ejecución:</b> 
+                {% if ss.means %}
+                    mediante 
+                    {% for m in ss.means %}
+                        {% if forloop.length > 1 %}
+                            {% if forloop.last %}
+                                {% assign first_letter = m | slice: 0 | downcase %}
+                                {% if first_letter == "i" %}
+                                    {{ "e "}}
+                                {% else %}
+                                    {{ "y "}}
+                                {% endif %}
+                            {% elsif forloop.index > 1 %}
+                                {{ ", "}}
+                            {% endif %}  
+                        {% endif %}
+                        {{ m }}
+                    {% endfor %}<br>
+                {% else %}
+                    <span class="text-danger"> no definidos </span><br>
+                {% endif %}
+                <b>Recursos:</b>
+                {% unless ss.programs and ss.strategies and ss.resources %}
+                    <span class="text-danger"> no definidos </span><br>
+                {% endunless %}
+                {% if ss.programs %}
+                    a través de los programas
+                    {% for p in ss.programs %}
+                        {% if forloop.length > 1 %}
+                            {% if forloop.last %}
+                                {% assign first_letter = p | slice: 0 | downcase %}
+                                {% if first_letter == "i" %}
+                                    {{ "; "}}
+                                {% else %}
+                                    {{ "; "}}
+                                {% endif %}
+                            {% elsif forloop.index > 1 %}
+                                {{ "; "}}
+                            {% endif %}  
+                        {% endif %}
+                        {{ p }}
+                    {% endfor %}
+                {% endif %}
+                {% if ss.strategies %}
+                    enmarcados en las estrategias 
+                    {% for s in ss.strategies %}
+                        {% if forloop.length > 1 %}
+                            {% if forloop.last %}
+                                {% assign first_letter = s | slice: 0 | downcase %}
+                                {% if first_letter == "i" %}
+                                    {{ "; "}}
+                                {% else %}
+                                    {{ "; "}}
+                                {% endif %}
+                            {% elsif forloop.index > 1 %}
+                                {{ "; "}}
+                            {% endif %}  
+                        {% endif %} 
+                        {{ s }}
+                    {% endfor %}
+                {% endif %}
+                {% if ss.resources %}
+                    y financiados con 
+                    {% for r in ss.resources %}
+                        {% if forloop.length > 1 %}
+                            {% if forloop.last %}
+                                {% assign first_letter = r | slice: 0 | downcase %}
+                                {% if first_letter == "i" %}
+                                    {{ "e "}}
+                                {% else %}
+                                    {{ "y "}}
+                                {% endif %}
+                            {% elsif forloop.index > 1 %}
+                                {{ ", "}}
+                            {% endif %}  
+                        {% endif %}
+                        {{ r }}
+                    {% endfor %}<br>
+                {% endif %}            
+                
+            {% if ss.agents %}
+                <b>Partes implicadas:</b> 
+                {% for a in ss.agents %}
+                    {% if forloop.length > 1 %}
+                        {% if forloop.last %}
+                            {% assign first_letter = a | slice: 0 | downcase %}
+                            {% if first_letter == "i" %}
+                                {{ "e "}}
+                            {% else %}
+                                {{ "y "}}
+                            {% endif %}
+                        {% elsif forloop.index > 1 %}
+                            {{ ", "}}
+                        {% endif %}  
+                    {% endif %}
+                    {{ a }}
+                {% endfor %}
+            {% endif %}
+            </li>
+        {% endfor %}
+    </ul>
+
+    {% if item_analysis[0].status %}
+    <p><b>Estado y grado de cumplimiento:</b></p>
+    <p class="ms-3">
+        <span class="text-{{ status.color }} bold"> 
+                <b>{{ site.data.ui-text[site.locale].[status.lang_label] }}</b> 
+                <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}"></i> 
+        </span> 
+        debido a que {{ item_analysis[0].status_info }}
+    </p>
+    
+    <p class="ms-3">
+        Más concretamente porque:
+    </p>
+        {% for fact in item_analysis[0].overall_compliance %}
+            {% if fact.outcome == 'yes' %} 
+                {% assign icon = 'check' %}
+                {% assign color = 'success' %}
+                {% assign outcome = site.data.ui-text[site.locale].statement_complieance_yes %}
+            {% elsif fact.outcome == 'no' %} 
+                {% assign icon = 'times' %}
+                {% assign color = 'danger' %}
+                {% assign outcome = site.data.ui-text[site.locale].statement_complieance_no %}
+            {% elsif fact.outcome == 'maybe' %}    
+                {% assign icon = 'minus' %}
+                {% assign color = 'warning' %}
+                {% assign outcome = site.data.ui-text[site.locale].statement_complieance_maybe %}
+            {% else %}
+                {% assign icon = 'question' %}
+                {% assign color = 'info' %}
+                {% assign outcome = site.data.ui-text[site.locale].statement_complieance_not_known %}
+            {% endif %}
+            <p class="card-text ms-3">
+                <i class="fas fa-fw fa-{{ icon }} text-{{ color }}"></i><span class="text-{{ color }}"><b>{{ outcome }}</b></span>: {{ fact.reasoning }}
+            </p>
+            {% for fact_source in fact.sources %}
+                {% assign source = item_analysis[0].sources | where:'ref', fact_source %}
+                <sup><a class="source_sup" href="#references" title="{{source[0].title}}">{{ source[0].ref }}</a></sup> 
+            {% endfor %}
+        {% endfor %}
+    {% endif %}
+</div>

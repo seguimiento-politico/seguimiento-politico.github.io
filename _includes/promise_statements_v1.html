@@ -1,0 +1,69 @@
+<div class="px-2 m-2">
+    <p><b>El compromiso:</b></p>
+    {% if item[0].description %}
+        <p class="ms-3">{{ item[0].description | markdownify}}</p>
+    {% endif %}
+    {% if item[0].statements %}
+        {% assign cont = 0 %}
+        {% assign partial = false %}
+        <ul>
+        {% for statement in item[0].statements %}
+            {% assign cont = cont | plus: 1 %}
+            {% if partial == false %}
+                <li>
+            {% endif %}
+            {% if statement.partial == "ini" %}
+                {% assign partial = true %}
+            {% endif %} 
+            <b>{{"("}} {{cont}} {{") " }}</b> {{ statement.quote}} 
+            {% if statement.partial == "end" %}
+                {% assign partial = false %}
+            {% endif %} 
+            {% if partial == false %}
+                </li>
+            {% endif %}
+        {% endfor %}
+        </ul>
+    {% endif %}
+
+    {% if item_analysis[0].status %}
+    <p><b>Estado y grado de cumplimiento:</b></p>
+    <p class="ms-3">
+        <span class="text-{{ status.color }} bold"> 
+                <b>{{ site.data.ui-text[site.locale].[status.lang_label] }}</b> 
+                <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}"></i> 
+        </span> 
+        debido a que {{ item_analysis[0].status_info }}
+    </p>
+    
+    <p class="ms-3">
+        Más concretamente porque:
+    </p>
+        {% for fact in item_analysis[0].overall_compliance %}
+            {% if fact.outcome == 'yes' %} 
+                {% assign icon = 'check' %}
+                {% assign color = 'success' %}
+                {% assign outcome = site.data.ui-text[site.locale].statement_complieance_yes %}
+            {% elsif fact.outcome == 'no' %} 
+                {% assign icon = 'times' %}
+                {% assign color = 'danger' %}
+                {% assign outcome = site.data.ui-text[site.locale].statement_complieance_no %}
+            {% elsif fact.outcome == 'maybe' %}    
+                {% assign icon = 'minus' %}
+                {% assign color = 'warning' %}
+                {% assign outcome = site.data.ui-text[site.locale].statement_complieance_maybe %}
+            {% else %}
+                {% assign icon = 'question' %}
+                {% assign color = 'info' %}
+                {% assign outcome = site.data.ui-text[site.locale].statement_complieance_not_known %}
+            {% endif %}
+            <p class="card-text ms-3">
+                <i class="fas fa-fw fa-{{ icon }} text-{{ color }}"></i><span class="text-{{ color }}"><b>{{ outcome }}</b></span>: {{ fact.reasoning }}
+            </p>
+            {% for fact_source in fact.sources %}
+                {% assign source = item_analysis[0].sources | where:'ref', fact_source %}
+                <sup><a class="source_sup" href="#references" title="{{source[0].title}}">{{ source[0].ref }}</a></sup> 
+            {% endfor %}
+        {% endfor %}
+    {% endif %}
+</div>

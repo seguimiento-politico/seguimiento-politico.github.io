@@ -12,7 +12,7 @@
     {% include normalize_text.html %}
 
     {% assign organization_path = site.images_path | append: 'parties/' | append: scope_path | append: '/' | append: text | append: '.gif'  %}
-    {% assign organization_data = site.data.agents.[scope].parties | where: 'name', person_data[0].FORMACIONELECTORAL %}
+    {% assign organization_data = site.data.parties | where: 'name', person_data[0].FORMACIONELECTORAL %}
 
     <!-- Check if corresponding images exist in images folder -->
     {% assign organization_image = false %}
@@ -38,7 +38,7 @@
     {% include normalize_text.html %}
            
     {% assign organization_path = site.images_path | append: 'parties/' | append: scope_path | append: text | append: '.gif'  %}
-    {% assign organization_data = site.data.agents.[scope].parties | where: 'name', party_name %}
+    {% assign organization_data = site.data.parties | where: 'name', party_name %}
 
     <!-- Check if corresponding images exist in images folder -->
     {% assign organization_image = false %}
