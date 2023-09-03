@@ -27,8 +27,8 @@ standarized_statements:
     actions: [Apoyar e incentivar económicamente]
     means: ["Subvenciones, Financiación e inversión"]
     objectives: [Digitalización]
-    topics: [automoción, aeroespacial, comunicaciones electrónicas, medicina]
+    targets: [automoción, aeroespacial, comunicaciones electrónicas, medicina]
     strategies: ["Plan de Recuperación, Transformación y Resiliencia", Agenda España Digital]
-    programs: "PERTE (Proyectos Estratégicos para la Recuperación y Transformación Económica)"
+    programs: PERTE
     resources: Next Generation
     agents: [Gobierno estatal, Empresas]

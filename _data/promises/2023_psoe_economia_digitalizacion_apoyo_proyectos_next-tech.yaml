@@ -24,10 +24,10 @@ statements:
 standarized_statements:
   - id: 1
     goals: [Transformación digital]
+    objectives: [Emprendimiento, Crecimiento empresarial]
     actions: [Apoyar e incentivar económicamente, Facilitar]
     means: [Subvenciones, Financiación e inversión, Colaboración público-privada]
-    objectives: [Emprendimiento, Crecimiento empresarial]
-    topics: [proyectos digitales innovadores de alto impacto]
+    targets: [proyectos digitales innovadores de alto impacto]
     strategies: ["Plan de Recuperación, Transformación y Resiliencia"]
     programs: Next-Tech
     agents: [Empresas, Gobierno estatal]

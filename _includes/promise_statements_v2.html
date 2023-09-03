@@ -1,3 +1,4 @@
+{% assign programs_data = site.data.funds_programs_strategies %}
 <div class="px-2 m-2">
     <p><b>El compromiso literal:</b></p>
     {% if item[0].description %}
@@ -13,7 +14,7 @@
     <ul>
         {% for ss in item[0].standarized_statements %}
             <li>   
-                <b>Meta (objetivo superior):</b>
+                <b>Meta:</b>
                 {% for g in ss.goals %}
                     {% if forloop.length > 1 %}
                         {% if forloop.last %}
@@ -48,10 +49,10 @@
                         {% endif %}  
                     {% endif %}
                     {{ pg }} 
-                {% endfor %}<br>             
-                <b>Objetivo concreto: </b> 
+                {% endfor %}           
+                <br><b>Objetivo concreto: </b> 
                 {% if ss.actions %}
-                    {% for m in ss.actions %}
+                    {% for a in ss.actions %}
                         {% if forloop.length > 1 %}
                             {% if forloop.last %}
                                 {% assign first_letter = a | slice: 0 | downcase %}
@@ -68,7 +69,6 @@
                     {% endfor %}
                 {% endif %}
                 {% if ss.objectives %}
-                    el/la
                     {% for o in ss.objectives %}
                         {% if forloop.length > 1 %}
                             {% if forloop.last %}
@@ -85,9 +85,9 @@
                         {{ o }}
                     {% endfor %}
                 {% endif %}
-                {% if ss.topics %}
+                {% if ss.targets %}
                     en 
-                    {% for t in ss.topics %}
+                    {% for t in ss.targets %}
                         {% if forloop.length > 1 %}
                             {% if forloop.last %}
                                 {% assign first_letter = t | slice: 0 | downcase %}
@@ -102,8 +102,8 @@
                         {% endif %}
                         {{ t }}
                     {% endfor %}
-                {% endif %}<br>
-                <b>Ejecución:</b> 
+                {% endif %}
+                <br><b>Ejecución:</b> 
                 {% if ss.means %}
                     mediante 
                     {% for m in ss.means %}
@@ -120,17 +120,19 @@
                             {% endif %}  
                         {% endif %}
                         {{ m }}
-                    {% endfor %}<br>
+                    {% endfor %}
                 {% else %}
-                    <span class="text-danger"> no definidos </span><br>
+                    <span class="text-danger"> no definidos </span>
                 {% endif %}
-                <b>Recursos:</b>
-                {% unless ss.programs and ss.strategies and ss.resources %}
-                    <span class="text-danger"> no definidos </span><br>
+                <br><b>Recursos:</b>
+                {% assign cont = 0 %}
+                {% unless ss.programs or ss.strategies or ss.resources %}
+                    <span class="text-danger"> no definidos </span>
                 {% endunless %}
                 {% if ss.programs %}
                     a través de los programas
                     {% for p in ss.programs %}
+                        {% assign data = programs_data | where: "name", p %}
                         {% if forloop.length > 1 %}
                             {% if forloop.last %}
                                 {% assign first_letter = p | slice: 0 | downcase %}
@@ -144,11 +146,20 @@
                             {% endif %}  
                         {% endif %}
                         {{ p }}
+                        {% if data[0] %}
+                            <span>
+                            {% for url in data[0].urls %}
+                                {% assign cont = cont | plus: 1 %}
+                                <sup><a href="{{url}}" target="_blank">{{cont}}</a></sup>
+                            {% endfor %}
+                            </span>
+                        {% endif %}
                     {% endfor %}
                 {% endif %}
                 {% if ss.strategies %}
                     enmarcados en las estrategias 
                     {% for s in ss.strategies %}
+                        {% assign data = programs_data | where: "name", s %}
                         {% if forloop.length > 1 %}
                             {% if forloop.last %}
                                 {% assign first_letter = s | slice: 0 | downcase %}
@@ -162,11 +173,20 @@
                             {% endif %}  
                         {% endif %} 
                         {{ s }}
+                        {% if data[0] %}
+                            <span>
+                            {% for url in data[0].urls %}
+                                {% assign cont = cont | plus: 1 %}
+                                <sup><a href="{{url}}" target="_blank">{{cont}}</a></sup>
+                            {% endfor %}
+                            </span>
+                        {% endif %}
                     {% endfor %}
                 {% endif %}
                 {% if ss.resources %}
                     y financiados con 
                     {% for r in ss.resources %}
+                        {% assign data = programs_data | where: "name", r %}
                         {% if forloop.length > 1 %}
                             {% if forloop.last %}
                                 {% assign first_letter = r | slice: 0 | downcase %}
@@ -180,11 +200,19 @@
                             {% endif %}  
                         {% endif %}
                         {{ r }}
-                    {% endfor %}<br>
+                        {% if data[0] %}
+                            <span>
+                            {% for url in data[0].urls %}
+                                {% assign cont = cont | plus: 1 %}
+                                <sup><a href="{{url}}" target="_blank">{{cont}}</a></sup>
+                            {% endfor %}
+                            </span>
+                        {% endif %}
+                    {% endfor %}
                 {% endif %}            
                 
             {% if ss.agents %}
-                <b>Partes implicadas:</b> 
+                <br><b>Partes implicadas:</b> 
                 {% for a in ss.agents %}
                     {% if forloop.length > 1 %}
                         {% if forloop.last %}

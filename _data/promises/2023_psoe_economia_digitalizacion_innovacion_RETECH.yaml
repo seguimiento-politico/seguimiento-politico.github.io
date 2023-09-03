@@ -25,7 +25,7 @@ standarized_statements:
   - id: 1
     goals: [Transformación digital]
     objectives: [Desarrollo tecnológico, Innovación]
-    topics: [Ciberseguridad, Inteligencia artificial, Espacios de datos, Gemelos digitales]
+    targets: [Ciberseguridad, Inteligencia artificial, Espacios de datos, Gemelos digitales]
     means: ["Subvenciones, Financiación e inversión", Colaboración público-privada, Cooperación territorial]
     agents: [UE, Gobierno, CC.AA., Universidades, Centros de investigación, Empresas] 
     strategies: ["Plan de Recuperación, Transformación y Resiliencia", Agenda España Digital]
