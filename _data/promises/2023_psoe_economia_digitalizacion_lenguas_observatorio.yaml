@@ -1,0 +1,34 @@
+id: d8feb82f-e7c3-42da-a058-090a8f4262e6
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 60
+ref_parent_chapter: "I.14.7"
+ref_section: "001"
+categories:
+  - Economía
+  - Cultura
+  - Agencias y órganos públicos
+parent_goals:
+  - Crecimiento económico justo y sostenible
+topics:
+  - Lenguas
+title: Nos comprometemos a seguir impulsado los objetivos del PERTE de la Lengua
+statements:
+  - id: 1
+    quote: Nos comprometemos a seguir impulsado los objetivos del PERTE de la Lengua 
+  - id: 2
+    quote: y trabajar desde el Observatorio Global del Español para definir retos, necesidades y proyectos, 
+  - id: 3
+    quote: empezando por el impulso a los estudios sobre el estado de situación de la certificación del español, 
+    partial: ini
+  - id: 4
+    quote: así como para evaluar los sistemas existentes 
+  - id: 5
+    quote: e identificar las palancas claves para escalar el sector de aprendizaje de la lengua, y el desarrollo de corpus lingüísticos.
+    partial: end

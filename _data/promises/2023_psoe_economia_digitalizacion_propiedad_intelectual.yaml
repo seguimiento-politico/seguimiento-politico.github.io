@@ -1,0 +1,22 @@
+id: fb269595-8341-48d0-b45b-1c0d5110ddd7
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 57
+ref_parent_chapter: "I.14.3"
+ref_section: "014"
+categories:
+  - Derechos y servicios sociales
+  - Economía
+  - Seguridad y defensa
+parent_goals:
+  - Crecimiento económico justo y sostenible
+title: Reforzaremos y adaptaremos la regulación de propiedad intelectual, de identidad y seguridad
+statements:
+  - id: 1
+    quote: Reforzaremos y adaptaremos la regulación de propiedad intelectual, de identidad y seguridad, para adaptarla a las nuevas realidades del proceso de transformación digital.

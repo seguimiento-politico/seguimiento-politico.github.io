@@ -1,0 +1,24 @@
+id: 5a50c36d-9418-4b3b-869c-cacf48675f4f
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 59
+ref_parent_chapter: "I.14.5"
+ref_section: "011"
+categories:
+  - Economía
+  - Cultura
+  - Ciencia y tecnología
+parent_goals:
+  - Crecimiento económico justo y sostenible
+topics:
+  - Inteligencia artificial
+title: Garantizaremos el uso de la inteligencia artificial también en español
+statements:
+  - id: 1
+    quote: Garantizaremos el uso de la inteligencia artificial también en español, mediante la puesta en marcha del PERTE de la Nueva Economía de la Lengua como oportunidad para aprovechar el potencial del español y de las lenguas cooficiales como factor de crecimiento económico y competitividad internacional, así como para incorporar nuevas herramientas tecnológicas para la gestión y el procesamiento de dichos contenidos por parte de medios de información en español y en las lenguas cooficiales.

@@ -1,0 +1,21 @@
+id: bdbc81c8-56b1-4580-9303-b5f8652b6139
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 57
+ref_parent_chapter: "I.14.4"
+ref_section: "004"
+categories:
+  - Ciencia y tecnología
+  - Infraestructuras
+parent_goals:
+  - Crecimiento económico justo y sostenible
+title: Desarrollaremos reglamentariamente la última Ley General de Telecomunicaciones
+statements:
+  - id: 1
+    quote: Desarrollaremos reglamentariamente la última Ley General de Telecomunicaciones, de manera que se permitan actuaciones que faciliten el despliegue de redes innovadoras de telecomunicaciones que alcancen a toda la población.

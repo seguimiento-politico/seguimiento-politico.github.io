@@ -1,0 +1,27 @@
+id: a83729be-82e3-43bf-b921-9a4f221ac986
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 60
+ref_parent_chapter: "I.14.6"
+ref_section: "006"
+categories:
+  - Economía
+  - Industria
+  - Educación
+  - Ciencia y tecnología
+parent_goals:
+  - Crecimiento económico justo y sostenible
+topics:
+  - Microelectrónica
+  - Inteligencia artificial
+  - Innovación
+title: Aceleraremos la puesta en marcha de un programa de cátedras y becas universidad-industria para potenciar el talento en España en sectores de alta tecnología (IA, semiconductores, etc.).
+statements:
+  - id: 1
+    quote: Aceleraremos la puesta en marcha de un programa de cátedras y becas universidad-industria para potenciar el talento en España en sectores de alta tecnología (IA, semiconductores, etc.).

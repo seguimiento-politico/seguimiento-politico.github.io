@@ -1,0 +1,22 @@
+id: c3c68c1f-23cd-444d-9b05-93b64cbc110d
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 58
+ref_parent_chapter: "I.14.5"
+ref_section: "004"
+categories:
+  - Ciencia y tecnología
+  - Trabajo
+  - Educación
+parent_goals:
+  - Crecimiento económico justo y sostenible
+title: Impulsaremos un plan específico de choque contra el desempleo juvenil
+statements:
+  - id: 1
+    quote: Impulsaremos un plan específico de choque contra el desempleo juvenil, donde la capacitación, la acreditación de competencias digitales no regladas y la promoción del talento joven, la formación STEM con foco en las mujeres o el impulso de los empleos digitales, sea un referente clave para la planificación de políticas de desarrollo económico y generación de empleo.

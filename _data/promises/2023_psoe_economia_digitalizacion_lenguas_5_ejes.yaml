@@ -1,0 +1,36 @@
+id: ce8734aa-9f14-4168-813c-e7d56c9e9f77
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 60
+ref_parent_chapter: "I.14.7"
+ref_section: "002"
+categories:
+  - Economía
+  - Cultura
+  - Agencias y órganos públicos
+parent_goals:
+  - Crecimiento económico justo y sostenible
+topics:
+  - Lengua española
+  - Lenguas cooficiales
+title: Impulsaremos los cinco ejes de actuación del PERTE de la Nueva Economía de la Lengua en infraestructuras lingüísticas para nuestras lenguas oficiales
+statements:
+  - id: 1
+    quote: Impulsaremos los cinco ejes de actuación del PERTE de la Nueva Economía de la Lengua en infraestructuras lingüísticas para nuestras lenguas oficiales,
+    partial: ini
+  - id: 2
+    quote: el apoyo a las industrias basadas en las tecnologías del lenguaje,
+  - id: 3
+    quote: el incremento de la presencia del español como lengua de producción y difusión de conocimientos científicos
+  - id: 4
+    quote: y el impulso del aprendizaje 
+  - id: 5
+    quote: y la penetración del español en los principales centros mundiales de innovación,
+  - id: 6
+    quote: así como de la digitalización de las industrias culturales.

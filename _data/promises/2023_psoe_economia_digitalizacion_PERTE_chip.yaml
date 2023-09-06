@@ -1,0 +1,24 @@
+id: ce38d7ac-46ee-4a8f-a235-b09b6fe38ea8
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 59
+ref_parent_chapter: "I.14.6"
+ref_section: "002"
+categories:
+  - Economía
+  - Industria
+  - Ciencia y tecnología
+topics:
+  - Microelectrónica
+parent_goals:
+  - Crecimiento económico justo y sostenible
+title: Impulsaremos a través del PERTE Chip la cadena de valor de la industria en distintas fases
+statements:
+  - id: 1
+    quote: "Impulsaremos a través del PERTE Chip la cadena de valor de la industria en distintas fases: concepción, diseño, producción de chips y dinamización de la fabricación de productos electrónicos TIC, mediante la puesta en marcha de las líneas de ayudas contempladas en su elaboración, reforzando especialmente todo el sector innovador, alineándolo con la Chips Act europea y generando dinámicas en la cadena de valor que logren el círculo virtuoso de fomentar el establecimiento de empresas punteras, la creación de empresas innovadoras y una importante iniciativa de I+D+i que las alimente."

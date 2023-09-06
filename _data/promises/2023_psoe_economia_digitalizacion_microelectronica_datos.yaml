@@ -1,0 +1,22 @@
+id: f9ec980d-008f-4d22-9c48-8b5a337451af
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 59
+ref_parent_chapter: "I.14.6"
+ref_section: "003"
+categories:
+  - Economía
+  - Industria
+  - Ciencia y tecnología
+parent_goals:
+  - Crecimiento económico justo y sostenible
+title: Seguiremos impulsando la economía y gobierno del dato, desarrollando los programas de misiones de investigación e innovación
+statements:
+  - id: 1
+    quote: Seguiremos impulsando la economía y gobierno del dato, desarrollando los programas de misiones de investigación e innovación con el fin de abordar los desafíos ambientales, sociales y de salud

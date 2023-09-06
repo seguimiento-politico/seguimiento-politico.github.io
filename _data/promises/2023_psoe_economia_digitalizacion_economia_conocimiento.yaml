@@ -1,0 +1,22 @@
+id: d7bb1cf1-58c6-469a-841a-cbd16273ec3a
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 57
+ref_parent_chapter: "I.14.3"
+ref_section: "013"
+categories:
+  - Ciencia y tecnología
+  - Economía
+  - Cultura
+parent_goals:
+  - Crecimiento económico justo y sostenible
+title: Seguiremos impulsando la digitalización y modernización de los sectores tractores de la nueva economía del conocimiento
+statements:
+  - id: 1
+    quote: Seguiremos impulsando la digitalización y modernización de los sectores tractores de la nueva economía del conocimiento, incluyendo todas las industrias culturales, el sector audiovisual y de videojuegos, los medios de comunicación y los nuevos mercados emergentes como los podcasts.

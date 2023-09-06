@@ -1,0 +1,22 @@
+id: 3372d908-b964-46fb-98a3-47e586202daf
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 58
+ref_parent_chapter: "I.14.5"
+ref_section: "003"
+categories:
+  - Ciencia y tecnología
+  - Trabajo
+  - Educación
+parent_goals:
+  - Crecimiento económico justo y sostenible
+title: Desarrollaremos un plan de formación y acceso a los servicios digitales dirigido a los colectivos vulnerables o con necesidades especiales y que evite la exclusión digital.
+statements:
+  - id: 1
+    quote: Desarrollaremos un plan de formación y acceso a los servicios digitales que garantice el aprovechamiento de las capacidades de la sociedad digital a los colectivos vulnerables o con necesidades especiales y que evite la exclusión digital.

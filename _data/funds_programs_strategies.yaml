@@ -35,3 +35,10 @@
   urls: 
     - https://generaciond.gob.es/plan-nacional
     - https://planderecuperacion.gob.es/politicas-y-componentes/componente-19-plan-nacional-de-competencias-digitales-digital-skills
+- name: Plan de Digitalización de las Administraciones Públicas
+  urls:
+    - https://portal.mineco.gob.es/gl-es/ministerio/estrategias/Paxinas/Plan_Digitalizacion_AAPP.aspx
+    - https://administracionelectronica.gob.es/pae_Home/pae_Estrategias/Plan_Digitalizacion_AAPP.html
+- name: UNICO
+  urls:
+    - https://portal.mineco.gob.es/es-es/ministerio/estrategias/Paginas/06_Programa_UNICO_Banda_Ancha.aspx

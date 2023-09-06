@@ -1,0 +1,26 @@
+id: 54ca38f8-3040-4914-9716-78245274d882
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 60
+ref_parent_chapter: "I.14.7"
+ref_section: "002"
+categories:
+  - Economía
+  - Cultura
+  - Agencias y órganos públicos
+parent_goals:
+  - Crecimiento económico justo y sostenible
+topics:
+  - Lengua española
+title: Seguiremos impulsando el aprendizaje del español en España y en el ámbito internacional
+statements:
+  - id: 1
+    quote: Seguiremos impulsando el aprendizaje del español en España y en el ámbito internacional
+  - id: 2
+    quote: Apoyaremos la labor del Instituto Cervantes y de las universidades españolas para impulsar un modelo de certificación eficiente de niveles de aprendizaje y la inclusión del español en el currículo escolar de los principales países, como China, Japón, India y Estados Unidos.

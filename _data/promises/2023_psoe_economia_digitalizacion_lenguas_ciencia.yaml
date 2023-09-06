@@ -1,0 +1,29 @@
+id: 8361f3e0-420d-4fa7-8179-f1e95cf34257
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 61
+ref_parent_chapter: "I.14.7"
+ref_section: "005"
+categories:
+  - Economía
+  - Ciencia y tecnología
+  - Cultura
+topics:
+  - Lengua española
+  - Inteligencia artificial
+parent_goals:
+  - Crecimiento económico justo y sostenible 
+title: Reforzaremos e intensificaremos la participación de los organismos públicos de investigación y las universidades en el desarrollo del PERTE y sus programas y líneas de actuación
+statements:
+  - id: 1
+    quote: Reforzaremos e intensificaremos la participación de los organismos públicos de investigación y las universidades en el desarrollo del PERTE y sus programas y líneas de actuación, especialmente en el ámbito de la ciencia y la innovación vinculada a la lengua.
+  - id: 2
+    quote: En este sentido reforzaremos e impulsaremos el PROYECTO TRACTOR 7 con el objetivo de promover la divulgación nacional e internacional de la ciencia en español junto con actores como la FECYT, la agencia de noticias científicas SINC y aprovechando el Año Cajal que pondrá en marcha un programa de incentivos fiscales.
+  - id: 3
+    quote: Apoyaremos y promoveremos la generación de conocimiento y consolidación del patrimonio técnico-científico hispanohablante, mediante actuaciones de apoyo al mantenimiento y conservación de los diccionarios digitales de las reales academias. Estas actuaciones contribuirán a la indización automática de textos biomédicos a través de sistemas de IA y al fomento de inversiones en el ámbito universitario.

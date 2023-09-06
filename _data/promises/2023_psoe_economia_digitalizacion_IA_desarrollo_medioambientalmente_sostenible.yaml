@@ -1,0 +1,27 @@
+id: 80901419-9d89-4505-8196-1170c8cf516a
+version: 2
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 56
+ref_parent_chapter: "I.14.3"
+ref_section: "010"
+categories:
+  - Ciencia y tecnología
+  - Medioambiente
+  - Economía
+parent_goals:
+  - Crecimiento económico justo y sostenible
+title: Impulsaremos un desarrollo medioambientalmente sostenible de la inteligencia artificial
+statements:
+  - id: 1
+    quote: Impulsaremos un desarrollo medioambientalmente sostenible de la inteligencia artificial
+  - id: 2
+    quote: Para ello estableceremos requisitos de eficiencia energética y suministro de fuentes renovables para los proyectos de inversión e instalación de centros de procesamiento de datos u otras tecnologías intensivas en energía en España
+  - id: 3
+    quote: También promoveremos los algoritmos verdes por diseño (green by design), e impulsaremos los proyectos que permitan explotar las sinergias de la doble transición verde y digital.

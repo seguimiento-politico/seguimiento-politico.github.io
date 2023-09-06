@@ -1,0 +1,23 @@
+id: 0a3e729d-2047-4ea3-aab7-05bc25270035
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 58
+ref_parent_chapter: "I.14.5"
+ref_section: "001"
+categories:
+  - Ciencia y tecnología
+  - Infraestructuras
+parent_goals:
+  - Crecimiento económico justo y sostenible
+title: Completaremos la universalización del acceso a las infraestructuras digitales
+statements:
+  - id: 1
+    quote: Completaremos la universalización del acceso a las infraestructuras digitales con medidas que favorezcan los despliegues en las zonas más remotas, simplificando y facilitando los requisitos.
+  - id: 2
+    quote: Bajo el paraguas del programa UNICO, continuaremos apoyando los despliegues de forma que las redes ultrarrápidas estén disponibles para toda la población a un precio asequible en todo el territorio.
