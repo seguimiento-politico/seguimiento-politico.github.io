@@ -1,0 +1,29 @@
+id: ac10c597-2f6c-41c9-88ae-99edcc252dec
+scope: national
+scope_country: spain
+election_type: generales
+from: "2023-07-23"
+parties:
+  - PSOE
+ref_type: manifesto
+ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+ref_page: 67
+ref_parent_chapter: "I.15.3"
+ref_section: "012"
+categories:
+  - Economía
+  - Agricultura
+  - Ganadería
+  - Alimentación
+  - Agencias y órganos públicos
+parent_goals:
+  - Crecimiento económico justo 
+  - Crecimiento económico sostenible 
+goals:
+  - Seguridad alimentaria
+objectives:
+  - Precios justos en alimentación
+title: Aseguraremos el cumplimiento de la nueva Ley de la Cadena Alimentaria
+statements:
+  - id: 1
+    quote: Aseguraremos el cumplimiento de la nueva Ley de la Cadena Alimentaria, reforzando la labor de la AICA y las autoridades competentes de los gobiernos autonómicos con nuevas herramientas.

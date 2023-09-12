@@ -1,4 +1,4 @@
-id: f5a1379b-4793-47dd-9c6e-dd1fa240b1e1
+id: bca9ec6f-af71-422a-ae2b-abe4788e9c42
 scope: national
 scope_country: spain
 election_type: generales
@@ -9,24 +9,26 @@ ref_type: manifesto
 ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
 ref_page: 66
 ref_parent_chapter: "I.15.3"
-ref_section: "001"
+ref_section: "006"
 categories:
   - Economía
   - Agricultura
   - Ganadería
-  - Alimentación
-  - Europa
 topics:
-  - PAC
+  - Energías renovables
 parent_goals:
   - Crecimiento económico justo 
   - Crecimiento económico sostenible 
+goals:
   - Desarrollo rural
   - Autonomía alimentaria
   - Seguridad alimentaria
-title: Seguiremos trabajando en la implementación de la nueva PAC 2023-2027, más justa, más sostenible y social. Realizaremos una evaluación intermedia en 2024.
+objectives:
+  - Financiación sector agroalimentario
+means:
+  - Ayudas
+  - Préstamos bonificados
+title: Seguiremos reforzando la financiación del sector a través de las líneas de préstamos bonificados y ayudas para avales.
 statements:
   - id: 1
-    quote: Seguiremos trabajando en la implementación de la nueva PAC 2023-2027, más justa, más sostenible y social. 
-  - id: 2
-    quote: Realizaremos una evaluación intermedia en 2024.
+    quote: Seguiremos reforzando la financiación del sector a través de las líneas de préstamos bonificados y ayudas para avales.

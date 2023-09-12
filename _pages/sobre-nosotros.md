@@ -16,7 +16,7 @@ A esta información básica, le añadimos algunas opciones para poder profundiza
 
 Todo lo que aparece en esta web es públicamente accesible por medio de fuentes oficiales, simplemente, lo ponemos a disposición de una manera centralizada con una visualización homogénea y "amigable". 
 
-Finalmente, resulta imprescindible informarles que este proyecto se ha inspirado en otro previamente existente y, hasta donde sabemos, abandonado por sus creadores. Se trata de [TrumpTracker](http://trumptracker.github.io/). Dicha web fue a su vez inspirada por la idea original de la canadiense [Polimeter](https://www.polimeter.org/en), que a diferencia de la anterior y de {{ site.name }}, no es de código abierto. Aquellos profesionales de la politología así como personas de a pie, pueden colaborar con otros académicos y los responsables de Polimeter accediendo a [VoxPopLabs](https://signup.voxpoplabs.com/).
+Finalmente, resulta imprescindible reconocer que este proyecto se ha inspirado en otro previamente existente y, hasta donde sabemos, abandonado por sus creadores. Se trata de [TrumpTracker](http://trumptracker.github.io/). Dicha web fue a su vez inspirada por la idea original de la canadiense [Polimeter](https://www.polimeter.org/en), que a diferencia de la anterior y de {{ site.name }}, no es de código abierto.
 
 ## ¿Cuál es nuestra motivación y objetivos?
 Somos personas normales y corrientes, sin una agenda política particular. Cada una de las personas que participan en el proyecto tiene sus propias ideas políticas, eso es inevitable. 
