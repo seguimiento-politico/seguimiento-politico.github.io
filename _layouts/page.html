@@ -2,12 +2,8 @@
 layout: default
 ---
 
-{% if page.updates %}
-    {% include updates.html %}
-{% endif %}
+<div class="container-fluid my-3">
 
 {{content}}
 
-{% if site.comments.active and page.comments %}
-    {% include comments.html %}
-{% endif %}
+</div>

@@ -32,7 +32,7 @@ socials:
   twitter: https://twitter.com/seg_politico
   email: seguimiento-politico@protonmail.com
 
-locale: "es-ES"
+lang: "es"
 
 repository-source: https://github.com
 raw-repository-source: https://github.com/seguimiento-politico/seguimiento-politico.github.io/blob/master
@@ -115,28 +115,44 @@ collections:
 
 # Defaults
 defaults:
-  # _pages
   - scope:
       path: "_pages"
       type: pages
     values:
       permalink: :basename
       layout: single 
+
   - scope:
       path: "_docs"
     values:
       layout: document
       comments: false
-  # tracks and promises
+
   - scope:
       path: "_promises"
     values:
       layout: promise
       comments: true
+
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      permalink: blog/:title
+      layout: article
+      show_date: true
+      read_time: true
+      show_status: true
+      comments: true
+      share: true
+      toc: true
+      toc_sticky: true
+
   - scope:
       path: "assets/images"
     values:
       image: true
+
   - scope:
       path: "assets/docs"
     values:

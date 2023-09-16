@@ -1,6 +1,6 @@
 ##### README #####
 # author: Tovarlogic@gmail.com
-# use this script to create populate a categorization file for unique (no duplicates) "parent goals", "goals" and "objectives" extracted from all promises
+# use this script to create and populate a categorization file for unique (no duplicates) "parent goals", "goals", "objectives" and "topics" extracted from all promises
 
 import os
 import yaml
@@ -10,14 +10,19 @@ from termcolor import colored
 data_path = os.getcwd() + '/_data/promises/'
 destination_path = os.getcwd() + '/_data/categorization/promises_goals.yaml'
 
-# get all files
+# get all promises files
 (_, _ , files) = next(os.walk(data_path))
 
-#check if destination file exists. create it if it does not:
-if not os.path.exists(destination_path):
-    content = "parent_goals:\n" + "goals:\n" + "objectives:\n"
-    with open(destination_path, 'w') as f:
-        f.write(content)
+#Reset destination file:
+if os.path.exists(destination_path):
+    os.remove(destination_path)
+    print("File " + destination_path + " deleted")
+
+content = "parent_goals:\n" + "goals:\n" + "objectives:\n" + "topics:\n"
+with open(destination_path, 'w') as f:
+    f.write(content)
+    print("File " + destination_path + " created")
+
 
 #set output variables
 output = {}
@@ -37,6 +42,11 @@ with open(destination_path, 'r', encoding='utf-8') as f:
         objectives = set(destination_file['objectives'])
     else:
         objectives = set()
+    
+    if destination_file['topics'] is not None:
+        topics = set(destination_file['topics'])
+    else:
+        topics = set()
 
 # collect goals and objectives from promises
 for item in files:   
@@ -59,10 +69,16 @@ for item in files:
                 objectives.update(promise_file['objectives'])
         except KeyError:
             pass
+        
+        try:
+            if promise_file['topics']:
+                topics.update(promise_file['topics'])
+        except KeyError:
+            pass
 
 #overwrite the destination file
-output = {'parent_goals': list(parent_goals), 'goals': list(goals), 'objectives': list(objectives)}
-print(output)
+output = {'parent_goals': list(parent_goals), 'goals': list(goals), 'objectives': list(objectives), 'topics': list(topics)}
 with open(destination_path, 'w') as f:
     yaml.dump(output, f, allow_unicode=True)
+    print("File " + destination_path + " populated")
 

@@ -3,6 +3,7 @@
 # use this script to create every track page from the _data files before building jekyll
 
 import os
+import shutil
 import yaml
 from termcolor import colored
 import uuid

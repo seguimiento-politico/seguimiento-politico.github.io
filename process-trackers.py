@@ -3,12 +3,18 @@
 # use this script to create every track page from the _data files before building jekyll
 
 import os
+import shutil
 import yaml
 from termcolor import colored
 
 # PATHS
 data_path = os.getcwd() + '/_data/tracks/'
 destination_path = os.getcwd() + '/_tracks/'
+
+#reset destination folder
+if os.path.exists(destination_path):
+    shutil.rmtree(destination_path)
+os.makedirs(destination_path)
 
 # get all directories
 (_, _ , files) = next(os.walk(data_path))

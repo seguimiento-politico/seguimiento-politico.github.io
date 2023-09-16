@@ -1,3 +1,5 @@
 {
-    "frontMatter.content.defaultFileType": "yaml"
+    "frontMatter.content.defaultFileType": "yaml",
+    "[markdown]": {
+    }
 }

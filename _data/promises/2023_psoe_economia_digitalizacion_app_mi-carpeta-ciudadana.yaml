@@ -14,7 +14,8 @@ ref_section: "009"
 categories:
   - Organización estatal y administraciones públicas
 parent_goals:
-  - Crecimiento económico justo y sostenible
+  - Crecimiento económico justo
+  - Crecimiento económico sostenible
 title: Desarrollaremos la aplicación Mi Carpeta Ciudadana, integrando más funcionalidades de las ya disponibles 
 statements:
   - id: 1

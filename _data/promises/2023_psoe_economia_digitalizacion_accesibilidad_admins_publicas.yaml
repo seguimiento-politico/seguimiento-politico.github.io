@@ -14,7 +14,8 @@ ref_section: "007"
 categories:
   - Organización estatal y administraciones públicas
 parent_goals:
-  - Crecimiento económico justo y sostenible 
+  - Crecimiento económico justo
+  - Crecimiento económico sostenible 
 title: Mejoraremos la accesibilidad digital de las Administraciones Públicas.
 statements:
   - id: 1

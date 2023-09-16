@@ -1,4 +1,4 @@
-id: b4ad7b24-eff2-46da-9db7-aed69aacdbd7
+id: ef4c8f50-2705-402a-b7cd-8f6bf7f91085
 scope: national
 scope_country: spain
 election_type: generales
@@ -9,22 +9,27 @@ ref_type: manifesto
 ref_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
 ref_page: 68
 ref_parent_chapter: "I.15.3"
-ref_section: "020"
+ref_section: "019"
 categories:
   - Economía
   - Ganadería
   - Agricultura
-  - Educación
-  - Sanidad
+  - Alimentación
 parent_goals:
   - Crecimiento económico justo 
   - Crecimiento económico sostenible 
 goals:
   - Desarrollo rural
-  - Alimentación sana
 objectives:
-  - Promover la dieta mediterránea
-title: Promoveremos la formación sobre los beneficios de la Dieta Mediterránea y los productos emblemáticos de nuestro país a edades tempranas.
+  - Incrementar la producción de alimentos ecológicos
+  - Incrementar la demanda de alimentos ecológicos
+topics:
+  - Alimentación ecológica
+  - Agricultura ecológica
+  - Ganadería ecológica
+title: Elaboraremos e impulsaremos un Plan Estratégico de la Producción Ecológica.
 statements:
   - id: 1
-    quote: Promoveremos la formación sobre los beneficios de la Dieta Mediterránea y los productos emblemáticos de nuestro país a edades tempranas.
+    quote: Elaboraremos e impulsaremos un Plan Estratégico de la Producción Ecológica. 
+  - id: 2
+    quote: Fomentaremos el consumo de alimentos de calidad diferenciada y producción ecológica a través de campañas de promoción específicas y colaboraciones con la restauración y la hostelería.

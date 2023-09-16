@@ -13,14 +13,17 @@ layout: compress
     <body class="bg-light">
 
         {% include navbar.html %}
-
         {% include /tweaks/back_to_top.html %}  
 
-        <div class="container-fluid my-3">
+        {% if page.updates %}
+            {% include updates.html %}
+        {% endif %}
 
-            {{content}}
+        {{ content }}
 
-        </div>
+        {% if site.comments.active and page.comments %}
+            {% include comments.html %}
+        {% endif %}
 
         {% include footer.html %}
 

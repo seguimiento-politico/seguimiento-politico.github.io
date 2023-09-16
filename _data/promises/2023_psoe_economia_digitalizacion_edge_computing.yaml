@@ -13,7 +13,8 @@ ref_section: "005"
 categories:
   - Ciencia y tecnología
 parent_goals:
-  - Crecimiento económico justo y sostenible
+  - Crecimiento económico justo
+  - Crecimiento económico sostenible
 title: Promoveremos el desarrollo de servicio de computación en el borde (servicios Edge) que contribuyan a los objetivos de la Década Digital Europea
 statements:
   - id: 1

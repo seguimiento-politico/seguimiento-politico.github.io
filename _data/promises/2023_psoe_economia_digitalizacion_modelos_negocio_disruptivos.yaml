@@ -13,7 +13,8 @@ ref_section: "006"
 categories:
   - Derechos y servicios sociales
 parent_goals:
-  - Crecimiento económico justo y sostenible
+  - Crecimiento económico justo
+  - Crecimiento económico sostenible
 title: Potenciar la economía del dato y la inteligencia artificial para el desarrollo de servicios digitales y modelos de negocio disruptivos
 statements:
   - id: 1
