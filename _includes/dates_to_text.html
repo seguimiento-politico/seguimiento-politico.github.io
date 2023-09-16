@@ -1,4 +1,4 @@
 {{ date | date: "%-d" }}
 {% assign m = date | date: "%-m" | minus: 2 %}
-{{ site.data.ui-text[site.locale].months[m] }}
+{{ site.data.locales.ui-text[site.lang].months[m] }}
 {{ date | date: "%Y" }}

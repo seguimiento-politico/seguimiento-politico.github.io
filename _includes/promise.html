@@ -27,7 +27,7 @@
             </a>
             <a class="btn btn-sm btn-outline-secondary" href="{{ site.raw-repository-source }}/_data{{page.url}}.yaml" role="button">
                 <i class="fas fa-fw fa-lock-open fa-fw"></i>
-                {{ site.data.ui-text[site.locale].open_label | default: "open data" | downcase }}
+                {{ site.data.locales.ui-text[site.lang].open_label | default: "open data" | downcase }}
             </a>
         </div>
     </div>
@@ -58,7 +58,7 @@
                     {% assign date = item_analysis[0].created %}
                 {% endif %}
             <p class=""> 
-                <b>{{ site.data.ui-text[site.locale].last_review | default: "Last review" }}:</b>
+                <b>{{ site.data.locales.ui-text[site.lang].last_review | default: "Last review" }}:</b>
                 {% include dates_to_text.html %}
             </p>
             {% endif %}
@@ -205,7 +205,7 @@
                         {% assign color = 'info' %}
                     {% endif %}
 
-                    <span class="badge bg-{{ color }} me-3 position-absolute top-50 end-0 translate-middle">{{ site.data.ui-text[site.locale].[part.statement_quality.overall_quality] }}</span>
+                    <span class="badge bg-{{ color }} me-3 position-absolute top-50 end-0 translate-middle">{{ site.data.locales.ui-text[site.lang].[part.statement_quality.overall_quality] }}</span>
                 </button>
             </h2>
             <div id="promiseAnalysis-collapse-{{forloop.index}}" class="accordion-collapse collapse" aria-labelledby="heading-{{forloop.index}}" data-bs-parent="#promiseAnalysis">
@@ -224,12 +224,12 @@
                         <sup><a class="source_sup small" href="#references" title="{{ source[0].title }}">{{ source[0].ref }}</a></sup>
                         <footer class="blockquote-footer text-end mt-2">{{ part.statement.author }} en <cite>{{ source[0].title }}, {{ details }}</cite></footer>
                     </blockquote>
-                    <h1><b>{{ site.data.ui-text[site.locale].promise_characteristics }}</b></h1>
+                    <h1><b>{{ site.data.locales.ui-text[site.lang].promise_characteristics }}</b></h1>
                     <hr>
                     {% for feature in part.statement_quality %}
                         <p class="card-text ms-3">
                             {% assign promise_characteristic = feature[0] %}
-                            <span><b>{{ site.data.ui-text[site.locale].[promise_characteristic] }}</b></span>
+                            <span><b>{{ site.data.locales.ui-text[site.lang].[promise_characteristic] }}</b></span>
                         {% for reason in feature[1].reasons %}
                             {% if reason.compliance == 'yes' %} 
                                 {% assign icon = 'check' %}

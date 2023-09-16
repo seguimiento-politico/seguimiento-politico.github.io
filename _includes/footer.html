@@ -19,10 +19,10 @@
           <h5>Suscríbete a la lista de correo</h5>
           <p>si quieres que te informemos de novedades relevantes en {{site.name}}. <u>Garantizamos cero publicidad o spam.</u> Tampoco correos periódicos, solo notificaremos de lo realmente importante.</p>
           <div class="d-flex w-100 gap-2">
-            <label for="newsletter1" class="visually-hidden">{{ site.data.ui-text[site.locale].email_label | default: “Email address” }}</label>
-            <input type="email" value="" name="EMAIL" class="email form-control bg-light" id="mce-EMAIL" placeholder="{{ site.data.ui-text[site.locale].email_label | default: 'Email address' }}" required>
+            <label for="newsletter1" class="visually-hidden">{{ site.data.locales.ui-text[site.lang].email_label | default: “Email address” }}</label>
+            <input type="email" value="" name="EMAIL" class="email form-control bg-light" id="mce-EMAIL" placeholder="{{ site.data.locales.ui-text[site.lang].email_label | default: 'Email address' }}" required>
             <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_81a45d59b56bf4e88aba66404_7b2a430bef" tabindex="-1" value=""></div>
-            <input type="submit" value="{{ site.data.ui-text[site.locale].subscribe_label | default: 'Subscribe' }}" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary">
+            <input type="submit" value="{{ site.data.locales.ui-text[site.lang].subscribe_label | default: 'Subscribe' }}" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary">
           </div>
         </form>
       </div>
@@ -33,10 +33,10 @@
         <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
       </div>
       <div class="col text-muted">
-          <a href="/privacy/" aria-label="Privacy Policy">{{ site.data.ui-text[site.locale].privacy_label | default: “Privacy Policy” }}</a>   |
-          <a href="/terms/" aria-label="Terms of Use">{{ site.data.ui-text[site.locale].use_terms_label | default: “Terms of Use” }}</a>   | 
-          <a href="/responsible-disclosure-policy/" aria-label="Responsible Disclosure Policy">{{ site.data.ui-text[site.locale].responsible_disclosure_label | default: “Responsible Disclosure Policy” }}</a>   |  
-          <a href="/copyright/" aria-label="Copyright">{{ site.data.ui-text[site.locale].copyright_label | default: “Copyright” }}</a> 
+          <a href="/privacy/" aria-label="Privacy Policy">{{ site.data.locales.ui-text[site.lang].privacy_label | default: “Privacy Policy” }}</a>   |
+          <a href="/terms/" aria-label="Terms of Use">{{ site.data.locales.ui-text[site.lang].use_terms_label | default: “Terms of Use” }}</a>   | 
+          <a href="/responsible-disclosure-policy/" aria-label="Responsible Disclosure Policy">{{ site.data.locales.ui-text[site.lang].responsible_disclosure_label | default: “Responsible Disclosure Policy” }}</a>   |  
+          <a href="/copyright/" aria-label="Copyright">{{ site.data.locales.ui-text[site.lang].copyright_label | default: “Copyright” }}</a> 
       </div>
       <div class="col-md-1">
         <ul class="list-unstyled d-flex">

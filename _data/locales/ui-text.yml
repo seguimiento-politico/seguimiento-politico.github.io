@@ -29,19 +29,6 @@ en: &DEFAULT_EN
   status_achieved           : "Achieved"
   status_compromised        : "Compromised"
   status_broken             : "Broken"
-  months: 
-    - January 
-    - February 
-    - March 
-    - April 
-    - May 
-    - June 
-    - July
-    - August 
-    - September 
-    - October 
-    - November 
-    - December
 
 en-US:
   <<: *DEFAULT_EN
@@ -69,18 +56,6 @@ es: &DEFAULT_ES
   home_label                : "Inicio"
   more_info_label           : "Más info."
   measurability             : "Medible"
-  months:
-    - Febrero
-    - Marzo
-    - Abril
-    - Mayo
-    - Junio
-    - Julio
-    - Agosto
-    - Septiembre
-    - Octubre
-    - Noviembre
-    - Diciembre
   last_review               : "Última revisión"
   promise_characteristics   : "Características del compromiso"
   promises_label            : "Promesa/s"

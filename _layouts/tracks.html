@@ -36,7 +36,7 @@ layout: page
                         <div class="card-footer">
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
-                                <a class="btn btn-sm btn-outline-primary" href="{{ track[0] }}" role="button">{{ site.data.ui-text[site.locale].view_label | default: "view" | downcase }}</a>
+                                <a class="btn btn-sm btn-outline-primary" href="{{ track[0] }}" role="button">{{ site.data.locales.ui-text[site.lang].view_label | default: "view" | downcase }}</a>
                                 </div>
                                 {% assign track_name = track[0] %}
                                 {% if config_data.group_by == "legislature"  %}  
@@ -46,7 +46,7 @@ layout: page
                                 {% else %}
                                     {% assign items = "" | split:"," %}
                                 {% endif %}
-                                <small class="text-muted">{{ items | size }} {{ site.data.ui-text[site.locale].promises_label | default: "promises" | downcase }}</small>
+                                <small class="text-muted">{{ items | size }} {{ site.data.locales.ui-text[site.lang].promises_label | default: "promises" | downcase }}</small>
                             </div>
                         </div>
                     </div>

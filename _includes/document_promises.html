@@ -84,7 +84,7 @@
                         {% assign promises = site.data.promises %}
                         {% for promise in promises %}
                             {% if promise[1].id == item.id %}
-                                <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="Cumplimiento: {{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}"></i>
+                                <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="Cumplimiento: {{ site.data.locales.ui-text[site.lang].[status.lang_label] | default: status.name }}"></i>
                                 <a class="link-{{status.color}}" href="/promises/{{ promise[0] }}">{{ item.title }}</a>    
                                 {% if include.type == 'mini' or include.type == 'schematic' or include.type == 'full' %}
                                     <p><small class="fw-light">
@@ -136,7 +136,7 @@
                             {% assign promises = site.data.promises %}
                                 {% for promise in promises %}
                                     {% if promise[1].id == item.id %}
-                                        <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="Cumplimiento: {{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}"></i>
+                                        <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="Cumplimiento: {{ site.data.locales.ui-text[site.lang].[status.lang_label] | default: status.name }}"></i>
                                         <a class="link-{{status.color}}" href="/promises/{{ promise[0] }}">{{ item.title }}</a>  
                                         {% if include.type == 'mini' or include.type == 'schematic' or include.type == 'full' %}  
                                             <p><small class="fw-light">
@@ -188,7 +188,7 @@
                                 {% assign promises = site.data.promises %}
                                 {% for promise in promises %}
                                     {% if promise[1].id == item.id %}
-                                        <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="Cumplimiento: {{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}"></i>
+                                        <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="Cumplimiento: {{ site.data.locales.ui-text[site.lang].[status.lang_label] | default: status.name }}"></i>
                                         <a class="link-{{status.color}}" href="/promises/{{ promise[0] }}">{{ item.title }}</a>  
                                         {% if include.type == 'mini' or include.type == 'schematic' or include.type == 'full' %}
                                             <p><small class="fw-light">
@@ -240,7 +240,7 @@
                                     {% assign promises = site.data.promises %}
                                     {% for promise in promises %}
                                         {% if promise[1].id == item.id %}
-                                            <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="Cumplimiento: {{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}"></i>
+                                            <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="Cumplimiento: {{ site.data.locales.ui-text[site.lang].[status.lang_label] | default: status.name }}"></i>
                                             <a class="link-{{status.color}}" href="/promises/{{ promise[0] }}">{{ item.title }}</a>  
                                             {% if include.type == 'mini' or include.type == 'schematic' or include.type == 'full' %}
                                                 <p><small class="fw-light">
@@ -292,7 +292,7 @@
                                     {% assign promises = site.data.promises %}
                                     {% for promise in promises %}
                                         {% if promise[1].id == item.id %}
-                                            <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="Cumplimiento: {{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}"></i>
+                                            <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="Cumplimiento: {{ site.data.locales.ui-text[site.lang].[status.lang_label] | default: status.name }}"></i>
                                             <a class="link-{{status.color}}" href="/promises/{{ promise[0] }}">{{ item.title }}</a>  
                                             {% if include.type == 'mini' or include.type == 'schematic' or include.type == 'full' %}
                                                 <p><small class="fw-light">

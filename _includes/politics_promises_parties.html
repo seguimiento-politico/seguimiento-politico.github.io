@@ -7,7 +7,7 @@
 
 <!-- Intro -->
 <div class="border my-3 p-3 bg-body rounded shadow-sm">
-    <h6 class="border-bottom pb-2">{{ site.data.ui-text[site.locale].track_info_label | default: "Data and info about" }} {{ track_data.context.name }}</h6>
+    <h6 class="border-bottom pb-2">{{ site.data.locales.ui-text[site.lang].track_info_label | default: "Data and info about" }} {{ track_data.context.name }}</h6>
     <div class="row pt-2">
         <!-- % assign not_achieved = promises | where_exp: "item", "item.status contains 'Broken' or item.status contains 'Not started' or item.status contains 'In progress'" % 
                 % assign not_achieved_percent = not_achieved | times: 100 | divided_by: total % -->
@@ -51,7 +51,7 @@
 <div class="border my-3 p-3 bg-body rounded shadow-sm"> 
     <h6 class="border-bottom pb-2 d-flex justify-content-between align-items-start">
         <span class="align-self-center">
-            {{ site.data.ui-text[site.locale].track_promises_label | default: "Tracking promises of" }} {{ track_data.context.name }}
+            {{ site.data.locales.ui-text[site.lang].track_promises_label | default: "Tracking promises of" }} {{ track_data.context.name }}
         </span>
         <button class="btn btn-sm btn-primary" id="new-item" style=""><i class="fas fa-fw fa-plus"></i> nuevo compromiso</button>
     </h6>
@@ -71,9 +71,9 @@
                     <tr class="bg-dark text-light">
                         <th></th>
                         <th></th>
-                        <th class="sr-only">{{ site.data.ui-text[site.locale].promise_label | default: "Category" }}</th>
-                        <th>{{ site.data.ui-text[site.locale].promise_label | default: "Compromisos" }}</th>
-                        <th class="d-none d-sm-table-cell">{{ site.data.ui-text[site.locale].status_label | default: "Status" }}</th>
+                        <th class="sr-only">{{ site.data.locales.ui-text[site.lang].promise_label | default: "Category" }}</th>
+                        <th>{{ site.data.locales.ui-text[site.lang].promise_label | default: "Compromisos" }}</th>
+                        <th class="d-none d-sm-table-cell">{{ site.data.locales.ui-text[site.lang].status_label | default: "Status" }}</th>
                         <th></th>
                     </tr>
                     </thead>
@@ -141,8 +141,8 @@
                                 </div>
                             </td>
                             <td class="d-none d-sm-table-cell">
-                                <span class="d-none d-md-block list-status">{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}</span>
-                                <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}"></i>
+                                <span class="d-none d-md-block list-status">{{ site.data.locales.ui-text[site.lang].[status.lang_label] | default: status.name }}</span>
+                                <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="{{ site.data.locales.ui-text[site.lang].[status.lang_label] | default: status.name }}"></i>
                             </td>
                             <td class="text-center">
                                 {% assign promises = site.data.promises %}

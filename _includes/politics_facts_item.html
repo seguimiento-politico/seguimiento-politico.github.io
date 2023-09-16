@@ -21,7 +21,7 @@
             <a class="btn btn-sm btn-primary" href="{{page.url}}/edit-item">
                 <i class="fas fa-fw fa-pen"></i> Editar promesa
             </a>
-            <a class="btn btn-sm btn-outline-secondary" href="{{ site.raw-repository-source }}{{ site.repository}}/master/_data/tracks{{page.subfolder}}/{{page.track_name}}/{{page.item_name}}.yaml" role="button">{{ site.data.ui-text[site.locale].open_label | default: "open data" | downcase }}</a>
+            <a class="btn btn-sm btn-outline-secondary" href="{{ site.raw-repository-source }}{{ site.repository}}/master/_data/tracks{{page.subfolder}}/{{page.track_name}}/{{page.item_name}}.yaml" role="button">{{ site.data.locales.ui-text[site.lang].open_label | default: "open data" | downcase }}</a>
         </div>
     </div>
 
@@ -33,8 +33,8 @@
         <p><b>Estado y grado de cumplimiento:</b></p>
         <p class="ms-3">
             <span class="text-{{ status.color }} bold"> 
-                    <b>{{ site.data.ui-text[site.locale].[status.lang_label] }}</b> 
-                    <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}"></i> 
+                    <b>{{ site.data.locales.ui-text[site.lang].[status.lang_label] }}</b> 
+                    <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="{{ site.data.locales.ui-text[site.lang].[status.lang_label] | default: status.name }}"></i> 
             </span> 
             debido a que {{ item.status_info }}
         </p>
@@ -46,19 +46,19 @@
                 {% if fact.outcome == 'yes' %} 
                     {% assign icon = 'check' %}
                     {% assign color = 'success' %}
-                    {% assign outcome = site.data.ui-text[site.locale].statement_complieance_yes %}
+                    {% assign outcome = site.data.locales.ui-text[site.lang].statement_complieance_yes %}
                 {% elsif fact.outcome == 'no' %} 
                     {% assign icon = 'times' %}
                     {% assign color = 'danger' %}
-                    {% assign outcome = site.data.ui-text[site.locale].statement_complieance_no %}
+                    {% assign outcome = site.data.locales.ui-text[site.lang].statement_complieance_no %}
                 {% elsif fact.outcome == 'maybe' %}    
                     {% assign icon = 'minus' %}
                     {% assign color = 'warning' %}
-                    {% assign outcome = site.data.ui-text[site.locale].statement_complieance_maybe %}
+                    {% assign outcome = site.data.locales.ui-text[site.lang].statement_complieance_maybe %}
                 {% else %}
                     {% assign icon = 'question' %}
                     {% assign color = 'info' %}
-                    {% assign outcome = site.data.ui-text[site.locale].statement_complieance_not_known %}
+                    {% assign outcome = site.data.locales.ui-text[site.lang].statement_complieance_not_known %}
                 {% endif %}
                 <p class="card-text ms-3">
                     <i class="fas fa-fw fa-{{ icon }} text-{{ color }}"></i><span class="text-{{ color }}"><b>{{ outcome }}</b></span>: {{ fact.reasoning }}
@@ -84,7 +84,7 @@
                 {% assign date = item.created %}
             {% endif %}
             <p class=""> 
-                <b>{{ site.data.ui-text[site.locale].last_review | default: "Last review" }}:</b>
+                <b>{{ site.data.locales.ui-text[site.lang].last_review | default: "Last review" }}:</b>
                 {% include dates_to_text.html %}
             </p>
         </div>
@@ -147,7 +147,7 @@
                         {% assign color = 'info' %}
                     {% endif %}
 
-                    <span class="badge bg-{{ color }} me-3 position-absolute top-50 end-0 translate-middle">{{ site.data.ui-text[site.locale].[part.statement_quality.overall_quality] }}</span>
+                    <span class="badge bg-{{ color }} me-3 position-absolute top-50 end-0 translate-middle">{{ site.data.locales.ui-text[site.lang].[part.statement_quality.overall_quality] }}</span>
                 </button>
             </h2>
             <div id="promiseAnalysis-collapse-{{forloop.index}}" class="accordion-collapse collapse" aria-labelledby="heading-{{forloop.index}}" data-bs-parent="#promiseAnalysis">
@@ -166,12 +166,12 @@
                         <sup><a class="source_sup small" href="#references" title="{{ source[0].title }}">{{ source[0].ref }}</a></sup>
                         <footer class="blockquote-footer text-end mt-2">{{ part.statement.author }} en <cite>{{ source[0].title }}, {{ details }}</cite></footer>
                     </blockquote>
-                    <h1><b>{{ site.data.ui-text[site.locale].promise_characteristics }}</b></h1>
+                    <h1><b>{{ site.data.locales.ui-text[site.lang].promise_characteristics }}</b></h1>
                     <hr>
                     {% for feature in part.statement_quality %}
                         <p class="card-text ms-3">
                             {% assign promise_characteristic = feature[0] %}
-                            <span><b>{{ site.data.ui-text[site.locale].[promise_characteristic] }}</b></span>
+                            <span><b>{{ site.data.locales.ui-text[site.lang].[promise_characteristic] }}</b></span>
                         {% for reason in feature[1].reasons %}
                             {% if reason.compliance == 'yes' %} 
                                 {% assign icon = 'check' %}

@@ -2,6 +2,7 @@
 layout: page
 ---
 
+<div class="container"> 
 <article class="page_left" itemscope itemtype="https://schema.org/CreativeWork">
     {% if page.title %}
         <meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">
@@ -34,7 +35,7 @@ layout: page
             <nav class="toc">
                 <header>
                     <h4 class="nav__title"><i class="fas fa-{{ page.toc_icon | default: 'file-alt' }}"></i> 
-                        {{ page.toc_label | default: site.data.ui-text[site.locale].toc_label | default: "On this page" }}
+                        {{ page.toc_label | default: site.data.locales.ui-text[site.lang].toc_label | default: "On this page" }}
                     </h4>
                 </header>
 
@@ -51,6 +52,7 @@ layout: page
     </div>
 
   </article>
+</div>
 
 
 

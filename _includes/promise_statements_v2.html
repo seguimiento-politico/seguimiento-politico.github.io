@@ -237,8 +237,8 @@
     <p><b>Estado y grado de cumplimiento:</b></p>
     <p class="ms-3">
         <span class="text-{{ status.color }} bold"> 
-                <b>{{ site.data.ui-text[site.locale].[status.lang_label] }}</b> 
-                <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="{{ site.data.ui-text[site.locale].[status.lang_label] | default: status.name }}"></i> 
+                <b>{{ site.data.locales.ui-text[site.lang].[status.lang_label] }}</b> 
+                <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="{{ site.data.locales.ui-text[site.lang].[status.lang_label] | default: status.name }}"></i> 
         </span> 
         debido a que {{ item_analysis[0].status_info }}
     </p>
@@ -250,19 +250,19 @@
             {% if fact.outcome == 'yes' %} 
                 {% assign icon = 'check' %}
                 {% assign color = 'success' %}
-                {% assign outcome = site.data.ui-text[site.locale].statement_complieance_yes %}
+                {% assign outcome = site.data.locales.ui-text[site.lang].statement_complieance_yes %}
             {% elsif fact.outcome == 'no' %} 
                 {% assign icon = 'times' %}
                 {% assign color = 'danger' %}
-                {% assign outcome = site.data.ui-text[site.locale].statement_complieance_no %}
+                {% assign outcome = site.data.locales.ui-text[site.lang].statement_complieance_no %}
             {% elsif fact.outcome == 'maybe' %}    
                 {% assign icon = 'minus' %}
                 {% assign color = 'warning' %}
-                {% assign outcome = site.data.ui-text[site.locale].statement_complieance_maybe %}
+                {% assign outcome = site.data.locales.ui-text[site.lang].statement_complieance_maybe %}
             {% else %}
                 {% assign icon = 'question' %}
                 {% assign color = 'info' %}
-                {% assign outcome = site.data.ui-text[site.locale].statement_complieance_not_known %}
+                {% assign outcome = site.data.locales.ui-text[site.lang].statement_complieance_not_known %}
             {% endif %}
             <p class="card-text ms-3">
                 <i class="fas fa-fw fa-{{ icon }} text-{{ color }}"></i><span class="text-{{ color }}"><b>{{ outcome }}</b></span>: {{ fact.reasoning }}

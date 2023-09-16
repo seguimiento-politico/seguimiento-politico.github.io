@@ -2,10 +2,10 @@
     <div class="col mb-2">
         <form action="#" class="form-inline">
             <div class="input-group">
-              <input type="text" class="form-control form-control-sm search" id="search" name="search" placeholder="{{ site.data.ui-text[site.locale].search_label | default: 'Search' }}">
+              <input type="text" class="form-control form-control-sm search" id="search" name="search" placeholder="{{ site.data.locales.ui-text[site.lang].search_label | default: 'Search' }}">
               <div class="input-group-append list-filter-reset">
                 <button class="btn btn-sm btn-outline-secondary" type="button">
-                    <i class="fas fa-fw fa-rotate"></i> {{ site.data.ui-text[site.locale].delete_filters_label | default: "Delete filters" }}
+                    <i class="fas fa-fw fa-rotate"></i> {{ site.data.locales.ui-text[site.lang].delete_filters_label | default: "Delete filters" }}
                 </button>
               </div>
             </div>
