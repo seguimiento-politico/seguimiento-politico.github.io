@@ -14,6 +14,9 @@
 # https://www.gabescode.com/staticman/2019/01/04/staticman-comments-for-jekyll.html
 # https://staticman.net/docs/api
 
+# Migrando fuera de heroku
+# https://sgp.me.uk/2022/11/26/moving_staticman_from_heroku_to_fly/
+
 comments:
   # (*) REQUIRED
   #
