@@ -29,7 +29,7 @@ comments:
   # When allowedOrigins is defined, only requests sent from one of the domains
   # listed will be accepted. The origin is sent as part as the `options` object
   # (e.g. <input name="options[origin]" value="http://yourdomain.com/post1")
-  allowedOrigins: ["seguimiento-politico.github.io", "localhost"]
+  allowedOrigins: ["seguimiento-politico.github.io"]
 
   # (*) REQUIRED
   #
@@ -61,11 +61,11 @@ comments:
   # Whether entries need to be approved before they are published to the main
   # branch. If set to `true`, a pull request will be created for your approval.
   # Otherwise, entries will be published to the main branch automatically.
-  moderation: true
+  moderation: false
 
   # Akismet spam detection.
   akismet:
-    enabled: false
+    enabled: true
     author: "name"
     authorEmail: "email"
     authorUrl: "url"

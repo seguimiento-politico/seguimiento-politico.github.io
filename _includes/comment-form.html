@@ -4,7 +4,7 @@
 
   <!-- Start comment form -->
   <div id="respond" style="">
-    <form id="comment-form" class="js-form" method="post" action="{{ site.comments.[comments_provider].endpoint }}{{ site.comments.[comments_provider].branch }}/{{ site.comments.[comments_provider].option }}">
+    <form id="comment-form" class="js-form" method="post" action="{{ site.comments.[comments_provider].endpoint }}{{ site.repository }}{{ site.comments.[comments_provider].branch }}/{{ site.comments.[comments_provider].option }}">
       <h4 class="title">
         <span id="comment-heading-text">Deja un comentario</span> 
         <button class="btn btn-danger" id="cancel-comment-reply-link" style="display:none;">Cancelar respuesta</button>
