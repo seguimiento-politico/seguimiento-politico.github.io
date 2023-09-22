@@ -1,7 +1,8 @@
 ---
 title: Clasificando las promesas electorales
 date: 2023-09-14
-lastmod: 2023-09-15T18:14:09.857Z
+lastmod: 2023-09-22T10:46:05.828Z
+draft: true
 ---
 Nos encontramos aún en una fase muy temprana de diseño de la web y, aunque estamos bastante lejos de cumplir nuestros objetivos, queremos que las mejoras que realicemos se reflejen inmediatamente en la web online. Nuestra filosofía es la de "aprender haciendo", por lo que aunque nuestra manera de proceder siempre está vinculada a un (breve) proceso reflexivo previo, dista mucho de ser perfecto y el método de "prueba y error" es nuestro pan de cada día. Si tras leer este post, consideras que puedes aportar con tu conocimiento o simplemente compartir algunas ideas, no dudes ponerte en contacto. 
 
@@ -16,7 +17,7 @@ Para eso, últimamente hemos estado trabajando paralelamente en dos cuestiones:
 Hoy queremos hablar de esta clasificación, de como hemos llegado hasta el sistema actual, en que estamos trabajando para mejorar y las cuestiones que sabemos deberemos repensar en el futuro próximo. Comenzamos.
 
 ¿Porqué necesitamos clasificar o "categorizar" las propuestas? Por dos razones principales:
-1. Para mostrar la información de manera organizada
+1. Para mostrar la información de una manera organizada y coherente.
 2. Para poder analizarla y compararla de manera sistemática.
 
 Cuando abordamos el problema de la clasificación de las propuestas electorales por primera vez, la vía a seguir parecía obvia. Empleamos el mismo criterio que normalmente usan los partidos políticos para organizar sus programas electorales (y tanto los ministerios como consejerías de los gobiernos), es decir, los grandes temas políticos, a los que llamamos "Categorías", como Economía, Sanidad, Educación y un no demasiado largo etcétera. Es una clasificación bastante sencilla de realizar y la ciudadanía está acostumbrada a ella.
@@ -25,9 +26,9 @@ No obstante, a medida que fuimos registrando las propuestas de los diferentes pa
 
 Si se usa únicamente el sistema de clasificación por categorías las relaciones son demasiado inespecíficas como para generar información útil o poder realizar comparaciones. Por eso, en una segunda iteración ampliamos la lista de categorías con el objetivo de aumentar la especificidad y reducir el número de propuestas incluidas en cada una. Esta "solución" no ha solucionado el problema. 
 
-En un tercer intento de mejora, valoramos la posibilidad de crear subcategorías. Por ejemplo, dividiendo "Medioambiente" por hábitats (terrestre, marino); o "Industria" por sectores. Descartamos rápidamente esta opción porque complicaría la experiencia del usuario, la navegación entre propuestas sería demasiado compleja. Optamos por una solución más simple, una clasificación paralela, independiente de las "Categorías" basada en temas más concretos, a los que llamamos "Asuntos". Son los conocidos "tags" (o hastags en Twitter). Temas muy concretos que facilitan relacionar directamente diferentes propuestas entre sí que permita la comparación. Ejemplos de esto sería "Bienestar Animal", "Energía nuclear" o "Inteligencia Artificial". Creemos que es una buena solución para medidas sobre cuestiones muy concretas; no así para aquellas más generales o complejas, cuya relación es menos evidente.
+En un tercer intento de mejora, valoramos la posibilidad de crear subcategorías. Por ejemplo, dividiendo "Medioambiente" por hábitats (terrestre, marino); o "Industria" por sectores. Descartamos rápidamente esta opción porque complicaría la experiencia del usuario, la navegación entre propuestas sería demasiado compleja. Optamos por una solución más simple, una clasificación paralela, independiente de las "Categorías" basada en temas más concretos, a los que llamamos "Asuntos". Son los conocidos "tags" (o "hastags" en Twitter). Temas muy concretos que facilitan relacionar directamente diferentes propuestas entre sí que permita la comparación. Ejemplos de esto sería "Bienestar Animal", "Energía nuclear" o "Inteligencia Artificial". Creemos que es una buena solución para medidas sobre cuestiones muy concretas; no así para aquellas más generales o complejas, cuya relación es menos evidente.
 
-En este punto es donde nos encontramos actualmente, usamos "categoías" para la organización de las propuestas y los "asuntos para realizar comparativas muy concretas. Aún quedan "en el aire" una inmensa cantidad de propuestas que no encajan perfectamente en ninguna de estas dos opciones, cuando lo que pretendemos es realizar una comparación. Por eso, ahora trabajamos en lograr un sistema de clasificación que permita comparar medidas más complejas o menos concretas, incluso políticas generales de los partidos.
+En este punto es donde nos encontramos actualmente, usamos "categorías" para la organización de las propuestas y los "asuntos para realizar comparativas muy concretas. Aún quedan "en el aire" una inmensa cantidad de propuestas que no encajan perfectamente en ninguna de estas dos opciones, cuando lo que pretendemos es realizar una comparación. Por eso, ahora trabajamos en lograr un sistema de clasificación que permita comparar medidas más complejas o menos concretas, incluso políticas generales de los partidos.
 
 En la cuarta evolución que estamos llevando a cabo hemos tomado una perspectiva más utilitaria de las promesas electorales. Con todo lo anterior (categorías y asuntos) se logra identificar a QUÉ áreas de conocimiento o interés afectan las propuestas. Quedaría pendiente una clasificación a partir del QUÉ se propone y del CÓMO se llevaría a cabo. Para ello trabajamos en la idea de estrategias y tácticas; objetivos y metas; medios y recursos.
 
