@@ -3,7 +3,7 @@ title: Propuestas electorales
 date: 2023-09-22
 description: Definimos algunos conceptos básicos de cómo registramos las propuestas y detallamos los parámetros que empleamos para su caracterización.
 categories: Metodología
-lastmod: 2023-09-22T12:54:15.123Z
+lastmod: 2023-09-22T13:14:02.462Z
 ---
 Desde nuestro punto de vista, una de las causas raíz de la desconexión que existe entre la política y la ciudadanía es la dificultad para saber en todo momento lo que está ocurriendo y porqué. La transparencia es fundamental para que exista acceso a la información, pero por si sola no soluciona nada. Dicha información tiene que ser verídica, fácilmente accesible y comprensible por las personas ajenas.  
 
@@ -42,20 +42,24 @@ Dada la extensión y estructura de los programas electorales, es habitual que lo
 ## Caracterización
 Después de esta primera descomposición de cada propuesta electoral, que aporta la estructura básica para registrar el contenido de los programas electorales, se ha de caracterizar mediante una serie de parámetros cada propuesta. De arriba a abajo se añade granularidad; y de abajo a arriba se aúnan conceptos superiores o más generales. Usando dichos parámetros se puede organizar la información para visualizarla de manera coherente y para facilitar su análisis.
 
-En relación a las propuestas, yendo hacia arriba podemos definir más elementos clasificatorios, algo así como **Categorías** generales sobre la temática de la propuesta:
-- Área de actuación, la/s esfera/s social/es sobre la/s que se actúa, Economía, Sanidad, Educación, etc.
-- Área de impacto, la/s esfera/s social/es en la/s que se espera resultados. Puede/n coincidir o no con la/s de actuación. Por ejemplo, se puede actuar en la Educación para mejorar la Salud.
+### Generalización
+Sobre la temática de la propuesta:
+- Las **Categorías** generales:
+    - Área de actuación, la/s esfera/s social/es sobre la/s que se actúa, Economía, Sanidad, Educación, etc.
+    - Área de impacto, la/s esfera/s social/es en la/s que se espera resultados. Puede/n coincidir o no con la/s de actuación. Por ejemplo, se puede actuar en la Educación para mejorar la Salud.
 
-Lo anterior es una mejora con respecto a la categorización habitual que se emplea para organizar las diferentes propuestas en un programa electoral. Los capítulos de los programas suelen contener las medidas de un área o temática particular. En ese caso, no se realiza la diferenciación de dónde se actúa y de dónde se espera tener impacto, sino que se aglutinan según se considere más importante en cada caso lo uno o lo otro. Cada medida puede actuar e impactar en más de una categoría simultáneamente, lo que dificulta su emplazamiento en un único apartado del documento y hace necesaria su repetición. Esta es uan de las razones por las que los programas electorales se extienden demasiado y en ocasiones resultan innecesariamente reiterativos al lector.
+    Lo anterior es una mejora con respecto a la categorización habitual que se emplea para organizar las diferentes propuestas en un programa electoral. Los capítulos de los programas suelen contener las medidas de un área o temática particular. En ese caso, no se realiza la diferenciación de dónde se actúa y de dónde se espera tener impacto, sino que se aglutinan según se considere más importante en cada caso lo uno o lo otro. Cada medida puede actuar e impactar en más de una categoría simultáneamente, lo que dificulta su emplazamiento en un único apartado del documento y hace necesaria su repetición. Esta es uan de las razones por las que los programas electorales se extienden demasiado y en ocasiones resultan innecesariamente reiterativos al lector.
 
-Complementando a las Categorías (áreas de actuación o impacto) se puede crear más granularidad si se recogen las temáticas más concretas a lo que llamamos **Asuntos**, se pueden entender como subcategorías. Un ejemplo puede ser la gestión del "Paro juvenil" en el área de "Empleo".
+- Los **Asuntos**, que complementan a las categorías (áreas de actuación o impacto) al aportar mayor grado de detalle. Se pueden entender como subcategorías. Un ejemplo puede ser "Paro juvenil" en el área de "Empleo".
 
-Contextualmente, en el sentido más amplio de la palabra, puede evaluarse el sentido de una medida concreta con respecto al *status quo*, es decir, una medida o una política formada por un conjunto de ellas en relación a un tema concreto puede tener una **Posición**:
-- Transformadora, que aboga por una transformación radical de las estructuras socio-económicas
-- Reformista, que aboga por reformas fundamentales sin una ruptura total con las estructuras actuales
-- Conservadora, que pueden abogar por ligeros cambios que no alteren el estado fundamental de las cosas
-- Reaccionaria, que aboga por contrarrestar reformas o cambios anteriores, para volver a una situación pasada considerada mejor.
+Sobre la disposición al cambio en un tema concreto:
+- La **Posición**, que puede servir tanto para evaluar una propuesta concreta, como una política más general compuesta por varias propuestas diferentes, y que puede ser:
+    - Transformadora, que aboga por una transformación radical de las estructuras socio-económicas e instituciones
+    - Reformista, que aboga por reformas fundamentales sin una ruptura total con las estructuras actuales
+    - Conservadora, que aun pudiendo aceptar ciertos cambios (en un sentido u otro) se oponen a una alteración del estado fundamental de las cosas
+    - Reaccionaria, que aboga por contrarrestar reformas o cambios anteriores, para volver a una situación pasada considerada mejor.
 
+### Concreción
 Análogamente, yendo hacia abajo, podemos definir los siguientes elementos, que aunque no siempre se expliciten en la propuesta el contexto puede permitir su deducción:
 - Agentes, ya sean aquellos que ejecutan la acción, los beneficiarios de las mismas, y todos los demás que sean parte intermediaria o de algún modo afectada.
 - Recursos, a emplear para llevar a cabo la acción.
