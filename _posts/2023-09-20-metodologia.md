@@ -1,7 +1,8 @@
 ---
 title: Describiendo nuestra metodología
 date: 2023-09-20
-lastmod: 2023-09-15T18:14:09.857Z
+description: En este artículo explicamos de manera muy general en que consiste la metodología que seguimos para desarrollar Seguimiento Político
+lastmod: 2023-09-22T12:15:15.621Z
 ---
 
 Seguimiento político no pretende ser otra cosa que una plataforma colaborativa en la que cualquier persona, independientemente de sus ideas políticas, pueda informarse sobre los "hechos" o la "realidad" política en España. Decimos que es "colaborativa" porque la información recogida es el resultado del trabajo de cualquiera que quiera aportar su granito de arena. 

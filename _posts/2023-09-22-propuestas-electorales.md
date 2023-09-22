@@ -1,9 +1,8 @@
-
 ---
 title: Propuestas electorales
 date: 2023-09-22
-lastmod: 2023-09-15T18:14:09.857Z
-
+description: Definimos algunos conceptos básicos de cómo registramos las propuestas y detallamos los parámetros que empleamos para su caracterización.
+lastmod: 2023-09-22T12:12:35.856Z
 ---
 Desde nuestro punto de vista, una de las causas raíz de la desconexión que existe entre la política y la ciudadanía es la dificultad para saber en todo momento lo que está ocurriendo y porqué. La transparencia es fundamental para que exista acceso a la información, pero por si sola no soluciona nada. Dicha información tiene que ser verídica, fácilmente accesible y comprensible por las personas ajenas.  
 
