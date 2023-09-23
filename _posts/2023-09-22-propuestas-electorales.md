@@ -3,7 +3,7 @@ title: Propuestas electorales
 date: 2023-09-22
 description: Definimos algunos conceptos básicos de cómo registramos las propuestas y detallamos los parámetros que empleamos para su caracterización.
 categories: Metodología
-lastmod: 2023-09-23T14:47:46.405Z
+lastmod: 2023-09-23T15:32:24.418Z
 ---
 Desde nuestro punto de vista, una de las causas raíz de la desconexión que existe entre la política y la ciudadanía es la dificultad para saber en todo momento lo que está ocurriendo y porqué. La transparencia es fundamental para que exista acceso a la información, pero por si sola no soluciona nada. Dicha información tiene que ser verídica, fácilmente accesible y comprensible por las personas ajenas.  
 
@@ -43,7 +43,7 @@ Resumiendo, las declaraciones establecen el contexto de una o varias promesas el
 Dada la extensión y estructura de los programas electorales, es habitual que los partidos se reiteren en ciertas cuestiones. Esto implica que pueden existir distintas Propuestas que en realidad tienen un mismo significado. Por eso introducimos un tercer elemento, al que llamamos **Proposición**, que es un agregador que incluye todas las Propuestas equivalentes. Este concepto resulta interesante, porque permite reducir la cantidad de datos a evaluar.
 
 ### Caracterización
-Después de esta primera descomposición de cada propuesta electoral, que aporta la estructura básica para registrar el contenido de los programas electorales, se ha de caracterizar mediante una serie de parámetros cada propuesta. De arriba a abajo se añade granularidad; y de abajo a arriba se aúnan conceptos superiores o más generales. Usando dichos parámetros se puede organizar la información para visualizarla de manera coherente y para facilitar su análisis.
+Con la descomposición de cada propuesta electoral y su agrupación en proposiciones equivalentes se crea una estructura básica o formato para registrar el contenido de los programas electorales. Posteriormente se han de caracterizar mediante una serie de parámetros. Si se sigue una perspectiva "de arriba a abajo" se añade granularidad; y "de abajo a arriba" se aúnan conceptos superiores o más generales. Usando dichos parámetros se puede organizar la información para visualizarla de manera coherente y para facilitar su análisis.
 
 #### Generalización
 Sobre la temática de la propuesta:
