@@ -1,9 +1,9 @@
 ---
-title: Programas electorales
+title: Consulta de programas electorales
 date: 2023-08-20
 description: Describimos las principales características de esta funcionalidad en Seguimiento Político que simplifica la consulta de los distintos programas electorales.
 categories: Novedades
-lastmod: 2023-09-22T13:16:29.699Z
+lastmod: 2023-09-22T13:45:53.507Z
 ---
 
 Como es posible que ya sepan, en Seguimiento Político (SP) tenemos por objetivo principal facilitar a la ciudadanía informarse sobre el estado de la política española. Como parte de dicho objetivo pretendemos centralizar toda la información relevante para que cada persona pueda poder hacer un adecuado seguimiento, con el mínimo esfuerzo, y llegar a sus propias conclusiones.

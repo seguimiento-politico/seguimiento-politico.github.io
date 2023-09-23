@@ -137,11 +137,11 @@ hs_err_pid*
 
 # Jekyll
 _site/
+_drafts/
 .sass-cache/
 .jekyll-metadata
 
-/.idea
+.frontmatter/
 frontmatter.json
-.frontmatter/database/mediaDb.json
+_data/tasks.yaml
 
-drafts
