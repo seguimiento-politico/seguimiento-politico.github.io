@@ -2,50 +2,51 @@ id: a4c93565-372e-41a2-837a-3e2a37e31d54
 type: manifesto
 election_type: generales
 election_date:  "2023-07-23"
+publication_date: '2023-07-10'
 title: Un programa para lo que importa
 description: Programa electoral para las elecciones generales del 23 de Julio de 2023
 parties: [VOX]
 url: https://votaabascal.es/assets/pdf/Programa-VOX-2023.pdf
 web_history: https://web.archive.org/web/20230710213951/https://votaabascal.es/assets/pdf/Programa-VOX-2023.pdf
 index:
-  - chapter: 1
+- chapter:
     title: Igualdad entre españoles
-  - chapter: 2
+- chapter:
     title: Unidad de España
-  - chapter: 3
+- chapter:
     title: Empleo y salarios dignos
-  - chapter: 4
+- chapter:
     title: Educación en libertad
-  - chapter: 5
+- chapter:
     title: Acceso a la vivienda
-  - chapter: 6
+- chapter:
     title: Producido en España 
-  - chapter: 7
+- chapter:
     title: Salud
-  - chapter: 8
+- chapter:
     title: Protección social de los españoles
-  - chapter: 9
+- chapter:
     title: Fiscalidad para la prosperidad
-  - chapter: 10
+- chapter:
     title: Seguridad y defensa
-  - chapter: 11
+- chapter:
     title: Inmigración e identidad nacional
-  - chapter: 12
+- chapter:
     title: España verde
-  - chapter: 13
+- chapter:
     title: Reindustrialización y soberanía energética
-  - chapter: 14
+- chapter:
     title: Despolitización de la Justicia
-  - chapter: 15
+- chapter:
     title: Unión Europea  
-  - chapter: 16
+- chapter:
     title: Iberosfera
-  - chapter: 17
+- chapter:
     title: España rural
-  - chapter: 18
+- chapter:
     title: Libertad de expresión
-  - chapter: 19
+- chapter:
     title: Perspectiva de familia
-  - chapter: 20
+- chapter:
     title: Dignidad humana
     

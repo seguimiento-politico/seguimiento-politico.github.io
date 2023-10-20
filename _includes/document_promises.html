@@ -41,13 +41,13 @@
             <nav id="TableOfContents">
                 <ul>
                     {% for chapter in doc.index %}
-                    <li><a href="#{{chapter.title | slugify}}" class="">{{chapter.chapter}}. {{ chapter.title }}</a>
+                    <li><a href="#{{chapter.title | slugify}}" class="">{{forloop.index}}. {{ chapter.title }}</a>
                         <ul>
                             {% for sub_chapter in chapter.children %}
-                                <li><a href="#{{sub_chapter.title | slugify}}" class="">{{chapter.chapter}}.{{sub_chapter.chapter}}. {{ sub_chapter.title }} </a></li>
+                                <li><a href="#{{sub_chapter.title | slugify}}" class="">{{forloop.index}}.{{forloop.parentloop.index}}. {{ sub_chapter.title }} </a></li>
                                 <ul>
                                     {% for sub2_chapter in sub_chapter.children %}
-                                        <li><a href="#{{sub2_chapter.title | slugify}}" class="">{{chapter.chapter}}.{{sub_chapter.chapter}}.{{sub2_chapter.chapter}}. {{ sub2_chapter.title }} </a></li>
+                                        <li><a href="#{{sub2_chapter.title | slugify}}" class="">{{forloop.index}}.{{forloop.parentloop.index}}.{{forloop.parentloop.parentloop.index}}. {{ sub2_chapter.title }} </a></li>
                                     {% endfor %}
                                 </ul>
                             {% endfor %}
@@ -62,7 +62,7 @@
     <!-- CONTENT -->
     <div class="bd-content ps-lg-2" id="doc_content">
         {% for chapter in doc.index %}
-            <h2 id="{{chapter.title | slugify}}">{{chapter.chapter}}. {{chapter.title}} </h2>
+            <h2 id="{{chapter.title | slugify}}">{{forloop.index}}. {{chapter.title}} </h2>
             {% assign proms = promises | where: 'ref_id', doc.id | where: 'ref_parent_chapter', chapter.chapter | sort: 'ref_section' %}
             {% if chapter.description %}
                     <div class="summary mx-0">
@@ -113,7 +113,7 @@
             </ul>
 
             {% for chapter1 in chapter.children %}
-                <h3 id="{{chapter1.title | slugify}}" >{{chapter.chapter}}.{{chapter1.chapter}}. {{chapter1.title}} </h3>
+                <h3 id="{{chapter1.title | slugify}}" >{{forloop.index}}.{{forloop.parentloop.index}}. {{chapter1.title}} </h3>
                 {% assign index = chapter.chapter | append: "." | append: chapter1.chapter %}
                 {% assign proms = promises | where: 'ref_id', doc.id | where: 'ref_parent_chapter', index | sort: 'ref_section' %}
                 {% if chapter1.description %}
@@ -165,7 +165,7 @@
                 </ul>
 
                 {% for chapter2 in chapter1.children %}
-                    <h4 id="{{chapter2.title | slugify}}" >{{chapter.chapter}}.{{chapter1.chapter}}.{{chapter2.chapter}}. {{chapter2.title}} </h4>
+                    <h4 id="{{chapter2.title | slugify}}" >{{forloop.index}}.{{forloop.parentloop.index}}.{{forloop.parentloop.parentloop.index}}. {{chapter2.title}} </h4>
                     {% assign index = chapter.chapter | append: "." | append: chapter1.chapter | append: "." | append: chapter2.chapter %}
                     {% assign proms = promises | where: 'ref_id', doc.id | where: 'ref_parent_chapter', index | sort: 'ref_section' %}
                     {% if chapter2.description %}   
@@ -217,7 +217,7 @@
                     </ul>
 
                     {% for chapter3 in chapter2.children %}
-                        <h5 id="{{chapter3.title | slugify}}" >{{chapter.chapter}}.{{chapter1.chapter}}.{{chapter2.chapter}}.{{chapter3.chapter}}. {{chapter3.title}} </h5>
+                        <h5 id="{{chapter3.title | slugify}}" >{{forloop.index}}.{{forloop.parentloop.index}}.{{forloop.parentloop.parentloop.index}}.{{forloop.parentloop.parentloop.parentloop.index}}. {{chapter3.title}} </h5>
                         {% assign index = chapter.chapter | append: "." | append: chapter1.chapter | append: "." | append: chapter2.chapter | append: "." | append: chapter3.chapter %}
                         {% assign proms = promises | where: 'ref_id', doc.id | where: 'ref_parent_chapter', index | sort: 'ref_section' %}
                         {% if chapter3.description %}
@@ -269,7 +269,7 @@
                         </ul>
 
                         {% for chapter4 in chapter3.children %}
-                            <h6 id="{{chapter4.title | slugify}}">{{chapter.chapter}}.{{chapter1.chapter}}.{{chapter2.chapter}}.{{chapter3.chapter}}.{{chapter4.chapter}}. {{chapter4.title}} </h6>
+                            <h6 id="{{chapter4.title | slugify}}">{{forloop.index}}.{{forloop.parentloop.index}}.{{forloop.parentloop.parentloop.index}}.{{forloop.parentloop.parentloop.parentloop.index}}.{{forloop.parentloop.parentloop.parentloop.parentloop.index}}.  {{chapter4.title}} </h6>
                             {% assign index = chapter.chapter | append: "." | append: chapter1.chapter | append: "." | append: chapter2.chapter | append: "." | append: chapter3.chapter | append: "." | append: chapter4.chapter %}
                             {% assign proms = promises | where: 'ref_id', doc.id | where: 'ref_parent_chapter', index | sort: 'ref_section' %}
                             {% if chapter4.description %}

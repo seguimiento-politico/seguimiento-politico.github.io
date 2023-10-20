@@ -1,29 +1,41 @@
 id: d6ec5560-0911-11ed-9596-d163a910696f
-scope: national
-scope_country: spain
-parties:
-  - PSOE
-  - UNIDAS-PODEMOS
-from: "2019-11-10"
-ref_type: goverment_agreement
+version: 3
 ref_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 ref_page: "26"
 ref_parent_chapter: "3"
 ref_section: "012"
-title: Ampliaremos la red de espacios protegidos"
+title: Ampliaremos la red de espacios protegidos
 categories:
   - Medioambiente y biodiversidad  
+parent_goals:
+goals:
 statements:
-  -
-    id: 1
-    quote: Ampliaremos la red de espacios protegidos,
-    partial: ini
-  -
-    id: 2
-    quote: dotando de financiación adecuada las políticas de defensa de la biodiversidad y la gestión de los espacios naturales, con el objetivo de asegurar los medios necesarios y la generación de empleos en el medio rural.
-    partial: end
-  -
-    id: 3
-    quote: Estableceremos un Plan de Acción contra las especies exóticas invasoras que amenazan la biodiversidad.    
+  - id: 1
+    quote: Ampliaremos la red de espacios protegidos, dotando de financiación adecuada las políticas de defensa de la biodiversidad y la gestión de los espacios naturales, con el objetivo de asegurar los medios necesarios y la generación de empleos en el medio rural.
+    position: 
+      for: [hábitats, biodiversidad]
+      type: reformist
+      means: [espacios protegidos, financiación, empleo rural]
+    strategic:
+      goals:
+      objectives:
+      targets:
+      programs:
+      strategies:
+      actions:
+      means:
+      agents:
+      resources:
+    topics: espacios protegidos
+    categories: Medioambiente y biodiversidad  
+  - id: 2
+    quote: Estableceremos un Plan de Acción contra las especies exóticas invasoras que amenazan la biodiversidad. 
+    position:
+      for: biodiversidad
+      against: especies exóticas invasoras
+      type: undetermined
+      means: plan de acción    
+    topics: especies exóticas
+    categories: Medioambiente y biodiversidad 
 
 

@@ -3,7 +3,7 @@ title: Propuestas electorales
 date: 2023-09-22
 description: Definimos algunos conceptos básicos de cómo registramos las propuestas y detallamos los parámetros que empleamos para su caracterización.
 categories: Metodología
-lastmod: 2023-09-23T15:32:24.418Z
+lastmod: 2023-09-27T09:33:36.670Z
 ---
 Desde nuestro punto de vista, una de las causas raíz de la desconexión que existe entre la política y la ciudadanía es la dificultad para saber en todo momento lo que está ocurriendo y porqué. La transparencia es fundamental para que exista acceso a la información, pero por si sola no soluciona nada. Dicha información tiene que ser verídica, fácilmente accesible y comprensible por las personas ajenas.  
 
@@ -55,16 +55,14 @@ Sobre la temática de la propuesta:
 
 - Los **Asuntos**, que complementan a las categorías (áreas de actuación o impacto) al aportar mayor grado de detalle. Se pueden entender como subcategorías. Un ejemplo puede ser "Paro juvenil" en el área de "Empleo".
 
-Sobre la disposición al cambio en un tema concreto:
-- La **Posición**, que puede servir tanto para evaluar una propuesta concreta, como una política más general compuesta por varias propuestas diferentes, y que puede ser Positiva, Neutral o Negativa:
-    - Positiva
-        - Transformadora, que aboga por una transformación radical de las estructuras socio-económicas e instituciones
-        - Reformista, que aboga por reformas fundamentales sin una ruptura total con las estructuras actuales
-    - Neutral
-        - Conservadora, que aun pudiendo aceptar ciertos cambios (en un sentido u otro) se oponen a una alteración del estado fundamental de las cosas
-    - Negativa
-        - Contra-reformista, que aboga por evitar una posible reforma que aún no ha tenido lugar
-        - Reaccionaria, que aboga por contrarrestar reformas o cambios anteriores, para volver a una situación pasada considerada mejor. 
+- Empleamos el concepto de **Posición** para determinar si una propuesta tiene un *sentido* __positivo__ (a favor de) o __negativo__ (en contra de) una cuestión concreta. También se interpreta la *disposición al cambio*, para potenciar o mitigar según el sentido anterior, valorando si se defiende una posición __Transformadora, Reformista, Conservadora, contra-reformista o Reaccionaria__. 
+A continuación detallamos el significado de cada una: 
+    - Transformadora, que aboga por una transformación radical de las estructuras socio-económicas e instituciones
+    - Reformista, que aboga por reformas fundamentales sin una ruptura total con las estructuras actuales
+    - Conservadora, que aun pudiendo aceptar ciertos cambios (en un sentido u otro) se oponen a una alteración del estado fundamental de las cosas
+    - Contra-reformista, que aboga por evitar una posible reforma que aún no ha tenido lugar
+    - Reaccionaria, que aboga por contrarrestar reformas o cambios anteriores, para volver a una situación pasada considerada mejor. 
+Para completar el concepto de posición, habiendo determinado el sentido y la posición propiamente dicha, registramos la manera en que se pretende realizar el cambio o, en su caso, evitarlo.
 
 #### Concreción
 Análogamente, yendo hacia abajo, podemos definir los siguientes elementos, que aunque no siempre se expliciten en la propuesta el contexto puede permitir su deducción:

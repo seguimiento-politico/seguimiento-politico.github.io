@@ -20,6 +20,7 @@ statements:
     partial: ini
   - id: 2
     quote: se lleve a cabo exclusivamente en consideración a los lazos reales de convivencia y afecto que puedan ser acreditados por cualquier medio de prueba válido en derecho y no solo a través de actos registrados oficialmente. 
+    partial: end
   - id: 3
     quote: La perspectiva de género se incorporará de manera efectiva en el ordenamiento de la Seguridad Social.
   

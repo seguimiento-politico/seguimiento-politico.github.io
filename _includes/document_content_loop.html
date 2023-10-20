@@ -1,0 +1,74 @@
+{% assign index = 0 %}
+{% assign level = include.level %}
+{% if include.prev_index %}
+    {% assign chapter_index = prev_index | append: "." %}
+{% endif %}
+
+{% for item in include.position %}
+    
+    {% for element in item %}
+        {% if element[0] == "declaration" %}
+            <p>
+                {{ element[1].text }}
+            </p>
+        {% elsif element[0] == "proposal" %}
+            {% assign promise_page = site.promises | where: "uid", element[1].id | first %}
+            <ul>
+                <li>
+                    {% if element[1].title %}
+                        {% if promise_page.url %}
+                            <a href="{{ promise_page.url }}" target="_blank"><b>{{ element[1].title }}</b></a> <br>
+                            {{element[1].text}}
+                        {% else %}
+                            {{ element[1].title }} <br>
+                            {{element[1].text}}
+                        {% endif %}
+                    {% else %}
+                        {% if promise_page.url %}
+                            {% assign text = element[1].text | split: " " %}
+                            {% assign size = text.size %}
+                            {% for i in (0..size) %}
+                                {% if i == 0 %}
+                                    <a href="{{ promise_page.url }}" target="_blank"><b>
+                                {% endif %}
+                                {{ text[i] | append: " "}}
+                                {% if i == 12 or size == i %}
+                                    </b></a> 
+                                {% endif %}
+                            {% endfor %}
+                        {% else %}
+                            {{element[1].text}}
+                        {% endif %}
+                    {% endif %}
+                    
+                </li>
+            </ul>
+        {% elsif element[0] == "chapter" %}
+            {% assign index = index | plus: 1 %}
+            {% if level == 0 %}
+                <h2 id="{{element[1].title | slugify}}">{{index}}. {{element[1].title}} </h2>
+            {% elsif level == 1 %}
+                <h3 id="{{element[1].title | slugify}}">{{include.prev_index | append: "."}}{{index}}. {{element[1].title}} </h3>
+            {% elsif level == 2 %}
+                <h4 id="{{element[1].title | slugify}}">{{include.current_index | append: "."}}{{index}}. {{element[1].title}} </h4>
+            {% elsif level == 3 %}
+                <h5 id="{{element[1].title | slugify}}">{{include.current_index | append: "."}}{{index}}. {{element[1].title}} </h5>                
+            {% else %}
+                <h6 id="{{element[1].title | slugify}}">{{include.current_index | append: "."}}{{index}}. {{element[1].title}} </h6>
+            {% endif %}
+            {% if element[1].children %}
+                {% assign level = include.level | plus: 1 %}
+                {% assign content = element[1].children %}
+                {% if level > 0 %}
+                    {% assign current = include.prev_index | append: "." | append: index %}
+                {% else %}
+                    {% assign current = index %}
+                {% endif %}
+                {% include document_content_loop.html level=level prev_index=index current_index=current position=content %} 
+            {% endif %}   
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+
+{% assign level = level | minus: 1 %}
+{% assign index = include.prev_index %}

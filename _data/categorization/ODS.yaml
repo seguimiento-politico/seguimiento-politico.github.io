@@ -1,0 +1,57 @@
+title: Objetivos de Desarrollo Sostenible
+slug: ODS
+organization: ONU
+Agency: UNDP
+from: 2015
+to: 2030
+parent_goals:
+  - Desarrollo sostenible
+goals:
+  - id: 1
+    name: Fin de la pobreza
+    targets:
+      - id: 1
+        name: Para 2030, reducir al menos a la mitad la proporción de hombres, mujeres y niños de todas las edades que viven en la pobreza en cualquiera de sus dimensiones de acuerdo con las definiciones nacionales.
+      - id: 
+        name: Implementar sistemas y medidas de protección social apropiados a nivel nacional y garantizar que para 2030 una parte significativa de las personas pobres y vulnerables se beneficien de ellos.
+      - id: 
+        name: Para 2030, garantizar que todos los hombres y mujeres, en particular los pobres y los vulnerables, tengan los mismos derechos a los recursos económicos, así como acceso a los servicios básicos, la propiedad y el control de la tierra, otras formas de propiedad, herencia, recursos naturales, nuevas tecnologías y servicios financieros, incluidas las microfinanzas.
+      - id: 
+        name: Para 2030, fortalecer la resiliencia de los pobres y de aquellas personas en situaciones vulnerables, así como reducir su exposición y vulnerabilidad a eventos extremos relacionados con el clima y otros choques y desastres económicos, sociales y ambientales.
+      - id: 
+        name: Asegurar una movilización significativa de recursos de diversas fuentes, incluso mediante una mayor cooperación para el desarrollo, a fin de proporcionar medios adecuados y predecibles para que los países en desarrollo, en particular los países menos adelantados, ejecuten programas y políticas para poner fin a la pobreza en todas sus dimensiones.
+      - id: 
+        name: Crear marcos sólidos de políticas a nivel nacional, regional e internacional, basados ​​en estrategias de desarrollo favorables a los pobres y vulnerables al género, para apoyar la inversión acelerada en acciones de erradicación de la pobreza.
+  - id: 2
+    name: Hambre cero
+  - id: 3
+    name: Salud y bienestar
+  - id: 4
+    name: Educación de calidad
+  - id: 5
+    name: Igualdad de género
+  - id: 6
+    name: Agua limpia y saneamiento
+  - id: 7
+    name: Energía asequible y no contaminante
+  - id: 8
+    name: Trabajo decente y crecimiento económico
+  - id: 9
+    name: Industria, innovación e infraestructura
+  - id: 10
+    name: Reducción de las desigualdades
+  - id: 11
+    name: Ciudades y comunidades sostenibles
+  - id: 12
+    name: Producción y consumo responsables
+  - id: 13
+    name: Acción por el clima
+  - id: 14
+    name: Vida submarina
+  - id: 15
+    name: Vida de ecosistemas terrestres
+  - id: 16
+    name: Paz, justicia e instituciones sólidas
+  - id: 17
+    name: Alianza para alcanzar los objetivos
+    

@@ -1,0 +1,25 @@
+<div class="container-fluid">
+    <div class="row row-cols-auto">
+        {% for doc in documents %}
+            {% if doc.publication_date %}
+                {% assign date = doc.publication_date %}
+            {% else %}
+                {% assign date = doc.election_date %}
+            {% endif %}
+        <div class="col card me-2" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">{{ doc.parties }} - {{ date | date: "%Y"}}
+                </h5>
+                <h6 class="card-subtitle mb-2 text-muted">{{ doc.type }} - elecciones {{ doc.election_type }} {{ doc.election_location }} {{ doc.election_date | date: "%-d %B %Y" }}</h6>
+                <p class="card-text">{{ doc.title }}</p>
+                {% for page in site.docs %}
+                    {% if page.uid == doc.id %}
+                        <a href="/docs/{{page.doc_name}}" class="card-link">ver contenido</a>
+                        {% break %}
+                    {% endif %}
+                {% endfor %}
+            </div>
+        </div> 
+        {% endfor %}
+    </div> 
+</div>
