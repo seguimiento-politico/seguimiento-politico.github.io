@@ -9,90 +9,458 @@ description: Programa electoral para las elecciones generales del 23 de Julio de
 url: https://www.pp.es/sites/default/files/documentos/programa_electoral_pp_23j_feijoo_2023.pdf
 web_history: https://web.archive.org/web/20230724225247/https://www.pp.es/sites/default/files/documentos/programa_electoral_pp_23j_feijoo_2023.pdf
 index:
+- chapter:
+    title: Introducción
+    children:
+    - declaration:
+        id: 708b4e41-a531-47f2-8a18-bd10efc6db8f
+        page: 6
+        text: Es el momento. Ha llegado la oportunidad que España llevaba tanto tiempo esperando. El 23 de julio los españoles tomaremos la palabra y expresaremos nuestra opinión y nuestros anhelos de una manera libre y democrática en las urnas.
+    - declaration:
+        id: 96d24431-05d7-4bf6-89ab-c664d0217fe2
+        page: 6
+        text: Vivimos en una gran Nación, que en sus peores instantes siempre ha dado lo mejor de sí misma y ha mostrado una enorme fortaleza para salir unida de cada uno de ellos. Entre todos, a lo largo de estas décadas, hemos construido un país con capacidad de asombrar al mundo y de compararse con los mejores en cualquier materia. Nuestro potencial es inmenso y solo necesitamos un Gobierno que crea en él para poder desarrollarlo en toda su dimensión.
+    - declaration:
+        id: a712828e-4b54-4218-bbe4-62ca15f184f7
+        page: 6
+        text: Hoy tenemos ante nosotros la posibilidad de pasar página de manera definitiva de la frivolidad, la división y el deterioro que hemos padecido en los años del sanchismo y abrir un tiempo en el que abordar la necesaria reconstrucción económica, social e institucional de nuestro país.
+    - declaration:
+        id: 5c9be310-b609-49fe-bb60-56d33281b38a
+        page: 6
+        text: Hay una amplia mayoría de españoles cansada de una política que se ha dedicado más tiempo a hablar de los intereses de sus políticos que a atender sus necesidades. La misma mayoría que ha observado con dolor cómo de la inexperiencia, la debilidad y la soberbia de su Gobierno surgían algunos de los peores errores y las peores cesiones a socios radicales que se recuerdan en nuestra democracia. La misma que ha sufrido la desazón de ver a su presidente paralizado por la división interna y empecinado en enfrentar también a los ciudadanos, según su ideología, su territorio, su género o su actividad. Esa mayoría decepcionada es la que hoy señala a la política y los políticos como uno de los mayores problemas de España. Y es a esa mayoría a la que nos dirigimos para que recupere la confianza perdida.
+    - declaration:
+        id: 2f766a9c-89c5-478f-9802-90767bd4561e
+        page: 6
+        text: He dedicado toda mi vida profesional a servir a mi país. Por eso me rebelo con todas mis fuerzas contra la mala política y el descrédito generalizado del servicio público. También por eso he dado este paso e intentaré que la gestión, la experiencia y la palabra vuelvan a ser los valores principales e irrenunciables de la acción del próximo Gobierno.
+    - declaration:
+        id: fcf43eaf-1ded-41b7-86b6-e8c57c42175a
+        page: 6
+        text: 'Desde que asumí la Presidencia del Partido Popular he trabajado con un único objetivo: ofrecer a España el proyecto que creo que merece, necesita y reclama. El Programa que tienes entre manos responde al análisis de la situación actual de centenares de expertos, asociaciones y profesionales procedentes de la sociedad civil que han querido aportar para la construcción de esta alternativa. Así entiendo la política, como la unión de personas que ponen sus ideas, su trayectoria y su talento a disposición de su país.'
+    - declaration:
+        id: 059cec59-f659-408b-a55e-4a9b764eb782
+        page: 6
+        text: 'El desafío que tenemos por delante como sociedad es enorme y requiere de un plan de igual magnitud para abordarlo. El nuestro tiene por protagonistas la igualdad, la sostenibilidad, la digitalización y reto demográfico. Sobre esos cuatro ejes queremos construir la España del futuro. Las 365 propuestas que hemos seleccionado en este documento son fruto de la ambición reformista de este proyecto, pero también de una reflexión realista sobre las posibilidades que tendrá nuestro futuro Gobierno para ponerlas en marcha, y se agrupan en los siguientes convencimientos:'
+        children:
+        - declaration:
+            id: eb50fe4e-8b73-4936-a82b-99a4f1643de3
+            page: 8
+            text: Es el momento de crecer de forma sostenible. Dejaremos atrás el conformismo y el triunfalismo de quien ha colocado a España en la cola de la recuperación tras la pandemia y a la cabeza del paro en la Unión Europea, para colocarnos en el liderazgo del crecimiento y la creación de empleo. Nuestras reformas se encaminarán a un desarrollo sano de la economía, la atracción de inversión y oportunidades, la convergencia con los grandes países de nuestro entorno, la recuperación de la economía de las familias y a afrontar desafíos fundamentales como el acceso a la vivienda, especialmente de los más jóvenes.
+        - declaration:
+            id: d1cc9fd3-57a4-4ad2-8e80-e6d5d764c5eb
+            page: 8
+            text: Es el momento de cuidar y prosperar. Queremos que España sea el mejor país del mundo para nacer. Nuestra intención es que las personas desarrollen sus vidas de forma libre y plena, tengan la edad que tengan. Seremos, como siempre, el soporte de las familias y lideraremos el Gobierno de la conciliación. Recuperaremos la calidad, la equidad y el mérito como principios rectores de nuestra Educación en todos los niveles y afrontaremos los retos de presente y futuro de nuestro sistema sanitario. Impulsaremos la atención a la dependencia, haremos frente a la soledad no deseada como uno de los principales males de nuestro tiempo y lucharemos con todos los mecanismos a nuestro alcance contra la violencia machista.
+        - declaration:
+            id: 0d732a3a-fcf9-46a4-802d-76514b177616
+            page: 8
+            text: Es el momento de regenerar y respetar. También cerraremos el capítulo de la erosión institucional y garantizaremos la independencia de los organismos del Estado para que vuelvan a estar al servicio de los ciudadanos. Fortaleceremos el poder legislativo y promoveremos una Justicia a la altura de nuestros compromisos europeos, que sea el servicio público que merecen los españoles. Debemos hacer un uso más responsable de los recursos públicos, reforzar la lealtad institucional y la cooperación entre administraciones, impulsando una cogobernanza real que nos ayude a caminar en la misma dirección. Abogaremos sin descanso por la convivencia, por la seguridad y la tranquilidad de los ciudadanos.
+        - declaration:
+            id: ca9038b7-bae2-4dd1-803a-1716c8d4b7e1
+            page: 8
+            text: 'Es el momento de servir. Sacaremos a España del colapso administrativo para poner la atención al ciudadano en el centro y ofrecerle la Administración que merece: flexible, amable con sus usuarios, dinámica, eficaz, inteligente, que atraiga y retenga talento, y que sea más sólida y coordinada.'
+        - declaration:
+            id: c12ff572-7342-4460-995a-765675be3b43
+            page: 8
+            text: Es el momento de liderar e influir. Abandonaremos la política exterior centrada en la promoción y los intereses personales de un presidente para abrir un tiempo de proyección internacional y defensa de los intereses generales de nuestro país. La voz de España debe oírse con nitidez en el mundo. Recobraremos una política con visión de Estado, creíble y previsible, formulada desde el consenso, al servicio de nuestras prioridades y cooperadora en los retos globales. Queremos poner a España en el puente de mando de la Unión Europea y renovar el liderazgo en Iberoamérica. Vamos a definir una Estrategia Nacional de Seguridad y Defensa, relanzar la cooperación internacional y mejorar el servicio a los españoles en el exterior.
+    - declaration:
+        id: 85143d9f-f854-4109-9366-3f0025927a71
+        page: 8
+        text: Este es mi compromiso con España. Soy consciente de la ambición de nuestros objetivos y de que ningún Gobierno ni ningún presidente puede lograrlos solo, pero estoy convencido de que cuento con el mejor país y el mejor equipo para conseguirlo.
+    - declaration:
+        id: a0c3592e-7e49-4d25-a291-bd4e79116324
+        page: 8
+        text: 'En esta tarea necesitamos a todos los españoles. No sobra nadie. Por eso este proyecto de país se construye desde un principio fundacional: la unión. Quiero reunir a una gran mayoría de ciudadanos para que trabajemos juntos y para todos por la gran Nación que compartimos. Por una España reformista, alegre, comprometida, libre, valiente, ilusionada y con la mirada puesta en el futuro.'
+    - declaration:
+        id: 6fd1344d-793c-4f41-b2e9-6d69c8da4d4e
+        page: 8
+        text: El cambio está muy cerca y está en tus manos. Es el momento.
 - chapter: 
     title: CRECER DE FORMA SOSTENIBLE
     children:
     - declaration:
-      id: a9922dd3-a75b-419e-9c93-5ff31d81893d
-      page: 
-      text: "<b>• CRECER PARA CREAR EMPLEO Y OPORTUNIDADES PARA TODOS</b><br>El empleo y la economía son las principales preocupaciones de los españoles. Y son también las principales preocupaciones del Partido Popular.<br><br> Para que España tenga el crecimiento estable y sostenible que garantiza la creación de empleos de calidad precisamos de políticas que generen confianza en los empresarios, para que inviertan y generen empleo. Necesitamos estabilidad institucional y seguridad jurídica, para que las familias y las empresas tomen decisiones con certezas, sin los temores que genera la incertidumbre regulatoria y fiscal. Necesitamos aprovechar las oportunidades que se nos abren con las nuevas tecnologías que, como la Inteligencia Artificial, van a determinar qué países lideran el crecimiento económico y cuáles se van a quedar atrás. Necesitamos buenos gestores y una buena evaluación de las políticas públicas, para equilibrar las cuentas, reducir la presión fiscal y al tiempo facilitar la prestación eficiente de los servicios públicos fundamentales que garantizan la igualdad de oportunidades y el bienestar. Necesitamos potenciar los sectores que, como el sector agroalimentario y pesquero, el industrial, el turismo y los servicios, o el energético, nos dan ventajas competitivas sobre los demás miembros de la Unión Europea y en los mercados internacionales.<br><br> España, en definitiva, necesita las políticas económicas del Partido Popular. Porque sólo el Partido Popular puede ofrecer un horizonte de certidumbre y esperanza para la economía española, para generar empleo de calidad, asegurar la prosperidad compartida, y mejorar el Estado del Bienestar, como demostramos en 1996 y en 2011, cuando heredamos situaciones de crisis e incertidumbre que entonces, como ahora, los gobiernos socialistas, se empeñaban en negar.<br><br> <b>• UN BALANCE DECEPCIONANTE DEL GOBIERNO DE COALICIÓN EN UN PAÍS CON GRANDES FORTALEZAS</b Porque, lejos del triunfalismo del gobierno, la realidad es que España es la última de las grandes economías europeas que ha alcanzado los niveles de PIB previos a la pandemia. Que la renta y el poder adquisitivo de los salarios de nuestras familias es, hoy, el mismo que hace 15 años; mientras que la de los demás países de la Unión Europea se ha incrementado un 14% desde entonces. Que por ello hemos pasado de converger con la media europea de riqueza: en 2005 la diferencia con la media era un 8,8%, y hoy la brecha se ha duplicado hasta el 17%. Que durante la legislatura presidida por Pedro Sánchez la renta media real de los españoles ha caído un 2,3%, mientras que la da eurozona se incrementó un 1,6% y la del conjunto de la Unión Europea un 2,9 %. Y, como corolario, España sigue siendo el país de Europa con mayores niveles de desempleo, en especial entre los jóvenes.<br><br> España tiene un gran potencial. El esfuerzo de los españoles, y la herencia de los gobiernos anteriores del Partido Popular, nos han fortalecido con un superávit externo robusto; más empresas internacionalizadas, algunas de ellas líderes mundiales en su sector; un sector turístico dinámico; o un sector bancario sólido. A ello se unen nuestras fortalezas como país: el talento de nuestros trabajadores, un inmenso potencial energético verde, empresas y familias con una deuda más reducida que en otras ocasiones, y nuestra calidad de vida.<br><br> Adicionalmente, ningún Gobierno de España ha dispuesto de tantos instrumentos (desde la compra masiva de Deuda por el BCE, pasando por la suspensión de las reglas de estabilidad presupuestaria y la inyección multimillonaria de los Fondos Next Generation).<br><br>  Y sin embargo el balance es decepcionante: Hoy somos más pobres que al inicio de la legislatura, con mucha mayor deuda (supera el 110% del PIB), soportamos muchos más impuestos y somos líderes europeos en desempleo, precariedad y pérdida de poder adquisitivo de los salarios. Medidas como el Ingreso Mínimo Vital han fallado en el cumplimiento de su importante objetivo de reducir el riesgo de caer en la pobreza, como ha denunciado la AIREF. La clase media española está en riesgo, la que sostiene el Estado del bienestar y constituye el cimiento social de nuestro país.<br><br> <b>• RECUPERAR LA CONFIANZA Y LAS REFORMAS PARA IMPULSAR NUESTROS SECTORES PRODUCTIVOS</b><br> El Partido Popular quiere devolver la esperanza a la sociedad española, como hemos hecho siempre, para salir de la situación en la que nos deja esta legislatura de deterioro económico, social e institucional. Con políticas sensatas, moderadas, eficientes y fiables. Con los Gobiernos del Partido Popular España ha recuperado la senda del crecimiento, la estabilidad y la confianza en el pasado. Hoy debemos afrontar con el mismo afán reformista el desafío que supone el cambio climático y el desarrollo de la Inteligencia Artificial. Dos realidades que, junto a los riesgos que conllevan, nos brindan la oportunidad de que España se sitúe entre las principales economías del planeta por su dinamismo y capacidad de transformación. Aprovechando la gran oportunidad que representan los Fondos Europeos que, junto con otras iniciativas como el RePower EU, suponen el mayor esfuerzo inversor de la Unión Europea desde su creación en 1957. Fondos que ni se han programado estableciendo prioridades ni están llegando a quienes los necesitan por la ineficacia administrativa del gobierno PSOE/Podemos. Trabajaremos con la Unión Europea para evaluar los hitos y objetivos y aprovechar el efecto transformador de estos Fondos, particularmente en el sector industrial, que queremos que genere el 20% del PIB español. Mejorando nuestra red de transportes e infraestructuras con una política de movilidad que permita aprovechar al máximo las capacidades de nuestro país.<br><br> Devolveremos la confianza en las instituciones y en la sociedad, recuperando la fiabilidad, la seguridad jurídica y el respeto a los empresarios y trabajadores y al Diálogo Social. Impulsaremos una gestión pública eficaz, que crea en la importancia de la estabilidad financiera y del uso eficiente de los recursos públicos, para poder rebajar los impuestos a las clases medias y trabajadoras. Abordaremos las reformas estructurales pendientes que no se han hecho esta legislatura (como la fiscal), para impulsar el crecimiento a largo plazo, mejorar la productividad y generar oportunidades de empleo de calidad, la prosperidad de las familias y darle un futuro mejor a los jóvenes.<br><br> Impulsaremos el desarrollo de las energías limpias, y la racionalización y sostenibilidad del uso de nuestros recursos hídricos y naturales, potenciando los sectores primarios y combatiendo la despoblación de nuestro mundo rural.<br><br> Nuestro compromiso, para la próxima legislatura, es que España sea una de las grandes economías europeas que más crezca de la zona euro. Vamos a volver a crecer de forma sostenible, para recuperar la convergencia en riqueza y bienestar con Europa. El Partido Popular está preparado para hacerlo, con solvencia económica y ambición reformista."
+        id: a9922dd3-a75b-419e-9c93-5ff31d81893d
+        page: 11
+        title: CRECER PARA CREAR EMPLEO Y OPORTUNIDADES PARA TODOS
+        children:
+        - declaration:
+            id: cad2d375-e7fb-4199-b975-da41f7663ca0
+            page: 11
+            text: 'El empleo y la economía son las principales preocupaciones de los españoles. Y son también las principales preocupaciones del Partido Popular.'
+        - declaration:
+            id: 2282a5e3-bbeb-45a4-bdb1-9876a673ad41
+            page: 11
+            text: Para que España tenga el crecimiento estable y sostenible que garantiza la creación de empleos de calidad precisamos de políticas que generen confianza en los empresarios, para que inviertan y generen empleo. Necesitamos estabilidad institucional y seguridad jurídica, para que las familias y las empresas tomen decisiones con certezas, sin los temores que genera la incertidumbre regulatoria y fiscal. Necesitamos aprovechar las oportunidades que se nos abren con las nuevas tecnologías que, como la Inteligencia Artificial, van a determinar qué países lideran el crecimiento económico y cuáles se van a quedar atrás. Necesitamos buenos gestores y una buena evaluación de las políticas públicas, para equilibrar las cuentas, reducir la presión fiscal y al tiempo facilitar la prestación eficiente de los servicios públicos fundamentales que garantizan la igualdad de oportunidades y el bienestar. Necesitamos potenciar los sectores que, como el sector agroalimentario y pesquero, el industrial, el turismo y los servicios, o el energético, nos dan ventajas competitivas sobre los demás miembros de la Unión Europea y en los mercados internacionales.
+        - declaration:
+            id: f02d5cb9-0cde-4a63-9317-0737e1e32b41
+            page: 11
+            text: 'España, en definitiva, necesita las políticas económicas del Partido Popular. Porque sólo el Partido Popular puede ofrecer un horizonte de certidumbre y esperanza para la economía española, para generar empleo de calidad, asegurar la prosperidad compartida, y mejorar el Estado del Bienestar, como demostramos en 1996 y en 2011, cuando heredamos situaciones de crisis e incertidumbre que entonces, como ahora, los gobiernos socialistas, se empeñaban en negar.'
+    - declaration:
+        id: 91a58ee4-ec87-4356-b644-b9deb1b14183
+        page: 11
+        title: UN BALANCE DECEPCIONANTE DEL GOBIERNO DE COALICIÓN EN UN PAÍS CON GRANDES FORTALEZAS
+        children:
+        - declaration:
+            id: 49d122a8-4215-40d0-8989-aed86841f018
+            page: 11
+            text: 'Porque, lejos del triunfalismo del gobierno, la realidad es que España es la última de las grandes economías europeas que ha alcanzado los niveles de PIB previos a la pandemia. Que la renta y el poder adquisitivo de los salarios de nuestras familias es, hoy, el mismo que hace 15 años; mientras que la de los demás países de la Unión Europea se ha incrementado un 14% desde entonces. Que por ello hemos pasado de converger con la media europea de riqueza: en 2005 la diferencia con la media era un 8,8%, y hoy la brecha se ha duplicado hasta el 17%. Que durante la legislatura presidida por Pedro Sánchez la renta media real de los españoles ha caído un 2,3%, mientras que la da eurozona se incrementó un 1,6% y la del conjunto de la Unión Europea un 2,9 %. Y, como corolario, España sigue siendo el país de Europa con mayores niveles de desempleo, en especial entre los jóvenes.'
+        - declaration:
+            id: 35b627f4-76ad-4a84-b8e0-0a9bd2451f5d
+            page: 11
+            text: 'España tiene un gran potencial. El esfuerzo de los españoles, y la herencia de los gobiernos anteriores del Partido Popular, nos han fortalecido con un superávit externo robusto; más empresas internacionalizadas, algunas de ellas líderes mundiales en su sector; un sector turístico dinámico; o un sector bancario sólido. A ello se unen nuestras fortalezas como país: el talento de nuestros trabajadores, un inmenso potencial energético verde, empresas y familias con una deuda más reducida que en otras ocasiones, y nuestra calidad de vida.'
+        - declaration:
+            id: ffa4f816-1bd0-4025-b40d-fe24c01c3c53
+            page: 11
+            text: Adicionalmente, ningún Gobierno de España ha dispuesto de tantos instrumentos (desde la compra masiva de Deuda por el BCE, pasando por la suspensión de las reglas de estabilidad presupuestaria y la inyección multimillonaria de los Fondos Next Generation).
+        - declaration:
+            id: 85ea838d-a43b-473b-9d57-0d658ca12de1
+            page: 11
+            text: 'Y sin embargo el balance es decepcionante: Hoy somos más pobres que al inicio de la legislatura, con mucha mayor deuda (supera el 110% del PIB), soportamos muchos más impuestos y somos líderes europeos en desempleo, precariedad y pérdida de poder adquisitivo de los salarios. Medidas como el Ingreso Mínimo Vital han fallado en el cumplimiento de su importante objetivo de reducir el riesgo de caer en la pobreza, como ha denunciado la AIREF. La clase media española está en riesgo, la que sostiene el Estado del bienestar y constituye el cimiento social de nuestro país.'
+        
+    - declaration:
+        id: d227391b-0585-45a6-a850-6d14883d83ca
+        page: 12
+        title: RECUPERAR LA CONFIANZA Y LAS REFORMAS PARA IMPULSAR NUESTROS SECTORES PRODUCTIVOS
+        children:
+        - declaration:
+            id: 1684ba27-1303-4303-b27d-c228eb1bf2f2
+            page: 12
+            text: El Partido Popular quiere devolver la esperanza a la sociedad española, como hemos hecho siempre, para salir de la situación en la que nos deja esta legislatura de deterioro económico, social e institucional. Con políticas sensatas, moderadas, eficientes y fiables. Con los Gobiernos del Partido Popular España ha recuperado la senda del crecimiento, la estabilidad y la confianza en el pasado. Hoy debemos afrontar con el mismo afán reformista el desafío que supone el cambio climático y el desarrollo de la Inteligencia Artificial. Dos realidades que, junto a los riesgos que conllevan, nos brindan la oportunidad de que España se sitúe entre las principales economías del planeta por su dinamismo y capacidad de transformación. Aprovechando la gran oportunidad que representan los Fondos Europeos que, junto con otras iniciativas como el RePower EU, suponen el mayor esfuerzo inversor de la Unión Europea desde su creación en 1957. Fondos que ni se han programado estableciendo prioridades ni están llegando a quienes los necesitan por la ineficacia administrativa del gobierno PSOE/Podemos. Trabajaremos con la Unión Europea para evaluar los hitos y objetivos y aprovechar el efecto transformador de estos Fondos, particularmente en el sector industrial, que queremos que genere el 20% del PIB español. Mejorando nuestra red de transportes e infraestructuras con una política de movilidad que permita aprovechar al máximo las capacidades de nuestro país.
+        - declaration:
+            id: 9c63a9c4-1562-41a5-9ddd-bd6899545201
+            page: 12
+            text: Devolveremos la confianza en las instituciones y en la sociedad, recuperando la fiabilidad, la seguridad jurídica y el respeto a los empresarios y trabajadores y al Diálogo Social. Impulsaremos una gestión pública eficaz, que crea en la importancia de la estabilidad financiera y del uso eficiente de los recursos públicos, para poder rebajar los impuestos a las clases medias y trabajadoras. 
+        - declaration:
+            id: c15ffbc6-c9d0-4383-9fc9-e67ab59bbdbe
+            page: 12
+            text: Abordaremos las reformas estructurales pendientes que no se han hecho esta legislatura (como la fiscal), para impulsar el crecimiento a largo plazo, mejorar la productividad y generar oportunidades de empleo de calidad, la prosperidad de las familias y darle un futuro mejor a los jóvenes.
+        - declaration:
+            id: b3bf7fe5-f918-4751-8aa5-b58ec7f97313
+            page: 12
+            text: Impulsaremos el desarrollo de las energías limpias, y la racionalización y sostenibilidad del uso de nuestros recursos hídricos y naturales, potenciando los sectores primarios y combatiendo la despoblación de nuestro mundo rural.
+        - declaration:
+            id: 5745fbb9-479e-4d81-8656-7f46f1166f3d
+            page: 12
+            text: Nuestro compromiso, para la próxima legislatura, es que España sea una de las grandes economías europeas que más crezca de la zona euro. Vamos a volver a crecer de forma sostenible, para recuperar la convergencia en riqueza y bienestar con Europa. El Partido Popular está preparado para hacerlo, con solvencia económica y ambición reformista.'
     - chapter: 
         title: Impulsar una economía basada en el talento, la innovación y el conocimiento
         children:
-          - declaration:
-              id: 2a9ede8b-ccf4-44ec-8f84-570841d75a83
-              text: El talento, la innovación y el conocimiento son las bases de una economía competitiva. Para volver a crecer de una manera sólida, debemos apoyar sobre ellas las normas y políticas públicas, que mejoren la productividad e incentiven la innovación. Para que España se posicione de manera efectiva en la economía global, es necesario un marco regulatorio que impulse la libre iniciativa, el desarrollo empresarial, que sea un polo de atracción de inversiones y de talento internacional.
-              page: 
+        - declaration:
+            id: 2a9ede8b-ccf4-44ec-8f84-570841d75a83
+            text: El talento, la innovación y el conocimiento son las bases de una economía competitiva. Para volver a crecer de una manera sólida, debemos apoyar sobre ellas las normas y políticas públicas, que mejoren la productividad e incentiven la innovación. Para que España se posicione de manera efectiva en la economía global, es necesario un marco regulatorio que impulse la libre iniciativa, el desarrollo empresarial, que sea un polo de atracción de inversiones y de talento internacional.
+            page: 15
+        - promise:
+            id: b16fb46a-6ea1-4457-b829-beabef1838af
+            page: 15
+            title: RELANZAREMOS MEDIDAS PARA GARANTIZAR LA COMPETENCIA CON LA UNIDAD DE MERCADO. 
+            text: Reduciremos la fragmentación normativa y eliminaremos barreras injustificadas a las empresas, a través de la racionalización de la normativa autonómica y la promoción del reconocimiento mutuo de permisos y licencias en todo el territorio español.
+        - promise:
+            id: b5b66a95-8d79-4a7c-8376-44d8deb910a1
+            page: 15
+            title: FRENAREMOS EL EXCESO DE REGULACIÓN. 
+            text: Nos comprometemos a implementar el principio de “una nueva norma, tres eliminadas”, asegurando que cada nueva ley o norma reemplace a varias existentes. Exigiremos que cada nuevo proyecto de ley que se tramite en el Parlamento incluya una memoria de impacto económico sobre terceros, con el fin de identificar qué nuevos costes se estiman en cada nueva ley sectorial para las empresas. Aprobaremos cada año un decreto de simplificación administrativa y mejora de la calidad regulatoria.
+        - promise:
+            id: 82255003-259c-4050-80f4-0bdf73e37658
+            page: 15
+            title: SUSTITUIREMOS EL RÉGIMEN DE LICENCIA POR LA DECLARACIÓN RESPONSABLE.
+            text: El sistema general de autorización de las actividades económicas ligadas a las pymes será el de declaración responsable o comunicación previa, sustituyendo, en todos los casos que sea posible, el actual sistema de autorización a través de licencia administrativa para agilizar la apertura de nuevos negocios y el desarrollo de nuevas actividades comerciales.
+        - promise:
+            id: bae0425f-f99d-4802-af1a-14feee8a27a1
+            page: 15
+            title: AMPLIAREMOS EL SILENCIO POSITIVO COMO REGLA POR DEFECTO EN LA RELACIÓN CON LA ADMINISTRACIÓN. 
+            text: Realizaremos una auditoría del régimen administrativo con la finalidad de ampliar el silencio positivo a aquellos trámites que tengan como fin el inicio de una actividad comercial o económica.
+        - promise:
+            id: 94b3fe4d-5f20-46dc-95d8-b65da15078fe
+            page: 15
+            title: FOMENTAREMOS EL CRECIMIENTO DEL TAMAÑO DE LAS EMPRESAS. 
+            text: Corregiremos las actuales limitaciones del impuesto de sociedades, con el objetivo de optimizar la gestión tributaria y simplificar reglas que obstaculizan el desarrollo de las empresas. Haremos que las obligaciones fiscales y laborales, que desincentivan el crecimiento al superar ciertos umbrales, se implementen de manera diferida o a través de moratorias. Por último, introduciremos cambios en la regulación tributaria con el objetivo de apoyar el crecimiento de las pequeñas y medianas empresas, suavizando los escalones regulatorios al adquirir la condición de gran empresa a efectos fiscales y modificando la periodicidad en las liquidaciones de IVA y los pagos de las retenciones de IRPF.
+        - promise:
+            id: 9d980b50-9c70-4763-9178-d1555be6f404
+            page: 16
+            title: PRIORIZAREMOS LA ATRACCIÓN Y RETENCIÓN DEL TALENTO INTERNACIONAL.
+            text: Implementaremos un nuevo programa que valorará la formación académica, las competencias lingüísticas y la capacidad innovadora. Este plan promoverá la atracción basada en la igualdad de oportunidades y el mérito, y se orientará a facilitar la incorporación de talento extranjero al mercado laboral, que puede aportar el mayor beneficio a España, tanto en términos de contribuir al crecimiento económico como a la sostenibilidad de los servicios públicos. Este nuevo programa se complementará con medidas decididas para el retorno de los españoles en el exterior, muchos de los cuales dejaron España por falta de oportunidades y desean volver cuando su país se las empiece a brindar.
+        - promise:
+            id: c09053a6-0579-4286-81bc-2565e55b4aef
+            page: 16
+            text: ELABORAREMOS UN PLAN PARA ACELERAR LOS TIEMPOS NECESARIOS para el reconocimiento de títulos profesionales habilitantes (médicos, ingenieros, etc.), mediante procesos de evaluación y reconocimiento de las titulaciones en los países de origen.
+        - promise:
+            id: c64db8b9-2de9-4730-83af-233f8be0da32
+            page: 16
+            title: CREAREMOS NUEVAS VÍAS PARA ATRAER INVESTIGADORES DE PRIMERA LÍNEA A NUESTRAS UNIVERSIDADES Y TRANSFERIR CONOCIMIENTO A LA SOCIEDAD.
+            text: Desarrollaremos un nuevo programa que facilite la incorporación de personal docente e investigador de excelencia, mediante la convalidación automática de títulos y experiencias, la introducción de declaraciones juradas por parte de los candidatos, y una evaluación basada en estrictos indicadores de la calidad investigadora.
+        - promise:
+            id: b8a497c6-42ca-420e-8a47-b34bf78524ee
+            page: 16
+            text: ATRAEREMOS MÁS INVERSIONES INTERNACIONALES QUE GENEREN EMPLEO Y CRECIMIENTO, mediante mejoras en el sistema de otorgamiento y ejecución de garantías reales, una revisión del marco fiscal y de deducciones para inversores y empresas emergentes, y la creación de una mesa para fortalecer a España como un centro financiero. Promoveremos un compromiso político para que España se convierta en un destino preferente para la inversión extranjera y estableceremos un marco regulatorio estable para industrias en crecimiento, intensificando la apuesta por la innovación y desarrollo.
+        - promise:
+            id: 09b45c07-e778-4c4e-895f-98eed34fae5e
+            page: 16
+            title: CONVERTIREMOS A ESPAÑA EN UN HUB PARA LA INVERSIÓN EN LATINOAMÉRICA. 
+            text: Revisaremos los tratados de reconocimiento de sentencias para asegurar su validez en países latinoamericanos en materia civil, mercantil y concursal. Incentivaremos la creación de mercados financieros supervisados para Latinoamérica. También revisaremos el tratamiento fiscal de las inversiones cruzadas entre España y las jurisdicciones de Latinoamérica, así como la normativa concursal española para permitir su aplicación en procesos de restructuración en Latinoamérica .
+        - promise:
+            id: cae2e1c2-665d-483a-88df-0bbb6cf47cc8
+            page: 16
+            title: REFORZAREMOS LAS SINERGIAS ENTRE TODOS LOS INSTRUMENTOS DE APOYO A LA INTERNACIONALIZACIÓN DE LA ECONOMÍA ESPAÑOLA. 
+            text: Realizaremos reformas para mejorar la eficacia de los instrumentos de crédito directo, incrementaremos el alcance del seguro de crédito a la exportación por cuenta del Estado, y se reforzará el seguro por cuenta del Estado sobre garantía de inversiones en el exterior. Dinamizaremos las oficinas comerciales de las embajadas, especialmente en los principales mercados internacionales.
+        - promise:
+            id: 18addde0-f75f-432b-945d-00f57acd910e
+            page: 16
+            text: CREAREMOS EL PLAN NEXT35, con apoyo individualizado a las “scale ups” llamadas a convertirse en las grandes creadoras de empleo del futuro. Facilitaremos el desarrollo de la industria de capital riesgo nacional y promoveremos instrumentos que faciliten la transferencia de conocimiento desde la Universidad y los centros de investigación a las empresas.
+        - promise:
+            id: 638141c9-c941-41bc-a92b-61d4d0dcfe9c
+            page: 17
+            text: NOS COMPROMETEMOS A IMPULSAR UN ENTORNO JURÍDICO PREVISIBLE Y ESTABLE QUE FACILITE LA ASUNCIÓN DE RIESGOS POR LOS EMPRENDEDORES, y a promover una imagen positiva de los empresarios y de la empresa, tanto en el ámbito educativo como en el del reconocimiento social.
+        - promise:
+            id: 5376e589-4307-47a6-89a3-6085c1d8573d
+            page: 17
+            text: ELEVAREMOS LA INVERSIÓN EN I+D+i, para facilitar la transferencia de conocimientos con las empresas, desarrollar la carrera profesional del investigador, diseñar mecanismos para atraer el talento internacional y el retorno del talento español, y reforzar puentes entre la ciencia y las empresas para que las patentes españolas no emigren al extranjero. Se incrementará la inversión a lo largo de la legislatura de acuerdo con lo previsto en la Ley de la Ciencia.
+        - promise:
+            id: 2376b093-96dd-4672-b4f1-c5d25d9a6042
+            page: 17
+            text: IMPULSAREMOS UNA POLÍTICA DE COMPETENCIA que potencie el crecimiento económico y beneficie a los ciudadanos. Aseguraremos la independencia de los reguladores con nombramientos transparentes y basados en mérito y capacidad. Reforzaremos las capacidades de la CNMC a fin de asegurar el correcto cumplimiento de sus labores de vigilancia.
+        - promise:
+            id: c2f0c0d8-0b6c-48e7-a3a8-0ca7025bd3a2
+            page: 17
+            text: FACILITAREMOS LA FINANCIACIÓN DE LAS PYMES, permitiendo el acceso fuentes de financiación alternativas a la bancaria. También reforzaremos el papel del capital riesgo con una mayor implicación de instituciones como ENISA o ICO en el diseño de estrategias de financiación diseñadas para pymes y simplificaremos los requisitos de cotización a fin de hacer más atractivos los mercados de capitales para las pequeñas y medianas empresas, en consonancia y como desarrollo de la normativa europea que promueve la Unión de Mercados de Capitales.
+        - promise:
+            id: 0b2fb4bc-1df5-478f-8f74-7fb71240ca76
+            page: 17
+            text: FACILITAREMOS EL ACCESO A LA SEGUNDA OPORTUNIDAD DEL EMPRENDEDOR, con una modalidad de concurso específica para persona física y un procedimiento simplificado especial para microempresas. Crearemos herramientas de detección temprana de situaciones de insolvencia y digitalización de la totalidad de la tramitación de los concursos. Crearemos un marco jurídico y una red de apoyo público que incentive el emprendimiento a través de un sistema de insolvencia, reestructuración y exoneración de deudas eficiente.
+        - promise:
+            id: 66115711-33a6-40f9-b717-58da58eb0f87
+            page: 18
+            text: INCENTIVAREMOS EL COMERCIO con medidas de simplificación que faciliten su día a día, y favoreceremos marcos normativos que promuevan el crecimiento y fortalecimiento de nuestro tejido empresarial, mayoritariamente formado por micropymes. Impulsaremos el comercio de proximidad, su digitalización, su especialización y competitividad.
+        - promise:
+            id: d318ec9b-9b7f-47c7-b2c9-7fbce46c8b8e
+            page: 18
+            text: CREAREMOS UN ECOSISTEMA PROPICIO PARA LA INNOVACIÓN SOCIAL, facilitando el acceso a recursos, financiación y apoyo técnico a emprendedores y organizaciones sociales. Impulsaremos la creación de incubadoras y aceleradoras especializadas en innovación social, promoviendo la colaboración entre emprendedores, expertos y la comunidad en general.
     - chapter: 
         title: Crear empleo de calidad para todos
         children:
-          - declaration:
-              id: 6ca1e9e2-93be-4b27-9df7-5de1526e1038
-              text: "La creación de empleo de calidad para todos constituye uno de los grandes objetivos de nuestro país. Los gobiernos del Partido Popular son los que más empleo han creado de la democracia y, sobre esa experiencia, nos proponemos nuevas metas: España puede y debe alcanzar niveles de empleo equiparables a los del resto de la Unión Europea, especialmente en lo relativo al empleo de los jóvenes y de las mujeres."
-              page:  
+        - declaration:
+            id: 6ca1e9e2-93be-4b27-9df7-5de1526e1038
+            text: 'La creación de empleo de calidad para todos constituye uno de los grandes objetivos de nuestro país. Los gobiernos del Partido Popular son los que más empleo han creado de la democracia y, sobre esa experiencia, nos proponemos nuevas metas: España puede y debe alcanzar niveles de empleo equiparables a los del resto de la Unión Europea, especialmente en lo relativo al empleo de los jóvenes y de las mujeres.'
+            page: 19
+        - promise:
+            id: 8b7114b1-2862-4ce4-8640-93c087fcbc83
+            page: 19
+            text: APROBAREMOS UNA REFORMA INTEGRAL DE LAS POLÍTICAS ACTIVAS DE EMPLEO, basada en la ampliación y mejora de la calidad de la oferta de formación, otorgando mayor libertad de elección al trabajador desempleado. Crearemos un entorno donde los oferentes de cursos compitan por ofrecer cursos de calidad, a través de una plataforma común basada una evaluación sistemática de su funcionamiento para valorar su eficacia. Promoveremos el acceso de los desempleados a orientación laboral individualizada a través del perfilado estadístico y herramientas de Big Data que identifiquen las mejores alternativas de formación a su disposición.
+        - promise:
+            id: bda7bc9b-f6a4-4598-89bf-53c0279fb729
+            page: 19
+            text: INCREMENTAREMOS LA RELACIÓN DE LOS SERVICIOS PÚBLICOS DE EMPLEO CON LAS EMPRESAS, mediante unidades de atención especializadas, de potenciación de la prospección de necesidades formativas y de nuevas profesiones, de adopción de modelos de competencias y de renovación de los contenidos formativos. Implementaremos programas de formación que adapten las capacidades de los demandantes de empleo a los puestos de trabajo ofertados, con especial atención a los jóvenes, a los mayores de 50 años y a los desempleados de larga duración.
+        - promise:
+            id: 4f8b64ae-7b3e-44b8-a8f9-4bfd4f982070
+            page: 19
+            title: ACTUALIZAREMOS EL SALARIO MÍNIMO INTERPROFESIONAL EN EL MARCO DEL DIÁLOGO SOCIAL. 
+            text: Involucraremos a sindicatos, empresarios y expertos en la toma de decisiones sobre el SMI. MEJORAREMOS EL ACCESO AL INGRESO MÍNIMO VITAL Y SU EFECTIVIDAD COMO HERRAMIENTA DE INSERCIÓN LABORAL, en coordinación con las Comunidades Autónomas. Incrementaremos la compatibilidad del IMV con el empleo y la capacitación, mediante la implementación de bonificaciones adicionales en las cotizaciones sociales para aquellos trabajadores que amplíen sus horas laborales y condicionaremos la percepción a la participación en itinerarios de inserción laboral.
+        - promise:
+            id: 57b29be2-162e-4505-a41a-35f7c96ae156
+            page: 19
+            text: IMPULSAREMOS Y ADAPTAREMOS LA CONTRATACIÓN EN FORMACIÓN a nuestro particular tejido productivo y empresarial, en el marco del diálogo social y la negociación colectiva, a fin para facilitar la contratación y formación de jóvenes sin experiencia y que cuenten sólo con la enseñanza obligatoria, así como la recualificación del talento senior.
+        - promise:
+            id: 2529a577-771b-4a19-a612-25dc03bd2111
+            page: 19
+            title: ASEGURAREMOS LA SOSTENIBILIDAD Y SUFICIENCIA DEL SISTEMA DE PENSIONES PARA LAS GENERACIONES ACTUALES Y FUTURAS. 
+            text: GARANTIZAREMOS LA REVALORIZACIÓN DE LAS PENSIONES EN EL MARCO DEL PACTO DE TOLEDO. Impulsaremos la contributividad del sistema y lo dotaremos de mayor transparencia y accesibilidad, de modo que todos los trabajadores puedan acceder con mayor sencillez a la estimación de la pensión futura. Analizaremos la situación de los mutualistas alternativos en aras a promover junto a las mutualidades unas condiciones de jubilación dignas.
+        - promise:
+            id: f14d0041-ffbe-4e94-8391-763a66be98a9
+            page: 20
+            title: DOTAREMOS DE NUEVAS HERRAMIENTAS DE FLEXIBILIDAD A LOS TRABAJADORES. 
+            text: Introduciremos cuentas individuales para los trabajadores, portables, que puedan usar ante diversas contingencias de su vida laboral para ganar en equidad, eficiencia y productividad. Estas cuentas acompañarán al trabajador durante su vida laboral, y se nutrirán a través de aportaciones mensuales de las empresas, con una parte de las cotizaciones sociales que ya abonan. Este mecanismo mejorará la protección de los trabajadores y eliminará barreras a los cambios de empleo voluntarios de los trabajadores con mayor antigüedad.
+        - promise:
+            id: a390eed5-d404-4ce7-944b-c9c1ba140eb3
+            page: 20
+            title: FOMENTAREMOS LA FLEXIBILIDAD Y LA SOSTENIBILIDAD FINANCIERA PARA LOS TRABAJADORES AUTÓNOMOS. 
+            text: APROBAREMOS LA TARIFA 0 PARA NUEVOS AUTÓNOMOS DURANTE EL PRIMER AÑO. Estableceremos un sistema de “aplazamiento automático” de cuotas que permitirá a lo largo de cada ejercicio que el trabajador autónomo pueda no ingresar la cuota correspondiente a 3 liquidaciones mensuales, sin efectos negativos sobre las prestaciones que se puedan generar, siempre que se satisfagan en la regularización correspondiente a cada ejercicio. Asimismo, ampliaremos el plazo para hacer frente a las regularizaciones derivadas de las diferencias entre los rendimientos previstos y los reales y mejorar las condiciones de financiación para las pymes y autónomos.
+        - promise:
+            id: 67c5fb36-14f1-461e-a14b-bae2796b21cd
+            page: 20
+            title: PROMOVEREMOS EL FORTALECIMIENTO DE LA FORMACIÓN Y EL EMPLEO JUVENIL EN EL ÁMBITO DEL TRABAJO AUTÓNOMO. 
+            text: Desarrollaremos también un modelo de formación profesional específico para el trabajo autónomo que se adapte a sus necesidades, elimine trabas administrativas y permita el acceso a la formación bonificada a través de las cotizaciones sociales.
+        - promise:
+            id: 99a5d317-faa7-4f8f-affa-2edab9a44408
+            page: 20
+            title: BUSCAREMOS MEJORAR LAS CONDICIONES LABORALES Y DE SEGURIDAD SOCIAL PARA LOS TRABAJADORES AUTÓNOMOS. 
+            text: Apoyaremos la conciliación de los autónomos mediante una bonificación específica a la cuota empresarial en caso de que contraten a un trabajador por cuenta ajena durante el descanso del trabajador autónomo por nacimiento de hijo o situaciones análogas. Aproximaremos el TRADE (trabajador autónomo económicamente dependiente) al trabajo por cuenta ajena en términos de protección social.
     - chapter: 
         title: Igualdad
         children: 
-          - declaration:
-              id: 7a45adb0-a1d5-44d7-8da9-40809d689560
-              text: "El Partido Popular reafirma su compromiso irrenunciable con el logro de la igualdad de mujeres y hombres. Un reto que compartimos con el conjunto de la sociedad española y en el que hemos impulsado notables avances siempre que hemos gobernado. Queremos volver a hacerlo: con leyes y con políticas efectivas, eficaces y que generen gran consenso. Porque la igualdad debe ser un motivo de unión y no de enfrentamiento. Es un objetivo compartido y no de unos pocos que tratan de apropiárselo ideológicamente"
-              page: 
+        - declaration:
+            id: 7a45adb0-a1d5-44d7-8da9-40809d689560
+            text: 'El Partido Popular reafirma su compromiso irrenunciable con el logro de la igualdad de mujeres y hombres. Un reto que compartimos con el conjunto de la sociedad española y en el que hemos impulsado notables avances siempre que hemos gobernado. Queremos volver a hacerlo: con leyes y con políticas efectivas, eficaces y que generen gran consenso. Porque la igualdad debe ser un motivo de unión y no de enfrentamiento. Es un objetivo compartido y no de unos pocos que tratan de apropiárselo ideológicamente'
+            page: 21
+        - promise:
+            id: e84e0114-7388-42cd-bd26-5145819092da
+            page: 21
+            title: IMPULSAREMOS PLANES DE IGUALDAD CON HORIZONTES TEMPORALES Y OBJETIVOS CONCRETOS Y EVALUABLES. 
+            text: 'Entre sus objetivos estarán fomentar el empleo y el emprendimiento de las mujeres; avanzar hacia una presencia equilibrada en puestos directivos; dar pasos firmes en materia de corresponsabilidad, y combatir las brechas que aún se mantienen en el ámbito laboral: la brecha salarial entre hombres y mujeres, la brecha en la ocupación y en la intensidad de esa ocupación laboral, la brecha en los cuidados y en el tiempo dedicado a estos, la brecha de género en las pensiones, las desigualdades horizontales y verticales en el mercado laboral, o las abultadas diferencias entre sexos en la elección de estudios STEM.'
+        - promise:
+            id: e373dd2d-4e66-4a12-ae21-2c15c89e9d83
+            page: 21
+            text: PONDREMOS EN MARCHA UN PLAN CONTRA EL DESEMPLEO FEMENINO EN EL ÁMBITO RURAL, INCLUYENDO MEDIDAS ORIENTADAS AL SECTOR PRIMARIO, con el fin de beneficiar a las mujeres agricultoras y ganaderas, favoreciendo la titularidad compartida de las explotaciones, entre otras iniciativas.
+        - promise:
+            id: 5124682b-bf16-4848-bca1-5470561de25b
+            page: 21
+            title: APROBAREMOS MEDIDAS PARA APOYAR LA MATERNIDAD Y PATERNIDAD EN EL ÁMBITO LABORAL. 
+            text: Analizaremos y estudiaremos las posibles bonificaciones a la cuota de la seguridad social a cargo del empleador durante los permisos de nacimiento de hijo, y también la contratación de aquellas mujeres y hombres que decidan retornar a la vida laboral tras haberse dedicado durante años a la crianza y cuidado de sus hijos, con el objetivo de favorecer y retener el talento en la empresa.
+        - promise:
+            id: 39ce471a-b598-4187-86f3-b89a7fd46be2
+            page: 21
+            text: DISEÑAREMOS UN PLAN CONTRA EL DESEMPLEO FEMENINO, QUE REDUZCA A LA MITAD EN ESTA LEGISLATURA LA BRECHA DE PARTICIPACIÓN EN EL MERCADO LABORAL de hombres y mujeres. Incorporará acciones específicas para las mujeres con discapacidad o con mayores dificultades para acceder al empleo, luchando contra las discriminaciones dobles o múltiples que sufren muchas mujeres. Incluiremos programas de reinserción en el mercado laboral y bonificaciones de las cotizaciones en sectores masculinizados, tras el cuidado de menores o personas dependientes, así como medidas para la inserción y la reinserción posterior a la maternidad en el mercado laboral.
     - chapter: 
         title: Aprovechar las posibilidades de la inteligencia artificial
         children: 
-          - declaration:
-              id: 83b8597d-50bf-4323-a3b6-2f9163a6e084
-              text: La inteligencia artificial representa una de las grandes transformaciones de la era digital que estamos viviendo. Tal y como ha señalado la Unión Europea, de cómo abordemos su regulación dependerá en gran medida nuestro futuro. En este sentido, queremos participar activamente en el proceso legislativo de la UE, señalando las prioridades de la autonomía estratégica abierta y planteando para nuestro país una Estrategia Nacional de Inteligencia Artificial que aproveche todo su potencial, poniendo siempre a la persona en el centro. Tenemos la ambición de hacer de nuestro país uno de los protagonistas del mundo que viene.
-              page: 
+        - declaration:
+            id: 83b8597d-50bf-4323-a3b6-2f9163a6e084
+            text: La inteligencia artificial representa una de las grandes transformaciones de la era digital que estamos viviendo. Tal y como ha señalado la Unión Europea, de cómo abordemos su regulación dependerá en gran medida nuestro futuro. En este sentido, queremos participar activamente en el proceso legislativo de la UE, señalando las prioridades de la autonomía estratégica abierta y planteando para nuestro país una Estrategia Nacional de Inteligencia Artificial que aproveche todo su potencial, poniendo siempre a la persona en el centro. Tenemos la ambición de hacer de nuestro país uno de los protagonistas del mundo que viene.
+            page: 22
+        - promise:
+            id: a5020e07-9634-46da-91ef-44ab5e6797e1
+            page: 22
+            text: IMPULSAREMOS LA APROBACIÓN DEL REGLAMENTO DE IA EUROPEO para garantizar un marco de desarrollo temprano de la IA acorde con nuestros principios y valores dentro de esta legislatura europea. DESARROLLAREMOS LA ESTRATEGIA NACIONAL DE IA, poniendo en marcha la Agencia Española de Supervisión. Aunando los esfuerzos de todos los sectores, públicos y privados, para ayudar al rápido desarrollo de la IA en España, fomentar el papel del español en internet y crear los mecanismos de supervisión necesarios de la Agencia.
+        - promise:
+            id: 46a43aea-ae5b-43c9-bdfb-c8d702272720
+            page: 22
+            text: IMPULSAREMOS EL SANDBOX LEGISLATIVO para poner a prueba los requisitos del reglamento europeo. Cimentando así la ventaja de España frente a otros países al ser los primeros en fijar un campo de pruebas en IA que favorezca la innovación en un entorno seguro.
+        - promise:
+            id: d208a03d-bce6-456d-bcdd-a0a56431b3ed
+            page: 22
+            text: ESTABLECEREMOS UN FORO DE ALTO NIVEL EUROPEO SOBRE IA como marco de cogobernanza y en coordinación con las Comunidades Autónomas. Conjugando las iniciativas europeas con las nacionales asegurando que todas las CCAA participen de las nuevas iniciativas en IA.   
+        - promise:
+            id: 544dd99d-47bf-45eb-ac2d-0afcd3602722
+            page: 22
+            text: PROMOVEREMOS UN PLAN DE ATRACCIÓN DE EMPRESAS QUE CONJUGUE INCENTIVOS ECONÓMICOS, FISCALES Y RECURSOS HUMANOS en este ámbito.
+            title:  España ya es un destino privilegiado de inversiones extranjeras por sus infraestructuras digitales y debe serlo también para la IA con programas de ayudas específicos.
+        - promise:
+            id: 8986a17d-8c44-43c9-abfe-1d461a3eb7a7
+            page: 22
+            title: DEFINIREMOS UNA AGENDA DE CAPACIDADES PARA LA PROMOCIÓN Y ESPECIALIZACIÓN EN IA. 
+            text: Sobre la base del talento, técnico y creativo, ya existente en España para orientar nuevas especialidades y acreditaciones profesionales.
+        - promise:
+            id: 7b7a2313-86dc-40ea-a163-6200c97f3985
+            page: 22
+            text: 'ORGANIZAREMOS FOROS ESPECIALIZADOS como escaparate de la capacidad tecnológica española en la materia. Para difundir todas las iniciativas en este ámbito y potenciar la participación de todos los agentes: empresas, universidades, administraciones, etc.'
     - chapter: 
         title: Controlar el déficit y la deuda y reducir la presión fiscal
         children: 
-          - declaration:
-              id: 1e748563-fea9-42da-b451-ed6d9aa200e2
-              text: Tras años de constantes subidas de impuestos, el Partido Popular reafirma su vocación de reducir la presión fiscal a los ciudadanos. Queremos aliviar la carga fiscal de las familias, de los autónomos, de las empresas. Proponemos una política fiscal no confiscatoria, a través de una reforma que alivie la situación de quienes más dificultades tienen. Por otra parte, la acumulación de deuda -se sitúa actualmente en más del 110% del PIB- pone una losa sobre nuestra competitividad presente y futura. Nos comprometemos a abordar una política de mayor equilibrio presupuestario.
-              page: 
+        - declaration:
+            id: 1e748563-fea9-42da-b451-ed6d9aa200e2
+            text: Tras años de constantes subidas de impuestos, el Partido Popular reafirma su vocación de reducir la presión fiscal a los ciudadanos. Queremos aliviar la carga fiscal de las familias, de los autónomos, de las empresas. Proponemos una política fiscal no confiscatoria, a través de una reforma que alivie la situación de quienes más dificultades tienen. Por otra parte, la acumulación de deuda -se sitúa actualmente en más del 110% del PIB- pone una losa sobre nuestra competitividad presente y futura. Nos comprometemos a abordar una política de mayor equilibrio presupuestario.
+            page: 23
+        - promise:
+            id: 03e3d322-0222-49e0-af6e-6d8db415a695
+            page: 23
+            title: APROBAREMOS UN ALIVIO FISCAL INMEDIATO A LAS FAMILIAS. 
+            text: Corregiremos los efectos de la inflación en la tarifa del IRPF que supone una subida real de impuestos sobre la clase media. Reduciremos el IVA a la carne, pescados y conservas con carácter temporal.
+        - promise:
+            id: 9c156b85-ce03-4b64-88e1-083640cbede0
+            page: 23
+            text: REALIZAREMOS UNA REFORMA INTEGRAL DEL SISTEMA FISCAL con criterios de eficacia, equidad y sostenibilidad de los servicios públicos destinada a proteger el ahorro, la inversión y fomentar la creación de empleo. Eliminaremos el impuesto a las grandes fortunas, y simplificaremos el IRPF y el Impuesto sobre Sociedades para las pymes, con especial atención a las empresas con pérdidas y aquellas que incrementen el promedio de su plantilla de trabajadores con contratos indefinidos.
+        - promise:
+            id: 43dbf2f2-49a3-40ae-81c5-5ee138939abc
+            page: 23
+            text: EQUILIBRAREMOS LA RELACIÓN ENTRE EL CONTRIBUYENTE Y LA ADMINISTRACIÓN TRIBUTARIA. ESTABLECEREMOS UN ESTATUTO DEL CONTRIBUYENTE. Incorporaremos el “derecho al error” en el ordenamiento tributario español, para minimizar las consecuencias de los errores que se puedan producir en las declaraciones de contribuyentes con un registro histórico de cumplimiento. Revitalizaremos el Consejo para la Defensa del Contribuyente, ampliando sus competencias y potenciando la independencia de sus integrantes. Reformaremos los Tribunales Económico-Administrativos, impulsaremos la transacción judicial y dotaremos de mayor seguridad jurídica a las operaciones tributarias.
+        - promise:
+            id: f0f8f18f-2437-49ad-98c7-4d0c90f88c75
+            page: 23
+            text: CON EL FIN DE PROMOVER LA INVERSIÓN Y EL DESARROLLO ECONÓMICO en España y facilitar la movilidad internacional, mejoraremos el régimen fiscal para nuevos residentes, ofreciendo incentivos fiscales atractivos y competitivos a nivel global.
+        - promise:
+            id: 4726d99b-9cbe-4909-8b38-89268a325111
+            page: 23
+            text: HAREMOS AL INICIO DE LA LEGISLATURA UNA PROFUNDA REVISIÓN CON LA IGAE DE LA SITUACIÓN REAL DE LAS CUENTAS PÚBLICAS, los compromisos de gasto adquiridos por el actual Gobierno y las obligaciones pendientes.
+        - promise:
+            id: fee5043b-8296-4720-b432-d840833dfec3
+            page: 23
+            text: REFORMAREMOS LA LEY DE INSTITUCIONALIZACIÓN DE LA EVALUACIÓN DE POLÍTICAS PÚBLICAS con el fin de garantizar su correcta aplicación. Fortaleceremos el papel de la Airef como evaluador independiente de eficacia y eficiencia de las políticas que contribuyan a la optimización en el uso de los recursos públicos en todos los niveles de la Administración.
+        - promise:
+            id: fffda821-4bd1-46f6-b8c8-8f6488365e39
+            page: 24
+            title: INTENSIFICAREMOS EL PROCESO DE CONTRATACIÓN CENTRALIZADA EN LA ADMINISTRACIÓN COMO HERRAMIENTA DE AHORRO DE COSTES.
+            text: Analizaremos a fondo las necesidades a cubrir y las respuestas que ofrece el mercado, con el objetivo de obtener una adecuada correspondencia calidad/ precio. Ampliaremos el alcance de los contratos a centralizar, incorporando áreas como la eficiencia energética, el mantenimiento de edificios e instalaciones, y los servicios de ciberseguridad. Asimismo, implementaremos mecanismos que garanticen la inclusión de las pymes en estos procesos, por ejemplo, estableciendo lotes en los contratos a licitar que sean más accesibles para estas entidades.
     - chapter: 
         title: Reindustrializar nuestra economía haciendo un mejor uso de los fondos europeos
         children: 
-          - declaration:
-              id: a008edb2-5855-4ff0-8833-4393fd2ee3c7
-              text: La reindustrialización es un potente factor de creación de empleo, de innovación y de competitividad. Es una de las claves de nuestro futuro como país, en línea con las prioridades que ha asumido el conjunto de la Unión Europea. Para potenciar el peso de la industria en nuestra economía, proponemos una Estrategia Nacional de Reindustrialización y un Plan Estratégico para la Industria. En este sentido, queremos aprovechar mejor los Fondos de recuperación de la Unión Europea, que no están llegando a la economía real por la incapacidad del actual Gobierno.
-              page: 
+        - declaration:
+            id: a008edb2-5855-4ff0-8833-4393fd2ee3c7
+            text: La reindustrialización es un potente factor de creación de empleo, de innovación y de competitividad. Es una de las claves de nuestro futuro como país, en línea con las prioridades que ha asumido el conjunto de la Unión Europea. Para potenciar el peso de la industria en nuestra economía, proponemos una Estrategia Nacional de Reindustrialización y un Plan Estratégico para la Industria. En este sentido, queremos aprovechar mejor los Fondos de recuperación de la Unión Europea, que no están llegando a la economía real por la incapacidad del actual Gobierno.
+            page: 25    
+        - promise:
+            id: 0338ec49-1fd3-4303-8416-d438b181ac12
+            page: 25
+            title: AUDITORÍA, EVALUACIÓN DE LOS FONDOS, ASÍ COMO DE HITOS Y OBJETIVOS.
+            text:  Realizaremos una auditoría y evaluación sobre la gestión de los fondos para conocer el verdadero estado de ejecución, el cumplimiento de los hitos y objetivos pactados, los problemas que han dificultado su ejecución, la coordinación entre administraciones públicas o los recursos y el personal destinado para su gestión. Asimismo, propondremos los cambios necesarios a la Agenda presentada por el Gobierno que garanticen maximizar en España los objetivos de los fondos europeos.
+        - promise:
+            id: fe5ce2a4-6fcc-4b3f-b8a4-15c1d4f9e8bb
+            page: 25
+            title: AGILIZAREMOS LA EJECUCIÓN DE LOS FONDOS Y SU LLEGADA A LA ECONOMÍA REAL. 
+            text: Promoveremos los incentivos y las bonificaciones fiscales para acelerar la ejecución de los fondos y lograr un impacto inmediato y real en la economía. Generalizaremos la declaración responsable como vía de acceso a los fondos, incrementaremos los anticipos y mejoraremos garantías y avales. Ampliaremos los plazos de las convocatorias y las opciones de participar en los programas y facilitaremos el acceso a la información y las convocatorias a través de asesoramiento a empresas, pymes y autónomos. Agilizaremos la publicación de las convocatorias de los PERTES, incorporando las mejoras necesarias y recuperaremos las manifestaciones de interés enviadas por Comunidades Autónomas, ayuntamientos y empresas. A su vez, diseñaremos PERTES territorializados con las consejerías competentes para apostar por inversiones que sean realmente demandadas por el tejido productivo y que tengan un verdadero carácter transformador.
+        - promise:
+            id: af7e0861-9edf-4037-a7cc-57a30dc0b763
+            page: 25
+            title: PONDREMOS EN MARCHA LA COGOBERNANZA DE LOS FONDOS Y AUMENTAREMOS SU TRANSPARENCIA. 
+            text: Coordinaremos la planificación y gestión, el diseño de convocatorias y la consecución de hitos y objetivos con los gobiernos autonómicos y los ayuntamientos. Además, crearemos un órgano asesor para la mejor orientación de los fondos europeos con la participación del sector privado. En favor de la transparencia y en cumplimiento del Reglamento de estos fondos, publicaremos los datos de ejecución final y haremos que la plataforma digital sea verdaderamente interoperable y accesible.
+        - promise:
+            id: d8fb355d-dbca-462e-b456-17c59a83767f
+            page: 26
+            text: IMPULSAREMOS, EN COLABORACIÓN CON LA ALIANZA POR LA COMPETITIVIDAD DE LA INDUSTRIA, UNA ESTRATEGIA NACIONAL DE REINDUSTRIALIZACIÓN Y UN PLAN ESTRATÉGICO, con el objetivo de incrementar hasta el 20% del PIB el peso de la industria española. Aprobaremos medidas organizativas que permitan utilizar todos los instrumentos del Estado para su apoyo de forma única, con instrumentos financieros coordinados con las Comunidades Autónomas y estable en el tiempo para generar tecnologías y capacidades industriales competitivas en el medio plazo.
+        - promise:
+            id: 7c32efe1-1392-4603-bd20-e34bd3732c20
+            page: 26
+            text: IMPULSAREMOS EL DESARROLLO DE PROYECTOS DE INVERSIÓN A TRAVÉS DE UNA NUEVA OFICINA DE PROYECTOS INDUSTRIALES ESTRATÉGICOS (OPIE) que designará un agente facilitador para cada proyecto, ejerciendo funciones de apoyo y asesoramiento para su diseño, tramitación, monitorización y puesta en marcha, así como la coordinación con el resto de administraciones.
+        - promise:
+            id: 9e45bd44-7f4e-4025-87dd-367a4ff2ec27
+            page: 26
+            text: PROMOVEREMOS UNA ESTRATEGIA INDUSTRIAL Y TECNOLÓGICA PARA LOS SECTORES AEROESPACIAL Y DEFENSA con el fin de clarificar las tecnologías y los activos con visión de medio-largo plazo (10/15 años), coordinando efectivamente su implementación por el Ministerio de Defensa. Favoreceremos la consolidación del sector, propiciando empresas con posibilidad de competir.
+        - promise:
+            id: af0a99f5-a1e5-4290-b864-52484994b842
+            page: 26
+            text: IMPULSAREMOS UN PLAN DE AUTOMOCIÓN ESPAÑA 2030 RECUPERANDO LA MESA DE AUTOMOCIÓN QUE EL GOBIERNO HA ABANDONADO, dirigido a potenciar el proceso de progresiva descarbonización del sector, la implantación de infraestructuras de recarga de acceso público, la renovación de los vehículos más antiguos del parque móvil y otras medidas de producción industrial.
+        - promise:
+            id: de760600-b17e-459f-8829-897a4f2d2700
+            page: 26
+            text: IMPULSAREMOS LA ESTRATEGIA ESPAÑOLA DE ECONOMÍA CIRCULAR 2030, mejorando la coordinación de la legislación estatal y autonómica en esta materia y garantizando la competitividad de las empresas españolas, en un marco de cogobernanza con las Comunidades Autónomas, y buscando la neutralidad tecnológica.
+        - promise:
+            id: 61a5f598-8251-482a-a32f-9ebd27398c92
+            page: 26
+            text: EN EL MARCO DE LAS MEDIDAS QUE FAVORECERÁN QUE LA INDUSTRIA ESPAÑOLA CUENTE CON UN PRECIO ELÉCTRICO ESTABLE para competir en igualdad de condiciones con el resto de países europeos, mejoraremos la dotación de acuerdo con la normativa europea para la compensación de los gastos de CO2 de la industria electrointensiva, con los ingresos procedentes de las subastas de derechos de emisión.
     - chapter: 
         title: "Un modelo más sostenible: fortalecer y proteger el sistema agroalimentario y el medio ambiente"
         children: 
-          - declaration:
-              id: c2ef6d6b-ad34-41dd-823d-ec02337cc942
-              text: La sostenibilidad ambiental y la lucha contra el cambio climático se encuentran entre los principales retos que tenemos como sociedad. Un desafío que afecta a todos, y que debemos abordar desde todos los niveles políticos. Vamos a ser muy ambiciosos en lo que se refiere a economía circular, a la mitigación de emisiones y a la preservación de la biodiversidad, pero queremos hacerlo bajo la premisa de una transición ecológica justa, haciendo partícipes a la sociedad civil, a los agentes económicos y a las administraciones.<br><br> El sector primario es un elemento fundamental de la economía española, de la vertebración de nuestro territorio, de nuestra estructura social y de nuestra cultura. Es preciso reconocer y proteger el sistema agroalimentario, con medidas que aseguren su futuro, tanto en el seno de la Unión Europea, como en el escenario global, en el que las cadenas alimentarias están sufriendo fuertes tensiones.
-              page: 
+        - declaration:
+            id: c2ef6d6b-ad34-41dd-823d-ec02337cc942
+            text: La sostenibilidad ambiental y la lucha contra el cambio climático se encuentran entre los principales retos que tenemos como sociedad. Un desafío que afecta a todos, y que debemos abordar desde todos los niveles políticos. Vamos a ser muy ambiciosos en lo que se refiere a economía circular, a la mitigación de emisiones y a la preservación de la biodiversidad, pero queremos hacerlo bajo la premisa de una transición ecológica justa, haciendo partícipes a la sociedad civil, a los agentes económicos y a las administraciones.
+            page: 27
+        - declaration:
+            id: ee444344-e736-4a0b-ad70-58c9d60135e4
+            text: El sector primario es un elemento fundamental de la economía española, de la vertebración de nuestro territorio, de nuestra estructura social y de nuestra cultura. Es preciso reconocer y proteger el sistema agroalimentario, con medidas que aseguren su futuro, tanto en el seno de la Unión Europea, como en el escenario global, en el que las cadenas alimentarias están sufriendo fuertes tensiones.
+            page: 27
     - chapter: 
         title: Combatir la despoblación y desarrollar la España rural
         children:
-          - declaration:
-              id: 2db74e05-26f6-4c3f-bca4-73909c3c440f
-              text: Despoblación y cohesión territorial se cuentan también entre los grandes desafíos de la España actual. De cómo abordemos estas cuestiones, dependerá en buena medida la sostenibilidad de nuestro modelo de bienestar y la calidad de vida de las generaciones futuras.<br><br> Por ello deben tratarse como cuestiones de Estado, que merecen atención prioritaria. La España rural está llena de talento y de un patrimonio histórico y natural que podemos transformar en oportunidades. Para eso debemos centrarnos en la mejora de las infraestructuras y servicios y apoyar la transformación digital de esas zonas, desde la convicción de que todos los españoles deben disfrutar de los mismos derechos, porque creemos que la igualdad de oportunidades es la mejor política territorial.
-              page: 
+        - declaration:
+            id: 2db74e05-26f6-4c3f-bca4-73909c3c440f
+            text: Despoblación y cohesión territorial se cuentan también entre los grandes desafíos de la España actual. De cómo abordemos estas cuestiones, dependerá en buena medida la sostenibilidad de nuestro modelo de bienestar y la calidad de vida de las generaciones futuras.<br><br> Por ello deben tratarse como cuestiones de Estado, que merecen atención prioritaria. La España rural está llena de talento y de un patrimonio histórico y natural que podemos transformar en oportunidades. Para eso debemos centrarnos en la mejora de las infraestructuras y servicios y apoyar la transformación digital de esas zonas, desde la convicción de que todos los españoles deben disfrutar de los mismos derechos, porque creemos que la igualdad de oportunidades es la mejor política territorial.
+            page: 
     - chapter: 
         title: Repensar nuestras infraestructuras y favorecer el acceso a la vivienda
         children: 
-          - declaration:
-              id: 23621be6-44e4-4b76-8ef3-468a4289324f
-              text: La calidad de vida de los ciudadanos depende directamente de la calidad de nuestras infraestructuras. Estas deben plantearse bajo una perspectiva integral, pues son clave para la vertebración del territorio, para las relaciones sociales y para la competitividad económica. Repensaremos nuestras infraestructuras para unir a personas y territorios, corrigiendo ineficiencias e invirtiendo para solventar necesidades, fomentar la cohesión y acabar con las desigualdades.
-              page: 
+        - declaration:
+            id: 23621be6-44e4-4b76-8ef3-468a4289324f
+            text: La calidad de vida de los ciudadanos depende directamente de la calidad de nuestras infraestructuras. Estas deben plantearse bajo una perspectiva integral, pues son clave para la vertebración del territorio, para las relaciones sociales y para la competitividad económica. Repensaremos nuestras infraestructuras para unir a personas y territorios, corrigiendo ineficiencias e invirtiendo para solventar necesidades, fomentar la cohesión y acabar con las desigualdades.
+            page: 
     - chapter: 
         title: "España una potencia mundial: el turismo"  
         children: 
-          - declaration:
-              id: 38090850-4798-4418-a6ec-af823a6b0854
-              text: España es una potencia mundial en turismo. Fue el segundo país más visitado del mundo en 2019, con 83,5 millones de visitantes internacionales. En 2022 la cifra de turistas extranjeros fue de 71,6 millones todavía lejos de la cifra prepandemia.<br><br> El turismo representó el 12,6% del PIB en 2019 y alcanzó los 2,6 millones de empleos ese mismo año. Las cifras de 2022 aún no alcanzan las de 2019, situándose en el 12,2% del PIB y 2,4 millones de empleos.<br><br> La magnitud de estas cifras refleja que el turismo es fundamental para nuestra economía, pero que todavía tiene un enorme potencial de recuperación y superación. Ese desarrollo debe afrontarse desde la innovación, la calidad, la sostenibilidad y la digitalización. 
-              page: 
+        - declaration:
+            id: 38090850-4798-4418-a6ec-af823a6b0854
+            text: España es una potencia mundial en turismo. Fue el segundo país más visitado del mundo en 2019, con 83,5 millones de visitantes internacionales. En 2022 la cifra de turistas extranjeros fue de 71,6 millones todavía lejos de la cifra prepandemia.<br><br> El turismo representó el 12,6% del PIB en 2019 y alcanzó los 2,6 millones de empleos ese mismo año. Las cifras de 2022 aún no alcanzan las de 2019, situándose en el 12,2% del PIB y 2,4 millones de empleos.<br><br> La magnitud de estas cifras refleja que el turismo es fundamental para nuestra economía, pero que todavía tiene un enorme potencial de recuperación y superación. Ese desarrollo debe afrontarse desde la innovación, la calidad, la sostenibilidad y la digitalización. 
+            page: 
     - chapter: 
         title: "Pacto nacional del agua y energía limpia y barata para todos y para siempre"  
         children: 
-          - declaration:
-              id: 600cea69-a028-46e5-b41a-50119c872155
-              text: Las políticas del agua se basarán en un gran consenso nacional, que impulse la inversión en infraestructuras hídricas, en innovación y en la conservación de la biodiversidad.<br><br> Queremos convertir a España en una superpotencia energética, capaz de aprovechar las enormes oportunidades de los recursos renovables, que permitan lograr un mix energético equilibrado y una energía barata para los consumidores y nuestras empresas.     
-              page:  
+        - declaration:
+            id: 600cea69-a028-46e5-b41a-50119c872155
+            text: Las políticas del agua se basarán en un gran consenso nacional, que impulse la inversión en infraestructuras hídricas, en innovación y en la conservación de la biodiversidad.<br><br> Queremos convertir a España en una superpotencia energética, capaz de aprovechar las enormes oportunidades de los recursos renovables, que permitan lograr un mix energético equilibrado y una energía barata para los consumidores y nuestras empresas.     
+            page:  
 - chapter: 
     title: CUIDAR Y PROSPERAR
     children:
@@ -102,38 +470,38 @@ index:
     - chapter: 
         title: Proteger y fortalecer el Sistema Nacional De Salud
         children: 
-          - declaration:
-              id: 82bb34a4-f799-42de-ac08-c909b54017f7
-              text: España cuenta con uno de los mejores sistemas sanitarios públicos del mundo y una plantilla de profesionales sanitarios altamente cualificados que han dado lo mejor de sí mismo cuando los hemos necesitado.<br><br> Es cierto que la pandemia ha sometido a la sanidad española a una presión sin precedentes, pero la sanidad española ha respondido. Por eso, frente a la desidia del actual Gobierno, el Partido Popular se compromete a estudiar todo lo que se ha visto afectado, en términos de funcionamiento del sistema y atención sanitaria, para corregirlo con mejor gestión, más innovación, mejor política, más previsión y, sobre todo, un mayor acuerdo y consenso con toda la comunidad sanitaria española, los pacientes y las administraciones autonómicas.
-              page: 
+        - declaration:
+            id: 82bb34a4-f799-42de-ac08-c909b54017f7
+            text: España cuenta con uno de los mejores sistemas sanitarios públicos del mundo y una plantilla de profesionales sanitarios altamente cualificados que han dado lo mejor de sí mismo cuando los hemos necesitado.<br><br> Es cierto que la pandemia ha sometido a la sanidad española a una presión sin precedentes, pero la sanidad española ha respondido. Por eso, frente a la desidia del actual Gobierno, el Partido Popular se compromete a estudiar todo lo que se ha visto afectado, en términos de funcionamiento del sistema y atención sanitaria, para corregirlo con mejor gestión, más innovación, mejor política, más previsión y, sobre todo, un mayor acuerdo y consenso con toda la comunidad sanitaria española, los pacientes y las administraciones autonómicas.
+            page: 
     - chapter: 
         title: Una educación excelente y de calidad
         children: 
-          - declaration:
-              id: 8a0f2ec0-589b-4684-bc4c-33c65cef6b2d
-              text: La educación es la base para el desarrollo integral de la persona, el mejor ascensor social y el principal motor de desarrollo para nuestro país. La mejora del sistema educativo es un objetivo prioritario, porque queremos hacer de España un país más próspero y equitativo. Impulsaremos un modelo educativo que dé respuesta a los retos nacionales, europeos y globales; que ofrezca un marco de estabilidad por encima de debates ideológicos, y que garantice la formación de los jóvenes para que puedan desarrollar su vida con responsabilidad, criterio propio y libertad, en un mercado laboral totalmente diferente.<br><br> La educación debe proveer los valores y las herramientas intelectuales y sociales que permitan el pleno desarrollo individual, el compromiso con la sociedad y el pensamiento crítico, sobre todo para aquellos alumnos y familias que más lo necesitan. El mérito y el esfuerzo de los alumnos y el prestigio de la figura del profesor guiarán nuestro modelo educativo.<br><br> En el ámbito universitario, nuestro principal objetivo será conseguir la excelencia en la formación, mejorar la inserción laboral y la movilidad social, así como la excelencia en la investigación.
-              page: 
+        - declaration:
+            id: 8a0f2ec0-589b-4684-bc4c-33c65cef6b2d
+            text: La educación es la base para el desarrollo integral de la persona, el mejor ascensor social y el principal motor de desarrollo para nuestro país. La mejora del sistema educativo es un objetivo prioritario, porque queremos hacer de España un país más próspero y equitativo. Impulsaremos un modelo educativo que dé respuesta a los retos nacionales, europeos y globales; que ofrezca un marco de estabilidad por encima de debates ideológicos, y que garantice la formación de los jóvenes para que puedan desarrollar su vida con responsabilidad, criterio propio y libertad, en un mercado laboral totalmente diferente.<br><br> La educación debe proveer los valores y las herramientas intelectuales y sociales que permitan el pleno desarrollo individual, el compromiso con la sociedad y el pensamiento crítico, sobre todo para aquellos alumnos y familias que más lo necesitan. El mérito y el esfuerzo de los alumnos y el prestigio de la figura del profesor guiarán nuestro modelo educativo.<br><br> En el ámbito universitario, nuestro principal objetivo será conseguir la excelencia en la formación, mejorar la inserción laboral y la movilidad social, así como la excelencia en la investigación.
+            page: 
     - chapter: 
         title: Apoyar la maternidad, la paternidad y la conciliación
         children: 
-          - declaration:
-              id: ce0f4849-2548-4008-84c8-feebef0d7f50
-              text: El apoyo de la maternidad y de la conciliación serán prioritarias para el Gobierno del Partido Popular. Queremos que en España el número de hijos que se tienen se corresponda con el número de hijos que se desea tener. Queremos lograr que ninguna mujer tenga que elegir entre vida profesional o la maternidad. Para ello, vamos a poner en marcha medios y recursos que faciliten el día a día de las madres, de los padres, de las familias, y que impulsen la natalidad y la conciliación en nuestro país.
-              page: 
+        - declaration:
+            id: ce0f4849-2548-4008-84c8-feebef0d7f50
+            text: El apoyo de la maternidad y de la conciliación serán prioritarias para el Gobierno del Partido Popular. Queremos que en España el número de hijos que se tienen se corresponda con el número de hijos que se desea tener. Queremos lograr que ninguna mujer tenga que elegir entre vida profesional o la maternidad. Para ello, vamos a poner en marcha medios y recursos que faciliten el día a día de las madres, de los padres, de las familias, y que impulsen la natalidad y la conciliación en nuestro país.
+            page: 
     - chapter: 
         title: Infancia y adolescencia
         children: 
-          - declaration:
-              id: fa635e93-2543-47a3-b452-64fc8044526f
-              text: Nos comprometemos a situar la protección de la infancia y la adolescencia en la agenda política como prioridad de acción. Garantizar los derechos y atender las necesidades de los menores es una obligación fundamental de todo responsable público, hoy día con especial incidencia en el entorno digital. No hay inversión más rentable y con mayor retorno que aquella que se realiza en mejorar las condiciones de vida de los niños y los más jóvenes de la sociedad. Es una apuesta segura de futuro.
-              page: 
+        - declaration:
+            id: fa635e93-2543-47a3-b452-64fc8044526f
+            text: Nos comprometemos a situar la protección de la infancia y la adolescencia en la agenda política como prioridad de acción. Garantizar los derechos y atender las necesidades de los menores es una obligación fundamental de todo responsable público, hoy día con especial incidencia en el entorno digital. No hay inversión más rentable y con mayor retorno que aquella que se realiza en mejorar las condiciones de vida de los niños y los más jóvenes de la sociedad. Es una apuesta segura de futuro.
+            page: 
     - chapter: 
         title: Cuidar a los mayores y combatir la soledad no deseada
         children: 
-          - declaration:
-              id: ffb69b7b-7341-4e5c-9787-756b8795631d
-              text: Trabajar por una España que cuida y respeta a sus mayores es un acto de solidaridad y responsabilidad entre generaciones, un compromiso hacia quienes cuidaron de nosotros y nos han legado la democracia y la libertad. El nuestro es uno de los países del mundo más longevos, un buen indicador de nuestra calidad de vida y de un sistema de bienestar que funciona. Sin embargo, el envejecimiento lleva aparejados grandes retos. No se trata solo de vivir mucho, sino de vivir lo mejor posible. Nos volcaremos con las necesidades de los mayores, en su calidad de vida y en combatir la soledad no deseada.
-              page: 
+        - declaration:
+            id: ffb69b7b-7341-4e5c-9787-756b8795631d
+            text: Trabajar por una España que cuida y respeta a sus mayores es un acto de solidaridad y responsabilidad entre generaciones, un compromiso hacia quienes cuidaron de nosotros y nos han legado la democracia y la libertad. El nuestro es uno de los países del mundo más longevos, un buen indicador de nuestra calidad de vida y de un sistema de bienestar que funciona. Sin embargo, el envejecimiento lleva aparejados grandes retos. No se trata solo de vivir mucho, sino de vivir lo mejor posible. Nos volcaremos con las necesidades de los mayores, en su calidad de vida y en combatir la soledad no deseada.
+            page: 
     - chapter: 
         title: "Las personas con discapacidad: igualdad e inclusión"
         children: 

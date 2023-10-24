@@ -22,70 +22,34 @@ index:
             text: 'Es fundamental seguir manteniendo un entorno de estabilidad económica y financiera que prolongue el crecimiento económico y permita aprovechar plenamente las oportunidades de los cambios tecnológicos en marcha. Ello exige una gestión eficiente de los recursos públicos, una política fiscal responsable de reducción de las ratios de déficit y deuda en línea con las reglas europeas, una buena gestión del Tesoro para minimizar los costes financieros, amortiguar las fluctuaciones cíclicas, obteniendo de ese modo un crecimiento sostenido y sostenible en el plano económico y financiero. Para ello:'
         - promise:
             id: 39cbdd23-830c-411a-b609-4ba1b3ec0db6
-            title: Continuaremos reforzando la confianza en España
-            page: 24
-            ref_section: '001'
-            children:
-            - promise:
-                id: bf0bc2a5-54e5-4947-9fbb-2270f7170215
-                text: mediante una política económica responsable y coherente, alineada con las recomendaciones de los organismos internacionales, basada en la escucha y el diálogo con los agentes económicos y sociales.
+            text: Continuaremos reforzando la confianza en España mediante una política económica responsable y coherente, alineada con las recomendaciones de los organismos internacionales, basada en la escucha y el diálogo con los agentes económicos y sociales.
         - promise:
             id: cbd084e8-11da-47fa-a5b6-ed183dc0a4ab
-            title: Seguiremos en la senda de consolidación fiscal y sostenibilidad de las cuentas públicas
-            page: 24
-            ref_section: '002'
+            title: Seguiremos en la senda de consolidación fiscal y sostenibilidad de las cuentas públicas reduciendo el déficit estructural y luchando contra el fraude y la economía sumergida para incrementar los ingresos sin aumentar, con carácter general, los impuestos y permitir así financiar de forma eficiente y justa las políticas públicas, la inversión y el refuerzo del estado de bienestar.
             children:
-            - promise:
-                id: 4fbb4c59-cf2b-4577-90c1-c51ffc74522a
-                text: reduciendo el déficit estructural y luchando contra el fraude y la economía sumergida para incrementar los ingresos sin aumentar, con carácter general, los impuestos y permitir así financiar de forma eficiente y justa las políticas públicas, la inversión y el refuerzo del estado de bienestar.
             - promise:
                 id: 0ff97f42-85fd-479c-a8db-00fba19cf18d
                 text: Velaremos por el cumplimiento de los parámetros de consolidación fiscal en el conjunto de los sectores.
         - promise:
             id: 3a997084-40ca-4509-a298-f23621258207
-            title: Potenciaremos la financiación verde
             page: 24
-            ref_section: '003'
-            children:
-            - promise:
-                id: 931e28f7-2f62-49d4-813d-f4ebc9e41f1d
-                text: Potenciaremos la financiación verde sobre la base de un Libro Verde de Financiación Sostenible, que será trabajado con los agentes sociales, el sector financiero y los sectores económicos más directamente implicados, para hacer de España un referente en Europa en emisiones de instrumentos financieros sostenibles.
+            text: Potenciaremos la financiación verde sobre la base de un Libro Verde de Financiación Sostenible, que será trabajado con los agentes sociales, el sector financiero y los sectores económicos más directamente implicados, para hacer de España un referente en Europa en emisiones de instrumentos financieros sostenibles.
         - promise:
             id: ae968021-a313-4490-b7d3-075ee5fb0d4d
-            title: Impulsaremos el mercado español de bonos verdes
             page: 24
-            ref_section: '004'
-            children:
-            - promise:
-                id: 05b3ae66-a58b-4c45-ba10-57d3b7c2becd
-                text: apoyando la movilización de la inversión pública y privada para la transición ecológica e impulsando un marco avanzado de evaluación y gestión de los riesgos climáticos de empresas y entidades financieras a nivel europeo y mundial.
+            text: Impulsaremos el mercado español de bonos verdes apoyando la movilización de la inversión pública y privada para la transición ecológica e impulsando un marco avanzado de evaluación y gestión de los riesgos climáticos de empresas y entidades financieras a nivel europeo y mundial.
         - promise:
             id: dd9e5855-375f-44da-9ba7-a87761525879
-            title: Seguiremos liderando los procesos de transformación verde y digital en el ámbito europeo
             page: 25
-            ref_section: '005'
-            children:
-            - promise:
-                id: e1d2b3cc-9a32-452e-bfff-4ae893e350be
-                text: mediante una hoja de ruta realista, compatible con el crecimiento económico, que posicione España entre los países más avanzados y atractivos para la inversión productiva.
+            text: Seguiremos liderando los procesos de transformación verde y digital en el ámbito europeo mediante una hoja de ruta realista, compatible con el crecimiento económico, que posicione España entre los países más avanzados y atractivos para la inversión productiva.
         - promise:
             id: 9aecda4d-9137-43fd-9f65-ceef5d4498a3
-            title: Seguiremos llenando la hucha de las pensiones
             page: 25
-            ref_section: '006'
-            children:
-            - promise:
-                id: cca777ae-c2aa-4cf8-bc4a-cc21026fe02c
-                text: con el fin de garantizar la sostenibilidad a largo plazo y poder mantener pensiones dignas para las generaciones futuras.
+            text: Seguiremos llenando la hucha de las pensiones con el fin de garantizar la sostenibilidad a largo plazo y poder mantener pensiones dignas para las generaciones futuras.
         - promise:
             id: cc834f2d-3d8f-45e6-9868-8cc25c050948
-            title: Profundizaremos en la creación de fondos de pensiones de empleo,
             page: 25
-            ref_section: '007'
-            children:
-            - promise:
-                id: ae30d39d-d5c3-488b-9c55-ad96214bba41
-                text: desarrollando el segundo pilar de protección, en el ámbito laboral, para aumentar las posibilidades de ahorro y mejorar la calidad de vida de las personas de cara a la jubilación.
+            text: Profundizaremos en la creación de fondos de pensiones de empleo, desarrollando el segundo pilar de protección, en el ámbito laboral, para aumentar las posibilidades de ahorro y mejorar la calidad de vida de las personas de cara a la jubilación.
     - chapter: 
         title: Crecimiento económico y pacto por el pleno empleo, aprovechando el proceso de innovación tecnológica en beneficio de la sociedad
         page: 23
@@ -95,13 +59,9 @@ index:
             text: 'La reforma laboral, pactada con la UE y con los agentes sociales, proporciona la mejor base para seguir traduciendo el impulso inversor en creación de empleo de calidad. Durante la próxima legislatura, debemos extender la fase alcista del ciclo económico iniciada en 2021 a través de una política de inversión que aumente el empleo y la productividad. Del mismo modo, la oportunidad que nos ofrecen los fondos europeos Next Generation debe servirnos para retomar la senda de prosperidad y convergencia con los países más avanzados iniciada desde la llegada de la democracia y truncada con la década perdida tras la gran crisis financiera de 2008, gestionada por el Gobierno del PP.<br><br> Además, sobre la base de los avances logrados en estos años, se trata de activar un círculo virtuoso de formación y colocación que permita reducir el desempleo estructural, especialmente el de la juventud, alineándolo con la media europea, y eliminar el desempleo de larga duración. Para ello:'
         - promise:
             id: 50d0d5bd-7313-40a5-80cd-9a52a7b0f2a0
-            title: Impulsaremos con los agentes sociales un Pacto por el Pleno Empleo para acelerar el círculo virtuoso de formación y colocación
+            text: 'Impulsaremos con los agentes sociales un Pacto por el Pleno Empleo para acelerar el círculo virtuoso de formación y colocación desarrollando el segundo pilar de protección, en el ámbito laboral, para aumentar las posibilidades de ahorro y mejorar la calidad de vida de las personas de cara a la jubilación. y, de ese modo, aprovechar el impulso de la inversión con los fondos europeos Next Generation, alinear los niveles de desempleo al 8% de paro estructural en línea con la media europea, con los siguientes componentes:'
             page: 25
-            ref_section: '001'
             children:
-            - promise:
-                id: e14acbc8-1341-4377-9c29-e5ce82ebf2fa
-                text: 'desarrollando el segundo pilar de protección, en el ámbito laboral, para aumentar las posibilidades de ahorro y mejorar la calidad de vida de las personas de cara a la jubilación. y, de ese modo, aprovechar el impulso de la inversión con los fondos europeos Next Generation, alinear los niveles de desempleo al 8% de paro estructural en línea con la media europea, con los siguientes componentes:'
             - promise:
                 id: bd5725f7-d803-4650-a3e8-3e98e7d959ba
                 text: Mejora de ajuste oferta-demanda de trabajo mediante un sistema integrado de información de los sistemas de gestión del SEPE y de la Seguridad Social. De esta forma, mejoraremos el mecanismo de ajuste de oferta y demanda de trabajo (matching), con la integración de los sistemas de gestión de los Servicios Públicos de Empleo y la Tesorería General de la Seguridad Social, la creación de un sistema integrado de información sobre vacantes, demandantes de empleo y perfiles formativos y la introducción de herramientas de inteligencia artificial para alinear las vacantes con los perfiles de las personas desempleadas.
@@ -131,31 +91,16 @@ index:
                 text: Reforma de los sistemas de protección activa para los parados de larga duración y refuerzo de los incentivos al empleo de beneficiarios de subsidios y del Ingreso Mínimo Vital
         - promise:
             id: a8728a39-e8b1-4bde-b1e7-8dcecb446ea2
-            title: Culminaremos el proceso en marcha de inversión pública y de apoyo a la inversión privada para la modernización del país en clave verde y digital con los fondos Next Generation
+            title: Culminaremos el proceso en marcha de inversión pública y de apoyo a la inversión privada para la modernización del país en clave verde y digital con los fondos Next Generation. Para ello, obtendremos la aprobación por parte de la Comisión Europea de la adenda al Plan de Recuperación, Transformación y Resiliencia, completando así la ejecución de las inversiones y proyectos estratégicos ya en curso.
             page: 26
-            ref_section: '002'
-            children:
-            - promise:
-                id: 55f5bf19-4f69-42ab-a629-6baaf4413969
-                text: Para ello, obtendremos la aprobación por parte de la Comisión Europea de la adenda al Plan de Recuperación, Transformación y Resiliencia, completando así la ejecución de las inversiones y proyectos estratégicos ya en curso.
         - promise:
             id: 928a5757-3e59-4456-be3a-2ba862c84b96
-            title: Desplegaremos los proyectos estratégicos del Plan de Recuperación
             page: 27
-            ref_section: '003'
-            children:
-            - promise:
-                id: 9fa9c97c-af2b-43df-b85d-6b6e8229af8f
-                text: 'Desplegaremos los proyectos estratégicos del Plan de Recuperación con el fin de impulsar la modernización de nuestra economía y posicionar a España entre los países líderes en los sectores y tecnologías del futuro: vehículo eléctrico y conectado (PERTE VEC); energías renovables, hidrógeno verde y almacenamiento (PERTE ERHA); salud de vanguardia; descarbonización de la industria; modernización de la industria naval, agroalimentaria y aeroespacial; impulso al ecosistema empresarial de semiconductores y microprocesadores (PERTE CHIP); digitalización del ciclo del agua; economía circular; nueva economía de la lengua y de economía social y de los cuidados.'
+            text: 'Desplegaremos los proyectos estratégicos del Plan de Recuperación con el fin de impulsar la modernización de nuestra economía y posicionar a España entre los países líderes en los sectores y tecnologías del futuro: vehículo eléctrico y conectado (PERTE VEC); energías renovables, hidrógeno verde y almacenamiento (PERTE ERHA); salud de vanguardia; descarbonización de la industria; modernización de la industria naval, agroalimentaria y aeroespacial; impulso al ecosistema empresarial de semiconductores y microprocesadores (PERTE CHIP); digitalización del ciclo del agua; economía circular; nueva economía de la lengua y de economía social y de los cuidados.'
         - promise:
-            id: b45a4b08-5593-445b-b6ce-70b3430362cd
-            title: Dotaremos el fondo del mecanismo RED
+            id: b45a4b08-5593-445b-b6ce-70b3430362cd    
             page: 27
-            ref_section: '004'
-            children:
-            - promise:
-                id: 30a39796-ee56-4ce9-ad72-7620f37141ee
-                text: Dotaremos el fondo del mecanismo RED, con el fin de disponer de una red de seguridad y un mecanismo de estabilización contracíclico para impulsar la recualificación y reincorporación de los trabajadores
+            text: Dotaremos el fondo del mecanismo RED, con el fin de disponer de una red de seguridad y un mecanismo de estabilización contracíclico para impulsar la recualificación y reincorporación de los trabajadores
         - promise:
             id: 9f2720e8-935d-4ef7-83fe-4d0d20af9882
             title: Seguiremos impulsando la atracción de inversiones extranjeras productivas y proyectos estratégicos, especialmente en el ámbito verde y digital.

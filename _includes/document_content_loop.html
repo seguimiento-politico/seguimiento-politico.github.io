@@ -13,10 +13,17 @@
         {% if element[0] == "declaration" %}
             <p> 
                 {% if element[1].title %}
-                    <b>{{ element[1].title }}</b><br>
+                    <b>{{ element[1].title | capitalize }}</b><br>
                 {% endif %}
-                {{ element[1].text }}
+                {% if element[1].text %}
+                    {{ element[1].text }}
+                {% endif %}
             </p>
+
+            {% if element[1].children %}
+                {% assign content = element[1].children %}
+                {% include document_content_loop.html position=content %} 
+            {% endif %}
         {% elsif element[0] == "promise" %}
             {% assign promise_page = site.promises | where: "uid", element[1].id | first %}
             <ul>
@@ -24,9 +31,9 @@
                     <!-- promise title -->
                     {% if element[1].title %}
                         {% if promise_page.url %}
-                            <a href="{{ promise_page.url }}" target="_blank"><b>{{ element[1].title }}</b></a> <br>
+                            <a href="{{ promise_page.url }}" target="_blank"><b>{{ element[1].title | capitalize }}</b></a> <br>
                         {% else %}
-                            {{ element[1].title }} <br>
+                            <b>{{ element[1].title | capitalize }}</b> <br>
                         {% endif %}
 
                         {% if element[1].text %}
@@ -38,9 +45,9 @@
                         <!-- extract n words as title -->
                         {% assign n = 12 %}
                         {% if promise_page.url %}
-                            <a href="{{ promise_page.url }}" target="_blank"><b>{{ text | slice: 0, n | join: " " }}</b></a>
+                            <a href="{{ promise_page.url }}" target="_blank"><b>{{ text | slice: 0, n | join: " " | capitalize }}</b></a>
                         {% else %}
-                            {{ text | slice: 0, n | join: " " }}
+                            <b>{{ text | slice: 0, n | join: " " | capitalize }}</b>
                         {% endif %}
 
                         {% assign n = n | plus: 1 %}
@@ -57,15 +64,15 @@
         {% elsif element[0] == "chapter" %}
             {% assign index = index | plus: 1 %}
             {% if level == 0 %}
-                <h2 id="{{element[1].title | slugify}}">{{index}}. {{element[1].title}} </h2>
+                <h2 id="{{element[1].title | slugify}}">{{index}}. {{element[1].title | capitalize }} </h2>
             {% elsif level == 1 %}
-                <h3 id="{{element[1].title | slugify}}">{{include.prev_index | append: "."}}{{index}}. {{element[1].title}} </h3>
+                <h3 id="{{element[1].title | slugify}}">{{include.prev_index | append: "."}}{{index}}. {{element[1].title | capitalize }} </h3>
             {% elsif level == 2 %}
-                <h4 id="{{element[1].title | slugify}}">{{include.current_index | append: "."}}{{index}}. {{element[1].title}} </h4>
+                <h4 id="{{element[1].title | slugify}}">{{include.current_index | append: "."}}{{index}}. {{element[1].title | capitalize }} </h4>
             {% elsif level == 3 %}
-                <h5 id="{{element[1].title | slugify}}">{{include.current_index | append: "."}}{{index}}. {{element[1].title}} </h5>                
+                <h5 id="{{element[1].title | slugify}}">{{include.current_index | append: "."}}{{index}}. {{element[1].title | capitalize }} </h5>                
             {% else %}
-                <h6 id="{{element[1].title | slugify}}">{{include.current_index | append: "."}}{{index}}. {{element[1].title}} </h6>
+                <h6 id="{{element[1].title | slugify}}">{{include.current_index | append: "."}}{{index}}. {{element[1].title | capitalize }} </h6>
             {% endif %}
             {% if element[1].children %}
                 {% assign level = include.level | plus: 1 %}
