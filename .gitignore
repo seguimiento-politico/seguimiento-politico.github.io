@@ -144,4 +144,4 @@ _drafts/
 .frontmatter/
 frontmatter.json
 _data/tasks.yaml
-
+.vscode/

@@ -14,7 +14,7 @@ index:
     title: España, unidad y soberanía
     page: 2
     children:
-    - proposal:
+    - promise:
         id: feb7ca6d-2b2d-441b-b47f-95307494f6d9
         title: Suspensión cautelar autonomía catalana
         page: 2
@@ -23,7 +23,7 @@ index:
         - promise:
             id: 4a36e3a5-eeb5-417c-a135-c9a30d9d37a7
             text: Suspensión de la autonomía catalana hasta la derrota sin paliativos del golpismo y la depuración de responsabilidades civiles y penales.
-    - proposal:
+    - promise:
         id: a8578fa9-b83f-498e-86fd-ec4469c3941c
         title: Ilegalización organizaciones
         page: 2
@@ -32,7 +32,7 @@ index:
         - promise:
             id: b23b9ab3-aa1a-42a1-a3e5-f069329b7d1d
             text: Ilegalización de los partidos, asociaciones u ONGs que persigan la destrucción de la unidad territorial de la Nación y de su soberanía.
-    - proposal:
+    - promise:
         id: c782bb07-75fe-4595-a4ad-d88dbb0a447a
         title: Protección símbolos nacionales
         page: 2
@@ -41,7 +41,7 @@ index:
         - promise:
             id: e9335224-b482-4de5-8ccb-38f2d668ae79
             text: Dotar de la máxima protección jurídica a los símbolos de la nación, especialmente la Bandera, el Himno y la Corona. Agravamiento de las penas por las ofensas y ultrajes a España y sus símbolos o emblemas. Ninguna afrenta a ellos debe quedar impune.
-    - proposal:
+    - promise:
         id: b1371c42-4784-4441-90ab-6c7c3570d173
         title: Lengua común
         page: 2
@@ -56,7 +56,7 @@ index:
         - promise:
             id: df6d57f1-22ba-4a49-b4b7-c71558016d6d
             text: Suprimir el requisito del conocimiento de la lengua cooficial en el acceso a la función pública de forma que se evite cualquier tipo de discriminación.
-    - proposal:
+    - promise:
         id: 9463400d-b40b-4408-9e6d-3a04a1121904
         title: Fuerzas y cuerpos de seguridad
         page: 2
@@ -68,7 +68,7 @@ index:
         - promise:
             id: d3984358-fe3f-4f4a-a34a-41a9dd5c01a2
             text: Todas las FCSE dependerán en última instancia del Gobierno Central
-    - proposal:
+    - promise:
         id: 8677f1d1-fca2-4a14-936c-d59cb90d5feb
         title: Centralización del Estado
         page: 3
@@ -83,7 +83,7 @@ index:
         - promise:
             id: cbb2209c-277f-4cb1-92be-a11b17564639
             text: 'Como paso previo: devolución inmediata al Estado de las competencias de Educación, Sanidad, Seguridad y Justicia limitando en todo lo posible la capacidad legislativa autonómica'
-    - proposal:
+    - promise:
         id: 69b702ac-6c9e-4202-bac9-c036cea93ab3
         title: Gibraltar
         page: 3
@@ -92,7 +92,7 @@ index:
         - promise:
             id: 2f76535e-529d-4579-911d-8509949fabc4
             text: Intensidad y determinación en las acciones diplomáticas para la devolución de Gibraltar desmantelamiento de las redes de piratería, narcotráfico, contrabando y blanqueo de capitales que se extienden desde la colonia
-    - proposal:
+    - promise:
         id: 6550aea5-c484-4766-95c9-ef178d452578
         title: Identidad nacional
         page: 3
@@ -101,7 +101,7 @@ index:
         - promise:
             id: c847a31e-2a45-4209-8922-bb42d95b7234
             text: Plan integral para el conocimiento, difusión y protección de la identidad nacional y de la aportación de España a la civilización y a la historia universal, con especial atención a las gestas y hazañas de nuestros héroes nacionales.
-    - proposal:
+    - promise:
         id: e151e3e5-712d-4a77-b0c1-44227b69069a
         title: Derogación Memoria Histórica
         page: 3
@@ -113,7 +113,7 @@ index:
         - promise:
             id: 73423011-07b2-41f2-95d9-7ec7fbdd79ce
             text: Derogación inmediata de la Ley de Memoria Histórica
-    - proposal:
+    - promise:
         id: 7e557187-bf07-4c58-b853-96e9770e829b
         title: Regiones forales
         page: 3
@@ -126,7 +126,7 @@ index:
     title: Ley electoral y transparencia
     page: 4
     children:
-    - proposal:
+    - promise:
         id: 3a416549-6c56-41ee-bbe7-98756388642b
         title: Reforma del sistema electoral
         page: 4
@@ -138,7 +138,7 @@ index:
         - promise:
             id: c75c74e0-0516-4475-9fca-a9cb41bae493
             text: Una parte de los Diputados serán elegidos en distrito único nacional
-    - proposal:
+    - promise:
         id: 89ccf93f-3953-4424-9669-07d0a1f84cd9
         title: Supresión cuotas en lsitas electorales
         page: 4
@@ -147,7 +147,7 @@ index:
         - promise:
             id: 427d3de8-ec5f-46be-abb2-96975e5ef900
             text: Supresión de las cuotas (por sexo o por cualquier otra causa) en las listas electorales Cada partido las elaborará de acuerdo a las decisiones de sus militantes
-    - proposal:
+    - promise:
         id: d1049d7f-6306-4cae-8ec9-f3bc53543714
         title: Control de los cargos públicos
         page: 4
@@ -160,7 +160,7 @@ index:
     title: Inmigración
     page: 5
     children:
-    - proposal:
+    - promise:
         id: 07280476-d3f1-4f20-a78f-644a7999571a
         title: Deportación de los inmigrantes ilegales a sus países de origen.
         page: 5
@@ -169,7 +169,7 @@ index:
         - promise:
             id: 664edd8a-29f0-4c5b-9460-d0366d91da23
             text: Deportación de los inmigrantes ilegales a sus países de origen.
-    - proposal:
+    - promise:
         id: 048a81a4-b695-45b4-80c6-41dc7786a34c
         title: Deportación de los inmigrantes reincidentes delitos
         page: 5
@@ -178,7 +178,7 @@ index:
         - promise:
             id: aea4946f-a8f0-4bfc-bf70-fcded25bc021
             text: Deportación de los inmigrantes que estén de forma legal en territorio español pero que hayan reincidido en la comisión de delitos leves o hayan cometido algún delito grave.
-    - proposal:
+    - promise:
         id: 97cd6de2-90f1-4684-b646-78ac2f2edbd5
         title: Revision penas para combatir a las mafias de la inmigración
         page: 5
@@ -187,7 +187,7 @@ index:
         - promise:
             id: d5a53c6b-08d1-4c89-bf0c-4d5d0f778c6b
             text: Revisión de los tipos penales (y endurecimiento de sus penas) para combatir a las mafias de la inmigración ilegal, así como para quienes colaboren con ellas, ya sean ONGs, empresas o particulares.
-    - proposal:
+    - promise:
         id: a808cb0d-25a0-435c-829a-bd28e96fb5c3
         title: Acabar con el efecto llamada
         page: 5
@@ -196,7 +196,7 @@ index:
         - promise:
             id: 2acbf3a2-55e3-4d2c-8f38-90fd1b79c3d6
             text: 'Acabar con el efecto llamada: cualquier inmigrante que haya entrado ilegalmente en España estará incapacitado, de por vida, a legalizar su situación y por lo tanto a recibir cualquier tipo de ayuda de la administración.'
-    - proposal:
+    - promise:
         id: 43111e1c-7a62-49cc-a920-1f93b7e908d8
         title: Persecución efectiva de las mafias de comercio callejero
         page: 5
@@ -205,7 +205,7 @@ index:
         - promise:
             id: 7993c568-d662-4408-a494-f9948df8b438
             text: Persecución efectiva de las mafias de comercio callejero, no solo los vendedores, también la producción y distribución.
-    - proposal:
+    - promise:
         id: 8db6cc95-3a4b-4203-9588-4894c8e8de23
         title: Inmigración
         page: 5
@@ -214,7 +214,7 @@ index:
         - promise:
             id: 6e5bad54-a38c-4685-a9ce-977d0a4b610c
             text: Suprimir la institución del arraigo como forma de regular la inmigración ilegal. Revocación de las pasarelas rápidas para adquirir la nacionalidad española.
-    - proposal:
+    - promise:
         id: 0dabdad9-42a5-4ace-b3a9-09b1e3ba04b2
         title: Elevar la exigencia en nivel de idioma, tributación e integración para la adquisición de la nacionalidad
         page: 5
@@ -226,7 +226,7 @@ index:
         - promise:
             id: 8f393cbe-04e6-4873-ac02-839161265d8a
             text: Posibilidad de perder la nacionalidad adquirida por actividades contra la soberanía, seguridad o independencia nacional.
-    - proposal:
+    - promise:
         id: e23d016e-7ab0-4a7a-889e-2110ca31236b
         title: Ayudas al desarrollo condicionada
         page: 5
@@ -238,7 +238,7 @@ index:
         - promise:
             id: a1db186a-52d0-42b0-9790-2bf7d02356f9
             text: Condicionar la ayuda al desarrollo a que los países acepten la repatriación de inmigrantes ilegales y delincuentes.
-    - proposal:
+    - promise:
         id: 202d0bb0-e8ff-4261-8836-51cd1957bd5b
         title: Inmigracion regular condicionada
         page: 5
@@ -254,7 +254,7 @@ index:
     title: Defensa, seguridad y fronteras
     page: 7
     children:
-    - proposal:
+    - promise:
         id: 047863a2-a100-4d2e-96dd-737020eb02c7
         title: Control del islam fundamentalista
         page: 7
@@ -266,7 +266,7 @@ index:
         - promise:
             id: 60bbd85a-6420-4363-816a-da293f52bf54
             text: Expulsión de los imanes que propaguen el integrismo, el menosprecio a la mujer, o la yihad.
-    - proposal:
+    - promise:
         id: aac02dce-fb54-4dec-a844-e490312e515d
         title: Construcción lugares de culto Islam, reciprocidad y financiación
         page: 7
@@ -281,7 +281,7 @@ index:
         - promise:
             id: fd3fd842-a68d-44bd-88d2-efd003cf68dc
             text: Rechazar e ilegalizar la financiación por parte de terceros países de lugares de culto en suelo español.
-    - proposal:
+    - promise:
         id: 15247a3d-2a3e-4f09-a498-9da999be1e00
         title: Colaboración detección radicales y exclusión Islam de la enseñanza pública
         page: 7
@@ -293,7 +293,7 @@ index:
         - promise:
             id: 6e5a1938-ec98-44ac-9b55-fd98fee70aa4
             text: Exclusión de la enseñanza del Islam en la escuela pública.
-    - proposal:
+    - promise:
         id: 939fded4-d0e8-4ad2-abbb-b8108d0bef4e
         title: Fronteras
         page: 8
@@ -308,7 +308,7 @@ index:
         - promise:
             id: 27675fb6-84f7-41e7-841f-9d9d0ae515e5
             text: Dar a policías y FFAA todos los recursos materiales y humanos para que puedan cuidar nuestras fronteras con total eficacia, junto con el amparo legal correspondiente.
-    - proposal:
+    - promise:
         id: ef230edf-35c3-42ce-a10a-a7c0c1f23ac6
         title: Ejército autónomo
         page: 7
@@ -317,7 +317,7 @@ index:
         - promise:
             id: 19bc7eb4-9eab-4c5f-a23f-312a04ca4418
             text: Incrementar y racionalizar el presupuesto de Defensa. Diseño e implementación de una nueva política de defensa orientada a proteger a nuestro país de una forma autónoma.
-    - proposal:
+    - promise:
         id: 675802be-2c63-4c16-9e61-9c3d024cfbfa
         title: Reconocimiento por parte de marruecos de Ceuta y Melilla
         page: 8
@@ -326,7 +326,7 @@ index:
         - promise:
             id: 13d20890-e033-4022-acbf-b790d7bc11f3
             text: Exigir a Marruecos un total reconocimiento y respeto de la soberanía española de Ceuta y Melilla.
-    - proposal:
+    - promise:
         id: 05e1ff6d-070c-4614-bb37-4d0c505c533b
         title: Prioridad militares en oposiciones
         page: 8
@@ -335,7 +335,7 @@ index:
         - promise:
             id: c6efb17c-7417-4ea8-9145-6d23cae8394b
             text: Los españoles que cumplan 20 años de servicio en el ejército tendrán prioridad en las oposiciones a cuerpos de policía, municipales, forestales, funcionarios penitenciarios...etcétera.
-    - proposal:
+    - promise:
         id: 021e11e6-ec9f-4ff5-ad6d-49fc81602162
         title: Delito de atentado contra autoridad
         page: 8
@@ -344,7 +344,7 @@ index:
         - promise:
             id: a79ba610-b622-48f6-8009-0a7c53f5f6a7
             text: Consideración de delito de atentado contra la autoridad las agresiones a profesionales sanitarios y docentes del sector privado (equiparándose por tanto con aquellos que trabajan en el sector público), así como al personal de seguridad privada, funcionarios de prisiones y agentes portuarios en el ejercicio de sus funciones.
-    - proposal:
+    - promise:
         id: a5af2798-f7ad-4e42-9437-9c13d52e59a3
         title: Publicación de datos sobre nacionalidad y origen en estadísticas de delitos.
         page: 8
@@ -353,7 +353,7 @@ index:
         - promise:
             id: 582cc112-1c00-4824-86d1-3d9ea5fa851a
             text: Publicación de datos sobre nacionalidad y origen en estadísticas de delitos.
-    - proposal:
+    - promise:
         id: b74f110c-d5c5-4512-9609-e1b08f2a28ce
         title: Misiones militares de combate contra la amenaza yihadista
         page: 8
@@ -362,7 +362,7 @@ index:
         - promise:
             id: 62d90d6d-a642-43eb-bb31-5f23edb1e863
             text: España participará en misiones militares de combate contra la amenaza yihadista de acuerdo a nuestros intereses y capacidades.
-    - proposal:
+    - promise:
         id: 574543ef-22e8-428b-baf2-907bd17ea187
         title: Suspender espacio Schengen temporalmente
         page: 8
@@ -375,7 +375,7 @@ index:
     title: Economía y recursos
     page: 9
     children:
-    - proposal:
+    - promise:
         id: 428b01c8-a70e-4527-af5b-62abdd7ab5e6
         title: Plan Hidrológico Nacional
         page: 9
@@ -384,7 +384,7 @@ index:
         - promise:
             id: 09cfb918-00e4-4b61-91ac-9cd68bd0b939
             text: Diseñar y aplicar un nuevo Plan Hidrológico Nacional bajo el principio de la solidaridad y el bien común. Un Plan que desde el respeto a la sostenibilidad de los recursos hídricos y de los ecosistemas, permita una gestión eficiente del agua.
-    - proposal:
+    - promise:
         id: 4180d0f0-41f7-4358-b050-f284c0368c1b
         title: Reducción gasto público
         page: 9
@@ -399,7 +399,7 @@ index:
         - promise:
             id: fe7708f2-236a-4309-9e87-67ef1014a520
             text: Cerrar organismos destinados a crear estructuras paralelas al Estado, las televisiones autonómicas, defensores del pueblo, Consejos Consultivos, Agencias Meteorológicas, etcétera.
-    - proposal:
+    - promise:
         id: 2050dc89-93c1-44ac-af4a-a3bb0dda25da
         title: Fusión ayuntamientos y reducción asesores en las AAPP
         page: 9
@@ -411,7 +411,7 @@ index:
         - promise:
             id: 9456a873-b89e-4a85-9882-f26d271765cf
             text: Reducir al mínimo el número de asesores contratados por las diferentes administraciones públicas potenciando de esta manera la carrera profesional de los empleados públicos.
-    - proposal:
+    - promise:
         id: 5631f7b9-3f7e-4486-ad78-7ec4c1c22ea7
         title: Simplificación de la burocracia
         page: 9
@@ -426,7 +426,7 @@ index:
         - promise:
             id: 4c2a85cc-3ce6-4c1d-b4d8-6fc7fb237b9b
             text: Eliminar todo tipo de coste público (tasas e impuestos) para la constitución y puesta en marcha de una empresa sea cual sea la forma jurídica que adopte.
-    - proposal:
+    - promise:
         id: 770acc35-e7c3-41e3-9fd3-c03a6dfcad5f
         title: Desarrollar un Plan de la Energía
         page: 10
@@ -435,7 +435,7 @@ index:
         - promise:
             id: 339f6e87-1c2d-4529-81a1-dc109457f654
             text: Desarrollar un Plan de la Energía con el objetivo de conseguir la autosuficiencia energética de España sobre las bases de una energía barata, sostenible, eficiente y limpia.
-    - proposal:
+    - promise:
         id: 1be5c27a-2e8e-4474-b5f6-f971c639b561
         title: Reducción de impuesto IRPF y tipo único
         page: 10
@@ -450,7 +450,7 @@ index:
         - promise:
             id: e8eb7e77-af29-4ece-8fc7-f05f7bc603cf
             text: Tipo único fijo del 20% hasta los 60.000 € anuales, tributando al 30% cualquier exceso sobre el mencionado límite. (IRPF)
-    - proposal:
+    - promise:
         id: 8ec4fcd7-0cf8-41e4-8083-76de5955249f
         title: Reducción de impuesto sociedades al 20%
         page: 10
@@ -459,7 +459,7 @@ index:
         - promise:
             id: 3791a8d3-a954-499b-900a-91e5bb2a0c85
             text: Reducir el tipo general del Impuesto sobre Sociedades al 20% con una reducción del 5% en el caso que los beneficios no se distribuyan y se mantengan en la empresa como reservas.
-    - proposal:
+    - promise:
         id: dd042869-d7ec-4398-9d59-c18f29e258cc
         title: Reducción del IVA en productos infantiles y geriátricos
         page: 10
@@ -468,7 +468,7 @@ index:
         - promise:
             id: f3786665-eb5a-43ce-83b7-0f89a29f8cb7
             text: Reducción del IVA al 4% para la compra de productos y fármacos infantiles y geriátricos.
-    - proposal:
+    - promise:
         id: 16dfd07a-c0b4-4cbb-8498-998ca7147de3
         title: Apoyo a las PYMES
         page: 10
@@ -480,7 +480,7 @@ index:
         - promise:
             id: ac0f9f44-d760-42a0-b4aa-23e86970f539
             text: Apoyar a las Pymes para que no se las penalice a la hora de recibir financiación bancaria.
-    - proposal:
+    - promise:
         id: ae7df6f4-9461-4621-9062-f5cc4481d530
         title: Fomentar la reindustrialización, apoyo empresas nacionales en concursos públicos y al I+D+I e internacionalización
         page: 11
@@ -495,7 +495,7 @@ index:
             - promise: 
                 id: 2aa3dac4-772d-47ab-8df4-2aae55a06eac
                 text: Apoyo a la I+D+I y a la expansión internacional de las empresas españolas.
-    - proposal:
+    - promise:
         id: b6051921-4b14-4862-90ca-024f1ad207c2
         title: Beneficios fiscales para las familias
         page: 11
@@ -510,7 +510,7 @@ index:
         - promise:
             id: 8d0d39ef-92fb-47ff-962d-ca9f071c781d
             text: Tratamiento conjunto de la renta familiar repartida entre los dos cónyuges, para no penalizar que uno de los miembros de la familia se dedique al cuidado de los hijos o de los dependientes.
-    - proposal:
+    - promise:
         id: 4d143349-85a9-4a5e-91c0-79f37a487e6a
         title: Reducción de impuestos de la energía
         page: 11
@@ -519,7 +519,7 @@ index:
         - promise:
             id: 2b47cb64-9889-4a83-9e8b-5687e207be4a
             text: Menos impuestos y costes regulados en la factura de la luz, que son los culpables de que paguemos uno de los recibos más caros de Europa.
-    - proposal:
+    - promise:
         id: 9eae5fb7-d383-4f8b-8983-3aafd02fea2d
         title: Supresión impuestos de patrimonio, sucesiones y donaciones, y plusvalías municipales
         page: 11
@@ -534,7 +534,7 @@ index:
         - promise:
             id: 933680e6-5def-491a-8cb2-80acd79132bd
             text: y Plusvalías municipales en todo el territorio nacional.
-    - proposal:
+    - promise:
         id: 0eb74b7f-8c50-4340-b424-727fd7547506
         title: Liberalizar el suelo
         page: 13
@@ -543,7 +543,7 @@ index:
         - promise:
             id: d1144065-7478-4fc3-a685-b711e5f6b266
             text: Convertir en suelo apto para ser urbanizado todo el que no deba estar necesariamente protegido por motivos de interés público convenientemente justificados.
-    - proposal:
+    - promise:
         id: a9d9144d-cfd5-4f10-bc97-2c62ced89d17
         title: Apoyo a los trabajadores autónomos.
         page: 10
@@ -558,7 +558,7 @@ index:
         - promise:
             id: 05d8e6cc-8293-4689-bba8-4067c036552b
             text: Bonificación del 100% de la cuota mientras el trabajador por cuenta propia esté de baja. (cuota autónomos)
-    - proposal:
+    - promise:
         id: 7d8604c1-105f-429b-90c1-e50a45a2fcf2
         title: Apoyo a los desempleados mayores y de larga duración
         page: 10
@@ -567,7 +567,7 @@ index:
         - promise:
             id: 5c5529d6-1cd6-4725-9f30-d63b4507b8a5
             text: Apoyo a los desempleados mayores de 50 años y a aquellos desempleados de larga duración mediante la reducción de un 20% de las cotizaciones de la empresa para nuevos contratos de carácter indefinido.
-    - proposal:
+    - promise:
         id: e30e481f-a80a-4ad5-a436-6de2ae12ba44
         title: Apoyo a los trabajadores españoles
         page: 10
@@ -576,7 +576,7 @@ index:
         - promise:
             id: 7f4e44d7-7ccb-4be8-ad52-dafb1cb78f6e
             text: Apoyo a los trabajadores españoles mediante la reducción de un 10% de las cotizaciones de la empresa, para nuevos contratos indefinidos para trabajadores de nacionalidad española en situación de desempleo (siempre que el desempleo se sitúe por encima del 8%)
-    - proposal:
+    - promise:
         id: 42e130fd-c943-4844-aea2-297a90422b92
         title: Crear un dispositivo de “primer empleo”
         page: 10
@@ -585,7 +585,7 @@ index:
         - promise:
             id: 1b360286-e059-4d6f-998e-7fef7259b835
             text: Crear un dispositivo de “primer empleo” que exonere de las cargas sociales en la primera contratación de jóvenes menores de 24 años y por un período máximo de dos años
-    - proposal:
+    - promise:
         id: b451068d-b543-410f-bbf5-2212f8b660c5
         title: Las pensiones contributivas estarán exentas en el IRPF
         page: 10
@@ -594,7 +594,7 @@ index:
         - promise:
             id: dcbc6133-af17-4d8d-89d0-de7e0c4c5276
             text: Las pensiones contributivas estarán exentas en el IRPF, no por doble tributación sino por justicia con quienes han tributado durante toda su vida laboral.
-    - proposal:
+    - promise:
         id: 799333bd-ae1f-41ac-a84a-1871c233a872
         title: Un nuevo modelo para nuestras pensiones (mixto de capitalización y reparto).
         page: 10
@@ -609,7 +609,7 @@ index:
         - promise:
             id: 173ef82f-88ae-4cd1-8f15-e602f07fda67
             text: "2. La propiedad: asegurando el derecho de los ciudadanos a disponer de ahorros propios al finalizar su vida laboral que complementen las pensiones mínimas."
-    - proposal:
+    - promise:
         id: 0230bd7c-bf6a-4a00-915b-ed80d270de45
         title: Corregir IBI en construcciones agrarias y fomentar la renovación del parque de maquinaria agrícola
         page: 13
@@ -625,7 +625,7 @@ index:
     title: salud
     page: 14
     children:
-    - proposal:
+    - promise:
         id: 6d1baa35-9d21-4d50-a365-57d2f9cc5e8e
         title: Una concepción integral de la Sanidad.
         page: 14
@@ -640,7 +640,7 @@ index:
         - promise:
             id: b5af72d1-89ec-4bd5-afd9-892a08170dab
             text: gestión integral de las listas de espera y cartera de servicios única en todo el territorio nacional.
-    - proposal:
+    - promise:
         id: 233a86ec-8fca-4b6e-bca6-5b8d9f897323
         title: Modificación de cartera de servicios sanitarios
         page: 14
@@ -652,7 +652,7 @@ index:
         - promise:
             id: f940d898-b3f4-4507-a69f-79b4abaf5dd5
             text: Las vacunas infantiles serán obligatorias y gratuitas.
-    - proposal:
+    - promise:
         id: 0b3c7d22-46d9-42c9-a700-c32b4b862186
         title: Incluir Odontología Pediátrica en la Seguridad Social
         page: 14
@@ -661,7 +661,7 @@ index:
         - promise:
             id: 72bc7dab-6a97-49f7-8fd4-d39eedb4a198
             text: Incluir Odontología Pediátrica en la Seguridad Social hasta el recambio de dentición temporal.
-    - proposal:
+    - promise:
         id: b86891e7-0858-4499-be40-7e7ea3adcd73
         title: Optimizar la eficiencia económica y medios sanitarios
         page: 14
@@ -673,7 +673,7 @@ index:
         - promise:
             id: ab5daa40-5612-43ca-ba6e-83a81e3c03b9
             text: Análisis de la suficiencia de los medios y dotaciones de los hospitales.
-    - proposal:
+    - promise:
         id: 982370c3-9693-456e-b8f8-a55c95728bff
         title: Sanidad gratuita exclusiva para ciudadanos
         page: 14
@@ -692,7 +692,7 @@ index:
     title: Educación y cultura
     page: 15
     children:
-    - proposal:
+    - promise:
         id: eb317ad8-b8bb-494b-be8c-0b57fa89c61b
         title: Español en el mundo
         page: 15
@@ -701,7 +701,7 @@ index:
         - promise:
             id: 4fd459c0-0b55-4386-ae4d-4f696d94a834
             text: Exigir el debido reconocimiento de la lengua española a nivel internacional, conforme a su importancia como segunda lengua más hablada del mundo. Empezando por la UE.
-    - proposal:
+    - promise:
         id: b50ae9b3-9d31-4697-bebe-a02642f8fd0d
         title: Cheque escolar
         page: 15
@@ -710,7 +710,7 @@ index:
         - promise:
             id: 7c858687-8f1e-4a68-95ad-3c06cd3e7479
             text: Implantar el sistema de cheque escolar. Devolver a los padres una auténtica libertad para elegir la educación de sus hijos, empezando por la elección del colegio.
-    - proposal:
+    - promise:
         id: bd8a7071-a4d8-40df-ab47-6bdc15b1fcdf
         title: Español obligarotio, lenguas cooficiales opcionales
         page: 15
@@ -725,7 +725,7 @@ index:
         - promise:
             id: d669205e-93cc-4231-8856-2606557b7186
             text: El español debe ser legua vehicular obligatoria y las lenguas cooficiales como opcionales.
-    - proposal:
+    - promise:
         id: 6e729db8-18fe-4c17-a274-79cfd12c72e3
         title: PIN parental para educación en valores
         page: 15
@@ -734,7 +734,7 @@ index:
         - promise:
             id: e2c808ab-d741-47cb-89d4-7bdba9e9f4bd
             text: Instaurar el PIN Parental y Autorización Expresa con objeto que se necesite consentimiento expreso de los padres para cualquier actividad con contenidos de valores éticos, sociales, cívicos morales o sexuales.
-    - proposal:
+    - promise:
         id: 50c91e68-6dd9-440b-978d-aecc57a42649
         title: Homogeneización nacional de pruebas de conocimiento y oposiciones
         page: 15
@@ -746,7 +746,7 @@ index:
         - promise:
             id: 0b792978-dfbd-4bb8-8a1e-071d4a72a0ac
             text: Homogeneizar las oposiciones para una igualdad efectiva de oportunidades.
-    - proposal:
+    - promise:
         id: eb371a73-aa96-4f63-96bd-6eb9cd700c15
         title: Sistema de becas
         page: 16
@@ -755,7 +755,7 @@ index:
         - promise:
             id: a90d9481-4963-4a45-93a6-b26a23b46594
             text: Implantar un generoso y exigente sistema de becas para las familias con menos recursos.
-    - proposal:
+    - promise:
         id: 327c4eb0-3745-4b1b-bcdf-df7b2c3f4728
         title: ley de mecenazgo
         page: 16
@@ -767,7 +767,7 @@ index:
         - promise:
             id: 9dd3f63f-f854-4a39-b922-da51e1603a99
             text: A nivel cultural fomento del arraigo a la tierra, manifestaciones folclóricas y tradiciones de España y de sus pueblos dentro de la óptica de la Hispanidad
-    - proposal:
+    - promise:
         id: 74affe2c-3480-4e8c-a131-16a0fbc69cb1
         title: ley de protección de la tauromaquia
         page: 16
@@ -776,7 +776,7 @@ index:
         - promise:
             id: 0bcfbb1a-31ad-4544-b8e5-569517d079b9
             text: Impulsar una ley de protección de la tauromaquia, como parte del patrimonio cultural español.
-    - proposal:
+    - promise:
         id: 2ce9da99-6cbb-4086-9566-267e2a68a937
         title: Protección de la caza
         page: 16
@@ -788,7 +788,7 @@ index:
         - promise:
             id: 97afafc5-7703-499b-accd-c5ae4f132112
             text: Promoción de una licencia única a nivel nacional eliminando el sistema de licencias autonómicas e inter autonómicas.
-    - proposal:
+    - promise:
         id: 52f3900e-0ba3-44b1-b7cc-53fe04e26937
         title: Desigualdades poblacion rural vs urbana
         page: 16
@@ -804,7 +804,7 @@ index:
     title: Vida y familia
     page: 17
     children:
-    - proposal:
+    - promise:
         id: e85cce6c-112f-4d22-ba56-710c17c8bfe6
         title: Violencia de género y feminismo
         page: 17
@@ -822,7 +822,7 @@ index:
         - promise:
             id: f46b85c8-5a57-4969-9026-7076889c21f2
             text: Protección del menor en los procesos de divorcio.
-    - proposal:
+    - promise:
         id: 5e45792e-c37a-47d5-9e71-0470dab6b657
         title: Ministerio de Familia
         page: 17
@@ -837,7 +837,7 @@ index:
         - promise:
             id: d60c84b6-c022-4fe1-bb74-c103a8ff857b
             text: Buscaremos la todavía lejana convergencia con la media europea en cuanto a prestaciones familiares.
-    - proposal:
+    - promise:
         id: 334f45fd-a0bc-4591-9611-9ae4f2d62fa8
         title: Apoyo a la familia y natalidad
         page: 17
@@ -852,7 +852,7 @@ index:
         - promise:
             id: 501e379a-6c70-48d8-b464-b971fca130f5
             text: Establecer bonificaciones proporcionales al número de miembros de las familias en todo tipo de suministros básicos como luz o gas o el acceso a bienes culturales.
-    - proposal:
+    - promise:
         id: b38b38dc-9f2b-4df4-a799-eb0fd3435515
         title: Prestación universal por hijo
         page: 18
@@ -867,7 +867,7 @@ index:
         - promise:
             id: b4da519f-7b69-494c-a332-e870bfd6f0f1
             text: Serán beneficiarias las mujeres que sean madres, sea cual sea su situación familiar y laboral, y mientras los hijos sean menores de edad si previamente no tienen un trabajo retribuido.
-    - proposal:
+    - promise:
         id: 64ae5121-e632-478c-b33f-bd28abb10611
         title: Bajas por enfermedades relacionadas con el embarazo
         page: 18
@@ -876,7 +876,7 @@ index:
         - promise:
             id: b0fd2a83-1f09-482b-9924-2f4ee6e0dbaf
             text: Tratar las bajas por enfermedades relacionadas con el embarazo como baja por maternidad, cero coste para la empresa.
-    - proposal:
+    - promise:
         id: b37a3fce-bed5-4dec-9b06-1b5c7ad8a268
         title: Defensa de la vida (aborto)
         page: 18
@@ -888,7 +888,7 @@ index:
         - promise:
             id: c1aae07d-624d-4615-8391-e5ee346b940c
             text: Es fundamental que las mujeres con embarazo inesperado tengan información veraz, asistencia y alternativas. Reforma de la ley de adopción nacional.
-    - proposal:
+    - promise:
         id: 27e977dd-10d1-442f-a48a-7664d4370c4a
         title: Protección especial a la infancia
         page: 18
@@ -900,7 +900,7 @@ index:
         - promise:
             id: a707504c-821a-48fd-928c-e3ba25cba866
             text: Se restaurará el tipo penal que persiga con más eficacia y dureza la perversión de menores.
-    - proposal:
+    - promise:
         id: 7527a193-e44e-47b3-b6b9-51109cbccb08
         title: Conciliación vida familiar y laboral
         page: 18
@@ -912,7 +912,7 @@ index:
         - promise:
             id: d419e052-d975-4f94-b3d6-fc45dfd904c4
             text: Fomentar la flexibilidad de horarios e implantar un plan específico de reincorporación, para facilitar que los padres que hayan estado un tiempo dedicados al cuidado de los hijos puedan reincorporarse a la actividad laboral.
-    - proposal:
+    - promise:
         id: 53046ced-6d20-49c2-990a-f451d8a9e92e
         title: Ampliar el vigente permiso por maternidad
         page: 19
@@ -921,7 +921,7 @@ index:
         - promise:
             id: 678ad7f0-68fe-4c70-8cd6-06fb73cecff7
             text: Ampliar el vigente permiso por maternidad a 180 días que se prolongaría a un año en el caso de hijos con discapacidad.
-    - proposal:
+    - promise:
         id: c30ba9e7-98d4-4a8c-8ce8-b60a027ca716
         title: Integración personas con Síndrome de Down
         page: 19
@@ -930,7 +930,7 @@ index:
         - promise:
             id: ae3e0ab2-a686-4aa1-888b-66ca5cf7125d
             text: Desarrollo de un plan integración de las personas con síndrome de Down. Tratadas como una condición personal, no una discapacidad, y amparándoles ante la persecución que sufren por parte de quienes se han propuesto exterminarles.
-    - proposal:
+    - promise:
         id: 916df8e9-01cf-44f9-8239-026711fc3e65
         title: Prohibición de los vientres de alquiler
         page: 19
@@ -939,7 +939,7 @@ index:
         - promise:
             id: 4e5109bb-0ff9-40a8-9ff3-8cc75726a0e3
             text: Prohibición de los vientres de alquiler y toda actividad que cosifique y utilice como producto de compra venta a los seres humanos.
-    - proposal:
+    - promise:
         id: b8b0aeed-a149-4bfb-8ed0-6c6f44268366
         title: Custodia compartida
         page: 19
@@ -952,7 +952,7 @@ index:
     title: Libertades y justicia
     page: 20
     children:
-    - proposal:
+    - promise:
         id: d343c4f5-62a3-44df-94c7-deb5f9d78441
         title: Fin subvenciones a partidos políticos
         page: 20
@@ -961,7 +961,7 @@ index:
         - promise:
             id: a7f158d6-6f7b-4c55-86a0-155aba4e90df
             text: Fin de subvenciones públicas a partidos políticos y sus fundaciones, sindicatos, patronales y organizaciones de proselitismo ideológico. Partidos y sindicatos deben ser sostenidos con las aportaciones de sus afiliados y simpatizantes.
-    - proposal:
+    - promise:
         id: 938d5913-7a1a-4605-93c4-90ed1d0db383
         title: Contra los lobbies
         page: 20
@@ -970,7 +970,7 @@ index:
         - promise:
             id: 18c9352e-450c-4ac8-896b-597a8aed5365
             text: Anteponer las necesidades de España y de los españoles a los intereses de oligarquías, caciques, lobbys u organizaciones supranacionales.
-    - proposal:
+    - promise:
         id: 7fdbd29c-b008-48de-accb-8ca865d9fce2
         title: Ley de memoria dignidad y justicia para las víctimas del terrorismo.
         page: 20
@@ -979,7 +979,7 @@ index:
         - promise:
             id: 348eeb16-6921-43dc-a104-74cbbd8e5b28
             text: Impedirá de forma efectiva los homenajes a los asesinos, desterrando cualquier recuerdo de los criminales y honrando la memoria de todas las víctimas del terrorismo separatista e islamista, desde los colegios hasta el último de los organismo oficiales.
-    - proposal:
+    - promise:
         id: d2d12723-cef5-40ca-a41b-428ff81641a3
         title: Creación de un memorial de las víctimas del terrorismo.
         page: 20
@@ -988,7 +988,7 @@ index:
         - promise:
             id: a7b22a9d-7085-4d8f-a642-db32f3b3e7c1
             text: Creación de un memorial de las víctimas del terrorismo.
-    - proposal:
+    - promise:
         id: d8ce478a-4361-48ce-bb61-701e13a761fb
         title: Ley anti okupas y anti usura.
         page: 20
@@ -1009,7 +1009,7 @@ index:
         - promise:
             id: c61b5524-ad0a-4469-9224-d0bd36698200
             text: La participación en estas conductas ilegales excluirá de las ayudas sociales.
-    - proposal:
+    - promise:
         id: a54d775e-05c4-4d09-bfe7-58effc708c97
         title: Terrorismo ETA
         page: 20
@@ -1024,7 +1024,7 @@ index:
         - promise:
             id: d3522899-5957-49af-8f92-1160e8f0f595
             text: Modificación de la ley para eliminar la prescripción de los crímenes de terrorismo separatista e islamista.
-    - proposal:
+    - promise:
         id: 58f35fcb-ea64-4237-8887-873ce650a38f
         title: Depuración de responsabilidades políticas e inhabilitacion
         page: 20
@@ -1036,7 +1036,7 @@ index:
         - promise:
             id: 11247d9f-098c-4c67-992e-0344d5eacb66
             text: Inhabilitación de por vida para ocupar cargos públicos a quienes hayan formado parte o apoyado a una organización terrorista o cualquier asociación mafiosa.
-    - proposal:
+    - promise:
         id: 81f69d06-c830-4648-a8a7-8a20b09ad3d6
         title: Víctimas
         page: 20
@@ -1045,7 +1045,7 @@ index:
         - promise:
             id: 3da6fe3f-4ebb-40f6-8681-c220cb72b3e2
             text: Las víctimas serán oídas en las distintas fases del procedimiento, y también en la ejecución de la sentencia.
-    - proposal:
+    - promise:
         id: f8a2091a-a0fd-4884-a88b-b12e542a3aa3
         title: Cadena perpetua
         page: 20
@@ -1054,7 +1054,7 @@ index:
         - promise:
             id: cb18849f-5546-409e-b08f-8ee5e2050b16
             text: Restaurar todo el rigor penal para el terrorismo y los delitos más graves, incluyendo la cadena perpetua.
-    - proposal:
+    - promise:
         id: 886e017d-bab5-42b1-9f76-5c3d71f06542
         title: Soberanía nacional de la justicia
         page: 21
@@ -1063,7 +1063,7 @@ index:
         - promise:
             id: 76092281-ccf3-4659-a5e9-cb5d61deae73
             text: Recuperar la soberanía nacional en la aplicación de las sentencias de nuestros tribunales. Terroristas, violadores y asesinos en serie no volverán a beneficiarse del amparo de organismos europeos, como ha sucedido hasta ahora.
-    - proposal:
+    - promise:
         id: 8ff90c65-f318-4179-a6be-0bbe8d1dd3a1
         title: Privilegios penitenciarios
         page: 22
@@ -1072,7 +1072,7 @@ index:
         - promise:
             id: bfbe3df9-be22-42ba-95c9-b9370c0b418b
             text: Eliminación de los privilegios penitenciarios (salarios, seguridad social) a los presos condenados por terrorismo y a inmigrantes ilegales.
-    - proposal:
+    - promise:
         id: ff566e51-2d68-4392-860a-4ab7a9da5860
         title: Reforma e independencia del Poder Judicial
         page: 22
@@ -1087,7 +1087,7 @@ index:
         - promise:
             id: 4b1661cc-7f4b-492c-8e97-c30b03b3b80c
             text: Supresión del tribunal Constitucional, su funciones las asumirá una sala sexta del Tribunal Supremo
-    - proposal:
+    - promise:
         id: f784008c-166f-4160-a68d-3473f02c1848
         title: Delito de "despilfarro público"
         page: 22
@@ -1102,7 +1102,7 @@ index:
         - promise:
             id: c0241ae1-6a57-41d3-b037-a1e79edf2ee0
             text: Exigencia de devolución de fondos obtenidos irregularmente.
-    - proposal:
+    - promise:
         id: fa8b3fcb-4dc2-457b-95ad-c48d58c0d3fd
         title: Eliminación del Jurado.
         page: 22
@@ -1115,7 +1115,7 @@ index:
     title: Europa e internacional
     page: 23
     children:
-    - proposal:
+    - promise:
         id: 280c7d98-9fa6-4b39-b578-5e6cca7b050e
         title: Nuevo tratado europeo
         page: 23
@@ -1124,7 +1124,7 @@ index:
         - promise:
             id: 0032531f-65b9-4699-8557-e716752ed1db
             text: Impulsar en Bruselas un nuevo tratado europeo, en la línea que defienden los países del grupo de Visegrado en cuanto a fronteras, soberanía nacional y respeto por los valores de la cultura europea y que aumente considerablemente el peso de España en la toma de decisiones, al menos tanto como lo hacía el tratado de Niza.
-    - proposal:
+    - promise:
         id: 01e67731-8410-4e54-a20c-6d748fa1ed6c
         title: Soberania nacional del estado frente a Europa y CC.AA.
         page: 23
@@ -1139,7 +1139,7 @@ index:
         - promise:
             id: ff1cac08-4528-4407-86f1-a9cd663dbae6
             text: Supresión de toda representación política exterior de regiones o municipios.
-    - proposal:
+    - promise:
         id: 83d209af-8631-4717-a258-94f1db28f171
         title: Revisión de la Política Agraria Común (PAC)
         page: 23
@@ -1151,7 +1151,7 @@ index:
         - promise:
             id: 4594a199-914f-4986-a05d-151676fa2ea0
             text: Fomentar que las ayudas conduzcan a la mejora y optimización de la explotación.
-    - proposal:
+    - promise:
         id: 34151bbd-35ca-4d4c-bde9-1765ea995c6b
         title: Fomentar bilateralidad internacional y cristianismo
         page: 23
@@ -1166,7 +1166,7 @@ index:
         - promise:
             id: b3ba71af-4b74-4120-9515-265d54fe3fcd
             text: Creación de una Agencia para la ayuda a las minorías cristianas amenazadas, imitando la iniciativa de Hungría.
-    - proposal:
+    - promise:
         id: 73520624-67e5-46b8-aa35-f76993f22e5f
         title: Cooperación internacional hispánica
         page: 24
