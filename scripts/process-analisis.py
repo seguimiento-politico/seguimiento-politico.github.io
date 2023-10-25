@@ -8,9 +8,10 @@ import yaml
 from termcolor import colored
 import uuid
 
-# PATHS
-data_path = os.getcwd() + '/_data/promises/'
-destination_path = os.getcwd() + '/_data/promises_analysis/'
+# PATHS# PATHS
+app_path = os.path.abspath('..')
+data_path = app_path + './_data/promises/'
+destination_path = app_path + './_data/promises_analysis/'
 
 # get all files
 (_, _ , files) = next(os.walk(data_path))

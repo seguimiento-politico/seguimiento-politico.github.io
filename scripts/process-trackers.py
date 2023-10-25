@@ -8,8 +8,9 @@ import yaml
 from termcolor import colored
 
 # PATHS
-data_path = os.getcwd() + '/_data/tracks/'
-destination_path = os.getcwd() + '/_tracks/'
+app_path = os.path.abspath('..')
+data_path = app_path + '/_data/tracks/'
+destination_path = app_path + '/_tracks/'
 
 #reset destination folder
 if os.path.exists(destination_path):

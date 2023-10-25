@@ -9,9 +9,10 @@ import uuid
 from termcolor import colored
 
 # PATHS
-promises_path = os.getcwd() + '/_data/test_promises/'
-manifestos_path = os.getcwd() + '/_data/test_docs/'
-destination_path = os.getcwd() + '/_data/docs/'
+app_path = os.path.abspath('..')
+promises_path = app_path + '/_data/test_promises/'
+manifestos_path = app_path + '/_data/test_docs/'
+destination_path = app_path + '/_data/docs/'
 
 chapters = []
 promises_cont = 0

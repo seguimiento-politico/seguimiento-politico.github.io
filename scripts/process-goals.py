@@ -7,8 +7,9 @@ import yaml
 from termcolor import colored
 
 # PATHS
-data_path = os.getcwd() + '/_data/promises/'
-destination_path = os.getcwd() + '/_data/categorization/promises_goals.yaml'
+app_path = os.path.abspath('..')
+data_path = app_path + '/_data/promises/'
+destination_path = app_path + '/_data/categorization/promises_goals.yaml'
 
 # get all promises files
 (_, _ , files) = next(os.walk(data_path))

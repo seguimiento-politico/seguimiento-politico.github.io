@@ -7,8 +7,9 @@ import yaml
 from termcolor import colored
 
 # PATHS
-data_path = os.getcwd() + '/_data/documents/'
-destination_path = os.getcwd() + '/_docs/'
+app_path = os.path.abspath('..')
+data_path = app_path + '/_data/documents/'
+destination_path = app_path + '/_docs/'
 
 # get all files
 (_, _ , files) = next(os.walk(data_path))
