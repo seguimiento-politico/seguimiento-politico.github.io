@@ -1,0 +1,1437 @@
+id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+version: 2
+type: goverment_agreement
+parties:
+- PSOE
+- UNIDAS PODEMOS
+election_type: generales
+election_date: '2019-11-10'
+publication_date: '2019-12-30'
+url: https://www.psoe.es/media-content/2019/12/30122019-Coalici%C3%B3n-progresista.pdf
+web_history: https://web.archive.org/web/20200113183843/https://www.psoe.es/media-content/2019/12/30122019-Coalici%C3%B3n-progresista.pdf
+title: Coalición progresista
+description: Acuerdo de gobierno entre PSOE y Unidas Podemos para la Legislatura XIV
+index:
+- declaration:
+    id: 41c61643-178d-43e0-9e3d-1e4d8f9de129
+    page: 3
+    text: Este documento desarrolla el contenido programático del preacuerdo alcanzado entre el PSOE y Unidas Podemos para conformar un Gobierno progresista de coalición que sitúe a España como referente de la protección de los derechos sociales en Europa, tal y como los ciudadanos y ciudadanas han decidido en las urnas.
+- declaration:
+    id: 30dc33f2-020a-4e12-8ff0-17b5e8ceabe8
+    page: 3
+    text: Ambas formaciones comparten la importancia de asumir el compromiso en defensa de la libertad, la tolerancia y el respeto a los valores democráticos como guía de acción del Gobierno, de acuerdo con lo que representa la mejor tradición europea.
+- declaration:
+    id: 8b84b7b8-a55b-4362-b0f7-75b9cba39d87
+    page: 3
+    text: Por ello, los ejes prioritarios de actuación del Gobierno se centran en dar respuesta a los principales retos que tiene ante sí la sociedad española en su conjunto y que se exponen a continuación.
+- declaration:
+    id: 5c0d4b35-e3bd-4269-900c-6bb7d983cde3
+    page: 3
+    text: Este documento y los puntos que en él se recogen son Acuerdos de Gobierno para toda la legislatura. Los Presupuestos Generales del Estado que se desarrollarán a lo largo de la misma se elaborarán tomando como base este documento y los consensos adquiridos en los últimos tiempos, adaptándolos al nuevo contexto macroeconómico.
+- chapter:
+    title: Consolidar el crecimiento y la creación de empleo de calidad
+    children:
+    - declaration:
+        id: 3b012b41-33fa-4c53-9ed6-b8d5f5bba92a
+        page: 4
+        text: Se desarrollará una política económica orientada a potenciar el crecimiento sostenible y la creación de empleo, garantizando la estabilidad financiera y fiscal, desarrollando una política social activa que reduzca la desigualdad, combata la precariedad del mercado laboral, garantice un trabajo digno, estable y de calidad, y unas pensiones justas, e impulsando las transformaciones estructurales que posibiliten el crecimiento potencial, la productividad, la capacidad de creación de empleo de calidad y la competitividad de la economía española con el objetivo de modernizar el sistema productivo, hacer efectiva la transición ecológica y sentar las bases de un crecimiento sostenible e inclusivo.
+    - promise:
+        id: d89a9800-09c9-11ed-a0d2-6fd1e8b9a6a8
+        page: 4
+        text: Reforzaremos los instrumentos para reducir la desigualdad y mejorar la cohesión social en todo el territorio nacional, mediante una mejora de las políticas de empleo, una política activa de vivienda, la protección de las familias, una estrategia nacional frente a la despoblación y el reto demográfico y la protección del estado de bienestar, con especial atención a las personas más vulnerables, y a los niños y niñas."
+    - promise:
+        id: 74cbc2a0-0432-11ed-83f1-c5dbc0b596f7
+        page: 4
+        text: Elaboraremos, previo diálogo con los agentes sociales, un nuevo Estatuto de los Trabajadores que compagine la protección de los trabajadores y trabajadoras frente a los desafíos sociales, tecnológicos y ecológicos del siglo XXI y el reconocimiento de nuevos derechos."
+    - promise:
+        id: a30a6e10-a023-4e36-9901-ffdd776d6f9e
+        title: Derogaremos la reforma laboral
+        text: 'Recuperaremos los derechos laborales arrebatados por la reforma laboral de 2012. Impulsaremos en el marco del diálogo social la protección de las personas trabajadoras y recuperaremos el papel de los convenios colectivos. En concreto y con carácter urgente: <br>- Derogaremos la posibilidad de despido por absentismo causado por bajas por enfermedad. <br>- Derogaremos las limitaciones al ámbito temporal del convenio colectivo, haciéndolo llegar más allá de las previsiones contenidas en el mismo, tras la finalización de su vigencia y hasta la negociación de uno nuevo. <br>- Derogaremos la prioridad aplicativa de los convenios de empresa sobre los convenios sectoriales. Asimismo, <br>-Modificaremos el art. 42.1 del Estatuto de los Trabajadores sobre contratación y subcontratación laboral a efectos de limitar la subcontratación a servicios especializados ajenos a la actividad principal de la empresa. <br>-Limitaremos la capacidad de modificación unilateral de las condiciones del contrato por parte de la empresa. <br>-Revisaremos el mecanismo de inaplicación de los convenios colectivos, orientándolo a descuelgue salarial vinculado a causas económicas graves.'
+    - promise:
+        id: 810e8690-09ca-11ed-a0d2-6fd1e8b9a6a8
+        page: 5
+        text: Subiremos el Salario Mínimo Interprofesional hasta alcanzar progresivamente el 60% del salario medio en España tal y como recomienda la Carta Social Europea. Se convocará la mesa del Dialogo Social al objeto de promover un acuerdo que será la base para la propuesta del Gobierno. Se creará una Comisión asesora del Ministerio de Trabajo y a disposición del Diálogo Social, compuesta por profesionales de reconocido prestigio, académicos y representantes de los sindicatos y empresarios, que estudiará la evolución del Salario Mínimo Interprofesional. Para su análisis se tendrán en cuenta, entre otras cuestiones, el índice de precios de consumo, la productividad media nacional alcanzada, el incremento de la participación del trabajo en la renta nacional, y la coyuntura económica general."
+    - chapter:
+        title: Contratación.
+        children:
+        - declaration:
+            id: e3050b54-e989-4662-90fd-52b830d64aa0
+            page: 6
+            text: 'Impulsaremos el diálogo social para abordar, entre otras, las siguientes tareas:'
+        - promise:
+            id: 943b04c1-0759-428c-b647-2a7d83cbc409
+            page: 6
+            text: Revisión de los contratos formativos y aprobación y desarrollo del Estatuto del Becario para que su uso responda a finalidades exclusivamente formativas. Impulsaremos la mejora de sus retribuciones y limitaremos el encadenamiento de periodos de prácticas y estableciendo un porcentaje máximo de becarios y becarias en las empresas.
+        - promise:
+            id: 764d085c-1f77-47b8-af15-da17a3d7d877
+            page: 6
+            text: Recuperar los derechos laborales en los procesos de modificación sustancial de las condiciones de trabajo, revisando las causas y el procedimiento, garantizando su reversibilidad y su carácter negociado.
+        - promise:
+            id: e575c54f-5c29-4085-a4b8-51aa85d8dce9
+            page: 6
+            text: Simplificar y reordenar el menú de contratos de trabajo.
+        - promise:
+            id: ea091384-7706-4160-95c8-bc1521c891b6
+            page: 6
+            text: Reforzaremos el principio de causalidad en la contratación temporal y las sanciones aplicables a su uso fraudulento de forma que la contratación indefinida sea la forma ordinaria de acceso al empleo, promoviendo las reformas legislativas necesarias para ello. Explorar las opciones posibles para reducir la dualidad, favoreciendo el uso del contrato fijo discontinuo para actividades cíclicas y estacionales. Reforzar el control de la contratación a tiempo parcial, en especial en lo relativo a la distribución irregular del tiempo de trabajo contratado. Para ello, revisaremos la normativa sobre trabajo a tiempo parcial, para prevenir su uso fraudulento y para garantizar efectivamente que las condiciones de trabajo y los derechos laborales de los trabajadores y trabajadoras a tiempo parcial son iguales a los de los contratados a tiempo completo.
+        - promise:
+            id: c30bc540-de17-45fc-9c3d-a7ee59086cbf
+            page: 6
+            text: Intensificaremos las actuaciones de la Inspección de Trabajo y Seguridad Social, particularmente en materia de tiempo de trabajo y de economía irregular. También se endurecerá el régimen de infracciones y sanciones aplicables frente a eventuales incumplimientos por parte de las empresas.
+        - promise:
+            id: 640d3a3b-9aba-4e34-a127-76adade7a934
+            page: 6
+            text: Reforzaremos la obligación de constancia expresa del horario de trabajo en el contrato a tiempo parcial.
+        - promise:
+            id: 18e28a6b-259a-4502-87d6-e52e432eee94
+            page: 6
+            text: Revisar las causas del despido para hacer más precisa la definición de las causas económicas, técnicas, organizativas o de producción y reforzaremos el papel de la ITSS y la utoridad laboral en el control de los despidos colectivos y en otros expedientes de regulación de empleo.
+    - promise:
+        id: 107186c0-09cb-11ed-a0d2-6fd1e8b9a6a8
+        page: 6
+        title: Impulsaremos la lucha contra el fraude laboral
+        text:  'Para ello apostamos por el uso de las nuevas tecnologías, automatizando y conectando procesos y Big Data de diversas unidades administrativas y reforzando el sistema de control y sancionador. Los esfuerzos se centrarán en tres áreas: <br>1) el abuso de la contratación temporal concatenada sobre un mismo trabajador o trabajadora, o un mismo puesto de trabajo; <br>2) el uso fraudulento del contrato a tiempo parcial con jornadas no declaradas y <br>3) identificaremos relaciones extra laborales que deberían articularse a través de contratos de trabajo como por ejemplo falsos autónomos, falsos cooperativistas y falsos becarios. Perseguiremos el fraude de los falsos autónomos, prestando especial atención a las situaciones en las que los ingresos obtenidos por los trabajadores y las trabajadoras procedan de un único cliente o empleador.'
+    - chapter:
+        title: Políticas activas de empleo y sistema de desempleo
+        page: 6
+        children:
+        - promise:
+            id: 3da692b7-61e6-47e6-bf0d-ecd04d1f21e3
+            page: 6
+            text: Mejoraremos en coordinación con las comunidades autónomas la efectividad y la eficiencia de las políticas activas de empleo y simplificaremos el sistema de protección por desempleo.<br>Profundizaremos el cambio de modelo laboral y salarial basado en una política de rentas progresista, el desarrollo de sectores industriales y de servicios, desde un modelo sostenible. Esta tarea se realizará sobre la base de las recomendaciones que se deriven del proceso de evaluación de políticas públicas realizada por la AIReF.
+        - promise:
+            id: 21bbe48f-d634-4968-a67b-765ca6c790fe
+            page: 6
+            text: Impulsaremos las políticas activas de empleo y simplificaremos el sistema de protección por desempleo.Garantizaremos una atención individualizada, profesional e integral a los desempleados y desempleadas, dirigida a su rápida reincorporación al mercado de trabajo, prestando especial atención a los jóvenes, parados de larga duración y a los supuestos de exclusión social. Las políticas activas de empleo garantizarán que las ofertas de colocación sean adecuadas a las aptitudes y los perfiles formativos\r\nde las personas desempleadas.<br>Mejoraremos el sistema de protección por desempleo mediante una reordenación y simplificación que refuerce la protección de las personas desempleadas que lo necesiten"
+    - chapter:
+        title: Economía Social
+        children:
+        - promise:
+            id: beb027a0-09cb-11ed-a0d2-6fd1e8b9a6a8
+            page: 7
+            title: Plan Nacional de Emprendimiento Social. 
+            text: Con el objetivo de impulsar el diseño y puesta en marcha de políticas públicas específicas que apoyen a los emprendedores sociales para diseñar, consolidar y gestionar sus proyectos sociales, poniendo el foco en aspectos clave como la diversidad y la inclusividad.
+        - promise:
+            id: 5e8b05bb-5cc9-48be-9989-bbc5b06499ea
+            page: 7
+            title: Apoyo a las empresas de economía social. 
+            text: Como modelo de empresa sostenible, integradora y generadora de empleo de calidad, mejoraremos la coordinación y coherencia de acción desde los diferentes Departamentos ministeriales.
+    - promise:
+        id: 1cda0081-fb53-443a-996d-2388f78263a4
+        page: 7
+        title: Actualización de la legislación de prevención de riesgos laborales. Para ello se actualizará el catálogo de enfermedades profesionales, así como el procedimiento de notificación del accidente de trabajo. Además, se evaluará con especial atención la prevención de nuevos riesgos asociados al uso de las TIC, los psicosociales y de determinadas sustancias químicas dañinas para la salud, así como la creciente digitalización y robotización y las nuevas formas de organización del trabajo. Asimismo, se incorporará la perspectiva de impacto de género en la prevención de riesgos laborales.
+    - chapter: 
+        title: Conciliación de la vida laboral, familiar y personal y corresponsabilidad en el tiempo de trabajo. 
+        children:
+        - promise:
+            id: 6bf04fcf-6193-47c1-ade0-d82ffa6ac797
+            page: 7
+            text: Para favorecer la conciliación de la vida laboral, familiar y personal, y la necesaria corresponsabilidad entre hombres y mujeres, promoveremos un pacto social y político por la racionalización de los horarios, que incluirá una Ley de usos del tiempo y racionalización de los horarios. Todo ello nos permitirá reorganizar completamente los tiempos de trabajo, ocio y cuidados.
+        - promise:
+            id: b3d679aa-2529-4cf1-b10c-213603d41341
+            page: 7
+            text: Derecho a la desconexión y la adecuada gestión del tiempo de trabajo dentro de la normativa laboral, así como a la protección efectiva en casos de embarazo y lactancia.
+        - promise:
+            id: a0a38639-a787-4466-8701-fe53e22bbf4c
+            page: 7
+            text: Ratificación de la Carta Social Europea revisada y el Protocolo adicional a la Carta Social Europea y el Convenio 190 de la OIT sobre la eliminación de la violencia y el acoso en el mundo del trabajo, de 21 de junio de 2019.
+    - promise:
+        id: 7851178e-8d22-4dab-a0a1-91bcc0eb0e4d
+        page: 7
+        text: Empleadas del hogar. Culminaremos con carácter prioritario la plena integración en el Régimen General de la Seguridad Social de las empleadas del hogar a lo largo de la legislatura. Firmaremos y ratificaremos el Convenio número 189, de 2011, de la Organización Internacional del Trabajo sobre las trabajadoras y los trabajadores domésticos.
+    - promise:
+        id: 0fec8321-0ab6-44d1-a5e4-f7c42806dc8e
+        page: 7
+        text: Programa de Retorno de personas emigradas. Pondremos en marcha Programas de Retorno de personas emigradas para recuperar a quienes salieron de nuestro país en busca de un empleo y que son tan necesarios para nuestra economía. Haremos especial énfasis en los jóvenes que han tenido que emigrar en los últimos años y los investigadores e investigadoras que han tenido que abandonar nuestro sistema científico (Retorno del Talento). 
+    - promise:
+        id: 0577b32d-4512-4b15-a2bc-9d95788b0bb5
+        page: 8
+        text: Incentivaremos la titularidad compartida de las explotaciones agrarias a través de la aplicación efectiva de la Ley 35/2011, mejorando la posición de las mujeres del campo dentro del sistema de Seguridad Social, para evitar que queden fuera del sistema las trabajadoras agrarias por cuenta propia, estableciendo mecanismos que permitan su incorporación efectiva al régimen de la Seguridad Social.
+    - promise:
+        id: 5eec3b2a-5188-4d6a-8cd2-8bd45334a786
+        page: 8
+        text: Plan Estratégico de Formación Profesional Dual, incorporando a las empresas con fórmulas flexibles y creando consorcios con la participación de los agentes sociales y la comunidad educativa. <br>- Impulsaremos una nueva Ley de Ordenación de la FP que incluya una regulación específica de la FP Dual y que incorpore en todos los títulos un módulo de digitalización. <br>- Potenciaremos la formación del profesorado en la FP y su estabilidad dentro del sistema educativo.
+    - chapter:
+        title: Reformas del Catálogo de Cualificaciones Profesionales para adaptar las titulaciones a las necesidades laborales de la economía del siglo XXI.
+        children:
+        - promise:
+            id: dfead662-5cd5-49bc-81d4-f95cb6dacb93
+            page: 8
+            text: Actualizaremos, en coordinación con los agentes sociales y colaboración con el sector privado, los contenidos de los títulos actuales (ciberseguridad, robótica colaborativa y avanzada, Big Data y análisis de datos, Fabricación 2D y 3D, realidad ampliada y realidad virtual y conectividad, entre otros), sin olvidar oficios tradicionales de alta cualificación.
+        - promise:
+            id: 8c4e588c-3a15-4be9-b0f6-dfb3220b5599
+            page: 8
+            text: Agilizaremos los procesos de Evaluación y Acreditación de Competencias profesionales adquiridas por la experiencia laboral para darles un reconocimiento más ágil, mejorar la competitividad, las oportunidades de los trabajadores y las trabajadoras e incentivar la formación continua.
+    - chapter: 
+        title: Empleo público 
+        children:
+        - promise:
+            id: fc43c7d8-d347-4b28-a47f-f79f24a5432b
+            page: 8
+            text: 'Desarrollaremos el Estatuto Básico del Empleado Público: mejora para el acceso al empleo público, agilización de los procesos, carrera profesional, evaluación del desempeño y clasificación profesional.'
+        - promise:
+            id: e8bd8df5-408e-4be3-bd66-98d68bd7a8fd
+            page: 8
+            text: Fomentaremos la promoción profesional vertical y horizontal que permita combinar la libre elección de cambio del puesto de trabajo con el cuidado de la riqueza técnica de los equipos estables.
+        - promise:
+            id: 3ff536b3-d86d-49b4-add4-44f9b9565d7b
+            page: 8
+            text: Aprobaremos un Plan de Formación y capacitación de los empleados públicos. Revisaremos el contrato de interinidad en las Administraciones Públicas, evitando su uso abusivo.
+        - promise:
+            id: dd698386-db8a-4b0f-9d61-451be306ddbf
+            page: 9
+            text: Revisaremos el contrato de interinidad en las Administraciones Públicas, evitando su uso abusivo.
+        - promise:
+            id: 2d9e3c89-49dc-4120-94cb-1abfa2739d38
+            page: 9
+            text: Implementaremos la perspectiva de género en las instituciones de la Administración General del Estado para eliminar la discriminación y hacer efectiva la igualdad entre hombres y mujeres.
+        - promise:
+            id: b61d44dc-c21c-461e-ac0f-631e53cd6293
+            page: 9
+            text: Aprobación de una Ley del sector de los Servicios de Prevención, Extinción de Incendios y Salvamento (SPEIS), en el marco del Sistema Nacional de Protección Civil, que establezca los criterios básicos para la coordinación de la actuación de los servicios en todo el Estado y los derechos laborales de este personal, homologando las escalas, categorías y distintivos comunes en las comunidades autónomas y garantizando que la categoría profesional de bombero o bombera sea, como mínimo, C1 en todo el Estado, de conformidad con lo que establece el Estatuto Básico del Empleado Público.
+        - promise:
+            id: 4a4ae41b-adb3-4267-94df-625ed40ec506
+            page: 9
+            text: Aprobación de una Ley de bomberos forestales en el marco del Sistema Nacional de Protección Civil. Esta norma establecerá obligaciones para las Administraciones competentes en relación con la elaboración de planes generales, territoriales, especiales y de autoprotección. También establecerá los derechos laborales del sector mediante la creación del Estatuto Básico de Bomberos Forestales, que reconozca las funciones propias de estos servicios en el medio natural y rural, y los aspectos de salud y prevención de riesgos laborales, así como las categorías profesionales y sus especificaciones de formación.
+        - promise:
+            id: 282f9dff-f12e-4777-bcfa-a4cb3243014c
+            page: 9
+            text: Promoveremos la mejora de la estabilidad y condiciones de empleo en los servicios aéreos de rescate.
+        - promise:
+            id: c190d384-f058-4f70-b637-410e66c25d4e
+            page: 9
+            text: Mejora de los recursos de los servicios de salvamento marítimo, fortaleciendo la estabilidad de su plantilla, su carácter civil y su función exclusiva de salvamento. Policías y Guardias Civiles. Continuaremos la equiparación salarial de la Policía y la Guardia Civil.
+        - promise:
+            id: 8846c7ff-4a23-4fa3-8e74-7f2a449994fa
+            page: 9
+            text: Policías y Guardias Civiles. Continuaremos la equiparación salarial de la Policía y la Guardia Civil.
+- chapter:
+    title: Derechos sociales, regeneración democrática, ciencia e innovación
+    children:
+    - declaration:
+        id: 6daf0d71-f685-47a5-9355-11417756d51a
+        page: 10
+        text: 'Trabajar por la regeneración y luchar contra la corrupción. Proteger los servicios públicos, especialmente la educación –incluyendo el impulso a las escuelas infantiles de cero a tres años–, la sanidad pública y la atención a la dependencia. Blindaje de las pensiones de nuestros mayores: asegurar la sostenibilidad del sistema público de pensiones y su revalorización conforme al coste de la vida. La vivienda como derecho y no como mera mercancía. Apostar por la ciencia como motor de innovación económica y dignificar las condiciones de trabajo del sector. Recuperar talento emigrado. Controlar la extensión de las casas de apuestas.'
+    - chapter: 
+        title: Educación
+        children:
+        - promise:
+            id: 3c23f995-16d4-47d0-89d9-5571d4542da3
+            page: 10
+            text: Derogación de la LOMCE. Aprobaremos una Ley Básica de Educación, que derogue la LOMCE y sus consecuencias negativas, que blinde la educación pública como eje vertebrador del sistema educativo e incorpore los acuerdos alcanzados por la comunidad educativa en estos años, eliminando la segregación escolar, y permitiendo la personalización de caminos formativos a las necesidades de los alumnos y alumnas. Alinearemos la Formación Profesional con el resto del sistema, reforzaremos la formación en valores y el desarrollo de capacidades transversales (soft skills) así como los mecanismos de autonomía y gobernanza de las escuelas. La nueva Ley de Educación garantizará desde sus principios rectores la inclusión y la eliminación de la segregación escolar por las condiciones de origen de los estudiantes, por sus necesidades educativas especiales o por sexo.
+        - promise:
+            id: e02d71eb-f98a-4c48-974f-5a207b5e3f4c
+            page: 10
+            text: Promoveremos la coeducación en todo el sistema educativo, impidiendo la segregación educativa por razón de sexo en los centros sostenidos con fondos públicos. Igualmente se asegurará que todos los centros privados concertados informan al alumnado y familias de que las aportaciones son voluntarias y nunca condicionan la prestación del servicio educativo.
+        - promise:
+            id: 5888289c-5447-42ff-b291-16605de54bac
+            page: 10
+            text: Elaboraremos un Plan contra el fracaso escolar y el abandono escolar prematuro.
+        - promise:
+            id: 68936ac9-1638-4986-9b3a-9ee62ddb6111
+            page: 10
+            text: Se pondrá en marcha un Plan de Mejora de la Convivencia para la Prevención del Acoso (bullying) y la Violencia en los Centros Educativos junto con las comunidades autónomas.
+        - promise:
+            id: a67efd8d-5fb1-4013-83f9-5f9dd80b57c0
+            page: 10
+            text: 'Garantizaremos la gratuidad real y efectiva de la educación obligatoria: libros, material escolar y comedor durante todas las etapas para familias en situación de vulnerabilidad socioeconómica.'
+        - promise:
+            id: 7a746c31-5bdd-4b30-8f1f-991a287798f5
+            page: 10
+            text: Se potenciará la educación afectivo-sexual dentro del sistema educativo, conforme a un enfoque de derechos, de igualdad y libertad.
+        - promise:
+            id: 252c5dfd-4e0d-4110-81a5-69d7177ec164
+            page: 10
+            text: La asignatura de religión será de carácter voluntario para los estudiantes, sin que haya una asignatura alternativa ni la nota sea computable a efectos académicos.
+        - promise:
+            id: 785a2bc9-75e9-4956-b7c0-60aca57b708d
+            page: 10
+            text: La educación y la formación, las instituciones educativas y sus actores se insertarán activamente en la agenda de digitalización que promoverá el Gobierno. Para ello vamos a desarrollar en estos próximos años una Estrategia de Digitalización en Educación y Formación Profesional ambiciosa.
+        - promise:
+            id: 450c234a-e365-4996-90da-8d36bdf25ba0
+            page: 11
+            text: Prestaremos una especial atención al profesorado y a su carrera docente, reforzando la formación inicial, el sistema de acceso a la carrera y promoviendo estabilidad docente y la evaluación del desempeño de manera acordada con los representantes del sector. Garantizaremos al personal docente interino las mismas condiciones laborales que al resto del personal docente, haciendo un esfuerzo continuado por reducir la tasa de interinidad. También se impulsará, de acuerdo con las comunidades autónomas, la prohibición de un esquema de contratación que permita contratar cada curso y despedir en verano.
+        - promise:
+            id: ad278246-0183-4e60-af50-fa37fc90307b
+            page: 11
+            text: Incrementaremos los recursos públicos destinados a la educación y becas. hasta situar la inversión educativa en España en un 5% del PIB en el año 2025. Se apoyará a las comunidades autónomas para que progresivamente se produzca una reducción de las ratios en todos los niveles educativos.
+        - promise:
+            id: 7a396122-3ca7-49fd-8cf7-366608021151
+            page: 11
+            text: Universalización del acceso a la Educación Infantil 0-3 años a través de la red pública en condiciones de equidad. Elaboraremos, conjuntamente con las comunidades autónomas y en el seno de la Conferencia Sectorial, un plan de extensión de la Educación Infantil, con una red pública e integrada de recursos que garantice una oferta suficiente de plazas públicas para todos los niños y niñas menores de 3 años. Esta es una medida que no solo contribuye a reducir la desigualdad y a mejorar la conciliación de la vida laboral y familiar, sino que constituye un potente factor para combatir el fracaso escolar, impulsando el desarrollo personal desde las primeras etapas de la vida.
+        - chapter: 
+            title: Universidades
+            children:
+            - promise:
+                id: f83fbffd-fcf1-4cd2-9c00-09c79d160ada
+                page: 11
+                text: Impulsaremos la simplificación de los procedimientos de acreditación de nuevos títulos académicos, respetando la autonomía universitaria y competencias autonómicas en la materia y fortaleciendo los mecanismos de coordinación entre los organismos involucrados en la verificación.
+            - promise:
+                id: 16a7e591-c624-49d3-9585-bc7931ad34c6
+                page: 11
+                text: Pondremos en marcha un pacto por la universidad con el máximo consenso de los agentes políticos y sociales, que garantice una financiación adecuada y recursos suficientes para modernizar la universidad, ampliar su capacidad de atraer y retener talento, garantizar su acceso en condiciones de igualdad en todos los niveles de formación y adaptarla a las nuevas realidades y necesidades, y garantiza la efectividad de los derechos del personal docente, fomentando su estabilización, investigador y de administración y servicios a través de una nueva Ley Orgánica de Universidades.
+            - chapter: 
+                title: Nueva política de las becas y tasas universitarias.
+                children:
+                - promise:
+                    id: 4dde0795-4c14-447e-84bd-454ea492e89c
+                    page: 11
+                    text: Revisaremos el sistema de becas, garantizando que se consideren un derecho subjetivo según la situación de las rentas familiares, simplificándolo y haciéndolo más ágil, asegurando que la convocatoria se resuelva antes del comienzo de curso y se adelanten los ingresos. Al mismo tiempo se aumentará la financiación de becas y ayudas al estudio con cargo a los Presupuestos Generales del Estado, asegurando que el aumento va destinado a becas concedidas por razones socioeconómicas.
+                - promise:
+                    id: c12bcaf5-c8bd-4cf2-8deb-8472f243ec41
+                    page: 12
+                    text: Trabajaremos por asegurar la igualdad de oportunidades en el acceso a la educación universitaria y para dar certidumbre sobre la cuantía de la beca en el momento de la matriculación, haciendo el sistema más transparente. Además, reforzaremos los instrumentos de financiación para acceso a la universidad, facilitaremos la movilidad y la residencia del alumnado del medio rural en el acceso a los estudios universitarios.
+                - promise:
+                    id: 1080b261-9b88-492f-93b4-c804ebabea7b
+                    page: 12
+                    text: Promoveremos, en el marco de la Conferencia Sectorial, la reducción de las tasas universitarias a los niveles previos a la crisis.
+            - promise:
+                id: 0f41dd35-c567-4a20-a556-374143612d9f
+                page: 12
+                text: Avanzaremos en la reducción de la precariedad y en la progresiva estabilización del profesorado universitario.
+            - promise:
+                id: 8ad8030b-154f-45b3-b7d5-61bafec8b114
+                page: 12
+                text: Estudiaremos las posibilidades de incorporación o vinculación de las enseñanzas artísticas superiores a la educación universitaria en coordinación con la comunidad educativa y artística. Regularemos sus estructuras de funcionamiento, categoría, independencia, autonomía, tipología, denominación de los títulos ofrecidos, estatuto del estudiantado, y estatuto, nivel del cuerpo y régimen retributivo del profesorado, al tiempo que se respeta su idiosincrasia.
+            - promise:
+                id: a925bb2a-b1d6-4f54-a170-cec4797d278d
+                page: 12
+                text: Se flexibilizará el calendario de retorno de la deuda de los parques científicos de las universidades de todo el Estado para permitir su sostenibilidad financiera.
+    - chapter: 
+        title: Sanidad 
+        children:
+        - promise:
+            id: fb7297ba-2f0d-4223-9148-68edafc79c27
+            page: 12
+            text: Procederemos a la eliminación progresiva de los copagos introducidos en 2012 a lo largo de la legislatura, empezando por los pensionistas y los hogares en situación de mayor vulnerabilidad. Estableceremos garantías para que no puedan introducirse otros nuevos que no atiendan a la situación socioeconómica de las personas, incluidos los copagos por el transporte sanitario no urgente, por los productos ortoprotésicos y por los dietéticos, a través de la derogación de los artículos que habilitan estos copagos en el RD-Ley 16/2012.
+        - promise:
+            id: 80fc617a-029a-4136-84fe-d3a0c394b466
+            page: 12
+            text: Introduciremos progresivamente la Atención a la Salud Bucodental de la población en cartera de servicios del SNS. Se elaborará un plan de Salud Bucodental que establezca las prestaciones a cargo del SNS.
+        - promise:
+            id: 063607bf-70be-4540-9605-1b8ec115918f
+            page: 12
+            text: 'Avanzaremos en el blindaje de nuestro sistema público de salud, apostando por una sanidad que se base en la gestión pública directa. Para ello: <br>- Se revisará la Ley 15/1997, de habilitación de nuevas formas de gestión del Sistema Nacional de Salud y el conjunto de los mecanismos normativos que abren la puerta a privatizaciones del sistema. <br>- Se impulsará la recién creada Comisión, integrada por expertos y expertas del ámbito sanitario, organizaciones sindicales, profesionales y de pacientes, así como colectivos sociales, que analizará la situación y definirá las líneas y estrategias para revisar dicha Ley en el plazo de 6 meses.'
+        - promise:
+            id: 6fb1b3fc-e7aa-42c4-a475-6f549707485a
+            page: 13
+            text: En el marco del Consejo Interterritorial de Salud, incrementaremos los recursos destinados al Sistema Nacional de Salud, alcanzando una inversión en servicios públicos propia de otros Estados de la zona euro durante la legislatura, hasta lograr el 7% del PIB en 2023.
+        - promise:
+            id: cf62afb4-490d-4364-84ad-a631a958fcaa
+            page: 13
+            text: Impulsaremos la renovación de la tecnología sanitaria para que el Sistema Nacional de Salud sea referente en innovación tecnológica poniendo a disposición de la ciudadanía los mejores instrumentos diagnósticos y de tratamiento y, más importante aún, porque su inclusión es el único modo de garantizar que la innovación beneficie a toda la ciudadanía de forma equitativa. Dado el desafío financiero que la incorporación tecnológica significa, el SNS apostará por tecnologías coste-efectivas, seguras y cuya eficacia haya sido previamente evaluada.
+        - promise:
+            id: cfdb78d4-7479-49b1-a519-f781407e73bd
+            page: 13
+            text: Apostaremos por la digitalización sanitaria, lo que contribuirá de forma decidida a la sostenibilidad del Sistema Nacional de Salud evitando duplicidades en la realización de pruebas diagnósticas, así como a consolidar un nuevo modelo productivo basado en el conocimiento y la investigación. Las Tecnologías de la Información y las Comunicaciones son fundamentales para que los sistemas sanitarios respondan a los retos relativos al envejecimiento, la mayor prevalencia de las enfermedades crónicas, el aumento de las expectativas de la población y el cambio del patrón de morbilidad que supone la conversión de procesos agudos de elevada mortalidad en procesos crónicos complejos.
+        - promise:
+            id: 7612cff9-1ded-4ab3-a979-b006e30ef612
+            page: 13
+            text: 'Orientaremos las políticas relativas a la industria farmacéutica hacia el cuidado de la salud de la población, priorizando la eficiencia y la transparencia en la fijación de precios.'
+        - promise:
+            id: 8f53b3c7-74cc-431f-a47a-be1efa1f48c3
+            page: 13
+            text: 'Impulsaremos y adoptaremos las modificaciones normativas, legales y reglamentarias necesarias para garantizar la efectividad del derecho a la protección a la salud a través del acceso universal al Sistema Nacional de Salud. El RD-Ley 7/2018, sobre el acceso universal al SNS, se tramitará como una ley, que derogue definitivamente el RD-Ley 16/2012 y que, junto al reglamento que la desarrolle, garantice en todo caso los siguientes extremos: <br>- Trabajar conjuntamente entre la Administración Central y las comunidades autónomas, que son quienes ejercen mayoritariamente las competencias en materia de sanidad, para garantizar homogeneidad en el procedimiento de forma que la asistencia sanitaria será gratuita durante el periodo que existe entre la entrega del documento provisional y la emisión de la tarjeta sanitaria. Esto es, que no exista un periodo de carencia en el que una persona pueda quedarse sin recibir asistencia sanitaria debido a un problema burocrático o a que se pueda producir una interpretación dispar por parte de una administración. <br>- Extender este derecho a las personas ascendientes que llegan desde países extracomunitarios, reagrupadas por sus hijas e hijos con nacionalidad española. <br>- Garantizar la recuperación de la cobertura sanitaria gratuita en nuestro país a los ciudadanos y ciudadanas españoles que residen fuera de España y que no tienen derecho a la asistencia sanitaria reconocido por los países de acogida, o bien ese derecho no es exportable cuando se encuentren en territorio español. <br>- Cualesquiera otros cambios necesarios para garantizar el acceso universal a la atención sanitaria como un derecho subjetivo de todas las personas.'
+        - promise:
+            id: c1d5d316-c155-4ec9-be1e-ea3f4924b793
+            page: 14
+            text: Avanzar en la implementación del Marco Estratégico de Actualización de la Atención Primaria diseñado durante la última legislatura con el concurso de las comunidades autónomas y las sociedades médicas y científicas y de pacientes. Entre las medidas a corto plazo se incluirán actuaciones para resolver el déficit de planificación en materia de profesionales, especialmente por lo que se refiere al ámbito rural.
+        - promise:
+            id: 7f4aa129-37a5-4eac-ae00-93aa4e3898cd
+            page: 14
+            text: Desarrollaremos un sistema de atención temprana que implique el reconocimiento y garantía de un derecho subjetivo a la atención temprana integral, universal, gratuita y pública y sin discriminaciones en virtud del lugar de residencia.
+        - promise:
+            id: 4783706b-7e0c-4508-b7bb-2ce719643219
+            page: 14
+            text: Integraremos las necesidades de las enfermedades raras en la planificación global de la cobertura universal, garantizando el acceso a diagnóstico y tratamiento de todas las personas, independientemente de dónde vivan y la patología con la que convivan.
+        - promise:
+            id: 01c2dace-601f-43be-bdfd-0761f45b13a3
+            page: 14
+            text: Actualizaremos la Estrategia de Salud Mental, con el objetivo de construir un verdadero sistema de atención, con un enfoque de género y derechos humanos, que atienda a los y las pacientes crónicos.<br> Prestaremos especial atención, en colaboración con las comunidades autónomas, al diseño y desarrollo de una estrategia de prevención de la conducta suicida, que incluya un protocolo especial de actuación y que prevea la puesta en marcha de un teléfono de atención público, entre otras medidas.
+        - promise:
+            id: a162d6a8-b809-45d2-8df5-52b86f2eb5ea
+            page: 14
+            text: Mejoraremos las condiciones del personal sanitario agilizando el proceso para garantizar el cumplimiento del II Acuerdo en materia de sanidad e impulsando un programa de retorno de los y las profesionales que han tenido que salir a trabajar en sistemas sanitarios fuera de España.
+        - promise:
+            id: 52f0bb54-7ca9-4f30-b5b6-37affd1fc222
+            page: 14
+            text: Aumentaremos los recursos para dotar el Fondo de Cohesión Sanitaria.
+    - chapter: 
+        title: Servicios sociales
+        children:
+        - promise:
+            id: f055baf9-e747-4bc8-a7a3-81015d9f86c5
+            page: 14
+            text: Garantizaremos una cartera mínima de servicios comunes de gestión descentralizada que potencie la intervención comunitaria través del impulso de una Ley Marco estatal de Servicios Sociales consensuada con las comunidades autónomas. Se tratará de un catálogo de servicios mínimos y comunes de gestión descentralizada, que se coordinarán con otras políticas públicas para proporcionar una atención integral en todas las comunidades autónomas.
+        - promise:
+            id: 87098e84-9869-4988-ba65-093101e5406c
+            page: 15
+            text: Mejoraremos la financiación del Sistema de Atención a la Dependencia para reducir las listas de espera. Impulsaremos la reducción drástica de las listas de espera en todo el territorio nacional con el objetivo de conseguir una disminución a largo de la legislatura de al menos un 75%. Esta inversión, que revierte los recortes llevados a cabo por el Gobierno del Partido Popular en 2012, permitirá además adaptar los servicios a los nuevos avances tecnológicos que, como la tele-asistencia avanzada, contribuirán a alargar más tiempo la vida autónoma de las personas.
+        - promise:
+            id: 16cf732a-ae03-4ae3-82be-2ce4d3a13d45
+            page: 15
+            text: Mejoraremos las cuantías en el nivel mínimo y en el acordado de Dependencia. Se realizará un esfuerzo gradual para mejorar la financiación del nivel mínimo y se recupera el nivel acordado derogado por el Partido Popular. La financiación debe de ser de carácter finalista, a través de la recuperación de los convenios de acuerdos financieros entre Estado y comunidades autónomas que se derogaron en 2012.<br> Se realizará un estudio de las incompatibilidades entre las prestaciones del Sistema de Dependencia, para eliminar aquellas que no hayan demostrado su utilidad.
+        - promise:
+            id: 20436572-d8a5-4828-93d5-fed0c5c14e90
+            page: 15
+            text: Aprobaremos la Estrategia frente a la Soledad no Deseada.
+        - promise:
+            id: bc78c0c8-8e0e-4b14-bbb9-b9ce4f5cb1e6
+            page: 15
+            text: Elaboraremos un Programa de acreditación de calidad de Residencias de Mayores, en coordinación con las comunidades autónomas, que permita garantizar una atención digna a nuestros mayores.
+    - chapter: 
+        title: Pensiones, Inclusión y Seguridad Social.
+        children:
+        - chapter: 
+            title: Garantía de pensiones dignas a través de la suficiencia y revalorización del sistema público de pensiones.
+            children:
+                - promise:
+                    id: 8cede278-da15-4823-94eb-45bdc8959afc
+                    page: 15
+                    text: Plantearemos a todas las fuerzas políticas y a los agentes sociales un nuevo Pacto de Toledo, que garantice la sostenibilidad y suficiencia del sistema público de pensiones.
+                - promise:
+                    id: d07a135d-e261-4d65-8890-275cfa19584f
+                    page: 15
+                    text: Actualizaremos las pensiones conforme al IPC real mediante ley de forma permanente, y aumentaremos el poder adquisitivo de las pensiones mínimas y las no contributivas.
+                - promise:
+                    id: 9d7fc55f-af52-40f1-a57a-b9cb6f3dce57
+                    page: 15
+                    text: Impulsaremos la reducción de la brecha de género en las pensiones y la revisión de las pensiones de viudedad, garantizando la igualdad de trato en los casos de parejas sin vínculo matrimonial.
+                - promise:
+                    id: 97eb3ec3-f590-49b0-9156-511cba32ddae
+                    page: 15
+                    text: Revisaremos el sistema de cobertura de lagunas y determinación de la base reguladora para evitar perjuicios a las personas con carreras profesionales irregulares y el complemento por maternidad para hacerlo más equitativo y evitar la perpetuación de roles de género.
+                - promise:
+                    id: e1c1b536-5967-414d-821e-6202279c25fa
+                    page: 15
+                    text: Reformaremos el Sistema de Seguridad Social, en el marco del diálogo social, y del Pacto de Toledo, con máxima transparencia, para garantizar su sostenibilidad a medio y largo plazo. <br>Se estudiarán y desarrollarán medidas para, entre otras, garantizar el aumento de los ingresos de forma estructural, descargando a la Seguridad Social de gastos impropios, asegurando la sostenibilidad del Sistema.<br>Revisaremos las bonificaciones a la contratación con el objetivo de reducirlas, garantizando el mantenimiento de aquéllas que contribuyen a la inserción en el mercado laboral de los colectivos con especial vulnerabilidad.
+                - promise:
+                    id: 13e9ffbd-bc57-4a04-9c41-27037152188d
+                    page: 16
+                    text: En el marco de esta reforma, eliminaremos el Factor de Sostenibilidad y el Índice de Revalorización de Pensiones de la Seguridad Social previstos en la Ley 23/2013, siempre asegurando la sostenibilidad del sistema a medio y largo plazo.
+                - promise:
+                    id: 920f17a9-bc80-40f7-b495-2d3f2ecfb55c
+                    page: 16
+                    text: Reorganización de la Seguridad Social para dotar de mayor eficacia a la gestión con menores costes.
+        - promise:
+            id: e464ee27-ac07-4860-bedc-b696dce193bc
+            page: 16
+            text: Desarrollaremos el Ingreso Mínimo Vital como prestación de Seguridad Social. Comenzaremos en un primer momento por el aumento decidido de la prestación por hijo/a a cargo para familias vulnerables, y posteriormente mediante un mecanismo general de garantía de renta para familias sin ingresos o con ingresos bajos.
+    - chapter: 
+        title: Políticas de apoyo a las familias.
+        children:
+        - promise:
+            id: 03ba6b0c-aa2b-4cbd-9310-c45dab3ca126
+            page: 16
+            text: Impulsaremos ayudas para comedor y material escolar para combatir la pobreza infantil.
+        - promise:
+            id: 8991c99f-f12d-410f-b7c8-20ea26cc0846
+            page: 16
+            text: Se implementarán ayudas para la conciliación y la racionalización de horarios, garantizando el derecho a la adaptación de la jornada de trabajo, hasta que los y las menores cumplan doce años.
+        - promise:
+            id: 908300e2-926e-4346-9744-bb3098a013c5
+            page: 16
+            text: Protección al 100% de las familias vulnerables en situación de pobreza energética. Se prohibirán los cortes de suministros básicos de agua, luz y gas en las primeras residencias cuando el impago se deba a motivos ajenos a la voluntad de sus titulares, como la pobreza sobrevenida y a las personas que estén padeciendo una situación de vulnerabilidad.
+        - promise:
+            id: 578bb19a-5f19-4ad2-b66b-5a9f98a53064
+            page: 16
+            text: Subiremos el IPREM y estudiaremos objetivar los mecanismos de actualización.
+    - chapter: 
+        title: Derechos de la infancia y la adolescencia.
+        children:
+        - promise:
+            id: 27511a87-e5d7-47d2-bc57-c1e5438e280d
+            page: 16
+            text: Se llevará al Parlamento la Ley para la Protección Integral de la Infancia y la Adolescencia frente a todas las formas de violencia.
+        - promise:
+            id: 6c923aad-b1a7-49db-a071-60f58af0c43b
+            page: 16
+            text: Se creará un consejo de participación infantil estatal.
+    - chapter: 
+        title: Derechos de las personas consumidoras.
+        children:
+        - promise:
+            id: a78056df-a844-44e6-b312-1cb99da07d23
+            page: 17
+            text: Propondremos una modificación de la Ley de seguridad alimentaria para adecuarla a las exigencias contemporáneas de protección a las personas consumidoras y transparencia en su acción.
+        - promise:
+            id: 773f9efb-5520-40d4-a0e3-014eb8f7558d
+            page: 17
+            text: Reduciremos el impacto de la comida basura, al establecer obligaciones claras en el etiquetado, que deberá reflejar la calidad de los productos conforme al modelo del semáforo nutricional, así como una revisión de la fiscalidad de los alimentos ultra procesados o ricos en grasas y azúcares. Además, se impulsará que la compra pública de alimentos para comedores escolares o de hospitales sea un modelo de alimentación de calidad y de cercanía.
+        - promise:
+            id: a359db7d-6396-4980-9c1d-b0e227dcbe48
+            page: 17
+            text: Se mejorarán los mecanismos de resolución extrajudicial de conflictos y el conjunto de la normativa sancionadora de consumo de carácter estatal para que las sanciones sean proporcionales al perjuicio causado a las personas consumidoras.
+        - promise:
+            id: d20c26c8-21e7-4237-843d-31ef5e1f77af
+            page: 17
+            text: Se potenciará la Comisión de Cooperación de Consumo en el seno de la Conferencia Sectorial del Consumo para mejorar la cooperación, la comunicación y la información entre la Administración General del Estado y la de las comunidades autónomas, en aquellas materias que afecten a la defensa de los derechos de las personas consumidoras y usuarias.
+    - chapter: 
+        title: Compromiso de Estado con la ciencia y la inversión en I+D+i.
+        children:
+        - promise:
+            id: 3613ed81-3971-4076-9995-ab89a17cb1e2
+            page: 17
+            text: Aumentaremos la inversión pública en I+D+i civil por encima del incremento del límite de gasto no financiero del Estado y avanzaremos hacia los objetivos comunitarios de inversión total pública y privada. Las cuantías para Ciencia en I+D+i en 2020 se incrementarán en el ámbito civil. Se aumentará el peso de las partidas destinadas a inversión directa respecto al peso relativo de los créditos.
+        - promise:
+            id: 0654261e-5c0f-4281-af43-058620aca675
+            page: 17
+            text: Facilitaremos la contratación de personal en los centros de investigación públicos en las convocatorias para la contratación de doctores e investigadores, aumentando las partidas dedicadas a contratos predoctorales y postdoctorales, mejorando la carrera docente en el sistema universitario español, y reduciendo la temporalidad del profesorado e investigadores.
+        - promise:
+            id: f8d919db-59ad-4a17-96b6-d1636023f290
+            page: 17
+            text: Aumentaremos las becas predoctorales y los contratos postdoctorales en el próximo año, incrementando los contratos de investigadores de forma progresiva y en etapas imprescindibles para el sistema de ciencia.
+        - promise:
+            id: 168f5e81-5c14-498c-87af-f7a459200bfe
+            page: 17
+            text: Continuaremos en la equiparación de derechos del personal investigador predoctoral.
+        - promise:
+            id: 87b156fc-e6c6-4649-b523-3318b6430f27
+            page: 17
+            text: Aprobaremos el Estatuto del Personal Docente Investigador, ligado a la nueva Ley de Universidades, con un modelo profesional, transparente y basado en el mérito y lacapacidad.
+        - promise:
+            id: ec9daaac-d182-41b7-9865-af2d7d6755b4
+            page: 18
+            text: Continuaremos con la estabilización a través de la Oferta Pública de Empleo.
+        - promise:
+            id: e75aca31-e78a-44f9-9db7-32438ed71db7
+            page: 18
+            text: Desarrollo de la Ley de Ciencia 14/2011, con el refuerzo de la transferencia de conocimientos y simplificación del trabajo de los investigadores en los Organismos Públicos de Investigación, el funcionamiento de las oficinas de transferencia de resultados de investigación (OTRIS), el impulso a la investigación aplicada, y complementando la evaluación del desempeño con un sexenio de transferencia de conocimiento que incorpore la aplicación de las investigaciones, las patentes o la participación en proyectos de cooperación. Se revisarán las reglas financieras aplicables a la actividad investigadora.
+        - promise:
+            id: 7df9fb75-8fe5-4d95-9556-a64abaedaed8
+            page: 19
+            text: Aumentaremos los recursos destinados a proyectos de investigación y los orientaremos con carácter plurianual al objeto de poder facilitar el aprovechamiento del talento y la continuidad del personal contratado a cargo de los mismos.
+    - chapter: 
+        title: Vivienda
+        children:
+        - promise:
+            id: 1c8bcbbe-6146-4a2f-9f4a-1dc5d8180aaf
+            page: 18
+            text: Impulsaremos la política de Vivienda con un incremento en la dotación de recursos. El derecho a acceder a una vivienda digna se ha puesto en cuestión en la práctica en nuestro país en los últimos años, especialmente a raíz de la crisis, y a una mala planificación política en materia de vivienda, dando lugar a una situación en la que muchas personas se vieron desahuciadas de sus viviendas. Ahora estamos empezando a asistir de nuevo a un incremento paulatino de los precios de alquiler, singularmente en determinadas zonas del país, lo que pone de manifiesto la necesidad de abordar medidas que permitan que los ciudadanos y ciudadanas que en ellas residan tengan acceso en condiciones razonables a una vivienda digna. Para combatir esta situación se propone ampliar progresivamente el presupuesto actual en materia de Vivienda.
+        - promise:
+            id: 9a650844-a50b-4eb3-97dd-b973a567d066
+            page: 18
+            text: Pondremos en marcha un Plan Estatal para la Rehabilitación de Viviendas, complementario al Plan Estatal de Vivienda, que incluya financiación específica para la vivienda destinada al alquiler, incluyendo a pequeños propietarios que rehabiliten sus pisos y los pongan en alquiler a precios asequibles. El Plan tendrá una duración de cuatro años. El objetivo será la rehabilitación de viviendas para la eficiencia energética, la reducción de la factura de la luz y la accesibilidad. Incluirá el aislamiento térmico, la instalación de sistemas de calefacción y agua caliente eficientes, y la iluminación de bajo consumo.<br> El plan responderá́ a criterios de eficiencia energética y accesibilidad e incluirá́ ayudas destinadas prioritariamente a edificios ubicados en zonas menos pobladas y de colectivos vulnerables. Las empresas también se beneficiarán de este plan de rehabilitación a través de programas de apoyo financiero para la adopción de tecnologías más eficientes.
+        - promise:
+            id: 8b328a61-9fec-4f90-a86c-4f56e9cf2c1e
+            page: 18
+            title: Frenaremos las subidas abusivas del alquiler. <br>Para ello:<br> -Se impulsarán las medidas normativas necesarias para poner techo a las subidas abusivas de precios de alquiler en determinadas zonas de mercado tensionado. Se habilitará a las comunidades autónomas y/o ayuntamientos para que a partir del Sistema Estatal de Índices de Referencia de Precios del Alquiler de Vivienda que está  desarrollando el Ministerio de Fomento puedan establecer su índice de precios de acuerdo a una metodología objetiva y sujeto a revisión periódica. Se tomarán en cuenta los avances de aquellas comunidades autónomas que tengan definido un sistema Referencia de Precios del Alquiler, agilizando los mecanismos que hagan posible su puesta en marcha. <br> -Los ayuntamientos que así lo consideren podrán declarar de forma objetiva y fundamentada en criterios técnicos, con carácter temporal y excepcionalmente, una zona urbana de mercado tensionado cuando se haya producido un incremento abusivo y sostenido de las rentas de alquiler de vivienda habitual, que obstaculice a sus habitantes el acceso y el disfrute de una vivienda a un precio razonable, y, con ello, el ejercicio del derecho a una vivienda. <br> -El objetivo de los índices de referencia mencionado en los párrafos anteriores es que los ayuntamientos y/o comunidades autónomas que así lo consideren puedan regular las subidas abusivas del precio del alquiler en las zonas previamente declaradas tensionadas y a la vez evitar posibles efectos de contracción de la oferta de vivienda en alquiler.
+        - promise:
+            id: 8ff4bde4-57b0-4e46-b6c5-70c373421a86
+            page: 19
+            text: Se impulsarán medidas para asegurar el realojo inmediato en determinadas condiciones de las personas inquilinas que no puedan hacer frente a la renta por carecer de recursos económicos o por situaciones de vulnerabilidad.
+        - promise:
+            id: 9a322427-0170-4d35-b7f9-d5d24a62863a
+            page: 19
+            text: Se fomentará el alquiler social para las personas que, tras haber cedido o perdido en ejecución hipotecaria su vivienda única y habitual, no dispongan de alternativa habitacional. Se estudiarán obligaciones adicionales para los grandes tenedores de vivienda. <br>Se establecerá un informe obligatorio a los servicios de bienestar social en caso de desahucio para que las administraciones puedan ayudar a las familias afectadas con el fin de garantizar una alternativa habitacional.
+        - promise:
+            id: 9a6ee788-8c2c-4935-b92f-8df125742bba
+            page: 19
+            text: Alquiler turístico. El incremento de los precios de alquiler y la limitación de oferta para uso residencial es especialmente grave en algunas ciudades como consecuencia del uso turístico de los alojamientos. Para abordar esta cuestión se impulsarán reformas normativas que permitan que las comunidades de propietarios puedan prohibir el ejercicio de la actividad de alquiler turístico o fijar determinadas condiciones para su ejercicio.
+        - chapter:
+            title: Uso social de la vivienda y parque público.
+            children:
+            - promise:
+                id: b00748df-a4a4-47a5-8fac-1a63a8dd7765
+                page: 19
+                text: 'Se establecerá un marco legal que defina los conceptos de “vivienda vacía” y “gran tenedor de vivienda” y ponga a disposición de las comunidades autónomas y los municipios distintas herramientas para su detección y diagnóstico. Asimismo, se definirá una política específica en esta materia, que permita establecer en los distintos supuestos del fenómeno (inhabitabilidad, grandes tenedores, inseguridad para su alquiler, etc.) las medidas más adecuadas: fiscales, sancionadoras, de aseguramiento o estímulo, para movilizar vivienda vacía, en un marco donde los grandes tenedores de vivienda colaboren con la administración competente para poner a disposición del mercado de alquiler la vivienda vacía a precio razonables.'
+            - promise:
+                id: 3310dd5e-efb9-4140-8ee5-a9c9425fb948
+                page: 20
+                text: Se elaborará un Plan de actuación de SAREB para garantizar la firma de convenios con comunidades autónomas y ayuntamientos que impulsen la utilización de viviendas para alquileres sociales.
+            - promise:
+                id: e552b5f3-c260-4258-8a0b-c0a97c03a0f9
+                page: 20
+                text: Se determinará el carácter social de la vivienda de protección pública con una normativa que garantice su explotación únicamente para alquiler de personas vulnerables, evitando que sean vendidas o explotadas por fondos buitre.'
+        - promise:
+            id: 3725636e-4083-4d5f-8a64-232657f53402
+            page: 20
+            text: Movilizaremos suelo público para vivienda en alquiler social o asequible, con instrumentos financieros a través del ICO y el BEI para la promoción de viviendas en alquiler de los principales agentes (promotores públicos y privados, cooperativas y economía social entre otros) y estimularemos la oferta privada en alquiler.
+        - promise:
+            id: 3565cf42-bfba-49d3-88a3-c47e64402f6e
+            page: 20
+            text: Reorientación del Plan Estatal de Vivienda 2018-2021 para impulsar el alquiler asequible y la rehabilitación en coordinación con las comunidades autónomas, con el objetivo de configurar un parque de vivienda social o sujeta a protección, al servicio de las políticas públicas de vivienda. <br>- Para favorecer la promoción y el uso de vivienda de alquiler social, también vamos a movilizar el suelo público que se encuentre disponible. <br>- Se facilitará una línea de financiación para que las comunidades autónomas que así lo han regulado puedan ejercer los derechos de tanteo y retracto en las transmisiones de viviendas adquiridas. <br>- Medidas de agilización de trámites de concesión de licencias. <br>- Medidas en materia de información y transparencia para dar seguimiento a la información sobre oferta de vivienda en alquiler (precios, disponibilidad de vivienda social o situación del parque de viviendas), así como de la demanda (situación socioeconómica de los hogares, registros de demandantes o dinámicas demográficas). <br>- Se suscribirán convenios bilaterales con ciudades donde se dan situaciones de mercado tensionado que permitan hacer frente a las necesidades específicas en materia de vivienda. En dichos Convenios se establecerán las obligaciones de las partes firmantes.
+        - promise:
+            id: 1e1b161d-9e70-4a75-8680-57466bd36daa
+            page: 20
+            text: Protección a las personas hipotecadas. Impulsaremos nuevas medidas de carácter normativo que refuercen la protección de las personas hipotecadas, la transparencia de las condiciones de contratación y de sus implicaciones económicas y jurídicas.<br> El procedimiento de ejecución hipotecaria deberá garantizar todos los medios de defensa y de prueba para la protección del deudor hipotecario, de acuerdo con lo que establece la normativa europea.<br> Se impulsarán los mecanismos para la reestructuración viable de las deudas hipotecarias sobre la vivienda habitual de los deudores de buena fe en situación de vulnerabilidad. Se reforzará la coordinación entre los órganos judiciales y los servicios sociales en caso de ejecución hipotecaria para evitar las situaciones de desamparo y exclusión residencial.
+        - promise:
+            id: 80609369-9eb3-45cf-8e91-d8608d28d87b
+            page: 20
+            text: Se potenciará el Observatorio de la vivienda con el objetivo de investigar y analizar la situación de la vivienda en España (parque de alquiler privado, vivienda vacía, necesidades habitacionales, situaciones de riesgos de exclusión residencial, etc.), y que permita una auditoría pública de la oferta y calidad de las viviendas públicas.
+        - promise:
+            id: 808f9273-8c20-4a26-8ab6-98d265025a65
+            page: 20
+            text: Se aprobará una estrategia que aborde la problemática del sinhogarismo de forma integral desde el enfoque de derechos en colaboración con las comunidades autónomas y los ayuntamientos.
+    - chapter: 
+        title: Prevención de adicciones.
+        children:
+        - promise:
+            id: f568d3cd-f04b-4acb-b6dc-5aae3ea83db5
+            page: 21
+            text: Regulación urgente de los juegos de azar para prevenir y frenar la ludopatía. <br>- Aprobaremos una regulación de la publicidad de los juegos de azar y apuestas en línea, de ámbito estatal y similar a la de los productos del tabaco. <br>- Introduciremos medidas de información, gestión y limitación del consumo de juegos de azar en el marco regulador de los juegos de azar y apuesta en línea, con el objetivo de reforzar la autoconciencia y autonomía del jugador de cara a prácticas de consumo saludable y para prevenir, anticipar o identificar la generación de patrones de juego problemático. <br>- En el marco de la Conferencia Sectorial impulsaremos criterios homogéneos con las comunidades autónomas para evitar que los locales de apuestas puedan abrir antes de las 22.00h y que limiten su proximidad a centros escolares. <br>- Promoveremos la implicación de los operadores de juegos de azar y apuestas en el desarrollo de acciones de información, prevención, sensibilización y reparación de los posibles efectos indeseables derivados de la actividad de juegos de azar. <br>- Reorientaremos la tasa por la gestión administrativa del juego que pagan los operadores en línea con el fin de destinar un porcentaje a iniciativas preventivas, de sensibilización, de intervención y de control, así como de reparación de los efectos negativos producidos por la actividad del juego. Estableceremos la obligación de que los locales de juego y apuestas abiertos al público cuenten, en su entrada, con un cartel de advertencia sobre los peligros de la ludopatía, con un contenido y proporciones análogas a los que aparecen en las cajetillas de tabaco.
+    - chapter: 
+        title: Regeneración democrática y transparencia.
+        children:
+        - promise:
+            id: 64040a7f-eda8-414d-a55e-561e973197c6
+            page: 21
+            text: Promoveremos acuerdos parlamentarios de consenso que permitan la elección y renovación de los órganos constitucionales y organismos independientes, como en el caso del Consejo General del Poder Judicial, el Defensor del Pueblo, la Presidencia del Consejo de Transparencia y Buen Gobierno y el Consejo de Administración de Radiotelevisión Española. Primaremos en la búsqueda de dichos acuerdos los principios de mérito, capacidad, igualdad, paridad de género y prestigio profesional.
+        - promise:
+            id: 99a172d4-04fa-43ba-ba35-94fe16b19dac
+            page: 21
+            text: Elaboraremos un Plan Nacional contra la Corrupción, que estudiará una reforma del Código Penal. También incluirá la ampliación de las plantillas de las Fuerzas y Cuerpos de Seguridad del Estado destinadas a la lucha contra la corrupción y los delitos económicos.
+        - promise:
+            id: d5278413-1610-4514-a327-4551aa881dfe
+            page: 22
+            text: Aprobaremos una Ley integral contra la corrupción, en la que se incluirá un Estatuto del denunciante. Se incluirán atenuantes en función del delito y las circunstancias de la denuncia.
+        - promise:
+            id: b22a0a91-a408-4b2c-a33d-4fd32c0bf503
+            page: 22
+            text: Abordaremos la regulación de los lobbies para hacer transparente su incidencia política, con registro obligatorio y público de sus entrevistas y agendas.
+        - promise:
+            id: 4d4210f9-1f65-4d9b-80ed-8a3d3686530a
+            page: 22
+            text: Regularemos de manera más efectiva las condiciones de incompatibilidad del desempeño profesional de actividades privadas para los servidores públicos, y endureceremos las sanciones por su incumplimiento.
+        - promise:
+            id: f01d561e-e4ac-4437-b46c-1090eca2ae13
+            page: 22
+            text: Aprobaremos una reforma de la Ley de Transparencia y Buen Gobierno y aprobaremos su Reglamento sobre la base de la experiencia acumulada.
+        - promise:
+            id: 07aecf27-4806-4c9d-9e2d-e07dcc43e1c7
+            page: 22
+            text: Reformaremos la Constitución para limitar los aforamientos políticos, limitándolos al ejercicio de la función por parte del cargo público.
+        - promise:
+            id: e13dbb47-4285-490c-9c03-a801a52189ca
+            page: 22
+            text: Se iniciarán acciones para reforzar la lucha contra los “cárteles” en la contratación pública, para desincentivar los fraudes y compensar el sobrecoste, resarcir los daños provocados y aumentar la transparencia.
+        - promise:
+            id: 14ba3e6f-29e7-4138-8eb4-4a344d8fdfd3
+            page: 22
+            text: Integración de los principios de buen gobierno y responsabilidad social corporativa en el sector público fundacional y empresarial –organismos autónomos, entidades públicas empresariales y agencias estatales-.
+    - chapter: 
+        title: Justicia eficaz.
+        children:
+        - promise:
+            id: 437a6f96-2cf6-47ed-9d9d-3cd89405599d
+            page: 22
+            text: Promoveremos un Pacto de Estado para la Modernización de la Administración de Justicia, que persiga una mayor agilidad en la tramitación de los expedientes judiciales.
+        - promise:
+            id: d9c655f0-4cde-4b05-a8ec-1694ab7decbb
+            page: 22
+            title: Modernizaremos el sistema de acceso a la carrera judicial. 
+            text: Para ello, nos inspiraremos en los mejores elementos de los sistemas europeos de carrera única judicial y fiscal, previendo mecanismos que garanticen la igualdad de oportunidades con independencia del sexo y de la situación socioeconómica de los aspirantes.
+        - promise:
+            id: 0e12efee-fd4f-44ab-9e59-28bbcbb8ac93
+            page: 22
+            text: Sustituiremos el artículo 324 de la Ley de Enjuiciamiento Criminal, eliminando el plazo máximo de instrucción por ser una limitación para la lucha contra la corrupción.
+        - promise:
+            id: 25b75440-c84b-41ff-8777-db8d32f807b1
+            page: 22
+            text: Modificaremos la Ley Orgánica 1/2014, de 13 de marzo, de modificación de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, relativa a la justicia universal.
+- chapter:
+    title: Luchar contra el cambio climático
+    children:
+    - declaration:
+        id: 6e49e96b-86e1-4282-907b-f9ecbca3c0d7
+        page: 23
+        text: La transición ecológica justa, la protección de nuestra biodiversidad y la garantía de un trato digno a los animales.
+    - promise:
+        id: d348a920-042c-11ed-9065-6f942f130ab8
+        page: 23
+        text: Se fijarán objetivos de emisiones de gases de efecto invernadero y energía para vertebrar las políticas energéticas, de transporte, de producción industrial y las urbanas, abriendo, al mismo tiempo, una oportunidad para la generación de nuevas orientaciones socioeconómicas, garantizando la transición justa. El objetivo será alcanzar en 2050 una generación de electricidad con origen 100% renovable, y entre el 85% y el 95% en 2040.
+    - promise:
+        id: 568c7710-0916-11ed-9596-d163a910696f
+        page: 23
+        text: Aprobación del Plan nacional integrado de energía y clima, reforma del mercado eléctrico y bajada de la factura, como principales instrumentos para complementar y desarrollar la ley de cambio climático, estableciendo las sendas a seguir, definiendo el mix energético para el periodo 2021-2030, haciendo el sistema más justo socialmente y dando certidumbre a los inversores antiguos y futuros.
+        children:
+        - promise:
+            id: 223a473f-695d-4b4b-ac29-7524aebfc352
+            page: 23
+            text: Elaboraremos un Plan de Reforma del Sistema Eléctrico que favorezca la transición hacia la descarbonización y unos precios asequibles para el consumidor y las empresas.
+        - promise:
+            id: de0c7eb4-912c-4a19-8ff4-aebb26247bf9
+            page: 23
+            text: Impulsaremos la elaboración de normas legales necesarias para reformar el mercado eléctrico, de forma que la reducción progresiva del coste de las energías renovables se traslade al precio de la electricidad, y se garantice la rentabilidad adecuada y el pleno desarrollo de la expansión de las mismas.Modificaremos los requisitos, reglas y convocatorias de las subastas para la asignación del régimen retributivo específico a nuevas instalaciones de producción de energía eléctrica a partir de fuentes de energía renovable, estableciendo como criterio fundamental el coste de generación de cada tecnología y posibilitando la participación de entidades locales, ciudadanas o cooperativas.
+        - promise:
+            id: 3de9ad3d-81c1-4d2b-99b4-18270d28cf21
+            page: 23
+            text: Realizaremos los cambios normativos necesarios en relación con el funcionamiento del mercado eléctrico para acabar con la sobrerretribución (conocida como “beneficios caídos del cielo”) que reciben en el mercado mayorista determinadas tecnologías que fueron instaladas en un marco regulatorio diferente, anterior a la liberalización y que han recuperado sobradamente sus costes de inversión.
+        - promise:
+            id: 45ee56d7-82ff-4bd7-a0a2-bbb6c963d23c
+            page: 23
+            text: Revisaremos los pagos por capacidad, de manera que se limiten a medidas condicionales, transitorias, sin distorsiones, de último recurso y de acuerdo con el cumplimiento de los objetivos de reducción del precio de la electricidad, excluyendo la posibilidad de incurrir en ayudas ilegales y conforme en todo momento a la normativa europea vigente en la materia.
+        - promise:
+            id: 674bccc3-7413-4e2e-93fe-ab4ee73ca7d3
+            page: 23
+            text: 'Modificar la factura eléctrica con el objetivo de: reducir el porcentaje que representa el término de potencia; que el término variable de la componente regulada sea incremental en función de la energía consumida, de forma que el coste a pagar por las personas consumidoras por los primeros Kw/h sea inferior a los siguientes, incentivando la eficiencia energética.'
+        - promise:
+            id: 3f9d6870-1066-4d42-b7f1-efbf68c778b6
+            page: 23
+            text: Como elemento del Green New Deal implementaremos un Plan de Vivienda Sostenible (desde el punto de vista energético, ecológico y social) ligado a la Estrategia de Rehabilitación de Edificios a Largo Plazo.
+        - promise:
+            id: a4541dc1-7c4b-4489-9d8e-d6bce0f31be5
+            page: 23
+            text: Completaremos la aprobación del Estatuto del consumidor electrointensivo, con el objetivo de potenciar la competitividad y la eficiencia de las empresas con altos costes energéticos, a través de compensaciones y exenciones de pago a cambio de que éstas mejoren su eficiencia energética y que mantengan y generen empleo.
+    - promise:
+        id: eb9eeb50-0914-11ed-9596-d163a910696f
+        page: 24
+        title: Estrategia de transición justa al nuevo modelo energético. 
+        text: Desarrollaremos planes de acción urgente para las comarcas afectadas por el cierre de centrales de carbón y centrales nucleares con calendario conocido, de manera que se definan escenarios estables, predecibles y competitivos para estas áreas, fomentando el desarrollo e inversión en innovación y tecnologías verdes, favoreciendo la formación necesaria para hacer frente a las necesidades del futuro al objeto de asegurar nuevas oportunidades de empleo en   las comarcas afectadas."
+    - promise:
+        id: 1cb6c790-0914-11ed-9596-d163a910696f
+        page: 24
+        title: Estrategia de economía circular. 
+        text: 'Impulsaremos la aprobación de una Ley de plásticos de un solo uso, como parte de la Estrategia de Economía Circular, para alcanzar “residuo cero” en el horizonte 2050. Se desarrollarán aspectos tales como el ecodiseño, la ecoinnovación o la reintroducción de subproductos y residuos como materia prima de otros ciclos productivos. Esto requerirá también nuevas habilidades laborales y empresariales, generando nuevas oportunidades de empleo. Se abordarán igualmente medidas de eficiencia para sectores clave: construcción, agroalimentación, turismo, envases, embalajes, textil, fabricación eléctrica y electrónica.'
+    - promise:
+        id: e7def290-0913-11ed-9596-d163a910696f
+        page: 24
+        title: Regulación y fomento del autoconsumo. 
+        text: Regularemos el autoconsumo compartido y simplificaremos los trámites administrativos y técnicos para autoconsumir sin cargos. Estableceremos reglamentariamente la retribución de la energía vertida a la red por las instalaciones de autoconsumo que deberá ser, como mínimo, igual al valor de mercado mayorista de electricidad. Se continuará trabajando para reparar la situación de los pequeños inversores perjudicados por el cambio regulatorio respecto de la retribución de las renovables.
+    - promise:
+        id: b47887e0-0913-11ed-9596-d163a910696f
+        page: 24
+        title: Creación del Fondo de Compensación de Daños Medioambientales. 
+        text: El Fondo se irá constituyendo a partir de los recargos en las pólizas de seguro obligatorias a los operadores que realicen ciertas actividades económicas susceptibles de ocasionar daños al medioambiente. La finalidad de este Fondo será extender en el tiempo la cobertura de tales daños, de forma que, vencido el seguro, los daños pasan a cubrirse con cargo al Fondo por un tiempo adicional igual al que estuvo vigente la póliza, con un límite de 30 años."
+    - promise:
+        id: 69a84f20-0913-11ed-9596-d163a910696f
+        page: 24
+        title: Bono social, los más vulnerables nuestra prioridad de acción. 
+        text: Estos bonos tendrán el fin último de permitir que cualquier hogar pueda realizar un consumo mínimo de energía. Aprobaremos una reforma profunda del bono social eléctrico y creación un bono general que incluye el bono gasista. El coste del bono social eléctrico, será asumido por las matrices de los grupos de sociedades que desarrollen la actividad de   comercialización de energía eléctrica, o por las propias sociedades que así lo hagan si no forman parte de ningún grupo societario. "
+    - promise:
+        id: ff4ed090-0912-11ed-9596-d163a910696f
+        page: 25
+        title: Plan de movilidad sostenible.
+        text: '- Elaboraremos una Ley de Movilidad Sostenible y financiación del transporte público, poniendo especial énfasis en la sostenibilidad económica de las áreas metropolitanas de las grandes ciudades. <br>- Pondremos en marcha un esquema de ayudas económicas para el vehículo eléctrico, impulsando el vehículo con energías alternativas y medidas encaminadas a promover la instalación de puntos de recarga en zonas urbanas. <br>- Impulsaremos un Programa de Acción 2019-2022 para la Mejora de la Eficiencia y la Sostenibilidad de la Cadena Logística. <br>- Revisaremos el modelo de peajes de la red viaria de alta capacidad encaminado a garantizar la sostenibilidad y el uso eficiente. <br>- Desarrollaremos medidas encaminadas a promover inversiones productivas y sostenibles en los puertos. <br>- Impulsaremos el Plan de cercanías 2019-2025, y otras medidas de apoyo al transporte intermodal. <br>- Aplicación de las Tecnologías de Información y Telecomunicación e Internet de las Cosas para mejorar la interconectividad e intermodalidad'
+    - promise:
+        id: 9693bfc0-0912-11ed-9596-d163a910696f
+        title: 
+        page: 25
+        title: Plan nacional de depuración, saneamiento, eficiencia, ahorro y reutilización de agua.
+        text: '- Apostamos por la racionalización del uso del agua, en línea con la Directiva Europea sobre Calidad del Agua, en un contexto de disminución de la disponibilidad de recursos hídricos como consecuencia de los efectos del cambio climático. <br>- Impulsaremos el Plan Director de Regadíos para desarrollar inversiones en instalaciones y obras en baja que mejoren la disponibilidad y uso sostenible del agua, generando valor añadido y empleo. <br>- Garantizaremos el agua potable y de riego, al tiempo que se protege el medioambiente y se consagra el acceso al agua como un derecho humano y no como un bien mercantil. Se prohibirá, por tanto y como parte de este principio, la compraventa de derechos concesionales del agua. <br>- Llevaremos a cabo el saneamiento de las rías, desembocaduras de ríos y otros lugares de especial riqueza ambiental, económica y social.'
+    - promise:
+        id: 4a86c140-0912-11ed-9596-d163a910696f
+        page: 26
+        title: Aprobaremos una Ley de base reguladora del ciclo integral del agua. 
+        text: Se promoverán además las modificaciones regulatorias que faciliten la gestión pública y directa del agua, en particular por parte de los ayuntamientos, así como la modificación de la normativa de contratación pública para reducir los límites de duración de los contratos futuros de gestión indirecta y el estudio de la reversión de las concesiones que no cumplan con la legislación vigente.
+    - promise:
+        id: 1b4918b0-0912-11ed-9596-d163a910696f
+        page: 26
+        text: Sostenibilidad del sector agroalimentario, forestal y del medio rural. Se llevarán a cabo medidas de asesoramiento de explotaciones agrarias para mejorar la sostenibilidad de la producción ganadera y la conservación de los suelos agrícolas. Igualmente, se revisará el Plan Forestal Español para una gestión y aprovechamiento sostenible de nuestros montes.
+    - promise:
+        id: d6ec5560-0911-11ed-9596-d163a910696f
+        page: '26'
+        text: Ampliaremos la red de espacios protegidos, dotando de financiación adecuada las políticas de defensa de la biodiversidad y la gestión de los espacios naturales, con el objetivo de asegurar los medios necesarios y la generación de empleos en el medio rural. Estableceremos un Plan de Acción contra las especies exóticas invasoras que amenazan la biodiversidad.
+    - promise:
+        id: 9984e1b0-0911-11ed-9596-d163a910696f
+        page: 26
+        text: Elaboraremos un Plan Nacional de Salud y Medio Ambiente, para abordar los crecientes impactos sobre la salud de los cambios ambientales consecuencia de la crisis ecológica."
+    - promise:
+        id: 1d7f9d30-0911-11ed-9596-d163a910696f
+        page: 26
+        text: Actualizaremos la Ley de Costas ante la amenaza real que supone el cambio climático, para aumentar la protección y evitar que continúe la actual destrucción de ecosistemas costeros."
+    - promise:
+        id: 51debfc0-0911-11ed-9596-d163a910696f
+        page: 26
+        text: Respecto a la salud de los océanos. Reduciremos el uso del plástico y se impulsará la lucha contra la pesca ilegal, no regulada y no documentada, así como la ampliación de las áreas marinas protegidas y la trazabilidad de los alimentos procedentes del mar, para fomentar la pesca sostenible.
+    - promise:
+        id: b1cf7bb0-d480-11ec-9b10-a95dcc5ccfd3
+        page: 26
+        text: Impulsaremos una Ley de Bienestar Animal, que garantice una relación respetuosa hacia todos los seres vivos incluyendo la revisión de la fiscalidad de los servicios veterinarios. Estudiaremos la posibilidad de establecer un delito de maltrato de animales salvajes en su medio natural y una revisión de las penas al abandono de animales domésticos, y mejoras en el control de los animales domésticos y en el control de la producción de animales de consumo."
+- chapter:
+    id: 4
+    title: Industria, pymes, autónomos/as y sector primario
+    children:
+    - declaration:
+        id: 21869906-cada-4a31-b71b-48873b4ce181
+        page: 27
+        text: Fortalecer a las pequeñas y medianas empresas y a los/as autónomos/as. Impulsar la reindustrialización y el sector primario. Facilitar desde la Administración las bases para la creación de riqueza, bienestar y empleo, así́ como el impulso digital.
+    - chapter: 
+        title: La revolución digital para impulsar el crecimiento económico y mejorar el bienestar de las personas.
+        children:
+        - promise:
+            id: 949c6b87-d279-4dc9-8903-faa0caf39989
+            page: 27
+            text: Plan para el despliegue de infraestructuras digitales. Completaremos el despliegue de redes liderando la implantación de la nueva tecnología móvil 5G, el desarrollo de aplicaciones en proyectos piloto y pre-comerciales, y la utilización en sectores tractores como salud, automoción, agroalimentario y turismo, “Smart Cities”, movilidad y transporte, procesos industriales, intervenciones quirúrgicas a distancia, salud interconectada, o videojuegos.
+        - promise:
+            id: f3eb62c1-608c-4ce6-be84-17f912937aaf
+            page: 27
+            text: Pondremos en marcha una Estrategia de Formación y Alfabetización Digital que garantice la igualdad de oportunidades en el acceso a la digitalización en todos los niveles del sistema educativo y de la formación de los trabajadores para evitar la exclusión digital.
+        - promise:
+            id: c57d5f40-0177-4e37-bd04-21f75be8fe9c
+            page: 27
+            text: Pondremos en marcha la Estrategia de ciudadanía digital que contemplará diversas medidas, incluido un bono social de acceso a internet para colectivos vulnerables que sea funcional en el actual contexto tecnológico y contribuya a la conectividad en todo el territorio nacional.
+        - promise:
+            id: 241efa12-bb4d-49db-9172-41f193da31a8
+            page: 27
+            text: Impulsaremos la Ley de Derechos Digitales y velaremos por el cumplimiento de la Carta de Derechos Digitales, promoviendo esta acción en Europa.
+        - promise:
+            id: 65a76332-5818-472c-a581-7b8a6b92bc33
+            page: 27
+            text: Inversión en tecnologías prioritarias. Fomentaremos, con programas específicos, la I+D en áreas multidisciplinares prioritarias y tecnologías como la Economía Azul, la Medicina Personalizada o la Inteligencia Artificial.
+        - promise:
+            id: 961dabc2-e741-4404-bde6-2ebf684ec5b3
+            page: 27
+            text: Presentaremos una ambiciosa Estrategia Española de Inteligencia Artificial y promoveremos el desarrollo de las tecnologías habilitadoras, con alto potencial tractor, como el tratamiento de grandes volúmenes de datos, el procesamiento del Lenguaje Natural, la identidad digital, el blockchain, o el “internet de las cosas” entre otras, consolidando el papel de España a la vanguardia de Europa en el ámbito de la Supercomputación en España.
+        - promise:
+            id: 0539650b-7d7a-4516-8e0a-44c6ff674563
+            page: 27
+            text: Revisaremos la prestación de servicio universal para incrementar las conexiones a internet hasta convertirlo en una conexión funcional.
+        - promise:
+            id: 4c67f5bc-356f-46be-9246-fc87ebfb72f0
+            page: 27
+            text: Aprobaremos un Plan de Ciberseguridad y crearemos un Foro nacional de ciberseguridad, para el desarrollo tecnológico y la investigación. Potenciaremos la oficina de coordinación cibernética a nivel nacional, así como la coordinación de las iniciativas de ámbito autonómico y local para reforzar la efectividad de la red en todo el territorio nacional.
+    - chapter: 
+        title: Hacia una administración digital, más abierta y eficiente.
+        children:
+        - promise:
+            id: 1c1f1cdd-13f4-4e1a-ac68-f7f5120a639c
+            page: 28
+            text: Impulsaremos el Plan de Digitalización de la Administración, que incluirá medidas para aumentar la eficiencia y reducir la brecha digital en el uso para la e-administración a través del desarrollo de servicios públicos electrónicos universales y de calidad abiertos, eficientes, flexibles e inclusivos y que sean accesibles a todos los colectivos.
+        - promise:
+            id: 7dd7d09e-1c6f-4dee-a432-196c890fb6af
+            page: 28
+            text: Aprobaremos una reforma de la Ley de Transparencia y Buen Gobierno y aprobaremos su Reglamento para hacerla efectiva.
+        - promise:
+            id: f0bdf29f-97c5-438b-825d-e0774848513f
+            page: 28
+            text: Se extenderá la Carpeta ciudadana, para que cualquier ciudadano o ciudadana pueda acceder a los trámites y todos sus expedientes en relación con la Administración General del Estado en un único espacio web.
+        - promise:
+            id: 1ae61456-44d8-4131-a152-2caf637afd9f
+            page: 28
+            text: Avanzaremos hacia una Administración más abierta. El sector público tiene muchos datos que pueden utilizarse para mejorar vidas, ofrecer servicios públicos eficientes y promover el crecimiento económico, protegiendo adecuadamente la privacidad y los derechos individuales y colectivos de los ciudadanos.
+        - promise:
+            id: 2b2e3525-8b5a-40d2-bb3e-ed2a6fc53753
+            page: 28
+            text: Desarrollaremos las cláusulas sociales y la compra pública innovadora. Integraremos en las licitaciones de los concursos de contratación pública la lucha contra la brecha de género, el reto demográfico, la promoción de PYMES o startups y la compra pública innovadora.
+        - promise:
+            id: 1a7ec3c0-2857-4903-b42e-c8a804e81117
+            page: 28
+            text: Haremos en las empresas públicas programas de inversión para su digitalización, como apuesta de futuro, de forma que empresas como Correos, ENAIRE, AENA, ADIF, Renfe, etc., se conviertan en referentes en la incorporación de las nuevas tecnologías en sus ámbitos de actuación.
+    - promise: 
+        title: Plan de modernización del comercio minorista. 
+        id: d7db3a5a-dd03-41a9-ad28-5c87b5fbe0db
+        page: 28
+        text: Impulsaremos la digitalización y la adaptación a las nuevas tecnologías y a los cambios en los hábitos de consumo en el comercio de proximidad, muy intensivo en mano de obra.
+    - chapter: 
+        title: Fomento del Ecosistema Español de Innovación y apoyo a las PYMES - Estrategia España Nación Emprendedora.
+        children:
+        - promise:
+            id: 65551137-5bd2-4b5f-b7a2-18fb3f2b9393
+            page: 28
+            text: Potenciaremos el papel del CDTI como principal agente dinamizador de la innovación en España e impulsaremos la cooperación entre pequeñas empresas y Centros Tecnológicos desarrollando el programa de Transferencia Cervera.
+        - promise:
+            id: 45584174-aaf3-4708-8994-b17d5952a6a1
+            page: 28
+            text: Habilitaremos distintos instrumentos de apoyo financiero y técnico a la innovación de las PYMES. Se revisará el sistema de incentivos fiscales para mejorar la eficacia, la seguridad jurídica y el acceso de las PYMES. Se adoptará una ley específica de apoyo al ecosistema de empresas de nueva creación de base tecnológica –*Startups*.
+        - promise:
+            id: 6b4b3080-4204-4173-9300-8f68112412f5
+            page: 28
+            text: Apoyaremos la transformación digital de las PYMES, centralizando y proporcionando una ventana única de acceso a los distintos programas públicos de apoyo, a través de la aprobación de un Marco Estratégico PYMES 2030.
+    - promise:
+        id: 0d26df9b-4c1f-43c0-9ac6-5cc99cc6a56c
+        page: 29
+        title: Plan de Acción para la Internacionalización 2020-2021. 
+        text: Modernizaremos e impulsaremos los instrumentos de apoyo financiero a la internacionalización, con el objetivo de diversificar las áreas geográficas y sectores de destino de las exportaciones de bienes y servicios españoles, introduciendo también la sostenibilidad como elemento transversal en la política de internacionalización.
+    - promise:
+        id: c0ea32d3-12c4-4abd-adc8-bbce56bc13d3
+        page: 29
+        text: Mejor cobertura y cuotas más justas para los trabajadores y trabajadoras autónomas. Fomentaremos el diálogo social con las organizaciones representativas del trabajo autónomo, y la gradual equiparación de los derechos de este colectivo con los de los trabajadores por cuenta ajena. Se establecerá un sistema de cotización por ingresos reales, sobre la base de la información fiscal, que les comportará mayor protección social en caso de desempleo, enfermedad o jubilación y que evitará que los y las autónomos que menos ingresan paguen una cuota excesiva y que además redundará en una mayor recaudación para el sistema y contribuirá a reforzar la solidaridad entre autónomos
+    - promise:
+        id: 07ef21da-f015-4dce-9bf9-b77d84ae2808
+        page: 29
+        text: Evaluaremos el actual régimen especial del criterio de caja en el IVA para proceder, en su caso, a su revisión para, dentro de los límites de la directiva armonizada, hacerlo atractivo para autónomos y pequeñas empresas.
+    - promise:
+        id: b2dfe0c4-abc6-427f-a6d4-ce09633ce033
+        page: 29
+        text: Constituiremos el Consejo del Trabajo Autónomo, para asegurar un cauce que garantice la participación en el diseño de las políticas públicas que incidan sobre el trabajo por cuenta propia, dando cumplimiento a la Ley 20/2007, de 11 de julio, del Estatuto del Trabajo Autónomo.
+    - promise:
+        id: 5d655a0e-e05d-4ab5-8f57-bf7e78fc6f02
+        page: 29
+        title: Plan de Desarrollo Industrial. 
+        text: Elaboraremos un Plan de Desarrollo Industrial con el horizonte 2030 para la transición ecológica y la descarbonización, que permita maximizar las oportunidades, mejorar la competitividad de la industria y crear empleo de calidad y prosperidad, contribuyendo a incrementar la aportación de la industria al PIB.
+    - promise:
+        id: a514115e-1765-41ac-bdd2-de1927f62cfd
+        page: 29
+        text: Se perseguirán las prácticas de competencia desleal y/o abuso de posición dominante de las grandes empresas multinacionales que, en ocasiones, perjudican a los autónomos y PYMES.
+    - promise:
+        id: ea7671f2-edcf-407a-b7f3-9213a1d0d076
+        page: 29
+        text: Actuaremos de forma efectiva contra las deslocalizaciones y activaremos los recursos del Estado para facilitar la continuidad y permanencia de aquellas empresas que sean una fuente crítica o fundamental de empleo en sus comarcas. Además, impulsaremos la recuperación de zonas desindustrializadas en colaboración con los sectores afectados.
+    - promise:
+        id: 9e5853aa-0784-4e74-bb93-22c5c7914859
+        page: 30
+        title: Estrategia de Turismo Sostenible 2030. 
+        text: Con la participación de las comunidades autónomas y de los principales agentes económicos y sociales del sector, consolidaremos la posición del sector Turismo en España basado en la sostenibilidad y en la implementación de la inteligencia turística.
+    - promise:
+        id: fa4df06e-607a-408e-8f18-29ac37e649af
+        page: 30
+        text: Defenderemos una Política Agraria Común (PAC) suficientemente dotada para garantizar la triple sostenibilidad económica, social y medioambiental de las explotaciones agrícolas, ganaderas y forestales españolas durante todo el periodo financiero 2021-2027 y definiremos e implementaremos un Plan Estratégico Nacional para la PAC post 2020 que tenga en consideración todas las necesidades de la agricultura, la ganadería, la selvicultura y el medio rural y el apoyo a la agricultura familiar y profesional.<br> Impulsaremos el papel de las mujeres en el medio rural, como titulares de explotaciones agrícolas y ganaderas y también como emprendedoras en pequeñas y medianas empresas, y como integrantes y líderes de organizaciones y cooperativas en el medio rural.
+    - promise:
+        id: 53533557-5381-4ce9-8843-04b90e9c6cc5
+        page: 30
+        text: Favoreceremos la compra pública de alimentos de proximidad y con criterios ecológicos para potenciar la agricultura como un puntal de desarrollo rural. Se apoyará la incorporación de criterios ecológicos en la contratación pública, así como la compra pública de alimentos de proximidad. Para ello, el Gobierno impulsará, en un plazo no superior a 8 meses, una reforma de la Ley 9/2017 de Contratos del Sector Público que favorezca la compra pública de alimentos de proximidad tanto en organismos de la Administración General del Estado como de las comunidades autónomas y corporaciones locales, de acuerdo con las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE. En esta reforma se incorporará la compra prioritaria de alimentos de proximidad como uno de los posibles criterios medioambientales y sociales a considerar por los órganos de contratación para la evaluación de las ofertas.
+    - promise:
+        id: eb274aa9-a548-41c8-ac2c-0dee7187d3b8
+        page: 30
+        text: Impulsaremos una política forestal sostenible, que contribuya al desarrollo económico del sector, creando riqueza y empleo de calidad en las zonas rurales, al tiempo que permita preservar el paisaje, la biodiversidad y la riqueza medioambiental.
+    - promise:
+        id: 0dcfdbae-5faa-4a50-b985-01a6e4a62711
+        page: 30
+        text: Reforzaremos las medidas de prevención contra los incendios forestales, implicando a todos los agentes y administraciones involucrados.
+    - promise:
+        id: 4774e485-bacc-469b-b242-28f410ba0451
+        page: 30
+        text: 'Impulsaremos una pesca y acuicultura sostenibles, basada en el conocimiento, la innovación y la investigación científica, que permita una explotación sostenible económica, social y medioambientalmente de nuestros recursos pesqueros. Además, se impulsarán las siguientes medidas: <br>- Ratificación del Convenio 188 de la OIT sobre trabajo en la pesca. <br>- Medidas para la defensa y puesta en valor de la pesca artesanal.'
+- chapter:
+    id: 5
+    title: Nuevos derechos y memoria democrática
+    children:
+        - declaration:
+            id: c9135942-a372-45d6-a590-d026be4b599a
+            page: 31
+            text: Aprobación de nuevos derechos que profundicen el reconocimiento de la dignidad de las personas como el derecho a una muerte digna, a la eutanasia, la salvaguarda de la diversidad y asegurar España como país de memoria y dignidad.
+        - promise:
+            id: 14294add-5cd3-43fc-8853-b8d936b17a5a
+            page: 31
+            title: Derecho a muerte digna y regulación de la eutanasia. 
+            text: Daremos una respuesta jurídica, sistemática, equilibrada y garantista a las demandas sostenidas de la sociedad actual en relación con el final de la vida. Para ello, impulsaremos una Ley de derechos y garantías de la dignidad de la persona ante el proceso final de su vida, así como la Ley Orgánica de Regulación de la Eutanasia, y su inclusión en la cartera común de servicios del Sistema Nacional de Salud.
+        - chapter: 
+            title: Derechos de las personas con diversidad funcional.
+            children:
+            - promise:
+                id: 2167f72a-9598-47d4-8996-03fb7cc7b227
+                page: 31
+                text: Desarrollaremos la Ley 27/2007 por la que se reconocen las lenguas de signos españolas y se regulan los medios de apoyo a la comunicación oral de las personas sordas, con discapacidad visual y sordociegas, a fin de garantizar de manera efectiva sus derechos.
+            - promise:
+                id: 8f3ecacc-35fb-478a-85e7-0f6057508d35
+                page: 31
+                text: Extenderemos a los menores de 18 con discapacidad las exenciones de copago previstas en la normativa actual.
+            - promise:
+                id: 67bfd95d-fa8c-4756-8656-726fa96166a3
+                page: 31
+                text: Se mejorará el sistema de prestaciones por material ortoprotésico para las personas con diversidad funcional que lo requieran.
+        - promise:
+            id: 22ca0775-fdc9-4020-8752-67862cb9f22f
+            page: 31
+            text: Reconocimiento y protección de la diversidad familiar. Elaboraremos una Ley que responda y proteja a las diferentes estructuras familiares. En concreto, se protegerá las familias monomarentales y monoparentales (encabezadas en más de un 82% por mujeres), las familias numerosas, las de partos múltiples y las familias acogedoras, adecuando las ayudas y prestaciones a la situación de necesidad según tamaño, características y rentas familiares. De esta manera, garantizaremos la protección efectiva de las distintas realidades familiares elegidas con libertad, con medidas de apoyo a la adopción a familias LGTBI, reconocimiento de la filiación de las parejas de mujeres lesbianas y protección jurídica de las nuevas formas de convivencia estables sin ser pareja.
+        - chapter: 
+            title: Recuperación de nuestra memoria democrática.
+            children:
+            - promise:
+                id: f090c1e8-e330-4ea7-9892-59215b8ee046
+                page: 31
+                text: Desarrollaremos actuaciones de reconocimiento y reparación de las víctimas de la Guerra Civil y la Dictadura, declarando el 31 de octubre como día de recuerdo para todas las víctimas del franquismo, y el día 8 de mayo como el día de reconocimiento a las víctimas del exilio.
+        - promise:
+            id: 50021c41-70db-45da-868f-2b49f00dc1f4
+            page: 31
+            text: Implementaremos un programa de exhumaciones de las víctimas del franquismo que continúan en fosas comunes.
+        - promise:
+            id: df27c4d3-1620-4888-a291-bb4118de4cda
+            page: 31
+            text: Retiraremos la simbología franquista de los lugares públicos y estableceremos la prohibición de la exaltación y enaltecimiento del franquismo en lugares de acceso público. Del mismo modo, estudiaremos todas las vías legales para retirar las condecoraciones y prestaciones asociadas, concedidas a personas que protagonizaron actos criminales no juzgados durante el franquismo.
+        - promise:
+            id: e600acd5-f799-4620-bbe2-b6d9cb3e24c5
+            page: 32
+            text: Declararemos nulas las condenas y sanciones de tribunales, jurados y otros órganos penales, administrativos o militares dictadas durante la guerra civil española o la dictadura por motivos políticos, ideológicos, de creencia o de orientación sexual, identidad o expresión de género.
+        - promise:
+            id: c3e4942c-8fca-4626-87df-ff8426d107a3
+            page: 32
+            text: Auditaremos los bienes expoliados por el franquismo para devolverlos a sus legítimos titulares, como la recuperación inmediata del Pazo de Meirás para el patrimonio público.
+        - promise:
+            id: 12f550e7-31ed-4c14-a351-5d7e3d6d34ad
+            page: 32
+            text: Aprobaremos una Ley sobre Libertad de Conciencia que garantice la laicidad del Estado y su neutralidad frente a todas las confesiones religiosas.
+        - promise:
+            id: fdb5dd4b-a695-471e-ad71-f97445c2b83f
+            page: 32
+            title: Derechos y libertades civiles. 
+            text: Aprobaremos una nueva Ley de seguridad ciudadana, que sustituya a la “Ley mordaza" para garantizar el ejercicio del derecho a la libertad de expresión y reunión pacífica. Esta nueva legislación, que verá la luz a la mayor brevedad, estará basada en una concepción progresista de la seguridad ciudadana y priorizará la garantía de derechos y la protección de la ciudadanía, y en particular regulará, entre otros, el Derecho de reunión, la identificación y registro corporal, la identificación de los agentes, y la derogación del artículo 315.3 del Código Penal.
+        - chapter: 
+            title: Sistema electoral.
+            children:
+            - promise:
+                id: 62dbbfce-0869-4da4-a816-41bc9abdd20b
+                page: 32
+                text: Eliminaremos el voto rogado en las elecciones autonómicas, generales, y europeas y municipales.
+            - promise:
+                id: 4a90b63c-eb7e-48fd-bb65-519c5da8d24c
+                page: 32
+                text: Estableceremos listas cremallera en todos los procesos para garantizar la presencia de mujeres en las instituciones.
+            - promise:
+                id: 81ac96ff-2856-48b5-a3e3-c0579c9a9bfc
+                page: 32
+                text: Se trabajará para conseguir un amplio consenso que permita modificar la fórmula electoral para mejorar la proporcionalidad del sistema.
+            - promise:
+                id: 890d8526-b988-49b7-aea6-6a114e64f753
+                page: 32
+                text: En el marco de la Comisión Constitucional del Congreso de los Diputados, abriremos el debate sobre la posibilidad de otorgar el derecho de sufragio activo y pasivo a las personas jóvenes de 16 y 17 años.
+        - promise:
+            id: 6f95859d-fe5d-4eb1-99ff-2c760848c102
+            page: 32
+            text: Impulsaremos una Comisión Estatal de la Memoria Histórica y la Reconciliación con el Pueblo Romaní en España.
+        - promise:
+            id: f08f42e7-3d7f-41f1-ad84-b6b9ee88e98d
+            page: 32
+            text: Desde el respeto escrupuloso a la libertad de expresión e información, impulsaremos una estrategia nacional para la lucha contra la desinformación, que incluirá la elaboración de guías, mejores prácticas y cursos para combatir la desinformación en internet y redes sociales.
+        - promise:
+            id: 7934d019-ba7e-4f13-a87a-5bcc1d33541a
+            page: 33
+            text: Se reconocerá la nacionalidad española a las personas descendientes de progenitores españoles nacidos en el extranjero en cualquier momento. Estas personas podrán optar por la nacionalidad española en caso de que sus madres, padres, abuelas o abuelos adquirieran la nacionalidad del país de acogida. A esto se añaden los casos de quienes perdieron la nacionalidad en el exilio causado por la Guerra Civil y la dictadura, a quienes se les reconocerá con el fin de saldar esa deuda histórica.
+        - promise:
+            id: 890334a8-d01e-4ffc-968e-88166270d9ab
+            page: 33
+            text: Haremos las modificaciones legislativas oportunas para facilitar la recuperación de los bienes inmatriculados indebidamente por la Iglesia basadas en el privilegio de inscribir en el Registro de la Propiedad bienes a partir de simples declaraciones de sus propios miembros.
+        - chapter: 
+            title: Un País Orgulloso de su Diversidad.
+            children:
+            - declaration:
+                id: f7dfe016-c0bb-45d7-93b8-7b5eae8845ae
+                page: 33
+                text: 'Impulsaremos la aprobación de un paquete de medidas en favor de la igualdad de trato, la no discriminación y la valoración positiva de la diversidad:'
+            - promise:
+                id: 100e3dba-b2b4-47f5-bd5a-1f7a37701364
+                page: 33
+                text: Aprobaremos una Ley Integral para la Igualdad de Trato y la no Discriminación.
+            - promise:
+                id: c0170a15-df5d-448a-b2a4-ad82a28569bf
+                page: 33
+                text: Aprobaremos una Ley contra la Discriminación de las Personas LGBTI, incluyendo la prohibición a nivel nacional de las llamadas terapias de reversión.
+            - promise:
+                id: cec01be6-03f1-468a-b8f0-d1b10f7dca2b
+                page: 33
+                text: Una Ley trans que trabaje de forma efectiva para erradicar todas las formas de discriminación hacia las personas trans en todos los ámbitos.
+            - promise:
+                id: 20a87d57-aa1b-42e1-bd2c-6999358d1f04
+                page: 33
+                text: Combatiremos la discriminación de las personas LGBTI en el deporte.
+            - promise:
+                id: 7b2c6cb1-7ce1-44f6-83c7-c7317f1e0fb0
+                page: 33
+                text: Adoptaremos políticas públicas orientadas a mejorar el acceso y la permanencia en la educación y en el empleo de la población gitana.
+            - promise:
+                id: a49e690e-c979-4a29-8b92-da3250595cbe
+                page: 33
+                text: Impulsaremos y fortaleceremos un marco integral legislativo y político que erradique los discursos y los delitos de odio para garantizar la protección de los derechos y libertades de todas las personas, con independencia de sus circunstancias personales o sociales, y con especial atención sobre grupos de especial protección. Garantizaremos el acceso a la justicia y la reparación de los derechos de las víctimas, así como la aplicación efectiva de la Ley del Estatuto de la Víctima, e impulsaremos la formación de todos los operadores jurídicos, administrativos y sociales que intervienen en la respuesta ante estas vulneraciones de derechos humanos.
+            - promise:
+                id: 2d9bf58c-cfe9-4a70-a92a-9a57b4f02d84
+                page: 33
+                text: Seguiremos avanzando en la consolidación del Pacto Social por el Sida, puesto en marcha en noviembre de 2018, impulsado desde el Ministerio de Sanidad, Consumo y Bienestar Social y consensuado con los agentes sociales e institucionales y que incluye medidas para garantizar la igualdad de trato, la no discriminación y los plenos derechos de las personas afectadas.
+- chapter:
+    title: Cultura y deportes
+    children:
+    - declaration:
+        id: f5bb659e-f7ea-473c-ab62-4102179e2871
+        page: 34
+        text: Asegurar la cultura como derecho y combatir la precariedad en el sector. Fomentar el deporte como garantía de salud, integración y calidad de vida.
+    - promise:
+        id: 9f79c5c9-9a56-436f-977e-81367ffcaea4
+        page: 34
+        text:   Impulsaremos un Pacto de Estado por la Cultura, que proteja e impulse la actividad cultural, que contribuya al desarrollo de las industrias culturales y de la creatividad, que permita al sector aumentar su peso en el PIB, que afiance un modelo sostenible de crecimiento y que apoye la creación joven. Aumentaremos de manera progresiva el presupuesto para la Cultura en los Presupuestos Generales del Estado.
+    - promise:
+        id: 7495ab03-af35-40eb-8b75-3c6504ee39f9
+        page: 34
+        text: Completaremos el desarrollo del Estatuto del Artista para mejorar las condiciones de nuestros creadores y artistas, mejorando el reconocimiento de las enfermedades profesionales y su protección, los periodos de creación y formación, así como la transición profesional al final de las carreras artísticas. Actualizaremos los epígrafes del impuesto de actividades económicas y las protecciones por desempleo e impulsaremos protocolos frente a las violencias machistas en el ámbito de la cultura.
+    - promise:
+        id: b2aa4c0d-39a4-408e-9cb8-a085fdafebef
+        page: 34
+        text: Crearemos una Oficina de Derechos de Autoría, dependiente del Ministerio de Cultura y Deporte, para mejorar la gestión de los derechos de autoría y que se encargará de velar por la protección de la propiedad intelectual, teniendo en cuenta el desarrollo del mercado único digital, y por el buen funcionamiento de los órganos de gobierno de las entidades de gestión de derechos de autor. Iniciaremos un diálogo social para mejorar la regulación de la propiedad intelectual, actualizándola a los nuevos hábitos culturales, posibilidades tecnológicas y necesidades de sostenibilidad del sector.
+    - promise:
+        id: c626f365-f106-4f35-84e6-aa9ebbc0bdc1
+        page: 34
+        text: Defendemos un modelo de RTVE plural, independiente, pública, transparente y de calidad, que se convierta en polo de producción, orientada al fomento y difusión de la cultura española, impulsando la renovación del Consejo de Administración mejorando el sistema de concurso público.
+    - promise:
+        id: 8592ad09-dc36-41b6-b97c-dafb526a0669
+        page: 34
+        text: Apoyaremos e impulsaremos la producción y visibilidad de las creaciones artísticas y culturales en nuestras distintas lenguas cooficiales y propias, especialmente en las artes cinematográficas. Del mismo modo, vamos a reforzar la comunicación cultural entre las comunidades autónomas.
+    - promise:
+        id: 3eedc64d-f3a9-479b-9c65-a81c39b9eb2f
+        page: 34
+        text: Trabajaremos en un Pacto por la Lectura que ponga en valor el arco que va de quien escribe a quien lee en el sector del libro.  
+    - promise:
+        id: b84df99c-5b2c-4ccf-8c75-60854a04aa02
+        page: 35
+        text: Impulsaremos un Plan de Acción sobre Igualdad en el ámbito cultural para dar visibilidad a las autoras, artistas y creadoras invisibilizadas, eliminar las brechas de género en este ámbito y para fomentar la igualdad desde las distintas manifestaciones culturales.
+    - promise:
+        id: 14cc0a60-7646-4d82-ab5f-88802dbc34b3
+        page: 35
+        text: 'Definiremos un Modelo del Deporte Español y promoveremos una Ley del Deporte que se acompañará de un Plan Estratégico del Deporte en donde se buscará: <br>- Fomentar el deporte en edad escolar. <br>- Impulsar el deporte universitario. <br>- Apoyar la práctica del deporte como factor de integración e igualdad. <br>- Desarrollar a través del deporte campañas de educación en valores - alimentación y hábitos saludables y sostenibilidad. <br>- Potenciar el deporte femenino con medidas concretas para impulsar sus éxitos tanto a nivel nacional como internacional y para alcanzar la paridad en la práctica y en la gestión del deporte.'
+    - promise:
+        id: 65a56659-975f-4c04-90fd-e6e663eb6b3d
+        page: 35
+        text: Regularemos las profesiones del deporte y se impulsará un plan de formación y empleo para los deportistas antes, durante y después de su etapa deportiva, así como medidas concretas para posibilitar su inclusión en la sociedad.
+- chapter:
+    title: Políticas feministas
+    children: 
+    - declaration:
+        id: 01fddd3c-e2ef-48e5-bb61-a795bcb09305
+        page: 36
+        text: Garantizar la seguridad, la independencia y la libertad de las mujeres a través de la lucha decidida contra la violencia machista, y por la igualdad retributiva, el establecimiento de permisos de paternidad y maternidad iguales e intransferibles, el fin de la trata de seres humanos con fines de explotación sexual y la elaboración de una Ley de igualdad laboral.
+    - chapter: 
+        title: Políticas para garantizar la igualdad entre mujeres y hombres en el empleo y la ocupación.
+        children:
+        - promise:
+            id: 46e56842-0513-4e00-90a1-131385416843
+            page: 36
+            text: Seguiremos trabajando para sacar adelante una Ley que garantice la igualdad retributiva y profundice en la igualdad de trato y de oportunidades entre mujeres y hombres en el empleo y la ocupación, a través, entre otras, de medidas como la transparencia salarial, obligando a las empresas a llevar un libro de salarios. Avanzando también en la implantación de planes de igualdad en las empresas de 50 o más trabajadores, que deberán ser inscritos en el registro que se creará reglamentariamente.
+        - promise:
+            id: c1892987-70d0-47a5-84f9-20191984c6d0
+            page: 36
+            text: Del mismo modo, seguiremos impulsando la equiparación por ley de los permisos de paternidad y maternidad iguales e intransferibles. Lo haremos de forma progresiva, para que estos permisos sean totalmente iguales (16 semanas), intransferibles y retribuidos al 100% en 2021, modificando aquellas trabas actuales que dificultan la no simultaneidad de los permisos. Del mismo modo, desarrollaremos programas para fomentar la paternidad responsable, para avanzar en la corresponsabilidad en el cuidado de las hijas e hijos.
+        - promise:
+            id: 7bf34115-9ef4-42e7-b30c-c793b592c95d
+            page: 36
+            text: Garantizaremos el derecho a la adaptación de la jornada de trabajo, en el caso de personas trabajadoras con hijos o hijas, tras la reincorporación de un permiso de crianza, y hasta que los menores cumplan doce años.
+        - promise:
+            id: 186b6a90-c659-47ae-841d-9cf6a27d7a47
+            page: 36
+            text: Para velar por el cumplimiento de estas medidas, se potenciarán las inspecciones laborales, se incrementará el régimen sancionador y crearemos la Oficina Estatal de lucha contra la discriminación en la Inspección de Trabajo, con especial atención a las que sufren las mujeres, integrada en el Organismo Estatal de Inspección de Trabajo y de Seguridad Social, para supervisar la igualdad en el acceso al empleo, en la promoción profesional, en las condiciones de trabajo, especialmente las retributivas y en el acceso a la formación profesional, tanto del sistema educativo como para el empleo.
+        - promise:
+            id: 69d99a6b-f09e-4e35-8aa8-e414f3a76cdc
+            page: 36
+            text: Asimismo, se adoptarán medidas para garantizar la presencia equilibrada de mujeres y hombres en los términos recogido en la Ley de Igualdad 3/2007 en los organismos y órganos públicos y en los consejos de administración de las sociedades públicas y privadas, de forma progresiva en los próximo cuatro años; y en los órganos de toma de decisiones sobre las condiciones laborales, sobre los procesos electorales, sobre los convenios colectivos o sobre los acuerdos profesionales, como exigen las directivas comunitarias.
+        - promise:
+            id: 8f4a36b3-3d0d-4939-a2aa-e993944ca062
+            page: 
+            text: El avance de la igualdad y de la corresponsabilidad implica una reflexión sobre el uso que damos al tiempo. Por ello vamos a impulsar y aprobar un pacto social y político por la racionalización de los horarios, que queremos acordar con todos los agentes sociales y políticos. Esta es una de las claves -así como la precariedad del empleo, en un sentido más amplio, o los recortes en los servicios públicos- para abordar otro de los grandes retos que tenemos como país, como es el descenso de la natalidad y el reto demográfico. Con todo ello, impulsaremos la Ley de usos del tiempo y racionalización de los horarios.
+    - chapter: 
+        title: Lucha contra la violencia machista.
+        children:
+        - promise:
+            id: 84186131-f6b6-44c4-85bb-bd7faf52fdd0
+            page: 37
+            text: Desarrollaremos todas las medidas pendientes del Pacto de Estado contra la Violencia de Género, incorporando a nuestro ordenamiento lo dispuesto en el Convenio de Estambul para prevenir y erradicar todas las formas de violencia que sufren las mujeres.
+        - promise:
+            id: 32eca555-47f5-4777-ae8d-acd0541a4bd2
+            page: 37
+            text: Tomaremos como una cuestión de Estado la libertad y la reparación de las mujeres que sufren violencias machistas y, para ello, desarrollaremos las medidas necesarias para que los procesos de denuncia y judiciales tengan perspectiva de género y que el conjunto de profesionales que intervienen en ellos tenga la formación necesaria. Impulsaremos el sistema VioGén para incrementar y mejorar la seguridad de las víctimas.
+        - promise:
+            id: b0a05d5c-7e45-4fce-b62c-88b08e5946f4
+            page: 37
+            text: Se fortalecerán la tutela judicial y el acceso a la justicia para mejorar la participación de la víctima en el proceso penal, con la designación urgente de abogados y procuradores de oficio en los procedimientos que aseguren la inmediata presencia para la defensa y representación de las víctimas.
+        - promise:
+            id: 78c2e578-8abf-495b-8b60-44f8233a82d0
+            page: 37
+            text: Reforzaremos el apoyo a las mujeres que padecen esta violencia, con la aprobación de un Plan Integral de Compensación, Reparación y Recuperación de la Autonomía para mujeres que padecen esta violencia. Para ello se impulsará la autonomía económica de las mujeres para contribuir a su salida de una relación de violencia machista de cualquier tipo.
+        - promise:
+            id: b7fd3d96-f4a4-4a1d-84d0-326a2770d2f8
+            page: 37
+            text: La protección de los menores es uno de los ejes más importantes del Pacto de Estado. Estableceremos la suspensión del régimen de visitas de menores por parte de progenitores o tutores legales que estén cumpliendo condena, o se hayan dictado medidas cautelares, por delitos graves de violencia de género o cometidos en su presencia, en consonancia con el Pacto de Estado contra la Violencia de género y el Convenio de Estambul.
+        - promise:
+            id: c9b08372-a95d-4b9a-b509-79d81d2fb231
+            page: 37
+            text: Blindar que solo sí es sí. En cumplimiento de lo previsto en el Convenio de Estambul para combatir todas las formas de violencia que sufren las mujeres, se aprobará una Ley integral por la protección de la libertad sexual y contra las violencias sexuales, que garantice la sensibilización, prevención, detección, atención, protección y reparación. En el marco de esta ley reformaremos la legislación penal para garantizar que el consentimiento de la víctima sea clave en los delitos sexuales, de manera que, si una mujer no dice SÍ, todo lo demás es NO. Es decir, «Solo sí es sí».
+    - promise:
+        id: 2af548ba-2b82-401f-b1fa-3c2bf9c85de2
+        page: 37
+        text: Erradicar la trata de mujeres con fines de explotación sexual, favorecer la dignidad de las mujeres, garantizar alternativas y terminar con las redes y las mafias que se lucran con la esclavitud. La trata con fines de explotación sexual es una violación de los derechos humanos y supone una de las formas más crueles en las que se manifiesta la violencia contra las mujeres. Nuestro país es uno de los países de tránsito y destino de muchas de estas mujeres y niñas que son obligadas a ejercer la prostitución. Se aprobará una Ley Integral contra la Trata de mujeres con fines de explotación sexual, basada en los derechos de las víctimas, que incorpore medidas de prevención y persecución de estas redes criminales, además de medidas de protección y de recuperación integral de estas mujeres y niñas.
+    - promise:
+        id: 769142e9-a438-409f-a87e-0841d4894125
+        page: 38
+        text: Elaboraremos planes de formación para empleadas y empleados públicos con el objeto de facilitar la identificación y la atención a las víctimas de trata con un enfoque integrador, transcultural y de protección. Asimismo, se estrechará la colaboración entre las administraciones públicas, las Fuerzas y Cuerpos de Seguridad de Estado, los Servicios Sociales y las organizaciones especializadas del Tercer Sector.
+    - chapter: 
+        title: Garantizar los derechos sexuales y reproductivos para asegurar una maternidad libremente decidida.
+        children:
+        - promise:
+            id: 5b7a07c5-adac-4fa0-98d9-ac6ad6c280a4
+            page: 38
+            text: Desarrollaremos políticas activas de educación y prevención de embarazos no deseados, a través de campañas informativas a nivel general, y de forma específica, a través de programas educativos acordados con las comunidades autónomas, dirigidos a la juventud.
+        - promise:
+            id: cc3f0dc8-b74c-4238-9829-1f1725ee5cfd
+            page: 38
+            text: Así mismo, favoreceremos el acceso, a los últimos métodos anticonceptivos, a la anticoncepción de urgencia y a la interrupción voluntaria del embarazo de todas las mujeres, en el Sistema Nacional de Salud, en el marco la Ley de Salud sexual y reproductiva y de la interrupción voluntaria del embarazo de 2010.
+        - promise:
+            id: 5863ffa5-5e02-41e9-b7ac-d7085a8a32d6
+            page: 38
+            text: Del mismo modo, vamos a garantizar los tratamientos de reproducción asistida a todas las mujeres, independientemente de su orientación sexual y estado civil, una vez reestablecido este derecho en la cartera de servicios comunes del Sistema Nacional de Salud.
+        - promise:
+            id: 59b6093e-af01-4da7-8b66-b31de1df271f
+            page: 38
+            text: Garantizaremos la intimidad de las mujeres que acuden a las clínicas IVE, su integridad física y moral, así como su derecho a la libre circulación.
+    - promise:
+        id: 4c50bb92-b069-4db3-b065-69d8ab454720
+        page: 38
+        title: Pornografía
+        text: Perseguiremos la trata y explotación sexual, especialmente de menores y los protegeremos de la creación, difusión y exposición de pornografía. Asimismo, impulsaremos una protección reforzada de los menores para evitar el acceso a la pornografía, sujeta a las medidas más estrictas en línea con la nueva normativa audiovisual del Parlamento Europeo.
+    - promise:
+        id: 8aee4e26-6ca3-4182-95b8-d02ab815e943
+        page: 38
+        title: Decimos NO a los vientres de alquiler. 
+        text: La explotación reproductiva está prohibida en nuestra legislación, en coherencia con las recomendaciones del Parlamento Europeo. Los vientres de alquiler socavan los derechos de las mujeres, especialmente de las más vulnerables, mercantilizando sus cuerpos y sus funciones reproductivas. Y por eso, actuaremos frente a las agencias que ofrecen esta práctica a sabiendas de que está prohibida en nuestro país.
+    - chapter: 
+        title: Cierre de la Brecha de Género en las áreas de ciencia, tecnología, ingeniería y matemáticas.
+        children:
+        - promise:
+            id: 74d2e40b-dd51-4142-890a-e34244f1eca6
+            page: 39
+            text: Potenciaremos las vocaciones STEM (ciencia, tecnología, ingeniería y matemáticas) entre las niñas y jóvenes para cerrar la brecha de género en estos estudios.
+        - promise:
+            id: bc47e0b4-abcf-417d-b6ad-b46410aa004d
+            page: 39
+            text: Promoveremos la integración de la perspectiva de género en la formación del profesorado de manera concreta para la enseñanza de materias relacionadas con el ámbito tecnológico/STEM. Así como programas específicos de fomento de vocaciones tecnológicas a partir de la etapa de primaria.
+        - promise:
+            id: 33f6940e-6c87-4e67-be2b-091981f0d749
+            page: 39
+            text: Aprobaremos un programa para desarrollar, atraer y retener el talento de las mujeres, que incluya un completo paquete de medidas para potenciar la contratación sin sesgos y la creación de entornos de trabajo diversos.
+        - promise:
+            id: f8595791-a026-4f72-8184-e3f099d787fc
+            page: 39
+            text: Desarrollaremos medidas para evitar la discriminación por los periodos de maternidad de las investigadoras.
+    - chapter: 
+        title: Fiscalidad con perspectiva de género.
+        children:
+        - promise:
+            id: 49ffb2e9-2f42-448b-a3fb-89f8182a4659
+            page: 39
+            text: El avance de la igualdad supone acabar con aquellas discriminaciones que sufren las mujeres en todos los ámbitos. Así, vamos a abordar a la desactivación de lo que se denomina “tasa rosa”, es decir, el incremento de precio de un mismo producto cuando se trata de una “versión femenina”.
+        - promise:
+            id: a22ebef9-740b-4bb6-bfa1-523510940344
+            page: 39
+            text: Asimismo, vamos a abordar la fiscalidad con perspectiva de género.
+- chapter:
+    title: Revertir la despoblación
+    children:
+    - declaration:
+        id: b4e7c381-9317-4355-a7f8-072a05ec2f59
+        page: 40
+        text: Apoyo decidido a la llamada España Vaciada.
+    - chapter: 
+        title: Estrategia Nacional frente al reto demográfico, de lucha contra la despoblación, de conectividad y de apoyo a la población joven.
+        children:
+        - promise:
+            id: 431aa8b1-1e32-4384-a80f-a4da687d3d4b
+            page: 40
+            text: Consolidaremos un Estado del Bienestar inclusivo con las zonas rurales. Nos comprometemos a extender el conjunto de los servicios públicos del bienestar a toda la ciudadanía al margen del tamaño, la dispersión o el grado de envejecimiento de su población, desarrollando acciones que favorezcan el arraigo y asentamiento de la población y que garanticen una igualdad de oportunidades efectiva.
+        - promise:
+            id: e73e57ad-64bc-465c-b855-f64a288a24eb
+            page: 40
+            text: Pondremos en marcha medidas transversales y de apoyo a proyectos de empleo, autoempleo y emprendimiento colectivo en los municipios rurales en riesgo demográfico en el marco del Programa Operativo de Empleo Juvenil del Fondo Social Europeo.
+        - promise:
+            id: b40ae4ab-7dac-41f0-be60-260e80e7cbf1
+            page: 40
+            text: Desarrollaremos la cobertura de más de 30 Mbps y de 3G para el 100% de la ciudadanía a un precio asequible; garantizaremos redes ultrarrápidas de 100 Mbps en las escuelas españolas; e incorporaremos el impacto demográfico en la elaboración de leyes, programas e inversiones públicas.
+        - promise:
+            id: bee086e5-a20a-40d6-bc62-202287640993
+            page: 40
+            text: Fomentaremos una política de infraestructuras mallar y no radial dirigida a promover la conexión interterritorial, aumentando la inversión en cercanías ferroviarias y que permita culminar los corredores mediterráneo y atlántico.
+        - promise:
+            id: 7b3c1857-33da-47e6-8a64-2397a844dc98
+            page: 40
+            text: Priorizaremos la mejora de las infraestructuras existentes y, en su caso, la construcción de nuevas infraestructuras de comunicación con el fin de garantizar la accesibilidad y conectividad territorial. En particular, todas las poblaciones, sea cual sea su tamaño, contarán con servicio de transporte que comunique con la cabecera de la comarca.
+        - promise:
+            id: 3b277ecb-9940-4b98-875c-733866b708cb
+            page: 40
+            text: También se garantizará el acceso a la atención sanitaria a domicilio cuando no exista un centro local de salud.
+        - promise:
+            id: e87d73e9-3f24-4033-a3e7-181654a841a7
+            page: 40
+            text: Garantizaremos la seguridad en nuestros pueblos con la recuperación del número de efectivos de las Fuerzas y Cuerpos de Seguridad del Estado, perdidos durante los siete años de la Administración anterior, y el impulso del plan de infraestructuras de la Guardia Civil para garantizar el servicio público de la seguridad en todo el territorio.
+    - promise:
+        id: f9124587-2ea4-4c50-a48e-a3beaa6bfd43
+        page: 40
+        text: Creación de oficinas de despoblación en al menos 20 comarcas rurales que requieran una intervención urgente. Su función será acompañar a las personas o empresas que quieran instalarse en la zona, facilitándoles todos los contactos y la mediación en el proceso; impulsar “Espacios de Innovación Rural” así como el emprendimiento, formación y asistencia para la mujer en el medio rural, que faciliten su incorporación al mercado laboral, tanto por cuenta ajena como por cuenta propia, y su capacitación en la creación de empresas.
+    - chapter: 
+        title: Medidas para la sostenibilidad del medio rural
+        children:
+        - promise:
+            id: be57a85f-16a8-4241-b099-ad72c8423685
+            page: 40
+            text: Impulsaremos un Plan Nacional de Desarrollo Rural para revitalizar la estructura social y económica del mundo rural, mediante el impulso de las infraestructuras, la localización prioritaria de proyectos productivos y la previsión de líneas de financiación prioritarias para los sectores productivos más relevantes.
+        - promise:
+            id: 28753585-f5b9-49e1-a0a2-ac9214fd1676
+            page: 41
+            text: Medidas de apoyo a la transformación digital, para el fomento de incorporación de jóvenes y mujeres, incluyendo la potenciación de la titularidad compartida de explotaciones agrarias y acciones formativas de profesionales del mundo rural y medidas de diversificación económica. Facilitaremos el relevo generacional en las explotaciones agrarias, abordando especialmente el problema del acceso a la tierra de la juventud.
+        - promise:
+            id: a5b93459-196d-4cea-95b8-2a1e6757a9da
+            page: 41
+            text: Nueva línea de apoyo a mujeres emprendedoras en el medio rural.
+        - promise:
+            id: 75a453d1-1474-4db9-9d07-de833dac09e1
+            page: 41
+            text: Impulso del asesoramiento de explotaciones agrarias, con medidas de mejora de la sostenibilidad de la producción ganadera y de conservación de los suelos agrícolas.
+        - promise:
+            id: 6b52df85-432f-4548-be3b-ab491377a771
+            page: 41
+            text: Actualizaremos y desarrollaremos la Ley 45/2007, para el Desarrollo Sostenible del Medio Rural, cuyos objetivos son mantener y ampliar la base económica del medio rural de manera sostenible, mantener y mejorar su nivel de población y elevar el grado de bienestar de su ciudadanía, y conservar y recuperar su patrimonio y recursos naturales.
+- chapter:
+    title: 'Cohesión y eficiencia: Actualización del estado autonómico'
+    children:
+    - declaration:
+        id: ee109c35-97f4-48f5-9c37-767f5cc86e53
+        page: 42
+        text: El Gobierno apostará por una España fuerte y cohesionada, estructurada a partir de la Constitución y de los Estatutos de Autonomía. Consideramos que el sistema autonómico ha dado a nuestro país la etapa de mayor prosperidad y estabilidad de su historia demostrando, por ello, ser el mejor sistema para garantizar la unidad y la diversidad. Esto no significa, sin embargo, que en su formulación actual sea perfecto y que no requiera de actualizaciones. Es innegable que el sistema autonómico adolece de notorias disfunciones, desequilibrios y carencias que dificultan la correcta provisión de servicios a la ciudadanía y provocan tensiones entre el Gobierno central y los Gobiernos autonómicos. Para subsanar dichas carencias y optimizar el funcionamiento del sistema autonómico, llevaremos a cabo las siguientes reformas.
+    - promise:
+        id: d57811a6-7f89-49d4-8749-807412ffa8e8
+        page: 42
+        text: 'Mejoraremos la colaboración y coordinación institucional entre la Administración General y las comunidades autónomas y promoveremos la participación de estas en los procesos de toma de decisión estatales mediante: <br>- El empoderamiento de organismos ya existentes, como la Conferencia de Presidentes cuya celebración será anual, las Conferencias Sectoriales, y los convenios de colaboración de las comunidades autónomas con el Estado y de éstas entre sí. <br>- La creación de nuevos mecanismos intergubernamentales en los que las comunidades autónomas puedan intercambiar información y pareceres respecto a competencias de titularidad estatal.<br> Este marco de colaboración Gobierno central – CCAA estará definido por el principio de la multilateralidad, lo cual no impide la presencia de procedimientos y órganos bilaterales (Gobierno central – CCAA y CCAA – CCAA), especialmente cuando se trate de dirimir un asunto de interés específico para una o varias CCAA. En todo caso, esas relaciones bilaterales siempre se regirán por los principios de lealtad y colaboración entre territorios que fija la Constitución.'
+    - promise:
+        id: d7946950-2b96-4b1c-8eec-96a60d07bb12
+        page: 42
+        text: Abordaremos el conflicto político catalán, impulsando la vía política a través del diálogo, la negociación y el acuerdo entre las partes que permita superar la situación actual.
+    - promise:
+        id: eb914689-56ca-49ce-b688-6ddf5b329bc5
+        page: 42
+        text: Impulsaremos la mejora y clarificación de la distribución competencial entre el Gobierno central y las comunidades autónomas para implementar un modelo de reparto más claro y preciso que perimetre las facultades competenciales concretas de cada entidad, y reduzca al máximo las competencias compartidas a fin de evitar la ambigüedad actual, que a menudo acaba teniendo que ser dirimida por los tribunales, provocando fricciones judiciales entre el Gobierno central y las comunidades autónomas. En este sentido, resulta fundamental, de un lado, que las competencias del Gobierno central estén bien configuradas, de tal manera que ello permita la correcta coordinación de las políticas nacionales y el respecto a la igualdad de todos los españoles. De otro, que las comunidades autónomas dispongan de las capacidades necesarias para un autogobierno eficiente a la par que respetuoso con el interés general. Se creará un Comité de expertos que asistirá y dará soporte al Gobierno en esta medida.
+    - promise:
+        id: 980e7225-f41f-4764-904d-34d96a94a78c
+        page: 43
+        text: Daremos cumplimiento a los dictámenes del Tribunal Constitucional y traspasaremos a la Generalitat aquellas competencias pendientes ya reconocidas en el Estatut de Cataluña en materias como la gestión de becas universitarias, la formación sanitaria especializada, el salvamento marítimo o la ejecución de la legislación laboral en el ámbito del trabajo, el empleo y la formación profesional.
+    - promise:
+        id: de165853-28a1-4543-b069-4bd6d0d682f2
+        page: 43
+        text: Para afrontar el reto demográfico, una de las medidas que impulsaremos será la desconcentración institucional del Estado, trasladando total o parcialmente las sedes de diversas instituciones y organismos a distintas ciudades. Este proceso se hará en diálogo y consenso con las comunidades autónomas y ayuntamientos interesados.
+    - promise:
+        id: e2818207-3992-4037-bb1e-042eb75b92ae
+        page: 43
+        text: Desarrollaremos la previsión de las reglas y principios que deben regir el sistema de financiación de las comunidades autónomas y el procedimiento para establecerlo con participación de los territorios, con el objetivo final de aprobar un nuevo sistema de financiación de las comunidades autónomas que resuelva las carencias, asimetrías y ambigüedades del sistema actual. El objetivo es implantar un sistema que permita, de un lado, garantizar la lealtad y solidaridad entre territorios y la igualdad de todos los españoles y españolas; de otro, asegurar la justa distribución de los recursos públicos y la capacidad de las comunidades autónomas para proveer los servicios y prestaciones sociales que son de su competencia.
+    - promise:
+        id: d809c13e-7ac9-45c6-8562-c3048e46a019
+        page: 43
+        text: Introduciremos criterios territoriales para reducir la desigualdad y garantizar la efectividad de los derechos de las ciudadanas y ciudadanos.
+    - promise:
+        id: 374d0d17-3a9f-47bf-8624-5283d20de2fa
+        page: 43
+        text: Ampliaremos las competencias y capacidades de los gobiernos locales, garantizando el respecto de la autonomía local y fortaleciendo el papel de los municipios como unidad territorial básica. En esta misma línea, derogaremos la Ley 27/2013 de racionalización y sostenibilidad de la Administración Local del PP, y aprobando una nueva normativa que conceda a los municipios la capacidad de percibir unos tributos propios mínimos (sin perjuicio de otros que puedan ser reconocidos por la legislación estatal y autonómica) y de disponer de los recursos derivados de la participación en los ingresos del Estado.
+    - promise:
+        id: bdf8d648-c408-49db-b722-e64373f59e6a
+        page: 43
+        text: 'Fortaleceremos la participación y agencia de las comunidades autónomas en las instituciones comunitarias de la Unión Europea: <br>- Revitalizando la actividad de la Conferencia para Asuntos relacionados con la Unión Europea (CARUE) y fortaleciendo la participación de las Conferencias Sectoriales en los debates europeos. <br>- Estudiando y proponiendo una mejor redistribución de los Comités de la Comisión entre las comunidades autónomas para facilitar el desempeño de éstas. <br>- Potenciando las oficinas de representación de las comunidades autónomas en Bruselassiguiendo el modelo de la Coordinación de Oficinas Regionales Españolas. <br>- Impulsando el poder consultivo del Comité de Regiones. <br>- Mejorando la capacidad administrativa de las comunidades autónomas en la coordinación y la gestión de los fondos comunitarios mediante la creación de equipos permanentes y unidades de apoyo, la formación de empleados públicos, o la generalización del acceso autonómico al sistema de información comunitario CIRCA.'
+- chapter:
+    title: Justicia fiscal y equilibrio presupuestario
+    children:
+    - declaration:
+        id: 2786f677-f346-4db1-b46f-943b902d8839
+        page: 45
+        text: La evaluación y el control del gasto público es esencial para el sostenimiento de un Estado del bienestar sólido y duradero. El Gobierno impulsará políticas sociales y nuevos derechos con arreglo a los acuerdos de responsabilidad fiscal de España con Europa gracias a un mejor uso de los recursos públicos, a una reforma fiscal justa y progresiva que nos acerque a Europa y en la que se eliminen privilegios fiscales.
+    - chapter: 
+        title: Lucha contra el fraude fiscal.
+        children:
+        - promise:
+            id: 3b100b79-dc3c-4df5-a5aa-2e22f370fee3
+            page: 45
+            text: Aprobaremos la Ley de Medidas de Prevención y Lucha contra el Fraude Fiscal y elaboraremos una Estrategia nacional contra el fraude fiscal. Se reforzarán los medios dedicados a la lucha contra el fraude, se actualizará la lista de paraísos fiscales, se potenciará la prevención del fraude mediante la lista de morosos de la AEAT y se prohibirán las amnistías fiscales.
+        - promise:
+            id: 35175004-6e49-4f54-9d12-b49a31fd6753
+            page: 45
+            text: Ampliaremos el listado de deudores a la Hacienda Pública, se introducirán límites más rigurosos para los pagos en efectivo, se prohibirá el “software” de doble uso y se impulsará la unidad de control de grandes patrimonios.
+        - promise:
+            id: 0ca32fa9-4290-4bc6-8e96-c6cbd259f334
+            page: 45
+            text: Ejerceremos un mayor control sobre las SICAV. Otorgaremos a los órganos de inspección de la Agencia Tributaria la competencia para declarar a efectos exclusivamente tributarios el incumplimiento de los requisitos establecidos para las SICAV en la normativa financiera. Igualmente se establecerán requisitos adicionales para la aplicación por las SICAV del tipo impositivo reducido tendentes a asegurar su carácter de instrumento de inversión colectiva, por ejemplo, estableciendo un tope de concentración de capital en manos de un mismo inversor (incluyendo la participación de personas físicas o jurídicas vinculadas).
+    - chapter: 
+        title: Aumento de la progresividad del sistema fiscal.
+        children:
+        - chapter: 
+            title: Impuesto de sociedades.
+            children:
+            - promise:
+                id: 9ca8ed3b-b4c6-4854-abd9-54d09f600e81
+                page: 45
+                text: Se reformará garantizando una tributación mínima del 15% de las grandes corporaciones, que se ampliaría hasta el 18% para las entidades financieras y empresas de hidrocarburos.
+            - promise:
+                id: a33d53ef-0e4e-4f0c-a53b-6e61394fea97
+                page: 45
+                text: Se limitarán las exenciones de dividendos/plusvalías de sociedades por su participación en otras sociedades, reduciendo en un 5% las referidas exenciones, en concepto de gastos no deducibles en el impuesto, de gestión de la participación que mantiene la matriz en la filial, como prevé y permite la Directiva matriz-filial.
+            - promise:
+                id: fd51418a-45b0-46ca-b5b6-c52fb5f8c643
+                page: 45
+                text: Estableceremos mejoras en la fiscalidad para las PYMES, de modo que aquellas sociedades que facturen menos de un millón de euros pasen de tributar de un tipo de gravamen del 25% al 23%.
+        - chapter: 
+            title: Impuesto sobre la Renta de las Personas Físicas.
+            children:
+            - promise:
+                id: 2da97b7f-c530-4d48-9caf-3d88cd1a6e9c
+                page: 45
+                text: Se incrementan dos puntos los tipos impositivos sobre la base general para los contribuyentes que tengan rentas superiores a 130.000 euros y cuatro puntos para la parte que exceda de 300.000 euros. El tipo estatal sobre las rentas de capital se incrementará en 4 puntos porcentuales para dichas rentas superiores a 140.000 euros.
+            - promise:
+                id: 0b08156e-e9e7-4b7a-a92a-cfaa87cec02d
+                page: 45
+                text: Se estudiará la fiscalidad de las grandes fortunas al objeto de que contribuyan a un sistema fiscal más justo y progresivo.
+        - chapter: 
+            title: Adaptación del actual sistema tributario a la economía del siglo XXI.
+            children:
+            - promise:
+                id: 85de9bd8-8fd8-419a-b21c-c9b66d7061bc
+                page: 46
+                text: Aprobaremos el Impuesto sobre determinados servicios digitales con el fin de gravar aquellas operaciones de la Economía digital que actualmente no tributan, en línea con las recomendaciones de la Unión Europea.
+            - promise:
+                id: 08b89124-fde5-44e0-b4a0-595b48b9aa88
+                page: 46
+                text: Aprobaremos el Impuesto sobre las transacciones financieras consistente en gravar las operaciones de compra de acciones españolas ejecutadas por operadores del sector financiero.
+            - promise:
+                id: 46c111a5-d92f-4439-9358-697bd002e0e2
+                page: 46
+                text: Apostamos por la nueva fiscalidad verde como mecanismo para desincentivar comportamientos nocivos para el medioambiente, evitando siempre que cualquier modificación recaiga sobre las clases medias y trabajadoras o sobre autónomos y PYMES. Promoveremos a nivel europeo el establecimiento de un mecanismo de compensación del CO 2 en frontera para las importaciones.
+            - promise:
+                id: e579280b-b2c1-4b2e-8ba0-ab743b6d02b9
+                page: 46
+                text: 'En el Impuesto sobre el Valor Añadido: reduciremos el tipo de gravamen de IVA de los servicios veterinarios y de los productos de higiene femenina.'
+        - promise:
+            id: 40f3dc77-7a03-450f-b522-910716b206e4
+            page: 46
+            title: Liderazgo en la lucha contra la evasión y elusión fiscal internacional. 
+            text: Promoveremos activamente la lucha contra estos dos fenómenos en los foros internacionales donde España está presente (G20, OCDE).
+        - promise:
+            id: 2600badf-aed2-467a-872b-b2a1b7014791
+            page: 46
+            text: Revisaremos el régimen fiscal de cooperativas y sociedades laborales para recuperar la eficacia tributaria en el fomento de este tipo de empresas.
+        - promise:
+            id: 4e386d84-8fbd-4d2f-bf24-8d7ed81da48b
+            page: 46
+            text: Se reformará el régimen jurídico y fiscal de las SOCIMIS, aplicando un tipo de gravamen del 15% sobre los beneficios no distribuidos.
+        - promise:
+            id: e4156f60-618a-47ea-b29a-50c82b2370b1
+            page: 46
+            title: Cumplimiento de los mecanismos de disciplina fiscal para garantizar la sostenibilidad de las cuentas públicas. 
+            text: Desarrollaremos una política fiscal responsable, que garantice la estabilidad presupuestaria y la reducción del déficit y de la deuda pública, en una senda compatible con el crecimiento económico y la creación de empleo, con el refuerzo de las inversiones productivas en los ámbitos de la transición ecológica, la educación, la ciencia, la I+D y la digitalización, y con niveles adecuados de protección social. Reforzaremos la progresividad del sistema impositivo y la suficiencia de los ingresos públicos, reduciendo las diferencias con la media europea.
+        - promise:
+            id: a50d4a37-2a2e-4101-b01d-3674581758ce
+            page: 47
+            text: Estableceremos mecanismos de evaluación de las políticas públicas y de sus resultados y mejoraremos la eficiencia del gasto público, a través del Plan de Acción de la AIReF para la revisión del gasto (spending reviews, beneficios fiscales, gasto hospitalario del Sistema Nacional de Salud, infraestructuras de transporte e incentivos a la contratación).
+- chapter:
+    title: Una España europea abierta al mundo
+    children:
+    - declaration:
+        id: e7a21388-79c2-4081-99ca-e827185e9787
+        page: 48
+        text: El Gobierno trabajará para fortalecer la influencia de España en organismos e instancias internacionales y la usará para contribuir a la creación de un mundo más justo, próspero y sostenible, impulsando el proyecto comunitario europeo, fortaleciendo el multilateralismo, fomentando las relaciones con Iberoamérica y África, y apoyando de manera decidida la defensa de los derechos humanos, el cumplimiento de los Acuerdos de París, y los Objetivos de Desarrollo Sostenible de la Agenda 2030 en todo el mundo.
+    - promise:
+        id: c6c34efd-8a0d-466a-b27c-8a620cd37af5
+        page: 48
+        text: 'Reforzaremos el proyecto europeo, impulsando una Europa más fuerte y ágil, pero también más democrática, más social y más comprometida en la reducción de las desigualdades, la precariedad y la pobreza, que se han agravado durante los últimos diez años. Para ello: <br>- Promoveremos el establecimiento de un Salario Mínimo Interprofesional Europeo, un Seguro Europeo de Desempleo y la consolidación efectiva del Pilar Social de la UE. <br>- Propondremos la adopción comunitaria de medidas de igualdad de trato y contra todo tipo de discriminación (por orientación sexual, identidad de género, raza, religión, etc.) para que la UE siga siendo un referente en este ámbito. En esta misma línea, promoveremos la creación de un marco legal europeo que garantice los derechos de las personas LGTBI y un plan de lucha contra la discriminación intersex. Impulsaremos la inclusión y el reconocimiento de familias diversas y la erradicación de cualquier forma de patologización de las personas LGTBI, así como su acceso a la atención sanitaria en igualdad de condiciones. <br>- Impulsaremos la creación de un Alto Comisionado Europeo para los Derechos Fundamentales y la Igualdad de Trato que armonice y supervise la protección de los derechos fundamentales en todos los Estados.'
+    - promise:
+        id: f97da27a-78c9-4fcf-82ba-24946714f107
+        page: 48
+        text: Impulsaremos un verdadero Green New Deal en la UE, dotado de los recursos presupuestarios y técnicos adecuados y con compromisos firmes y verificables de reducción de emisiones. Propondremos el establecimiento de un impuesto europeo sobre el CO2 en frontera, que además de garantizar recursos específicos para el Green New Deal, combata el dumping de terceros países que no aplican las exigencias derivadas de los Acuerdos de París. En paralelo, propondremos la creación de un Fondo europeo específico para favorecer la Transición Justa de los sectores y territorios más vulnerables frente al proceso de descarbonización.
+    - promise:
+        id: e57e3d79-fe6d-4ac3-93d9-4a33456d1a86
+        page: 48
+        text: Promoveremos iniciativas para proteger mejor a los europeos frente a nuevas eventuales crisis económicas (por ejemplo, mediante la creación de un Seguro Europeo de Depósitos) y defenderemos la progresiva armonización fiscal, para evitar el dumping fiscal entre países miembros, así́ como la erradicación de los paraísos fiscales.
+    - promise:
+        id: f00b8c0d-8c78-4105-9479-3ed2e23d7262
+        page: 48
+        text: 'Promoveremos una política europea de inmigración justa y solidaria a través de la articulación de vías legales y seguras, que respete los derechos humanos y garantice las libertades y principios de la UE para todas las personas. Para ello: <br>- España promoverá la implementación del Pacto Global para las Migraciones (Acuerdos de Marrakech) y del Pacto Mundial sobre los Refugiados de la ONU, y dedicará una especial atención al desarrollo sostenible de los países de origen y tránsito para facilitar una inmigración legal y segura. <br>- Se modificará el sistema nacional de acogida e inclusión de solicitantes de Protección Internacional, adaptándolo a la normativa europea y a la nueva realidad del país para hacerlo más eficiente y solidario. <br>- Se dotará el Fondo estatal de integración como instrumento esencial de colaboración del Estado con las comunidades autónomas y los municipios en este ámbito. <br>- Se elaborará una nueva Ley de Asilo que se adapte a los nuevos retos de la movilidad global y que tenga en cuenta las nuevas realidades sociales.<br> España seguirá comprometida con la atención de aquellos migrantes que llegan a nuestro país en situaciones de alta vulnerabilidad, mejorando la coordinación de todos los actores involucrados en la atención humanitaria y en la identificación de vulnerabilidades, especialmente las mujeres víctimas de trata y los menores.'
+    - promise:
+        id: 74f72397-f422-48b6-b4b1-71553cb5faae
+        page: 49
+        text: Aumentaremos el compromiso de España con el multilateralismo y el desarrollo de terceros países. Incrementaremos los recursos presupuestarios hasta situarnos en el 0,5% de la RNB a final de la legislatura, destinando el 10% de la Ayuda Oficial al Desarrollo (AOD) a la ayuda humanitaria. Fortaleceremos la AECID y reformaremos la Ley de Cooperación española, para facilitar la aplicación de las subvenciones, la mayor coordinación con todas las administraciones y la máxima implicación de todos los agentes públicos y privados.
+    - promise:
+        id: 161fb9d0-b43a-46b7-8f8b-066c5ecb8a32
+        page: 49
+        text: Trabajaremos para que África se convierta en una prioridad de la política exterior europea y plantearemos en Bruselas iniciativas que contribuyan al desarrollo sostenible de este continente.
+    - promise:
+        id: c7580669-a0e0-4051-b959-202b837439b4
+        page: 49
+        text: Contribuiremos a reforzar las relaciones entre la UE y los países de América Latina y el Caribe, en los planos económico, social, político y cultural, y estableceremos nuevas relaciones con las potencias emergentes de Asia.
+    - promise:
+        id: b2b96f56-31d3-4ec8-b218-35a24464aa92
+        page: 49
+        text: Promoveremos una mayor autonomía de la UE y coordinación entre sus estados miembros en materia de seguridad, para combatir amenazas como el terrorismo internacional, los ciberataques, la desinformación, y crecientes conflictos bélicos en nuestra vecindad.
+    - promise:
+        id: 23515db1-1cc1-4a91-9ee8-b1c8f4265349
+        page: 49
+        text: Estudiaremos la eliminación de la exigencia de unanimidad para la toma de determinadas decisiones en la UE de forma que resulten viables muchas de las anteriores propuestas y la conveniencia, en algunos casos, de avanzar a diferentes velocidades en el proceso de integración europea.
+    - declaration:
+        id: 3f084a6a-027d-47df-9e75-93089b0587a4
+        page: 50
+        text: El Partido Socialista Obrero Español, representado por Pedro Sánchez Pérez-Castejón, y la Coalición Confederal de Unidas Podemos-En Comú Podem-Galicia en Común, representada por Pablo Manuel Iglesias Turrión, suscriben el presente Acuerdo.
