@@ -50,7 +50,6 @@
                             <b>{{ text | slice: 0, n | join: " " | capitalize }}</b>
                         {% endif %}
 
-                        {% assign n = n | plus: 1 %}
                         {{ text | slice: n, size | join: " " }}
 
                     {% endif %}
