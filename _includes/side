@@ -2,7 +2,7 @@
     <div class="flex-shrink-0 p-3 bg-white" style="width: 280px;">
         <span class="fs-5 fw-semibold">Índice</span>
         <ul class="nav list-unstyled ps-0 border-top my-3">
-        {% for chapter in doc.index %}
+        {% for chapter in doc.content %}
             <li class="nav-item mb-1 border-top">
                 <button class="btn btn-toggle align-items-center rounded collapsed text-start" data-bs-toggle="collapse" data-bs-target="#main_{{chapter.title | slugify}}" aria-expanded="true">
                     {{chapter.chapter}}. {{ chapter.title }}

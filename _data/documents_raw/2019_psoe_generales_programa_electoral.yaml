@@ -8,7 +8,7 @@ description: Programa electoral para las elecciones generales del 10 de Noviembr
 parties: [PSOE]
 url: https://www.psoe.es/media-content/2019/10/Ahora-progreso-programa-PSOE-10N-31102019.pdf
 web_history: https://web.archive.org/web/20191109163507/https://www.psoe.es/media-content/2019/10/Ahora-progreso-programa-PSOE-10N-31102019.pdf
-index: 
+content: 
 - chapter:
     title: Introducción
     children:

@@ -9,12 +9,13 @@ url: https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.p
 web_history: https://web.archive.org/web/20230712065723/https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf
 title: Un programa por tí
 description: Programa electoral para las elecciones generales del 23 de Julio de 2023
-index:
+content:
 - chapter:
     title: Una democracia económica y ecosocial al servicio de las personas
     children:
     - chapter:
         title: Economía
+        categories: Economía
         page: 7
         children:
         - chapter:
@@ -23,6 +24,7 @@ index:
             children:
             - chapter:
                 title: Más empleo, con mejores condiciones de trabajo
+                categories: Trabajo
                 children:
                 - promise:
                     id: 514c8ee4-7c0a-469d-be1c-14d339315680
@@ -83,6 +85,7 @@ index:
                         text: Transformaremos en una política de transporte permanente la reducción del precio de los abonos de transporte para desplazamientos recurrentes, al trabajo o a los centros de estudio y con la cofinanciación de las comunidades autónomas y la Administración local. Es una medida que reduce el coste del transporte, mejora el poder adquisitivo de las personas e impulsa un necesario cambio de modelo que impulse el transporte colectivo, que es un instrumento imprescindible para enfrentarnos a los desafíos de la crisis climática.
             - chapter:
                 title: Avanzar en la igualdad de género en el mercado laboral y en los cuidados
+                topics: Igualdad
                 children:
                 - promise:
                     id: 21e6da0f-847e-48fd-84b9-b566ce33b87a
@@ -104,6 +107,7 @@ index:
                         text: Inversión en infraestructura social. Es necesario continuar incrementando la inversión en el Sis4tema de Atención a la Dependencia que posibilitan los fondos Next Generation, desarrollando simultáneamente un nuevo modelo de cuidados centrados en la persona. Se han destinado en torno a tres mil millones de euros al cambio de modelo residencial, y se prevé una inversión de alrededor de mil millones de euros para el impulso de escuelas infantiles de primer ciclo. Es necesario seguir avanzando en este sentido para consolidar el papel del Estado corresponsable en los cuidados. En este sentido, aceleraremos la creación de nuevas plazas públicas en escuelas infantiles de primer ciclo hasta alcanzar una cobertura del 90%. Igualmente, es necesario profesionalizar y modernizar, mediante la digitalización, el sector de los cuidados sanitarios y la dependencia. Esto se hará con la introducción de soluciones tecnológicas para fomentar el cuidado a domicilio recurriendo al diagnóstico remoto o los dispositivos de monitorización.
             - chapter:
                 title: Política industrial para la transición energética y el empleo
+                categories: Industria
                 children:
                 - promise:
                     id: a2a4e947-8df4-49df-b49d-e1927ee9f036
@@ -140,6 +144,7 @@ index:
                         text: Incentivo de la circularidad de la economía. El modelo económico de España es especialmente lineal y altamente consumidor de recursos naturales, lo que implica costes ambientales a lo largo de toda la cadena de valor, además de una mayor dependencia externa. La fiscalidad puede desempeñar un papel fundamental a la hora de estimular un cambio en el diseño, fabricación y uso de bienes que garanticen su circularidad. En este sentido, de forma similar a lo que hacen otros Estados, se revisará el Impuesto sobre el Valor Añadido para aquellos productos de larga duración, así como para aquellos servicios de reparación, de segunda mano y de alquiler que fomenten la circularidad.
             - chapter:
                 title: Más competencia para evitar el abuso de poder de las grandes empresas
+                topics: Competencia
                 children:
                 - promise:
                     id: 00548844-203a-4ce6-9efc-58f3f21bb85e
@@ -170,6 +175,7 @@ index:
                         text: Recuperación las competencias financieras para la empresa Sociedad Estatal Correos y Telégrafos. Del mismo modo que debe prestar el servicio postal universal en todo el territorio, incluirá también entre sus funciones la prestación de servicios financieros minoristas de ahorro y depósito en todas sus oficinas. Esto contribuirá tanto al objetivo de reducir la concentración bancaria y aumentar la competencia en el sector, como a que todas las poblaciones y municipios puedan acceder a servicios financieros básicos y evitar así la exclusión financiera. Esta medida, junto a la creación del banco de desarrollo industrial a partir del ICO, permitirá recuperar una banca pública en España.
             - chapter:
                 title: Más productividad y reforma empresarial
+                topics: Productividad
                 children:
                 - promise:
                     id: 7edfaa52-05b7-473a-9deb-b99519a4db16
@@ -200,6 +206,7 @@ index:
                         text: Democratizaremos las empresas, introduciendo mecanismos de mayor participación de las personas que trabajan en ellas. Se mejorará así nuestra capacidad para frenar el aumento de las desigualdades, la precarización de una parte de las clases medias y trabajadoras y regular la normalización de ganancias extraordinarias por las personas más ricas. Al introducir más democracia y resituar el papel de las personas trabajadoras en la empresa, más allá de la negociación colectiva, se incorporan a la agenda política propuestas de cambio estructural que permiten corregir las desigualdades que se dirimen en el conflicto entre capital y trabajo. La experiencia muestra, como en el caso de las empresas cooperativas y de economía social, no orientadas exclusivamente a la retribución del capital, que un mayor desarrollo de mecanismos de participación de las personas trabajadoras en la empresa favorece la innovación y aumenta la productividad. Por esos motivos se reforzarán las ayudas, el soporte financiero y las condiciones normativas de la economía social, cooperativa y solidaria (consumo ecológico, turismo solidario, agricultura ecológica, banca ética, etcétera) como una de las vías más eficaces y resistentes para la democratización de las empresas.
             - chapter:
                 title: Más igualdad y mejor protección social
+                topics: Igualdad
                 children:
                 - promise:
                     id: 4d6a2f91-f634-4396-a0d6-b2f2688c3c65
@@ -227,6 +234,7 @@ index:
                         text: Facilitaremos y agilizaremos las transferencias sociales de carácter monetario, estableciendo mecanismos que permitan su automatización y su rápida distribución a las personas beneficiarias, con lo que se evitarán trámites burocráticos innecesarios. Se estudiará la forma de hacerlo a través de la Agencia Tributaria, lo que requeriría que todas las personas que perciban ingresos presenten una declaración. En cualquier caso, esto se hará sin que la medida suponga un aumento de la carga tributaria para las personas con ingresos más bajos. También se establecerán los mecanismos necesarios para que todas las personas tengan acceso a una cuenta bancaria donde recibir las ayudas a las que tienen derecho.
             - chapter:
                 title: Una fiscalidad justa que impulse mejores políticas públicas
+                categories: Impuestos y financiación pública
                 children:
                 - promise:
                     id: e70db245-2a53-429a-bee2-5026732c4079
@@ -269,6 +277,7 @@ index:
                         text: Reducción del fraude fiscal y mejorar los instrumentos contra la corrupción. Para aumentar los recursos a disposición de las políticas públicas que benefician al conjunto de la ciudadanía y, por justicia, es necesario continuar con una política decidida para evitar el fraude fiscal y la corrupción, así como para asegurar que todos cumplan con sus obligaciones tributarias, particularmente en lo que respecta a patrimonio y grandes fortunas. Asimismo, se analizará de forma continua la economía sumergida y se procurará eliminarla en cumplimiento de la Ley 11/2021, de medidas de prevención y lucha contra el fraude fiscal; se creará una base de datos fiscales única compartida entre Administraciones; se igualará el plazo de prescripción administrativa y penal a cinco años o diez años en los casos de delitos agravados, y se unificarán los umbrales y penas por los diferentes delitos fiscales y delitos agravados; se equiparará la plantilla de la AEAT a la media de los países europeos de nuestro entorno y se mejorará la independencia, autonomía, funciones y recursos operativos de la autoridad pública creada en la débil transposición realizada por la Ley 2/2023 de 20 de febrero de la Directiva 2019/1937 de la Unión Europea. Las agencias e inspecciones tributarias autonómicas trabajarán coordinadamente con la Agencia Estatal de Administración Tributaria y otros organismos exteriores para cooperar en la lucha contra el fraude y la evasión fiscal.
             - chapter:
                 title: Una administración pública mejor dotada para el servicio a la ciudadanía
+                categories: Administración pública
                 children:
                 - promise:
                     id: 609ff093-3fee-47ec-b36b-574150de3b3d
@@ -380,6 +389,8 @@ index:
                         text: En tercer lugar, se mejorará la transparencia y la disponibilidad de datos para la evaluación externa de las políticas públicas. Para el diseño y puesta en marcha de nuevas políticas públicas es importante disponer de un sistema de homologación de toda la información administrativa que actualmente está a disposición de las administraciones públicas (en todos los niveles) para facilitar su utilización por parte de la Administración y de los investigadores.
             - chapter:
                 title: Hacer de europa un motor del cambio
+                categories: Política internacional
+                topics: Europa
                 children:
                 - promise:
                     id: 80b5b7a4-b329-4078-bc06-b2f7f90ac208
@@ -404,6 +415,8 @@ index:
                         text: Impulsaremos tanto en la Unión Europea como en España una reforma profunda de los indicadores de bienestar económico, más allá del producto interior bruto. Se trata de desarrollar una batería de indicadores que tengan en cuenta al mismo tiempo el bienestar social y los límites biofísicos del planeta, en la línea, por ejemplo, de la economía del donut o de la economía ecológica.
         - chapter:
             title: Consumo sostenible y con derechos
+            categories: Consumo
+            topics: Consumo sostenible
             children:
             - promise:
                 id: fc8d0f6b-6375-48b5-8d44-8d534c78233b
@@ -605,6 +618,7 @@ index:
                     text: Esto es especialmente necesario en tres ámbitos; el territorial, con la creación de mecanismos para las zonas rurales donde el acceso a las nuevas tecnologías sea más difícil; el económico, para evitar la discriminación que pueda suponer el no disponer de acceso a estos servicios; y el de las habilidades, acabando con el desconocimiento de las oportunidades que ofrecen para el consumo.
     - chapter:
         title: Trabajo decente. Mejorar la vida de las personas trabajadoras
+        categories: Trabajo
         page: 23
         children:
         - declaration:
@@ -948,6 +962,7 @@ index:
                         text: Reconoceremos el derecho a que hasta treinta días de la prestación por desempleo no se con sidere consumida y sí como días cotizados a las personas fijas-discontinuas que durante sus perio dos de inactividad realicen formación acreditable. En el caso de que dicha formación sea planifica da por su empresa, esta tendrá derecho a una bonificación en las cuotas empresariales.
             - chapter:
                 title: Un trabajo autónomo por elección y con garantías
+                topics: Autónomos
                 children:
                 - promise:
                     id: 063c3234-6ef1-40c7-92ab-19f5745ca418
@@ -981,6 +996,7 @@ index:
                         text: Reconoceremos a las personas autónomas dependientes de un cliente el derecho a las condi ciones económicas y de jornada máxima previstas en el convenio colectivo aplicable a dicha em presa-cliente.
             - chapter:
                 title: 'Una economía para las personas: más economía social'
+                topics: Economía social
                 children:
                 - promise:
                     id: 6e6d5819-d8f0-4fe7-834c-b711e87b175c
@@ -1038,6 +1054,7 @@ index:
                         text: Estableceremos programas de ayudas a entidades representativas de la economía social para la creación de plataformas empresariales que posibiliten la intercooperación, creando sinergias que mejoren la capacidad competitiva de las empresas de economía social.
             - chapter:
                 title: Entornos laborales seguros y saludables
+                topics: Riesgos laborales
                 children:
                 - promise:
                     id: 3d7cff4f-33e5-4e26-ae03-c71b3cece070
@@ -1047,7 +1064,7 @@ index:
                     children:
                     - promise:
                         id: 26cf1f42-e910-45f7-8363-2fee82311868
-                        text: Crearemos mecanismos eficaces que garanticen la protección de las personas trabajadoras, especialmente de las que desarrollan el trabajo a distancia. La creciente conectividad resultante de las tecnologías de la información y las comunicaciones ha hecho posible el teletrabajo, que aumen tó durante la crisis del COVID-19 y es probable que se mantenga junto a las modalidades de trabajo «híbridas». Ha facilitado una mayor flexibilidad en la organización del trabajo, ha preservado pues tos de trabajo y ha mantenido la protección de las personas trabajadoras en muchos países durante la pandemia; pero también el teletrabajo puede ser fuente de un estrés importante si no se asegu ran y se respetan los límites al tiempo de trabajo y la protección para que las trabajadoras y los tra bajadores puedan desconectarse, de conformidad con la regulación nacional y por acuerdo entre las partes. Los desafíos también incluyen la protección de los datos personales de las trabajadoras y los trabajadores y su derecho a la vida privada, el impacto de las decisiones automatizadas en los derechos laborales, en el empleo y en la asignación de tareas, así como la prevención de los riesgos de salud mental y psicosociales.
+                        text: Crearemos mecanismos eficaces que garanticen la protección de las personas trabajadoras, especialmente de las que desarrollan el trabajo a distancia. La creciente conectividad resultante de las tecnologías de la información y las comunicaciones ha hecho posible el teletrabajo, que aumen tó durante la crisis del COVID-19 y es probable que se mantenga junto a las modalidades de trabajo «híbridas». Ha facilitado una mayor flexibilidad en la organización del trabajo, ha preservado puestos de trabajo y ha mantenido la protección de las personas trabajadoras en muchos países durante la pandemia; pero también el teletrabajo puede ser fuente de un estrés importante si no se asegu ran y se respetan los límites al tiempo de trabajo y la protección para que las trabajadoras y los trabajadores puedan desconectarse, de conformidad con la regulación nacional y por acuerdo entre las partes. Los desafíos también incluyen la protección de los datos personales de las trabajadoras y los trabajadores y su derecho a la vida privada, el impacto de las decisiones automatizadas en los derechos laborales, en el empleo y en la asignación de tareas, así como la prevención de los riesgos de salud mental y psicosociales.
                     - promise:
                         id: aba9fc90-3a8e-4dcf-ba8b-52dcf4ea7f61
                         text: Protegeremos a todas las personas trabajadoras de la violencia y el acoso laboral. Tras la entra da en vigor en España del Convenio sobre la violencia y el acoso de 2019 (núm. 190), que amplía los márgenes de lo que es el acoso en el mundo laboral, deben realizarse los ajustes que sean precisos para establecer una ordenación jurídica integrada, que ofrezca un marco específico de prevención y de protección eficaz de todas las personas que sufren violencia o acoso laboral.
@@ -1068,6 +1085,7 @@ index:
                         text: Anticiparemos las indemnizaciones a los familiares de las víctimas de accidentes de trabajo mortales y les prestaremos atención y ayuda psicológica.
             - chapter:
                 title: Avanzar en los derechos colectivos de participación democrática en las empresas
+                topics: Colectivos
                 children:
                 - promise:
                     id: 22ed3cc7-65db-46c7-a5bb-d8d10bb72c40
@@ -1378,6 +1396,7 @@ index:
                     text: Creación de una agencia especial para la TEJ y de un observatorio del avance de la TEJ que incluyan mecanismos de evaluación de políticas públicas y herramientas de devolución a la ciudadanía (2024). Dependerá de la presidencia del Gobierno y de la Conferencia de Presidentas y Presidentes. Tendrá seguimiento parlamentario y una comisaría al frente que disponga de recursos y competencias para marcar prioridades y objetivos en todas las áreas de gobierno. El observatorio deberá verificar avances, proporcionar información para consolidar o corregir tendencias y rendir cuentas sobre el avance de la TEJ.
         - chapter:
             title: 'Ganar a la crisis climática: actuar con urgencia y responsabilidad'
+            topics: Cambio climático
             children:
             - promise:
                 id: 4e3ad1dc-f6da-4211-bd62-4abf3fbca24d
@@ -1552,6 +1571,8 @@ index:
                     text: Reforzaremos los controles y estándares ambientales y sociales de las grandes explotaciones ganaderas para minimizar su impacto.
         - chapter:
             title: España, potencia verde
+            categories: Industria
+            topics: Desarrollo sostenible
             children:
             - declaration:
                 id: 21b65b4f-2183-406b-9d64-47cd8f6ec618
@@ -1618,6 +1639,7 @@ index:
                     text: Plan Nacional de Turismo Rural y Ecoturismo, en consonancia con las demandas del sector, para ayudar a alcanzar el potencial pleno de España y contribuir a la transformación del sector desde coordenadas ecológicas ambiciosas.
         - chapter:
             title: Sistema energético 100% renovable, eficiente y democrático
+            categories: Industria
             children:
             - declaration:
                 id: d12cd151-18e0-4a00-b6a7-6c23eef34069
@@ -1735,6 +1757,8 @@ index:
                     text: Hacia un cierre nuclear seguro y socialmente justo. Sumar se compromete a mantener el calendario de cierre del parque nuclear español, aplicando una moratoria a cualquier nueva iniciativa nuclear, exigiendo revisiones e inversiones para garantizar la seguridad del proceso y subrayando la responsabilidad de los propietarios en el mismo. Mientras tanto, se propone sacar la energía nuclear del mercado marginalista por su efecto distorsionante, incrementar la tasa de residuos radiactivos y asegurar un proceso de transición justa de los trabajadores vinculados al sector.
         - chapter:
             title: Un país que ganará la batalla al desierto
+            categories: Medioambiente
+            topics: Desertificación
             children:
             - declaration:
                 id: 41a6724b-46e2-41a0-bcd0-d03501c37d06
@@ -1864,6 +1888,8 @@ index:
                     text: Reducción de la contaminación del agua provocada por el uso excesivo de fertilizantes sintéticos y excrementos y purines de la ganadería industrial, priorizando aquellos que afectan a los espacios naturales con un alto interés para la biodiversidad.
         - chapter:
             title: Biodiversidad y protección del patrimonio natural
+            categories: Medioambiente
+            topics: Biodiversidad
             children:
             - declaration:
                 id: 179def9c-7375-40ff-b991-ceb9c70c3339
@@ -2068,6 +2094,8 @@ index:
                     text: Estableceremos normas de importación en las que se limite y eventualmente prohíba la importación de productos agroganaderos, mineros o basados en petróleo y energías fósiles que provengan de bosques, selvas, áreas marinas u otros espacios protegidos de alto interés ambiental, donde se practiquen políticas insostenibles de incendios o deforestación, como es el caso de la soja en grandes partes de Sudamérica, el aceite de palma del sudeste asiático o las maderas y minerales preciosos procedentes de la explotación ilegal de selvas tropicales.
         - chapter:
             title: Hacia un país circular
+            categories: Economía
+            topics: Economía circular
             children:
             - declaration:
                 id: b2c06262-214e-4247-8ffb-8aef94a6e236
@@ -2155,6 +2183,8 @@ index:
                     text: Desarrollar una ley de despilfarro alimentario con objetivos ambiciosos y con incidencia en todos los pasos de la cadena de producción alimentaria.
         - chapter:
             title: Menos contaminación, más salud
+            categories: Medioambiente
+            topics: Contaminación
             children:
             - declaration:
                 id: 8ea53cfa-4044-4a2e-a9ba-d2f1965775ce
@@ -2194,6 +2224,8 @@ index:
                     text: También se favorecerá la creación de certificaciones de calidad del cielo nocturno, para favorecer el astroturismo.
         - chapter:
             title: Protección y bienestar animal
+            categories: Civismo
+            topics: Bienestar animal
             children:
             - declaration:
                 id: 437c0ee4-2901-4106-b28a-94c5c6c97176
@@ -2299,6 +2331,7 @@ index:
                     text: Ampliaremos los recursos, subvenciones, ayudas y convenios estatales a entidades de protección animal y reforzaremos, con recursos y reconocimiento, las ciudades y pueblos amigos de los animales.
     - chapter:
         title: Por un mundo rural vivo y activo
+        categories: Territorio rural
         page: 57
         children:
         - declaration:
@@ -2306,6 +2339,7 @@ index:
             text: El medio rural, la agricultura, la pesca y la alimentación son ámbitos especialmente afectados por el agotamiento del modelo de producción industrial y los efectos del cambio climático. Al mismo tiempo, las personas trabajadoras del rural y del sector pesquero, especialmente en la agricultura familiar y la pesca a pequeña escala, han desempeñado un papel esencial en el cuidado del territorio y la biodiversidad. La transición ecosocial es una oportunidad si las instituciones garantizan la justicia y la lucha contra la desigualdad territorial. Necesitamos una sociedad que dé participación efectiva a la población (independientemente de la densidad poblacional) y un medio rural y pesquero vivos; un sector agroalimentario que avance hacia la soberanía alimentaria, la agroecología, la pesca sostenible y unas políticas públicas comprometidas con ese horizonte. La conservación de la biodiversidad y la restauración de ecosistemas; el turismo sostenible; la gestión sostenible de los bosques, la transición energética; el desarrollo de una economía de los cuidados, con la implantación de servicios en el lugar de arraigo, centros de día, residencias y recursos de conciliación móviles; la rehabilitación y mejora de la accesibilidad y eficiencia energética de las viviendas; el fomento de la actividad cultural en zonas rurales y costeras y la protección de su patrimonio histórico-artístico, ofrecen importantes oportunidades para la diversificación económica. Para ello, el conjunto de la sociedad debe asumir que la prestación de servicios esenciales para una alimentación y una vida sana deben ser retribuidos en consonancia suficiente con los objetivos de la transición ecológica justa. Esta última, junto con la conversión de la alimentación saludable en un derecho y la mejora de las condiciones de vida de la población rural, son objetivos que deben ir de la mano con políticas públicas decididas.
         - chapter:
             title: Agricultura y mundo rural
+            categories: Agricultura
             page: 57
             children:
             - declaration:
@@ -2313,6 +2347,8 @@ index:
                 text: El medio rural ocupa en España el 80% del territorio y concentra a una quinta parte de la población. Desempeña un papel esencial en la provisión de alimentos sanos y suficientes, y ejerce funciones ambientales esenciales, como el mantenimiento de la biodiversidad, la conservación y la lucha contra el cambio climático. La despoblación, la desagrarización, el envejecimiento y la masculinización progresiva de los pueblos son problemas que debemos afrontar para lograr una transición justa en el medio rural. Se debe reconocer la enorme contribución de los habitantes del medio rural al conjunto de la sociedad, como cuidadores del territorio y de su biodiversidad, como depositarios de cultura e identidad. Queremos un mundo rural vivo, que sea atractivo para sus habitantes, en el que la población desempeñe un papel central en la conservación y la sostenibilidad. Nuestro horizonte es la transición agroecológica, desde una perspectiva integral que no solo incorpore la adecuación de los procesos productivos a criterios de sostenibilidad, sino que también garantice una renta suficiente para los agricultores y un salario justo para los trabajadores, con redes de distribución lo más locales posibles.
             - chapter:
                 title: Un mundo rural para vivir con igualdad de servicios y oportunidades
+                categories: Territorio rural
+                topics: Igualdad
                 children:
                 - promise:
                     id: 8315fa0b-a2a7-48f2-96fe-a636d880aa60
@@ -2397,6 +2433,8 @@ index:
                         text: Todas esas medidas y sus correspondientes presupuestos deberían ponerse en marcha en el marco de un gran consenso nacional en torno a la necesidad de un mundo rural vivo y atractivo, plasmado en un pacto de Estado por un mundo rural vivo similar al Pacto de Toledo y que se desarrollará en el marco del plan de acción para el medio rural.
             - chapter:
                 title: Consolidar el futuro de una agricultura y una ganadería sostenibles
+                categories: Agricultura
+                topics: Desarrollo sostenible
                 children:
                 - promise:
                     id: cb860983-6d1e-4bc1-a166-1ec7422b7248
@@ -2454,6 +2492,7 @@ index:
                         text: Una cadena alimentaria creadora de valor para todos sus integrantes. No hay agricultura verde en números rojos. Para alcanzar el objetivo de la sostenibilidad, debemos trabajar para conseguir una cadena alimentaria creadora de valor y una distribución equilibrada de este valor entre todos sus agentes.
             - chapter:
                 title: Una gestión sostenible de los recursos naturales en defensa del bien común
+                categories: Medioambiente
                 children:
                 - promise:
                     id: 26719f8d-02ba-41eb-be24-5903996c855b
@@ -2478,6 +2517,8 @@ index:
                         text: Una política forestal sostenible en línea con la Nueva Estrategia de la UE en favor de los bosques para 2030. Impulsaremos una política forestal sostenible que promueva manejos multifuncionales y priorice la reforestación con especies autóctonas.
         - chapter:
             title: Pesca, sostenibilidad y sector pesquero
+            categories: Pesca y acuicultura
+            topics: Desarrollo sostenible
             children:
             - declaration:
                 id: d0ba313a-9866-49d0-886e-2dc5c3957d85
@@ -2667,6 +2708,8 @@ index:
                     text: Fomento de la compra pública de productos frescos de la pesca artesanal en instituciones públicas (hospitales, residencias, colegios...) mediante su inclusión en los pliegos de contratación.
         - chapter:
             title: Alimentación saludable
+            categories: Consumo
+            topics: Alimentación saludable
             children:
             - declaration:
                 id: 77c12c7c-4808-4d61-a4ca-a2638523a44b
@@ -2896,6 +2939,7 @@ index:
         children:
         - chapter:
             title: Ciudades y pueblos habitables
+            categories: Urbanismo y ciudades
             children:
             - declaration:
                 id: 46dd4e5d-895a-4c0a-a999-011584e7092e
@@ -3064,6 +3108,7 @@ index:
                     text: Se garantizará el respeto de los derechos humanos en la Cañada Real Galiana de Madrid, restableciendo el suministro eléctrico y abriendo una mesa de seguimiento participada por sus habitantes para realizar contratos de suministro, en cumplimiento de las recomendaciones del Defensor del Pueblo.
         - chapter:
             title: Derecho a la vivienda
+            categories: Vivienda
             children:
             - declaration:
                 id: 6383ac6a-9563-4f89-abea-83a9208e39c6
@@ -3211,6 +3256,8 @@ index:
                     text: En materia hipotecaria, proponemos un bono de emergencia para los hogares hipotecados a tipo variable para la compra de su vivienda habitual, que sufren la fuerte alza de los tipos de interés del BCE, además de una gran pérdida de compra por el alza de los precios de consumo. La cuantía del bono sería de 1.000€ por hogar y ayudaría a sufragar una parte del aumento de la hipoteca. Beneficiaría a los hogares que se hipotecaron a variable en los últimos diez años por un importe de hasta 250.000€ y precio de compra no superior a 300.000€, que son los que tienen una mayor carga de intereses. Beneficiaría a un millón de hogares. Tendría un coste de mil millones de euros que se financiarían con el impuesto extraordinario a la banca, por lo que no tendría ningún coste para el contribuyente. Además, es imprescindible establecer de forma obligatoria la portabilidad de hipotecas y la posibilidad de acogerse a medidas de reestructuración de deudas y quitas hipotecarias.
         - chapter:
             title: Movilidad sostenible
+            categories: Transporte
+            topics: Movilidad sostenible
             children:
             - declaration:
                 id: 004ee53d-0e59-4920-9f86-2974d98db1c8
@@ -3370,6 +3417,7 @@ index:
                     text: Protegeremos al sector del taxi como servicio público esencial estableciendo limitaciones a las VTC a fin de evitar la competencia desleal y garantizar las mejores condiciones de trabajo.
 - chapter:
     title: Una sociedad del bienestar justa, saludable y verde
+    categories: Derechos y servicios sociales
     children:
     - declaration:
         id: e357be75-ff5d-4aa6-b0c3-d9117ac44d1a
@@ -3539,6 +3587,7 @@ index:
                 text: Uno de los pilares clave de esta estrategia ha de ser el principio de desinstitucionalización, impulsando un nuevo modelo de atención a personas en situación de sinhogarismo centrado en la atención en la comunidad y en la provisión de apoyos personalizados y libremente elegidos.
     - chapter:
         title: El derecho a la salud
+        categories: Sanidad
         page: 89
         children:
         - declaration:
@@ -3846,6 +3895,8 @@ index:
                 text: Se culminará la transferencia autonómica de las competencias en materia de sanidad penitenciaria estableciendo las garantías suficientes para su mejora con respecto a la situación actual.
     - chapter:
         title: Protección de los derechos de los niños y las niñas y de sus familias
+        categories: Familia
+        topics: Incentivos, ayudas y subvenciones
         page: 93
         children:
         - declaration:
@@ -3964,6 +4015,8 @@ index:
                 text: Mejora de los procesos de adopción internacional para que garanticen los derechos de las niñas y los niños en los países de origen y dotarlos de mayor transparencia, además de trabajar para eliminar las restricciones de terceros países a la adopción internacional por parte de familias LGTBI+.
     - chapter:
         title: Envejecer con autonomía y seguridad
+        categories: Derechos y servicios sociales
+        topics: Tercera edad
         page: 97
         children:
         - declaration:
@@ -3972,6 +4025,7 @@ index:
         - promise:
             id: 0a473228-01ac-460c-ab0b-7c9a84ca43d5
             title: Cuidados y autonomía
+            topics: Cuidados y dependencia
             page: 97
             ref_section: 001-7
             children:
@@ -4058,6 +4112,8 @@ index:
                 text: Investigación sobre el buen envejecer. Nuestro país tiene serias carencias de conocimiento respecto al envejecimiento y los cambios demográficos que se avecinan. Queremos promover la investigación en este ámbito para conocer cuáles son las transformaciones sociales y del entorno físico que promueven el buen envejecimiento, teniendo en cuenta la diversidad y la heterogeneidad de las personas mayores. Se requieren investigaciones poblacionales sobre planificación, gestión y evaluación para ofrecer alternativas innovadoras que sirvan de guía a las políticas públicas.
     - chapter:
         title: Inclusión de personas con discapacidad
+        categories: Derecuos y servicios sosciales
+        topics: Discapacidad
         page: 100
         children:
         - declaration:
@@ -4107,6 +4163,8 @@ index:
                 text: Participación social, educativa, deportiva y cultural. Se avanzará en la implementación de estrategias nacionales y programas formativos para agentes sociales culturales, deportivos, educativos y culturales, con la participación preferente de profesionales en primera persona, que favorezcan la no discriminación efectiva y la inclusión plena de las personas con discapacidad en la vida social, educativa, deportiva y cultural.
     - chapter:
         title: Un país para jóvenes
+        categories: Derechos y servicios sociales
+        topics: Juventud
         page: 102
         children:
         - declaration:
@@ -4168,6 +4226,8 @@ index:
                 text: Coordinación efectiva de las políticas de juventud. Impulsaremos el INJUVE como organismo para el intercambio y fomento de las buenas prácticas en materia de juventud y la Comisión  Interministerial de la Juventud.
     - chapter:
         title: Migraciones. Frenar el racismo y la xenofobia
+        categories: Migración
+        topics: Racismo
         page: 104
         children:
         - declaration:
@@ -4292,9 +4352,11 @@ index:
                 text: Cierre de los Centros de Internamiento para Extranjeros (CIEs) en todo el territorio nacional
 - chapter:
     title: Un proyecto para ensanchar la democracia
+    categories: Democracia
     children:
     - chapter:
         title: Feminismos e igualdad
+        topics: Igualdad
         page: 107
         children:
         - chapter:
@@ -4614,6 +4676,7 @@ index:
                     text: Se ampliarán los recursos de atención para procurar que todas las víctimas y supervivientes que lo necesiten puedan acceder a ellos, garantizando una atención integral adaptada a las necesidades de cada superviviente y asegurando procesos de transparencia y rendición de cuentas sobre el cumplimiento de los compromisos del Pacto de Estado, como el sistema común de información y evaluación.
         - chapter:
             title: Derechos y libertades LGTBI+
+            topics: LGTBI
             children:
             - declaration:
                 id: 99628028-cc1f-4bf5-a469-15e512c301d5
@@ -4708,6 +4771,7 @@ index:
         children:
         - chapter:
             title: Democratización y sociedad civil
+            topics: Participación ciudadana
             children:
             - declaration:
                 id: 917ede93-e227-4421-917b-91a63dad37ac
@@ -4816,6 +4880,7 @@ index:
                     text: Se estimulará su funcionamiento y se analizarán los resultados para favorecer la transmisión del aprendizaje y las experiencias compartidas.
         - chapter:
             title: Administración y buen gobierno
+            topics: Administración pública
             children:
             - declaration:
                 id: 90cea777-5956-4a18-a2fa-454563d29be8
@@ -4936,6 +5001,7 @@ index:
                     text: En el marco de la agencia para la transición digital, se proponen actuaciones diversas, como promover una pacto nacional de innovación tecnológica, impulsar un ecosistema de plataformas público-comunitarias, garantizar el derecho a la propiedad común de los datos, crear infraestructuras tecnológicas nacionales y europeas soberanas, asegurar la toma democrática de decisiones en torno al desarrollo tecnológico, generar una red de equipamientos para la inclusión digital, impulsar programas de alfabetización digital promovidos por la Administración pública, implementar medidas para combatir la brecha digital o un plan de igualdad digital para la promoción de una digitalización feminista.
         - chapter:
             title: Modelo territorial
+            categories: Organización territorial
             children:
             - declaration:
                 id: 4967fec5-6b51-47de-be88-7a48dd55a60c
@@ -5023,6 +5089,7 @@ index:
                     text: El acuerdo surgido de la negociación entre la Generalitat de Catalunya y el Gobierno del Estado tiene que ser votado por la ciudadanía de Catalunya. Catalunya es la única comunidad que se rige por un Estatuto que no ha sido votado por la ciudadanía y no es fruto de un pacto entre Gobiernos, de manera que el nuevo pacto político entre Catalunya y el Estado debe pasar por las urnas.
     - chapter:
         title: Un país más justo
+        categories: Justicia
         page: 123
         children:
         - chapter:
@@ -5468,6 +5535,7 @@ index:
                     text: Se regulará la figura del amicus curiae, de manera que permita a organizaciones sindicales, de derechos humanos, medioambientales, etcétera, intervenir en los procesos, colaborando con el órgano judicial y aportando información objetiva.
         - chapter:
             title: Políticas de seguridad y prevención
+            categories: Seguridad y defensa
             children:
             - declaration:
                 id: 7bdb9dcb-9fc6-4836-9454-76b8a8605a84
@@ -5744,6 +5812,8 @@ index:
                     text: para lo que sería preciso emprender reformas legales, pero también el desarrollo de un código de buenas prácticas para la industria policial y penitenciaria similar al que existe para la industria farmacéutica.
         - chapter:
             title: Memoria democrática
+            categories: Democracia
+            topics: Memoria democrática 
             children:
             - declaration:
                 id: eea5cffb-fec2-402c-a1ee-ae1c757be838
@@ -5864,6 +5934,7 @@ index:
                     text: La ley debe tener un enfoque global que facilite los procesos de búsqueda y proporcione acompañamiento a las víctimas en todas las fases de dichos procesos, velando por que el plazo de prescripción se cuente a partir del momento en que se restituye la identidad de las víctimas, permitiendo el acceso a los archivos, documentos públicos y privados y garantizando que todas las víctimas reciban reparación integral.
 - chapter:
     title: Un programa internacional. España, potencia de paz y progreso
+    categories: Política internacional
     children:
     - declaration:
         id: 5d1d540a-c149-4d9c-a077-8a2644e5c515
@@ -5875,6 +5946,7 @@ index:
         - promise:
             id: b278b504-0d31-4caf-a857-af0b52e8151d
             title: Una política exterior comprometida con la justicia climática global
+            topics: Cambio climático
             page: 138
             ref_section: '001'
             children:
@@ -6093,6 +6165,7 @@ index:
                 text: Democratizaremos la carrera diplomática con un sistema de becas para reflejar plenamente la diversidad existente en la sociedad española y garantizar que el origen social y el género no limiten las posibilidades de entrada.
     - chapter:
         title: Una Europa que proteja a las personas
+        topics: Europa
         page: 143
         children:
         - promise:
@@ -6531,6 +6604,7 @@ index:
                 text: Estudiaremos la creación de una circunscripción electoral exterior para ensanchar la democracia española más allá de nuestras fronteras, con una representación política proporcional a su número.
 - chapter:
     title: Un proyecto de educación, universidad, conocimiento, ciencia, cultura, deporte, innovación y digitalización para la cohesión social y la transición justa y sostenible
+    categories: Educación
     children:
     - declaration:
         id: e939902b-392c-4307-8582-e94426eb49f1
@@ -6679,6 +6753,7 @@ index:
                     text: Se reforzarán de manera sustantiva la formación y educación de las personas adultas, incluyendo los cambios normativos que sean necesarios para alcanzar este objetivo, de manera que se garantice de manera efectiva la formación y el reciclaje profesional a lo largo de la vida.
         - chapter:
             title: Una educación integral e inclusiva, en y para la democracia, y orientada por los ods
+            topics: [Igualdad, Inclusión]
             children:
             - promise:
                 id: f0f8809c-0371-4c3d-b95a-1cf4e8045240
@@ -6887,6 +6962,7 @@ index:
         children:
         - chapter:
             title: Universidad
+            topics: Universidad
             children:
             - chapter:
                 title: La universidad como servicio público para el conocimiento y la ciencia, la innovación, a cultura y la cohesión social
@@ -7016,6 +7092,8 @@ index:
                         text: También para fortalecer su vinculación con el conjunto de la sociedad y el mundo del trabajo, o para su internacionalización, incluyendo el aprendizaje de idiomas extranjeros.
             - chapter:
                 title: 'Personal Docente e Investigador (PDI) y Personal Técnico, de Gestión y de Administración y Servicios (PTGAS): trayectorias estables y nuevas evaluaciones para combatir la precariedad laboral'
+                categories: Trabajo
+                topics: [Empleo público, Universidad]
                 children:
                 - promise:
                     id: e32ec9ef-5c30-406e-a952-20c952e95d16
@@ -7103,6 +7181,7 @@ index:
                         text: Asimismo, fortaleceremos la oferta de formación permanente y a lo largo de la vida, dirigida no solo al personal egresado y universitario actual, sino también, de manera más amplia, al conjunto de la sociedad.
             - chapter:
                 title: 'Igualdad de género: consolidar su aplicación transversal'
+                topics: Igualdad
                 children:
                 - promise:
                     id: 036cbf07-3dc4-4f5f-ad13-f314e2323cca
@@ -7127,6 +7206,7 @@ index:
                         text: Se prevendrán y erradicarán los distintos tipos de violencias y acoso en el medio universitario, contemplados, entre otras fuentes, en el Convenio 190 de la OIT.
             - chapter:
                 title: Igualdad e inclusión efectiva y transversal de la discapacidad y de las distintas diversidades
+                topics: [Igualdad, Inclusión]
                 children:
                 - promise:
                     id: e9468691-04a5-4199-8581-8118a40bff78
@@ -7151,6 +7231,7 @@ index:
                         text: Fomentaremos el incremento de la presencia tanto en el PDI como en el PTGAS de las personas con certificado de discapacidad, garantizando el cumplimiento de la cuota establecida
             - chapter:
                 title: Internacionalización de la investigación, de la docencia y del intercambio de conocimientos
+                topics: Internacionalización
                 children:
                 - promise:
                     id: f6288dde-58d5-44c1-aaae-3d27e33d3968
@@ -7235,6 +7316,7 @@ index:
                         text: Incorporaremos nuevas modalidades de colaboración efectiva de los actores del tejido social en las actividades universitarias y viceversa a través de medios como la ciencia ciudadana.
             - chapter:
                 title: Financiación estructural. Cumplimiento obligatorio del compromiso de la LOSU y aumento posterior sostenido, con rendición de cuentas y transparencia
+                topics: [Financiacíón, Gobernanza y transparencia]
                 children:
                 - promise:
                     id: cf30caaa-ffe9-4788-9c6b-4e4104c35f55
@@ -7271,6 +7353,8 @@ index:
                         text: Incorporaremos en los contratos-programa antes citados cláusulas relativas al grado de cumplimiento de indicadores sociales, ambientales y económicos, en especial, los referidos a lo recogido en los planes de igualdad de género, en las memorias o informes de sostenibilidad de las universidades y en los restantes documentos en que se recojan los cumplimientos de las universidades en materia de gobernanza económica, social y ambiental.
         - chapter:
             title: Ciencia e innovación
+            categories: Ciencia y tecnología
+            topics: 'I+D+i'
             children:
             - declaration:
                 id: cfc5c1a4-3c62-410a-8b27-dce5291c9468
@@ -7337,6 +7421,7 @@ index:
                         text: Particularmente, en lo que respecta a las ciencias de la salud, se promoverá la investigación clínica independiente en los centros del Sistema Nacional de Salud. Para ello, se incrementará el número de convocatorias de colaboración público-privada, orientadas a MISIONES, gestionadas conjuntamente por la AEI y el CDTI, que tendrán la dotación necesaria para su evaluación y seguimiento.
             - chapter:
                 title: Cuidar de las personas de la ciencia y de la aproximación de la ciencia a la sociedad
+                categories: [Ciencia y tecnología, Trabajo]
                 children:
                 - promise:
                     id: 5c9f0779-a7ee-4cda-ba15-0c45a3400b21
@@ -7385,6 +7470,7 @@ index:
                         text: También se avanzará en la formación en perspectiva de género de gestores de fondos y comités, comisiones y tribunales evaluadores, y se introducirán medidas concretas en las diferentes convocatorias.
             - chapter:
                 title: Incremento sustantivo en la financiación estructural, simplificación de la burocracia y mejora sustantiva de la gobernanza
+                topics: [Financiación, Gobernanza y transparencia]
                 children:
                 - promise:
                     id: 0e02581d-2341-4893-8e85-9e0387071c55
@@ -7437,6 +7523,7 @@ index:
         children:
         - chapter:
             title: Cultura
+            categories: Cultura
             children:
             - declaration:
                 id: b1aeeaf8-8116-44f2-b7a8-e7d287371af2
@@ -7614,6 +7701,7 @@ index:
                         text: o las licitaciones de servicios en las que prima la oferta económica más ventajosa en detrimento de la especialización cultural, de las condiciones laborales y de las pequeñas y medianas empresas, las cooperativas o el tercer sector cultural.
             - chapter:
                 title: Una mayor financiación, en crecimiento y sin incertidumbres
+                topics: Financiación
                 children:
                 - promise:
                     id: 6a1c09e9-51ab-470e-9cfd-6f882cd0cdff
@@ -7674,6 +7762,7 @@ index:
                         text: Estableceremos incentivos fiscales y líneas específicas de acceso al crédito público que favorezcan la inversión para la innovación y renovación de las salas de cine, salas de concierto, espacios de arte y otros espacios destinados a la cultura, con el objetivo de tener una infraestructura que sea más eficiente y sostenible.
             - chapter:
                 title: Trabajo cultural. Acabar con la precariedad laboral
+                categories: [Cultura, Trabajo]
                 children:
                 - promise:
                     id: 71a8b561-bbc7-4d9b-a4fe-ed7bb9e3a566
@@ -7794,6 +7883,7 @@ index:
                         text: Por su historia, por su situación geográfica, España podría desempeñar un importante papel a nivel global. Entender nuestra historia como una historia plural, compleja, como una encrucijada de pueblos es algo que podemos aportar, con humildad, al mundo. Esto debería ir acompañado de una política cultural internacional a la que se dedicara institucionalmente un espacio propio.
             - chapter:
                 title: Cultura y educación
+                categories: [Cultura, Educación]
                 children:
                 - promise:
                     id: 9eae861a-24e8-4232-a592-a8a736d1e55d
@@ -7845,6 +7935,7 @@ index:
                         text: Además, se incentivarán las fórmulas de colaboración entre los centros artísticos superiores y las facultades universitarias para el desarrollo de proyectos de investigación y doctorados conjuntos.
             - chapter:
                 title: Cultura, igualdad y diversidad
+                topics: Igualdad
                 children:
                 - promise:
                     id: 3ac7c77d-f36f-46ea-bef8-6385640ad89e
@@ -7893,6 +7984,7 @@ index:
                         text: Brindaremos apoyo para recuperar la memoria de mujeres artistas y creadoras, ampliando la documentación en museos, archivos y bibliotecas, así como respaldando proyectos de investigación e inventario de fondos artísticos en riesgo de desaparición.
             - chapter:
                 title: Cultura para la transición ecológica
+                topics: Desarrollo sostenible
                 children:
                 - promise:
                     id: c70043e0-6804-4466-a395-48e108fa8d7d
@@ -7995,6 +8087,7 @@ index:
                     text: Por último, se debe asegurar que la velocidad de las conexiones a Internet sea al menos equiparable a la de los países más avanzados en este ámbito.
         - chapter:
             title: Deporte
+            categories: Deporte
             children:
             - chapter:
                 title: Actividad deportiva como parte del bienestar, la calidad de la vida y de la salud, para todas y todos
@@ -8289,6 +8382,7 @@ index:
                         text: colaborar en el desarrollo de campañas de lucha contra la obesidad y el sobrepeso infantil y juvenil, así como de una vida activa a través del deporte y el ejercicio físico.
             - chapter:
                 title: Incrementar la financiación de la actividad deportiva
+                topics: Financiación
                 children:
                 - promise:
                     id: 02cfc0b8-1e56-40eb-9e85-72fef4f224db
@@ -8304,6 +8398,7 @@ index:
                         text: Esto debe garantizarse mediante un pacto entre el Estado y las autonomías, que eleve la irrisoria inversión en deporte desde el 0,06% actual hasta el 0,25% del PIB a medio plazo, acompañada de una política potente de patrocinio y mecenazgo
         - chapter:
             title: Digitalización con derechos
+            topics: Digitalización
             children:
             - promise:
                 id: 339d30e5-a8ed-4fad-928f-eeca35929c03

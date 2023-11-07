@@ -1,7 +1,7 @@
 ---
 title: Documentos
 comments: true
-permalink: /docs/
+permalink: /docs
 ---
 
 <!-- Programas electorales (manifestos) -->
@@ -17,6 +17,15 @@ permalink: /docs/
 {% assign documents = site.data.documents | where: 'type', "goverment_agreement" | sort: "publication_date" %}
 
 <h6 class="border-bottom pb-2">Acuerdos de Gobierno</h6>
+<div class="row pt-2">
+    {% include documents_list.html %}
+</div>
+
+<br>
+<!-- Acuerdos de investidura (investiture agreements) -->
+{% assign documents = site.data.documents | where: 'type', "investiture_agreement" | sort: "publication_date" %}
+
+<h6 class="border-bottom pb-2">Acuerdos de Investidura</h6>
 <div class="row pt-2">
     {% include documents_list.html %}
 </div>

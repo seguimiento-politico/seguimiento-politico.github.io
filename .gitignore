@@ -145,3 +145,8 @@ _drafts/
 frontmatter.json
 _data/tasks.yaml
 .vscode/
+
+# Seguimiento politico
+_data/documents_raw/
+_data/promises_old/
+tests/

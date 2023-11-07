@@ -8,9 +8,11 @@ description: Programa electoral para las elecciones generales del 23 de Julio de
 parties: [VOX]
 url: https://votaabascal.es/assets/pdf/Programa-VOX-2023.pdf
 web_history: https://web.archive.org/web/20230710213951/https://votaabascal.es/assets/pdf/Programa-VOX-2023.pdf
-index:
+content:
 - chapter:
     title: Igualdad entre españoles
+    categories: Derechos y servicios sociales
+    topics: [Igualdad]
     children:
     - declaration:
         id: f0cfc90c-150a-4f97-b4f2-d9d9a633746b
@@ -97,7 +99,7 @@ index:
         page: 12
         text: Acabaremos con la forma actual de reparto de los fondos europeos, de espaldas a los verdaderos intereses de los españoles y condicionada a las imposiciones ideológicas globalistas.
     - chapter:
-        title: Algunas de las acciones más destacadas de vox sobre igualdad entre españoles 
+        title: Algunas de las acciones más destacadas de vox
         children:
         - declaration:
             id: 69f95d5f-6621-48a4-b91f-5b7ea0637a73
@@ -117,6 +119,7 @@ index:
             text: Durante toda la legislatura se han presentado enmiendas de totalidad y recursos de inconstitucionalidad contra las leyes liberticidas aprobadas por el Gobierno de Pedro Sánchez en materia de ideología de género, Ley del Aborto o como las leyes trans o la Ley del Sólo sí es sí.
 - chapter:
     title: Unidad de España
+    categories: Nacionalismo y patriotismo
     children: 
     - declaration:
         id: d6320abb-8e58-4d10-bb35-ae425b1fa633
@@ -205,6 +208,7 @@ index:
             text: Veto en el senado a la PL de sedición y malversación en oposición frontal a la reforma del Código Penal cuyo único objetivo es facilitar la perpetración en el futuro de nuevos Golpes de Estado, favorecer a los socios separatistas del PSOE y facilitar la corrupción de los socialistas y sus aliados (diciembre de 2022).
 - chapter:
     title: Empleo y salarios dignos
+    categories: Trabajo
     children:
     - declaration:
         id: af517eb5-a19a-40e5-8038-a48176ff78ee
@@ -307,7 +311,7 @@ index:
         page: 26
         text: Fomentaremos y protegeremos el artesanado y los oficios tradicionales y con arraigo, herencia vigorosa de nuestros abuelos, mediante medidas fiscales y crediticias, así como reconocemos la tradición secular del cooperativismo y la economía social en nuestra nación, promoviendo la participación de los trabajadores en las empresas.
     - chapter:
-        title: Algunas de las acciones más destacadas de vox sobre empleo 
+        title: Algunas de las acciones más destacadas de vox
         children:
         - declaration:
             id: 70b54060-3acd-4c5f-9930-47f10f6ff107
@@ -331,6 +335,7 @@ index:
             text: En el Gobierno de Castilla y León, VOX cumplió su compromiso electoral reduciendo en 20,5 millones de euros el dinero público que la Junta daba cada año a CCOO, UGT y CEOE. Esta medida ha supuesto un recorte de más del 50% de la asignación que recibían desde la Consejería de Industria, Comercio y Empleo ( junio 2022).
 - chapter:
     title: Educación en libertad
+    categories: Educación
     children:
     - declaration:
         id: 99b0d1b0-9086-4f16-9b65-7de4d18b71c6
@@ -417,7 +422,7 @@ index:
         page: 35
         text: Incluiremos en los currículos contenidos sobre la historia de España, la identidad nacional y la aportación de España a la civilización y a la historia universal, con especial atención a las gestas y hazañas de nuestros héroes nacionales, así como a los símbolos de la Nación, especialmente la Bandera, el Himno y la Corona. Se promoverá también el conocimiento de las manifestaciones culturales propias de nuestra Nación y de la Hispanidad.
     - chapter:
-        title: Algunas de las acciones más destacadas de vox sobre educación en libertad 
+        title: Algunas de las acciones más destacadas de vox
         children:
         - declaration:
             id: 65ec798a-f609-4709-8e78-d9bca61d8784
@@ -437,6 +442,7 @@ index:
             text: PNL relativa a garantizar el derecho que asiste a los padres para que sus hijos reciban la formación religiosa y moral que esté de acuerdo con sus propias convicciones, instando al Gobierno a asegurar la efectiva observancia y cumplimiento del principio de neutralidad ideológica en la enseñanza (marzo 2022).
 - chapter:
     title: Acceso a la vivienda
+    categories: Vivienda
     children:
     - declaration:
         id: ee0f2edb-0ee4-4331-929a-549685cb583a
@@ -513,7 +519,7 @@ index:
             page: 43
             text: Rechazamos por ello proyectos globalistas como la llamada Nueva Bauhaus europea que impulsan los burócratas de Bruselas, que, con la coartada del fanatismo climático y la eficiencia energética de los edificios pretende uniformizar la realidad de nuestras ciudades.
     - chapter: 
-        title: Algunas de las acciones más destacadas de vox relacionadas con la vivienda
+        title: Algunas de las acciones más destacadas de vox
         children:
         - declaration:
             id: dfef1aad-d78d-4202-a55e-c0f1888a653e
@@ -537,6 +543,7 @@ index:
             text: Proposición de Ley de modificación de la Ley de Bases del Régimen Local al objeto de evitar que tanto okupas como inmigrantes ilegales puedan inscribirse en el padrón municipal como residentes del inmueble usurpado y evitar así que accedan a los derechos que lleva aparejado el empadronamiento (octubre 2022).
 - chapter:
     title: Producido en España 
+    categories: Comercio
     children:
     - declaration:
         id: 18334e44-088f-49dc-821d-abde0fe76e1f
@@ -659,6 +666,7 @@ index:
             text: PNL relativa a la relocalización de la industria manufacturera en territorio español, creando un marco normativo incentivador en los ámbitos tributario, administrativo, ambiental y laboral que genere la vuelta a España de plantas productivas nacionales (febrero 2021).
 - chapter:
     title: Salud
+    categories: Sanidad
     children:
     - declaration:
         id: e513f79d-42ae-4f73-8abd-e7f3077c9ebe
@@ -757,7 +765,7 @@ index:
         page: 59
         text: La Sanidad española debe dar preferencia sanitaria a todo español y residente legal y a los trabajadores españoles que regresen del extranjero, aunque sea temporalmente. En el caso de los inmigrantes en situación de ilegalidad, la atención abarcará las situaciones de urgencia vital y enfermedades infecto-contagiosas.
     - chapter: 
-        title: Algunas de las acciones más destacadas de vox sobre salud
+        title: Algunas de las acciones más destacadas de vox
         children:
         - declaration:
             id: 8a2cd206-d1c8-4870-b8c2-35cc1dcbe918
@@ -781,6 +789,7 @@ index:
             text: Proposición de Ley Orgánica de cuidados paliativos en el proceso final de la vida (octubre 2022).
 - chapter:
     title: Protección social de los españoles
+    categories: Derechos y servicios sociales
     children:
     - declaration:
         id: 3d2065cb-8c0b-477d-a772-e934accac524
@@ -879,7 +888,7 @@ index:
         page: 68
         text: Promoveremos un estilo de vida saludable, que proporcione a los miembros de las familias las herramientas necesarias para ser libres y no caer en adicciones, cuyas consecuencias para la persona y su familia pueden ser devastadoras.
     - chapter: 
-        title: Algunas de las acciones más destacadas de vox sobre políticas sociales
+        title: Algunas de las acciones más destacadas de vox
         children:
         - declaration:
             id: 2a3e83c7-4690-4633-94a1-71736ed5b6a6
@@ -903,6 +912,7 @@ index:
             text: Proposición no de Ley para garantizar la protección y el cuidado de los menores tutelados en los centros de protección de menores de todo el territorio español frente a los abusos y la explotación sexual que puedan haber ocurrido en centros de protección de menores en España y para asegurar el retorno de los MENA a sus países de origen (febrero 2022).
 - chapter:
     title: Fiscalidad para la prosperidad
+    categories: Impuestos y financiación pública
     children:
     - declaration:
         id: 4f5705f2-bf41-4604-8632-ab4ed38d91ae
@@ -1137,7 +1147,7 @@ index:
         page: 85
         text: Vigilaremos, como no se ha hecho jamás, el impacto económico y social para la economía española y para las familias, de cualquier Reglamento, Directiva o Decisión comunitaria, antes de su aprobación, para exigir en Bruselas su no aprobación o modificación antes de aprobarse, así como antes de la ratificación de cualquier Tratado Internacional.
     - chapter: 
-        title: Algunas de las acciones más destacadas de vox sobre fiscalidad
+        title: Algunas de las acciones más destacadas de vox
         children:
         - declaration:
             id: 93a336f7-2eeb-4b83-98e6-4d2edb34000b
@@ -1161,6 +1171,7 @@ index:
             text: Proposición no de Ley exigiendo la auditoría y racionalización del gasto de las entidades pertenecientes al sector público institucional de la Administración General del Estado para identificar duplicidades y eliminarlas (mayo 2022).
 - chapter:
     title: Seguridad y defensa
+    categories: Seguridad y defensa
     children:
     - declaration:
         id: bac98aa2-9ec8-4791-b47b-abbc80ffa08a
@@ -1261,7 +1272,7 @@ index:
             page: 95
             text: Apoyaremos todas las medidas que tengan por finalidad aumentar la protección personal y seguridad y prevención de riesgos laborales de los Vigilantes de Seguridad a fin de que puedan desarrollar su principal actividad frente a los agresores, lucharemos contra el intrusismo y la mejora de sus condiciones laborales y de jubilación.
     - chapter: 
-        title: Algunas de las acciones más destacadas de vox sobre seguridad y defensa
+        title: Algunas de las acciones más destacadas de vox
         children:
         - declaration:
             id: c112a8fb-2755-4057-88ab-c03068c48d1b
@@ -1285,6 +1296,7 @@ index:
             text: Proposición de Ley por la que se modifica la Ley 39/2007, de 19 de noviembre, de la carrera militar, con el fin de establecer un régimen profesional único para el personal militar profesional (abril 2021).
 - chapter:
     title: Inmigración e identidad nacional
+    categories: [Migración]
     children:
     - declaration:
         id: 7317eda9-773d-4828-820f-0a5026624e54
@@ -1379,7 +1391,7 @@ index:
         page: 103
         text: Revisaremos el derecho a la nacionalidad vinculada únicamente al hecho de haber nacido en territorio nacional. La concesión de la nacionalidad debe ser fruto del esfuerzo por integrarse en nuestra nación y las personas que logren adquirirla deben poder sentirse orgullosas.
     - chapter: 
-        title: Algunas de las acciones más destacadas de vox sobre inmigración
+        title: Algunas de las acciones más destacadas de vox
         children:
         - declaration:
             id: cdaf2004-9996-4761-93e6-1a4b26f005ee
@@ -1399,6 +1411,7 @@ index:
             text: Proposición no de Ley relativa a la exigencia de la residencia legal en España como requisito de inscripción en el padrón municipal (agosto 2021).
 - chapter:      
     title: España verde
+    categories: [Medioambiente]
     children:
     - declaration:
         id: 98ae2c5e-d29e-4d26-963d-dce2d516e9a3
@@ -1490,7 +1503,7 @@ index:
         page: 112
         text: Las costas y playas forman parte de la riqueza natural y paisajística de España. La necesaria protección de este patrimonio ha de hacerse compatible con el desarrollo de legítimas actividades económicas. Paralizaremos la reforma de la Ley de Costas, que pone en riesgo el empleo de decenas de miles de trabajadores y sus familias. Impulsaremos las necesarias reformas para asegurar la continuidad de estas actividades y el mantenimiento del empleo.
     - chapter: 
-        title: Algunas de las acciones más destacadas de vox sobre españa verde
+        title: Algunas de las acciones más destacadas de vox
         children:
         - declaration:
             id: a095ea90-3c4a-4320-a013-ac667e49ed7a
@@ -1514,6 +1527,7 @@ index:
             text: Recurso de inconstitucionalidad contra la Ley para el reconocimiento de personalidad jurídica a la laguna del Mar Menor y su cuenca, una norma vacía de medidas para cuidar nuestro mar, y que criminaliza al campo levantino (enero 2023).
 - chapter:
     title: Reindustrialización y soberanía energética
+    categories: [Industria, Energía]
     children:
     - declaration:
         id: d506686e-f669-4cad-8283-90ae21be72e9
@@ -1628,7 +1642,7 @@ index:
         page: 120
         text:  Los españoles deben decidir. Las decisiones políticas de los gobiernos nacionales durante las últimas décadas han socavado nuestra soberanía energética. Su sumisión a las agendas globalistas y sus compromisos alcanzados de espaldas a los españoles han dejado nuestro futuro en manos de quienes pretenden imponer ideologías y de quienes son ajenos a los intereses de España. Por eso preguntaremos a los españoles sobre el futuro modelo energético de nuestro país, en virtud del artículo 92 de la Constitución.
     - chapter: 
-        title: Algunas de las acciones más destacadas de vox sobre energía e industria
+        title: Algunas de las acciones más destacadas de vox
         children:
         - declaration:
             id: 85430e9e-eede-4363-b4ca-32f57a029a9d
@@ -1652,6 +1666,7 @@ index:
         text: Moción sobre medidas concretas para cambiar el rumbo de sus políticas energéticas y dirigirlas así a los intereses de los españoles. La soberanía energética de España representa un objetivo fundamental que alcanzar, a pesar de que el gobierno insiste en establecer un modelo energético a espaldas de los españoles, impidiendo aprovechar todas las tecnologías y recursos disponibles (ictubre 2022).
 - chapter:
     title: Despolitización de la Justicia
+    categories: [Justicia]
     children:
     - declaration:
         id: 0be58d9c-a02d-43f3-b347-421e95de92e3
@@ -1738,7 +1753,7 @@ index:
         page: 129
         text: Impulsaremos un nuevo plan penitenciario y un aumento del personal de equipamiento de los funcionarios de prisiones. Eliminaremos los privilegios penitenciarios a los presos condenados por terrorismo. Además, prohibiremos la utilización de los centros penitenciarios para el intercambio de presos peligrosos a cambio del acercamiento de presos de ETA a las cárceles vascas.
     - chapter: 
-        title: Algunas de las acciones más destacadas de vox en materia de justicia
+        title: Algunas de las acciones más destacadas de vox
         children:
         - declaration:
             id: fc583ded-14f1-4c80-ae41-33c9a0f8dfb3
@@ -1762,6 +1777,7 @@ index:
             text: Recurso de inconstitucionalidad de VOX contra la Ley Orgánica 14/2022, de 22 de diciembre, por la que se procedió a la derogación del delito de sedición y al abaratamiento del delito de malversación de caudales públicos (marzo 2023).
 - chapter:
     title: Unión Europea  
+    categories: [Política internacional]
     children:
     - declaration:
         id: 04eae96e-8470-42f0-9bdc-76a4c5435b0b
@@ -1848,7 +1864,7 @@ index:
         page: 137
         text: Impulsaremos desde el Consejo de la Unión Europea la suspensión inmediata y revisión de todo el Pacto Verde Europeo, eliminando cuanto perjudica a nuestros productores y economía.
     - chapter: 
-        title: Algunas de las acciones más destacadas de vox relacionadas con la unión europea
+        title: Algunas de las acciones más destacadas de vox
         children:
         - declaration:
             id: 10f75f5c-441f-4d65-b3ea-d566b3859eec
@@ -1872,6 +1888,7 @@ index:
             text: Desde el Gobierno de Castilla y León, VOX exigió en mayo de 2023 a la responsable de Sanidad Animal de la Comisión Europea flexibilizar el reglamento comunitario de saneamiento animal. En este sentido, Juan García-Gallardo presentó en Bruselas un paquete de medidas para flexibilizar los controles veterinarios sin comprometer las garantías sanitarias. Unas propuestas con las que se busca conseguir el aval comunitario ante las reivindicaciones más acuciantes del sector ganadero.
 - chapter:
     title: Iberosfera
+    categories: [Política internacional]
     children:
     - declaration:
         id: 64423416-074f-4324-89db-954f4f453a69
@@ -1926,7 +1943,7 @@ index:
         page: 144
         text: Combatiremos los intentos de borrado del legado español en América. Los españoles no tenemos que pedir perdón por nuestro pasado. Impulsaremos iniciativas culturales y educativas, tanto dentro como fuera de nuestras fronteras, destinadas a combatir la “leyenda negra” y a dar a conocer la labor civilizadora de España en América. También se prestará especial atención a la preservación del legado español en Guinea Ecuatorial y Filipinas.
     - chapter: 
-        title: Algunas de las acciones más destacadas de vox relacionadas con la iberosfera
+        title: Algunas de las acciones más destacadas de vox
         children:
         - declaration:
             id: e52e0351-883b-4a80-bfa7-3d9b02f55400
@@ -1950,6 +1967,7 @@ index:
             text: Proposición no de Ley relativa a reconocer y promocionar el legado español en Iberoamérica (septiembre 2020).
 - chapter:
     title: España rural
+    categories: [Territorio rural]
     children:
     - declaration:
         id: 5ecc10cc-5336-477b-bd02-d7b28d4dc934
@@ -2049,7 +2067,7 @@ index:
         page: 151
         text: Fortaleceremos el turismo rural.
     - chapter: 
-        title: Algunas de las acciones más destacadas de vox sobre españa rural
+        title: Algunas de las acciones más destacadas de vox
         children:
         - declaration:
             id: 72740b80-24c3-4da6-b813-f4566f65d4ea
@@ -2069,6 +2087,8 @@ index:
             text: PNL de creación de un plan de promoción de la España rural como destino para el teletrabajo (septiembre 2021).
 - chapter:
     title: Libertad de expresión
+    categories: Derechos y servicios sociales
+    topics: Libertad de expresión
     children:
     - declaration:
         id: 2b55eaf9-4e9b-40f1-8071-00b18e6cc993
@@ -2135,7 +2155,7 @@ index:
         page: 158
         text: Aprobación de una Ley de Concordia que fomente el encuentro y la reconciliación y cuyo fin sea superar las divisiones y hostilidades entre españoles mediante la cooperación y la integración en este proyecto común de España.
     - chapter: 
-        title: Algunas de las acciones más destacadas de vox sobre libertad de expresión
+        title: Algunas de las acciones más destacadas de vox
         children:
         - declaration:
             id: 9ed8952a-6c1a-4510-bfe1-b840c416b3fc
@@ -2155,6 +2175,7 @@ index:
             text: PNL para el impulso de una mayor protección en el tratamiento de los datos personales de carácter financiero de los españoles para asegurar que las entidades financieras no utilicen datos personales de sus clientes para llevar a cabo acciones de carácter político o de adoctrinamiento ideológico o social (septiembre 2022).
 - chapter:
     title: Perspectiva de familia
+    categories: [Familia]
     children:
     - declaration:
         id: 0a785f49-07f4-43a3-86d7-37231fbb734e
@@ -2233,7 +2254,7 @@ index:
         page: 165
         text: Estableceremos un marco jurídico que impida que personas que actúan en legítima defensa para proteger su hogar y a su familia tengan que sufrir un infierno judicial hasta demostrar su inocencia.
     - chapter: 
-        title: Algunas de las acciones más destacadas de vox en materia de familia
+        title: Algunas de las acciones más destacadas de vox
         children:
         - declaration:
             id: a5dbc238-6f3f-49e6-95ce-4d4f75f63775
@@ -2257,6 +2278,7 @@ index:
             text: Proposición no de Ley relativa a la promoción de ayudas para mujeres embarazadas destinadas al fomento de la natalidad y protección del no nacido (febrero 2022).
 - chapter:
     title: Dignidad humana
+    categories: Derechos y servicios sociales
     children:
     - declaration:
         id: 8a4d3de2-6d2b-446a-bd97-946714a01ca8
@@ -2374,7 +2396,7 @@ index:
         page: 174
         text: Ley de memoria, dignidad y justicia para las víctimas del terrorismo. Esta nueva norma impedirá de forma efectiva los homenajes a los terroristas, como medida de justicia y de pedagogía para que las nuevas generaciones desechen el recurso a la violencia como arma política.
     - chapter: 
-        title: Algunas de las acciones más destacadas de vox en materia de dignidad humana
+        title: Algunas de las acciones más destacadas de vox
         children:
         - declaration:
             id: 897f5ff7-a66e-40e3-abda-216511bfebd7

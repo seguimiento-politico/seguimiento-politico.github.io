@@ -40,7 +40,7 @@
         <div class="collapse bd-toc-collapse"id="tocContents">
             <nav id="TableOfContents">
                 <ul>
-                    {% for chapter in doc.index %}
+                    {% for chapter in doc.content %}
                     <li><a href="#{{chapter.title | slugify}}" class="">{{forloop.index}}. {{ chapter.title }}</a>
                         <ul>
                             {% for sub_chapter in chapter.children %}

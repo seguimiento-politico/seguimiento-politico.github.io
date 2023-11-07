@@ -6,14 +6,15 @@ publication_date: '2021-10-16'
 url: https://www.voxespana.es/wp-content/uploads/2021/10/AgendaEspana_VOX.pdf
 web_history: https://web.archive.org/web/20211016061534/https://www.voxespana.es/wp-content/uploads/2021/10/AgendaEspana_VOX.pdf
 title: Agenda España 2021
-index:
+content:
 - declaration:
     id: ea7a9a75-0928-47c1-998c-d2aa98154d83
     page: 3
     text: "Queridos compatriotas: En octubre de 2018 VOX presentó 100 medidas urgentes para España. Nuestra Nación sufría entonces la amenaza del golpe separatista, los efectos nocivos de la última gran crisis económica, las consecuencias de la inmigración ilegal y la hegemonía cultural y política de la izquierda. ¿Cuántas de las medidas que entonces proponíamos nos habrían evitado dolor, ruina, problemas de convivencia o restricción de derechos? ¿Dónde estaría España si se hubieran puesto en práctica los valores del patriotismo y la libertad?<br> En 2021, y tras sufrir todos los españoles tres largos años de división, ruina y ataque a nuestras instituciones, VOX da otro paso hacia adelante y presenta la Agenda España: una respuesta a las agendas globalistas que pretenden la destrucción de las clases medias, la liquidación de la soberanía de las naciones y el ataque a la familia, la vida y las raíces comunes de Occidente.<br> El porvenir de nuestra patria depende de que seamos capaces de robustecer los vínculos que nos unen, preservar nuestra identidad nacional y cuidar las libertades amenazadas por los nuevos totalitarismos y la inmigración ilegal masiva.<br> Por ello, frente a los intereses que defienden las elites progresistas, la Agenda España tiene como único objetivo proteger a los españoles, atender a sus necesidades y dotar a las próximas generaciones de un horizonte de libertad, igualdad, prosperidad, justicia y respeto por sus valores y tradiciones."
 - chapter:
-    id: 1
     title: Igualdad entre españoles
+    categories: Derechos y servicios sociales
+    topics: Igualdad
     children:
     - declaration:
         id: c5baf67e-4f48-4528-bfa6-7d653881127b
@@ -63,8 +64,8 @@ index:
         id: bf518b6f-0a45-4374-bca1-ecaeb406f249
         text: Suprimir todos los organismos ideológicos y subvenciones a partidos, sindicatos, patronales y otros entes políticos. No habrá igualdad real entre españoles mientras una casta privilegiada viva del esfuerzo del español de a pie.    
 - chapter:
-    id: 2
     title: Unidad de España
+    categories: Nacionalismo y patriotismo
     children:
     - declaration:
         id: 56408370-7ca9-4775-a2de-c87225a0fc09
@@ -103,8 +104,8 @@ index:
         title: Derogar todas las leyes que alienten el enfrentamiento y la división entre españoles, como las llamadas leyes de “memoria democrática” o “memoria histórica”.
         page: 8
 - chapter:
-    id: 3
     title: Empleo y salarios dignos
+    categories: Trabajo
     children:
     - declaration:
         id: 7b1e6f80-7785-4bb3-9be3-3699bebc57e4
@@ -151,8 +152,8 @@ index:
         page: 10
         text: Avanzar hacia un marco jurídico y laboral adaptado a las cada vez más comunes circunstancias de teletrabajo, que puede servir para mejorar la conciliación de la vida familiar y social siempre y cuando se aseguren unas condiciones laborales adecuadas. Esta nueva modalidad de empleo puede servir también para que muchas familias tengan la libertad de salir de los grandes núcleos urbanos y volver a sus pueblos y ciudades.
 - chapter:
-    id: 4
     title: Educación en libertad
+    categories: Educación
     children:
     - declaration:
         id: 3710d338-71e0-4e7f-9041-6b76a52a874a
@@ -225,8 +226,8 @@ index:
         page: 12
         text: Dignificar los oficios y las artes mediante el impulso a la formación profesional. La Formación Profesional debe ser una opción atractiva para que nuestros jóvenes adquieran las herramientas que les permitan acceder a un empleo o emprender una iniciativa empresarial propia.
 - chapter:
-    id: 5
     title: Acceso a la vivienda
+    categories: Vivienda
     children:
     - declaration:
         id: f0e028bc-c95d-4a18-82e2-02dd44199f3a
@@ -257,8 +258,8 @@ index:
         page: 14
         text: Reforma tanto del Código Penal como de las Leyes de Enjuiciamiento Criminal y Civil para proteger real y efectivamente a los propietarios que sufren la acción de las mafias de ocupación o la entrada ilegal de un intruso en su vivienda. Todo español debe tener la capacidad de defenderse a sí mismo y a los suyos ante una agresión en su propio hogar.
 - chapter:
-    id: 6
     title: Producido en España 
+    categories: Comercio
     children:
     - declaration:
         id: dd3f9c8a-27cc-4bd4-8c39-8309db7da2e3
@@ -301,8 +302,8 @@ index:
         page: 16
         text: Refuerzo de la acción diplomática y consular dirigida a proteger y ayudar a los trabajadores y empresas españoles en el extranjero, así como garantizar siempre el efectivo ejercicio de sus derechos.
 - chapter:
-    id: 7
     title: Salud
+    categories: Sanidad
     children:
     - declaration:
         id: dcd69106-ad13-4615-aa27-e18217adfa53
@@ -353,8 +354,8 @@ index:
         page: 18
         text: Desarrollo de un sistema de compras centralizado que acabe con las ineficiencias autonómicas y garantice la transparencia de las decisiones económicas.
 - chapter:
-    id: 8
     title: Protección social de los españoles
+    categories: Derechos y servicios sociales
     children:
     - declaration:
         id: 62c97e6a-72e3-4d42-b053-15abc4fe275a
@@ -403,6 +404,7 @@ index:
 - chapter:
     id: 9
     title: Fiscalidad para la prosperidad
+    categories: Impuestos y financiación pública
     children:
     - declaration:
         id: 7b4777fa-4125-46d0-83d5-fe6750a80285
@@ -463,6 +465,7 @@ index:
 - chapter:
     id: 10
     title: Seguridad y defensa
+    categories: Seguridad y defensa
     children:
     - declaration:
         id: 0628e242-d514-4334-93cf-b9106196e091
@@ -523,6 +526,7 @@ index:
 - chapter:
     id: 11
     title: Inmigración e identidad nacional
+    categories: Migración
     children:
     - declaration:
         id: 32c81bff-2611-4942-9afb-cd9172e5fd0f
@@ -575,6 +579,7 @@ index:
 - chapter:
     id: 12
     title: España verde
+    categories: [Medioambiente]
     children:
     - declaration:
         id: e398a16a-1e55-49fc-aa94-9c13b5c824ba
@@ -623,6 +628,7 @@ index:
 - chapter:
     id: 13
     title: Reindustrialización y soberanía energética
+    categories: [Industria, Energía]
     children:
     - declaration:
         id: e22c4f2e-6522-4867-8eb2-a6d0195defa8
@@ -675,6 +681,7 @@ index:
 - chapter:
     id: 14
     title: Despolitización de la Justicia
+    categories: [Justicia]
     children:
     - declaration:
         id: 4e8c0920-4c94-4bd9-8eff-49c00927a0a4
@@ -723,6 +730,7 @@ index:
 - chapter:
     id: 15
     title: Unión Europea  
+    categories: [Política internacional]
     children:
     - declaration:
         id: ed3b45e7-53af-4b8d-b35d-0e49af6b5bf8
@@ -779,6 +787,7 @@ index:
 - chapter:
     id: 16
     title: Iberosfera
+    categories: [Política internacional]
     children:
     - declaration:
         id: daf06052-18e2-42fd-90ee-5012997e97f4
@@ -819,6 +828,7 @@ index:
 - chapter:
     id: 17
     title: España rural
+    categories: [Territorio rural]
     children:
     - declaration:
         id: d675c018-9810-40ee-924d-f19d78f1954c
@@ -875,6 +885,8 @@ index:
 - chapter:
     id: 18
     title: Libertad de expresión
+    categories: Derechos y servicios sociales
+    topics: Libertad de expresión
     children:
     - declaration:
         id: 25045c1c-b920-4879-ad50-5451d1cebc41
@@ -919,6 +931,7 @@ index:
 - chapter:
     id: 19
     title: Perspectiva de familia
+    categories: [Familia]
     children:
     - declaration:
         id: 8aa11d3a-2095-4a20-9924-6573c10768b3
@@ -967,6 +980,7 @@ index:
 - chapter:
     id: 20
     title: Dignidad humana
+    categories: Derechos y servicios sociales
     children:
     - declaration:
         id: 72ee4139-758e-4d4f-83a3-7a2176973644

@@ -7,7 +7,7 @@ title: Elecciones generales 2019
 description: Programa electoral para las elecciones generales del 10 de Noviembre de 2019
 url: https://www.pp.es/sites/default/files/documentos/programa-electoral-elecciones-generales-2019.pdf
 web_history: https://www.pp.es/sites/default/files/documentos/programa-electoral-elecciones-generales-2019.pdf
-index:
+content:
 - chapter: 
     title: NUESTRO CONTRATO CON LOS ESPAÑOLES
     children:
@@ -85,6 +85,7 @@ index:
         text: Somos una nación abierta que necesita impulsar una acción decidida en la Unión Europea porque es Europa nuestro principal ámbito de acción exterior. Para poner freno a la inmigración ilegal hay que enviar mensajes claros de que España solo aceptará a quienes vengan de forma legal, ordenada, vinculada a un contrato de trabajo y respetando nuestras costumbres. Garantizar la seguridad también es combatir al terrorismo con la acción de las Fuerzas y Cuerpos de Seguridad del Estado pero, al mismo tiempo, protegernos con leyes como la Prisión Permanente Revisable. A nivel global, tenemos responsabilidades históricas, especialmente en Iberoamérica donde debemos liderar el apoyo a los demócratas de Venezuela, Cuba y Nicaragua. Pero los desafíos no terminan ahí. Tenemos un compromiso ineludible con aquellas naciones donde aún anhelan la libertad de la que disfrutamos en las democracias consolidadas.
 - chapter:
     title: Comprometidos con el fortalecimiento de la Nación 
+    categories: Nacionalismo y patriotismo
     children:
     - declaration:
         id: 5f62ea7d-0c31-4661-9660-b7f0408630d0
@@ -164,6 +165,7 @@ index:
         text: Promoveremos la Fiesta Nacional del 12 de octubre en el conjunto de la sociedad española e impulsaremos actividades en torno a ella en todos los centros escolares españoles.
 - chapter:
     title: Una revolución fiscal para el crecimiento económico y la competitividad 
+    categories: [Impuestos y financiación pública]
     children:
     - declaration:
         id: e80005f9-0dd0-468d-be43-3879057dddec
@@ -283,6 +285,7 @@ index:
         text: Impulsaremos la colaboración público-privada en la provisión de los servicios públicos como instrumentos compatibles y complementarios, tomando siempre como objetivo la calidad, la transparencia y la eficiencia del servicio que se presta en ámbitos como el energético.
 - chapter:
     title: Por una economía moderna y avanzada 
+    categories: [Economía]
     children:
     - declaration:
         id: ba3f5b81-5484-4980-8e48-420b71fe0397
@@ -350,6 +353,8 @@ index:
         text:  Garantizaremos un marco jurídico estable al conjunto de la cadena de valor del sector de la automoción.
     - chapter:
         title: I+D+i 
+        categories: [Ciencia y tecnología]
+        topics: 'I+D+i'
         children:
         - promise:
             id: d25850a1-af3f-40ac-b8b9-5e0fe0e5e4a2
@@ -497,6 +502,7 @@ index:
             text: Adaptaremos el marco del sector asegurador a la transformación digital.
     - chapter:
         title: Autónomos 
+        categories: Empresas y autónomos
         children:
         - promise:
             id: d4944142-4398-4a1d-a87f-2424c98d653a
@@ -520,6 +526,7 @@ index:
             text: Facilitaremos la conciliación de la vida laboral y familiar, con medidas que actúen en diversos ámbitos removiendo diferentes obstáculos.
     - chapter:
         title: Empleo 
+        categories: [Trabajo]
         children:
         - promise:
             id: 53d3d607-a40a-4ebe-87a5-ac8f90c5066f
@@ -591,6 +598,7 @@ index:
             text: Favoreceremos el envejecimiento activo y la prolongación voluntaria de la vida laboral más allá de la edad ordinaria de jubilación, revisando los incentivos para fomentar la permanencia de los trabajadores en activo y promover una mayor compatibilidad entre percepción de la pensión y percepción del salario por actividad laboral. En particular estableceremos, entre otras medidas, un régimen por el cual los trabajadores que alcancen la edad legal de jubilación puedan aplicar una exención en el pago del IRPF cuando se continúe la actividad profesional sin cobrar la pensión de jubilación.
     - chapter:
         title: Comercio 
+        categories: [Comercio]
         children:
         - promise:
             id: 092ce58f-528e-4114-9827-b8a39c0f4835
@@ -618,6 +626,7 @@ index:
             text: Coordinaremos la acción de las políticas de internacionalización de las comunidades autónomas con las de la Administración General del Estado, procurando la completa integración de las oficinas de las comunidades autónomas en las Oficinas Económicas y Comerciales del Estado.
     - chapter:
         title: Turismo 
+        categories: [Turismo]
         children:
         - promise:
             id: bbcca4c0-6532-4b4b-9708-22c25da701db
@@ -669,6 +678,7 @@ index:
             text: Apoyaremos a Paradores como referencia de turismo de calidad que lo convierta en sostenible y motor para el desarrollo de nuevos destinos. Apoyaremos su transformación digital.
 - chapter:
     title: Por una educación de calidad y en libertad 
+    categories: Educación
     children:  
     - declaration:
         id: fbe842a0-328d-42a4-bffb-49f205097379
@@ -752,6 +762,7 @@ index:
         text: Elaboraremos un plan nacional para garantizar el honor y la intimidad personal de los estudiantes en los centros escolares y proteger a los estudiantes del ciberacoso. Los centros educativos, a su vez, elaborarán planes para la formación de los escolares en ciberseguridad.
     - chapter:
         title: Universidades 
+        topics: Universidad
         children:
         - promise:
             id: 101c8b22-15c1-4da8-b1b3-d8a3ec133685
@@ -807,6 +818,7 @@ index:
             text: Promoveremos el uso de nuevas herramientas informáticas colaborativas para la totalidad del sistema universitario español, incluyendo la Compra Pública Innovadora.
     - chapter:
         title: Deporte 
+        categories: Deporte
         children:
         - promise:
             id: 1464fbcc-f0b4-446c-a9d2-3e59ca2e8659
@@ -838,6 +850,7 @@ index:
             text: Promoveremos iniciativas para facilitar la apertura de los centros educativos para el uso de sus instalaciones deportivas y actividades complementarias.
 - chapter:
     title: Más y mejor sociedad del bienestar 
+    categories: Derechos y servicios sociales
     children:    
     - declaration:
         id: 6a3c4834-8284-45f4-9bbc-1f6548e83e03
@@ -856,7 +869,8 @@ index:
         page: 28
         text: El fomento de la autonomía personal, el envejecimiento activo, la solidaridad intergeneracional, la promoción de una vida saludable y la atención integral a las personas en situación de dependencia es una prioridad en toda sociedad moderna y avanzada y requiere de estabilidad financiera en los recursos que aportan las administraciones y desarrollar políticas de colaboración público-privada. Somos el partido que siempre ha garantizado las pensiones de nuestros mayores. Estamos comprometidos con el Pacto de Toledo y creemos que la sostenibilidad del sistema de pensiones es una cuestión que nos incumbe a todos.
     - chapter:
-        title: Sanidad   
+        title: Sanidad 
+        categories: Sanidad  
         children: 
         - promise:
             id: df26f0a7-ad49-43b1-bbf2-995d710aae37
@@ -1047,6 +1061,7 @@ index:
             text: La única lengua cuyo conocimiento será un requisito indispensable para el acceso a un empleo público como el sanitario será el castellano. Las lenguas cooficiales pondrán considerarse un mérito, nunca un requisito excluyente. 
     - chapter:
         title: Consumo 
+        categories: Consumo
         children:
         - promise:
             id: 8f44b657-1679-4ea0-ab44-4f9caa930b54
@@ -1070,6 +1085,7 @@ index:
             text: Protegeremos al consumidor de la obsolescencia programada, es decir, la reducción deliberada de la vida útil de cualquier producto, en especial del ámbito tecnológico y electrodoméstico.
     - chapter:
         title: Dependencia 
+        topics: Dependencia y cuidados
         children:
         - promise:
             id: 654d2a44-ce62-4fa7-9dcd-3222c617b7dd
@@ -1093,6 +1109,7 @@ index:
             text: Mejoraremos la cobertura de los servicios de teleasistencia y ayuda a domicilio para mayores y dependientes, asegurando una adecuada atención profesional para que puedan continuar viviendo en su propio domicilio y en su entorno social y familiar.
     - chapter:
         title: Mayores 
+        topics: Tercera edad
         children:
         - promise:
             id: 21ca4e8b-c13a-475a-b0b0-fb09003a8c4c
@@ -1140,6 +1157,7 @@ index:
             text: Desarrollaremos proyectos tecnológicos de inteligencia artificial para ayudar a nuestros mayores en las rutinas diarias, el control de su salud y la posibilidad de realizar gestiones bancarias y administrativas sin necesidad de esperar grandes colas ni desplazarse.
     - chapter:
         title: Pensiones 
+        topics: Pensiones
         children:
         - promise:
             id: 443c13a3-0ad8-4802-b26d-6cae0c2a172e
@@ -1203,6 +1221,8 @@ index:
         text: En nuestro compromiso con la familia, no podemos olvidar la protección de la infancia. Este es uno de los objetivos prioritarios para el PP. Tenemos la obligación, como sociedad, de garantizar a la infancia su desarrollo, su participación y su protección frente a cualquier tipo de abuso o violencia. También asegurando que en su custodia sea prioritario el interés superior del menor. Debemos seguir avanzando para que las personas con discapacidad tengan los derechos y las oportunidades que merecen. Queremos una sociedad comprometida para derribar las barreras visibles e invisibles que aún les limitan la vida. Sin olvidar la protección del menor respecto a las redes sociales y al ciberacoso.
     - chapter:
         title:  Familia 
+        categories: Familia
+        topics: Incentivos, ayudas y subvenciones
         children: 
         - promise:
             id: da928de2-2f32-4caa-94e9-664b9018ca67
@@ -1283,52 +1303,53 @@ index:
             text: Garantizaremos el derecho al honor y la intimidad personal de los menores en los centros escolares y los protegeremos del ciberacoso. Orientaremos a las familias para que los menores hagan un uso adecuado de Internet y las redes sociales.
     - chapter:
         title:  Discapacidad 
+        topics: Discapacidad
         children:
         - promise:
             id: b38a2b46-5218-41ad-97bb-a760a0aa8df6
             page: 51
             text: Aprobaremos una nueva Ley de Promoción de la Inserción Laboral de las Personas con Discapacidad, que contemplará medidas como incrementar la cuota de reserva de puestos de trabajo para personas con discapacidad, subvenciones por las adaptaciones del puesto de trabajo y ajustes razonables así como al empleo con apoyo, incentivos fiscales a empresas para la contratación de personas con discapacidad y que fomente la contratación pública socialmente responsable
-    - promise:
-        id: 694b9758-73ec-4205-9a2d-e86abbd1354d
-        page: 51
-        text: Extenderemos las medidas de apoyo al empleo de la personas con discapacidad a las comunidades autónomas. Favoreceremos los convenios de colaboración con las entidades de iniciativa social para la gestión de servicios sociales.
-    - promise:
-        id: 01a14140-8051-48ad-af72-0d821b874c17
-        page: 51
-        text: Reformaremos el Código Penal para abolir la práctica de las esterilizaciones involuntaria de las personas con discapacidad.
-    - promise:
-        id: a7be83ee-eb1a-4d57-b17e-6b2ee8cc9ffb
-        page: 51
-        text: Garantizaremos el derecho de los padres de niños con discapacidad a elegir la educación que quieren para sus hijos, tanto en los centros de educación especial como en centros normalizados, asegurando en este último caso que los centros dispongan de profesorado adicional para la implementación de medidas inclusivas de atención a la diversidad en el aula
-    - promise:
-        id: 17d555d6-28ae-487a-baab-c6f276c791d2
-        page: 51
-        text: Potenciaremos la formación del profesorado en el conocimiento de las necesidades de las personas con discapacidad.
-    - promise:
-        id: d36d54da-6281-4a14-9cfa-42e369b5d97b
-        page: 51
-        text: Desarrollaremos planes de eliminación de barreras en el entorno urbano. Aseguraremos la plena accesibilidad de los pueblos y ciudades, tanto del entorno urbano como de los transportes públicos y de las instalaciones deportivas.
-    - promise:
-        id: be5c589a-7fd3-41ce-ab5c-8bba33cefaec
-        page: 51
-        text: Fomentaremos la práctica deportiva y el deporte de base de las personas con discapacidad en las instalaciones municipales. Igualmente, apoyaremos el deporte paralímpico y promoveremos el incremento de las ayudas para avanzar en la equiparación con las que se conceden al deporte olímpico.
-    - promise:
-        id: 8b098035-5975-4781-85e6-9da96da53bb5
-        page: 51
-        text: Reforzaremos la atención especial a los padres con niños con discapacidad, o al cuidador principal, para evitar problemas en su entorno laboral. Impulsaremos programas que promuevan el desarrollo de las habilidades y competencias adecuadas a los padres y las madres para el ejercicio de sus responsabilidades de cuidado, apoyo, atención y educación de sus hijos con discapacidad.
-    - promise:
-        id: 45a8c7f9-ecdd-4508-8f09-ae3072528e12
-        page: 51
-        text: Apoyaremos la participación de personas con discapacidad en actividades de voluntariado.
-    - promise:
-        id: 719c76a7-9c57-414a-afe1-be1ee5926c34
-        page: 51
-        text: Desarrollaremos un Plan de Accesibilidad Cognitiva a entornos, productos y servicios que, además de apoyo tecnológicos, incorpore las técnicas de lectura fácil de señalética. Promoveremos un Plan de Accesibilidad a los Centros y Servicios Sanitarios para personas con discapacidad. Apostaremos por una administración universalmente accesible, con una comunicación e información de lectura fácil y lenguaje sencillo.
-        children:
         - promise:
-            id: 7905ae0f-196b-4d33-b2c0-f685e693ec36
+            id: 694b9758-73ec-4205-9a2d-e86abbd1354d
             page: 51
-            text: Aprobaremos el II Plan Nacional de Accesibilidad que dé continuidad al I Plan Nacional y continúe con sus objetivos.
+            text: Extenderemos las medidas de apoyo al empleo de la personas con discapacidad a las comunidades autónomas. Favoreceremos los convenios de colaboración con las entidades de iniciativa social para la gestión de servicios sociales.
+        - promise:
+            id: 01a14140-8051-48ad-af72-0d821b874c17
+            page: 51
+            text: Reformaremos el Código Penal para abolir la práctica de las esterilizaciones involuntaria de las personas con discapacidad.
+        - promise:
+            id: a7be83ee-eb1a-4d57-b17e-6b2ee8cc9ffb
+            page: 51
+            text: Garantizaremos el derecho de los padres de niños con discapacidad a elegir la educación que quieren para sus hijos, tanto en los centros de educación especial como en centros normalizados, asegurando en este último caso que los centros dispongan de profesorado adicional para la implementación de medidas inclusivas de atención a la diversidad en el aula
+        - promise:
+            id: 17d555d6-28ae-487a-baab-c6f276c791d2
+            page: 51
+            text: Potenciaremos la formación del profesorado en el conocimiento de las necesidades de las personas con discapacidad.
+        - promise:
+            id: d36d54da-6281-4a14-9cfa-42e369b5d97b
+            page: 51
+            text: Desarrollaremos planes de eliminación de barreras en el entorno urbano. Aseguraremos la plena accesibilidad de los pueblos y ciudades, tanto del entorno urbano como de los transportes públicos y de las instalaciones deportivas.
+        - promise:
+            id: be5c589a-7fd3-41ce-ab5c-8bba33cefaec
+            page: 51
+            text: Fomentaremos la práctica deportiva y el deporte de base de las personas con discapacidad en las instalaciones municipales. Igualmente, apoyaremos el deporte paralímpico y promoveremos el incremento de las ayudas para avanzar en la equiparación con las que se conceden al deporte olímpico.
+        - promise:
+            id: 8b098035-5975-4781-85e6-9da96da53bb5
+            page: 51
+            text: Reforzaremos la atención especial a los padres con niños con discapacidad, o al cuidador principal, para evitar problemas en su entorno laboral. Impulsaremos programas que promuevan el desarrollo de las habilidades y competencias adecuadas a los padres y las madres para el ejercicio de sus responsabilidades de cuidado, apoyo, atención y educación de sus hijos con discapacidad.
+        - promise:
+            id: 45a8c7f9-ecdd-4508-8f09-ae3072528e12
+            page: 51
+            text: Apoyaremos la participación de personas con discapacidad en actividades de voluntariado.
+        - promise:
+            id: 719c76a7-9c57-414a-afe1-be1ee5926c34
+            page: 51
+            text: Desarrollaremos un Plan de Accesibilidad Cognitiva a entornos, productos y servicios que, además de apoyo tecnológicos, incorpore las técnicas de lectura fácil de señalética. Promoveremos un Plan de Accesibilidad a los Centros y Servicios Sanitarios para personas con discapacidad. Apostaremos por una administración universalmente accesible, con una comunicación e información de lectura fácil y lenguaje sencillo.
+            children:
+            - promise:
+                id: 7905ae0f-196b-4d33-b2c0-f685e693ec36
+                page: 51
+                text: Aprobaremos el II Plan Nacional de Accesibilidad que dé continuidad al I Plan Nacional y continúe con sus objetivos.
     - promise:
         id: c0df9719-df4d-4f88-ac94-606c90f1f6cc
         page: 51
@@ -1355,6 +1376,7 @@ index:
         text: Aprobaremos el Plan de Prevención de Deficiencias y de Intensificación de Discapacidades. Este plan diseñará un marco general que permita el desarrollo progresivo de intervenciones dirigidas a la promoción de la autonomía personal y a prevenir la discapacidad que generan las enfermedades y las lesiones.
     - chapter:
         title:  Servicios sociales 
+        categories: Derechos y servicios sociales 
         children:
         - promise:
             id: cd19ae7c-2391-468b-8586-11f6373eb7a9
@@ -1390,6 +1412,8 @@ index:
             text: Renovaremos la Estrategia Nacional para la Inclusión Social de la Población Gitana en España 2012-2020 a través de planes operativos en colaboración estrecha con las comunidades autónomas, la FEMP y las entidades sociales del movimiento asociativo gitano, principalmente las que integran el Consejo Estatal del Pueblo Gitano.
     - chapter:
         title:  Igualdad 
+        categories: Derechos y servicios sociales
+        topics: Igualdad
         children:
         - promise:
             id: 907adb42-78eb-4eba-b13c-34535d393ae2
@@ -1425,6 +1449,8 @@ index:
             text: Apoyaremos a las Mujeres Rurales, mejorando su formación en el ámbito digital, acceso a las nuevas tecnologías y uso de las redes sociales. Fomentaremos el uso de la Titularidad Compartida de explotaciones agrarias y los convenios con cooperativas agrícolas y ganaderas.
     - chapter:
         title:  Violencia de género 
+        categories: Seguridad y defensa
+        topics: Violencia de género
         children:
         - promise:
             id: ad30a483-8392-4de2-b302-dc425064a13d
@@ -1571,6 +1597,7 @@ index:
             text: Elaboraremos desde Ayuntamientos y comunidades autónomas Protocolos específicos para la prevención, información y actuación contra el acoso callejero y la violencia sexual en las fiestas populares.
     - chapter:
         title:  Infancia y juventud 
+        topics: Infancia y juventud 
         children:
         - promise:
             id: cd842230-2dfa-433f-b404-5f647eff60ba
@@ -1614,11 +1641,13 @@ index:
             text: Aprobaremos el III Plan Estratégico Nacional de Infancia y Adolescencia.
     - chapter:
         title:  Animales de compañía
+        categories: Civismo
         children:
         - promise:
             id: f71a1a2c-7b40-452d-9649-fa20753bfd4a
             page: 58
             text: Trabajaremos para la defensa y la protección de los animales de compañía y mascotas. Promoveremos reformas legales que luchen contra su abandono y maltrato.
+            tipics: Bienestar animal
         - promise:
             id: 13db3580-39cd-4725-acd1-87e04aca71e9
             page: 58
@@ -1644,6 +1673,7 @@ index:
         text: Hay que seguir potenciando las infraestructuras que vertebran la nación, impulsan el desarrollo económico y el comercio y comunican a los ciudadanos. La vivienda, que es un derecho constitucional, es un sector que genera empleo, cada vez de mayor calidad y que ha llevado a cabo un intenso proceso de modernización en muchos ámbitos, entre otros en los de su eficiencia energética. 
     - chapter:
         title:  Movilidad 
+        categories: Transporte
         children:
         - promise:
             id: 2e7b930c-2ab5-4e86-9d4f-8cd56eb6c1d3
@@ -1676,6 +1706,7 @@ index:
                 text: Impulsaremos la promoción de la movilidad eléctrica desde la Administración Pública y dentro de la propia Administración.
     - chapter:
         title:  Infraestructuras 
+        categories: Infraestructuras
         children:
         - promise:
             id: 8c8cdcb2-4420-47b3-87ce-5f76d5482b8c
@@ -1743,15 +1774,18 @@ index:
             text: Potenciaremos el desarrollo portuario y conectaremos intermodalmente para potenciar el transporte de mercancías con el fin de hacer de nuestros puertos la vía de entrada en Europa de los grandes productores mundiales y seguir siendo un país de referencia para el turismo de cruceros.
     - chapter:
         title:  Vivienda y urbanismo 
+        categories: Urbanismo y ciudades
         children:
         - promise:
             id: ec47d6e8-08d5-450a-868b-ee712185e3db
             page: 64
             text: Favoreceremos el desarrollo de seguros de arrendamiento que cubran el impago de los alquileres y los daños que pueda causar el inquilino, especialmente para facilitar el alquiler de los jóvenes.
+            categories: Vivienda
         - promise:
             id: aa33d475-f8ee-44d0-9d44-17c0665099d2
             page: 64
             text: Implantaremos sistemas de arbitraje para resolver, de manera rápida y poco costosa, conflictos entre arrendadores y arrendatarios.
+            categories: Vivienda
         - promise:
             id: ada0eb7a-12d0-484e-886e-84c6c5b859fe
             page: 64
@@ -1764,10 +1798,12 @@ index:
             id: 975637c0-4056-44bd-96c2-34a7e8ba8169
             page: 64
             text: Incrementaremos la deducción fiscal a los arrendadores por los ingresos derivados de la renta de los alquileres de las viviendas que sirvan de residencia habitual, especialmente cuando los arrendatarios sean jóvenes o mayores de 65 años con ingresos bajos.
+            categories: [Vivienda, Impuestos y financiación pública]
         - promise:
             id: d88889fa-1518-4b3b-9b06-d1f6eb4c3a8a
             page: 64
             text: Impulsaremos la oferta de vivienda de nueva construcción para alquiler asequible favoreciendo fórmulas de cooperación público-privada, que mantengan la propiedad pública del suelo y garanticen una mejor eficiencia de los recursos públicos. Las viviendas irán destinadas prioritariamente a familias con hijos.
+            categories: Vivienda
         - promise:
             id: 1602553d-146d-46a3-9454-a3466cff04d2
             page: 64
@@ -1778,6 +1814,7 @@ index:
             text: Seguiremos impulsando la conversión en ciudades inteligentes de todas las localidades de más de 50.000 habitantes, así como las islas inteligentes de Baleares y Canarias, para mejorar los servicios prestados a los usuarios, facilitar la movilidad urbana, contribuir a un turismo de más calidad y mejorar el respeto al medio ambiente.
     - chapter:
         title:  Cultura 
+        categories: Cultura
         children:
         - promise:
             id: 22660003-4b6e-4f9b-bc2b-18d0e5e69066
@@ -1841,6 +1878,7 @@ index:
             text: Apoyaremos a la industria de la moda visibilizando a los creadores nacionales y fomentando la colaboración público-privada.
 - chapter:
     title: Una España sostenible con futuro 
+    topics: Desarrollo sostenible
     children:    
     - declaration:
         id: d9f8615f-4bb1-4061-9bfe-babccc76b603
@@ -1868,6 +1906,7 @@ index:
         text: No podemos olvidar que uno de los recursos esenciales para la España rural es el agua. Desde el Partido Popular proponemos un sistema del agua que tenga en cuenta la gestión integrada de los recursos hídricos, convencionales y no convencionales, y su uso eficiente y sostenible como pieza fundamental para la atención del déficit hídrico estructural que se produce en algunos territorios de España. Un sistema que tendrá en cuenta todas las infraestructuras hídricas necesarias en el territorio nacional para facilitar el acceso al agua de todos los españoles, desde el respeto a los criterios de unidad de cuenca, sostenibilidad medioambiental, prioridad de uso de la cuenca cedente, garantía de las necesidades presentes y futuras de la misma, y la solidaridad territorial.
     - chapter:
         title:  Energía y cambio climático 
+        categories: Energía
         children:
         - promise:
             id: 62f5d38f-00f9-4dc0-8aca-e70e1df86eb9
@@ -1923,6 +1962,7 @@ index:
             text: Impulsaremos un Plan Talento Energía y Clima potenciando la financiación de la I+D+i en transición a una economía verde y adaptación al cambio climático, para promover la competitividad de la economía española, el empleo de calidad y el retorno y arraigamiento de talento.
     - chapter:
         title:  Medio ambiente 
+        categories: Medioambiente
         children:
         - promise:
             id: c4a3fcde-a32d-464f-9f87-73ae84e3572b
@@ -1950,6 +1990,7 @@ index:
             text: Promoveremos una Estrategia integral para las zonas verdes y bosques periurbanos que faciliten su accesibilidad y disfrute y favorezcan las actividades vinculadas al medioambiente para todos.
     - chapter:
         title:  Agricultura, ganadería y pesca 
+        categories: Economía
         children:
         - promise:
             id: 00a271dc-4a2c-4fbe-8e55-f5b0f13c3537
@@ -2037,6 +2078,7 @@ index:
             text: Defenderemos los intereses de la flota española ante cualquier esce- nario de salida del Reino Unido de la Unión Europea.
     - chapter:
         title:  Agua 
+        categories: Agua
         children:
         - promise:
             id: 79a1c9e6-6f79-4e9d-90cc-d7bd96112bcf
@@ -2060,6 +2102,7 @@ index:
             text: Proponemos la creación de un sistema nacional de agua como un conjunto de infraestructuras, sistemas de información, planes y procedimientos que tienen por objeto optimizar la gestión del recurso hídrico en España respetando al medio ambiente. Mantener y mejorar la seguridad hídrica de todos los territorios es uno de los objetivos. El sistema nacional del agua permitirá gestionar las interconexiones entre cuencas de forma transparente impulsando, en los casos que fuese necesario, la aprobación de normas objetivas para su funcionamiento.
     - chapter:
         title:  Medio rural 
+        categories: Territorio rural
         children:
         - promise:
             id: 1f238191-bddd-4fd5-9fab-0476b9fe1507
@@ -2128,6 +2171,7 @@ index:
                 text: Introduciremos la “perspectiva rural” a la hora de legislar para reflejar las condiciones diferentes de cada territorio.
 - chapter:
     title: Una Mejor Democracia 
+    categories: Democracia
     children:    
     - declaration:
         id: 37b843e3-63b4-4627-ae88-32c43ac6905b
@@ -2155,6 +2199,7 @@ index:
         text: La mejor respuesta a quienes amenazan nuestra democracia es fortaleciendo nuestras instituciones. Merecemos un Gobierno que sea referente de ejemplaridad y que respete la separación de poderes, por ello, es necesario potenciar los mecanismos de transparencia y dotar de nuevos instrumentos de control al Parlamento para evitar la degradación institucional de nuestra democracia provocada por las decisiones del actual Gobierno.
     - chapter:
         title:  Justicia 
+        categories: Justicia
         children:
         - promise:
             id: 3161c607-9bb9-4dab-a1e9-e93c0c75cca8
@@ -2238,8 +2283,8 @@ index:
             page: 81
             text: Reformaremos la legislación mercantil para actualizar el Código de Comercio a la realidad de la transformación tecnológica, la empresa y los negocios de tal modo que se facilite la actividad económica y sea un factor dinamizador del crecimiento y la creación de empleo.
     - chapter:
-
         title:  Función pública 
+        categories: Administración pública
         children:
         - promise:
             id: ad15d0a9-6780-46fa-93d3-a274fd9179d5
@@ -2271,6 +2316,8 @@ index:
             text: Modernizaremos las pruebas selectivas de acceso a la Función Pública, incorporando, junto con las tradicionales pruebas, otras que permitan garantizar que los candidatos se adaptan a las necesidades de una administración moderna.<br> Diseñaremos nuevos modelos de evaluación objetivos y transparentes del desempeño como instrumento de medición del rendimiento. Estas evaluaciones tendrán impacto en la carrera profesional y en las retribuciones de los empleados públicos.<br> Se promoverán sistemas de reclutamiento y formación directivos del sector público empresarial que favorezcan la estabilidad, la experiencia y la profesionalidad.
     - chapter:
         title:  Transparencia y regeneración 
+        categories: Democracia
+        topics: Gobernanza y transparencia
         children:
         - promise:
             id: e66f3104-661b-4bd8-9f65-20f084a2d295
@@ -2339,6 +2386,7 @@ index:
             text: Los medios de comunicación públicos estarán guiados por criterios de profesionalidad, transparencia, pluralidad y racionalidad económica. Terminaremos con el modelo de Administrador único de la corporación de RTVE e impulsaremos un Gobierno corporativo guiado por los principios de profesionalidad, mérito y capacidad.
 - chapter:
     title: Retos globales de una Sociedad Abierta 
+    categories: Seguridad y defensa
     children:    
     - declaration:
         id: 9f923d32-779a-4307-9bc9-3b5ced883860
@@ -2425,7 +2473,9 @@ index:
         page: 89
         text: Reforzaremos a los empleados públicos de Instituciones Penitenciarias en las funciones esenciales que realizan en desarrollo de su labor constitucional. El reconocimiento de los funcionaros de prisiones como agentes de la autoridad impulsado por el Partido Popular debe ser el fundamento de la seguridad laboral de éstos y la dignificación de su trabajo. Por ello, acometeremos la mejora integral de sus retribuciones económicas en tramos de incremento que serán progresivas durante los años 2019, 2020 y 2021 en su Complemento Específico. Todas estas medidas tienen carácter consolidable y se extienden a todos los puestos de trabajo adscritos a Instituciones Penitenciarias incluido el personal laboral.
     - chapter:
-        title:  Terrorismo 
+        title:  Terrorismo
+        categories: Seguridad y defensa
+        topics: Terrorismo
         children:
         - promise:
             id: 782ec300-f95a-4ea6-a944-8a02b21ae409
@@ -2469,6 +2519,8 @@ index:
             text: Reforzaremos la persecución contra las conductas de odio, racismo, xenofobia, antisemitismo o cualquier otra actividad violenta, sean en el espacio que sean.
     - chapter:
         title:  Inmigración 
+        categories: Migración
+        topics: Inmigración 
         children:
         - promise:
             id: 0ef93616-b392-480a-9b63-d1be742f8a39
@@ -2525,6 +2577,7 @@ index:
             text: Aprobaremos la creación de un Estatuto de protección temporal para venezolanos. El Estatuto les concederá, entre otras cuestiones, un permiso de residencia temporal, desplazamiento libre por el territorio y un permiso de trabajo.
     - chapter:
         title:  Lucha contra la ocupación de viviendas 
+        categories: Vivienda
         children:
         - promise:
             id: b91f0e55-26bf-44f2-b897-c7cb514a5646
@@ -2565,6 +2618,7 @@ index:
             text: Impulsaremos una Estrategia de Seguridad contra el vandalismo urbano por el daño que causa en comercios, el patrimonio histórico, los medios de transporte e infraestructuras.
     - chapter:
         title:  Lucha contra el comercio ilegal 
+        categories: Comercio
         children:
         - promise:
             id: 129d66af-3287-4534-a33e-6c925e82d72c
@@ -2581,6 +2635,7 @@ index:
                 text: Todos los municipios de más de 5.000 habitantes deberán contar con un Plan de prevención y lucha contra el comercio ilegal.
     - chapter:
         title:  Lucha contra la explotación sexual 
+        categories: Derechos y servicios sociales
         children:
         - promise:
             id: 2fe21d6e-61d6-46f2-b490-1c8c69e85891
@@ -2592,6 +2647,7 @@ index:
             text: Apoyaremos la cooperación con las entidades que ayudan a rescatar personas de la explotación sexual.
     - chapter:
         title:  Seguridad vial 
+        categories: Transporte
         children:
         - promise:
             id: 42eb510d-175f-4903-b59b-abf5ba54dc6b
@@ -2607,6 +2663,7 @@ index:
             text: Promoveremos una Estrategia específica orientada a evaluar y mejorar la seguridad en los nuevos vehículos de transporte de las ciudades (patinetes etc...).
     - chapter:
         title:  Seguridad y emergencias 
+        categories: Seguridad y defensa
         children:
         - promise:
             id: c2caa270-8f87-4be6-9823-4d55df3b9f79
@@ -2640,6 +2697,7 @@ index:
             text: Revisaremos la existencia de construcciones ilegales en zonas de peligro, pozos ilegales y obstrucciones en cauces de ríos que puedan suponer un riesgo para la seguridad de los ciudadanos.
     - chapter:
         title:  Acción exterior 
+        categories: Política internacional
         children:
         - promise:
             id: 604fe795-da04-42dc-b332-b78aa4448132
@@ -2705,6 +2763,8 @@ index:
             text: Apoyaremos la conmemoración del V Centenario de la expedición Magallanes-Elcano, primera circunnavegación del mundo. También impulsaremos la celebración del V Centenario de la llegada de Hernán Cortés a México, poniendo en valor el cambio en la historia de occidente que supuso esa hazaña.
     - chapter:
         title:  Unión Europea 
+        categories: Política Internacional
+        topics: Europa
         children:
         - promise:
             id: d283286c-9704-4102-8bff-d4daa58f5b12
@@ -2765,6 +2825,7 @@ index:
             text: Impulsaremos el uso de los recursos europeos a disposición de las pymes, Start Ups y los emprendedores y autónomos españoles, particularmente del programa StartUp Europe, EASME, EUREKA, el buen uso de los Fondos del Banco Europeo de Inversión y del Fondo de Inversiones estratégicas para pymes, COSME y otros. En este sentido promoveremos la creación de clusters empresariales y viveros de empresas con fondos europeos para fomentar la innovación, el emprendimiento y el crecimiento del I+D+i en nuestro país.
     - chapter:
         title:  Defensa 
+        categories: Seguridad y defensa
         children:
         - promise:
             id: c363ad59-57b8-4471-b471-4f17d5d6c211
@@ -2820,6 +2881,8 @@ index:
             text: Reforzaremos la Conciencia de Defensa y la imagen de las Fuerzas Armadas en la sociedad como garantes de la libertad y la seguridad de todos los españoles.
     - chapter:
         title:  Cooperación 
+        categories: Política internacional
+        topics: Cooperación internacional
         children:
         - promise:
             id: 2fbaf966-3326-4b1f-b34b-7addd4fd0173
@@ -2852,6 +2915,8 @@ index:
                 text: Apostaremos por la transparencia como factor elemental para una cooperación más eficiente y comprometida y respetuosa con criterios objetivos y públicos. Incluiremos mecanismos claros de rendición de cuentas y evaluación vinculados a todas las acciones de cooperación.
     - chapter:
         title:  Emigración 
+        categories: Migración
+        topics: Emigración
         children:
         - promise:
             id: 031efb76-fbc9-47d1-9b84-395bdf8bb588

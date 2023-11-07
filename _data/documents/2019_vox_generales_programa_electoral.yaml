@@ -9,10 +9,10 @@ url: https://www.voxespana.es/biblioteca/espana/2018m/gal_c2d72e181103013447.pdf
 web_history: https://web.archive.org/web/20190616033944/https://www.voxespana.es/biblioteca/espana/2018m/gal_c2d72e181103013447.pdf
 title: 100 medidas para la España viva
 description: Programa electoral para las elecciones generales del 10 de Noviembre de 2019
-index:
+content:
 - chapter: 
     title: España, unidad y soberanía
-    page: 2
+    categories: Nacionalismo y patriotismo
     children:
     - promise:
         id: feb7ca6d-2b2d-441b-b47f-95307494f6d9
@@ -124,6 +124,7 @@ index:
             text: Supresión del Concierto Económico Vasco y el Convenio Navarro y la incorporación de ambas regiones y sus Diputaciones Forales al Régimen Común
 - chapter: 
     title: Ley electoral y transparencia
+    categories: [Democracia]
     page: 4
     children:
     - promise:
@@ -158,6 +159,7 @@ index:
             text: Control de los cargos públicos antes, durante y después de su mandato. Reforzar normativa incompatibilidades de los políticos tras el abandono de los cargos públicos y la exigencia de devolución de los caudales públicos.
 - chapter: 
     title: Inmigración
+    categories: [Migración]
     page: 5
     children:
     - promise:
@@ -252,7 +254,7 @@ index:
             text: Se establecerán cuotas de origen privilegiando a las nacionalidades que comparten idioma e importantes lazos de amistad y cultura con España.
 - chapter: 
     title: Defensa, seguridad y fronteras
-    page: 7
+    categories: [Seguridad y defensa, Migración]
     children:
     - promise:
         id: 047863a2-a100-4d2e-96dd-737020eb02c7
@@ -373,7 +375,7 @@ index:
             text: Suspender espacio Schengen hasta que exista la garantía europea de que no lo utilizarán los criminales para huir de la justicia (como han hecho los golpistas separatistas) ni lo aprovechen las mafias de la inmigración ilegal para introducir personas.
 - chapter: 
     title: Economía y recursos
-    page: 9
+    categories: [Economía]
     children:
     - promise:
         id: 428b01c8-a70e-4527-af5b-62abdd7ab5e6
@@ -623,7 +625,7 @@ index:
             text: Fomentar la renovación del parque de maquinaria con convocatoria de planes que tengan continuidad y rebajar los impuestos directos del gasóleo agrícola (combustible, fertilizantes, herbicidas, plásticos) por encarecer los costes de producción.
 - chapter: 
     title: salud
-    page: 14
+    categories: [Sanidad]
     children:
     - promise:
         id: 6d1baa35-9d21-4d50-a365-57d2f9cc5e8e
@@ -690,7 +692,7 @@ index:
             text: Copago para todos los residentes legales que no tengan un mínimo de 10 años de permanencia en nuestro suelo. Se cubrirán únicamente servicios de urgencia.
 - chapter: 
     title: Educación y cultura
-    page: 15
+    categories: [Educación, Cultura]
     children:
     - promise:
         id: eb317ad8-b8bb-494b-be8c-0b57fa89c61b
@@ -802,7 +804,7 @@ index:
             text: Incentivos para los profesionales del mundo rural y potenciar cursos de formación.
 - chapter: 
     title: Vida y familia
-    page: 17
+    categories: [Familia]
     children:
     - promise:
         id: e85cce6c-112f-4d22-ba56-710c17c8bfe6
@@ -950,7 +952,7 @@ index:
             text: Defensa de la custodia compartida como regla general y proteger el derecho de los menores a relacionarse con ambos progenitores y con sus abuelos.
 - chapter: 
     title: Libertades y justicia
-    page: 20
+    categories: [Justicia]
     children:
     - promise:
         id: d343c4f5-62a3-44df-94c7-deb5f9d78441
@@ -1113,6 +1115,7 @@ index:
             text: Eliminación del Jurado.
 - chapter: 
     title: Europa e internacional
+    categories: [Política internacional]
     page: 23
     children:
     - promise:

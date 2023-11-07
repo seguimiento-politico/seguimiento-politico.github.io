@@ -1,10 +1,12 @@
 categories:
     -   name: Infraestructuras
-        icon: snowplow
+        icon: road-bridge
     -   name: Transporte
         icon: car-side
-    -   name: Vivienda y urbanismo
+    -   name: Vivienda
         icon: house
+    -   name: Urbanismo
+        icon: tree-city
     -   name: Economía
         icon: eur
     -   name: Banca
@@ -20,7 +22,7 @@ categories:
     -   name: Turismo
         icon: umbrella-beach
     -   name: Agricultura
-        icon: tractor
+        icon: wheat-awn
     -   name: Ganadería
         icon: horse
     -   name: Pesca
@@ -79,6 +81,14 @@ categories:
         icon: earth-europe
     -   name: Gobernanza y transparencia
         icon: handshake
+    -   name: Igualdad
+        icon: users
+    -   name: Unidad nacional
+        icon: people-group
+    -   name: Territorio rural
+        icon: tractor
+    -   name: Familia
+        icon: baby
 
 statuses:
     -   name: Desconocido

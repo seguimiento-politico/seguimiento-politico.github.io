@@ -8,7 +8,7 @@ description: Programa electoral para las elecciones generales del 10 de Noviembr
 parties: [PSOE]
 url: https://www.psoe.es/media-content/2019/10/Ahora-progreso-programa-PSOE-10N-31102019.pdf
 web_history: https://web.archive.org/web/20191109163507/https://www.psoe.es/media-content/2019/10/Ahora-progreso-programa-PSOE-10N-31102019.pdf
-index: 
+content: 
 - chapter:
     title: Introducción
     children:
@@ -94,6 +94,7 @@ index:
         text: El PSOE presenta un programa incontestablemente progresista, feminista y europeísta. Un programa que ha sido el resultado de analizar minuciosamente la realidad social y de hablar con la sociedad civil para escuchar sus demandas. Un programa asentado sobre el principio de realidad, hecho para cumplirse. Un programa ambicioso y transformador.
 - chapter: 
     title: EMPLEO DIGNO Y PENSIONES JUSTAS
+    categories: Trabajo
     children:
     - promise:
         id: 1dca4aee-5243-4505-b9c1-e5aa51985673
@@ -140,14 +141,18 @@ index:
         id: 28932183-c5ac-4c91-a90a-471b9b61a28a
         page: 20
         text: Hasta que se alcance dicho Pacto, el Gobierno seguirá actualizado las pensiones conforme a los criterios señalados en el punto anterior. Asimismo, el Gobierno impulsará la reducción de la brecha de género en las pensiones y la ampliación de las pensiones de viudedad en los casos de parejas sin vínculo matrimonial. Revisaremos el complemento por maternidad para hacerlo más equitativo y reformaremos el Sistema de la Seguridad Social para eliminar las discriminaciones por razón de género, particularmente en materia de trabajo a tiempo parcial, teniendo en cuenta las últimas sentencias del Tribunal de Justicia de la Unión Europea y del Tribunal Constitucional
+        categories: Derechos y servicios sociales
+        topics: Pensiones
     - promise:
         id: b6bd4fe7-7326-49ce-a28b-90f77dfac5ca
         page: 20
         text: Desarrollaremos el Estatuto Básico del Empleado Público, fomentando la evaluación del desempeño, la carrera profesional... y se evitará el uso abusivo de la interinidad.
+        topics: Empleo público
     - promise:
         id: 7ce600fb-0648-4eab-b121-1cc141959a10
         page: 20
         text: El salario de los empleados públicos se elevará en un 2% en 2020.
+        topics: Empleo público
     - promise:
         id: 653005e8-31ed-42b8-9fef-6e7534940750
         page: 20
@@ -158,6 +163,8 @@ index:
     children:
     - chapter: 
         title: Agenda Feminista
+        categories: Derechos y servicios sociales
+        topics: Igualdad
         children:
         - chapter: 
             title: Igualdad de oportunidades en el empleo y la ocupación
@@ -180,6 +187,8 @@ index:
                 text: Para garantizar una creciente conciliación de la vida laboral, familiar y personal, favoreciendo la necesaria corresponsabilidad entre hombres y mujeres, impulsaremos un pacto social y político por la racionalización de los horarios, que incluirá una Ley de usos del tiempo y racionalización de los horarios.
         - chapter: 
             title: Lucha contra la violencia machista
+            categories: Seguridad y defensa
+            topics: Violencia de género
             children:
             - promise:
                 id: b68eddbe-933d-4b1f-beac-27d6fbbffc60
@@ -203,6 +212,7 @@ index:
                 text: Ratificaremos el Convenio 190 de la OIT sobre la eliminación de la violencia y el acoso en el mundo del trabajo, de 21 de junio de 2019.
         - chapter: 
             title: Derechos sexuales y reproductivos. Por una maternidad libremente decidida
+            topics: Derechos sexuales y reproductivos
             children:
             - promise:
                 id: 72fb9f3d-f8b4-4a29-89ac-810a83872886
@@ -218,6 +228,7 @@ index:
                 text: Garantizaremos los tratamientos de reproducción asistida a todas las mujeres, independientemente de su orientación sexual y estado civil, una vez restablecido este derecho en la cartera de servicios comunes del Sistema Nacional de Salud.
         - chapter: 
             title: Contra los vientres de alquiler
+            topics: Vientres de alquiler
             children:
             - promise:
                 id: 3145d20f-022c-4421-a657-62ababe70735
@@ -228,6 +239,7 @@ index:
             children: 
             - chapter: 
                 title: Educación
+                categories: Educación
                 children:
                 - promise:
                     id: 7f50e61b-911c-4c92-aab6-f8bb45a23627
@@ -313,6 +325,7 @@ index:
                     text: Impulsaremos un pacto por la universidad con el máximo consenso de los agentes políticos y sociales, que garantice una financiación adecuada para modernizar la universidad, ampliar su capacidad de atraer y retener talento y adaptarla a las nuevas realidades, a través de una nueva Ley Orgánica de Universidades, introduciendo, entre otras cosas, un sistema más homogéneo de precios públicos de las matrículas universitarias, más acordes con los niveles de vida medios de la ciudadanía.
             - chapter: 
                 title: Vivienda
+                categories: Vivienda
                 children:
                 - promise:
                     id: 86d4070d-c830-4497-8fc1-3cd675686257
@@ -328,6 +341,7 @@ index:
                     text: Aprobaremos medidas específicas de ayuda al alojamiento para colectivos con necesidades habitacionales urgentes, actualizando la estrategia de sinhogarismo, favoreciendo el realojo de inquilinos que no puedan hacer frente al pago de sus rentas o que incluso hayan perdido su vivienda por ejecución hipotecaria, complementando las iniciativas adoptadas por comunidades autónomas y ayuntamientos.
             - chapter: 
                 title: Cultura y Deporte
+                categories: Cultura
                 children:
                 - promise:
                     id: 66d9926d-c009-43c4-9d4b-291fc4287d7c
@@ -345,11 +359,13 @@ index:
                     id: f7cae596-f9e9-4261-9b0e-fefbd54bc0e6
                     page: 27
                     text: Promoveremos una Ley del Deporte que se acompañará de un Plan Estratégico, para regular las profesiones asociadas al deporte, así como la accesibilidad a su práctica por parte de todos los ciudadanos, la eliminación de toda discriminación por género, y la formación y empleo para los deportistas retirados.
+                    categories: Deporte
             - chapter: 
                 title: Sanidad, Bienestar Social y Consumo
                 children: 
                     - chapter: 
                         title: Derecho a la salud y asistencia sanitaria
+                        categories: Sanidad
                         children:
                         - promise:
                             id: d7bdce13-7c52-4ae8-b860-c821fc477241
@@ -385,6 +401,7 @@ index:
                             text: Integraremos las enfermedades raras en la planificación global de la cobertura universal, garantizando el acceso a diagnóstico y tratamiento de todas las personas, independientemente de dónde vivan y la patología con la que convivan; e incorporaremos las posibilidades terapéuticas y organizativas en relación con la atención al cáncer infantil y adolescente para incrementar la supervivencia.
                     - chapter: 
                         title: Servicios Sociales
+                        categories: Derechos y servicios sociales
                         children:
                         - promise:
                             id: 2aaf401f-2fba-4011-9325-182f00f48f41
@@ -408,6 +425,7 @@ index:
                             text: Avanzaremos hacia el establecimiento de un Ingreso Mínimo Vital como base de la libertad y de los derechos de todas las personas. Mejoraremos las prestaciones por hijo a cargo para los hogares en situación de pobreza, y desarrollaremos un mecanismo de garantía de ingresos para los hogares altamente vulnerables.
                     - chapter: 
                         title: Protección para todo tipo de familias
+                        categories: Familia
                         children:
                         - promise:
                             id: 078c9973-ca7d-4690-8fbf-6f4767aa0b0a
@@ -415,6 +433,7 @@ index:
                             text: Se elaborará una nueva ley de familias que responda a la realidad y necesidades de las diferentes estructuras familiares atendiendo a su condición de numerosas, monoparentales (en su mayoría encabezadas por mujeres), de partos múltiples, de familias acogedoras, con miembros con discapacidad... adecuando las ayudas a cada situación. La Ley garantizará la protección a todas las familias, en condiciones de igualdad, con independencia del estado civil de los progenitores o de la filiación de los y las menores.
                     - chapter: 
                         title: Consumo
+                        categories: Consumo
                         children:
                         - promise:
                             id: 4e9976b5-6add-4c24-ad40-aeb28df81679
@@ -426,6 +445,8 @@ index:
                             text: Se aprobará la creación de la Autoridad de Protección del Cliente Financiero, con el fin de garantizar un procedimiento eficiente capaz de resolver los conflictos con el sector financiero y proteger a la ciudadanía. Por eso, impulsaremos una autoridad administrativa de protección que reúna y refuerce las funciones de reclamación actuales en el ámbito de entidades de crédito, de inversión y seguros.
                     - chapter: 
                         title: Pobreza energética
+                        categories: Energía
+                        topics: Pobreza energética
                         children:
                         - promise:
                             id: 107324a7-d8a7-4718-966c-efa868253b6e
@@ -433,6 +454,8 @@ index:
                             text: Se prohibirán los cortes de suministros básicos de agua, luz y gas en las primeras residencias, cuando el impago se deba a motivos como la pobreza sobrevenida y a las personas que estén padeciendo una situación de vulnerabilidad, en virtud de la Directiva 2009/72/CE y 2009/73/CE, y se mejorará el diseño del actual “bono social”.
                     - chapter: 
                         title: Prevención de adicciones
+                        categories: Derechos y servicios sociales
+                        topics: Adicciones
                         children:
                         - promise:
                             id: 5aa388ae-64c5-430a-adf6-660d7cbd78fb
@@ -440,6 +463,7 @@ index:
                             text: Aprobaremos una regulación de la publicidad de los juegos de azar y apuestas en línea, similar a la de los productos del tabaco, introduciendo medidas de información, gestión y limitación del consumo de juegos de azar, con el objetivo de reforzar la autoconciencia y autonomía del jugador, promoviendo la implicación de los operadores de juegos de azar y apuestas, incluyendo su contribución a actuaciones de reparación de los efectos de la ludopatía.
             - chapter: 
                 title: Fiscalidad
+                categories: Impuestos y financiación pública
                 children:
                 - promise:
                     id: 14fd1241-7056-4c70-8fff-5e799ed914ab
@@ -475,6 +499,7 @@ index:
                     text: Abordaremos la desactivación de la tasa rosa, que es como se denomina al incremento de precio de un mismo producto cuando se trata de una “versión femenina”, y reduciremos el IVA de los productos de higiene femenina al 4%, porque son artículos de primera necesidad.
         - chapter: 
             title: Calidad democrática y garantía de derechos y libertades de la ciudadanía
+            categories: Democracia
             children:
             - chapter: 
                 title: Mejora de la calidad democrática, anticorrupción y transparencia
@@ -483,10 +508,12 @@ index:
                     id: 3718a480-581d-4c32-bde9-b727817f8a40
                     page: 32
                     text: El Gobierno aprobará un Plan sobre regeneración democrática, incluyendo una ley integral sobre la lucha contra la corrupción, que contemple la protección del denunciante. La norma regulará de manera más efectiva las Declaraciones de Intereses de altos cargos para combatir los conflictos de intereses, fijando con precisión las condiciones de incompatibilidad para las personas interesadas y endureciendo las sanciones por su incumplimiento. La Oficina de Conflicto de Intereses debe actuar verificando las solicitudes con margen de apreciación y actuando como autoridad independiente en la emisión de sus dictámenes. Asimismo, suprimiremos los aforamientos como prerrogativa personal, más allá del ejercicio de la función propia del cargo, en línea con el dictamen del Consejo de Estado.
+                    topics: Corrupción
                 - promise:
                     id: ed2c5a38-c74e-47a5-ac0a-07c58b56f2f7
                     page: 33
                     text: Aprobaremos una reforma de la Ley de Transparencia y Buen Gobierno, sobre la base de la experiencia acumulada en sus seis años de vigencia, y aprobaremos su Reglamento para hacerla efectiva.
+                    topics: Gobernanza y transparencia
                 - promise:
                     id: 04308a57-5d13-4e40-a9ee-927c5592b010
                     page: 33
@@ -495,6 +522,8 @@ index:
                     id: a89131e1-a43b-48f2-95c9-d722aa9f32a3
                     page: 33
                     text: Aprobaremos una nueva Ley de seguridad ciudadana, que sustituya a la “Ley mordaza”, para garantizar el ejercicio de los derechos a la libertad de expresión, reunión y manifestación pacífica.
+                    categories: Derechos y servicios sociales
+                    topics: Libertad de expresión
                 - promise:
                     id: 680c722e-d296-43a7-926e-c582dfa8f32c
                     page: 33
@@ -503,10 +532,13 @@ index:
                     id: e1ac72ba-5c7b-4bb8-abb2-e05ca2500b5e
                     page: 33
                     text: Impulsaremos una Ley de derechos y garantías de la dignidad de la persona ante el proceso final de su vida, así como la Ley Orgánica de Regulación de la Eutanasia, y su inclusión en la cartera común de servicios del Sistema Nacional de Salud.
+                    categories: Derechos y servicios sociales
+                    topics: Eutanasia
                 - promise:
                     id: 2a35b41b-b22f-4ffa-9c77-b8c02bb59194
                     page: 33
                     text: Denunciaremos los acuerdos entre España y la Santa Sede de 1979 que dan continuidad al Concordato de 1953, en cumplimiento del precepto constitucional que establece la aconfesionalidad del Estado y la libertad religiosa, e impulsaremos un nuevo acuerdo bilateral entre ambos Estados, basado en el principio de laicidad, para mantener unas relaciones de cooperación moderna con la Iglesia Católica.
+                    categories: Religión
                 - promise:
                     id: d54bd03e-544c-4303-9e23-85c7de06af3d
                     page: 33
@@ -517,6 +549,8 @@ index:
                     text: Constituiremos consejos sectoriales de verificación en los que participará directamente la sociedad civil. Su misión será evaluar el cumplimiento, por parte del Gobierno, de los compromisos sociales del PSOE contenidos en este programa.
             - chapter: 
                 title: Derechos de las personas con discapacidad
+                categories: Derechos y servicios sociales
+                topics: Discapacidad
                 children:
                 - promise:
                     id: 59f778f5-45e4-4d82-9cc0-88692699a35e
@@ -524,6 +558,8 @@ index:
                     text: Impulsaremos la reforma del artículo 49 de la Constitución, adaptándolo a las concepciones actuales sobre la protección de derechos de las personas con discapacidad, y extenderemos a los menores de 18 años con discapacidad las exenciones de copago previstas en la normativa actual.
             - chapter: 
                 title: Igualdad de trato y diversidad
+                categories: Derechos y servicios sociales
+                topics: Igualdad
                 children:
                 - promise:
                     id: 66496e8f-a2d3-4fd2-b479-a6b4c654d4a9
@@ -533,12 +569,16 @@ index:
                     id: 19cd97bf-8507-4f74-8b28-64c708b9cd7e
                     page: 34
                     text: Adoptaremos políticas públicas orientadas a mejorar el acceso y la permanencia en la educación y en el empleo de la población gitana.
+                    categories: Minorías
                 - promise:
                     id: 4838ec44-8f15-4381-a48c-d8a20c69711b
                     page: 34
                     text: Desarrollaremos el Plan de Acción contra los delitos de odio, para garantizar la protección de los derechos y libertades de todas las personas, con independencia de sus circunstancias personales o sociales, así como la aplicación efectiva de la Ley del Estatuto de la Víctima, para procurar la atención integral y especializada a las víctimas de los delitos de odio, garantizando el resarcimiento de sus derechos, a partir de la imprescindible formación de todos los que intervienen en la respuesta ante estos delitos.
+                    categories: Seguridad y defensa
             - chapter: 
                 title: Inmigración
+                categories: Migración
+                topics: Inmigración
                 children:
                 - promise:
                     id: 5a938b87-7614-4d7e-9707-d67ff0672556
@@ -562,6 +602,8 @@ index:
                     text: Aprobaremos el reglamento de desarrollo de la Ley 12/2009 de 30 de octubre, reguladora del derecho de asilo y la protección subsidiaria, para aplicar todas las figuras jurídicas que están pendientes de implementación.
             - chapter: 
                 title: Memoria democrática
+                categories: Democracia
+                topics: Memoria democrática
                 children:
                 - promise:
                     id: 6e34f9cd-099b-4188-8144-1b19b3fd309a
@@ -569,6 +611,8 @@ index:
                     text: Reformaremos la vigente Ley de Memoria Histórica, conforme a las iniciativas ya impulsadas por el Grupo Parlamentario Socialista. Especialmente impulsaremos desde el Estado planes de choque y cuatrienales, para la exhumación de las víctimas del franquismo que yacen en fosas comunes. Desarrollaremos actuaciones de reconocimiento y reparación de las víctimas de la Guerra Civil y la Dictadura, declarando el 31 de octubre como día de recuerdo para todas las víctimas del franquismo, y el día 8 de mayo como el día de reconocimiento a las víctimas del exilio. Tras culminar el proceso de exhumación de Francisco Franco, retiraremos la simbología franquista que aún queda en los lugares públicos y reformaremos el Código Penal para incluir como delito la apología del franquismo y su exaltación y enaltecimiento en lugares de acceso público, y propondremos retirar las condecoraciones vinculadas a actuaciones durante la dictadura. De acuerdo con las asociaciones de la Memoria Histórica, el Gobierno establecerá un programa para la exhumación de víctimas del franquismo, avanzando en el principio de reconocimiento y reparación.
             - chapter: 
                 title: Lucha contra el terrorismo y atención a sus víctimas
+                categories: Seguridad y defensa
+                topics: Terrorismo
                 children:
                 - promise:
                     id: 24a8ddd1-6bea-4650-a4f2-5685f19272fe
@@ -576,6 +620,8 @@ index:
                     text: Intensificaremos el compromiso del Gobierno en la lucha contra el terrorismo y en el reconocimiento y respeto a sus víctimas, introduciendo las modificaciones que la Ley 29/2011, de Reconocimiento y Protección Integral a las Víctimas del Terrorismo necesita para garantizar asistencia integral a las víctimas del terrorismo y a sus familias. Al reconocimiento y la memoria de las víctimas del terrorismo contribuirá la Fundación Centro para la Memoria de las Víctimas del Terrorismo (comúnmente conocida como “Centro Memorial”).
             - chapter: 
                 title: Justicia independiente
+                topics: Separación de poderes
+                categories: Justicia
                 children:
                 - promise:
                     id: f98cd47d-1420-4de1-9b5a-9f7961e4dbcc
@@ -587,6 +633,8 @@ index:
                     text: Derogaremos la reforma del artículo 324 de la Ley de Enjuiciamiento Criminal, eliminando el plazo máximo de instrucción por ser una limitación para la lucha contra la corrupción política, así como la Ley Orgánica 1/2014, de 13 de marzo, de modificación de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, relativa a la justicia universal, restaurando lo previsto en la Ley Orgánica 1/2009, de 3 de noviembre.
         - chapter: 
             title: Jóvenes
+            categories: Derechos y servicios sociales
+            topics: Juventud
             children:
             - promise:
                 id: 4ba200dd-5304-49e0-a56d-b3f3e94d7f72
@@ -610,6 +658,8 @@ index:
                 text: Promoveremos el acceso de la juventud a las actividades agrarias y ganaderas para facilitar el relevo generacional en las explotaciones e implementaremos planes especiales de empleo en zonas que cuenten con una situación estructural de baja tasa de empleo y que sufran especialmente por el vaciamiento poblacional.
 - chapter: 
     title: EMERGENCIA CLIMÁTICA Y TRANSICIÓN ECOLÓGICA DE LA ECONOMÍA
+    categories: Medioambiente
+    topics: [Cambio climáticos, Desarrollo sostenible]
     children: 
     - chapter: 
         title: Emergencia climática
@@ -699,19 +749,25 @@ index:
             text: Impulsaremos una Ley de Bienestar Animal, que garantice una relación respetuosa hacia todos los seres vivos que, como indica la comunidad científica, son capaces de sentir emociones.
     - chapter: 
         title: Agricultura y pesca sostenibles
+        topics: Desarrollo sostenible
         children:
         - promise:
             id: 4f3081c4-9358-4f26-ad3a-07f7bd333aa8
             page: 41
             text: Defenderemos una Política Agraria Común (PAC) suficientemente dotada para garantizar la triple sostenibilidad económica, social y medioambiental de las explotaciones agrícolas, ganaderas y forestales españolas durante todo el periodo financiero 2021-2027, y en la que se mantenga el mismo nivel de ayudas para España que en el periodo actual. Apostamos por una PAC que favorezca un medio rural vivo, atractivo para las y los jóvenes y que incorpore la perspectiva de género.
+            categories: [Agricultura, Ganadaría, Industria forestal]
+            topics: [Desarrollo sostenible, Europa, PAC]
         - promise:
             id: c4e31fe5-408f-4da7-98f6-01362e3ad406
             page: 41
             text: Mejoraremos el actual sistema de seguros agrarios, aumentando decididamente la aportación pública al sistema hasta recuperar el nivel de 2011, teniendo en cuenta los riesgos asociados al cambio climático.
+            categories: [Agricultura, Ganadaría]
         - promise:
             id: 0d876e70-6224-43be-89c6-37a84286f630
             page: 42
             text: Incentivaremos la producción sostenible en el sector agroalimentario, en el contexto del Plan Estratégico para la aplicación de la PAC. El Gobierno promoverá la reducción del uso de sustancias químicas en la agricultura, así como un mayor control público sobre el consumo del agua. España apoyará el enfoque sobre los “ecoesquemas” en la futura PAC, lo que permitirá a quienes se dedican a la agricultura, ganadería o selvicultura realizar la transición hacía formas de producción más sostenibles, manteniendo la rentabilidad de sus explotaciones. De la misma forma, promoveremos el aprovechamiento sostenible de los pastos ganaderos extensivos, en el marco de una Estrategia Nacional de Prevención contra los Incendios Forestales.
+            categories: [Agricultura, Ganadaría, Industria forestal]
+            topics: [Desarrollo sostenible, Europa, PAC, Sustancias químicas]
         - promise:
             id: 234975db-c49e-4c61-8996-064a0eb4149d
             page: 42
@@ -720,15 +776,19 @@ index:
             id: b78f3ee9-9fef-49fb-afad-e69c43f43674
             page: 42
             text: Promoveremos la digitalización en todos los ámbitos de la agricultura, de manera que las y los emprendedores encuentren en el medio rural un lugar en el que desarrollar sus iniciativas con ayuda de las nuevas tecnologías.
+            categories: Agricultura
         - promise:
             id: fe9b4be7-061b-4481-9851-fcade3c715d1
             page: 42
             text: Impulsaremos una pesca y acuicultura sostenibles, basada en el conocimiento, la innovación y la investigación científica, y fortaleceremos la viabilidad económica tanto de la flota industrial como de la artesanal, al tiempo que mejoraremos las condiciones sociolaborales de sus trabajadores.
+            categories: Pesca y acuicultura
 - chapter: 
     title: AVANCE CIENTÍFICO, TECNOLÓGICO Y TRANSICIÓN DIGITAL
+    categories: Ciencia y tecnología
     children:
     - chapter: 
         title: Investigación, Desarrollo e Innovación (I+D+i)
+        topics: 'I+D+i'
         children:
         - promise:
             id: 4a482e6c-8658-4a5a-9e13-e1cd3daa0a8c
@@ -777,6 +837,7 @@ index:
                 text: Crearemos fondos específicos para proyectos de investigación en áreas estratégicas.
     - chapter: 
         title: Transformación digital
+        topics: Digitalización
         children:
         - promise:
             id: 67cfdcf7-6c5c-4e85-a527-77577e5ce7cc
@@ -828,6 +889,7 @@ index:
             text: Aprobaremos un Plan de Ciberseguridad y crearemos un Foro nacional de ciberseguridad, consolidando un auténtico polo de emprendimiento a partir del INCIBE. Potenciaremos la oficina de coordinación cibernética entre la Policía Nacional y la Guardia Civil e, igualmente, pondremos en marcha el Centro de Operaciones de Ciberseguridad. Se reforzarán los programas específicos para la protección de los menores en la red, incluyendo medidas de formación y concienciación para educadores y familias.
 - chapter: 
     title: ESTRUCTURA TERRITORIAL
+    categories: Organización territorial
     children:
     - chapter: 
         title: Estado autonómico
@@ -862,6 +924,7 @@ index:
             text: Impulsaremos la descentralización institucional del Estado, trasladando total o parcialmente las sedes de diversas instituciones y organismos a distintas ciudades.
     - chapter: 
         title: Reto demográfico en el medio rural
+        categories: Territorio rural
         children:
         - promise:
             id: 1f7078e4-9c23-4498-9e9a-585b9f8ecae1
@@ -905,6 +968,7 @@ index:
             text: Introduciremos criterios territoriales para reducir la desigualdad y garantizar la efectividad de los derechos de las ciudadanas y ciudadanos, sin importar el lugar en el que vivan.
     - chapter: 
         title: Agenda 2030
+        topics: Desarrollo sostenible
         children:
         - promise:
             id: 5d3e19d7-ca17-45a5-bfee-54cbb6290b21
@@ -912,6 +976,7 @@ index:
             text: El Gobierno de España está plenamente comprometido con el cumplimiento de todos y cada uno de los Objetivos de Desarrollo Sostenible (ODS) de la Agenda 2030, aprobada en 2015 por Naciones Unidas; así se puso de manifiesto en la anterior legislatura con el nombramiento de la Alta Comisionada para la Agenda 2030, dependiente de la Presidencia del Gobierno, así como con las decisiones adoptadas para garantizar la imprescindible implicación y coordinación de todos los Ministerios así como de todas las Administraciones Territoriales y la participación de la sociedad civil, en los correspondientes órganos ya diseñados. En esta Legislatura se avanzará hacia la aprobación de la Estrategia de Desarrollo Sostenible, que deberá garantizar la máxima coherencia entre todas las políticas de las diferentes administraciones, y que será objeto de seguimiento y evaluación en la correspondiente Comisión Mixta Congreso-Senado que no pudo iniciar su trabajo a causa del adelanto electoral.
 - chapter: 
     title: ESPAÑA EN EUROPA, ESPAÑA EN EL MUNDO
+    categories: Política internacional
     children:
     - promise:
         id: 33b223ab-0eb8-4de3-8ac8-7ceb3c2fec0c

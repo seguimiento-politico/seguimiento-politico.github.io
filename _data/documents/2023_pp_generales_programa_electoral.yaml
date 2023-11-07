@@ -8,7 +8,7 @@ title: Un proyecto al servicio de un gran país - 365 medidas
 description: Programa electoral para las elecciones generales del 23 de Julio de 2023
 url: https://www.pp.es/sites/default/files/documentos/programa_electoral_pp_23j_feijoo_2023.pdf
 web_history: https://web.archive.org/web/20230724225247/https://www.pp.es/sites/default/files/documentos/programa_electoral_pp_23j_feijoo_2023.pdf
-index:
+content:
 - chapter:
     title: Introducción
     children:
@@ -75,6 +75,8 @@ index:
         text: El cambio está muy cerca y está en tus manos. Es el momento.
 - chapter: 
     title: CRECER DE FORMA SOSTENIBLE
+    categories: Economía
+    topics: Desarrollo sostenible
     children:
     - declaration:
         id: a9922dd3-a75b-419e-9c93-5ff31d81893d
@@ -234,6 +236,7 @@ index:
             text: CREAREMOS UN ECOSISTEMA PROPICIO PARA LA INNOVACIÓN SOCIAL, facilitando el acceso a recursos, financiación y apoyo técnico a emprendedores y organizaciones sociales. Impulsaremos la creación de incubadoras y aceleradoras especializadas en innovación social, promoviendo la colaboración entre emprendedores, expertos y la comunidad en general.
     - chapter: 
         title: Crear empleo de calidad para todos
+        categories: Trabajo
         children:
         - declaration:
             id: 6ca1e9e2-93be-4b27-9df7-5de1526e1038
@@ -283,6 +286,8 @@ index:
             text: Apoyaremos la conciliación de los autónomos mediante una bonificación específica a la cuota empresarial en caso de que contraten a un trabajador por cuenta ajena durante el descanso del trabajador autónomo por nacimiento de hijo o situaciones análogas. Aproximaremos el TRADE (trabajador autónomo económicamente dependiente) al trabajo por cuenta ajena en términos de protección social.
     - chapter: 
         title: Igualdad
+        categories: Derechos y servicios sociales
+        topics: Igualdad
         children: 
         - declaration:
             id: 7a45adb0-a1d5-44d7-8da9-40809d689560
@@ -308,6 +313,8 @@ index:
             text: DISEÑAREMOS UN PLAN CONTRA EL DESEMPLEO FEMENINO, QUE REDUZCA A LA MITAD EN ESTA LEGISLATURA LA BRECHA DE PARTICIPACIÓN EN EL MERCADO LABORAL de hombres y mujeres. Incorporará acciones específicas para las mujeres con discapacidad o con mayores dificultades para acceder al empleo, luchando contra las discriminaciones dobles o múltiples que sufren muchas mujeres. Incluiremos programas de reinserción en el mercado laboral y bonificaciones de las cotizaciones en sectores masculinizados, tras el cuidado de menores o personas dependientes, así como medidas para la inserción y la reinserción posterior a la maternidad en el mercado laboral.
     - chapter: 
         title: Aprovechar las posibilidades de la inteligencia artificial
+        categories: Ciencia y tecnología
+        topics: Inteligencia artificial
         children: 
         - declaration:
             id: 83b8597d-50bf-4323-a3b6-2f9163a6e084
@@ -341,6 +348,7 @@ index:
             text: 'ORGANIZAREMOS FOROS ESPECIALIZADOS como escaparate de la capacidad tecnológica española en la materia. Para difundir todas las iniciativas en este ámbito y potenciar la participación de todos los agentes: empresas, universidades, administraciones, etc.'
     - chapter: 
         title: Controlar el déficit y la deuda y reducir la presión fiscal
+        categories: Impuestos y financiación pública
         children: 
         - declaration:
             id: 1e748563-fea9-42da-b451-ed6d9aa200e2
@@ -378,6 +386,7 @@ index:
             text: Analizaremos a fondo las necesidades a cubrir y las respuestas que ofrece el mercado, con el objetivo de obtener una adecuada correspondencia calidad/ precio. Ampliaremos el alcance de los contratos a centralizar, incorporando áreas como la eficiencia energética, el mantenimiento de edificios e instalaciones, y los servicios de ciberseguridad. Asimismo, implementaremos mecanismos que garanticen la inclusión de las pymes en estos procesos, por ejemplo, estableciendo lotes en los contratos a licitar que sean más accesibles para estas entidades.
     - chapter: 
         title: Reindustrializar nuestra economía haciendo un mejor uso de los fondos europeos
+        categories: Industria
         children: 
         - declaration:
             id: a008edb2-5855-4ff0-8833-4393fd2ee3c7
@@ -424,6 +433,7 @@ index:
             text: EN EL MARCO DE LAS MEDIDAS QUE FAVORECERÁN QUE LA INDUSTRIA ESPAÑOLA CUENTE CON UN PRECIO ELÉCTRICO ESTABLE para competir en igualdad de condiciones con el resto de países europeos, mejoraremos la dotación de acuerdo con la normativa europea para la compensación de los gastos de CO2 de la industria electrointensiva, con los ingresos procedentes de las subastas de derechos de emisión.
     - chapter: 
         title: "Un modelo más sostenible: fortalecer y proteger el sistema agroalimentario y el medio ambiente"
+        topics: Desarrollo sostenible
         children: 
         - declaration:
             id: c2ef6d6b-ad34-41dd-823d-ec02337cc942
@@ -523,6 +533,7 @@ index:
             text: RESTABLECEREMOS LA SITUACIÓN DE PROTECCIÓN DEL LOBO, previa a 2021, para extraer las poblaciones al norte del Duero del Listado de Especies Silvestres en Régimen de Protección Especial (LESPRE), permitiendo el control de la población de dicha especie en esa zona.
     - chapter: 
         title: Combatir la despoblación y desarrollar la España rural
+        categories: Territorio rural
         children:
         - declaration:
             id: 2db74e05-26f6-4c3f-bca4-73909c3c440f
@@ -554,6 +565,7 @@ index:
             text: FOMENTAREMOS LA CONCILIACIÓN DE LAS FAMILIAS QUE ELIJAN VIVIR EN EL RURAL, facilitando el cuidado de niños y mayores con la apertura de “casas nido” o casas de mayores en aquellos municipios con menos población.
     - chapter: 
         title: Repensar nuestras infraestructuras y favorecer el acceso a la vivienda
+        categories: Infraestructuras
         children: 
         - declaration:
             id: 23621be6-44e4-4b76-8ef3-468a4289324f
@@ -601,6 +613,7 @@ index:
             text: PROMOVEREMOS LA VIVIENDA SOCIAL, con objetivos coherentes y realistas, como elemento fundamental para hacer frente al problema de la vivienda en España.
     - chapter: 
         title: "España una potencia mundial: el turismo"  
+        categories: Turismo
         children: 
         - declaration:
             id: 38090850-4798-4418-a6ec-af823a6b0854
@@ -632,6 +645,7 @@ index:
             text: PROMOVEREMOS LA COLABORACIÓN PÚBLICO-PRIVADA PARA LA FORMACIÓN EN HOSTELERÍA, facilitando la creación de alianzas entre empresas, instituciones educativas y organismos públicos, y desarrollaremos un sistema de reconocimiento y certificación de competencias para los profesionales de la hostelería, que valore y acredite sus habilidades y conocimientos adquiridos a lo largo de su trayectoria laboral.
     - chapter: 
         title: "Pacto nacional del agua y energía limpia y barata para todos y para siempre"  
+        categories: Agua
         children: 
         - declaration:
             id: 600cea69-a028-46e5-b41a-50119c872155
@@ -716,6 +730,7 @@ index:
             text: Utilizaremos nuestra ventaja competitiva en energías renovables para la producción de hidrógeno verde que fomente la reindustrialización española.
 - chapter: 
     title: CUIDAR Y PROSPERAR
+    categories: Derechos y servicios sociales
     children:
     - declaration:
         id: 6b99e7f8-a50d-4a94-b98e-3ad69dc14641
@@ -797,6 +812,7 @@ index:
             text: 'Queremos construir una sociedad de todos y para todos en la que cualquier persona pueda vivir de acuerdo a su libertad sexual. Por ello, rechazamos también la asunción de las posiciones más extremas ante la transexualidad: legislaremos con la máxima prudencia para conciliar la expresión de la identidad personal con el cuidado a las mujeres, a la infancia y a las familias.'
     - chapter: 
         title: Proteger y fortalecer el Sistema Nacional De Salud
+        categories: Sanidad
         children: 
         - declaration:
             id: 82bb34a4-f799-42de-ac08-c909b54017f7
@@ -950,6 +966,7 @@ index:
             text: PROMOVEREMOS, EN EL SENO DEL CONSEJO INTERTERRITORIAL DE SERVICIOS SOCIALES Y DEPENDENCIA, una evaluación de la Ley de promoción de la autonomía personal y atención a las personas en situación de dependencia y una revisión de su sistema de financiación, para abordar los cambios necesarios que permitan mejorar su funcionamiento y conseguir una gestión ágil y eficiente, común y sostenible en todas las Comunidades Autónomas.
     - chapter: 
         title: Una educación excelente y de calidad
+        categories: Educación
         children: 
         - declaration:
             id: 8a0f2ec0-589b-4684-bc4c-33c65cef6b2d
@@ -1019,6 +1036,8 @@ index:
             text: Desarrollaremos un nuevo programa que atraiga personal investigador extranjero mediante un procedimiento ágil para candidatos de excelencia, formados en las mejores universidades del mundo.
     - chapter: 
         title: Apoyar la maternidad, la paternidad y la conciliación
+        categories: Familia
+        topics: Incentivos, ayudas y subvenciones
         children: 
         - declaration:
             id: ce0f4849-2548-4008-84c8-feebef0d7f50
@@ -1046,6 +1065,7 @@ index:
             text: POTENCIAREMOS LA FLEXIBILIDAD DEL HORARIO LABORAL Y UN BANCO DE HORAS, para que las empresas ofrezcan más flexibilidad a los trabajadores sin afectar ni a las horas trabajadas ni al salario.
     - chapter: 
         title: Infancia y adolescencia
+        topics: Infancia y juventud
         children: 
         - declaration:
             id: fa635e93-2543-47a3-b452-64fc8044526f
@@ -1104,6 +1124,7 @@ index:
         
     - chapter: 
         title: Cuidar a los mayores y combatir la soledad no deseada
+        topics: Ciudados y dependencia
         children: 
         - declaration:
             id: ffb69b7b-7341-4e5c-9787-756b8795631d
@@ -1157,6 +1178,7 @@ index:
             text: PONDREMOS EN MARCHA UN PLAN NACIONAL DE ATENCIÓN A LA FRAGILIDAD SOCIOSANITARIA con el fin de contribuir a la detección y orientación de los servicios sociosanitarios en base a la fragilidad de las personas, y a la planificación de los recursos necesarios en este ámbito, teniendo en cuenta la esfera física, social y cognitiva-mental.
     - chapter: 
         title: 'Las personas con discapacidad: igualdad e inclusión'
+        topics: Discapacidad
         children: 
         - declaration:
             id: 69ba8679-5515-4174-961a-7d0412e92ed5
@@ -1208,6 +1230,8 @@ index:
             text: ACTUALIZAREMOS LA ESTRATEGIA ESPAÑOLA EN TRASTORNOS DEL ESPECTRO AUTISTA. Elaboraremos una Estrategia Nacional de Prevención de la Ceguera. Promoveremos todos los instrumentos legales, tanto internacionales como estatales, que propicien una adecuada protección a las lenguas de signos españolas. Implantaremos la tecnología adaptada a la comunicación y accesibilidad de personas con discapacidad auditiva, con especial atención al bucle magnético.
     - chapter: 
         title: Erradicación de la violencia de género y de toda la violencia contra la mujer
+        categories: Seguridad y defensa
+        topics: Violencia de género
         children: 
         - declaration:
             id: 33eb34a2-2f72-46b6-b9b8-217e39f8f75d
@@ -1247,6 +1271,7 @@ index:
             text: REFORMAREMOS LA LEY ORGÁNICA DEL PODER JUDICIAL para atribuir la competencia a los Juzgados de Violencia Sobre la Mujer de todos los delitos comprendidos en el ámbito de aplicación del Convenio de Estambul. Dicho Convenio servirá de orientación de todos los avances en la lucha contra la violencia de género.
     - chapter: 
         title: Trabajar por la igualdad de las personas LGTBi
+        topics: Igualdad
         children: 
         - declaration:
             id: fa5a9c0d-317c-4fc9-b0ed-a80a17b068f8
@@ -1266,6 +1291,7 @@ index:
             text: LUCHAREMOS CONTRA TODO TIPO DE DISCRIMINACIÓN, con nuevos protocolos educativos con el fin de que ningún menor sufra exclusión o humillación alguna. Además, impulsaremos cambios en el código penal y campañas de sensibilización en todos los estamentos de la sociedad, también entre los empleados públicos.
 - chapter: 
     title: REGENERAR Y RESPETAR
+    categories: Democracia
     children:
     - declaration:
         id: 9d7a973e-5b26-49bc-b960-f0d77a4a5769
@@ -1330,6 +1356,7 @@ index:
             text: Sabemos que el éxito de la democracia española se asentó sobre la capacidad de diálogo, pacto y consenso entre el centro derecha moderado y la socialdemocracia. Es necesario remover los obstáculos que impiden recuperar la concordia y el acuerdo, como sucede con la Ley de Memoria Democrática y recuperar la voluntad de compartir una mirada conjunta tanto sobre el pasado como, especialmente, sobre el futuro.
     - chapter: 
         title: Garantizar la independencia de las instituciones y organismos del Estado
+        topics: Separación de poderes
         children: 
         - declaration:
             id: 02b3a5cf-97c3-4da1-82e3-347f4de98b42
@@ -1339,6 +1366,7 @@ index:
             id: cf840361-b2b0-4eff-b590-7c81c97de53a
             page: 71
             text: REFORMAREMOS LA LEY ORGÁNICA DEL TRIBUNAL CONSTITUCIONAL para devolverle su prestigio institucional, asegurar la excelencia profesional, la desvinculación política y ejemplaridad de sus miembros y el rigor en sus resoluciones. Solventaremos los defectos procedimentales que dificultan su labor y garantizaremos que sus resoluciones se dicten en plazos razonables y estipulados con criterios objetivos. Asimismo, mejoraremos los procesos de selección y elección de sus magistrados para garantizar que no hayan estado vinculados políticamente durante los últimos cinco años, así como los controles de independencia en el ejercicio de sus funciones y un nuevo código ético.
+            categories: Justicia
         - promise:
             id: aa0c0cb6-5a9a-4ae0-ad28-77d4823ee8d2
             page: 71
@@ -1384,6 +1412,7 @@ index:
             text: TRABAJAREMOS PARA GARANTIZAR EL DERECHO FUNDAMENTAL DE LIBERTAD RELIGIOSA, promoviendo el diálogo y la cooperación con las confesiones a través de los instrumentos jurídicos existentes. Se extenderán los beneficios fiscales a las confesiones religiosas con notorio arraigo y se potenciará el papel y la autonomía de la Comisión Asesora de Libertad Religiosa. Se revisará el papel de la Fundación Pluralismo y Convivencia para una gestión más eficaz con las confesiones.
     - chapter: 
         title: El fortalecimiento del poder legislativo
+        topics: Podel legislativo
         children: 
         - declaration:
             id: c1e9f159-619d-4813-9d83-e6c7ce6f292c
@@ -1443,6 +1472,7 @@ index:
             text: SE PROCEDERÁ A UNA REGULACIÓN DE LOS LOBBIES Y HUELLA LEGISLATIVA, es decir, una ficha pública para cada proyecto o proposición de ley en la que se señale quién intermedió o negoció durante el proceso, quien enmendó y quien votó, dejando constancia real de los procesos de influencia sobre cada texto legislativo.
     - chapter: 
         title: Promover una justicia a la altura de nuestros compromisos europeos
+        categories: Justicia
         children: 
         - declaration:
             id: ea3c5f56-6582-4993-9799-f28bb092365a
@@ -1523,6 +1553,7 @@ index:
             text: ACELERAREMOS EL CUMPLIMIENTO DE LAS OBLIGACIONES LEGISLATIVAS COMUNITARIAS y potenciaremos el papel de las comisiones legislativas permanentes desde las primeras etapas del proceso.
     - chapter: 
         title: Reforzar la lealtad institucional y la cooperación entre las administraciones públicas
+        categories: Administración pública
         children: 
         - declaration:
             id: 47f05c14-7a03-4ffc-ac23-49f9b83c6fc1
@@ -1574,6 +1605,7 @@ index:
             text: DESARROLLAREMOS INDICADORES DE EVALUACIÓN E INTERCAMBIOS DE INFORMACIÓN que permitan el contraste público de la eficacia y eficiencia de las distintas administraciones en la prestación de servicios públicos.
     - chapter: 
         title: Devolver la seguridad y tranquilidad a los ciudadanos
+        categories: Seguridad y defensa
         children: 
         - declaration:
             id: cb081acc-1cbf-457c-bc39-ce6e5114b0b2
@@ -1649,6 +1681,7 @@ index:
             text: ESTABLECEREMOS UNA RED DE EQUIPOS CONJUNTOS DE INVESTIGACIÓN EN MATERIA MIGRATORIA con países africanos. Seguiremos el modelo del actual Equipo Conjunto de Investigación en Níger liderado por España, con Francia y Níger.
     - chapter: 
         title: En defensa de la propiedad privada de los españoles
+        categories: Vivienda
         children: 
         - declaration:
             id: 75a38f59-ba1c-4ebe-969d-795af31daaf7
@@ -1685,6 +1718,7 @@ index:
         
 - chapter: 
     title: SERVIR
+    categories: Derechos y servicios sociales
     children:
     - declaration:
         id: 863b9ed8-d0a7-4d07-87dd-03f8f0784bc8
@@ -1737,6 +1771,7 @@ index:
             text: En consecuencia, el Partido Popular ratifica como objetivo fundamental la consolidación de una función pública que responda siempre a los principios constitucionales de igualdad, mérito y capacidad, respaldando la profesionalidad y capacidad que siempre han demostrado los servidores públicos como pilar esencial de un Estado democrático y de derecho fuerte.
     - chapter: 
         title: El ciudadano en el centro. Una Administración transparente y participativa
+        categories: Democracia
         children: 
         - declaration:
             id: fdc10d35-47f2-4064-b603-9ad255a97c10
@@ -1768,6 +1803,7 @@ index:
             text: MEJORAREMOS LA LEY DE TRANSPARENCIA DE 2013, reforzando el derecho de acceso a la información pública yla capacidad de respuesta del Consejo de transparencia y buen gobierno y el cumplimiento de sus resoluciones.
     - chapter: 
         title: Una Administración flexible, dinámica y eficaz
+        categories: Administración publica
         children: 
         - declaration:
             id: f6fe4250-c1a4-4a56-be02-6d8258034658
@@ -1800,6 +1836,7 @@ index:
             
     - chapter: 
         title: Una Administración inteligente
+        categories: Administración pública
         children: 
         - declaration:
             id: f83f2bb1-a39a-4c92-bcb9-b6a931abdaf5
@@ -1843,6 +1880,8 @@ index:
             text: IMPULSAREMOS UN PLAN  MAYORES DIGITALES para promover el apoyo de las administraciones públicas, las empresas digitales, las entidades bancarias y las tiendas de dispositivos electrónicos en su capacitación, y se desarrollarán programas específicos de formación y acompañamiento en el uso de los servicios digitales, públicos y privados.
     - chapter: 
         title: Atraer y retener el talento en la Administración
+        categories: Trabajo
+        topics: Empleo público
         children: 
         - declaration:
             id: 162f95d5-3315-4549-9322-69d65acb3a43
@@ -1866,6 +1905,7 @@ index:
             text: RESTAURAREMOS LA COMPETENCIA NACIONAL SOBRE LA PLANIFICACIÓN Y SELECCIÓN DE LOS FUNCIONARIOS de Administración local con habilitaciones de carácter nacional, garantizando una oferta suficiente en los próximos años para cubrir las jubilaciones.
 - chapter: 
     title: LIDERAR E INFLUIR
+    categories: Política internacional
     children:
     - declaration:
         id: a0456375-a06c-43e2-902f-635d62cc0402
@@ -1928,6 +1968,7 @@ index:
         text: También el deporte se ha configurado en las últimas décadas como un elemento clave de la identidad global de nuestro país. Pero el peso de los grandes eventos, las selecciones absolutas y los clubs líderes no deben hacernos perder de vista la dimensión social del deporte, que comienza por la base. Debemos encontrar un equilibrio entre ambos enfoques y hacerlos complementarios.
     - chapter: 
         title: España, en el puente de mando de la Unión Europea
+        topics: Europa
         children: 
         - declaration:
             id: 0aeecfa3-f966-4999-987c-3fedda1f536f
@@ -1967,6 +2008,7 @@ index:
             text: IMPULSAREMOS UNA POLÍTICA ENERGÉTICA que garantice el suministro a precios asequibles para familias y empresas.
     - chapter: 
         title: Iberoamérica, una prioridad renovada
+        topics: America latina
         children: 
         - declaration:
             id: 3cd46db3-6952-4fd6-a12b-a1de44c736d3
@@ -2037,6 +2079,7 @@ index:
             text: PROMOCIONAREMOS EL ESPAÑOL Y LA CULTURA ESPAÑOLA como los mayores activos de nuestra presencia en el mundo. Reforzaremos la presencia y la actividad del Instituto Cervantes.
     - chapter: 
         title: Invertir en seguridad y defensa
+        categories: Seguridad y defensa
         children: 
         - declaration:
             id: 226cde04-6b5e-4f78-a4f3-c3fe1da1b0a0
@@ -2068,6 +2111,7 @@ index:
             text: DESARROLLAREMOS UN NUEVO MODELO DE RESERVA MILITAR VOLUNTARIA que mejore las capacidades operativas y haga realidad el compromiso ciudadano con la defensa nacional.
     - chapter: 
         title: Relanzar la cooperación internacional
+        topics: Cooperación internacional
         children: 
         - declaration:
             id: 5f400cae-577f-4e6f-9d55-1128edcf5855
@@ -2091,6 +2135,7 @@ index:
             text: REFORZAREMOS LA AYUDA HUMANITARIA como seña de identidad de la cooperación española y máxima expresión de la solidaridad. Profesionalizaremos la labor del cooperante experto.
     - chapter: 
         title: Mejorar el servicio a los españoles en el exterior
+        topics: Consulados
         children: 
         - declaration:
             id: 3dc77b77-ed10-4928-ad75-3ef521af2deb
@@ -2110,6 +2155,7 @@ index:
             text: LLEVAREMOS A CABO DE FORMA INMEDIATA UN PLAN DE REFUERZO CONSULAR. Ampliaremos plantilla y mejoraremos los medios de la red, incluyendo la digitalización del registro civil consular y el aumento de los procedimientos telemáticos. Reforzaremos la Unidad de Emergencia Consular del Ministerio de Asuntos Exteriores, mediante la creación de una centralita o call center 24h con número único para canalizar llamadas de emergencia consular desde cualquier lugar del mundo.
     - chapter: 
         title: España, una potencia cultural en el mundo
+        categories: Cultura
         children: 
         - declaration:
             id: 585ed3f4-e954-4885-8259-ebff1a5c4a56
@@ -2169,6 +2215,7 @@ index:
             text: APOYAREMOS LAS NUEVAS EXPRESIONES ARTÍSTICAS, LAS VANGUARDIAS Y A LOS JÓVENES CREADORES. También reivindicaremos nuestros referentes culturales más reconocidos, en centenarios como los de Ana María Matute (2025), Gaudí (2026), Buero Vallejo (2026) y, de forma muy especial, el de la Generación del 27, un momento excepcional en nuestra cultura reciente.
     - chapter: 
         title: España, país referente en el deporte
+        categories: Deporte
         children: 
         - declaration:
             id: 17c0fb2b-5dd7-49fb-bee0-bcffb1b99290

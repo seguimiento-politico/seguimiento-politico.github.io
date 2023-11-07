@@ -11,7 +11,7 @@ url:
 web_history: 
 title: España Avanza. 
 description: Acuerdo de gobierno entre PSOE y SUMAR para la Legislatura XV
-index:
+content:
 - declaration:
     id: 3b7c83aa-48d4-4cec-a2ca-aa1314f32855
     page: 2
@@ -34,6 +34,8 @@ index:
     text: Nos adentramos en una década que será decisiva para el futuro de España y el mundo, y el nuevo gobierno de coalición va a estar a la altura. Vienen cuatro años más de progreso, de convivencia, estabil  idad, e ilusión. Vienen cuatro años más de izquierda.
 - chapter: 
     title: Una economía más moderna, al servicio de las personas y de un crecimiento justo y sostenible
+    categories: Economía
+    topics: Desarrollo sostenible
     children:
     - promise:
         id: 4f78cd83-c16b-4673-a74a-e95460d80e78
@@ -125,6 +127,8 @@ index:
         text: Reforzaremos los derechos de las personas consum  idoras. Se modernizará el Sistema Arbitral de Consumo, se fomentará el asociacionismo, renovando e impulsando el Consejo de Consum  idores y Usuarios, y se mejorarán los mecanismos procesales en defensa de los intereses colectivos en materia de acciones de representación de las personas consum  idoras. Se aprobará una nueva Ley de Condiciones Generales de la Contratación y una Ley de Servicios de Atención a la Clientela.
     - chapter: 
         title: Ciencia e Innovación
+        categories: Ciencia y tecnología
+        topics: 'I+D+i'
         children:
         - promise:
             id: db429249-8e0f-4ccc-b47e-c1c8f25b19f0
@@ -137,7 +141,7 @@ index:
         - promise:
             id: f9b8f10d-32e7-4536-b6a5-7d914bd1ca03
             page: 8
-            text: Fomentaremos la igualdad efectiva entre hombres y mujeres dentro del ámbito científico. Entre otras med  idas, se convocará el distintivo de igualdad como sello de cal  idad científica.
+            text: Fomentaremos la igualdad efectiva entre hombres y mujeres dentro del ámbito científico. Entre otras med  idas, se convocará el distintivo de igualdad como sello de calidad científica.
         - promise:
             id: 2e86d401-b003-4fc7-8710-2523268a7c77
             page: 8
@@ -160,6 +164,7 @@ index:
             text: Mantendremos la apuesta por los programas de apoyo a las empresas innovadoras, como las iniciativas Misiones y TransMisiones; la compra pública innovadora; la coinversión en empresas de base tecnológica; o el Plan de Transferencia y Colaboración para incentivar la colaboración público-privada en I+D+I e impulsar la capac  idad innovadora de las empresas españolas.
 - chapter: 
     title: Más y mejores empleos, con más derechos y mejores salarios
+    categories: Trabajo
     children:
     - promise:
         id: 2c5d1a1b-f54d-4f1c-a6ee-8e0f1c87b896
@@ -168,7 +173,7 @@ index:
     - promise:
         id: 20ba64c2-caad-4732-b9ec-3cf0d1d0b4d2
         page: 10
-        text: Apoyaremos la aplicación del Acuerdo para el Empleo y la Negociación Colectiva para que los salarios ganen poder adquisitivo tomando en cuenta la evolución de la productiv  idad y de los resultados de las empresas, utilizando la información del Observatorio de los Márgenes de Beneficio de las empresas (OMB), poniendo a disposición de las mesas negociadoras de los diferentes sectores información detallada.
+        text: Apoyaremos la aplicación del Acuerdo para el Empleo y la Negociación Colectiva para que los salarios ganen poder adquisitivo tomando en cuenta la evolución de la productividad y de los resultados de las empresas, utilizando la información del Observatorio de los Márgenes de Beneficio de las empresas (OMB), poniendo a disposición de las mesas negociadoras de los diferentes sectores información detallada.
     - promise:
         id: 653effe1-369d-4160-b2ce-efbc7afe5521
         page: 10
@@ -263,12 +268,14 @@ index:
         page: 13
         text: España seguirá cumpliendo con sus compromisos internacionales en materia laboral, entre otros, los Convenios 167 y 184 de la OIT.
 - chapter: 
-    title: Una agenda verde para garantizar la sostenibil  idad de hoy y de mañana
+    title: Una agenda verde para garantizar la sostenibilidad de hoy y de mañana
+    categories: Economía
+    topics: Desarrollo sostenible
     children:
     - promise:
         id: 2154e221-1e06-4f36-ac96-a1378c10f37b
         page: 14
-        text: Seguiremos impulsando una transición ecológica justa, incrementando el l  iderazgo de España en este ámbito, y acompañando a trabajadores y comun  idades para la diversificación y reactivación de sus economías. Para ello, continuaremos impulsando med  idas para descarbonizar nuestra economía y hacerla más circular y sostenible en el uso de recursos naturales, así como respetuosa con la naturaleza. Lo haremos mediante una política industrial verde que impulsará la transformación y modernización de nuestros sectores económicos, aprovechando las nuevas posibil  idades que ofrecen la ciencia y la tecnología. Convertiremos la transición ecológica en una vía para reforzar la autonomía estratégica de España, crear nuevos empleos y desarrollar nuevas industrias competitivas.
+        text: Seguiremos impulsando una transición ecológica justa, incrementando el liderazgo de España en este ámbito, y acompañando a trabajadores y comun  idades para la diversificación y reactivación de sus economías. Para ello, continuaremos impulsando med  idas para descarbonizar nuestra economía y hacerla más circular y sostenible en el uso de recursos naturales, así como respetuosa con la naturaleza. Lo haremos mediante una política industrial verde que impulsará la transformación y modernización de nuestros sectores económicos, aprovechando las nuevas posibil  idades que ofrecen la ciencia y la tecnología. Convertiremos la transición ecológica en una vía para reforzar la autonomía estratégica de España, crear nuevos empleos y desarrollar nuevas industrias competitivas.
     - promise:
         id: cb82b49f-9712-4d33-9560-e790971e2831
         page: 14
@@ -434,6 +441,7 @@ index:
             text: Impulsaremos la protección y el bienestar de los animales. Para ello, se desarrollará la Directiva 2010/63/UE del Parlamento Europeo y del Consejo Europeo relativa a la protección de los animales utilizados para fines científicos, y se pondrán en marcha nuevos planes estatales contra el maltrato a los animales.
 - chapter: 
     title: Una España que avanza en nuevos derechos sociales sociales para un mayor bienestar
+    categories: Derechos y servicios sociales
     children:
     - chapter: 
         title: Apoyo público a los ciudadanos y las ciudadanas
@@ -484,6 +492,8 @@ index:
             text: Culminaremos la reforma del artículo 49 de la Constitución para suprimir el término “disminu  idos” y reforzar la protección constitucional de los derechos de las personas con discapac  idad.
     - chapter: 
         title: Seguir mejorando nuestro sistema público de pensiones, con pensiones dignas y sostenibles
+        categories: Derechos y servicios sociales
+        topics: Pensiones
         children:
         - promise:
             id: 4a8ee7b3-c9b0-4230-9e4f-0c229ccc4afb
@@ -498,7 +508,8 @@ index:
             page: 24
             text: Para proteger los derechos de las mujeres, seguiremos progresando en la eliminación de la brecha de género de las pensiones, completando las lagunas de cotización para el cálculo de la pensión final e incluyendo nuevos mecanismos para reducir dicha brecha.
     - chapter: 
-        title: San  idad pública con más servicios y sin listas de espera
+        title: Sanidad pública con más servicios y sin listas de espera
+        categories: Sanidad
         children:
         - promise:
             id: d5f785be-b763-4016-b4d9-27952a7dcfe4
@@ -545,7 +556,8 @@ index:
             page: 26
             text: Aprobaremos, en coordinación con las CCAA, una norma estatal para la mejora de la composición y cal  idad nutricional de los menús en los comedores escolares. La normativa, además, regulará la oferta en las máquinas vending y puntos de venta en centros educativos para que sea saludable.
     - chapter: 
-        title: Educación pública y de cal  idad para garantizar la igualdad de oportun  idades
+        title: Educación pública y de calidad para garantizar la igualdad de oportunidades
+        categories: Educación
         children:
         - promise:
             id: 15a69994-22d6-439c-a347-486e691987f5
@@ -604,7 +616,8 @@ index:
             page: 28
             text: Seguiremos avanzando en la reducción de la precariedad y temporal  idad, y en la progresiva estabilización del profesorado universitario a través de las sucesivas Ofertas Públicas de Empleo, manteniéndose una tasa de reposición acorde a las neces  idades de renovación de las plantillas.
 - chapter: 
-    title: Garantizar el derecho a la vivienda y transporte de cal  idad para todos y todas
+    title: Garantizar el derecho a la vivienda y transporte de calidad para todos y todas
+    categories: Vivienda
     children:
     - promise:
         id: 12f8085a-6987-4716-993b-9087bdbf1ba5
@@ -637,7 +650,7 @@ index:
     - promise:
         id: f7583a12-2b3c-4ff3-87ed-23cd999522f5
         page: 30
-        text: Adoptaremos, fruto del diálogo con las ent  idades financieras, mejoras aplicables a los préstamos hipotecarios, dirig  idas a facilitar la amortización anticipada de los créditos, la reestructuración de los préstamos hipotecarios o la solicitud de la dación en pago.
+        text: Adoptaremos, fruto del diálogo con las entidades financieras, mejoras aplicables a los préstamos hipotecarios, dirig  idas a facilitar la amortización anticipada de los créditos, la reestructuración de los préstamos hipotecarios o la solicitud de la dación en pago.
     - promise:
         id: 583284d8-a006-4564-8752-657cfe47b71c
         page: 30
@@ -700,6 +713,8 @@ index:
         text: Implantaremos una experiencia piloto de Obligación de Servicio Público aérea entre Menorca y Barcelona y, si los resultados son exitosos, ampliaremos la iniciativa a las conexiones de Ibiza y Menorca con Madr  id, Barcelona y Valencia.
 - chapter: 
     title: España, un referente feminista
+    categories: Derechos y servicios sociales
+    topics: Igualdad
     children:
     - promise:
         id: 04ae7dc0-8aa2-449f-a749-b8096401d570
@@ -767,6 +782,7 @@ index:
         text: Trabajaremos para garantizar que la construcción del conocimiento se hace sin sesgos de género.
 - chapter: 
     title: Una España diversa y plural, con más derechos y más libertades
+    categories: Derechos y servicios sociales
     children:
     - promise:
         id: 75bcc776-52cf-4110-b2b7-c9265a125534
@@ -793,7 +809,8 @@ index:
         page: 36
         text: Trabajaremos para garantizar que el trabajo sea un espacio libre de acoso o discriminación por orientación sexual, expresión o   ident  idad de género y características sexuales.
 - chapter: 
-    title: Una Fiscal  idad justa y adaptada a los retos del presente
+    title: Una Fiscalidad justa y adaptada a los retos del presente
+    categories: Impuestos y financiación pública
     children:
     - promise:
         id: 33dcd0e8-5b09-48b4-ba96-c6827a580592
@@ -856,6 +873,7 @@ index:
     children:
     - chapter: 
         title: Modelo territorial
+        categories: Territorio rural
         children:
         - promise:
             id: fe3b90b9-5d14-4439-ac57-f3accfbbd35f
@@ -871,6 +889,7 @@ index:
             text: Reforzaremos y extenderemos la co-gobernanza desde el diálogo, la lealtad institucional y la colaboración territorial.
     - chapter: 
         title: Administración Pública
+        categories: Administraciones públicas
         children:
         - promise:
             id: bfe3287b-fed1-4e90-a9ba-57ffc63bf391
@@ -918,6 +937,7 @@ index:
             text: Reforzaremos la lucha contra la moros  idad para asegurar el estricto cumplimiento de los plazos legales de pago en toda la cadena de producción, especialmente mediante actuaciones dirig  idas a mejorar la protección de los trabajadores y trabajadoras de las subcontratas, evitando que en los contratos adjudicados por el sector público a grandes empresas se produzcan situaciones de impago de salarios tanto a las PYMES como a las personas autónomas subcontratadas.
     - chapter: 
         title: Democracia y justicia
+        categories: Democracia
         children:
         - promise:
             id: b05ddf43-464d-474a-a731-3dfd1a7f050a
@@ -934,7 +954,7 @@ index:
         - promise:
             id: 61933904-bda4-4e16-bf3c-42451aa66f82
             page: 43
-            text: Apoyaremos el reconocimiento y la reparación de la represión sufr  ida por las mujeres y las personas LTGTBI+ durante el franquismo.
+            text: Apoyaremos el reconocimiento y la reparación de la represión sufrida por las mujeres y las personas LTGTBI+ durante el franquismo.
         - promise:
             id: c6e0ec8f-26e7-494b-8194-e9c327a77936
             page: 43
@@ -961,6 +981,7 @@ index:
             text: Propondremos un nuevo modelo de acceso, formación, especialización y promoción de jueces y fiscales, desarrollando un sistema de becas públicas, ayudas y compensaciones para preparar el acceso al empleo público en la justicia, con el objeto de garantizar la igualdad de oportun  idades.
 - chapter: 
     title: Cultura para crecer en democracia
+    categories: Cultura
     children:
     - promise:
         id: f04e3e2d-883b-42ad-a483-4564c574cb96
@@ -1008,6 +1029,7 @@ index:
         text: Seguiremos trabajando para lograr la igualdad de género efectiva en el deporte garantizando la presencia del deporte femenino en la carta de servicios de la radio y televisión públicas y el adecuado tratamiento informativo (sin estereotipos de género) en los medios de comunicación. Además, se promoverán med  idas de ayuda a la conciliación de las mujeres deportistas profesionales y a otros niveles y se desarrollarán programas de formación en prevención de acoso y abusos sexuales en clubes y federaciones deportivas.
 - chapter: 
     title: Una España abierta al mundo y con voz propia en el escenario internacional
+    categories: Política internacional
     children:
     - promise:
         id: 4ba2f23e-0a7a-4623-a9c8-46a1c703b4bc
