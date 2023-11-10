@@ -25,7 +25,7 @@
                 {% include document_content_loop.html position=content %} 
             {% endif %}
         {% elsif element[0] == "promise" %}
-            {% assign promise_page = site.promises | where: "uid", element[1].id | first %}
+            {% assign promise_page = site.statements | where: "uid", element[1].id | first %}
             <ul>
                 <li>
                     <!-- promise title -->

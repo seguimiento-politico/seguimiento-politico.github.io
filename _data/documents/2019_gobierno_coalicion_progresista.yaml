@@ -1,5 +1,6 @@
 id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
-version: 2
+scope: national
+country: spain
 type: goverment_agreement
 parties:
 - PSOE
@@ -435,7 +436,7 @@ content:
     - chapter: 
         title: Políticas de apoyo a las familias.
         categories: Familia
-        topics: Incentivos, ayudas y subvenciones
+        topics:  'Incentivos, ayudas y subvenciones'
         children:
         - promise:
             id: 03ba6b0c-aa2b-4cbd-9310-c45dab3ca126

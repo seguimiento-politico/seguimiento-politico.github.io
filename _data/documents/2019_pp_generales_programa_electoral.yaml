@@ -1,4 +1,6 @@
 id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+scope: national
+country: spain
 type: manifesto
 parties: PP
 election_type: generales
@@ -1222,7 +1224,7 @@ content:
     - chapter:
         title:  Familia 
         categories: Familia
-        topics: Incentivos, ayudas y subvenciones
+        topics:  'Incentivos, ayudas y subvenciones'
         children: 
         - promise:
             id: da928de2-2f32-4caa-94e9-664b9018ca67

@@ -1,4 +1,6 @@
 id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+scope: national
+country: spain
 type: manifesto
 parties:
 - PSOE
@@ -4582,7 +4584,7 @@ content:
         - chapter: 
             title: Vivienda
             categories: Vivienda
-            topics: Incentivos, ayudas y subvenciones
+            topics:  'Incentivos, ayudas y subvenciones'
             children:
             - promise:
                 id: 360ae45f-a997-405e-9c6c-bda8f18f4b13
@@ -4623,7 +4625,7 @@ content:
         - chapter: 
             title: Movilidad
             categories: Transporte
-            topics: Incentivos, ayudas y subvenciones
+            topics:  'Incentivos, ayudas y subvenciones'
             children:
             - promise:
                 id: cee38c2c-4393-44d4-9a82-750f9dab76f6
@@ -7002,7 +7004,7 @@ content:
                 text: Estableceremos programas de incentivos rehabilitación, entre otras finalidades, para que los propietarios puedan poner viviendas en el mercado de alquiler asequible, y con ello eliminar el problema de habitabilidad que muchas de ellas tienen.
         - chapter: 
             title: Políticas para colectivos vulnerables
-            topics: Incentivos, ayudas y subvenciones
+            topics:  'Incentivos, ayudas y subvenciones'
             children:
             - declaration:
                 id: ebb52510-eec3-4f11-b685-8929130e2a90
@@ -7025,7 +7027,7 @@ content:
                 text: Impulsaremos el diseño de un Plan de Acción por las Administraciones Públicas competentes, con dotación económica suficiente, para la erradicación del chabolismo y de los asentamientos segregados, incluyendo la participación de la población gitana en el diseño del mismo.
         - chapter: 
             title: Rehabilitación
-            topics: [Rehabilitación, Incentivos, ayudas y subvenciones]
+            topics: [Rehabilitación,  'Incentivos, ayudas y subvenciones']
             children:
             - declaration:
                 id: bb1542b0-bd54-4476-8666-c79c67bd67f8
@@ -7082,7 +7084,7 @@ content:
                 text: Impulsaremos herramientas de colaboración público-privada, a través de créditos ICO, disposición de suelo público en cesión y subvenciones, entre otros, para impulsar estos nuevos modelos.
         - chapter: 
             title: Acceso de las personas jóvenes a la vivienda
-            categories: [Juventud, Incentivos, ayudas y subvenciones]
+            categories: [Juventud,  'Incentivos, ayudas y subvenciones']
             children:
             - declaration:
                 id: bed18c5d-c860-415b-8f6d-c13017c6d950
@@ -7219,7 +7221,7 @@ content:
                 text: Abordaremos, en paralelo, la reforma de la financiación local para garantizar los recursos suficientes que cubran las necesidades de la ciudadanía, en base a un nuevo marco adecuado de competencias adaptado a su realidad y a la proximidad en la prestación de los servicios.
         - chapter: 
             title: Apoyo a las zonas afectadas por catástrofes naturales
-            categories: Administraciones públicas
+            categories: Administración pública
             topics: [Gestión de riesgos, Catástrofes naturales]
             children:
             - declaration:
@@ -7468,7 +7470,7 @@ content:
                     text: Diseñaremos ciudades sostenibles para las personas y no para los automóviles.
     - chapter: 
         title: Una administración pública inteligente, accesible y proactiva
-        categories: Administraciones públicas
+        categories: Administración pública
         children:
         - declaration:
             id: d5cc77e7-0b67-4066-8a29-1476f344785a
@@ -7583,7 +7585,7 @@ content:
                     text: Aprobaremos el V Plan de Gobierno Abierto en colaboración con todas las Administraciones públicas y el Tercer Sector, para que España continúe liderando las políticas de Gobierno Abierto y transparencia.
             - chapter: 
                 title: Eficiencia administrativa
-                categories: Administraciones públicas
+                categories: Administración pública
                 topics: Eficiencia
                 children:
                 - declaration:
@@ -7607,7 +7609,7 @@ content:
                     text: Crearemos la agencia de gestión de prestaciones sociales públicas, aprovechando el conocimiento de la Agencia Tributaria, para automatizar los procesos y centralizando la gestión y los pagos a través de la inteligencia artificial.
         - chapter: 
             title: Modernización de la Administración Pública
-            categories: Administraciones públicas
+            categories: Administración pública
             topics: Modernización
             children:
             - promise:

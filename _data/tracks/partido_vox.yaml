@@ -1,12 +1,12 @@
 config:
     type: politics-promises-by-party
-    categorization: promesas-politica-estatal
+    categorization: political-promises
     lang: es
     group_by: party
     party: VOX
 scope: national # international, national, regional or local
-scope_country: spain # if scope is "international" then instead of "country:" use "organization:"
-scope_institution: vox
+country: spain # if scope is "international" then instead of "country:" use "organization:"
+institution: vox
 context:
     name: Historico de propuestas
     description: Control sobre el grado de cumplimiento de los compromisos electorales de los partidos políticos y congresistas.

@@ -54,10 +54,9 @@
         {% assign agent_name = party %}
         {% assign text = agent_name | slugify %}
         {% include normalize_text.html %}
-        
-        {% assign organization_path2 = organization_path | append: text | append: '.gif'  %}
-        {% assign organization_data = site.data.parties | where: 'name', agent_name %}
 
+        {% assign organization_path2 = organization_path | append: text | append: '.gif'  %}
+        
         <!-- Check if corresponding images exist in images folder -->
         {% for image in image_files %}
             {% if image.path == organization_path2 %}
@@ -67,7 +66,8 @@
         {% if organization_image %}
             <img src="{{ organization_path2 }}" alt="{{ agent_name }}" width="36" height="36">
         {% else %}
-        <span class="badge list-party" style="background-color:{{organization_data[0].color}};">{{ organization_data[0].name }}</span>
+            {% assign organization_data = site.data.parties | where: 'name', agent_name %}
+            <span class="badge list-party" style="background-color:{{organization_data[0].color}};">{{ organization_data[0].name }}</span>
         {% endif %}
     {% endfor %}
     </div>

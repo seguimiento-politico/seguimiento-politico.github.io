@@ -4,27 +4,7 @@
 
 <!-- categorization counters -->
 {% include categorization_counters.html %}
-
-<!-- Intro -->
-<div class="border my-3 p-3 bg-body rounded shadow-sm">
-    <h6 class="border-bottom pb-2">{{ site.data.locales.ui-text[site.lang].track_info_label | default: "Data and info about" }} {{ track_data.context.name }}</h6>
-    <div class="row pt-2">
-        <!-- % assign not_achieved = promises | where_exp: "item", "item.status contains 'Broken' or item.status contains 'Not started' or item.status contains 'In progress'" % 
-                % assign not_achieved_percent = not_achieved | times: 100 | divided_by: total % -->
-        <p>
-            <b>Desde </b>  {{ track_data.context.from }} <b>hasta</b>  {% if track_data.context.to %} {{ track_data.context.to }} {% else %} Actualidad {% endif %} <b>durante</b> 
-            <span id="days-in-office"><i class='loading'>Loading...</i></span> días
-        </p>
-        <p>
-            <b>Total compromisos electorales del gobierno registrados: </b> {{ promises | size }} 
-            de los cuales <span class="text-danger"> el {{ not_achieved_percent }}% no se han cumplido</span> y <span class="text-success"> el % sí.</span>
-        </p> 
-        <p>
-            <b>Total compromisos electorales de la oposición registrados: </b> {{ opposition_promises | size }} 
-            de los cuales <span class="text-danger"> el {{ not_achieved_percent }}% no se han cumplido</span> y <span class="text-success"> el % sí.</span>
-        </p>
-    </div>
-</div>
+{% assign default_status = site.data.categorization.default.statuses | first %}
 
 <!-- Programas Electorales y otros documentos -->
 {% include documents_list.html %}
@@ -67,9 +47,8 @@
                         {% if item_analysis[0].status %}
                             {% assign status = statuses_data | where: "name", item_analysis[0].status | first %}
                         {% else %}
-                            {% assign status = site.data.categorization.default.statuses | first %}
+                            {% assign status = default_status %}
                         {% endif %}
-                        {% assign party = parties_data | where: "name", item.party | first %} 
                         
                         <tr class="list-group-item-{{ status.color }}">
                             <td>
@@ -77,49 +56,34 @@
                                 {% include items_logo.html type='parties' %}
                             </td>
                             <td class="list-year">
-                                {% assign year = item.from | split: '-' %}
-                                {{ year[0] }}
+                                {% if item.publication_date %}
+                                    {% assign year = item.publication_date | split: '-' %}
+                                    {{ year[0] }}
+                                {% elsif item.election_date %}
+                                    {% assign year = item.election_date | split: '-' %}
+                                    {{ year[0] }}
+                                {% endif %}
                             </td>
                             <td class="sr-only">  
                                 <div>
                                     <span class="d-none list-category">
                                         {% for category in item.categories %}
-                                            {% assign category_data = categories_data | where: "name", category | first %}
-                                            {{ category_data.name }}{% if forloop.last == false %}; {% endif %}
+                                            {{ category }}
+                                            {% if forloop.last == false %}; {% endif %}
                                         {% endfor %}
                                     </span>
                                 </div>
                             </td>
                             <td>
                                 <div class="list-text">
-                                    <span><b>{{ item.title }}</b></span>
-                                    <span class="d-none d-md-block d-xxl-block"> 
-                                        {% if item.description %}
-                                            {{ item.description | truncatewords: 25 }}
-                                        {% else %}
-                                            {% assign description = "" %}
-                                            {% for statement in item.statements %}
-                                                {% assign description = description | append: "- " | append: statement.quote | append: "." | append: "<br>" %}
-                                            {% endfor %}
-                                            {{ description | truncatewords: 25 }}
-                                        {% endif %}
-                                    </span> 
-                                    {% if item_analysis[0].topics %}
-                                        <span class="text-muted">
-                                            {% for topic in item_analysis[0].topics %}
-                                                {{ topic.name}}
-                                                {% if forloop.last == false %}
-                                                    {{ ", "}}
-                                                {% endif %}     
-                                            {% endfor %}
-                                        </span>
+                                    {% if item.categories %} <span class="text-primary" style="--bs-text-opacity: .8;"> {% for category in item.categories %} {{ category }} {% if forloop.last == false %}{{ " | "}}{% endif %}{% endfor %} </span> {% endif %}
+                                    {% if item.categories and item.topics %} <span class="text-muted"> - </span>{% endif %}
+                                    {% if item.topics %} <span class="text-muted"> {% for topic in item.topics %} {{ topic }} {% if forloop.last == false %}{{ " | "}}{% endif %}{% endfor %} </span> {% endif %}
+                                    {% if item.title %}
+                                        <span class="d-none d-md-block d-xxl-block">{{ item.title }}</span>
+                                    {% elsif item.text %}
+                                        <span class="d-none d-md-block d-xxl-block">{{ item.text | truncatewords: 25 }}</span>
                                     {% endif %}
-                                </div>
-                                <div>
-                                    {% for category in item.categories %}
-                                        {% assign category_data = categories_data | where: "name", category | first %}
-                                        <i class="text-muted fas fa-fw fa-{{ category_data.icon }}" title="{{ category_data.name }}"></i>
-                                    {% endfor %}
                                 </div>
                             </td>
                             <td class="d-none d-sm-table-cell">
@@ -127,19 +91,14 @@
                                 <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="{{ site.data.locales.ui-text[site.lang].[status.lang_label] | default: status.name }}"></i>
                             </td>
                             <td class="text-center">
-                                {% assign promises = site.data.promises %}
-                                {% for promise in promises %}
-                                    {% if promise[1].id == item.id %}
-                                        {% if item_analysis[0] %}
-                                            {% assign class = "primary" %}
-                                        {% else %}
-                                            {% assign class = "secondary" %}
-                                        {% endif %}
-                                        <a class="btn btn-{{class}}" href="/promises/{{ promise[0] }}">
-                                            <span class="d-inline-block align-middle"><i class="fas fa-fw fa-angle-right"></i></span>
-                                        </a>
-                                    {% endif %}
-                                {% endfor %}
+                                {% if item_analysis[0] %}
+                                    {% assign class = "primary" %}
+                                {% else %}
+                                    {% assign class = "secondary" %}
+                                {% endif %}
+                                <a class="btn btn-{{class}}" href="/statements/{{ item.id }}">
+                                    <span class="d-inline-block align-middle"><i class="fas fa-fw fa-angle-right"></i></span>
+                                </a>
                             </td>
                         </tr>
                     {% endfor %}

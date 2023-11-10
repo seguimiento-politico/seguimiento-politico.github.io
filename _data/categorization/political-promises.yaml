@@ -1,3 +1,11 @@
+domains:
+    - Sociedad
+    - Estado
+    - Estado de bienestar
+    - Economía
+    - Medioambiente
+    - Relaciones internacionales
+
 categories:
     -   name: Infraestructuras
         icon: road-bridge
@@ -5,7 +13,7 @@ categories:
         icon: car-side
     -   name: Vivienda
         icon: house
-    -   name: Urbanismo
+    -   name: Urbanismo y ciudades
         icon: tree-city
     -   name: Economía
         icon: eur
@@ -15,7 +23,9 @@ categories:
         icon: wrench
     -   name: Empresas públicas
         icon: sitemap
-    -   name: Empresas y comercio
+    -   name: Empresas y autónomos
+        icon: store-alt
+    -   name: Comercio
         icon: store-alt
     -   name: Industria
         icon: industry
@@ -25,8 +35,12 @@ categories:
         icon: wheat-awn
     -   name: Ganadería
         icon: horse
-    -   name: Pesca
+    -   name: Pesca y acuicultura
         icon: fish
+    -   name: Minería
+        icon: explosion
+    -   name: Industria forestal
+        icon: tree
     -   name: Agua
         icon: faucet
     -   name: Energía
@@ -37,18 +51,16 @@ categories:
         icon: utensils
     -   name: Ciencia y tecnología
         icon: microscope
-    -   name: Cambio climático
+    -   name: Medioambiente
         icon: cloud-sun-rain
-    -   name: Medioambiente y biodiversidad
-        icon: tree
-    -   name: Residuos
-        icon: skull-crossbones
     -   name: Territorio
         icon: map-signs
     -   name: Democracia
         icon: university
-    -   name: Organización estatal y administraciones públicas
-        icon: flag
+    -   name: Organización territorial
+        icon: map-marked-alt
+    -   name: Administración pública
+        icon: sitemap
     -   name: Agencias y órganos públicos
         icon: tasks
     -   name: Derechos y servicios sociales
@@ -67,7 +79,7 @@ categories:
         icon: book
     -   name: Religión
         icon: pray
-    -   name: Deportes
+    -   name: Deporte
         icon: running
     -   name: Migración
         icon: globe-africa
@@ -77,18 +89,20 @@ categories:
         icon: globe  
     -   name: Cooperación internacional
         icon: peace
-    -   name: Europa
-        icon: earth-europe
-    -   name: Gobernanza y transparencia
-        icon: handshake
-    -   name: Igualdad
-        icon: users
-    -   name: Unidad nacional
+    -   name: Nacionalismo y patriostismo
         icon: people-group
     -   name: Territorio rural
         icon: tractor
     -   name: Familia
         icon: baby
+    -   name: Civismo
+        icon: handshake
+    -   name: Lenguas
+        icon: comments
+    -   name: Forma de estado
+        icon: flag
+    -   name: Minorías
+        icon: people-roof
 
 statuses:
     -   name: Desconocido

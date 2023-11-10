@@ -1,4 +1,6 @@
 id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+scope: national
+country: spain
 type: manifesto
 parties:
 - SUMAR
@@ -3896,7 +3898,7 @@ content:
     - chapter:
         title: Protección de los derechos de los niños y las niñas y de sus familias
         categories: Familia
-        topics: Incentivos, ayudas y subvenciones
+        topics:  'Incentivos, ayudas y subvenciones'
         page: 93
         children:
         - declaration:

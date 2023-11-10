@@ -1,5 +1,6 @@
 ##### README #####
 # author: Tovarlogic@gmail.com
+# DEPRECATED
 # version: 2 
 # this script is used to create new manifestos documents in yaml format v2 (includes promises) from v1 (not includes promises) plus promises files
 
@@ -34,7 +35,7 @@ def get_promises(chapter):
                 files_cont += 1
                 p = yaml.safe_load(promise_file)
                 #check if promise corresponds to the same manifesto
-                if m['id'] == p['ref_id']:
+                if m['id'] == p['doc_id']:
                     if 'ref_parent_chapter' in p:
                         chapter_string = ""
                         cont = 0
@@ -54,8 +55,8 @@ def get_promises(chapter):
                             proposal = {}
                             proposal['id'] = p['id']
                             proposal['title'] = p['title']
-                            if 'ref_page' in p:
-                                proposal['page'] = p['ref_page']
+                            if 'page' in p:
+                                proposal['page'] = p['page']
                             # set promise content
                             proposal['children'] = []
                             part = {}

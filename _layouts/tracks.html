@@ -17,15 +17,14 @@ layout: page
             
             {% assign scope_data = track[1] %}
             {% include scope_path.html %}         
-            {% if track[1].scope_institution %}
-                {% assign scope_path = scope_path | append: track[1].scope_institution | append: '.png' %}
+            {% if track[1].institution %}
+                {% assign scope_path = scope_path | append: track[1].institution | append: '.png' %}
             {% endif %}
             {% assign teaser = teaser | append: scope_path %} 
-
                 <div class="col py-3">
                     <div class="card shadow-sm bg-light h-100">
                         {% if teaser != site.teaser %}
-                            <img src="{{ teaser }}" class="" alt="{{ track[1].scope_institution }}">
+                            <img src="{{ teaser }}" class="" alt="{{ track[1].institution }}">
                         {% endif %}
                         <div class="card-body">
                             <h5 class="card-title">{{ track[1].context.name }}</h5>
@@ -40,9 +39,9 @@ layout: page
                                 </div>
                                 {% assign track_name = track[0] %}
                                 {% if config_data.group_by == "legislature"  %}  
-                                    {% assign items = site.data.promises | where_exp: 'item', 'item.election_type == track[1].context.election_type' | where_exp: 'item', 'item.from == track[1].context.from' %}
+                                    {% assign items = site.data.statements | where: "type", "promise" | where: "election_type", track[1].context.election_type | where: "election_date", track[1].context.from %}
                                 {% elsif config_data.group_by == "party" %}
-                                    {% assign items = site.data.promises | where: "parties", config_data.party %}
+                                    {% assign items = site.data.statements | where: "type", "promise" | where: "parties", config_data.party %}
                                 {% else %}
                                     {% assign items = "" | split:"," %}
                                 {% endif %}

@@ -19,7 +19,6 @@
                 {% include logos_settings.html type='party' %}        
                 {% include logos_show.html type='party' %}
             {% endfor %}  
-            <b>{{ item[0].title }}</b>
         </span>
         <div class="btn-group">
             <a class="btn btn-sm btn-primary" href="{{page.url}}/edit-item">
@@ -66,11 +65,11 @@
     </div>
     <div class="card-footer">
         {% assign type = item[0].ref_type %}
-        {% assign source = site.data.documents | where: "id", item[0].ref_id %}
+        {% assign source = site.data.documents | where: "id", item[0].doc_id %}
         {% assign url = source[0].url %}
-        {% if item[0].ref_page %}
-            {% assign url = url | append: '#page=' | append: item[0].ref_page %}
-            {% assign text = 'pag. ' | append: item[0].ref_page | append: ", art. " | append: item[0].ref_section %}
+        {% if item[0].page %}
+            {% assign url = url | append: '#page=' | append: item[0].page %}
+            {% assign text = 'pag. ' | append: item[0].page | append: ", art. " | append: item[0].ref_section %}
         {% endif %}
         {% if item[0].ref_text %}
             {% assign text = item[0].ref_text %}
@@ -121,13 +120,13 @@
                 <!-- divergent promises -->
                     {% for d in divergent %}
                         <p><span class="align-self-center ">
-                        {% assign p = site.data.promises | where: "id", d %}
+                        {% assign p = site.data.statements  | where: "id", d %}
                         {% for party in p[0].parties %}
                             {% assign party_name = party %}   
                             {% include logos_settings.html type='party' %}        
                             {% include logos_show.html type='party' %}
                         {% endfor %}
-                        {% assign promise_page = site.promises | where: "uid", d | first %}
+                        {% assign promise_page =  site.statements | where: "uid", d | first %}
                         
                             <a class="btn btn-{{class}}" href="{{ promise_page.url }}"> {{ p[0].title }} </a>
                         </span></p>
@@ -142,13 +141,13 @@
                     <!-- ambiguous promises -->
                     {% for d in ambiguous %}
                         <p><span class="align-self-center">
-                        {% assign p = site.data.promises | where: "id", d %}
+                        {% assign p = site.data.statements  | where: "id", d %}
                         {% for party in p[0].parties %}
                             {% assign party_name = party %}   
                             {% include logos_settings.html type='party' %}        
                             {% include logos_show.html type='party' %}
                         {% endfor %}
-                        {% assign promise_page = site.promises | where: "uid", d | first %}
+                        {% assign promise_page =  site.statements | where: "uid", d | first %}
                         
                             <a class="btn btn-{{class}}" href="{{ promise_page.url }}"> {{ p[0].title }} </a>
                         </span></p>
@@ -163,13 +162,13 @@
                     <!-- convergent promises -->
                     {% for d in convergent %}
                         <p><span class="align-self-center">
-                        {% assign p = site.data.promises | where: "id", d %}
+                        {% assign p = site.data.statements  | where: "id", d %}
                         {% for party in p[0].parties %}
                             {% assign party_name = party %}   
                             {% include logos_settings.html type='party' %}        
                             {% include logos_show.html type='party' %}
                         {% endfor %}
-                        {% assign promise_page = site.promises | where: "uid", d | first %}
+                        {% assign promise_page =  site.statements | where: "uid", d | first %}
                         
                             <a class="btn btn-{{class}}" href="{{ promise_page.url }}"> {{ p[0].title }} </a>
                         </span></p>

@@ -7,8 +7,8 @@ config:
     lang: es
     group_by: legislature   
 scope: national # internationa, national, regional or local
-scope_country: spain # if scope is "international" then instead of "country:" use "organization:"
-scope_institution: corona
+country: spain # if scope is "international" then instead of "country:" use "organization:"
+institution: corona
 context:
     name: "La Corona: Felipe VI"
     description: Seguimiento de la Casa Real española y sus miembros en tiempos del Rey Felipe VI.

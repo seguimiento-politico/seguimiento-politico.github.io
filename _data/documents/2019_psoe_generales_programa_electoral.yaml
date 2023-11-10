@@ -1,4 +1,6 @@
 id: 4540ee8a-066e-4224-9f26-1297932c6560
+scope: national
+country: spain
 type: manifesto
 election_type: generales
 election_date: "2019-11-10"
@@ -659,7 +661,7 @@ content:
 - chapter: 
     title: EMERGENCIA CLIMÁTICA Y TRANSICIÓN ECOLÓGICA DE LA ECONOMÍA
     categories: Medioambiente
-    topics: [Cambio climáticos, Desarrollo sostenible]
+    topics: [Cambio climático, Desarrollo sostenible]
     children: 
     - chapter: 
         title: Emergencia climática

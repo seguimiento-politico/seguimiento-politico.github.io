@@ -1,7 +1,7 @@
 ---
 title: Documentos
 comments: true
-permalink: /docs
+permalink: /docs/
 ---
 
 <!-- Programas electorales (manifestos) -->

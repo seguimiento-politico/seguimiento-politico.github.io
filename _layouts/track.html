@@ -5,11 +5,10 @@ layout: page
 {% assign track_data = site.data.tracks.[page.track_name] %}
 
 {% if track_data.config.group_by == "legislature"  %}  
-    {% assign items = site.data.promises | where_exp: 'item', 'item.election_type == track_data.context.election_type' | where_exp: 'item', 'item.from == track_data.context.from' %}
-    {% assign items = items | sort: 'ref_section' %}
-    {% assign documents = site.data.documents | where_exp: 'item', 'item.election_type == track_data.context.election_type' | where_exp: 'item', 'item.election_date == track_data.context.from' %}
+    {% assign items = site.data.statements | where: 'type', "promise" | where: 'election_type', track_data.context.election_type | where: 'election_date', track_data.context.from %}
+    {% assign documents = site.data.documents | where: 'election_type', track_data.context.election_type | where: 'election_date', track_data.context.from | where: 'type', "promise" | sort: 'title' %}
 {% elsif track_data.config.group_by == "party" %}
-    {% assign items = site.data.promises | where: "parties", track_data.config.party | sort: 'title' %}
+    {% assign items = site.data.statements | where: 'type', "promise" | where: "parties", track_data.config.party %}
     {% assign documents = site.data.documents | where: 'parties', track_data.config.party | sort: 'title' %}
 {% else %}
     {% assign items = "" | split:"," %}

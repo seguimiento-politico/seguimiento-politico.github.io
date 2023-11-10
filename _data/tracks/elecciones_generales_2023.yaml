@@ -1,16 +1,16 @@
 config:
     type: politics-promises-by-party
-    categorization: promesas-politica-estatal
+    categorization: political-promises
     lang: es
     group_by: legislature
 scope: national # international, national, regional or local
-scope_country: spain # if scope is "international" then instead of "country:" use "organization:"
-scope_institution: 2023-elecciones-generales-23J
+country: spain # if scope is "international" then instead of "country:" use "organization:"
+institution: 2023-elecciones-generales-23J
 context:
     name: Elecciones generales 2023
     description: Listado exhaustivo y análisis de las propuestas de los principales partidos políticos.
     election_type: generales 
-    from: "2023-07-23"
+    from: '2023-07-23'
     goverment_type:
     goverment_parties:
     sources:

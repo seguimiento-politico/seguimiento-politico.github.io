@@ -8,7 +8,7 @@ config:
     group_by: legislature
 scope: international # internationa, national, regional or local
 scope_organization: europe
-scope_institution: europe
+institution: europe
 context:
     name: "Europa: Legislatura IX"
     description: Seguimiento de las políticas y actividad legislativa de la Unión Europea.

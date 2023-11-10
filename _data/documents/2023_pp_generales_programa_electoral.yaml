@@ -1,4 +1,6 @@
 id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+scope: national
+country: spain
 type: manifesto
 parties: PP
 election_type: generales
@@ -1037,7 +1039,7 @@ content:
     - chapter: 
         title: Apoyar la maternidad, la paternidad y la conciliación
         categories: Familia
-        topics: Incentivos, ayudas y subvenciones
+        topics:  'Incentivos, ayudas y subvenciones'
         children: 
         - declaration:
             id: ce0f4849-2548-4008-84c8-feebef0d7f50

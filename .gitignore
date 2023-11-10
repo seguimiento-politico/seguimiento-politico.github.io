@@ -150,3 +150,5 @@ _data/tasks.yaml
 _data/documents_raw/
 _data/promises_old/
 tests/
+_data/categorization/all_data.yaml
+_data/categorization/promises_goals.yaml

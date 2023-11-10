@@ -106,7 +106,7 @@ collections:
   tracks:
     output: true
     permalink: /:path
-  promises:
+  statements:
     output: true
     permalink: /:collection/:path
   docs:
@@ -129,7 +129,7 @@ defaults:
       comments: false
 
   - scope:
-      path: "_promises"
+      path: "_statements"
     values:
       layout: promise
       comments: true

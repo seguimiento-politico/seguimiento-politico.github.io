@@ -1,12 +1,12 @@
 <!-- Data files and static files (images and documents) share common folder structure -->
 {% if scope_data.scope == "national" or scope_data.scope == "regional" or scope_data.scope == "local" and scope_data.country %}
-    {% assign scope_path = scope_data.scope_country | append: '/' %}
+    {% assign scope_path = scope_data.country | append: '/' %}
     {% if scope_data.region %}
         {% assign scope_path = scope_path | append: scope_data.scope_region | append: '/' %}
-        {% if scope_data.locality %}
-            {% assign scope_path = scope_path | append: scope_data.scope_locality | append: '/' %}
+        {% if scope_data.local %}
+            {% assign scope_path = scope_path | append: scope_data.local | append: '/' %}
         {% endif %}
     {% endif %}
-{% elsif scope_data.scope == "international" and scope_data.scope_organization %}
-    {% assign scope_path = scope_data.scope_organization | append: '/' %}
+{% elsif scope_data.scope == "supranational" and scope_data.organization or scope_data.institution %}
+    {% assign scope_path = scope_data.organization | append: '/' %}
 {% endif %}

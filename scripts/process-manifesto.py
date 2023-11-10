@@ -1,5 +1,6 @@
 ##### README #####
 # author: Tovarlogic@gmail.com
+# DEPRECATED
 # this script is used to convert manifestos documents in yaml format (version 1) into the new format which includes every promise.
 
 import os
@@ -32,7 +33,7 @@ def get_promises(chapter):
                 files_cont += 1
                 p = yaml.safe_load(promise_file)
                 #check if promise corresponds to the same manifesto
-                if m['id'] == p['ref_id']:
+                if m['id'] == p['doc_id']:
                     if 'ref_parent_chapter' in p:
                         chapter_string = ""
                         cont = 0
@@ -52,8 +53,8 @@ def get_promises(chapter):
                             proposition = {}
                             proposition['id'] = p['id']
                             proposition['proposition'] = p['title']
-                            if 'ref_page' in p:
-                                proposition['page'] = p['ref_page']
+                            if 'page' in p:
+                                proposition['page'] = p['page']
                             if 'ref_section' in p:
                                 proposition['ref_section'] = p['ref_section']
                             else:

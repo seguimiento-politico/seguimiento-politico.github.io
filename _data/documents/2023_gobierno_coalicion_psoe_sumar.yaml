@@ -1,4 +1,6 @@
 id: ee7c269f-4b4b-4814-ab33-da784dff593b
+scope: national
+country: spain
 version: 2
 type: goverment_agreement
 parties:
@@ -889,7 +891,7 @@ content:
             text: Reforzaremos y extenderemos la co-gobernanza desde el diálogo, la lealtad institucional y la colaboración territorial.
     - chapter: 
         title: Administración Pública
-        categories: Administraciones públicas
+        categories: Administración pública
         children:
         - promise:
             id: bfe3287b-fed1-4e90-a9ba-57ffc63bf391

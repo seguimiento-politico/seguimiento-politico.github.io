@@ -1,12 +1,12 @@
 config:
     type: politics-promises-by-party
-    categorization: promesas-politica-estatal
+    categorization: political-promises
     lang: es
     group_by: party
     party: SUMAR
 scope: national # international, national, regional or local
-scope_country: spain # if scope is "international" then instead of "country:" use "organization:"
-scope_institution: sumar
+country: spain # if scope is "international" then instead of "country:" use "organization:"
+institution: sumar
 document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 context:
     name: Historico de propuestas
