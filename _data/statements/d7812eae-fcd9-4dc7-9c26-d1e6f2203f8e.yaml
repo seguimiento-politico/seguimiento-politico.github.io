@@ -1,0 +1,14 @@
+id: d7812eae-fcd9-4dc7-9c26-d1e6f2203f8e
+type: promise
+parent_statement: d6f321a6-b1de-4220-8bb6-23dace69dfba
+doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parties:
+- PSOE
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-10'
+categories: Economía
+topics: Digitalización
+text: Desarrollaremos la aplicación Mi Carpeta Ciudadana, integrando más funcionalidades de las ya disponibles para poder realizar trámites administrativos de todas las administraciones públicas en un solo clic e incluyendo la extensión para las gestiones de las empresas y autónomos.

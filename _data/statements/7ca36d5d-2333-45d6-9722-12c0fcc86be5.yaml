@@ -1,0 +1,15 @@
+id: 7ca36d5d-2333-45d6-9722-12c0fcc86be5
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 162
+categories: Educación
+topics: Universidad
+title: Consideración, de manera integrada, del conjunto de las actividades desempeñadas por el PDI de modo que concuerde con el número máximo de horas de dedicación
+has_children: true

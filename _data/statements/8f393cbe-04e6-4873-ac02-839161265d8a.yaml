@@ -1,0 +1,14 @@
+id: 8f393cbe-04e6-4873-ac02-839161265d8a
+type: promise
+parent_statement: 0dabdad9-42a5-4ace-b3a9-09b1e3ba04b2
+doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parties:
+- VOX
+scope: national
+country: spain
+election_type: generales
+election_date: '2019-11-10'
+publication_date: '2019-06-16'
+categories:
+- Migración
+text: Posibilidad de perder la nacionalidad adquirida por actividades contra la soberanía, seguridad o independencia nacional.

@@ -1,0 +1,14 @@
+id: a1db186a-52d0-42b0-9790-2bf7d02356f9
+type: promise
+parent_statement: e23d016e-7ab0-4a7a-889e-2110ca31236b
+doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parties:
+- VOX
+scope: national
+country: spain
+election_type: generales
+election_date: '2019-11-10'
+publication_date: '2019-06-16'
+categories:
+- Migración
+text: Condicionar la ayuda al desarrollo a que los países acepten la repatriación de inmigrantes ilegales y delincuentes.

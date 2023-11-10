@@ -1,0 +1,15 @@
+id: 1148caff-8923-4eda-b654-377b29badea1
+type: promise
+doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parties:
+- VOX
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-10'
+page: 111
+categories:
+- Medioambiente
+text: Protegeremos aquellas zonas que tengan un especial interés estratégico para el sector primario español como suelos fértiles o zonas pesqueras, así como aquellas que por su valor paisajístico puedan tener un especial interés de conservación y promuevan la actividad turística, trasladando los posibles proyectos a suelos infértiles o sin interés o valor paisajístico.
+has_children: true

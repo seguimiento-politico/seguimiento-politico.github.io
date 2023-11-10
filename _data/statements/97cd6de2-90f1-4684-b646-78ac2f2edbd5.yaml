@@ -1,0 +1,15 @@
+id: 97cd6de2-90f1-4684-b646-78ac2f2edbd5
+type: promise
+doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parties:
+- VOX
+scope: national
+country: spain
+election_type: generales
+election_date: '2019-11-10'
+publication_date: '2019-06-16'
+page: 5
+categories:
+- Migración
+title: Revision penas para combatir a las mafias de la inmigración
+has_children: true

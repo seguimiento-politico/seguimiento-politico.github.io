@@ -1,0 +1,16 @@
+id: 2f89dd75-e992-4824-b432-fb24a1da51dd
+type: promise
+parent_statement: e9468691-04a5-4199-8581-8118a40bff78
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Educación
+topics:
+- Igualdad
+- Inclusión
+text: Aseguraremos un presupuesto específico y suficiente para garantizar las actuaciones, así como los recursos humanos y técnicos adecuados a los estándares exigibles.

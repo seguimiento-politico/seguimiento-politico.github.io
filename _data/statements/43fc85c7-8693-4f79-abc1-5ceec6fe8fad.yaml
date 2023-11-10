@@ -1,0 +1,13 @@
+id: 43fc85c7-8693-4f79-abc1-5ceec6fe8fad
+type: promise
+parent_statement: 1dabb1d0-98d5-4135-af04-6031967fef75
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Administración pública
+text: y unificar sistemas informáticos y bases de datos que eviten trámites innecesarios y duplicidades.

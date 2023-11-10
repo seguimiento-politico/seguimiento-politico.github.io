@@ -1,0 +1,16 @@
+id: fcb75fb1-6409-4142-b972-e7b249ce91c2
+type: declaration
+parent_statement: 526f238f-81e6-4fe8-a6f7-c3798b2910f5
+doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parties:
+- PSOE
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-10'
+page: 168
+categories: Derechos y servicios sociales
+topics: Pensiones
+text: Hemos ampliado derechos y mejorado todas las prestaciones de la Seguridad Social de acuerdo con tres ejes de actuación.
+has_children: true

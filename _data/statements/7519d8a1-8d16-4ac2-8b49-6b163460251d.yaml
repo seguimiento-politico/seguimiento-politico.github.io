@@ -1,0 +1,13 @@
+id: 7519d8a1-8d16-4ac2-8b49-6b163460251d
+type: promise
+parent_statement: e7349a00-b099-4573-9dc4-bfb7debb30ca
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Sanidad
+text: Se abordará la elaboración de los planes educativos teniendo en cuenta el impacto en la salud mental de los estudiantes.

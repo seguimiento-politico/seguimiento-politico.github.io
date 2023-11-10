@@ -1,0 +1,17 @@
+id: e32ec9ef-5c30-406e-a952-20c952e95d16
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 161
+categories: Trabajo
+topics:
+- Empleo público
+- Universidad
+title: Recuperación de los estándares adecuados en la cantidad y calidad del empleo de las universidades.
+has_children: true

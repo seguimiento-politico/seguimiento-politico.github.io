@@ -1,0 +1,13 @@
+id: f8c465b8-9d08-42da-b473-a6a181b5d629
+type: promise
+parent_statement: 828198dc-4692-4490-8239-dd8adc6f320b
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Trabajo
+text: el derecho de todas las personas trabajadoras a ser representadas colectivamente;

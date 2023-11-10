@@ -1,0 +1,14 @@
+id: 77a9eee7-c75d-4fdc-9044-b511d8f93dfc
+type: promise
+parent_statement: 316a999c-05c7-4a80-a78b-ae39a237af5c
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Medioambiente
+topics: Desertificación
+text: Se realizará un inventario de infraestructuras obsoletas para su retirada ordenada.

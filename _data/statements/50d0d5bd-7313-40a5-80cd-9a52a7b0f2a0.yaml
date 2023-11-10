@@ -1,0 +1,14 @@
+id: 50d0d5bd-7313-40a5-80cd-9a52a7b0f2a0
+type: promise
+doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parties:
+- PSOE
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-10'
+page: 25
+categories: Trabajo
+text: 'Impulsaremos con los agentes sociales un Pacto por el Pleno Empleo para acelerar el círculo virtuoso de formación y colocación desarrollando el segundo pilar de protección, en el ámbito laboral, para aumentar las posibilidades de ahorro y mejorar la calidad de vida de las personas de cara a la jubilación. y, de ese modo, aprovechar el impulso de la inversión con los fondos europeos Next Generation, alinear los niveles de desempleo al 8% de paro estructural en línea con la media europea, con los siguientes componentes:'
+has_children: true

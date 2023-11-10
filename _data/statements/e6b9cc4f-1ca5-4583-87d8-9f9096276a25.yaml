@@ -1,0 +1,15 @@
+id: e6b9cc4f-1ca5-4583-87d8-9f9096276a25
+type: promise
+doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parties:
+- PSOE
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-10'
+page: 113
+categories: Derechos y servicios sociales
+topics: Formación profesional
+text: Formación para 3 millones de personas en formación profesional cada año, de los cuales 1.400.000 serán jóvenes matriculados en formación profesional del sistema educativo, y 1.600.000 trabajadoras y trabajadores ocupados o desempleados.
+has_children: true

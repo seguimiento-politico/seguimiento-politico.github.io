@@ -1,0 +1,15 @@
+id: f4b9f550-e0e1-453b-b344-d4a408598892
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 109
+categories: Democracia
+topics: Igualdad
+title: 'Igualdad y feminismo: Políticas de salud para las mujeres'
+has_children: true

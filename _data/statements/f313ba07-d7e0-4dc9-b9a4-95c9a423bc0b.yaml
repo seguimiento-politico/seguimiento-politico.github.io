@@ -1,0 +1,13 @@
+id: f313ba07-d7e0-4dc9-b9a4-95c9a423bc0b
+type: promise
+parent_statement: 7ddfede1-c3bf-4444-a8da-f2559f5a5b5e
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Seguridad y defensa
+text: Igualmente, se establecerán mecanismos para el control del uso de la fuerza en todos los espacios de privación de libertad (ya sean penales, policiales, de menores o extranjería).

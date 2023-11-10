@@ -1,0 +1,15 @@
+id: 2c645d9d-ae94-4db6-ad02-9f4cc06968b6
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 52
+categories: Medioambiente
+topics: Biodiversidad
+title: Impulso de la protección del mar y su biodiversidad
+has_children: true

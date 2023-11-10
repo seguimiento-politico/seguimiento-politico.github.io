@@ -1,0 +1,16 @@
+id: 90f8e661-b74f-4fa4-8d6d-48cd0e3559df
+type: promise
+parent_statement: aee89a82-2753-411c-84d6-37858b9952ca
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Educación
+topics:
+- Igualdad
+- Inclusión
+text: El fomento de la educación sexual adaptada en todas las etapas educativas es fundamental para favorecer la igualdad de trato, el respeto y la prevención de la violencia machista.

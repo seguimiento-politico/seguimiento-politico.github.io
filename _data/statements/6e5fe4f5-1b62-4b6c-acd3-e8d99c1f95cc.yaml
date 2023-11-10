@@ -1,0 +1,14 @@
+id: 6e5fe4f5-1b62-4b6c-acd3-e8d99c1f95cc
+type: declaration
+parent_statement: 3ae8e628-7863-4e03-9aa9-5076dc3fa017
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Economía
+topics: Economía circular
+text: 'Con el fin de garantizar el derecho a la reparación y la reutilización como pilar de una nueva economía circular, proponemos las siguientes medidas:'

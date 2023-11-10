@@ -1,0 +1,14 @@
+id: 1b360286-e059-4d6f-998e-7fef7259b835
+type: promise
+parent_statement: 42e130fd-c943-4844-aea2-297a90422b92
+doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parties:
+- VOX
+scope: national
+country: spain
+election_type: generales
+election_date: '2019-11-10'
+publication_date: '2019-06-16'
+categories:
+- Economía
+text: Crear un dispositivo de “primer empleo” que exonere de las cargas sociales en la primera contratación de jóvenes menores de 24 años y por un período máximo de dos años

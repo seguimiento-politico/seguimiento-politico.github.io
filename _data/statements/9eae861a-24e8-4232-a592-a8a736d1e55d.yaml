@@ -1,0 +1,16 @@
+id: 9eae861a-24e8-4232-a592-a8a736d1e55d
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 172
+categories:
+- Cultura
+- Educación
+title: Pacto de Educación y Cultura
+has_children: true

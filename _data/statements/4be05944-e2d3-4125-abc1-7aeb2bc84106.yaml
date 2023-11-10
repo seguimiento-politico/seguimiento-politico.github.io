@@ -1,0 +1,13 @@
+id: 4be05944-e2d3-4125-abc1-7aeb2bc84106
+type: promise
+parent_statement: 2e55fff1-192d-4058-9c94-916d551dc61a
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Deporte
+text: Así como aplicar medidas de acción positiva, como podría ser la reducción en el precio de la inscripción de equipos femeninos en las competiciones municipales o regionales.

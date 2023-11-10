@@ -1,0 +1,13 @@
+id: e49e9559-3d9b-4fce-ad9f-c4092d89c598
+type: promise
+parent_statement: fcd8e445-053e-4f37-87ab-45878d0ade1d
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Cultura
+text: 'Apostamos por un enfoque que parta de los territorios, entendiéndolos como realidades plurales: pueblos, ciudades, barrios, paisajes rurales o urbanos con necesidades y comunidades diversas. Personas y comunidades con derechos culturales para el disfrute y acceso y también en su condición de sujetos activos de la cultura.'

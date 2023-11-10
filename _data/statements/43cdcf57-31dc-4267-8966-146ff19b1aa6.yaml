@@ -1,0 +1,13 @@
+id: 43cdcf57-31dc-4267-8966-146ff19b1aa6
+type: promise
+parent_statement: 3e2e93f3-c7d0-40d2-be87-b42e69c97634
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Educación
+text: la implementación de planes integrales de atención personalizada al alumnado en riesgo de fracaso o exclusión,

@@ -1,0 +1,14 @@
+id: bad81450-142f-48bc-a53e-4ba4f7553744
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 88
+categories: Derechos y servicios sociales
+title: 'Bienestar y cuidados: Estrategia para combatir el sinhogarismo.'
+has_children: true

@@ -1,0 +1,14 @@
+id: 7e6c3e74-d1c2-4c51-817a-18afe1abea00
+type: promise
+parent_statement: 666ba341-3af0-4d82-91c8-a9a3f0dbe3e7
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Medioambiente
+topics: Biodiversidad
+text: Pondremos en marcha medidas económicas y fiscales para sustituir progresivamente las plantaciones de pinos exóticos y eucaliptos con el fin de generar bosques con especies autóctonas, de crecimiento menos rápido, pero menos proclives a generar grandes incendios.

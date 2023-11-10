@@ -1,0 +1,14 @@
+id: d1aefdf4-e1c3-4b94-95f5-d38a214f4e33
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 179
+categories: Cultura
+title: Acceso universal y neutralidad de la red
+has_children: true

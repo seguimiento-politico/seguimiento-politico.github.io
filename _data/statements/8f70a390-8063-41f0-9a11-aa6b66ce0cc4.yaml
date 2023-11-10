@@ -1,0 +1,15 @@
+id: 8f70a390-8063-41f0-9a11-aa6b66ce0cc4
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 135
+categories: Democracia
+topics: Memoria democrática
+title: Selección de lugares de memoria emblemáticos para su desarrollo como centros de interpretación.
+has_children: true

@@ -1,0 +1,15 @@
+id: bf819295-36f6-41b3-8e07-ac48be5f2d81
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 181
+categories: Educación
+topics: Digitalización
+title: Garantizar la toma de decisiones democrática en torno al desarrollo tecnológico
+has_children: true

@@ -1,0 +1,14 @@
+id: 1aa1361b-4aad-464a-9c64-d6a294e08fa5
+type: promise
+parent_statement: 827f15ec-b119-4d1d-b336-a8bcac2f9946
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Educación
+topics: Universidad
+text: Eliminaremos el actual castigo económico que resulta de las matrículas sucesivas en una misma asignatura, facilitar el acceso a los estudios de Máster del estudiantado económicamente más desfavorecido

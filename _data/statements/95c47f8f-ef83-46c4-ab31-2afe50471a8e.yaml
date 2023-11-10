@@ -1,0 +1,13 @@
+id: 95c47f8f-ef83-46c4-ab31-2afe50471a8e
+type: promise
+parent_statement: c28c6f4d-6529-439c-a0d4-86f15b66f309
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Justicia
+text: Debe excluirse además la competencia del TS sobre materias de ámbito no estatal o no superior a una comunidad autónoma.

@@ -1,0 +1,14 @@
+id: b70d4146-61a8-4e7e-9074-e6c867ce96a4
+type: promise
+parent_statement: 43e86874-d67e-42fb-be09-96d5e0669640
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Educación
+topics: Digitalización
+text: Finalmente, es esencial que las Administraciones públicas desarrollen sus propias tecnologías, creen protocolos comunes y contraten a personal técnico propio en lugar de externalizar todos los procesos de digitalización a consultoras o grandes tecnológicas. Para ello, se implementarán cláusulas que garanticen el código abierto en las contrataciones públicas.

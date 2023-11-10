@@ -1,0 +1,15 @@
+id: 11c2e30c-8ff0-4cb6-b4c5-35f12cc8259e
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 82
+categories: Transporte
+topics: Movilidad sostenible
+title: Mercancías, transporte aéreo, marítimo y ferrovial
+has_children: true

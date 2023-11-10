@@ -1,0 +1,17 @@
+id: 8ab0e828-9b46-457d-8837-4f1bba119599
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 166
+categories: Ciencia y tecnología
+topics:
+- Financiación
+- Gobernanza y transparencia
+title: Alcanzaremos una financiación para la ciencia significativa, estable y mantenida en tiempos de crisis
+has_children: true

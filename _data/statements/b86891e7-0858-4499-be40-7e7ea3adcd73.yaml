@@ -1,0 +1,15 @@
+id: b86891e7-0858-4499-be40-7e7ea3adcd73
+type: promise
+doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parties:
+- VOX
+scope: national
+country: spain
+election_type: generales
+election_date: '2019-11-10'
+publication_date: '2019-06-16'
+page: 14
+categories:
+- Sanidad
+title: Optimizar la eficiencia económica y medios sanitarios
+has_children: true

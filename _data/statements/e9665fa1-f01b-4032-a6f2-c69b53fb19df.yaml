@@ -1,0 +1,15 @@
+id: e9665fa1-f01b-4032-a6f2-c69b53fb19df
+type: declaration
+parent_statement: bd8a7071-a4d8-40df-ab47-6bdc15b1fcdf
+doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parties:
+- VOX
+scope: national
+country: spain
+election_type: generales
+election_date: '2019-11-10'
+publication_date: '2019-06-16'
+categories:
+- Educación
+- Cultura
+text: Los padres deben tener derecho a elegir la lengua de escolarización de sus hijos.

@@ -1,0 +1,14 @@
+id: d9d99b6d-f25d-49e0-8602-70673a8d8989
+type: promise
+parent_statement: fd81e8de-e686-422a-910a-bd503c2d25cb
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Educación
+topics: Universidad
+text: Debe hacerse hincapié en la minimización de las desigualdades según origen socio-familiar, género, procedencia étnica o nacional, edad, discapacidad u otras diversidades.

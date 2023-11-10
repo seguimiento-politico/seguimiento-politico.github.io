@@ -1,0 +1,15 @@
+id: 1b9aaf6a-2bba-49e4-a2fc-e94db790ae90
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 50
+categories: Medioambiente
+topics: Desertificación
+title: Acabar con la corrupción y con la mercantilización del agua.
+has_children: true

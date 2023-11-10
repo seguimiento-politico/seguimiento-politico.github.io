@@ -1,0 +1,14 @@
+id: 762b5184-cbda-4689-9427-73051750ac79
+type: promise
+parent_statement: 24e69fd2-ef8f-4664-b4da-fd8d0cbf357e
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Democracia
+topics: Participación ciudadana
+text: 'En relación al último instrumento: proponemos la creación de una plataforma electrónica nacional de participación ciudadana integral que permita deliberar, formular propuestas e interpelar a los cargos electos.'

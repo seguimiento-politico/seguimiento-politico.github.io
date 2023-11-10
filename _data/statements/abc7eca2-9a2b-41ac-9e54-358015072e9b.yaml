@@ -1,0 +1,14 @@
+id: abc7eca2-9a2b-41ac-9e54-358015072e9b
+type: promise
+parent_statement: bf819295-36f6-41b3-8e07-ac48be5f2d81
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Educación
+topics: Digitalización
+text: Para ello, se pretende potenciar una red de espacios de innovación transdisciplinar, gobernada democráticamente, con proyectos sociales y tecnológicos propuestos, ejecutados y evaluados por la ciudadanía, los colectivos sociales, el movimiento cooperativista y las universidades.

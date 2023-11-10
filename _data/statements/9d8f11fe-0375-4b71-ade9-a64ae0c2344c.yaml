@@ -1,0 +1,12 @@
+id: 9d8f11fe-0375-4b71-ade9-a64ae0c2344c
+type: declaration
+parent_statement: 7de68aa2-adc3-4c7d-ae92-85ee2247b506
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+text: Electrificar la calefacción y el agua caliente sanitaria de los edificios es una de las medidas con más impacto en la reducción de emisiones.

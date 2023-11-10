@@ -1,0 +1,13 @@
+id: 09e21514-25e3-437d-a685-f5c907f17ccc
+type: promise
+parent_statement: 41cdb4a7-ae79-4064-885d-6c21ca21b14a
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Trabajo
+text: Con la auditoría algorítmica, sistema de verificación con un contenido mínimo determinado reglamentariamente, la empresa deberá demostrar que el sistema de inteli gencia artificial utilizado en el ámbito laboral no incorpora sesgos que puedan traducirse en discriminación.

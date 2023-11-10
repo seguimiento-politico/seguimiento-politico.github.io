@@ -1,0 +1,13 @@
+id: 4e915f01-ef8f-4bc4-afd3-601794da7564
+type: promise
+parent_statement: 36e1c359-0d15-4df0-8252-544b4974b588
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Trabajo
+text: Debe garantizarse que el trabajo a tiempo parcial no se extienda en exceso mediante múltiples interrupciones.

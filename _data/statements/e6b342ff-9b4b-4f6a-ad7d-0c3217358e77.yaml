@@ -1,0 +1,15 @@
+id: e6b342ff-9b4b-4f6a-ad7d-0c3217358e77
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 22
+categories: Consumo
+topics: Consumo sostenible
+title: Aprobación de una estrategia estatal contra el lavado verde (greenwashing)
+has_children: true

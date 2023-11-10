@@ -1,0 +1,13 @@
+id: 3f4feaf1-2848-4e56-9229-7cfadce040ed
+type: promise
+parent_statement: 5c542221-806c-46f4-9286-6b3a8d86d3e2
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Justicia
+text: Asimismo, las normas procesales aplicables serán las de las leyes procesales que correspondan conforme a las cuestiones que se hayan de dilucidar, sin perjuicio de las adaptaciones que fuesen precisas debidas a la singular naturaleza del ejercicio de las armas.

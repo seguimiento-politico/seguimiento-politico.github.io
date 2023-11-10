@@ -1,0 +1,14 @@
+id: 950614e1-4d7e-420e-983d-ee2434dc8a1c
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 91
+categories: Sanidad
+title: Impuestos al servicio de la salud.
+has_children: true

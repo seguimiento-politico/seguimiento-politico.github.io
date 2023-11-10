@@ -1,0 +1,15 @@
+id: 69d95623-a34c-484e-9796-faa1c9d01ee8
+type: promise
+parent_statement: b148d532-e03c-48ec-bc99-db5ceb8e4c90
+doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parties:
+- PSOE
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-10'
+page: 223
+categories: Vivienda
+topics: Alquiler
+text: 15.000 que posibilitarán la conformación de alquileres sociales.

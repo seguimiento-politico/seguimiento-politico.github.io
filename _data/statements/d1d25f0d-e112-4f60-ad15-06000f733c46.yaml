@@ -1,0 +1,15 @@
+id: d1d25f0d-e112-4f60-ad15-06000f733c46
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 69
+categories: Consumo
+topics: Alimentación saludable
+title: Inclusión de dietistas-nutricionistas en los sistemas públicos de salud y formación en alimentación de los profesionales de la salud
+has_children: true

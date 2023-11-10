@@ -1,0 +1,15 @@
+id: 442f698e-f728-47fb-af19-eed8dc6bf9b5
+type: promise
+doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parties:
+- VOX
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-10'
+page: 150
+categories:
+- Territorio rural
+text: Defensa de la caza como actividad esencial para el control de las poblaciones y para la protección de las explotaciones agrícolas y ganaderas, así como por su valor medioambiental y económico.
+has_children: true

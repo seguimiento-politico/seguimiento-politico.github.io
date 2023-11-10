@@ -1,0 +1,17 @@
+id: 2b9cc243-0593-4b41-8921-d27688f34089
+type: promise
+doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parties:
+- PSOE
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-10'
+page: 189
+categories: Derechos y servicios sociales
+topics:
+- Desigualdad
+- Ingreso mínimo vital
+text: Culminaremos la integración de prestaciones no contributivas en torno al IMV.
+has_children: true

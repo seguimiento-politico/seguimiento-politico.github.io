@@ -1,0 +1,15 @@
+id: f6288dde-58d5-44c1-aaae-3d27e33d3968
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 163
+categories: Educación
+topics: Internacionalización
+title: Refuerzo de becas y ayudas económicas destinadas a respaldar los procesos de movilidad internacional, por la duración completa y los costes reales de los mismos, especialmente entre los colectivos con más dificultades o menos recursos.
+has_children: true

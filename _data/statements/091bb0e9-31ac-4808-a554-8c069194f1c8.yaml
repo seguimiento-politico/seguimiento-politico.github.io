@@ -1,0 +1,13 @@
+id: 091bb0e9-31ac-4808-a554-8c069194f1c8
+type: promise
+parent_statement: cd2ee9d6-4172-49db-ba19-58cdde0054c9
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Seguridad y defensa
+text: Se crearán, como piden las organizaciones de derechos humanos, instituciones externas especializadas en tareas de observación y control.

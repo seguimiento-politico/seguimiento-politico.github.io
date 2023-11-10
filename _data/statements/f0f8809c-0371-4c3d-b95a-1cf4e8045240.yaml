@@ -1,0 +1,17 @@
+id: f0f8809c-0371-4c3d-b95a-1cf4e8045240
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 156
+categories: Educación
+topics:
+- Igualdad
+- Inclusión
+title: Educación integral e inclusiva
+has_children: true

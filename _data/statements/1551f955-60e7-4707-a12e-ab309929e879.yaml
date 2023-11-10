@@ -1,0 +1,14 @@
+id: 1551f955-60e7-4707-a12e-ab309929e879
+type: promise
+parent_statement: 82c7eefd-7a7c-473b-b9e5-10d3dcb7fc8a
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Medioambiente
+topics: Biodiversidad
+text: 'Gestión de la Red Natura 2000: Revisaremos las directrices de gestión de la Red Natura 2000, para asegurar que sus objetivos de conservación de especies y hábitats amenazados se cumplen.'

@@ -1,0 +1,14 @@
+id: 0b612662-8068-4898-88b5-b35169f7f00d
+type: promise
+parent_statement: c915e760-d9b2-411d-b211-4a2c504f2748
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Educación
+topics: Digitalización
+text: Consideramos el despliegue de infraestructuras de telecomunicaciones desde el sector público para la ciudadanía, las empresas y las Administraciones del Estado, la mejor garantía para poder disponer de nuevos servicios, de calidad, a precios competitivos y en todo el país.

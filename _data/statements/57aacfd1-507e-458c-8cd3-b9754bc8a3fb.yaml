@@ -1,0 +1,14 @@
+id: 57aacfd1-507e-458c-8cd3-b9754bc8a3fb
+type: promise
+doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parties:
+- VOX
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-10'
+page: 43
+categories: Vivienda
+text: Promoveremos un urbanismo amable para las familias, arraigado y armonioso con el entorno, fomentando la rehabilitación de los estilos regionales y la protección de las fachadas tradicionales, incluyéndolos en los catálogos de bienes de interés cultural.
+has_children: true

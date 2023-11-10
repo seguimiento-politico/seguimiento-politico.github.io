@@ -1,0 +1,15 @@
+id: 22ed3cc7-65db-46c7-a5bb-d8d10bb72c40
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 33
+categories: Trabajo
+topics: Colectivos
+title: Avanzar en los derechos colectivos de participación democrática en las empresas
+has_children: true

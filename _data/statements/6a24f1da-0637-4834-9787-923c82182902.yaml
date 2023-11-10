@@ -1,0 +1,17 @@
+id: 6a24f1da-0637-4834-9787-923c82182902
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 156
+categories: Educación
+topics:
+- Igualdad
+- Inclusión
+title: Educación crítica, reflexiva, tolerante, laica, respetuosa de la igualdad y las distintas diversidades, y comprometida con los Objetivos del Desarrollo Sostenible de Naciones Unidas.
+has_children: true

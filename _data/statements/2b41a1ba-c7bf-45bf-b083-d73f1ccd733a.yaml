@@ -1,0 +1,13 @@
+id: 2b41a1ba-c7bf-45bf-b083-d73f1ccd733a
+type: promise
+parent_statement: 6f69898b-7140-4014-bdbf-ac81fdcb1b7c
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Sanidad
+text: Además, aprobaremos una ley de listas de espera que establezca tiempos máximos de espera y garantice un registro homogéneo, transparente y fiable de las listas de espera en todo el país.

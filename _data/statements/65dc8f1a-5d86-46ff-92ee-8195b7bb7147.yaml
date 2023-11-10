@@ -1,0 +1,14 @@
+id: 65dc8f1a-5d86-46ff-92ee-8195b7bb7147
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 74
+categories: Urbanismo y ciudades
+title: Marco de colaboración y coordinación de políticas urbanas.
+has_children: true

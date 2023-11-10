@@ -1,0 +1,14 @@
+id: 64edc849-e927-4c8b-82f8-692225cb5288
+type: promise
+parent_statement: 43e86874-d67e-42fb-be09-96d5e0669640
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Educación
+topics: Digitalización
+text: Se trabajará en un plan de transición hacia el software libre en todas las herramientas y servicios digitales, buscando hacerlos más robustos, seguros, escalables y sostenibles.

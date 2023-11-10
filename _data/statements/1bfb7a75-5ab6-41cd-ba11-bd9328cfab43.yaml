@@ -1,0 +1,15 @@
+id: 1bfb7a75-5ab6-41cd-ba11-bd9328cfab43
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 53
+categories: Medioambiente
+topics: Biodiversidad
+title: Agencia Nacional del Patrimonio Natural y la Biodiversidad
+has_children: true

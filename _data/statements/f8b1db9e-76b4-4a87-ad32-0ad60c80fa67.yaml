@@ -1,0 +1,14 @@
+id: f8b1db9e-76b4-4a87-ad32-0ad60c80fa67
+type: promise
+parent_statement: 8f5b2fb1-0313-42a4-a537-5902e79b60ea
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Educación
+topics: Digitalización
+text: Por último, es importante fomentar la digitalización programada para reducir las emisiones de gases de efecto invernadero.

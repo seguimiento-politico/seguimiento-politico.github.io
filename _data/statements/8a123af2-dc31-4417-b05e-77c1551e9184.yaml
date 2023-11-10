@@ -1,0 +1,14 @@
+id: 8a123af2-dc31-4417-b05e-77c1551e9184
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 34
+categories: Trabajo
+title: Protección de la familia en situaciones de viudedad, orfandad, etcétera
+has_children: true

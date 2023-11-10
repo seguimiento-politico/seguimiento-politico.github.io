@@ -1,0 +1,16 @@
+id: 51a17880-1b99-451e-8cc6-bb777d999ab9
+type: promise
+parent_statement: 4b28657f-ffc5-4179-b40c-c587db18eaf1
+doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parties:
+- PSOE
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-10'
+categories:
+- Agricultura
+- Ganadaría
+topics: Desarrollo sostenible
+text: Potenciaremos el uso de las energías renovables en el sector primario para lograr la eficiencia energética y abaratar la factura de la electricidad.

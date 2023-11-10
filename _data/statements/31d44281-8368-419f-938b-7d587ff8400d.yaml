@@ -1,0 +1,15 @@
+id: 31d44281-8368-419f-938b-7d587ff8400d
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 163
+categories: Educación
+topics: Universidad
+title: Revisión y actualización del papel y funcionamiento de las agencias de evaluación académica y científica, como ANECA y la AEI, y de su relación con las actividades, fines y autonomía del conjunto del sistema universitario.
+has_children: true

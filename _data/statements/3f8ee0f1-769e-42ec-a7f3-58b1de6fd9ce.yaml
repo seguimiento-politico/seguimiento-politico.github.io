@@ -1,0 +1,15 @@
+id: 3f8ee0f1-769e-42ec-a7f3-58b1de6fd9ce
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 80
+categories: Transporte
+topics: Movilidad sostenible
+title: Ciudades y territorios cercanos, accesibles y con servicios públicos.
+has_children: true

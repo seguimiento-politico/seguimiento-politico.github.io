@@ -1,0 +1,15 @@
+id: 5adf1bd5-caca-42e0-b459-0fcdbb7f1844
+type: promise
+parent_statement: 939fded4-d0e8-4ad2-abbb-b8108d0bef4e
+doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parties:
+- VOX
+scope: national
+country: spain
+election_type: generales
+election_date: '2019-11-10'
+publication_date: '2019-06-16'
+categories:
+- Seguridad y defensa
+- Migración
+text: Levantar un muro infranqueable en Ceuta y Melilla.

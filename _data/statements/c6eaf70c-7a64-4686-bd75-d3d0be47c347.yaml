@@ -1,0 +1,15 @@
+id: c6eaf70c-7a64-4686-bd75-d3d0be47c347
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 119
+categories: Democracia
+topics: Administración pública
+title: 'Liderazgo: politización y función directiva profesional'
+has_children: true

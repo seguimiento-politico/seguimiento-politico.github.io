@@ -1,0 +1,15 @@
+id: 79e46564-8c3d-4af8-8f68-d9ffdce88568
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 110
+categories: Democracia
+topics: Igualdad
+title: 'Igualdad y feminismo: Prevención violencia machista'
+has_children: true

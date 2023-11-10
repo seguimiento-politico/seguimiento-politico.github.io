@@ -1,0 +1,14 @@
+id: 2e7a2c25-2302-4d9e-ad97-1cee9d4a8ddb
+type: promise
+parent_statement: 086296fe-78bd-46f5-89fb-c083f107d703
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Derechos y servicios sociales
+topics: Tercera edad
+text: 'Además, pondremos en marcha un plan de ayudas para la compra de audífonos: los pensionistas que lo necesiten y que tengan ingresos inferiores al salario mínimo interprofesional vigente verán financiado el 80% del coste.'

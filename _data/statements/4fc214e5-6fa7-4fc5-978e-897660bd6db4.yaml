@@ -1,0 +1,15 @@
+id: 4fc214e5-6fa7-4fc5-978e-897660bd6db4
+type: promise
+parent_statement: 50c91e68-6dd9-440b-978d-aecc57a42649
+doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parties:
+- VOX
+scope: national
+country: spain
+election_type: generales
+election_date: '2019-11-10'
+publication_date: '2019-06-16'
+categories:
+- Educación
+- Cultura
+text: Implantar exámenes de control a nivel nacional (incluyendo uno de nivel de conocimiento de la lengua española) al finalizar la educación primaria, la secundaria obligatoria y el bachillerato.

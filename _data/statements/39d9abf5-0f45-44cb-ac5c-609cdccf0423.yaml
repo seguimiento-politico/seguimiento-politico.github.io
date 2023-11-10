@@ -1,0 +1,14 @@
+id: 39d9abf5-0f45-44cb-ac5c-609cdccf0423
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 89
+categories: Sanidad
+title: Incremento de la inversión sanitaria pública.
+has_children: true

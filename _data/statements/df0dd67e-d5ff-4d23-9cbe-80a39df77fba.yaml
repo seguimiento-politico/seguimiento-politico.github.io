@@ -1,0 +1,13 @@
+id: df0dd67e-d5ff-4d23-9cbe-80a39df77fba
+type: promise
+parent_statement: 55fca26e-cab6-4625-a416-a8079397623b
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Vivienda
+text: Declararemos servicios de interés general el conjunto de actividades vinculadas a la provisión de viviendas destinadas a políticas sociales.

@@ -1,0 +1,14 @@
+id: 2acbf3a2-55e3-4d2c-8f38-90fd1b79c3d6
+type: promise
+parent_statement: a808cb0d-25a0-435c-829a-bd28e96fb5c3
+doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parties:
+- VOX
+scope: national
+country: spain
+election_type: generales
+election_date: '2019-11-10'
+publication_date: '2019-06-16'
+categories:
+- Migración
+text: 'Acabar con el efecto llamada: cualquier inmigrante que haya entrado ilegalmente en España estará incapacitado, de por vida, a legalizar su situación y por lo tanto a recibir cualquier tipo de ayuda de la administración.'

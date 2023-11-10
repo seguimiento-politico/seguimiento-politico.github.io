@@ -1,0 +1,15 @@
+id: 464aa0d3-92c5-424a-bca5-8ce58e0b8598
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 67
+categories: Consumo
+topics: Alimentación saludable
+title: Reforma de la Ley de Seguridad Alimentaria y Nutrición
+has_children: true

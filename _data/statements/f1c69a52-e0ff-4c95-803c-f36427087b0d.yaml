@@ -1,0 +1,13 @@
+id: f1c69a52-e0ff-4c95-803c-f36427087b0d
+type: declaration
+parent_statement: 1946cb9c-ef6b-4a19-b6d1-6d983c205f87
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Sanidad
+text: null

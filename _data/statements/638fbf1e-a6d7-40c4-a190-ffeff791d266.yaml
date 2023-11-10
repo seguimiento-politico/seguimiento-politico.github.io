@@ -1,0 +1,15 @@
+id: 638fbf1e-a6d7-40c4-a190-ffeff791d266
+type: promise
+parent_statement: 09154c6e-d12f-4e42-9467-4af0644ac479
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories:
+- Cultura
+- Educación
+text: se impulsará el desarrollo de la investigación y la creación en su seno;

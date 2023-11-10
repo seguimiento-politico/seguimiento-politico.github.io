@@ -1,0 +1,13 @@
+id: ddd13f9d-0bc0-4ac9-a455-f396a701c40b
+type: promise
+parent_statement: cb44a613-1fb2-4396-b0d8-bdcc1a44342e
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Vivienda
+text: Crearemos juzgados especializados en la materia para resolver los conflictos que genere el derecho a la vivienda.

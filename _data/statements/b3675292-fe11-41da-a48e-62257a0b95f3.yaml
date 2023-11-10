@@ -1,0 +1,14 @@
+id: b3675292-fe11-41da-a48e-62257a0b95f3
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 89
+categories: Sanidad
+title: 'Derecho a la salud: Un pacto por la salud en España'
+has_children: true

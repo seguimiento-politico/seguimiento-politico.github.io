@@ -1,0 +1,13 @@
+id: 0e7b5df2-87b6-4964-853b-6aef4cbeebe1
+type: promise
+parent_statement: 231feeea-b594-4111-b7c6-6c510b7e420f
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Vivienda
+text: Mejoraremos el acceso y la calidad de la vivienda en zonas en proceso de despoblación mediante la puesta en marcha de medidas de movilización de vivienda adecuadas a las características de cada territorio.

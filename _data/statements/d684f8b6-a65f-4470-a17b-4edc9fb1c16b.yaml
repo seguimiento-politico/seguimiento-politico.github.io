@@ -1,0 +1,15 @@
+id: d684f8b6-a65f-4470-a17b-4edc9fb1c16b
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 108
+categories: Democracia
+topics: Igualdad
+title: 'Igualdad y feminismo: Salarios y pensaiones'
+has_children: true

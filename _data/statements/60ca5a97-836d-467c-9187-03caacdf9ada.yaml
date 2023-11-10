@@ -1,0 +1,13 @@
+id: 60ca5a97-836d-467c-9187-03caacdf9ada
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 42
+title: Desengancharse de los combustibles fósiles
+has_children: true

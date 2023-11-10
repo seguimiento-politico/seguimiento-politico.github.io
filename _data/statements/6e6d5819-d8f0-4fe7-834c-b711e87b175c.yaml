@@ -1,0 +1,15 @@
+id: 6e6d5819-d8f0-4fe7-834c-b711e87b175c
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 29
+categories: Trabajo
+topics: Economía social
+title: Economía social
+has_children: true

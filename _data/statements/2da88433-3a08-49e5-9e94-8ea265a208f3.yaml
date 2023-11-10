@@ -1,0 +1,15 @@
+id: 2da88433-3a08-49e5-9e94-8ea265a208f3
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 67
+categories: Consumo
+topics: Alimentación saludable
+title: Política fiscal para incentivar el consumo de alimentos saludables y sostenibles y reducir el de alimentos no saludables ni sostenibles.
+has_children: true

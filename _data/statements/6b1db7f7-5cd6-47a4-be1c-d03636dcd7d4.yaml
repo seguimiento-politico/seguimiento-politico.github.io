@@ -1,0 +1,13 @@
+id: 6b1db7f7-5cd6-47a4-be1c-d03636dcd7d4
+type: promise
+parent_statement: 2e55fff1-192d-4058-9c94-916d551dc61a
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Deporte
+text: Promover medidas de ayuda a la conciliación de las mujeres deportistas profesionales y a otros niveles.

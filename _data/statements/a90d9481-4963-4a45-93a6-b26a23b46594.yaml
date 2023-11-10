@@ -1,0 +1,15 @@
+id: a90d9481-4963-4a45-93a6-b26a23b46594
+type: promise
+parent_statement: eb371a73-aa96-4f63-96bd-6eb9cd700c15
+doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parties:
+- VOX
+scope: national
+country: spain
+election_type: generales
+election_date: '2019-11-10'
+publication_date: '2019-06-16'
+categories:
+- Educación
+- Cultura
+text: Implantar un generoso y exigente sistema de becas para las familias con menos recursos.

@@ -1,0 +1,13 @@
+id: c5611ff2-90d3-4c6f-afc4-8d00ad72fe66
+type: promise
+parent_statement: a30b4b72-c1ed-43b0-ab55-ca58393aa140
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Educación
+text: La Formación Profesional y las Enseñanzas de Régimen Especial que correspondan deben contar con una red pública suficiente tanto en la modalidad presencial para todas las personas que lo soliciten, sin barreras socioeconómicas por tasas ni barreras físicas por culpa de la distancia, como en la modalidad a distancia para aquellas personas que así lo demanden

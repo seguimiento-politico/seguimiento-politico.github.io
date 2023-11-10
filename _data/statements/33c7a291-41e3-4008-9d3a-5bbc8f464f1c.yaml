@@ -1,0 +1,13 @@
+id: 33c7a291-41e3-4008-9d3a-5bbc8f464f1c
+type: promise
+parent_statement: 5ff2edf4-b76d-4c6d-8d0e-792b8c15c1df
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Justicia
+text: El inadecuado funcionamiento de la justicia perjudica especialmente a los más vulnerables.

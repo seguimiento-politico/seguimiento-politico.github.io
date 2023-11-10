@@ -1,0 +1,13 @@
+id: c5e1afd3-4fea-42c5-b971-1dc5d9201c06
+type: promise
+parent_statement: 39d9abf5-0f45-44cb-ac5c-609cdccf0423
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Sanidad
+text: bSe abordará igualmente la deuda sanitaria del Estado por los desplazados sanitarios.

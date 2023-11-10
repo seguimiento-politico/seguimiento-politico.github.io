@@ -1,0 +1,14 @@
+id: ff1cac08-4528-4407-86f1-a9cd663dbae6
+type: promise
+parent_statement: 01e67731-8410-4e54-a20c-6d748fa1ed6c
+doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parties:
+- VOX
+scope: national
+country: spain
+election_type: generales
+election_date: '2019-11-10'
+publication_date: '2019-06-16'
+categories:
+- Política internacional
+text: Supresión de toda representación política exterior de regiones o municipios.

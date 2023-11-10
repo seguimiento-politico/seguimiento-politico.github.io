@@ -1,0 +1,13 @@
+id: 608b9708-73d2-4c6a-9946-8cd1efac570b
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 42
+title: 'Avanzar en la descarbonización: Agricultura y ganadería.'
+has_children: true

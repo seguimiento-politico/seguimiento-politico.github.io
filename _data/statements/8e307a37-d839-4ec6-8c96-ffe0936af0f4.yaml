@@ -1,0 +1,13 @@
+id: 8e307a37-d839-4ec6-8c96-ffe0936af0f4
+type: promise
+parent_statement: 1b12841a-507d-41e2-9153-a003f36538b7
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Seguridad y defensa
+text: Desarrollaremos una encuesta nacional de seguridad, al menos con carácter bianual, que se inspire en la experiencia de otros países o del área metropolitana de Barcelona y que ofrezca un retrato más fiable de las tendencias en inseguridad, dado que las estadísticas policiales solo recogen delitos denunciados.

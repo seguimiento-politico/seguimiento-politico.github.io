@@ -1,0 +1,15 @@
+id: 5f81a4a4-f33a-4199-a9e8-d29f21afc770
+type: promise
+doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parties:
+- PSOE
+scope: national
+country: spain
+election_type: generales
+election_date: '2019-11-10'
+publication_date: '2019-10-31'
+page: 43
+categories: Ciencia y tecnología
+topics: I+D+i
+text: 'Trabajaremos por el desarrollo de una carrera investigadora y académica estable, digna y predecible. Para ello:'
+has_children: true

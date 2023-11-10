@@ -1,0 +1,14 @@
+id: c4561b39-7d07-4cb0-9129-116a7b1dd3d3
+type: promise
+parent_statement: e9e94c39-b2e1-4033-aa29-5f2488cb0576
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Medioambiente
+topics: Contaminación
+text: También se favorecerá la creación de certificaciones de calidad del cielo nocturno, para favorecer el astroturismo.

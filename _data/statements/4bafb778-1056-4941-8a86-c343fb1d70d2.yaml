@@ -1,0 +1,15 @@
+id: 4bafb778-1056-4941-8a86-c343fb1d70d2
+type: promise
+parent_statement: 09154c6e-d12f-4e42-9467-4af0644ac479
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories:
+- Cultura
+- Educación
+text: Se potenciará la autonomía, sostenibilidad y democratización de los centros artísticos superiores;

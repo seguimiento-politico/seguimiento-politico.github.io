@@ -1,0 +1,13 @@
+id: b06561b5-b5b8-4c4c-88ba-24ea94929e05
+type: promise
+parent_statement: e70db245-2a53-429a-bee2-5026732c4079
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Impuestos y financiación pública
+text: Reforma de la normativa del impuesto de transacciones financieras. Para gravar también las operaciones más especulativas que actualmente no están sujetas a tributación, se incluirán no solo la compra de acciones, sino también los derivados financieros.

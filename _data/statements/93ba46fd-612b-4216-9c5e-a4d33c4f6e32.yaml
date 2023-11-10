@@ -1,0 +1,14 @@
+id: 93ba46fd-612b-4216-9c5e-a4d33c4f6e32
+type: promise
+parent_statement: 11c2e30c-8ff0-4cb6-b4c5-35f12cc8259e
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Transporte
+topics: Movilidad sostenible
+text: Optimizaremos el transporte marítimo y la gestión de los puertos, mejorando las conexiones de los puertos con su hinterland, especialmente a través de conexiones ferroviarias.

@@ -1,0 +1,15 @@
+id: 938d5913-7a1a-4605-93c4-90ed1d0db383
+type: promise
+doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parties:
+- VOX
+scope: national
+country: spain
+election_type: generales
+election_date: '2019-11-10'
+publication_date: '2019-06-16'
+page: 20
+categories:
+- Justicia
+title: Contra los lobbies
+has_children: true

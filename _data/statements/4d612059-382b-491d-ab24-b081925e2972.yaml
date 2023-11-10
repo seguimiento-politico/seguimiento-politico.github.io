@@ -1,0 +1,16 @@
+id: 4d612059-382b-491d-ab24-b081925e2972
+type: promise
+parent_statement: 70962be7-95f1-4d2f-aae9-ee67d81598a0
+doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parties:
+- PSOE
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-10'
+page: 161
+categories: Sanidad
+topics: Igualdad
+text: Se realizará un informe sobre las mujeres y la menopausia siguiendo el ejemplo de los realizados por el gobierno británico en estos últimos años.
+has_children: true

@@ -1,0 +1,15 @@
+id: 6d1baa35-9d21-4d50-a365-57d2f9cc5e8e
+type: promise
+doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parties:
+- VOX
+scope: national
+country: spain
+election_type: generales
+election_date: '2019-11-10'
+publication_date: '2019-06-16'
+page: 14
+categories:
+- Sanidad
+title: Una concepción integral de la Sanidad.
+has_children: true

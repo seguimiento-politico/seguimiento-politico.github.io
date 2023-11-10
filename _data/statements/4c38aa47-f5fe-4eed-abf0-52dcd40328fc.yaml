@@ -1,0 +1,13 @@
+id: 4c38aa47-f5fe-4eed-abf0-52dcd40328fc
+type: promise
+parent_statement: 6bfd843d-329f-47f7-ad39-e5873e9fb042
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Urbanismo y ciudades
+text: 'El programa pondrá a disposición de las comunidades autónomas y de los ayuntamientos los recursos y el apoyo necesario para desarrollar estas intervenciones a través de convocatorias anuales de ayudas directas. Las administraciones locales quedarán así habilitadas y emplazadas a intervenir en los barrios vulnerables por varias vías: incremento y adecuación de los servicios existentes, cuidado y humanización del espacio público, rehabilitación de viviendas, mejoras en la accesibilidad y la habitabilidad, mejora o creación de zonas verdes, así como actuaciones específicas en materia de medio ambiente, educación y salud pública.'

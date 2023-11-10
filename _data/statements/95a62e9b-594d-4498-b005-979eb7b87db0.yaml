@@ -1,0 +1,16 @@
+id: 95a62e9b-594d-4498-b005-979eb7b87db0
+type: promise
+parent_statement: aee89a82-2753-411c-84d6-37858b9952ca
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Educación
+topics:
+- Igualdad
+- Inclusión
+text: El sistema educativo debe valorar, defender y cuidar a todo el alumnado independientemente de las condiciones personales, la identidad de género, la expresión de género, la sexualidad o el origen social.

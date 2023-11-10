@@ -1,0 +1,14 @@
+id: d257c015-9882-4c07-8593-2ec073b825b9
+type: promise
+doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parties:
+- PSOE
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-10'
+page: 77
+categories: Transporte
+text: 'Crearemos un fondo estatal de contribución a la movilidad sostenible, con fuentes estables de financiación, que plasme nuestra idea de que el Estado debe mejorar eficientemente el transporte público urbano y metropolitano: o Financiará servicios de transporte y movilidad que cumplan determinados requisitos de sostenibilidad, digitalización y contribución a la cohesión social y territorial.'
+has_children: true

@@ -1,0 +1,13 @@
+id: 468f5b51-19f5-4380-bfc5-689716089d28
+type: promise
+parent_statement: 3e2e93f3-c7d0-40d2-be87-b42e69c97634
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Educación
+text: Es imprescindible implementar y reforzar medidas como la detección y tratamiento temprano de problemas de aprendizaje,

@@ -1,0 +1,14 @@
+id: 3f9eef2a-97a7-459c-a3b6-63d7e688b0fc
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 92
+categories: Sanidad
+title: Inclusión, dentro de la cobertura sanitaria universal, de las personas que reciben actualmente prestación sanitaria bajo mutuas de prestación sanitaria privada (MUFACE-MUGEJU-ISFAS)
+has_children: true

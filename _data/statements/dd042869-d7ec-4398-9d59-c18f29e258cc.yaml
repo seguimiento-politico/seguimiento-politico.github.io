@@ -1,0 +1,15 @@
+id: dd042869-d7ec-4398-9d59-c18f29e258cc
+type: promise
+doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parties:
+- VOX
+scope: national
+country: spain
+election_type: generales
+election_date: '2019-11-10'
+publication_date: '2019-06-16'
+page: 10
+categories:
+- Economía
+title: Reducción del IVA en productos infantiles y geriátricos
+has_children: true

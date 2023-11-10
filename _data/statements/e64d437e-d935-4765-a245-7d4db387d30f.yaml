@@ -1,0 +1,15 @@
+id: e64d437e-d935-4765-a245-7d4db387d30f
+type: promise
+doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parties:
+- PSOE
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-10'
+page: 152
+categories: Democracia
+topics: Violencia de género
+text: 'Evaluaremos la aplicación del Pacto y continuaremos implementando las medidas pendientes. Con especial atención a:'
+has_children: true

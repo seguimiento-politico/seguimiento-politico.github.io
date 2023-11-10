@@ -1,0 +1,14 @@
+id: 5235c283-9d61-4ebd-b5d6-e2ccedb9e123
+type: promise
+parent_statement: fd6a61e2-a8c5-4518-a658-d72284dd176e
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Democracia
+topics: Administración pública
+text: 'Además, lejos de las críticas tradicionales, afirmamos que el principal activo de la Administración pública son las personas que trabajan en ella y que, por lo tanto, especialmente en un momento de relevo generacional, deberemos poner mucho empeño en las políticas de recursos humanos: redimensionar las plantillas y definir nuevos perfiles y mecanismos de selección y de captación de talento (especialmente entre los jóvenes).'

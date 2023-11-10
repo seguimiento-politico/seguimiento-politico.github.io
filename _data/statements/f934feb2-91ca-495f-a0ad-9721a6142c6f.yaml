@@ -1,0 +1,14 @@
+id: f934feb2-91ca-495f-a0ad-9721a6142c6f
+type: promise
+parent_statement: 18abb5d3-7b46-47cc-9473-16a8543d9992
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Migración
+topics: Racismo
+text: Para reforzar la conexión entre los usuarios y la Administración, se desarrollará una aplicación móvil que acompañe en los procedimientos de información de las personas emigradas e inmigradas.

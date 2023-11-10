@@ -1,0 +1,14 @@
+id: 04be51b8-408f-4281-9fb8-04edb7e0c8b4
+type: promise
+parent_statement: d8ce478a-4361-48ce-bb61-701e13a761fb
+doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parties:
+- VOX
+scope: national
+country: spain
+election_type: generales
+election_date: '2019-11-10'
+publication_date: '2019-06-16'
+categories:
+- Justicia
+text: Los españoles podrán hacer uso de la fuerza proporcional para defender su hogar, para ello se ampliará el concepto de legítima defensa.

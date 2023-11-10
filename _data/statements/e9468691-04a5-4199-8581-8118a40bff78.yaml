@@ -1,0 +1,17 @@
+id: e9468691-04a5-4199-8581-8118a40bff78
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 162
+categories: Educación
+topics:
+- Igualdad
+- Inclusión
+title: ' Incorporación de oficinas o unidades de atención a la discapacidad y a las distintas diversidades en los estatutos de todas las universidades.'
+has_children: true

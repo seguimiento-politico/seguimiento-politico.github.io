@@ -1,0 +1,15 @@
+id: cf2f9434-e1b5-4c80-aba5-17b44ae0096c
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 181
+categories: Educación
+topics: Digitalización
+title: Creación de una Agencia Pública para la Transición Digital
+has_children: true

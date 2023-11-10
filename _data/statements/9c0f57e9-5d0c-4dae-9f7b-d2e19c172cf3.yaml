@@ -1,0 +1,14 @@
+id: 9c0f57e9-5d0c-4dae-9f7b-d2e19c172cf3
+type: promise
+parent_statement: fe0efd4e-912f-4909-a512-a4099179e7a3
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Educación
+topics: Digitalización
+text: Se propone construir entornos digitales seguros y robustos que garanticen la integridad de las comunicaciones y servicios digitales mediante un encriptado y la fijación de la privacidad en el código de cualquier desarrollo tecnológico

@@ -1,0 +1,13 @@
+id: f157772a-2070-48bc-ba24-93924f683d89
+type: declaration
+parent_statement: a766f3d9-7ddc-4a82-8adc-1b071c121879
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Justicia
+text: España se caracteriza por una elevada litigiosidad y un uso insuficiente de instancias no judiciales para resolver conflictos.

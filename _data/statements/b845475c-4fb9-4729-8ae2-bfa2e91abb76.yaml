@@ -1,0 +1,15 @@
+id: b845475c-4fb9-4729-8ae2-bfa2e91abb76
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 163
+categories: Educación
+topics: Universidad
+title: Intensificación de la relación del sistema universitario con la sociedad, con el resto del sistema educativo y con los centros de producción de ciencia e innovación.
+has_children: true

@@ -1,0 +1,13 @@
+id: 977d726f-e5b5-4f44-b0de-d3152fdc3fce
+type: promise
+parent_statement: c28c6f4d-6529-439c-a0d4-86f15b66f309
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Justicia
+text: Garantizaremos el suministro por parte del Estado de los medios de prueba pertinentes en los casos de evidente desigualdad entre las partes.

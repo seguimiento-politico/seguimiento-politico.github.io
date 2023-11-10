@@ -1,0 +1,14 @@
+id: 3d504018-e949-4f03-b9e1-7674090f3cb1
+type: promise
+parent_statement: 666ba341-3af0-4d82-91c8-a9a3f0dbe3e7
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Medioambiente
+topics: Biodiversidad
+text: Realizaremos, en cooperación con las comunidades autónomas, un inventario de bosques naturales maduros para favorecer su extensión y su gestión sostenible.

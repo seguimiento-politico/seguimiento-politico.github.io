@@ -1,0 +1,14 @@
+id: b18d28bc-14a2-4c85-a0c1-879ef8b4d1d1
+type: promise
+parent_statement: 17010d52-5f8d-418b-b605-6e2e86b7cbe1
+doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parties:
+- PSOE
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-10'
+categories: Infraestructuras
+topics: Digitalización
+text: Diseñaremos un plan piloto 6G que favorezca el desarrollo de casos de uso que permitan al ecosistema español (operadores, suministradores, academia, sector I+D+i, servicios verticales) mantener su posición de liderazgo y aprovechar las oportunidades que desarrollará esta tecnología.

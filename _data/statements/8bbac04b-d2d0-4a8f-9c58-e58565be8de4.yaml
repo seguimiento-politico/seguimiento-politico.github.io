@@ -1,0 +1,15 @@
+id: 8bbac04b-d2d0-4a8f-9c58-e58565be8de4
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 160
+categories: Educación
+topics: Universidad
+title: 'Universidad: Aumento de la oferta de becas en función de la renta y de otros soportes requeridos para, con ello, minimizar la precariedad vital y educativa del estudiantado'
+has_children: true

@@ -1,0 +1,14 @@
+id: 9ee370ee-9dbd-448d-a5b0-ef5db0b7e4c6
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 26
+categories: Trabajo
+title: Avanzar en la mejora de las condiciones de trabajo y la garantía de los derechos laborales
+has_children: true

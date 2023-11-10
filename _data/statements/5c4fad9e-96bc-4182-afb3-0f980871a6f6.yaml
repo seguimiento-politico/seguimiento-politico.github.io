@@ -1,0 +1,14 @@
+id: 5c4fad9e-96bc-4182-afb3-0f980871a6f6
+type: promise
+parent_statement: 9adabb37-2af0-4f29-86a6-c61fb37e2a83
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Transporte
+topics: Movilidad sostenible
+text: Medidas específicas para garantizar que la movilidad sostenible llegue realmente al medio rural (estando debidamente adaptadas a la propia idiosincrasia de estos territorios), así como fomentar la movilidad eléctrica en todo el territorio.

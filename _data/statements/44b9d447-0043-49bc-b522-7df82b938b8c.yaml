@@ -1,0 +1,15 @@
+id: 44b9d447-0043-49bc-b522-7df82b938b8c
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 53
+categories: Medioambiente
+topics: Biodiversidad
+title: Plan de Acción Nacional para la Conservación de Polinizadores
+has_children: true

@@ -1,0 +1,15 @@
+id: 5d16ce48-af05-4300-a35b-6b57ed169458
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 69
+categories: Consumo
+topics: Alimentación saludable
+title: Información y comunicación sobre la calidad y salubridad de los alimentos
+has_children: true

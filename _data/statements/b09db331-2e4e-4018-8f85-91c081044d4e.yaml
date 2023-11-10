@@ -1,0 +1,14 @@
+id: b09db331-2e4e-4018-8f85-91c081044d4e
+type: promise
+parent_statement: c2600731-8d27-490b-b512-97020d500d4f
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Medioambiente
+topics: Desertificación
+text: Las centrales hidroeléctricas deberán adaptar las presas y embalses a escenarios más frecuentes de inundaciones y sequías debido al cambio climático.

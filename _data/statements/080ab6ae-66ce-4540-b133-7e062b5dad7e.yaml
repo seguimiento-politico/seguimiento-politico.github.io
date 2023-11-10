@@ -1,0 +1,13 @@
+id: 080ab6ae-66ce-4540-b133-7e062b5dad7e
+type: promise
+parent_statement: 41cdb4a7-ae79-4064-885d-6c21ca21b14a
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Trabajo
+text: Esta auditoría estará a disposición de la representación de las personas trabajadoras, de estas mismas cuando no exista RLT y de la Inspección de Trabajo y Seguridad Social.

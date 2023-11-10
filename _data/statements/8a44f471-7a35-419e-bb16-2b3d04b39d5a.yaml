@@ -1,0 +1,13 @@
+id: 8a44f471-7a35-419e-bb16-2b3d04b39d5a
+type: promise
+parent_statement: fe4a5456-5475-418b-b1de-440ff0fd14a6
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Cultura
+text: Una infraestructura que sirva de soporte para la creación y que parta de estándares de interoperabilidad, transparencia y soberanía de los datos, garantizando la privacidad y la seguridad en las comunicaciones.

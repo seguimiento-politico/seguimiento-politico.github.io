@@ -1,0 +1,14 @@
+id: 45fec50b-a334-481c-b93c-81fbe72dc090
+type: promise
+parent_statement: 0f015a64-c4d7-4cae-8d8d-68aa18e1ad80
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Consumo
+topics: Alimentación saludable
+text: Impulso de mercados de agricultores y de la venta directa de productos, tanto en explotaciones como en puntos de venta específicos.

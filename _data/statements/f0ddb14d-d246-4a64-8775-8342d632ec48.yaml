@@ -1,0 +1,14 @@
+id: f0ddb14d-d246-4a64-8775-8342d632ec48
+type: promise
+doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parties:
+- PSOE
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-10'
+page: 145
+categories: Trabajo
+text: 'Promoveremos un gran Pacto Social por la Racionalización de los horarios que pueda reflejarse en iniciativas legislativas y con la implicación de todos los agentes implicados de todos los ámbitos: político, de la Administración y de la sociedad civil, sindicatos y organizaciones empresariales, comunidad educativa, comercios, medios de comunicación para que adapten los horarios de máxima audiencia, promoción a través de la FEMP de pactos locales para la gestión del tiempo, etc. Entre otras medidas, puede incluir la creación de una Mesa de Concertación Social para los Usos del Tiempo y Racionalización Horaria.'
+has_children: true

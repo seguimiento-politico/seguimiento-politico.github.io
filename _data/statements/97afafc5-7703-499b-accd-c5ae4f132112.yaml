@@ -1,0 +1,15 @@
+id: 97afafc5-7703-499b-accd-c5ae4f132112
+type: promise
+parent_statement: 2ce9da99-6cbb-4086-9566-267e2a68a937
+doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parties:
+- VOX
+scope: national
+country: spain
+election_type: generales
+election_date: '2019-11-10'
+publication_date: '2019-06-16'
+categories:
+- Educación
+- Cultura
+text: Promoción de una licencia única a nivel nacional eliminando el sistema de licencias autonómicas e inter autonómicas.

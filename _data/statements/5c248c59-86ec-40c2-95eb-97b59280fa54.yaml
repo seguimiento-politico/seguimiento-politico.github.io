@@ -1,0 +1,15 @@
+id: 5c248c59-86ec-40c2-95eb-97b59280fa54
+type: promise
+doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parties:
+- PSOE
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-10'
+page: 55
+categories: Ciencia y tecnología
+topics: Ciberseguridad
+title: Reforzaremos la seguridad en el ámbito digital con el desarrollo de la Ley de Ciberseguridad para proteger adecuadamente la información relacionada con la prestación de servicios públicos por medios electrónicos.
+has_children: true

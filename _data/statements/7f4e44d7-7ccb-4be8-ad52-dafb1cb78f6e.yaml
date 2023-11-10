@@ -1,0 +1,14 @@
+id: 7f4e44d7-7ccb-4be8-ad52-dafb1cb78f6e
+type: promise
+parent_statement: e30e481f-a80a-4ad5-a436-6de2ae12ba44
+doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parties:
+- VOX
+scope: national
+country: spain
+election_type: generales
+election_date: '2019-11-10'
+publication_date: '2019-06-16'
+categories:
+- Economía
+text: Apoyo a los trabajadores españoles mediante la reducción de un 10% de las cotizaciones de la empresa, para nuevos contratos indefinidos para trabajadores de nacionalidad española en situación de desempleo (siempre que el desempleo se sitúe por encima del 8%)

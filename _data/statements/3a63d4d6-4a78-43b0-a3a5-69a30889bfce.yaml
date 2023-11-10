@@ -1,0 +1,17 @@
+id: 3a63d4d6-4a78-43b0-a3a5-69a30889bfce
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 166
+categories: Ciencia y tecnología
+topics:
+- Financiación
+- Gobernanza y transparencia
+title: Mejora de la gestión del sistema reduciendo significativamente la burocracia
+has_children: true

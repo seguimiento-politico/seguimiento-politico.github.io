@@ -1,0 +1,16 @@
+id: 5b630ed3-00f9-4636-af20-eb5a16c6047c
+type: promise
+parent_statement: 1c2ac2b9-1ed3-4e0e-bb37-5a9bff0980a1
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Educación
+topics:
+- Igualdad
+- Inclusión
+text: Y hay que evaluar también a las Administraciones educativas y el funcionamiento de los centros, teniendo en cuenta el papel del alumnado en estos procesos de evaluación.

@@ -1,0 +1,16 @@
+id: 4ea6dbf6-2c64-4cdf-9f85-dfcec1bb826f
+type: promise
+parent_statement: f5a1379b-4793-47dd-9c6e-dd1fa240b1e1
+doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parties:
+- PSOE
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-10'
+categories:
+- Agricultura
+- Ganadaría
+topics: Desarrollo sostenible
+text: Realizaremos una evaluación intermedia en 2024.

@@ -1,0 +1,15 @@
+id: 3ac942be-bfa8-4316-98f2-87a403bd11a9
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 55
+categories: Medioambiente
+topics: Contaminación
+title: Estrategia nacional de lucha contra la mortalidad prematura provocada por la contaminación
+has_children: true

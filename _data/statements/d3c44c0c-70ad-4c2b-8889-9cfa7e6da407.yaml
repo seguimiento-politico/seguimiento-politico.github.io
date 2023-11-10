@@ -1,0 +1,16 @@
+id: d3c44c0c-70ad-4c2b-8889-9cfa7e6da407
+type: promise
+parent_statement: 4a477736-3e5a-4efc-bce3-305e85a222dd
+doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parties:
+- PSOE
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-10'
+categories:
+- Agricultura
+- Ganadaría
+topics: Desarrollo sostenible
+text: Impulsaremos la investigación y el desarrollo de vacunas para enfermedades como la tuberculosis bovina.

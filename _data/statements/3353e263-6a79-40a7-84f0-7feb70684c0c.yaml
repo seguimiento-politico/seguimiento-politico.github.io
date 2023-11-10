@@ -1,0 +1,13 @@
+id: 3353e263-6a79-40a7-84f0-7feb70684c0c
+type: promise
+parent_statement: 2e55fff1-192d-4058-9c94-916d551dc61a
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Deporte
+text: Promover la implantación de planes de igualdad en el seno de todas las federaciones deportivas.

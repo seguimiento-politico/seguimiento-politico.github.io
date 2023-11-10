@@ -1,0 +1,14 @@
+id: 1c4a79a7-0124-4a7a-94f1-174e7189f271
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 92
+categories: Sanidad
+title: Sanidad penitenciaria
+has_children: true

@@ -1,0 +1,12 @@
+id: f9d22362-9bec-4e3e-baf0-2f0e9b26eeaf
+type: promise
+parent_statement: c61348f7-0ecc-497e-b217-fdd68675e47e
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+text: Tal como se recoge legalmente, en el supuesto en el que la Agencia Estatal de Meteorología o, en su caso, el órgano autonómico correspondiente (si se dispone de dicho servicio), emita un aviso de fenómenos meteorológicos adversos de nivel naranja o rojo, y las medidas preventivas no garanticen la protección de las personas trabajadoras, resultará obligatoria la adaptación de las condiciones de trabajo, incluida la reducción o modificación de las horas de desarrollo de la jornada prevista.

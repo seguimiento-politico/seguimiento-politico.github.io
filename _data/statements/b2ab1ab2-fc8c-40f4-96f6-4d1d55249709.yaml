@@ -1,0 +1,13 @@
+id: b2ab1ab2-fc8c-40f4-96f6-4d1d55249709
+type: promise
+parent_statement: 0d32c250-87d3-4aa2-bdbe-3fcfd38f66cd
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Trabajo
+text: Con este fin, se propone la limitación efectiva del tiempo de trabajo, por la cual la distribución irregular de la jornada se realice por periodos máximos de cuatro meses;

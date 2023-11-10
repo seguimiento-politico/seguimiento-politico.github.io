@@ -1,0 +1,14 @@
+id: 5c542221-806c-46f4-9286-6b3a8d86d3e2
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 129
+categories: Justicia
+title: Supresión de la justicia militar e integración en la jurisdicción ordinaria
+has_children: true

@@ -1,0 +1,14 @@
+id: 9bff72ca-6eb4-483f-9c9d-593982887828
+type: promise
+parent_statement: eb88c663-c086-48c8-8bc5-a3b76a062e44
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Educación
+topics: Universidad
+text: Se diseñarán programas de prácticas externas que vinculen a las citadas organizaciones y al entramado productivo local con los centros universitarios.

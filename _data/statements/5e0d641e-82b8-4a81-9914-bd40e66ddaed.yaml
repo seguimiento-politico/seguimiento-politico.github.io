@@ -1,0 +1,14 @@
+id: 5e0d641e-82b8-4a81-9914-bd40e66ddaed
+type: promise
+parent_statement: 339d30e5-a8ed-4fad-928f-eeca35929c03
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Educación
+topics: Digitalización
+text: Es necesario también un apoyo firme al despliegue del software libre en el ámbito de la escuela. Hay que crear repositorios y espacios documentales para facilitar el acceso a estos contenidos y realizar actuaciones de promoción y divulgación sobre los usos y beneficios de las licencias libres.

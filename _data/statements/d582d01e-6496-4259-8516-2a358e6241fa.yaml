@@ -1,0 +1,13 @@
+id: d582d01e-6496-4259-8516-2a358e6241fa
+type: promise
+parent_statement: 7a830522-7b59-4632-9e20-73d8db436aa3
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Urbanismo y ciudades
+text: 'Para ello, se propone la creación de una red compuesta por representantes de consejos municipales de Medio Ambiente, de colectivos ambientalistas y de transformación urbana, cuyo primer objetivo sea impulsar un marco legal que propicie la disminución de los efectos del cambio climático en nuestros barrios y ciudades. El marco de acción son: el espacio público urbano (calles, plazas, parques, vías de comunicación) y los espacios de lo público (escuelas, mercados, hospitales...).'

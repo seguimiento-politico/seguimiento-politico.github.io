@@ -1,0 +1,14 @@
+id: f1bfdf23-7d91-41c7-81ce-9a81dc0cb23a
+type: promise
+doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parties:
+- PSOE
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-10'
+page: 123
+categories: Cultura
+text: 'Fortaleceremos el papel de la cultura al servicio de la ciudadanía con la creación de otras instituciones culturales estatales como:'
+has_children: true

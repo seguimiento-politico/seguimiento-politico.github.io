@@ -1,0 +1,14 @@
+id: c09d1c8c-8a07-480b-87f8-0132d8ba4278
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 19
+categories: Administración pública
+title: Reforma de la Ley de Estabilidad Presupuestaria
+has_children: true

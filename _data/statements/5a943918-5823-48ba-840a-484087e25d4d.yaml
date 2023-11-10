@@ -1,0 +1,16 @@
+id: 5a943918-5823-48ba-840a-484087e25d4d
+type: promise
+parent_statement: f0f8809c-0371-4c3d-b95a-1cf4e8045240
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Educación
+topics:
+- Igualdad
+- Inclusión
+text: Para ello, necesitamos una educación integral que atienda a todas las dimensiones de la persona.

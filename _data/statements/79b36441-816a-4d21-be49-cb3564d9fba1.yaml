@@ -1,0 +1,15 @@
+id: 79b36441-816a-4d21-be49-cb3564d9fba1
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 65
+categories: Pesca y acuicultura
+topics: Desarrollo sostenible
+title: Propuestas para mejorar la gestión de la pesca y la ordenación del espacio marítimo
+has_children: true

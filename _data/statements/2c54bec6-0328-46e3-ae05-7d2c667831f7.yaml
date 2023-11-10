@@ -1,0 +1,16 @@
+id: 2c54bec6-0328-46e3-ae05-7d2c667831f7
+type: promise
+parent_statement: 6a24f1da-0637-4834-9787-923c82182902
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Educación
+topics:
+- Igualdad
+- Inclusión
+text: Ninguna religión ni simbología religiosa formarán parte del currículo ni del horario lectivo obligatorios. La calificación obtenida en esta materia, de haberse cursado, no contará en ningún caso en el cálculo de la nota media de Bachillerato para acceder a la Universidad o para obtener ayudas al estudio o becas.

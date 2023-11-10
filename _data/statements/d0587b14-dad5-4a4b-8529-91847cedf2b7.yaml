@@ -1,0 +1,13 @@
+id: d0587b14-dad5-4a4b-8529-91847cedf2b7
+type: declaration
+parent_statement: 41cdb4a7-ae79-4064-885d-6c21ca21b14a
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Trabajo
+text: El sesgo algorítmico ocurre cuando un sistema in formático refleja los valores de los humanos que están implicados en la codificación y la recolección de datos usados para entrenar el algoritmo. La legislación no recoge medidas específicas para la protección de las personas trabajadoras en el ámbito de las empresas frente a la discriminación de rivada del uso de algoritmos.

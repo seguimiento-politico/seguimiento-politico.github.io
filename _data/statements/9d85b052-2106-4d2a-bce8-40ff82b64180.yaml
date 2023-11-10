@@ -1,0 +1,14 @@
+id: 9d85b052-2106-4d2a-bce8-40ff82b64180
+type: promise
+parent_statement: 6eb3bb2c-8908-41b6-b929-98886f9c751b
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Democracia
+topics: Administración pública
+text: En este sentido, proponemos impulsar tanto los Laboratorios de Innovación Pública como una agencia pública para la transición digital destinada a impulsar y controlar la introducción del análisis de datos masivos, los procesos de digitalización y los riesgos de exclusión que generan el uso de algoritmos en la toma de decisiones o la llegada de la IA a la Administración pública.

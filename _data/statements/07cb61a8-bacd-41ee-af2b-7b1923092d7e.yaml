@@ -1,0 +1,15 @@
+id: 07cb61a8-bacd-41ee-af2b-7b1923092d7e
+type: promise
+parent_statement: f9ec980d-008f-4d22-9c48-8b5a337451af
+doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parties:
+- PSOE
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-10'
+categories:
+- Industria
+- Ciencia y tecnología
+text: Seguiremos impulsando la economía y gobierno del dato, desarrollando los programas de misiones de investigación e innovación con el fin de abordar los desafíos ambientales, sociales y de salud

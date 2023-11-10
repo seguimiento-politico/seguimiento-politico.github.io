@@ -1,0 +1,15 @@
+id: 936771b5-0a1f-4479-b9fb-c77c472cb12a
+type: promise
+parent_statement: 5c9f0779-a7ee-4cda-ba15-0c45a3400b21
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories:
+- Ciencia y tecnología
+- Trabajo
+text: Se debe diseñar una carrera investigadora integral y con contratación estable que tome en consideración todas las etapas en la investigación.

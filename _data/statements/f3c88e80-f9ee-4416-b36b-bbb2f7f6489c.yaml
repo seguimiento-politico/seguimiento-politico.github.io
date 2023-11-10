@@ -1,0 +1,15 @@
+id: f3c88e80-f9ee-4416-b36b-bbb2f7f6489c
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 160
+categories: Educación
+topics: Universidad
+title: Garantizar la calidad formativa de las prácticas externas y su seguimiento y evaluación
+has_children: true

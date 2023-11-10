@@ -1,0 +1,13 @@
+id: 5ab32250-4c66-48b2-8b5f-13ef8ce245a3
+type: promise
+parent_statement: 70ef0584-dae0-4007-963e-6f24323a0d0d
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Derechos y servicios sociales
+text: 'Desde esta perspectiva, los cuidados deben entenderse como el motor que refuerce y transforme los pilares del Estado de bienestar. Hay que pensar en una provisión de cuidados que vaya más allá de la lógica que hasta ahora hemos imaginado: mercado, hogares y Estado.'

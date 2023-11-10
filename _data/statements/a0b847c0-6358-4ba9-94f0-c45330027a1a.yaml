@@ -1,0 +1,16 @@
+id: a0b847c0-6358-4ba9-94f0-c45330027a1a
+type: promise
+parent_statement: cf30caaa-ffe9-4788-9c6b-4e4104c35f55
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Educación
+topics:
+- Financiacíón
+- Gobernanza y transparencia
+text: Se aumentarán progresivamente las dotaciones presupuestarias a partir de esa base para alcanzar en diez años el nivel de financiación correspondiente a una de las principales economías de la Unión Europea, como es el caso de España.

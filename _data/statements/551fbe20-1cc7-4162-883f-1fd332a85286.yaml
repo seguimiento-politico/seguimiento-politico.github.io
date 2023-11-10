@@ -1,0 +1,14 @@
+id: 551fbe20-1cc7-4162-883f-1fd332a85286
+type: promise
+parent_statement: 2a74193d-f6b0-4989-a186-94c3d8c2b6aa
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Medioambiente
+topics: Desertificación
+text: Promoveremos la desalinización del agua de mar y de caudales salobres, así como la regeneración y la reutilización de retornos, en territorios costeros, usando energía solar y eólica.

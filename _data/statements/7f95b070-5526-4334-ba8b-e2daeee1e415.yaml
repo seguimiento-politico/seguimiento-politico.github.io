@@ -1,0 +1,13 @@
+id: 7f95b070-5526-4334-ba8b-e2daeee1e415
+type: promise
+parent_statement: 453edbcd-26e0-4bee-b1f3-7307904f37b7
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Trabajo
+text: Se reconocerá el derecho a la intimidad en los controles por reconocimiento facial de las personas trabajadoras en teletrabajo, debiendo la empresa abstenerse del uso de dispositivos de reconocimiento facial (o similares), que impliquen la captación de imágenes, incluidos datos biométricos, de la persona trabajadora dentro de su domicilio o en un local escogido por esta para el desarrollo del trabajo a distancia.

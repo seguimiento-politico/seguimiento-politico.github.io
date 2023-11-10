@@ -1,0 +1,15 @@
+id: d3100d13-7714-47ab-9eda-2e697d6aa50e
+type: promise
+parent_statement: 5c9f0779-a7ee-4cda-ba15-0c45a3400b21
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories:
+- Ciencia y tecnología
+- Trabajo
+text: 'Un marco flexible que permita la movilidad entre organismos y sectores, que facilite la estabilidad y la promoción, y que tenga en cuenta a todo el personal: investigador, de apoyo y de gestión.'

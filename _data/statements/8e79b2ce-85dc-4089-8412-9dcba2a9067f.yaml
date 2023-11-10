@@ -1,0 +1,14 @@
+id: 8e79b2ce-85dc-4089-8412-9dcba2a9067f
+type: promise
+parent_statement: fd81e8de-e686-422a-910a-bd503c2d25cb
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Educación
+topics: Universidad
+text: Aumentar las vías de acceso a los estudios universitarios reglados desde actividades o formaciones previas, o que se dirijan a colectivos de edades más elevadas de las habituales, facilitando la incorporación de quienes no pudieron hacerlo previamente o deseen regresar al sistema.

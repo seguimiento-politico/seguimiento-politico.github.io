@@ -1,0 +1,14 @@
+id: 035fa94b-fe65-4a99-a3c3-a30d366c3304
+type: promise
+parent_statement: bf819295-36f6-41b3-8e07-ac48be5f2d81
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Educación
+topics: Digitalización
+text: Al margen de desarrollar centros de datos e inteligencia artificial de carácter público que recojan datos en tiempo real y ayuden a analizar y diseñar políticas públicas, se podrán crear múltiples paneles de datos abiertos para que tanto el Gobierno como la ciudadanía, la comunidad científica y la sociedad civil puedan comprender mejor la realidad del país y tomar decisiones informadas.

@@ -1,0 +1,12 @@
+id: 32a16a47-89c0-4b83-87e7-282993cc7b87
+type: promise
+parent_statement: d3e40b38-d4b7-4e17-a10f-4a2a38dbae76
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+text: Impulsaremos la electrificación del transporte de mercancías instalando cargadores ultrarrápidos en las principales rutas comerciales del país y diseñando ayudas específicas para la electrificación dirigidas a profesionales autónomos del sector del transporte.

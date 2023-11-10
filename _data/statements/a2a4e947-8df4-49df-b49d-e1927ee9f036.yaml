@@ -1,0 +1,14 @@
+id: a2a4e947-8df4-49df-b49d-e1927ee9f036
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 10
+categories: Industria
+title: Política industrial para la transición energética y el empleo
+has_children: true

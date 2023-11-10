@@ -1,0 +1,14 @@
+id: 987fe296-a9b9-4e1b-8c75-133027fa18d0
+type: promise
+parent_statement: 46f231b3-22b5-484f-a7d9-40dbde976c2c
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Territorio rural
+topics: Igualdad
+text: Red de transporte público para conectar provincias y pueblos, y servicio de transporte público para los desplazamientos de las personas mayores a la atención sanitaria y la realización de gestiones administrativas y compras básicas.

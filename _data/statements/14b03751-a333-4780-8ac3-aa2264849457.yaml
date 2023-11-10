@@ -1,0 +1,14 @@
+id: 14b03751-a333-4780-8ac3-aa2264849457
+type: promise
+parent_statement: 37dbf34d-9be8-4371-af97-ceb39d20e1ce
+doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parties:
+- PSOE
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-10'
+categories: Infraestructuras
+topics: Digitalización
+text: Continuaremos impulsando los despliegues 5G especialmente en zonas rurales y aisladas para evitar que se genere una nueva brecha digital.

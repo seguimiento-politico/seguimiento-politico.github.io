@@ -1,0 +1,15 @@
+id: 99a02b2a-8a94-4b32-b1c8-3f3b9f386e07
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 48
+categories: Medioambiente
+topics: Desertificación
+title: Propuestas para el Pacto de Estado antidesertificación
+has_children: true

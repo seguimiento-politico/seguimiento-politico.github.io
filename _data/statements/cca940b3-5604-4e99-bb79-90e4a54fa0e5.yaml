@@ -1,0 +1,15 @@
+id: cca940b3-5604-4e99-bb79-90e4a54fa0e5
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 70
+categories: Consumo
+topics: Alimentación saludable
+title: 'Alimentación saludable: Desarrollo de la oferta pública saludable y sostenible'
+has_children: true

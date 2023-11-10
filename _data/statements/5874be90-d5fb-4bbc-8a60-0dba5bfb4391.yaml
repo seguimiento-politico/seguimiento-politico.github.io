@@ -1,0 +1,14 @@
+id: 5874be90-d5fb-4bbc-8a60-0dba5bfb4391
+type: promise
+parent_statement: 3ac7c77d-f36f-46ea-bef8-6385640ad89e
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Cultura
+topics: Igualdad
+text: implementaremos medidas de acción positiva en las convocatorias de ayudas y subvenciones;

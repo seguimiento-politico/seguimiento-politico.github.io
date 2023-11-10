@@ -1,0 +1,13 @@
+id: 1a9e8265-6676-4351-9973-c0636122ae01
+type: promise
+parent_statement: bb671aa3-c0ab-4eb3-96cf-ca999ba5af96
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Educación
+text: Es necesario aumentar las plantillas de profesorado, reducir la interinidad al mínimo y mejorar las retribuciones y los recursos.

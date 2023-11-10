@@ -1,0 +1,14 @@
+id: d0b21595-9bb5-42f4-93db-04bd2262108c
+type: promise
+parent_statement: bad5b0ca-446e-4948-8835-d16cb9a90146
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Educación
+topics: Universidad
+text: Las universidades deben promover, además, su adecuado reconocimiento académico, asegurando su conciliación con las restantes tareas académicas y personales del estudiantado.

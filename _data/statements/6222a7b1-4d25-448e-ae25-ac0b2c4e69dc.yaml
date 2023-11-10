@@ -1,0 +1,14 @@
+id: 6222a7b1-4d25-448e-ae25-ac0b2c4e69dc
+type: promise
+parent_statement: 3223e108-7398-465d-840e-d960053e65e9
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Democracia
+topics: Participación ciudadana
+text: Finalmente, resulta ineludible abordar la regulación y el control democrático sobre el uso de datos masivos, el control público de algoritmos y la imparable introducción de la IA.

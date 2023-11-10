@@ -1,0 +1,14 @@
+id: 0af7e3a0-582b-481c-9279-f261fabe8ed2
+type: promise
+parent_statement: 0a473228-01ac-460c-ab0b-7c9a84ca43d5
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Derechos y servicios sociales
+topics: Cuidados y dependencia
+text: 'Ciudades y pueblos amigables. Un diseño de los entornos urbanos que tenga en cuenta las necesidades de las personas mayores repercute en beneficios para el conjunto de la población: hace de nuestras ciudades y nuestros pueblos lugares más habitables, seguros y verdes.'

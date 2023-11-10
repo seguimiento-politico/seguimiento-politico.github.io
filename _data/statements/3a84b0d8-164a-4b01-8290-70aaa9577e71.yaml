@@ -1,0 +1,14 @@
+id: 3a84b0d8-164a-4b01-8290-70aaa9577e71
+type: promise
+parent_statement: 339d30e5-a8ed-4fad-928f-eeca35929c03
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Educación
+topics: Digitalización
+text: De acuerdo con esto, también haremos una evaluación de los contratos de externalización de los servicios informáticos, potenciando el uso de software libre.

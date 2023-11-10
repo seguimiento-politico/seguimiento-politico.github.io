@@ -1,0 +1,14 @@
+id: d60c84b6-c022-4fe1-bb74-c103a8ff857b
+type: promise
+parent_statement: 5e45792e-c37a-47d5-9e71-0470dab6b657
+doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parties:
+- VOX
+scope: national
+country: spain
+election_type: generales
+election_date: '2019-11-10'
+publication_date: '2019-06-16'
+categories:
+- Familia
+text: Buscaremos la todavía lejana convergencia con la media europea en cuanto a prestaciones familiares.

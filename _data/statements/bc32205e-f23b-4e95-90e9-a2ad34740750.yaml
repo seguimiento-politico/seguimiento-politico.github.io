@@ -1,0 +1,15 @@
+id: bc32205e-f23b-4e95-90e9-a2ad34740750
+type: promise
+doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parties:
+- PSOE
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-10'
+page: 57
+categories: Infraestructuras
+topics: Digitalización
+title: Promoveremos el desarrollo de servicio de computación en el borde (servicios Edge) que contribuyan a los objetivos de la Década Digital Europea
+has_children: true

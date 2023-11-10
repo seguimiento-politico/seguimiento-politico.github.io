@@ -1,0 +1,16 @@
+id: 9207a20f-cff7-4bb7-b5e8-73d37ee46c06
+type: promise
+parent_statement: 63c7a791-9cc5-48c5-bfb5-228a31e67f25
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Educación
+topics:
+- Igualdad
+- Inclusión
+text: Para ello, se impulsará una Ley Estatal de uso y enseñanza de lenguas oficiales y minorizadas.

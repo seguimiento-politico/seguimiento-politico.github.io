@@ -1,0 +1,14 @@
+id: 6eb21da7-1167-4da1-a4b6-925ea27463ea
+type: promise
+parent_statement: 533b54d1-ace5-4507-9320-899a0625afe3
+doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parties:
+- PSOE
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-10'
+categories: Economía
+topics: Digitalización
+text: Para ello desarrollaremos las capacidades tecnológicas de España en ámbitos como la computación cuántica, el 6G y los semiconductores como elementos clave para la competitividad y para tener capacidad de respuesta a los cambios acelerados en las relaciones comerciales y en los mercados.

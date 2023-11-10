@@ -1,0 +1,15 @@
+id: 65c56d24-b246-481b-8229-08b03b6958bf
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 104
+categories: Migración
+topics: Racismo
+title: Reforma de la Ley Orgánica sobre Derechos y Libertades de los Extranjeros en España y su Integración Social (LOEX)
+has_children: true

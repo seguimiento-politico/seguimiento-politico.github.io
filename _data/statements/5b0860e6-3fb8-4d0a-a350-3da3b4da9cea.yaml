@@ -1,0 +1,13 @@
+id: 5b0860e6-3fb8-4d0a-a350-3da3b4da9cea
+type: promise
+parent_statement: 4d556633-204c-4ef6-afdb-5bc1a1bffe98
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Cultura
+text: Se promoverán premios para reconocer la creación literaria en lenguas cooficiales del Estado homologables al Premio Cervantes.

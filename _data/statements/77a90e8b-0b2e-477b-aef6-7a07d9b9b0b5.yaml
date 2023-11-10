@@ -1,0 +1,13 @@
+id: 77a90e8b-0b2e-477b-aef6-7a07d9b9b0b5
+type: promise
+parent_statement: a9a821be-0550-4a59-b184-7d2173fccc42
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Justicia
+text: Se reducirán al máximo las suplencias e interinidades, con necesaria y previa formación y la valoración a efectos de consolidación y acceso definitivo.

@@ -1,0 +1,15 @@
+id: 24e69fd2-ef8f-4664-b4da-fd8d0cbf357e
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 117
+categories: Democracia
+topics: Participación ciudadana
+title: 'Democratización de las políticas públicas: incorporación de la inteligencia colectiva.'
+has_children: true

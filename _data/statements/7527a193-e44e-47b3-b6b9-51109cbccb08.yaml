@@ -1,0 +1,15 @@
+id: 7527a193-e44e-47b3-b6b9-51109cbccb08
+type: promise
+doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parties:
+- VOX
+scope: national
+country: spain
+election_type: generales
+election_date: '2019-11-10'
+publication_date: '2019-06-16'
+page: 18
+categories:
+- Familia
+title: Conciliación vida familiar y laboral
+has_children: true

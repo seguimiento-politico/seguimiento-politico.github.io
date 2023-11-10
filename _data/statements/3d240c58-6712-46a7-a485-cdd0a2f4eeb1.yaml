@@ -1,0 +1,14 @@
+id: 3d240c58-6712-46a7-a485-cdd0a2f4eeb1
+type: promise
+parent_statement: 11c2e30c-8ff0-4cb6-b4c5-35f12cc8259e
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Transporte
+topics: Movilidad sostenible
+text: Limitaremos el uso de los jets privados y aplicaremos una tasa creciente sobre los viajes frecuentes en avión que entraría en vigor a partir del segundo vuelo anual.

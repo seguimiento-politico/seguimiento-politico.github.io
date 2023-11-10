@@ -1,0 +1,13 @@
+id: 6bf5d7dc-4c0b-4f4b-9395-0ebde6002ed7
+type: promise
+parent_statement: be633563-ef70-41c5-8d55-6f433fb3b294
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Cultura
+text: Se implementarán convocatorias de becas para las fases previas o ajenas a estructuras de producción, exhibición o publicación, y para periodos de entre uno y dos años.

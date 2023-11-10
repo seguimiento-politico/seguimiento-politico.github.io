@@ -1,0 +1,16 @@
+id: 674bccc3-7413-4e2e-93fe-ab4ee73ca7d3
+type: promise
+parent_statement: 568c7710-0916-11ed-9596-d163a910696f
+doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parties:
+- PSOE
+- UNIDAS PODEMOS
+scope: national
+country: spain
+election_type: generales
+election_date: '2019-11-10'
+publication_date: '2019-12-30'
+page: 23
+categories: Medioambiente
+topics: Cambio climático
+text: 'Modificar la factura eléctrica con el objetivo de: reducir el porcentaje que representa el término de potencia; que el término variable de la componente regulada sea incremental en función de la energía consumida, de forma que el coste a pagar por las personas consumidoras por los primeros Kw/h sea inferior a los siguientes, incentivando la eficiencia energética.'

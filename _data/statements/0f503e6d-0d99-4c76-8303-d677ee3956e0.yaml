@@ -1,0 +1,13 @@
+id: 0f503e6d-0d99-4c76-8303-d677ee3956e0
+type: promise
+parent_statement: a7ff9b0e-ec1c-452e-937b-e6560415dd2d
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Seguridad y defensa
+text: Estableceremos un plan para que las personas con trastornos mentales graves no entren en el sistema penitenciario, sino que sean atendidas por el sistema sociosanitario y comunitario, abandonando el modelo de hospital psiquiátrico penitenciario.

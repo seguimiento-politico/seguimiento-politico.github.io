@@ -1,0 +1,13 @@
+id: 3b5a421e-91e5-4747-8efe-ddc21010ca67
+type: promise
+parent_statement: 8791703f-41dc-4862-913a-102bbaada4fa
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Urbanismo y ciudades
+text: 'Se debe garantizar la movilidad de toda la población: infancia, mayores, personas con movilidad reducida y otros colectivos que necesiten ayuda en este sentido.'

@@ -1,0 +1,14 @@
+id: e7349a00-b099-4573-9dc4-bfb7debb30ca
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 90
+categories: Sanidad
+title: Salud mental.
+has_children: true

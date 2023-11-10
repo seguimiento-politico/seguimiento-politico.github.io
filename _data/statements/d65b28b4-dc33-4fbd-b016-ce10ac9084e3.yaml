@@ -1,0 +1,12 @@
+id: d65b28b4-dc33-4fbd-b016-ce10ac9084e3
+type: promise
+parent_statement: 4e3ad1dc-f6da-4211-bd62-4abf3fbca24d
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+text: 50% de electrificación de la demanda total de energía en 2030.

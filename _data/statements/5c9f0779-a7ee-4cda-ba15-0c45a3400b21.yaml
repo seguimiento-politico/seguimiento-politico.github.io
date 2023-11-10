@@ -1,0 +1,16 @@
+id: 5c9f0779-a7ee-4cda-ba15-0c45a3400b21
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 165
+categories:
+- Ciencia y tecnología
+- Trabajo
+title: Cuidado de las personas dedicadas a la ciencia a través de un estatuto del personal de investigación
+has_children: true

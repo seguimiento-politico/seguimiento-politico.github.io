@@ -1,0 +1,15 @@
+id: 0f015a64-c4d7-4cae-8d8d-68aa18e1ad80
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 67
+categories: Consumo
+topics: Alimentación saludable
+title: Creación de una red de espacios públicos comunitarios para facilitar el derecho a la alimentación saludable y sostenible a escala de barrio o municipal.
+has_children: true

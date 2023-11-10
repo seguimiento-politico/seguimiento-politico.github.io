@@ -1,0 +1,15 @@
+id: fe0efd4e-912f-4909-a512-a4099179e7a3
+type: promise
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+page: 180
+categories: Educación
+topics: Digitalización
+title: Garantizar el derecho a la propiedad común de los datos y la privacidad y el encriptado de comunicaciones por diseño
+has_children: true

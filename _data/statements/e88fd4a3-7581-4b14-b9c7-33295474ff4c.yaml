@@ -1,0 +1,15 @@
+id: e88fd4a3-7581-4b14-b9c7-33295474ff4c
+type: promise
+parent_statement: 5c9f0779-a7ee-4cda-ba15-0c45a3400b21
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories:
+- Ciencia y tecnología
+- Trabajo
+text: Además, se impulsará y desarrollará la carrera profesional del personal técnico y de gestión en términos similares a los que se contemplan para el personal investigador.

@@ -1,0 +1,13 @@
+id: 0c224d7c-f5db-4b6f-8751-48e4090fd1aa
+type: promise
+parent_statement: ff8cd012-73d4-459a-a04b-84b3bb53041a
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Política internacional
+text: Garantizaremos el pleno cumplimiento del principio de no devolución (non-refoulement).

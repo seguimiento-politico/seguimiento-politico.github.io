@@ -1,0 +1,13 @@
+id: 04551eae-dc7d-4638-8530-5e140a301f70
+type: promise
+parent_statement: 3fd44ce6-f999-4abf-9ad9-482bb5589193
+doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parties:
+- SUMAR
+scope: national
+country: spain
+election_type: generales
+election_date: '2023-07-23'
+publication_date: '2023-07-12'
+categories: Trabajo
+text: Incrementaremos a las empresas que no realicen formación para su personal durante un año natural la cuota por este concepto en el año siguiente en un determinado porcentaje.
