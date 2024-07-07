@@ -1,6 +1,6 @@
 id: 1415e966-677c-46d6-b37f-a45a31a73e90
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 175
-categories: Deporte
+parent_chapter: 1f3cf0db-d571-4433-a626-3036186931e1
+children_promises:
+- d6bd4491-43f4-495a-969d-6bdf1e604212
+- e57ffed5-59c5-4419-aea3-b57f1b02df4d
+- fce46f30-ec5b-448f-bcc5-81d02ee060b3
+- 4830f289-231e-4cb5-9a18-24ca503856ef
+children_statements:
+- 08abbbca-6e85-4aec-9693-ef389c2f3131
 title: Un modelo deportivo para niños, niñas y jóvenes.
-has_children: true
+categories: Deporte

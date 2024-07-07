@@ -1,6 +1,6 @@
 id: bb92373c-1f61-4d12-a017-e43894e6aa0a
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 79
+parent_chapter: 92b67934-069f-4590-b128-b34b5eeb5e89
+text: Seguiremos desarrollando la red de Alta Velocidad para que llegue a Asturias en este mismo año y a Almería en el 2026.
 categories: Transporte
 topics: Ferrocarril, Alta velocidad
-text: Seguiremos desarrollando la red de Alta Velocidad para que llegue a Asturias en este mismo año y a Almería en el 2026.

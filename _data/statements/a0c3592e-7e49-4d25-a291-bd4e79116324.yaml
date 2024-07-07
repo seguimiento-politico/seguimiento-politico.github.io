@@ -1,6 +1,6 @@
 id: a0c3592e-7e49-4d25-a291-bd4e79116324
-type: declaration
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,4 +8,5 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 8
+parent_chapter: d398e1b7-4bfc-46c4-ac88-5e95589750d5
 text: 'En esta tarea necesitamos a todos los españoles. No sobra nadie. Por eso este proyecto de país se construye desde un principio fundacional: la unión. Quiero reunir a una gran mayoría de ciudadanos para que trabajemos juntos y para todos por la gran Nación que compartimos. Por una España reformista, alegre, comprometida, libre, valiente, ilusionada y con la mirada puesta en el futuro.'

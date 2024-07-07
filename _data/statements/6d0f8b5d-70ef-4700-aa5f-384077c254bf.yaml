@@ -1,7 +1,6 @@
 id: 6d0f8b5d-70ef-4700-aa5f-384077c254bf
 type: promise
-parent_statement: 91e6884a-93e3-4bd4-935b-1a83115378c3
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Industria
+parent_statement: 91e6884a-93e3-4bd4-935b-1a83115378c3
+parent_chapter: 7c79fe71-f119-4b1d-a348-2b181c21b108
 text: Impedir definitivamente la integración vertical de actividades de generación, distribución y comercialización en empresas del mismo grupo. La existencia de monopolios naturales, como es el caso de las redes eléctricas, requiere de palancas regulatorias para que exista competencia. En la práctica, la separación entre actividades reguladas y no reguladas no es efectiva. En particular, impondremos una separación estricta de la actividad de distribución, del mismo modo que sucede en transporte.
+categories: Industria

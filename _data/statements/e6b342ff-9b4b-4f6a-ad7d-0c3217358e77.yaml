@@ -1,6 +1,6 @@
 id: e6b342ff-9b4b-4f6a-ad7d-0c3217358e77
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 22
+parent_chapter: 5ac453aa-319d-4ea3-b4b6-7a63e3dde3ff
+children_promises:
+- 32f37938-54ae-42b5-b2f5-6aa5f6372abb
+children_statements: []
+title: Aprobación de una estrategia estatal contra el lavado verde (greenwashing)
 categories: Consumo
 topics: Consumo sostenible
-title: Aprobación de una estrategia estatal contra el lavado verde (greenwashing)
-has_children: true

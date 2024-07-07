@@ -1,6 +1,6 @@
 id: 989a479f-73df-480e-9153-3d5001877e29
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 269
-categories: Seguridad y Defensa
+parent_chapter: 3c98fb62-bbb8-4916-950e-d63929014fb9
 text: Daremos a España el lugar que le corresponde en la consolidación e impulso del Concepto Estratégico aprobado en la Cumbre de Madrid de 2022, dando especial importancia al desarrollo del concepto de seguridad y defensa frente a todas las amenazas externas, con atención prioritaria en el flanco sur.
+categories: Seguridad y Defensa

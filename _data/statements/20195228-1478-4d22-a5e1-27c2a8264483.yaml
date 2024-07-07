@@ -1,6 +1,6 @@
 id: 20195228-1478-4d22-a5e1-27c2a8264483
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 173
-categories: Derechos y servicios sociales
+parent_chapter: 5f57ba4e-d577-41a4-b2d9-7ff1612f735d
 text: Promoveremos un estilo de vida saludable frente a la degradación de la salud mental y espiritual de los españoles, que proporcione a los miembros de las familias las herramientas necesarias para ser libres y no caer en adicciones comportamentales que puedan generar una dependencia similar a las de las sustancias químicas, y las mismas repercusiones en el entorno familiar, social y económico.
+categories: Derechos y servicios sociales

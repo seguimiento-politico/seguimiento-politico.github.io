@@ -1,6 +1,6 @@
 id: 6e62a0c6-632c-45b1-a7a6-6b80f0449b85
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 68
+parent_chapter: de18231f-ea27-483e-81a9-f51977d7f26c
 title: Hacer justicia a nuestra memoria democrática.
 text: La recuperación de la memoria democrática de nuestro país va mucho más allá de la exhumación de la momia del dictador Hace falta verdad, justicia, reparación y no repetición Mientras tanto, somos la excepcionalidad europea en términos de impunidad y de haberle dado la espalda a nuestra historia Vamos a revertir esto de acuerdo con los principios de los derechos humanos en torno a los ejes de verdad (poder conocer lo ocurrido), justicia (llevar a los responsables ante los tribunales), reparación de las víctimas y no repetición (garantizar que no persisten hoy elementos que siguen causando daño) Para avanzar en este camino, implementaremos un programa de exhumaciones de las víctimas del franquismo que continúan en fosas comunes, retiraremos las medallas concedidas a Billy el Niño y a otros torturadores del franquismo, modificaremos la Ley de Amnistía para que se puedan juzgar los crímenes de lesa humanidad del fascismo, tal como hace ineludible el derecho internacional —que se incumple ahora en España—, y anularemos los juicios políticos del franquismo También declararemos nulas las condenas y sanciones de tribunales, jurados y otros órganos penales, administrativos o militares dictadas durante la guerra civil española o la dictadura por motivos políticos, ideológicos, de creencia o de orientación sexual, identidad sexual, identidad de género o expresión de género Al mismo tiempo, hay que señalar que el régimen franquista no solo fue una maquinaria autoritaria diseñada para la represión, sino que operó también como un mecanismo de saqueo y expolio hacia familias de la jerarquía franquista Por ello, una de las claves en la reparación es auditar de los bienes expoliados por el franquismo para devolverlos a sus legítimos titulares

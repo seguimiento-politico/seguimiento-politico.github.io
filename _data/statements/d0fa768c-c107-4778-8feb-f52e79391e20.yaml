@@ -1,7 +1,6 @@
 id: d0fa768c-c107-4778-8feb-f52e79391e20
 type: promise
-parent_statement: 79be78ef-7f95-4e6d-af74-9d15eac270d4
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Industria
+parent_statement: 79be78ef-7f95-4e6d-af74-9d15eac270d4
+parent_chapter: 52ae8dc4-28e9-4398-8226-2aed999f465f
 text: Queremos asegurar que nuestro país cuenta con las capacidades industriales para fabricar los productos y servicios esenciales para hacer frente a futuras disrupciones.
+categories: Industria

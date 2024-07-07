@@ -1,6 +1,6 @@
 id: b6b10d9a-e0ef-49e5-aa4f-c9c39ef75890
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 264
+parent_chapter: 0631ffc9-f685-4c80-b532-d54fe56904f9
+text: Seguiremos profundizando en la nueva etapa en nuestras relaciones bilaterales con Marruecos, en la que hemos firmado una veintena de acuerdos para fortalecer la cooperación en la lucha contra la trata de personas y contra el terrorismo, la cooperación migratoria, o la promoción de las empresas exportadoras y de las empresas españolas en Marruecos.
 categories: Política internacional
 topics: Marruecos
-text: Seguiremos profundizando en la nueva etapa en nuestras relaciones bilaterales con Marruecos, en la que hemos firmado una veintena de acuerdos para fortalecer la cooperación en la lucha contra la trata de personas y contra el terrorismo, la cooperación migratoria, o la promoción de las empresas exportadoras y de las empresas españolas en Marruecos.

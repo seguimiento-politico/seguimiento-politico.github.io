@@ -1,6 +1,6 @@
 id: 8d36929c-96d7-4a34-ac83-34d437ccd29f
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 222
-categories: Vivienda
+parent_chapter: c2222482-199f-4b08-aff6-5ef8b5f773c3
 text: Regularemos y diversificaremos los contratos de arrendamientos para recoger las peculiaridades de cada situación, de manera que se atienda al arrendador/a y al arrendatario/a y a la situación concreta que se pretende regular, sobre todo en el caso de arrendamientos temporales para uso como primera vivienda.
+categories: Vivienda

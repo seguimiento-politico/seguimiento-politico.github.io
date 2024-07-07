@@ -1,0 +1,27 @@
+# variables depending on scope:
+# supranational -> organization + institution, 
+# national-> country + institution, 
+# regional-> country + region + institution  or 
+# local-> country + region + locality + institution
+
+draft: false 
+name: elecciones europeas 2024
+group_by: legislature
+election_type: europeas
+election_date: '2024-06-09'
+scope: supranational 
+organization: union europea
+institution: parliament
+nature: politics
+items_type: promise # statements (promises + statements), promise, statement
+items_by: party #party, politician
+lang: es
+
+context:
+    name: "Elecciones europeas 2024"
+    description: Seguimiento de las políticas y actividad legislativa de la Unión Europea.
+    from: '2024-06-09'
+    goverment_type:
+    goverment_parties:
+    sources:
+        - https://www.europarl.europa.eu/portal/es

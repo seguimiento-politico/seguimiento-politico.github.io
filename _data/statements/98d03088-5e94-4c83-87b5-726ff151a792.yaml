@@ -1,6 +1,6 @@
 id: 98d03088-5e94-4c83-87b5-726ff151a792
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 59
+parent_chapter: de18231f-ea27-483e-81a9-f51977d7f26c
 title: Eliminar los privilegios de los cargos electos.
 text: Acabaremos con los privilegios de los cargos electos (diputadas, diputados, senadoras y senadores), tanto de los que gozan durante el ejercicio de sus funciones como de los que les son atribuidos una vez que han concluido sus respectivos mandatos Asimismo, rebajaremos las retribuciones de los miembros electos de las Cortes, de manera que en ningún caso sea superior a la de los cuerpos de funcionarios del Estado, y revisaremos los complementos económicos (gastos de representación, libre disposición, indemnizaciones, etcétera) Estableceremos mecanismos de control de las dietas y los desplazamientos y eliminaremos las indemnizaciones por cese, las llamadas «pensiones de oro» de los exparlamentarios, de modo que sus derechos sean como los del resto de las personas trabajadoras

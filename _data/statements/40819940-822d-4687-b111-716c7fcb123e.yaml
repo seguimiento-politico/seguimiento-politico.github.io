@@ -1,7 +1,6 @@
 id: 40819940-822d-4687-b111-716c7fcb123e
 type: promise
-parent_statement: 6e4b3c9a-bb5f-48a9-99ee-0e4c5e93d1b6
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Industria
+parent_statement: 6e4b3c9a-bb5f-48a9-99ee-0e4c5e93d1b6
+parent_chapter: 7c79fe71-f119-4b1d-a348-2b181c21b108
 text: Actualizar el Código Técnico de la Edificación (CTE) y el Reglamento de Instalaciones Térmicas en los Edificios (RITE) con unos criterios exigentes y ambiciosos. Actualizaremos también el reglamento de baja tensión para simplificar la introducción del autoconsumo y del vehículo eléctrico.
+categories: Industria

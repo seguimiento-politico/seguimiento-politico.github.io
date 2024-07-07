@@ -1,6 +1,6 @@
 id: c961a309-0677-440a-bc44-b99c9decdc79
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 175
-categories: Derechos y servicios sociales
+parent_chapter: d0e12844-b1ea-4076-93e4-1d25899f811d
 text: Incentivar la investigación social para renovar el conocimiento y mejorar los sistemas de información que permitan la evaluación el análisis y la adaptación continua.
+categories: Derechos y servicios sociales

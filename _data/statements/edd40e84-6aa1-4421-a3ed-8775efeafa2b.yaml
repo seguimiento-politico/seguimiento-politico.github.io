@@ -1,7 +1,6 @@
 id: edd40e84-6aa1-4421-a3ed-8775efeafa2b
 type: promise
-parent_statement: 00548844-203a-4ce6-9efc-58f3f21bb85e
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 00548844-203a-4ce6-9efc-58f3f21bb85e
+parent_chapter: dc0b81ff-b170-445d-9cda-44cdb48fa9b7
+text: Refuerzo de los sistemas de control y supervisión bancaria, de manera jurídicamente compatible con el Derecho de la Unión Europea. Para ello se creará una autoridad independiente de supervisión, adscrita al Banco de España, y se llevará a cabo la regulación profesional del cuerpo de inspectores y auditores informáticos de entidades de crédito, garantizando el acceso a esta función mediante un sistema de oposición que asegure la cualificación e independencia de inspectores y auditores, de manera análoga al resto de personal funcionario de la Administración General del Estado.
 categories: Economía
 topics: Competencia
-text: Refuerzo de los sistemas de control y supervisión bancaria, de manera jurídicamente compatible con el Derecho de la Unión Europea. Para ello se creará una autoridad independiente de supervisión, adscrita al Banco de España, y se llevará a cabo la regulación profesional del cuerpo de inspectores y auditores informáticos de entidades de crédito, garantizando el acceso a esta función mediante un sistema de oposición que asegure la cualificación e independencia de inspectores y auditores, de manera análoga al resto de personal funcionario de la Administración General del Estado.

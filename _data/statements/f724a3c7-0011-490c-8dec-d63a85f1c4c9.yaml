@@ -1,6 +1,6 @@
 id: f724a3c7-0011-490c-8dec-d63a85f1c4c9
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 204
+parent_chapter: 3d1b7144-3878-4cb4-adc8-196127e0eb99
+text: Promoveremos un plan de acción junto a la FEMP y la Red de Ciudades saludables con el objetivo de incorporar desde el municipalismo dos líneas de acción, que permitirán cofinanciar la incorporación de nutricionistas a las plantillas municipales para diseñar planes de acción local en salud, así como la promoción de hábitos saludables.
 categories: Sanidad
 topics: Promoción de la salud
-text: Promoveremos un plan de acción junto a la FEMP y la Red de Ciudades saludables con el objetivo de incorporar desde el municipalismo dos líneas de acción, que permitirán cofinanciar la incorporación de nutricionistas a las plantillas municipales para diseñar planes de acción local en salud, así como la promoción de hábitos saludables.

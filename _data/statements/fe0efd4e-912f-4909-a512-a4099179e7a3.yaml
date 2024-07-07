@@ -1,6 +1,6 @@
 id: fe0efd4e-912f-4909-a512-a4099179e7a3
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 180
+parent_chapter: 63ab839a-6275-4d54-bf9b-ec036a685a75
+children_promises:
+- d2a6923b-f394-495a-8af1-0fa55a6d178a
+- 9c0f57e9-5d0c-4dae-9f7b-d2e19c172cf3
+- 45dd1a77-438c-4dc2-a294-711741398dd8
+children_statements: []
+title: Garantizar el derecho a la propiedad común de los datos y la privacidad y el encriptado de comunicaciones por diseño
 categories: Educación
 topics: Digitalización
-title: Garantizar el derecho a la propiedad común de los datos y la privacidad y el encriptado de comunicaciones por diseño
-has_children: true

@@ -1,11 +1,12 @@
 id: 315df2f7-8a1a-4704-834e-8109673a6dfb
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 39
-categories: Sanidad
+parent_chapter: dcb6b10d-0b49-4143-9511-53be3f00f338
 text: Impulsaremos la participación del paciente en el cuidado de su salud y en las decisiones sobre la asistencia sanitaria que vayan a recibir a través de las siguientes líneas de acción:<br>• Creación de un Portal de Salud del Sistema Nacional desde el que se facilite la trasmisión de información sobre prácticas de autocuidado personal, programas de cribado poblacional, registro de últimas voluntades, recursos sanitarios especiales, etc. y desde el que el paciente pueda acceder a su historia clínica independientemente del lugar en que se en- cuentre en condiciones de estricta seguridad y confidencialidad.<br>• En colaboración con las asociaciones de pacientes, sociedades cien- tíficas y colegios profesionales analizaremos la práctica actual del consentimiento informado con el objetivo de establecer acciones de mejora que lo conviertan en una auténtica herramienta de participación del paciente en las decisiones sobre su salud.
+categories: Sanidad

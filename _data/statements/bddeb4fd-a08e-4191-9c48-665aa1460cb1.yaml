@@ -1,6 +1,6 @@
 id: bddeb4fd-a08e-4191-9c48-665aa1460cb1
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 174
-categories: Deporte
+parent_chapter: 1f3cf0db-d571-4433-a626-3036186931e1
+children_promises:
+- d0fed2e7-82aa-4659-a13f-a2a9f6c5581f
+- fb999005-504a-413a-ae9b-2d2d29eb662d
+- 84f340aa-ddf4-4e3d-8a8e-bc0b08545400
+- 51c35f8e-875a-40de-be3e-a813883628b0
+children_statements: []
 title: Apuesta por un nuevo modelo deportivo inclusivo, transversal y vertebrador y contra la violencia, el racismo, la xenofobia y la intolerancia en el deporte
-has_children: true
+categories: Deporte

@@ -1,6 +1,6 @@
 id: d3fe492e-4670-4ee2-8e75-672e0f30be5f
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 130
-categories: Seguridad y defensa
+parent_chapter: 66b190ef-617c-438a-adf3-a3c9f707719b
+children_promises:
+- 42c804a8-3ed6-40c2-85b9-e71f6b73049c
+- f0dc3f09-19c3-45d8-815e-dac04a2a5b44
+- 8d980e81-a6c6-4ef7-9ad4-22d4f6b7c15c
+- 32b2afd6-1cb4-4f15-9a4e-cc10d248aee5
+children_statements: []
 title: Articularemos una red estatal de resolución comunitaria de conflictos leves, fortaleciendo el sentido de responsabilidad compartida y de pertenencia a la comunidad cívica.
-has_children: true
+categories: Seguridad y defensa

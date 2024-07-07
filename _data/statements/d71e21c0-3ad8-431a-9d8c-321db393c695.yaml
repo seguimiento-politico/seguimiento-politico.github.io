@@ -1,6 +1,6 @@
 id: d71e21c0-3ad8-431a-9d8c-321db393c695
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 263
-categories: Política internacional
+parent_chapter: 723c49fe-d44b-41d0-b7f7-8b728fde15d5
 text: Seguiremos reforzando el sistema multilateral, clave para abordar los grandes desafíos globales y mantener la paz y la seguridad y por la estabilidad y el desarrollo sostenible en el ámbito internacional.
+categories: Política internacional

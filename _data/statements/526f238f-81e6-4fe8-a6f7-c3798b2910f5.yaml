@@ -1,6 +1,6 @@
 id: 526f238f-81e6-4fe8-a6f7-c3798b2910f5
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 168
+parent_chapter: e207a6bf-9c54-4399-a574-f130ae590b63
+children_promises: []
+children_statements:
+- 2c285661-89e6-4999-a0cf-ba0e1a7fda69
+- 31335436-e798-46e1-b83b-b2bad63bebcd
+- fcb75fb1-6409-4142-b972-e7b249ce91c2
+text: 'Es importante resaltar que estas reformas se han implementado con la oposición frontal del PP, siendo la voluntad transformadora y progresista del PSOE la que ha devuelto a las y los pensionistas los derechos arrebatados por la derecha:'
 categories: Derechos y servicios sociales
 topics: Pensiones
-text: 'Es importante resaltar que estas reformas se han implementado con la oposición frontal del PP, siendo la voluntad transformadora y progresista del PSOE la que ha devuelto a las y los pensionistas los derechos arrebatados por la derecha:'
-has_children: true

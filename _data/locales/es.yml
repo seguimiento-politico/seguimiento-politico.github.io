@@ -1,21 +1,96 @@
-# Strings for dates
-# language Spanish
+# Spanish - Español
+add_statement_label       : "Registrar declaración"
+appropiate                : "Adecuado"
+attack_to_distorted       : "hombre de paja"
+category_label            : "Categoría"
+clarity                   : "claridad"
+coherence                 : "coherencia"
+collaborators_label       : "Colaboradores"
+comments_label            : "Comentarios"
+comments_policy_label     : "Política de comentarios"
+cookies_label             : "Política de cookies"
+copyright_label           : "Copyright"
+deficient                 : "Deficiente"
+delete_filters_label      : "Borrar filtros"
+delete_label              : "Borrar"
+email_label               : "Dirección de correo"
+fallacy                   : "falacia"
+false_causality           : "falsa causalidad"
+false_correlation         : "falsa correlación"
+false_dichotomy           : "falsa dicotomía"
+filter_by_label           : "Filtrar por "
+guilt_by_association      : "culpable por asociación"
+high                      : "alta"
+home_label                : "Inicio"
+improvable                : "Mejorable"
+information               : "información"
+last_review               : "Última revisión"
+low                       : "baja"
+measurability             : "Medible"
+medium                    : "media"
+moderate                  : "media"
+more_info_label           : "Más info."
+objectivity               : "objetividad"
+over_simplification       : "sobre-simplificación"
+populism                  : "populismo"
+privacy_label             : "Política de privacidad"
+promise_characteristics   : "Características del compromiso"
+promises_label            : "Compromisos"
+realistic                 : "Realista"
+responsible_disclosure_label: "Descargo de responsabilidad"
+search_label              : "Buscar"
+see_all_label             : "Ver todas"
+select_to_label           : "Selecciona para "
+service_terms_label       : "Términos del servicio"
+specific                  : "específico"
+specifity                 : "Específicidad y claridad"
+statement_complieance_maybe : "Quizás cumplido"
+statement_complieance_no  : "No cumplido"
+statement_complieance_not_known: "Desconocido o irrelevante"
+statement_complieance_yes : "Cumplido"
+statement_label           : "Declaración"
+statement_status          : "tipo de declaración "
+stats_label               : "Datos"
+status_achieved           : "Cumplido"
+status_blocked            : "Bloqueado"
+status_broken             : "Incumplido"
+status_compromised        : "Cumplido a medias"
+status_done               : "Finalizado"
+status_false              : "Afirmación falsa"
+status_in_progress        : "En progreso"
+status_label              : "Estado"
+status_misleading         : "Afirmación engañosa"
+status_not_started        : "Sin iniciar"
+status_opinion            : "Opinión"
+status_true               : "Afirmación veraz"
+status_unknown            : "Desconocido"
+subscribe_label           : "Suscríbete"
+time_bound                : "Plazo temporal"
+topic_label               : "Temática"
+track_info_label          : "Resumen de la "
+track_promises_label      : "Seguimiento de compromisos en la "
+track_statements_label    : "Seguimiento de afirmaciones"
+type_label                : "Tipo"
+updates_label             : "Últimas actualizaciones"
+use_terms_label           : "Términos de Uso"
+view_label                : "Ver"
+view_promises_label       : "Ver compromisos"
 abbreviated_weekday:
-  - Dom
   - Lun
   - Mar
   - Mie
   - Jue
   - Vie
   - Sab
+  - Dom
 full_weekday:
-  - Domingo
   - Lunes
   - Martes
   - Miércoles
   - Jueves
   - Viernes
   - Sábado
+  - Domingo
 abbreviated_month:
   - Ene
   - Feb
@@ -42,3 +117,5 @@ full_month:
   - Octubre
   - Noviembre
   - Diciembre
+
+

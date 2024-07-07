@@ -1,6 +1,6 @@
 id: c8933d87-1c7d-41d8-9a38-f220ba23ed65
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 155
-categories: Educación
+parent_chapter: c1ead426-cec8-44d6-a73a-d98f9059e1db
+children_promises:
+- 046a23cc-e41f-4b0d-a072-36e5c02b7448
+children_statements: []
 title: Dignificación de las enseñanzas artísticas y aprobación de su marco regulador como estudios universitarios.
-has_children: true
+categories: Educación

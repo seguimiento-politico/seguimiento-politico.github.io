@@ -1,6 +1,6 @@
 id: eadb86e3-7cb2-4a7f-85f4-97862674de61
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 62
+parent_chapter: d0ca92d6-a651-4e64-8fa2-2354747b0fd1
+text: REFORZAREMOS LAS UNIDADES DE ATENCIÓN DE LA FAMILIA Y DE LA MUJER (UFAM) de la Policía Nacional y los Equipos Mujer-Menor (EMUME) de la Guardia Civil. Dotaremos con personal y recursos suficientes las Oficinas de Atención a las Víctimas en los juzgados, así como las Unidades de Valoración Forense Integral, para que los informes técnicos precisos no se demoren. Realizaremos una evaluación y actualización continuada de los cuestionarios del programa VIOGEN de valoración del riesgo en los casos de violencia de género, para la mejor determinación de las medidas de protección necesarias en cada caso.
 categories: Seguridad y defensa
 topics: Violencia de género
-text: REFORZAREMOS LAS UNIDADES DE ATENCIÓN DE LA FAMILIA Y DE LA MUJER (UFAM) de la Policía Nacional y los Equipos Mujer-Menor (EMUME) de la Guardia Civil. Dotaremos con personal y recursos suficientes las Oficinas de Atención a las Víctimas en los juzgados, así como las Unidades de Valoración Forense Integral, para que los informes técnicos precisos no se demoren. Realizaremos una evaluación y actualización continuada de los cuestionarios del programa VIOGEN de valoración del riesgo en los casos de violencia de género, para la mejor determinación de las medidas de protección necesarias en cada caso.

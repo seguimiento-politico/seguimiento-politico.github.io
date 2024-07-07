@@ -1,6 +1,6 @@
 id: 5f9f4c67-2ff1-4491-92aa-b4bcf64fde69
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 29
+parent_chapter: de85e0ef-5ecc-4ca0-89b4-a741503b7353
+children_promises:
+- a311f46d-c29f-45c6-a699-171a566af0df
+children_statements: []
+title: Seguiremos impulsando la Carta de Derechos Digitales
 categories: Economía
 topics: Digitalización
-title: Seguiremos impulsando la Carta de Derechos Digitales
-has_children: true

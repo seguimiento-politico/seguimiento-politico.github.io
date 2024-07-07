@@ -1,7 +1,6 @@
 id: 766167af-4c63-4184-9ffd-ef266abb1784
 type: promise
-parent_statement: e83360e3-1097-44be-9da4-5cab37c1f7cf
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Administración pública
+parent_statement: e83360e3-1097-44be-9da4-5cab37c1f7cf
+parent_chapter: f4f32036-0cfd-4ca9-b6f3-5cfec1c58526
 text: Para conseguirlo es preciso en primer lugar dotar de recursos operativos a la Oficina Nacional de Evaluación creada a finales de 2021. Es importante que aborde la elaboración de informes obligatorios sobre la sostenibilidad financiera, la eficacia y eficiencia de los proyectos de concesiones públicas y privadas en todas las Administraciones públicas que impliquen compromisos plurianuales por emplear grandes volúmenes de recursos públicos.
+categories: Administración pública

@@ -1,6 +1,6 @@
 id: f46bac24-a792-455a-ab19-5821e0f63732
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 171
-categories: Cultura
+parent_chapter: d83fae97-6483-46e8-ac0d-9980e0838a11
+children_promises:
+- c2e1b595-75db-454f-8fcc-c951866eb001
+- ec7ad3e1-532f-4eb1-b895-518bffcb74a8
+- 72e62651-461e-43fd-902f-8d4578ccaeed
+- 3c46d8b3-78bb-4c01-ba3d-f1781c942d6c
+- 8ac7bf00-9794-4a7e-982b-e9b016927452
+children_statements: []
 title: Acceso y diversificación de la programación cultural
-has_children: true
+categories: Cultura

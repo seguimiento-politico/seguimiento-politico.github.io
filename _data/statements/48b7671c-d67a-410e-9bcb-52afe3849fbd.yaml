@@ -1,6 +1,6 @@
 id: 48b7671c-d67a-410e-9bcb-52afe3849fbd
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 7
+parent_chapter: 73e0eb17-ca17-45e8-a4bd-217e9f7fe4bf
+text: Reforzaremos los programas de turismo y de termalismo del Instituto de Mayores y Servicios Sociales (IMSERSO) para seguir mejorando la cal  idad de v  ida y el acceso de las personas mayores y de las personas con discapac  idad a servicios de ocio y de salud, así como contribuir al mantenimiento del empleo turístico y a la desestacionalización del sector.
 categories: Economía
 topics: Desarrollo sostenible
-text: Reforzaremos los programas de turismo y de termalismo del Instituto de Mayores y Servicios Sociales (IMSERSO) para seguir mejorando la cal  idad de v  ida y el acceso de las personas mayores y de las personas con discapac  idad a servicios de ocio y de salud, así como contribuir al mantenimiento del empleo turístico y a la desestacionalización del sector.

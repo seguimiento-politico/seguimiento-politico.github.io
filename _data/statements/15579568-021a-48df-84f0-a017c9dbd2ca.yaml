@@ -1,7 +1,6 @@
 id: 15579568-021a-48df-84f0-a017c9dbd2ca
 type: promise
-parent_statement: 550e8400-e29b-41d4-a716-446655440000
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,4 +8,6 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 550e8400-e29b-41d4-a716-446655440000
+parent_chapter: 234f712b-aaa0-45c7-92d9-e5641ca46ec2
 text: Garantizar la participación real y de calidad de la sociedad en la revisión de los principales planes, estrategias y marcos normativos vinculados a la TEJ, así como en los proyectos y planes que tengan impacto social, ambiental y económico en los territorios y comunidades.

@@ -1,6 +1,6 @@
 id: aeedd452-e579-4354-a942-16bad7b301ce
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,17 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 45
-categories: Sanidad
+parent_chapter: 5c8d94eb-aad0-4b93-8408-511875a0e54f
+children_promises:
+- bd1e7c93-44f0-4512-aff0-65bbd020ed6b
+- 76e493ed-2605-40ea-bf7d-eb8560dc7fd2
+- d9b414ec-394d-47f5-9872-14d19c1aa04d
+- fd7b3681-51c9-4ad6-a632-4efc89ad22f4
+- fe872ffc-dd9b-464d-a762-f1794c65aebc
+- 06d5228a-1989-4453-abc6-67244884713a
+- 2202aaee-4d98-42f8-881c-5b0a0e31cc36
+- 82a11088-6c0c-4dfa-ab2c-8c55040ff612
+- 81083f73-6dd6-4374-ad51-452c2e803e3e
+children_statements: []
 text: 'PROMOVEREMOS UN PLAN DE CHOQUE EN ATENCIÓN PRIMARIA para dar solución al grave problema de déficit de especialistas en este nivel asistencial que sufre España. En el plan se combinarán medidas inmediatas, para cubrir plazas con medidas estructurales que aseguren una dotación de personal para la Atención Primaria capaz de permitir que siga siendo el elemento vertebrador del Sistema Nacional de Salud. Con un enfoque más comunitario y con mayor capacidad resolutiva:'
-has_children: true
+categories: Sanidad

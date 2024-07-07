@@ -1,6 +1,6 @@
 id: 15465dec-f6ab-4e86-b278-a656905e9840
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 42
+parent_chapter: 16366866-7ea4-45a3-a9c4-42b13446ff60
+text: Combatir la discriminación, las presiones y la penalización económica que pueden sufrir las mujeres que desean ser madres en el ámbito laboral.
 categories:
 - Familia
-text: Combatir la discriminación, las presiones y la penalización económica que pueden sufrir las mujeres que desean ser madres en el ámbito laboral.

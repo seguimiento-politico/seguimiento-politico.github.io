@@ -1,6 +1,6 @@
 id: c2021b0e-87c3-4832-b04f-5d152d8de17d
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 78
-categories: Transporte
+parent_chapter: a97d33b8-5d0d-4f18-ae40-4a52b218e524
 text: Contaremos con la participación ciudadana para la toma de decisiones de movilidad alternativas en los territorios de baja densidad de población, con objeto de maximizar las oportunidades de viaje.
+categories: Transporte

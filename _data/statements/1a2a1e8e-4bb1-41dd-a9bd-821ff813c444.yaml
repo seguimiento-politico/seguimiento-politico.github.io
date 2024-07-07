@@ -1,0 +1,22 @@
+id: 1a2a1e8e-4bb1-41dd-a9bd-821ff813c444
+type: statement
+parent_document: a613c4b6-f9dc-4926-8b9a-b87c233e5a75
+parties:
+- VOX
+election_type: europeas
+election_date: '2024-06-09'
+publication_date: '2024-05-30'
+page: 9
+text: España no ha sometido a la Agenda 2030 a debate, enmienda y votación en las Cortes Generales. PP, PSOE y el resto de los partidos, salvo VOX, han asumido de manera servil esta Agenda como una hoja de ruta. Actualmente el compromiso con los ODS constituye un eje fundamental en la acción gubernamental tanto a nivel nacional como regional y municipal.
+categories:
+- Democracia
+topics:
+- name: Agenda 2030
+  position_negative:
+  - text: hoja de ruta del gobierno sin previo debate y votación en las Cortes Generales españolas
+- name: ODS
+  position_negative:
+  - text: eje fundamental en la acción gubernamental sin previo debate y votación en las Cortes Generales españolas
+- name: PP
+- name: PSOE
+- name: Soberanía nacional

@@ -1,6 +1,6 @@
 id: f08cc810-7084-43d9-a77a-517023e9f05f
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,16 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 126
-categories: Justicia
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
+children_promises:
+- 1193b386-31c4-4654-9b6e-3347013d2592
+- 77a5611a-fe61-49dd-9642-7f44346a73d4
+- 13cf07c4-8a02-45fe-a36d-11db6f0f5646
+- b0fa19e1-ae45-4b91-9a9f-46587ca2bd14
+- 37eebf9f-8bba-43f2-aacb-399d1e4e72c4
+- c9682335-46ab-4a69-b653-8b4c7e424ac3
+- 8ae34b42-f55d-4ab8-a89e-4ee58c4e9a69
+children_statements:
+- f9e778af-94f7-4324-8078-580375f2d7aa
 title: 'Propondremos un nuevo modelo de acceso, formación, especialización y promoción de jueces y fiscales. '
-has_children: true
+categories: Justicia

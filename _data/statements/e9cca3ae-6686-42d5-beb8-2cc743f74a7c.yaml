@@ -1,6 +1,6 @@
 id: e9cca3ae-6686-42d5-beb8-2cc743f74a7c
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 20
-categories: Derechos y servicios sociales
+parent_chapter: b56c35d8-c066-45e2-8c61-4c2f3c0b80a9
 text: Hay que cuidar a nuestros mayores y a nuestros dependientes. Frente a la cultura del descarte, España no puede abandonar a quienes con su trabajo y esfuerzo han levantado la Nación.
+categories: Derechos y servicios sociales

@@ -1,6 +1,6 @@
 id: 72f62379-9e9a-45af-88d9-52d51e21dfa1
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 41
+parent_chapter: 27ff313e-64fe-41ca-bc72-c44fafac350d
+children_promises:
+- 14e94996-c9a3-48c8-87b3-a104b87d8774
+- 2c3cf100-71d2-45d6-b323-055d15c44705
+- 8ab29f1a-634b-4f88-9bd7-b38adfd761dd
+- 56595d55-d960-4bc3-a70a-6f9e6b0879fb
+children_statements:
+- ddbf38c9-8003-4931-b8fc-2ac2c39200a2
 title: 'Avanzar en la descarbonización: Industria'
-has_children: true
+topics: Cambio climático

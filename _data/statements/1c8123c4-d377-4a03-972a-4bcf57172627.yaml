@@ -1,6 +1,6 @@
 id: 1c8123c4-d377-4a03-972a-4bcf57172627
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 32
-categories: Territorio rural
+parent_chapter: 994994ce-d238-4df8-ae47-d7637a178a8c
 text: FOMENTAREMOS LA CONCILIACIÓN DE LAS FAMILIAS QUE ELIJAN VIVIR EN EL RURAL, facilitando el cuidado de niños y mayores con la apertura de “casas nido” o casas de mayores en aquellos municipios con menos población.
+categories: Territorio rural

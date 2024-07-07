@@ -1,7 +1,6 @@
 id: 8e1b7b17-063b-4f92-a933-e6660726921e
 type: promise
-parent_statement: d1d25f0d-e112-4f60-ad15-06000f733c46
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: d1d25f0d-e112-4f60-ad15-06000f733c46
+parent_chapter: 7d3df58a-3293-4f26-b114-1a8c3838af87
+text: Siempre que sea posible, se incorporará en todos los equipos de los centros de atención primaria y hospitales públicos a dietistas-nutricionistas para tal fin y se realizarán acciones formativas dirigidas a los profesionales de la salud pública comunitaria y la geriatría, por su potencial incidencia sobre el cambio de hábitos de salud entre la población.
 categories: Consumo
 topics: Alimentación saludable
-text: Siempre que sea posible, se incorporará en todos los equipos de los centros de atención primaria y hospitales públicos a dietistas-nutricionistas para tal fin y se realizarán acciones formativas dirigidas a los profesionales de la salud pública comunitaria y la geriatría, por su potencial incidencia sobre el cambio de hábitos de salud entre la población.

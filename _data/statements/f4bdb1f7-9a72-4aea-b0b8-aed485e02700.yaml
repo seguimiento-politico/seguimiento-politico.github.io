@@ -1,6 +1,6 @@
 id: f4bdb1f7-9a72-4aea-b0b8-aed485e02700
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 104
+parent_chapter: 5a78c83a-e028-4353-b943-e627cc312cee
+children_promises:
+- 6e3c870f-7f58-4943-bcc5-22d0e0f0668c
+- c89dd45e-f171-4afb-abd9-d577be9d6ecc
+children_statements:
+- 11658fdb-5b92-4383-b377-1eedab4023fe
+title: Reforma y actualización de la ley y del reglamento de extranjería
 categories: Migración
 topics: Racismo
-title: Reforma y actualización de la ley y del reglamento de extranjería
-has_children: true

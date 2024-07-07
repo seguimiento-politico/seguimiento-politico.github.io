@@ -1,6 +1,6 @@
 id: ed803153-cdcd-4365-a7e6-ee26b539556f
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 38
-categories: Agua
+parent_chapter: 27c2e026-31b3-4fe9-873a-317121ffbe6c
 text: COLABORAREMOS CON LAS COMUNIDADES AUTÓNOMAS EN EL DESARROLLO DE UN PLAN DE ACCIÓN efectivo para un uso más eficiente del agua y fertilizantes en el regadío que incluya el control de su afección a las aguas subterráneas y a las aguas superficiales, que incluya mayor reutilización. Actualizaremos el Plan de depuración y saneamiento, para el cumplimiento de la Directiva Europea 91/271 sobre el tratamiento de las aguas residuales urbanas, y acometeremos las inversiones en Estaciones Depuradoras de Aguas, para completar la circularidad e implantar tratamientos para el agua regenerada. Se prestará especial atención al saneamiento de las rías.
+categories: Agua

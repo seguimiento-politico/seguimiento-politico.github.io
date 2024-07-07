@@ -1,6 +1,6 @@
 id: ee388e03-0a19-4ad9-a4d6-532c06dd2372
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 30
-categories: Vivienda
+parent_chapter: 4b9ad552-80e7-45a6-bece-e6b170f13df0
 text: 'Ampliaremos hasta la renta media (37.800€) el umbral para acceder a las med  idas de apoyo a los afectados por la sub  ida de tipos de interés de las hipotecas: ampliación de crédito hasta 7 años y congelación de cuota de 1 año.'
+categories: Vivienda

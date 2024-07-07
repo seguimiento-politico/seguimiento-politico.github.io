@@ -1,7 +1,6 @@
 id: de0c7eb4-912c-4a19-8ff4-aebb26247bf9
 type: promise
-parent_statement: 568c7710-0916-11ed-9596-d163a910696f
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -11,6 +10,8 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 23
+parent_statement: 568c7710-0916-11ed-9596-d163a910696f
+parent_chapter: 818f7603-2f02-4ce5-ae43-b3ca06cfb5db
+text: Impulsaremos la elaboración de normas legales necesarias para reformar el mercado eléctrico, de forma que la reducción progresiva del coste de las energías renovables se traslade al precio de la electricidad, y se garantice la rentabilidad adecuada y el pleno desarrollo de la expansión de las mismas.Modificaremos los requisitos, reglas y convocatorias de las subastas para la asignación del régimen retributivo específico a nuevas instalaciones de producción de energía eléctrica a partir de fuentes de energía renovable, estableciendo como criterio fundamental el coste de generación de cada tecnología y posibilitando la participación de entidades locales, ciudadanas o cooperativas.
 categories: Medioambiente
 topics: Cambio climático
-text: Impulsaremos la elaboración de normas legales necesarias para reformar el mercado eléctrico, de forma que la reducción progresiva del coste de las energías renovables se traslade al precio de la electricidad, y se garantice la rentabilidad adecuada y el pleno desarrollo de la expansión de las mismas.Modificaremos los requisitos, reglas y convocatorias de las subastas para la asignación del régimen retributivo específico a nuevas instalaciones de producción de energía eléctrica a partir de fuentes de energía renovable, estableciendo como criterio fundamental el coste de generación de cada tecnología y posibilitando la participación de entidades locales, ciudadanas o cooperativas.

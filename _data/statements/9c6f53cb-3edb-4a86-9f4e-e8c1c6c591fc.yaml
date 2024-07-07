@@ -1,6 +1,6 @@
 id: 9c6f53cb-3edb-4a86-9f4e-e8c1c6c591fc
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 113
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+children_promises:
+- acf27596-ac0e-4f2d-87dc-c62d3a9628ae
+- 35ccceb4-5560-4758-a5c3-5b83b0487371
+- 386a1da0-deea-4d86-9b49-b6792a8a8828
+- 39899746-583f-4957-85fe-5be6e95e4a90
+children_statements:
+- 2a078631-4b43-47ad-b70d-ceb957255d0c
+title: 'Igualdad y feminismo: Por una Europa feminista y contra la extrema derecha'
 categories: Democracia
 topics: Igualdad
-title: 'Igualdad y feminismo: Por una Europa feminista y contra la extrema derecha'
-has_children: true

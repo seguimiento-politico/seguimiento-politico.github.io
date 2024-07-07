@@ -1,7 +1,6 @@
 id: 19c26d6d-933c-411c-a0ba-c770ee0fd5b4
 type: promise
-parent_statement: 550e8400-e29b-41d4-a716-446655440000
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,4 +8,6 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 550e8400-e29b-41d4-a716-446655440000
+parent_chapter: 234f712b-aaa0-45c7-92d9-e5641ca46ec2
 text: Incorporación de contenidos ecosociales en la educación formal. Revisaremos el currículo educativo con criterios ambientales y ecosociales transversales, promoveremos la formación específica del profesorado en materia de crisis climática y crearemos materiales educativos abiertos a toda la ciudadanía. Con el debido respeto a la autonomía universitaria, se fomentará la inclusión de una asignatura sobre la crisis ecosocial, basada en evidencias, que sea obligatoria en todos los grados de la educación superior. Se fomentarán las actividades que conecten la naturaleza con la escuela, llevando a cabo la naturalización de los centros y promoviendo actividades en el exterior. Se revisará el Libro Blanco de Educación Ambiental, con especial atención a la crisis climática, en el marco de una estrategia nacional, refrendada en un congreso estatal, y coordinada con las actuales estrategias regionales de educación ambiental. La estrategia nacional será uno de los marcos referenciales para la acción de gobierno en todos los ministerios. Se alentará la formación interna en las grandes empresas en materias de sensibilización y educación ambiental ante la crisis climática. Se obligará a tener educadores ambientales en municipios de más de diez mil habitantes. Se fomentará la calidad y la estabilidad del empleo de los y las profesionales de la educación ambiental.

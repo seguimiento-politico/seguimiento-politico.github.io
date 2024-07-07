@@ -1,6 +1,6 @@
 id: 9aaec9b6-4504-4e0f-a5f3-0ce31d4f87d3
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 127
-categories: Cultura
+parent_chapter: ef655d4e-aabd-4367-b039-db13bf06547d
 text: Promoveremos el acceso a fondos europeos de la producción independientes mediante la promoción del mantenimiento de derechos de los productores, siguiendo la línea de la de la Comisión Europea ya que las normas de la Comisión exigen que estos deban mantener la propiedad intelectual de la obra audiovisual.
+categories: Cultura

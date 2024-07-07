@@ -1,6 +1,6 @@
 id: 1c1f1cdd-13f4-4e1a-ac68-f7f5120a639c
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 28
+parent_chapter: d101bd02-236d-4098-bb87-89db05cd11c2
+text: Impulsaremos el Plan de Digitalización de la Administración, que incluirá medidas para aumentar la eficiencia y reducir la brecha digital en el uso para la e-administración a través del desarrollo de servicios públicos electrónicos universales y de calidad abiertos, eficientes, flexibles e inclusivos y que sean accesibles a todos los colectivos.
 categories: Administración pública
 topics: Digitalización
-text: Impulsaremos el Plan de Digitalización de la Administración, que incluirá medidas para aumentar la eficiencia y reducir la brecha digital en el uso para la e-administración a través del desarrollo de servicios públicos electrónicos universales y de calidad abiertos, eficientes, flexibles e inclusivos y que sean accesibles a todos los colectivos.

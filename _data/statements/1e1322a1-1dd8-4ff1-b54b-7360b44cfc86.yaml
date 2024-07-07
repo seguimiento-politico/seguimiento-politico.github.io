@@ -1,6 +1,6 @@
 id: 1e1322a1-1dd8-4ff1-b54b-7360b44cfc86
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 28
-categories: Sanidad
+parent_chapter: 75517e5c-2334-421b-8769-dbe823cce614
 text: Reforzaremos las políticas contra el tabaquismo que es en la actualidad uno de los principales problemas evitables de salud pública. Entre ellas se adoptarán medidas como el desarrollo de un sistema de vigilancia y monitorización de su impacto en salud infantil, de campañas de publicidad institucional, de programas y tratamientos de deshabituación, ampliación de los ambientes sin humo, regulación de la publicidad y el patrocinio de productos de tabaco, entre otras.
+categories: Sanidad

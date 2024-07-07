@@ -1,7 +1,6 @@
 id: 611ca55b-48d6-43f4-8522-19154029cf4c
 type: promise
-parent_statement: 5b49b3fa-19f8-422b-a078-768bd6b87a1b
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: 5b49b3fa-19f8-422b-a078-768bd6b87a1b
+parent_chapter: 0a1e6e60-ac39-48f2-8625-e9e72733c9da
+text: y por promover relaciones comerciales abiertas, predecibles y transparentes, evitando restricciones injustificadas al comercio.
 categories: Comercio
 topics: comercio exterior
-text: y por promover relaciones comerciales abiertas, predecibles y transparentes, evitando restricciones injustificadas al comercio.

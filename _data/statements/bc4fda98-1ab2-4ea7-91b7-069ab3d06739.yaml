@@ -1,7 +1,6 @@
 id: bc4fda98-1ab2-4ea7-91b7-069ab3d06739
 type: promise
-parent_statement: a7ff9b0e-ec1c-452e-937b-e6560415dd2d
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Seguridad y defensa
+parent_statement: a7ff9b0e-ec1c-452e-937b-e6560415dd2d
+parent_chapter: 66b190ef-617c-438a-adf3-a3c9f707719b
 text: Proponemos hacer efectivo lo previsto en la Ley de Cohesión y Calidad del Sistema Nacional de Salud de 2003 mediante la integración de la sanidad penitenciaria en los sistemas de salud autonómicos con plena identidad de prestaciones.
+categories: Seguridad y defensa

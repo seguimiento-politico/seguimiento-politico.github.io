@@ -1,6 +1,6 @@
 id: 4fcb324c-f75c-451a-b2de-22789cb819c3
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 39
+parent_chapter: 1e1d9fec-722c-4fe5-83c8-753b161e1073
+text: El turismo es un importante motor para el crecimiento de la economía española y supone una fuerza transformadora extraordinaria, capaz de mejorar la vida de millones de personas, contribuyendo al desarrollo económico, a la generación de empleo y a la cohesión social y territorial.
 categories: Turismo
 topics: Desarrollo sostenible
-text: El turismo es un importante motor para el crecimiento de la economía española y supone una fuerza transformadora extraordinaria, capaz de mejorar la vida de millones de personas, contribuyendo al desarrollo económico, a la generación de empleo y a la cohesión social y territorial.

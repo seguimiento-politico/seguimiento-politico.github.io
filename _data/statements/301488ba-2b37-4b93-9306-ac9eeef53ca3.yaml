@@ -1,6 +1,6 @@
 id: 301488ba-2b37-4b93-9306-ac9eeef53ca3
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 70
-categories: Pesca y acuicultura
+parent_chapter: 170df7e0-fd2d-4dc3-a5e5-b9c8392e94de
 text: Seguiremos luchando contra la pesca ilegal, no declarada y no reglamentada, manteniendo a nuestro país en el liderazgo frente a estas prácticas desleales y que merman los recursos y la biodiversidad marina. Un sector cinegético que participa de la sostenibilidad del mundo rural
+categories: Pesca y acuicultura

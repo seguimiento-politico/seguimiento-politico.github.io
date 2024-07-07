@@ -1,6 +1,6 @@
 id: 67ecfdfe-3338-4aef-b50c-bae8592b688d
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 265
+parent_chapter: 62ad5f8c-010a-4c71-8499-981a85fbad00
+text: Durante la Presidencia española de la UE impulsaremos la relación con los vecinos del sur y con la Unión por el Mediterráneo, un verdadero partenariado mediterráneo.
 categories: Política internacional
 topics: Mediterráneo
-text: Durante la Presidencia española de la UE impulsaremos la relación con los vecinos del sur y con la Unión por el Mediterráneo, un verdadero partenariado mediterráneo.

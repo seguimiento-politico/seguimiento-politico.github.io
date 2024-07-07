@@ -1,6 +1,6 @@
 id: eab8fcdb-5776-4b26-9493-7e0a8b67bfda
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,15 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 93
+parent_chapter: b36e5d9e-ba98-45f0-8911-a0a18af0be33
+children_promises:
+- c52f7af4-06ff-4ece-badb-abda4b8158cb
+- 48d39352-2c2d-4eff-9977-a1ab1bd9550c
+- 6429513b-a01f-4e30-bb71-b7f88911f099
+- 04affae3-bc43-4253-89fe-b462e147dc3a
+- e7e758a3-e732-463d-b415-801ef89154ac
+- c6d1ca9a-db87-45ee-b598-1ea57f76ee20
+children_statements: []
+title: 'Protección derechos infancia y familias: Prestaciones e inversión'
 categories: Familia
 topics: Incentivos, ayudas y subvenciones
-title: 'Protección derechos infancia y familias: Prestaciones e inversión'
-has_children: true

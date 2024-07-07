@@ -1,7 +1,6 @@
 id: 15810f2b-5795-4d71-8bc2-47f49521bf15
 type: promise
-parent_statement: 1012d7d2-4d00-4a88-9846-143a9c47402e
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Sanidad
+parent_statement: 1012d7d2-4d00-4a88-9846-143a9c47402e
+parent_chapter: 17e4c412-8ac4-4992-848a-422903075ee3
 text: Se avanzará en la eliminación progresiva del copago farmacéutico, priorizando a personas de rentas bajas y elaborando un catálogo de medicamentos de alto valor terapéutico exentos de copago
+categories: Sanidad

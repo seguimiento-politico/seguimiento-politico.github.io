@@ -1,6 +1,6 @@
 id: a5020e07-9634-46da-91ef-44ab5e6797e1
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 22
+parent_chapter: d3d26d0a-0ea8-4348-8556-ce6fd7e0688d
+text: IMPULSAREMOS LA APROBACIÓN DEL REGLAMENTO DE IA EUROPEO para garantizar un marco de desarrollo temprano de la IA acorde con nuestros principios y valores dentro de esta legislatura europea. DESARROLLAREMOS LA ESTRATEGIA NACIONAL DE IA, poniendo en marcha la Agencia Española de Supervisión. Aunando los esfuerzos de todos los sectores, públicos y privados, para ayudar al rápido desarrollo de la IA en España, fomentar el papel del español en internet y crear los mecanismos de supervisión necesarios de la Agencia.
 categories: Ciencia y tecnología
 topics: Inteligencia artificial
-text: IMPULSAREMOS LA APROBACIÓN DEL REGLAMENTO DE IA EUROPEO para garantizar un marco de desarrollo temprano de la IA acorde con nuestros principios y valores dentro de esta legislatura europea. DESARROLLAREMOS LA ESTRATEGIA NACIONAL DE IA, poniendo en marcha la Agencia Española de Supervisión. Aunando los esfuerzos de todos los sectores, públicos y privados, para ayudar al rápido desarrollo de la IA en España, fomentar el papel del español en internet y crear los mecanismos de supervisión necesarios de la Agencia.

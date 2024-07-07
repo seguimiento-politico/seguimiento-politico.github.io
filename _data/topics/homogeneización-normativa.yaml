@@ -1,0 +1,25 @@
+name: Homogeneización normativa
+other:
+- &id001
+  id: 4e4aa873-80e0-4970-aed3-da2597f6aa16
+  parties:
+  - VOX
+- &id002
+  id: c5037752-555c-4e4c-86ae-57a00f2380a8
+  parties:
+  - VOX
+other_count: 2
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- *id002
+statements_count: 2
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

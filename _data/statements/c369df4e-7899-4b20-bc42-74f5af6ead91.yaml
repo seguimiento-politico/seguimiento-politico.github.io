@@ -1,6 +1,6 @@
 id: c369df4e-7899-4b20-bc42-74f5af6ead91
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 97
+parent_chapter: 4b1a1fd6-83f2-4e8c-a775-7e65f72f50be
 text: Universidad pública gratuita. La mayor parte de la financiación de las Universidades públicas ya procede del dinero público y no de su pago directo Constatada esta realidad, el efecto de exigir pagar matrículas, crecientes además en la última década, supone la introducción de barreras poco eficientes para que los y las jóvenes más vulnerables no puedan acceder a la universidad Con esta propuesta, garantizaremos, en cambio, que cualquier joven que quiera y pueda estudiar lo haga con igualdad de oportunidades, al margen de dónde haya nacido Esta medida se extiende a la formación profesional en cualquier nivel e incluye la gratuidad de los másteres cuando sean habilitantes de manera oficial para ejercer una profesión. En los demás casos, el precio de los másteres bajará hasta al menos el precio actual de los grados

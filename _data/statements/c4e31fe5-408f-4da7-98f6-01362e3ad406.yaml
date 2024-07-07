@@ -1,6 +1,6 @@
 id: c4e31fe5-408f-4da7-98f6-01362e3ad406
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,9 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 41
+parent_chapter: c81b524a-7c17-4056-ad5e-56c01a72ec58
+text: Mejoraremos el actual sistema de seguros agrarios, aumentando decididamente la aportación pública al sistema hasta recuperar el nivel de 2011, teniendo en cuenta los riesgos asociados al cambio climático.
 categories:
 - Agricultura
 - Ganadaría
-text: Mejoraremos el actual sistema de seguros agrarios, aumentando decididamente la aportación pública al sistema hasta recuperar el nivel de 2011, teniendo en cuenta los riesgos asociados al cambio climático.
+topics: Desarrollo sostenible

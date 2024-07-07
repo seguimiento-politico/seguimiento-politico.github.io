@@ -1,12 +1,13 @@
 id: 91f5278c-8325-4da5-b6ae-2d1a10982ba6
 type: promise
-parent_statement: e81f5f5c-ba58-4406-b25d-701b1089a4af
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 80
-categories: Justicia
+parent_statement: e81f5f5c-ba58-4406-b25d-701b1089a4af
+parent_chapter: 93f894f4-fa7e-477f-b933-b4f068b0d41e
 text: Asesinatos en los que el autor impida u obstruya la recuperación del cuerpo de la víctima.
+categories: Justicia

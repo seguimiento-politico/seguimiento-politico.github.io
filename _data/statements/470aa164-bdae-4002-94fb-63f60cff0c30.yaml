@@ -1,6 +1,6 @@
 id: 470aa164-bdae-4002-94fb-63f60cff0c30
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 241
+parent_chapter: e5be3d56-d004-4484-b293-9d1f24b80d8c
+text: Impulsaremos un programa incentivado de mentorización para que el personal funcionario con mayor experiencia acompañe y tutorice al personal recién incorporado, acelerando así la formación práctica de estos y robusteciendo la excelencia de su desempeño como servidores públicos.
 categories: Trabajo
 topics: Empleo público
-text: Impulsaremos un programa incentivado de mentorización para que el personal funcionario con mayor experiencia acompañe y tutorice al personal recién incorporado, acelerando así la formación práctica de estos y robusteciendo la excelencia de su desempeño como servidores públicos.

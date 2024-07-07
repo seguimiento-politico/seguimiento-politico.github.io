@@ -1,6 +1,6 @@
 id: 2596edd5-f744-498c-b335-daad2172cdd4
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 23
+parent_chapter: e95ad0a3-fee6-46e6-ab65-6359fefcd3f9
+text: Garantizaremos los tratamientos de reproducción asistida a todas las mujeres, independientemente de su orientación sexual y estado civil, una vez restablecido este derecho en la cartera de servicios comunes del Sistema Nacional de Salud.
 categories: Derechos y servicios sociales
 topics: Derechos sexuales y reproductivos
-text: Garantizaremos los tratamientos de reproducción asistida a todas las mujeres, independientemente de su orientación sexual y estado civil, una vez restablecido este derecho en la cartera de servicios comunes del Sistema Nacional de Salud.

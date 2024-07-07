@@ -1,7 +1,6 @@
 id: 189e5f48-16a1-4786-8192-90398e894006
 type: promise
-parent_statement: e92ead15-5470-443e-a01c-1b351a9304fe
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Trabajo
+parent_statement: e92ead15-5470-443e-a01c-1b351a9304fe
+parent_chapter: 8334330f-156c-4154-9c8c-27f20def2bb6
 text: 'Ampliaremos hasta la renta media (37.800€) el umbral para acceder a las medidas de apoyo a los afectados por la subida de tipos de interés de las hipotecas: ampliación de crédito hasta 7 años y congelación de cuota de 1 año.'
+categories: Trabajo

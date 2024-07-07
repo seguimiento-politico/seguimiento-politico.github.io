@@ -1,6 +1,6 @@
 id: d9c655f0-4cde-4b05-a8ec-1694ab7decbb
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 22
-categories: Justicia
+parent_chapter: 91b082ef-25b4-4c8b-a3db-72d12a9e3600
 title: Modernizaremos el sistema de acceso a la carrera judicial.
 text: Para ello, nos inspiraremos en los mejores elementos de los sistemas europeos de carrera única judicial y fiscal, previendo mecanismos que garanticen la igualdad de oportunidades con independencia del sexo y de la situación socioeconómica de los aspirantes.
+categories: Justicia

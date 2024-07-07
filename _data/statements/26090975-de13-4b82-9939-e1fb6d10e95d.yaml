@@ -1,6 +1,6 @@
 id: 26090975-de13-4b82-9939-e1fb6d10e95d
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 107
-categories: Educación
+parent_chapter: d74bc2c5-b632-425b-ae29-fb826a1b8e06
 text: Educación afectivo-sexual como barrera ante el acceso a contenidos pornográficos que fomentan la violencia de género y atentan contra la dignidad de las personas, o el uso irresponsable de redes sociales que ponen en riesgo la integridad física y emocional.
+categories: Educación

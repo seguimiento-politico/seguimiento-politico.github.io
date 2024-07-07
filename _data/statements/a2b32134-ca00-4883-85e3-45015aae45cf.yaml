@@ -1,7 +1,6 @@
 id: a2b32134-ca00-4883-85e3-45015aae45cf
 type: promise
-parent_statement: 91e6884a-93e3-4bd4-935b-1a83115378c3
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Industria
+parent_statement: 91e6884a-93e3-4bd4-935b-1a83115378c3
+parent_chapter: 7c79fe71-f119-4b1d-a348-2b181c21b108
 text: Reforma del mercado marginalista con el objetivo, a medio plazo, de eliminarlo y sacar, a corto plazo del mercado las energías inframarginales no gestionables, como la nuclear. También apostaremos por todos los mecanismos bilaterales y a plazo, tanto por PPA (Power Purchase Agreement) como por CFD (Contract for Difference). También realizaremos subastas de capacidad, incluyendo almacenamiento e inclusión de la demanda y almacenamiento en consumo.
+categories: Industria

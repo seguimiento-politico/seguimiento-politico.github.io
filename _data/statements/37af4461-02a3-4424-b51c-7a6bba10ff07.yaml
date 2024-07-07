@@ -1,6 +1,6 @@
 id: 37af4461-02a3-4424-b51c-7a6bba10ff07
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 92
+parent_chapter: 3cb774e5-f8dc-461d-9d1f-fb20c8f8ca08
+text: Se impulsará la digitalización de los sistemas de información en las confederaciones hidrográficas, tanto para mejorar la gestión del agua y el acceso a los datos, como para facilitar los trámites que deben realizar la ciudadanía, mediante la implantación de “ventanillas únicas” y de registros electrónicos de derechos de agua.
 categories: Agua, Medioambiente
 topics: Cambio climático, Agua, Sequía
-text: Se impulsará la digitalización de los sistemas de información en las confederaciones hidrográficas, tanto para mejorar la gestión del agua y el acceso a los datos, como para facilitar los trámites que deben realizar la ciudadanía, mediante la implantación de “ventanillas únicas” y de registros electrónicos de derechos de agua.

@@ -1,12 +1,13 @@
 id: 8ae11251-11d6-4aaf-82f2-5d21aea0acdd
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 35
+parent_chapter: bf3435f7-cf81-48d5-8a9c-30b550267d95
+text: Impulsaremos sistemas de contratación del profesorado transparentes basados en el mérito y la capacidad. Favoreceremos y fomentaremos la movilidad entre universidades, flexibilizando los requisitos y promoviendo la formación de equipos académicos y de investigación competitivos.
 categories: Educación
 topics: Universidad
-text: Impulsaremos sistemas de contratación del profesorado transparentes basados en el mérito y la capacidad. Favoreceremos y fomentaremos la movilidad entre universidades, flexibilizando los requisitos y promoviendo la formación de equipos académicos y de investigación competitivos.

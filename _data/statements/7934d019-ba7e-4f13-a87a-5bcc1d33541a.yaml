@@ -1,6 +1,6 @@
 id: 7934d019-ba7e-4f13-a87a-5bcc1d33541a
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 33
-categories: Derechos y servicios sociales
+parent_chapter: f6b1da17-dc9f-4173-bb8d-5c472a4a169a
 text: Se reconocerá la nacionalidad española a las personas descendientes de progenitores españoles nacidos en el extranjero en cualquier momento. Estas personas podrán optar por la nacionalidad española en caso de que sus madres, padres, abuelas o abuelos adquirieran la nacionalidad del país de acogida. A esto se añaden los casos de quienes perdieron la nacionalidad en el exilio causado por la Guerra Civil y la dictadura, a quienes se les reconocerá con el fin de saldar esa deuda histórica.
+categories: Derechos y servicios sociales

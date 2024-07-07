@@ -1,0 +1,51 @@
+name: Competencia desleal
+other:
+- &id002
+  id: 24753f7f-9403-4d86-89c9-4624667c5888
+  parties:
+  - VOX
+- &id003
+  id: c5037752-555c-4e4c-86ae-57a00f2380a8
+  parties:
+  - VOX
+- &id004
+  id: b5607865-b4ca-4e0f-ae05-e96d4c1dd5c8
+  parties:
+  - VOX
+- &id005
+  id: 666fa654-af9f-496b-b5be-9a3aa1155443
+  parties:
+  - VOX
+- &id006
+  id: e985ed68-5d08-4ffb-8f53-09806c2f08c2
+  parties:
+  - VOX
+- &id007
+  id: fb1831bb-a713-4016-9e24-f26c31bf4bc7
+  parties:
+  - VOX
+other_count: 6
+position_negative:
+- &id001
+  id: 0db5e18f-91ae-4667-b6ff-c9de0fcce22e
+  parties:
+  - VOX
+position_negative_count: 1
+position_positive: []
+position_positive_count: 0
+proposed_actions:
+- *id001
+proposed_actions_count: 1
+statements:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+statements_count: 7
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

@@ -1,6 +1,6 @@
 id: 552638b2-2b41-4d03-a76d-ab89bd91c946
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 99
+parent_chapter: 4b1a1fd6-83f2-4e8c-a775-7e65f72f50be
 title: Incluir la lucha contra el cambio climático en el sistema educativo.
 text: Otorgaremos al cambio climático la importancia que merece entre los contenidos educativos, respondiendo al reto que las generaciones más jóvenes han lanzado en esta lucha por el planeta Para ello, se aumentará la formación sobre estas materias en los currículos y se mejorarán los comedores escolares hacia una alimentación de calidad, de cercanía y prestada con respeto de los derechos laborales

@@ -1,7 +1,6 @@
 id: bfbe3df9-be22-42ba-95c9-b9370c0b418b
 type: promise
-parent_statement: 8ff90c65-f318-4179-a6be-0bbe8d1dd3a1
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
+parent_statement: 8ff90c65-f318-4179-a6be-0bbe8d1dd3a1
+parent_chapter: d5bc3185-7cac-4cbc-9ca4-df232e4c8a2f
+text: Eliminación de los privilegios penitenciarios (salarios, seguridad social) a los presos condenados por terrorismo y a inmigrantes ilegales.
 categories:
 - Justicia
-text: Eliminación de los privilegios penitenciarios (salarios, seguridad social) a los presos condenados por terrorismo y a inmigrantes ilegales.

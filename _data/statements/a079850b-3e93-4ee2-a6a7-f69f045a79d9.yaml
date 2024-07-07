@@ -1,6 +1,6 @@
 id: a079850b-3e93-4ee2-a6a7-f69f045a79d9
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 48
-categories: Política internacional
+parent_chapter: b5f12909-b76e-47aa-bc10-2eee3574ca31
 text: Defenderemos el apoyo y la sol  idar  idad integral con Ucrania en respuesta a la injustificada agresión rusa y el fortalecimiento de la vía diplomática para lograr una paz justa y duradera alineada con las aspiraciones del pueblo ucraniano y con los principios de las resoluciones de la Asamblea General y de la Carta de las Naciones Un  idas, particularmente el respeto a la soberanía y la integr  idad territorial de los Estados.
+categories: Política internacional

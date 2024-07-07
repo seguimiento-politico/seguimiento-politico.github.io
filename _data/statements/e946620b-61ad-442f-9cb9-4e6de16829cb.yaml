@@ -1,12 +1,13 @@
 id: e946620b-61ad-442f-9cb9-4e6de16829cb
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 18
+parent_chapter: b019b40e-f2ac-4d25-bf11-14a963b4bdaf
+text: Reformaremos la regla de gasto de acuerdo a los estándares europeos y para garantizar la financiación adecuada de todos los servicios públicos y la sostenibilidad del sistema de pensiones.
 categories:
 - Impuestos y financiación pública
-text: Reformaremos la regla de gasto de acuerdo a los estándares europeos y para garantizar la financiación adecuada de todos los servicios públicos y la sostenibilidad del sistema de pensiones.

@@ -1,7 +1,6 @@
 id: c2f8433c-fd4e-4f5e-abe6-96b2c217a618
 type: promise
-parent_statement: fb269595-8341-48d0-b45b-1c0d5110ddd7
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: fb269595-8341-48d0-b45b-1c0d5110ddd7
+parent_chapter: 5d726eb0-d9d8-487a-b54a-76273c1b0a4a
+text: Reforzaremos y adaptaremos la regulación de propiedad intelectual, de identidad y seguridad, para adaptarla a las nuevas realidades del proceso de transformación digital.
 categories: Economía
 topics: Digitalización
-text: Reforzaremos y adaptaremos la regulación de propiedad intelectual, de identidad y seguridad, para adaptarla a las nuevas realidades del proceso de transformación digital.

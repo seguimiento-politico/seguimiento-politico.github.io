@@ -1,6 +1,6 @@
 id: 86d4070d-c830-4497-8fc1-3cd675686257
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 26
-categories: Vivienda
+parent_chapter: 2dd22b48-2a09-406f-aa79-a41041803506
 text: Es urgente ampliar la oferta de vivienda asequible. Para ello impulsaremos la rehabilitación y el alquiler, junto con la promoción de más vivienda pública (actualmente está en marcha la construcción de 20.000 viviendas protegidas). El principal objetivo es crear un gran parque de alquiler público de precio asequible, que contribuirá a moderar el crecimiento de los precios de toda la vivienda en alquiler, cuya evolución será objeto de un índice estatal. Se impulsará la actividad de los promotores públicos y de las cooperativas, y se incentivará la oferta de alquiler asequible con medidas fiscales.
+categories: Vivienda

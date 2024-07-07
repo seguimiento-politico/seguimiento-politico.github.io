@@ -1,11 +1,12 @@
 id: 0f3abf3f-c8f9-4b49-91de-02c1b15ecbd3
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 62
-categories: Infraestructuras
+parent_chapter: e7e32caa-a667-406f-a8b0-882e269ca655
 text: Auditaremos los núcleos de transporte público nacional de las grandes ciudades para mejorar, con el conjunto de administraciones responsables, la movilidad sostenible; con nuevas prestaciones y creando movilidad punto a punto (impulso del coche autónomo y vehículos sostenibles, aparcamiento gratuitos disuasorios, estacionamiento de bicicletas...). Apostaremos por los servicios de proximidad para el ciudadano.
+categories: Infraestructuras

@@ -1,7 +1,6 @@
 id: ee2f0c12-c2b5-42fd-8f1c-e2e5d69b85f4
 type: promise
-parent_statement: be9428ea-bd14-4f00-b555-67f088de447d
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: be9428ea-bd14-4f00-b555-67f088de447d
+parent_chapter: 4a4ec318-0db9-4da1-9515-2b36e808a75f
+text: Refuerzo de los controles de residuos de pesticidas en alimentos y estableciendo un sistema más seguro que no abuse del «uso excepcional».
 categories: Consumo
 topics: Alimentación saludable
-text: Refuerzo de los controles de residuos de pesticidas en alimentos y estableciendo un sistema más seguro que no abuse del «uso excepcional».

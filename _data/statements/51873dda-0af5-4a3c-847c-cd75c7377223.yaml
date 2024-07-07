@@ -1,6 +1,6 @@
 id: 51873dda-0af5-4a3c-847c-cd75c7377223
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 220
-categories: Deporte
+parent_chapter: 296df921-76ce-4a26-8cc7-612e0c14d44b
 text: Implementaremos el programa Reto De, por el que las zonas rurales contarán con beneficios fiscales en materia deportiva para la adecuación de instalaciones deportivas.
+categories: Deporte

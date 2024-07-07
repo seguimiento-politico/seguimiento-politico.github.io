@@ -1,6 +1,6 @@
 id: 89db4cb2-a8c5-4374-95be-f4fd17c289ab
-type: declaration
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -8,4 +8,5 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_chapter: 234f712b-aaa0-45c7-92d9-e5641ca46ec2
 text: 'La pandemia del COVID-19 y la guerra de Ucrania, con sus consecuencias económicas, han supuesto desafíos imprevisibles en los últimos años, pero también una oportunidad. La oportunidad de hacer de España un país más resiliente, crear empleo, modernizar nuestra industria, mejorar nuestra competitividad y prepararnos para el futuro. Estamos en el momento de evitar soluciones a corto plazo y con poca visión de futuro y construir la España de las próximas décadas. En este proyecto de país, la transición ecológica justa jugará un papel central en lo económico, lo social, lo laboral, lo medioambiental y lo democrático. <br><br> La transición ecológica justa (TEJ) es el proceso de reorganización de la vida en común que tiene por finalidad garantizar una vida digna a todas las personas, en un planeta con límites ya superados, que compartimos y que estamos obligados a cuidar para las próximas generaciones. <br><br>El TEJ tiene los siguientes objetivos: <br> ● Garantizar que todas las personas y comunidades puedan disfrutar de una vida segura y digna compatible con la restauración y la preservación de sus entornos sociales, naturales y territoriales. <br> ● Descarbonizar el sistema económico y reducir la huella ecológica para compatibilizar la cobertura de las necesidades sociales con el abordaje del cambio climático y las biocapacidades nacionales y globales. <br> ● Adaptar el universo del trabajo y empleo a las circunstancias de la crisis ecológica y climática y sus consecuencias sociales. <br> ● Desplegar procesos que hagan frente a las situaciones de contingencia y urgencia derivadas de los efectos de la crisis ecológica y climática. <br> ● Detener los principales procesos de destrucción ecológica, restaurar y favorecer la resiliencia de los ecosistemas clave del país y proteger la vida en el planeta. <br> ● Transitar hacia modelos territoriales justos y sostenibles que generen nuevas relaciones de cooperación entre los ámbitos urbanos, rurales y naturales. <br> ● Invertir en investigación y tecnociencia orientadas a resolver los retos que plantea una transición ecológica justa. <br> ● Construir un soporte económico y financiero que haga viable la transición ecológica justa. <br> Con el fin de cumplir con estos objetivos, Sumar se presenta a las elecciones del próximo 23J con el firme compromiso de tomar medidas dirigidas a mitigar la crisis climática y ecológica, teniendo en cuenta los principios de justicia social, justicia distributiva y justicia participativa.'

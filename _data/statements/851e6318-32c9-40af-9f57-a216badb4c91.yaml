@@ -1,7 +1,6 @@
 id: 851e6318-32c9-40af-9f57-a216badb4c91
 type: promise
-parent_statement: 3f8ee0f1-769e-42ec-a7f3-58b1de6fd9ce
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 3f8ee0f1-769e-42ec-a7f3-58b1de6fd9ce
+parent_chapter: 66cf6219-da39-4941-aa1a-c1b88e89ed00
+text: 'Ciudades de los 15 minutos. Legislaremos para que las nuevas planificaciones urbanas planteen ciudades de distancias cortas a pie y en bicicleta, de manera que todos los barrios tengan los mismos derechos garantizados: servicios públicos (escuelas infantiles, colegios, espacios deportivos y centros de salud), comercio local y espacios de ocio (calles con arbolado, parques y jardines). Se invertirá en la infraestructura necesaria para potenciar al máximo la movilidad activa (redes ciclistas, peatonales, reverdecimiento, calidad estancial, etcétera).'
 categories: Transporte
 topics: Movilidad sostenible
-text: 'Ciudades de los 15 minutos. Legislaremos para que las nuevas planificaciones urbanas planteen ciudades de distancias cortas a pie y en bicicleta, de manera que todos los barrios tengan los mismos derechos garantizados: servicios públicos (escuelas infantiles, colegios, espacios deportivos y centros de salud), comercio local y espacios de ocio (calles con arbolado, parques y jardines). Se invertirá en la infraestructura necesaria para potenciar al máximo la movilidad activa (redes ciclistas, peatonales, reverdecimiento, calidad estancial, etcétera).'

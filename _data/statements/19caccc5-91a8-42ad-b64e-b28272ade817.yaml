@@ -1,6 +1,6 @@
 id: 19caccc5-91a8-42ad-b64e-b28272ade817
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 134
+parent_chapter: b5417c2b-2bd9-455f-a227-1ac572dbd434
+children_promises:
+- 1d7e92f5-804b-47b3-9b66-9f7ea8892193
+- 54a9f72f-3f7a-4a73-8ba2-1cbecb1ac283
+- 53c221cd-7da3-4a0a-b3f5-fd0d282a746b
+- 5408007b-b5e8-44f6-8cbc-8046a2a5ec3b
+children_statements: []
+title: Abordaremos de forma urgente el desarrollo reglamentario de la Ley de Memoria Democrática de 2022 y desplegar todas las medidas contenidas en la misma
 categories: Democracia
 topics: Memoria democrática
-title: Abordaremos de forma urgente el desarrollo reglamentario de la Ley de Memoria Democrática de 2022 y desplegar todas las medidas contenidas en la misma
-has_children: true

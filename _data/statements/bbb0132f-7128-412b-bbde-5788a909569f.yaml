@@ -1,6 +1,6 @@
 id: bbb0132f-7128-412b-bbde-5788a909569f
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 52
+parent_chapter: 2d06e79f-d667-441b-b7cf-513970c6ccde
+children_promises:
+- ea64eca4-30af-4008-b7fd-594b59ef998d
+- 89f99ded-8777-4e37-b312-48ed74cde68a
+children_statements: []
+title: Reforma de la Ley de Costas y gestión de inundaciones
 categories: Medioambiente
 topics: Biodiversidad
-title: Reforma de la Ley de Costas y gestión de inundaciones
-has_children: true

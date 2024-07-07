@@ -1,7 +1,6 @@
 id: bd754cae-9ab5-4a7f-a313-05aba5c36117
 type: promise
-parent_statement: 9c53b29c-0e5a-4fb9-887a-1aef462e4d6c
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Educación
+parent_statement: 9c53b29c-0e5a-4fb9-887a-1aef462e4d6c
+parent_chapter: 869a602d-b512-418c-a46e-5ebd811152f6
 text: Para hacer posible este modelo educativo resulta esencial bajar la ratio de alumnado por aula y aumentar el número de docentes y otros profesionales especialistas con el fin de que trabajen de forma conjunta en la atención a las necesidades y la diversidad de todo el alumnado.
+categories: Educación

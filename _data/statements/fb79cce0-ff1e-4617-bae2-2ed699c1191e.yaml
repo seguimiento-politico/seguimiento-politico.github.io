@@ -1,6 +1,6 @@
 id: fb79cce0-ff1e-4617-bae2-2ed699c1191e
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 55
+parent_chapter: 9aeb9012-3576-4df8-8b63-fc5f5db91a07
+children_promises:
+- 1b009c28-7dbd-40d2-b45e-f08594dccd31
+children_statements: []
+title: Avanzaremos en los modelos de identidad digital para permitir la acreditación y firma digital a través de dispositivos móviles de forma sencilla y cibersegura.
 categories: Ciencia y tecnología
 topics: Ciberseguridad
-title: Avanzaremos en los modelos de identidad digital para permitir la acreditación y firma digital a través de dispositivos móviles de forma sencilla y cibersegura.
-has_children: true

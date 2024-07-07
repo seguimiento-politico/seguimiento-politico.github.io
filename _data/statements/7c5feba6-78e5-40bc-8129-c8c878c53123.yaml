@@ -1,6 +1,6 @@
 id: 7c5feba6-78e5-40bc-8129-c8c878c53123
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_chapter: 87339bb0-0380-4461-82af-1e8623367e02
+text: 'La soledad no deseada es un problema global que puede afectar a personas diversas de cualquier edad, sexo y origen: un cambio de residencia, la pérdida de un ser querido, la no aceptación entre el grupo de iguales, la pérdida del empleo o de ingresos, la falta de círculos y redes familiares y comunitarias, situaciones de violencia o discriminación son algunas circunstancias que pueden desencadenar la soledad no deseada. Afecta especialmente a mujeres mayores y a jóvenes., y condiciona el bienestar social y emocional, vinculándose con hábitos poco saludables, con una percepción de inseguridad, y con el deterioro de las relaciones sociales, la salud física y la mental. Los y las socialistas afrontaremos el reto de la soledad no deseada desde una perspectiva de ciclo de vida.'
 categories: Derechos y servicios sociales
 topics: Soledad
-text: 'La soledad no deseada es un problema global que puede afectar a personas diversas de cualquier edad, sexo y origen: un cambio de residencia, la pérdida de un ser querido, la no aceptación entre el grupo de iguales, la pérdida del empleo o de ingresos, la falta de círculos y redes familiares y comunitarias, situaciones de violencia o discriminación son algunas circunstancias que pueden desencadenar la soledad no deseada. Afecta especialmente a mujeres mayores y a jóvenes., y condiciona el bienestar social y emocional, vinculándose con hábitos poco saludables, con una percepción de inseguridad, y con el deterioro de las relaciones sociales, la salud física y la mental. Los y las socialistas afrontaremos el reto de la soledad no deseada desde una perspectiva de ciclo de vida.'

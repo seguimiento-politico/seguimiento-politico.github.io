@@ -1,6 +1,6 @@
 id: d2a1febd-7323-4bcb-a963-ac52ddfc16d3
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 93
-categories: Derechos y servicios sociales
-topics: Medioambiente saludable, Contaminación
+parent_chapter: a6b0904c-226b-4036-b418-18f80e2f7fbb
 title: Promoveremos la eficiencia energética de barrios y ciudades desde la equidad y justicia social.
 text: Impulsando la rehabilitación energética de los barrios para mejorar la habitabilidad y el confort de las viviendas y reducir el consumo energético de los hogares y la mejora de la calidad edificatoria y la eficiencia energética compatible con una mayor disponibilidad de vivienda asequible y accesible desplegando la Ley de Vivienda.
+categories: Derechos y servicios sociales
+topics: Medioambiente saludable, Contaminación

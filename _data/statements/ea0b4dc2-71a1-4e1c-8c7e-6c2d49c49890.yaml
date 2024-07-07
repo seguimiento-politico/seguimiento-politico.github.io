@@ -1,6 +1,6 @@
 id: ea0b4dc2-71a1-4e1c-8c7e-6c2d49c49890
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,8 +8,9 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_chapter: 786b037f-dfff-4e62-9bfb-4b0225b43100
+text: 'Este fenómeno reciente tiene mayor incidencia sobre las mujeres y las niñas. La Unión Europea avanza en la definición y la regulación de este problema. Tal como señala el Parlamento Europeo, a medida que el mundo se mueve en línea, también lo hacen las formas de violencia que ya afectan a las mujeres y las niñas de forma desproporcionada, y las tecnologías digitales les permiten adoptar nuevas formas esta dimensión de la violencia posibilitada por internet, el correo electrónico, los teléfonos inteligentes y las plataformas de redes sociales. Forma parte de un conjunto más amplio de violencia de género, y sus manifestaciones cambiantes incluyen la incitación al odio sexista, el trollo, el doxing, el acoso (sexual) en línea y el acecho, las amenazas de violaciones o de muerte, la extorsión de carácter sexual y otras formas de abuso basado en la imagen. Al igual que otras formas de violencia de género, se basa en diferencias y relaciones de poder desiguales entre mujeres y hombres. Lo que diferencia a la ciberviolencia es el anonimato que confiere a los autores y el hecho de que puede llevarse a cabo desde cualquier lugar y escala y de modo indeleble.<br><br> Siguiendo las recomendaciones y el marco europeo:'
 categories: Seguridad y defensa
 topics:
 - Ciberviolencia
 - Ciberacoso
-text: 'Este fenómeno reciente tiene mayor incidencia sobre las mujeres y las niñas. La Unión Europea avanza en la definición y la regulación de este problema. Tal como señala el Parlamento Europeo, a medida que el mundo se mueve en línea, también lo hacen las formas de violencia que ya afectan a las mujeres y las niñas de forma desproporcionada, y las tecnologías digitales les permiten adoptar nuevas formas esta dimensión de la violencia posibilitada por internet, el correo electrónico, los teléfonos inteligentes y las plataformas de redes sociales. Forma parte de un conjunto más amplio de violencia de género, y sus manifestaciones cambiantes incluyen la incitación al odio sexista, el trollo, el doxing, el acoso (sexual) en línea y el acecho, las amenazas de violaciones o de muerte, la extorsión de carácter sexual y otras formas de abuso basado en la imagen. Al igual que otras formas de violencia de género, se basa en diferencias y relaciones de poder desiguales entre mujeres y hombres. Lo que diferencia a la ciberviolencia es el anonimato que confiere a los autores y el hecho de que puede llevarse a cabo desde cualquier lugar y escala y de modo indeleble.<br><br> Siguiendo las recomendaciones y el marco europeo:'

@@ -1,6 +1,6 @@
 id: 1fb96c9f-36a6-44c0-86f0-f3831e6eede2
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 109
+parent_chapter: f91bc08f-3d6b-4f78-a00a-810f7184cf6a
 text: Crear un impuesto para las grandes fortunas, con el fin de recaudar un 1 % del PIB de patrimonios superiores a un millón de euros, y de forma progresiva Se trata de un impuesto similar al que se está proponiendo para la UE y Estados Unidos Tendrá un mínimo exento por primera vivienda de 400 000 euros y gravará con un 2 % los patrimonios de más de un millón de euros, con un 2,5 % los patrimonios de más de 10 millones de euros, con un 3 % los patrimonios superiores a los 50 millones y con un 3,5 % los patrimonios de más de 100 millones de euros, de forma que la mayor parte del impuesto recaiga sobre los mil patrimonios más altos del país Este impuesto sustituirá al actual impuesto sobre el patrimonio, que es inoperativo, y no podrá bonificarse por parte de las comunidades autónomas

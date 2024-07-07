@@ -1,6 +1,6 @@
 id: e7349a00-b099-4573-9dc4-bfb7debb30ca
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,20 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 90
-categories: Sanidad
+parent_chapter: 17e4c412-8ac4-4992-848a-422903075ee3
+children_promises:
+- def6b92e-cea7-482f-ae1e-1e94f2e1f37c
+- 7b5bbe44-2c64-4644-be6d-6ee64c23de64
+- 63dae020-5c46-48d7-a3b5-7a524f038f74
+- c8ea9758-e99d-41c6-a62d-d4a647094b0d
+- cf67d951-c438-43a4-a28a-cf859388e1d6
+- 7519d8a1-8d16-4ac2-8b49-6b163460251d
+- 0b59b706-aa3a-4348-ab22-e9bbb2e150b2
+- 3cd45ccb-914d-45e1-8200-78bb9e5cbbc8
+- d85f8e4b-07a0-461f-86df-7d18c3824847
+- de1be2fa-35f2-4ce5-be48-3ee0a10eea91
+- 611440a3-a3e0-451e-9fee-78a9180ad110
+children_statements:
+- 175bc0cb-09ba-4a20-8e8b-15a34099a6d9
 title: Salud mental.
-has_children: true
+categories: Sanidad

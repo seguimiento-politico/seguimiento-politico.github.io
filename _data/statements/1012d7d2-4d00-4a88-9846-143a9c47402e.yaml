@@ -1,6 +1,6 @@
 id: 1012d7d2-4d00-4a88-9846-143a9c47402e
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 91
-categories: Sanidad
+parent_chapter: 17e4c412-8ac4-4992-848a-422903075ee3
+children_promises:
+- 2588d057-e396-4c6b-a368-34bd01cc9aad
+- 766c8117-cc0c-422a-8e0d-94754ec89ea5
+- 15810f2b-5795-4d71-8bc2-47f49521bf15
+children_statements: []
 title: Una farmacia al servicio del bien común
-has_children: true
+categories: Sanidad

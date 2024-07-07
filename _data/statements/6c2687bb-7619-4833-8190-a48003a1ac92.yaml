@@ -1,6 +1,6 @@
 id: 6c2687bb-7619-4833-8190-a48003a1ac92
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 48
-categories: Sanidad
+parent_chapter: 5c8d94eb-aad0-4b93-8408-511875a0e54f
 text: GARANTIZAREMOS UN MEJOR ACCESO A DIAGNÓSTICO Y TRATAMIENTO A LOS PACIENTES CON ENFERMEDADES RARAS O POCO FRECUENTES, independientemente de la Comunidad Autónoma donde residan. Promoveremos la ampliación de la cartera común básica del programa de cribado neonatal en el SNS y mejoraremos los contenidos del Registro Estatal de Pacientes con Enfermedades Raras.
+categories: Sanidad

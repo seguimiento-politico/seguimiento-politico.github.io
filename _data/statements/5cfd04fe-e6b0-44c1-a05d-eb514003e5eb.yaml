@@ -1,7 +1,6 @@
 id: 5cfd04fe-e6b0-44c1-a05d-eb514003e5eb
 type: promise
-parent_statement: e70db245-2a53-429a-bee2-5026732c4079
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Impuestos y financiación pública
+parent_statement: e70db245-2a53-429a-bee2-5026732c4079
+parent_chapter: bc87da00-c24a-4c2f-8e57-ef8fee857d81
 text: Reforma de la normativa del IBI. Para que los municipios que así lo decidan puedan establecer escalas según el valor catastral del bien para hacerlo progresivo.
+categories: Impuestos y financiación pública

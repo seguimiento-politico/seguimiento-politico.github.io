@@ -1,6 +1,6 @@
 id: b1046014-ef84-4ed6-ab3e-6dda7d67cf6d
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 240
-categories: Administración pública
+parent_chapter: 251474fc-1fa6-4749-85be-3ba457500342
 text: Garantizaremos por ley un tiempo máximo de respuesta en los servicios Públicos y estableceremos un tiempo máximo de 30 días para la recepción de prestaciones sociales más importantes como la prestación por desempleo o a las ayudas a la dependencia. Con ello los servicios públicos se legitiman ante la ciudadanía y se orientan hacia la gestión por objetivos.
+categories: Administración pública

@@ -1,6 +1,6 @@
 id: 8d53e22d-84a4-4629-8e75-1683c6456c7e
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 158
+parent_chapter: 54595511-3d7f-4c2e-ab9a-910d0b95292d
+text: Continuaremos los trabajos para aprobar la ley integral contra la trata de seres humanos con fines de explotación sexual.
 categories: Derechos y servicios sociales
 topics: Prostitución
-text: Continuaremos los trabajos para aprobar la ley integral contra la trata de seres humanos con fines de explotación sexual.

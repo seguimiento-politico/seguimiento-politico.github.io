@@ -1,6 +1,6 @@
 id: ce646808-94de-42fc-9217-37214e6d75b9
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 91
-categories: Seguridad y defensa
+parent_chapter: d2165d9c-4ccd-4649-b6ee-393361a2d9bb
+children_promises:
+- 6a1545f9-5f24-43e7-b8d3-9317fe12343f
+children_statements: []
 text: Las Academias militares serán centros de la Universidad de Defensa. Homologación civil de los estudios y especialidades militares, así como de las competencias profesionales en materia de seguridad privada, protección de personas y explosivos. El tiempo de servicio prestado en las Fuerzas Armadas servirá de mérito para el acceso al empleo público, con reserva de plazas.
-has_children: true
+categories: Seguridad y defensa

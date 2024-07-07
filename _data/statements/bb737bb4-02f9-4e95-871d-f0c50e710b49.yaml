@@ -1,6 +1,6 @@
 id: bb737bb4-02f9-4e95-871d-f0c50e710b49
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 108
+parent_chapter: 53e985a7-ccca-4361-878f-54715b325327
+text: 'Reconoceremos el buen desarrollo profesional docente con el respaldo y compromiso de la administración a través de mayores posibilidades de acceso a los distintos puestos de trabajo propios de la función docente; y con la mejora de las condiciones de trabajo, con especial énfasis en las nuevas formas de organizar y ejercer la enseñanza: adecuación de horarios.'
 categories: Educación
 topics: Profesorado
-text: 'Reconoceremos el buen desarrollo profesional docente con el respaldo y compromiso de la administración a través de mayores posibilidades de acceso a los distintos puestos de trabajo propios de la función docente; y con la mejora de las condiciones de trabajo, con especial énfasis en las nuevas formas de organizar y ejercer la enseñanza: adecuación de horarios.'

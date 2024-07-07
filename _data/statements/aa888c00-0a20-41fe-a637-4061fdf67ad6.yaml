@@ -1,6 +1,6 @@
 id: aa888c00-0a20-41fe-a637-4061fdf67ad6
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 225
+parent_chapter: 452b6011-bf84-402e-92d3-0aa925d7de49
+text: Desarrollaremos normativas que permitan cambios de usos de edificios según las necesidades habitacionales, en coordinación con los ayuntamientos, para reconvertir edificios públicos y privados no utilizados.
 categories: Vivienda
 topics:
 - Rehabilitación
 - Incentivos, ayudas y subvenciones
-text: Desarrollaremos normativas que permitan cambios de usos de edificios según las necesidades habitacionales, en coordinación con los ayuntamientos, para reconvertir edificios públicos y privados no utilizados.

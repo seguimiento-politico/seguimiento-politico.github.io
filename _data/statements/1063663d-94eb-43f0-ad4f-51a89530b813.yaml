@@ -1,7 +1,6 @@
 id: 1063663d-94eb-43f0-ad4f-51a89530b813
 type: promise
-parent_statement: 7a830522-7b59-4632-9e20-73d8db436aa3
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Urbanismo y ciudades
+parent_statement: 7a830522-7b59-4632-9e20-73d8db436aa3
+parent_chapter: da4a5e62-c6b6-45b0-a08b-611f6d470a08
 text: La urgencia de la situación nos obliga a implementar cambios en nuestros pueblos, barrios y ciudades que permitan un mayor control sobre los efectos de las altas temperaturas, las sequías y las lluvias torrenciales u otras situaciones climáticas extremas.
+categories: Urbanismo y ciudades

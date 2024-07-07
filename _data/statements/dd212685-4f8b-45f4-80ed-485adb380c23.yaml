@@ -1,6 +1,6 @@
 id: dd212685-4f8b-45f4-80ed-485adb380c23
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 91
+parent_chapter: 3cb774e5-f8dc-461d-9d1f-fb20c8f8ca08
+text: Reformaremos el marco tarifario para la implantación de precios que integren de forma eficiente todas las fuentes que alimenten en los distintos territorios los sistemas de gestión, aumentando la flexibilidad de los sistemas de explotación mediante conexiones de las distintas fuentes de suministro entre sí y de éstas con los puntos de demanda.
 categories: Agua, Medioambiente
 topics: Cambio climático, Agua, Sequía
-text: Reformaremos el marco tarifario para la implantación de precios que integren de forma eficiente todas las fuentes que alimenten en los distintos territorios los sistemas de gestión, aumentando la flexibilidad de los sistemas de explotación mediante conexiones de las distintas fuentes de suministro entre sí y de éstas con los puntos de demanda.

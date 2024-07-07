@@ -1,7 +1,6 @@
 id: 2f40dd4b-ec40-4835-beda-95a7b1277f0e
 type: promise
-parent_statement: 3bb95d49-f4ec-44f4-8a56-6ea75cdc55e9
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Banca
+parent_statement: 3bb95d49-f4ec-44f4-8a56-6ea75cdc55e9
+parent_chapter: 1fb125f8-bab0-49cf-a4a8-7924f09dfad1
 text: Impulsaremos la economía “senior” y la participación activa de las personas jubiladas.
+categories: Banca

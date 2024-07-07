@@ -1,6 +1,6 @@
 id: d12cd151-18e0-4a00-b6a7-6c23eef34069
-type: declaration
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Industria
+parent_chapter: 7c79fe71-f119-4b1d-a348-2b181c21b108
 text: La guerra de Ucrania ha confirmado la necesidad de unos objetivos ambiciosos respecto a la implantación de energía renovable en Europa, acelerando su cumplimiento. A la crisis climática, se le ha unido la seguridad y la autonomía energética como razones que confirman la necesidad de avanzar, al mayor ritmo posible, hacia un sistema eléctrico 100% renovable.<br><br> En paralelo a la implantación de energías renovables hay que avanzar en la eficiencia y el ahorro energético. Según la Agencia Internacional de la Energía, la eficiencia energética representa el 40% de la reducción de emisiones necesaria antes de 2040 para cumplir nuestros compromisos climáticos, al mismo tiempo que conlleva una mejora muy significativa de nuestra competitividad y ahorro económico.<br><br> Por último, uno de los retos del sistema eléctrico del futuro es la participación ciudadana en la transformación energética, mediante figuras como el autoconsumo y las comunidades energéticas, así como una estricta regulación que limite el poder del oligopolio y dirija la inversión de las grandes corporaciones dirigidas a establecer sistemas de energía distribuida y alcanzar el bien común.
+categories: Industria

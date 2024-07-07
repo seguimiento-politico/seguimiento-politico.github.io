@@ -1,0 +1,31 @@
+id: e8cb05ac-9cb5-4bc4-9a95-c3bb98f4ec20
+type: statement
+parent_document: a613c4b6-f9dc-4926-8b9a-b87c233e5a75
+parties:
+- VOX
+election_type: europeas
+election_date: '2024-06-09'
+publication_date: '2024-05-30'
+page: 8
+text: Los ODS buscan crear un “nuevo contrato social global” a través de la modificación de las costumbres y tradiciones, el modelo económico y la idiosincrasia de cada Nación, hasta el punto de modificar derechos y libertades reconocidos en los ordenamientos jurídicos nacionales y de inmiscuirse en aspectos íntimos y cotidianos de la vida de las personas. Se trata, en definitiva, de controlar las políticas de los gobiernos, ignorando y borrando la realidad de las Naciones. Un claro ataque a la soberanía de las Naciones europeas, a sus fronteras y a las particularidades de sus pueblos.
+categories:
+- Nacionalismo y patriotismo
+- Cultura
+topics:
+- name: Costumbres
+  position_positive: null
+  dynamic: conservative
+- name: ODS
+  position_negative:
+  - text: modificación de costumbres y tradiciones
+  - text: modificación del modelo económico
+  - text: modificación de idiosincrasia de la Nación
+  - text: modificación derechos y libertades
+  - text: limitación libertad individual
+  - text: ataque a la soberanía nacional
+- name: Modelo económico
+  dynamic: conservative
+- name: Neoliberalismo
+  position_positive: null
+- name: Soberanía nacional
+  position_positive: null

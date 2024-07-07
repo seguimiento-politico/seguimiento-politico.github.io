@@ -1,7 +1,6 @@
 id: bac3a89a-d128-45a9-bb57-dc6de763f8c5
-type: declaration
-parent_statement: d77054ca-dab2-4eb1-b4c2-069e1c2257c0
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -9,5 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 96
-categories: Política internacional
+parent_statement: d77054ca-dab2-4eb1-b4c2-069e1c2257c0
+parent_chapter: 65567664-6676-4d53-b234-fd4300e68287
 text: 'La cultura es la mejor imagen de nuestro país en el mundo. España cuenta con un riquísimo acervo cultural y con instituciones culturales de primer orden. Un potencial gigantesco que debemos aprovechar y poner al servicio de una idea coherente y plural de nuestra cultura. Rechazamos tópicos y visiones sectarias de la cultura, expresión espontánea de lo que somos como sociedad: aspiramos a una cultura de todos y para todos.'
+categories: Política internacional

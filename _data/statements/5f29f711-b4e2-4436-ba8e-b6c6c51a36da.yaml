@@ -1,11 +1,12 @@
 id: 5f29f711-b4e2-4436-ba8e-b6c6c51a36da
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 72
-categories: Economía
+parent_chapter: 930edcb6-d23f-4673-af50-fcc5f7634f84
 text: Impulsaremos las medidas precisas para favorecer la integración de los productores en organizaciones que les faciliten la comercialización de sus producciones en las mejores condiciones para la defensa de sus intereses y el logro de precios justos en los mercados. Promoveremos, igualmente, la integración vertical de los sectores, en torno a Interprofesionales que ayuden al entendimiento y al trabajo conjunto entre los diferentes eslabones.
+categories: Economía

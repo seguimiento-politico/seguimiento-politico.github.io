@@ -1,7 +1,6 @@
 id: 90fcfdae-3b98-4f27-b8a8-123d136dc475
 type: promise
-parent_statement: e64d437e-d935-4765-a245-7d4db387d30f
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,6 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 152
+parent_statement: e64d437e-d935-4765-a245-7d4db387d30f
+parent_chapter: 3fad71c1-ef43-4174-89f5-52e6265e7163
+text: Cribado universal. Situar la Atención Primaria de Salud en el primer espacio de detección precoz de la violencia contra las mujeres, con recursos específicos para la derivación en casos de cribados positivos y circuitos de atención y actuación entre los diferentes agentes intervinientes, y que eviten la victimización secundaria. Esta medida adquiere una especial relevancia en los entornos rurales, donde incidiría en garantizar la privacidad de las víctimas.
 categories: Democracia
 topics: Violencia de género
-text: Cribado universal. Situar la Atención Primaria de Salud en el primer espacio de detección precoz de la violencia contra las mujeres, con recursos específicos para la derivación en casos de cribados positivos y circuitos de atención y actuación entre los diferentes agentes intervinientes, y que eviten la victimización secundaria. Esta medida adquiere una especial relevancia en los entornos rurales, donde incidiría en garantizar la privacidad de las víctimas.

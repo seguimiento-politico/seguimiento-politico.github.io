@@ -1,6 +1,6 @@
 id: 728b8ab9-9001-4a8d-92fe-f5e328c47794
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 74
-categories: Urbanismo y ciudades
+parent_chapter: da4a5e62-c6b6-45b0-a08b-611f6d470a08
+children_promises:
+- e1eab15d-6d43-4278-a3d2-9777f8f95f62
+- 4019f94d-a164-478e-aef4-c66b751ff112
+- 24d7434b-fd43-40a4-aac6-0ab46ad1723c
+children_statements:
+- 466da55d-1673-4d36-ae78-166e248f5de1
 title: Renaturalización y regeneración urbana con soluciones basadas en la naturaleza.
-has_children: true
+categories: Urbanismo y ciudades

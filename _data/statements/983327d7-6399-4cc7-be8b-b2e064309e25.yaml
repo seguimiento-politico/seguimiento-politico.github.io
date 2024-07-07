@@ -1,6 +1,6 @@
 id: 983327d7-6399-4cc7-be8b-b2e064309e25
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 72
-categories: Democracia
+parent_chapter: 180fad9e-d9cc-4888-b890-b4bc54ee910c
 text: RECUPERAREMOS LA MALVERSACIÓN en su formulación anterior a la reforma de 2022, adecuando su definición y penas a los estándares europeos. ABORDAREMOS UNA PROFUNDA REVISIÓN DEL CÓDIGO PENAL para mejorar la regulación de los tipos, la proporcionalidad de las penas y adecuarlo a la realidad social, tras las defectuosas reformas parciales acometidas en la última legislatura, como la Ley de garantía integral de la libertad sexual (conocida como ley del Solo Sí es Sí).
+categories: Democracia

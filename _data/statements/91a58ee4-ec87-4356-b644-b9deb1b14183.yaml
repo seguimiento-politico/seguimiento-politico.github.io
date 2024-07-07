@@ -1,6 +1,6 @@
 id: 91a58ee4-ec87-4356-b644-b9deb1b14183
-type: declaration
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,7 +8,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 11
+parent_chapter: 49a1f009-be5a-4a44-ac48-45c1f040a528
+children_promises: []
+children_statements:
+- 49d122a8-4215-40d0-8989-aed86841f018
+- 35b627f4-76ad-4a84-b8e0-0a9bd2451f5d
+- ffa4f816-1bd0-4025-b40d-fe24c01c3c53
+- 85ea838d-a43b-473b-9d57-0d658ca12de1
+title: UN BALANCE DECEPCIONANTE DEL GOBIERNO DE COALICIÓN EN UN PAÍS CON GRANDES FORTALEZAS
 categories: Economía
 topics: Desarrollo sostenible
-title: UN BALANCE DECEPCIONANTE DEL GOBIERNO DE COALICIÓN EN UN PAÍS CON GRANDES FORTALEZAS
-has_children: true

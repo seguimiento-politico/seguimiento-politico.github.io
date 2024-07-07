@@ -1,7 +1,6 @@
 id: cee2f61c-243f-49af-9bd6-fdb7fb9dd1e7
 type: promise
-parent_statement: 3ae8e628-7863-4e03-9aa9-5076dc3fa017
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 3ae8e628-7863-4e03-9aa9-5076dc3fa017
+parent_chapter: c1d2932c-9fc8-4b60-9a6a-8398312cb597
+text: Garantizar por ley la disponibilidad y accesibilidad de piezas de recambio, licencias y manuales de reparación para las personas consumidoras, reparadoras independientes y grupos de reparación comunitaria. El acceso a las piezas de recambio debe garantizarse a precios asequibles y sin grandes tiempos de espera.
 categories: Economía
 topics: Economía circular
-text: Garantizar por ley la disponibilidad y accesibilidad de piezas de recambio, licencias y manuales de reparación para las personas consumidoras, reparadoras independientes y grupos de reparación comunitaria. El acceso a las piezas de recambio debe garantizarse a precios asequibles y sin grandes tiempos de espera.

@@ -1,7 +1,6 @@
 id: abe875ff-b7e8-480f-aa79-1a81330e6f4c
 type: promise
-parent_statement: b82feab1-48c6-47ae-a161-b036b13f25f9
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: b82feab1-48c6-47ae-a161-b036b13f25f9
+parent_chapter: 5ac453aa-319d-4ea3-b4b6-7a63e3dde3ff
+text: Ante el fracaso de los acuerdos de autorregulación de la industria relativos a los mensajes publicitarios para reducir el sobrepeso y la obesidad infantil, se abordará por ley una regulación que, siguiendo los criterios científicos internacionales de la Organización Mundial de la Salud (OMS), proteja a los menores de edad de la exposición a la publicidad de alimentos no saludables en los canales convencionales (TV, radio, prensa y revistas) y en las nuevas tecnología de la información, es decir, redes sociales, internet o influencers.
 categories: Consumo
 topics: Consumo sostenible
-text: Ante el fracaso de los acuerdos de autorregulación de la industria relativos a los mensajes publicitarios para reducir el sobrepeso y la obesidad infantil, se abordará por ley una regulación que, siguiendo los criterios científicos internacionales de la Organización Mundial de la Salud (OMS), proteja a los menores de edad de la exposición a la publicidad de alimentos no saludables en los canales convencionales (TV, radio, prensa y revistas) y en las nuevas tecnología de la información, es decir, redes sociales, internet o influencers.

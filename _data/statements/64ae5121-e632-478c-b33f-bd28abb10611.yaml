@@ -1,6 +1,6 @@
 id: 64ae5121-e632-478c-b33f-bd28abb10611
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 18
+parent_chapter: 70e896cb-cc2e-4700-a649-38c82b332b6c
+children_promises:
+- b0fd2a83-1f09-482b-9924-2f4ee6e0dbaf
+children_statements: []
+title: Bajas por enfermedades relacionadas con el embarazo
 categories:
 - Familia
-title: Bajas por enfermedades relacionadas con el embarazo
-has_children: true

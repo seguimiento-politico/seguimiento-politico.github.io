@@ -1,7 +1,6 @@
 id: 4861a1a5-a290-40ef-9e33-f5c30e4ccf8c
 type: promise
-parent_statement: 8304b288-1387-4ed8-a26c-55af0d0b27ec
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 8304b288-1387-4ed8-a26c-55af0d0b27ec
+parent_chapter: b36e5d9e-ba98-45f0-8911-a0a18af0be33
+text: Salud mental en la infancia. Es necesario garantizar servicios de prevención, detección precoz y atención de la salud mental en la infancia desde una perspectiva multisectorial y comunitaria. Para ello, impulsaremos la implementación efectiva y urgente de la Estrategia de Salud Mental del Sistema Nacional de Salud para el periodo 2022-2026 y su Plan de Acción de Salud Mental.
 categories: Familia
 topics: Incentivos, ayudas y subvenciones
-text: Salud mental en la infancia. Es necesario garantizar servicios de prevención, detección precoz y atención de la salud mental en la infancia desde una perspectiva multisectorial y comunitaria. Para ello, impulsaremos la implementación efectiva y urgente de la Estrategia de Salud Mental del Sistema Nacional de Salud para el periodo 2022-2026 y su Plan de Acción de Salud Mental.

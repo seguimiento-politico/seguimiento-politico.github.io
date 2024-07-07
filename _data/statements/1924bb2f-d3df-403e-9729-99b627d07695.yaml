@@ -1,7 +1,6 @@
 id: 1924bb2f-d3df-403e-9729-99b627d07695
 type: promise
-parent_statement: ddaeb0d0-9b7a-4604-96f5-170c2f3b2fa0
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Cultura
+parent_statement: ddaeb0d0-9b7a-4604-96f5-170c2f3b2fa0
+parent_chapter: 1b4d5a8a-94bc-43e6-a463-c865f0d6ae63
 text: la concepción del contrato artístico cuya interpretación en muchas ocasiones excluye otras prácticas distintas a la de espectáculo u obra de arte;
+categories: Cultura

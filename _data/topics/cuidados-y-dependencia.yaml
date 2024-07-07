@@ -1,0 +1,20 @@
+name: Cuidados y dependencia
+other:
+- &id001
+  id: 0a473228-01ac-460c-ab0b-7c9a84ca43d5
+  parties:
+  - SUMAR
+other_count: 1
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+statements_count: 1
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

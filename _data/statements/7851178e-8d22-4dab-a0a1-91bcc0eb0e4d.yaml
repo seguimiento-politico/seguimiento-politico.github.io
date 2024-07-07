@@ -1,6 +1,6 @@
 id: 7851178e-8d22-4dab-a0a1-91bcc0eb0e4d
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 7
-categories: Economía
+parent_chapter: a47741b5-bbce-46ec-a578-07955d93b4fb
 text: Empleadas del hogar. Culminaremos con carácter prioritario la plena integración en el Régimen General de la Seguridad Social de las empleadas del hogar a lo largo de la legislatura. Firmaremos y ratificaremos el Convenio número 189, de 2011, de la Organización Internacional del Trabajo sobre las trabajadoras y los trabajadores domésticos.
+categories: Economía

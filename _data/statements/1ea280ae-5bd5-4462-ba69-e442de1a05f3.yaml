@@ -1,6 +1,6 @@
 id: 1ea280ae-5bd5-4462-ba69-e442de1a05f3
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 63
+parent_chapter: dc33f933-12a0-4325-b761-1f9bf8c3ad0d
+children_promises:
+- 62f06a01-5fe1-49cb-bdc2-48609f73597a
+- 0591973e-ad7a-463a-8c75-0ff0245dfe4b
+- e2de2eb5-644b-4921-8b2d-e41753373b1a
+- 6e522cf1-3678-4751-8e6a-7012ca449f50
+children_statements: []
+title: Protección del sector pesquero y relevo generacional en la pesca
 categories: Pesca y acuicultura
 topics: Desarrollo sostenible
-title: Protección del sector pesquero y relevo generacional en la pesca
-has_children: true

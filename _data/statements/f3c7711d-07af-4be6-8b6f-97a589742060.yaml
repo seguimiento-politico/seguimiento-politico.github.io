@@ -1,7 +1,6 @@
 id: f3c7711d-07af-4be6-8b6f-97a589742060
 type: promise
-parent_statement: 61ea835e-9c92-47a6-91ed-15bffece8ada
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -10,5 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 22
-categories: Trabajo
+parent_statement: 61ea835e-9c92-47a6-91ed-15bffece8ada
+parent_chapter: 89a37952-7653-4d01-b826-60b84d3454b4
 text: Aumentaremos los incentivos a la contratación estable de jóvenes, mayores de 45 años, mujeres embarazadas y padres y madres de hijos con discapacidad.
+categories: Trabajo

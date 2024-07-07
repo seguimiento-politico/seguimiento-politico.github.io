@@ -1,7 +1,6 @@
 id: c75c74e0-0516-4475-9fca-a9cb41bae493
 type: promise
-parent_statement: 3a416549-6c56-41ee-bbe7-98756388642b
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
+parent_statement: 3a416549-6c56-41ee-bbe7-98756388642b
+parent_chapter: 0aeec4ec-9240-4040-ba6b-c7f21bee3fb4
+text: Una parte de los Diputados serán elegidos en distrito único nacional
 categories:
 - Democracia
-text: Una parte de los Diputados serán elegidos en distrito único nacional

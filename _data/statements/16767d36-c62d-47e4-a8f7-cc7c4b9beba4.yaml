@@ -1,6 +1,6 @@
 id: 16767d36-c62d-47e4-a8f7-cc7c4b9beba4
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 105
+parent_chapter: 5a78c83a-e028-4353-b943-e627cc312cee
+children_promises:
+- 822d8645-076c-4447-97e3-10229b939db5
+children_statements: []
+title: Promover la participación política de las personas migrantes en los diferentes procesos electorales.
 categories: Migración
 topics: Racismo
-title: Promover la participación política de las personas migrantes en los diferentes procesos electorales.
-has_children: true

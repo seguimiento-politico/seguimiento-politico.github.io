@@ -1,6 +1,6 @@
 id: f45f6c11-c342-49ee-82e0-8376c1b84857
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 210
-categories: Consumo
+parent_chapter: d389f23d-8889-42f7-bf07-5877db4fb159
 text: Dotaremos de un nuevo impulso a la protección de las personas consumidoras y usuarias mediante la incorporación y desarrollo en nuestro ordenamiento jurídico del derecho a la promoción del consumo sostenible, añadiendo la exigencia a los poderes públicos para desarrollar políticas transversales que promuevan modalidades sostenibles de consumo mediante una combinación de acciones normativas, económicas y sociales. Incorporaremos el “consumo sostenible” como un nuevo derecho básico de las personas consumidoras y usuarias, promoviendo el diseño, la elaboración y la utilización de productos y servicios que ahorren energía y no sean tóxicos, desincentivando las modalidades no sostenibles de consumo mediante el desarrollo y la utilización de nuevos productos y servicios ecológicamente racionales, y promoviendo aquellas tecnologías que puedan satisfacer las necesidades de las personas consumidoras a la vez que contribuyen a reducir la contaminación y el agotamiento de los recursos naturales.
+categories: Consumo

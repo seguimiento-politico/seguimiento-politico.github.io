@@ -1,6 +1,6 @@
 id: be90fdc9-22ca-4d28-b55a-e3887d441dc0
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 236
-categories: Medioambiente
+parent_chapter: b42e309b-70f9-4049-9fdc-70fba06757b6
 text: Extenderemos el derecho a la protección del medio ambiente a elementos integrantes del patrimonio natural español que se encuentre bajo amenaza, para que cualquier persona pueda defender los intereses del ecosistema ante los tribunales, como ya hemos hecho con el Mar Menor.
+categories: Medioambiente

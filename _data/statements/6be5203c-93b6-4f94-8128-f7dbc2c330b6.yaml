@@ -1,6 +1,6 @@
 id: 6be5203c-93b6-4f94-8128-f7dbc2c330b6
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 136
+parent_chapter: d5ff476e-21ed-4e90-9c4b-b4adb4a8f9a7
+text: Defenderemos en el Consejo de la Unión una reforma completa de la política inmigratoria y de asilo de la Unión Europea. Frente al fracasado modelo multicultural impuesto por las élites de Bruselas, las naciones europeas han de apostar por políticas de integración cultural. El multiculturalismo debilita la cohesión social y, consecuentemente, la voluntad general de defensa de la nación. Todo inmigrante tiene la obligación irrenunciable de integrarse en el país de acogida, y no al revés.
 categories:
 - Política internacional
-text: Defenderemos en el Consejo de la Unión una reforma completa de la política inmigratoria y de asilo de la Unión Europea. Frente al fracasado modelo multicultural impuesto por las élites de Bruselas, las naciones europeas han de apostar por políticas de integración cultural. El multiculturalismo debilita la cohesión social y, consecuentemente, la voluntad general de defensa de la nación. Todo inmigrante tiene la obligación irrenunciable de integrarse en el país de acogida, y no al revés.

@@ -1,6 +1,6 @@
 id: 87700c11-fcb9-47bf-bd95-5b7ea9110f85
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 87
+parent_chapter: e696d207-8231-46d7-b6c5-53dde16b2429
+text: El PSOE se compromete a una acción de Gobierno alineada con las recomendaciones de la ciencia y la reivindicación ciudadana para cumplir con los compromisos climáticos asumidos por España, que impulsen y aceleren la ambición climática de todos los países.
 categories: Medioambiente, Política internacional
 topics: Cambio climático
-text: El PSOE se compromete a una acción de Gobierno alineada con las recomendaciones de la ciencia y la reivindicación ciudadana para cumplir con los compromisos climáticos asumidos por España, que impulsen y aceleren la ambición climática de todos los países.

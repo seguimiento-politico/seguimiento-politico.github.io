@@ -1,6 +1,6 @@
 id: 1245d468-5ece-453a-ae45-e01a65e3a06d
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 91
+parent_chapter: 3cb774e5-f8dc-461d-9d1f-fb20c8f8ca08
+text: 'Es imprescindible incorporar al conjunto de la sociedad al cambio cultural que ese esfuerzo de adaptación supone. Hablamos de un derecho, el del acceso al agua, que no admite exclusión alguna y que requiere del concierto de todas las administraciones, sectores productivos, colectivos ciudadanos y del mundo de la ciencia para lograr un pacto social. Ese pacto ha de sustentarse sobre tres pilares: ahorro, eficiencia y reutilización, porque no podemos malgastar hoy el agua que nuestros hijos necesitarán mañana.'
 categories: Agua, Medioambiente
 topics: Cambio climático, Agua, Sequía
-text: 'Es imprescindible incorporar al conjunto de la sociedad al cambio cultural que ese esfuerzo de adaptación supone. Hablamos de un derecho, el del acceso al agua, que no admite exclusión alguna y que requiere del concierto de todas las administraciones, sectores productivos, colectivos ciudadanos y del mundo de la ciencia para lograr un pacto social. Ese pacto ha de sustentarse sobre tres pilares: ahorro, eficiencia y reutilización, porque no podemos malgastar hoy el agua que nuestros hijos necesitarán mañana.'

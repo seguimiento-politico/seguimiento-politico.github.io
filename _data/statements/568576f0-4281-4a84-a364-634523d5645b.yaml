@@ -1,7 +1,6 @@
 id: 568576f0-4281-4a84-a364-634523d5645b
 type: promise
-parent_statement: 44b9d447-0043-49bc-b522-7df82b938b8c
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 44b9d447-0043-49bc-b522-7df82b938b8c
+parent_chapter: 2d06e79f-d667-441b-b7cf-513970c6ccde
+text: Garantizaremos la conservación de las abejas, mariposas y otros insectos polinizadores, ya que es fundamental para el futuro de la agricultura y de los ecosistemas terrestres en su conjunto.
 categories: Medioambiente
 topics: Biodiversidad
-text: Garantizaremos la conservación de las abejas, mariposas y otros insectos polinizadores, ya que es fundamental para el futuro de la agricultura y de los ecosistemas terrestres en su conjunto.

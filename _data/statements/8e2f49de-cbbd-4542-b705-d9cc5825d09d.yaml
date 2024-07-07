@@ -1,7 +1,6 @@
 id: 8e2f49de-cbbd-4542-b705-d9cc5825d09d
 type: promise
-parent_statement: 888e6898-f38c-4272-811c-690f00dba852
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Justicia
+parent_statement: 888e6898-f38c-4272-811c-690f00dba852
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
 text: También reformaremos la Ley Orgánica del Poder Judicial para ajustar las competencias del CGPJ a las funciones relativas a su estatuto y el régimen de incompatibilidades de los miembros del Consejo, así como lo relativo a la ordenación de nombramientos, ascensos, inspección y régimen disciplinario entre los funcionarios y empleados públicos del poder judicial con el objeto de incrementar la eficacia del funcionamiento de la justicia como un servicio público para la ciudadanía.
+categories: Justicia

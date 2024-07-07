@@ -1,6 +1,6 @@
 id: d7ea90e2-a760-4690-8fdb-aea7b8de48e6
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 46
+parent_chapter: 493fd51c-7cfd-4b5e-bc63-efcefe3f24e6
 title: Apostar por el sector del videojuego.
 text: El videojuego es cultura También es una industria con una gran capacidad de creación de empleo y de posibilidades expresivas que requiere un reconocimiento sin prejuicios en las políticas culturales Por ello, fomentaremos el talento del sector y de los ecosistemas de pymes existentes con programas de ayuda a la creación de videojuegos y cultura digital para que las empresas españolas puedan competir en igualdad de oportunidades ante las grandes transnacionales del videojuego Adoptaremos medidas para proteger a las personas que trabajan en el sector, impulsando una mayor presencia de mujeres y vigilando, en particular, que las fórmulas de subcontratación no sean fraudulentas ni supongan una merma de derechos, que las horas extras se pagan y que se protegen riesgos asociados a la intermitencia o la movilidad, como sucede con otras y otros trabajadores de la cultura También articularemos un plan de formación superior y continua para el sector, con especial atención a las dimensiones de desarrollo de software, monetización, diseño y arte, y marketing.

@@ -1,7 +1,6 @@
 id: f633131e-d6b1-4d47-85e3-3ffcc9d5f4d9
 type: promise
-parent_statement: a2973d58-1759-48fa-8a6e-2ddd1e4e9dac
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Justicia
+parent_statement: a2973d58-1759-48fa-8a6e-2ddd1e4e9dac
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
 text: Para ello es necesario mejorar losmecanismos de información a la ciudadanía sobre el derecho a la asistencia jurídica gratuita y los requisitos y las condiciones de la prestación, así como incrementar los recursos destinados a ese servicio, poniendo fin a la insuficiencia y el retraso en el abono de los honorarios de los profesionales que lo prestan y aumentando el umbral de rentas para tener derecho a la justicia gratuita.
+categories: Justicia

@@ -1,6 +1,6 @@
 id: 372943da-8c6b-41bf-a1d7-1467f78b13aa
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 270
-categories: Seguridad y Defensa
+parent_chapter: ff200f89-fcf9-409d-908e-4ca3fd75edb8
+children_promises:
+- c99c817c-0d0e-4c47-a574-257ed4b19aae
+- df8584af-febd-439d-a908-dd60bf4f1874
+children_statements: []
 text: Lideraremos una política industrial de defensa que asegure nuestra autonomía estratégica mediante el fomento de la competitividad, el desarrollo tecnológico y el empleo. Suponen una gran inversión y la creación de miles de puestos de trabajo en Galicia, Asturias, Andalucía, País Vasco, Madrid y Murcia, entre otros territorios.
-has_children: true
+categories: Seguridad y Defensa

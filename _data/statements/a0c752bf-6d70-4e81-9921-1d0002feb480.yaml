@@ -1,6 +1,6 @@
 id: a0c752bf-6d70-4e81-9921-1d0002feb480
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 127
-categories: Justicia
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
+children_promises:
+- e0d847de-1c47-49c7-acac-8dd6d637f189
+children_statements:
+- ece17e58-35d8-4439-9e77-ac652f2973d3
 title: Articulación de un Ministerio Fiscal activo en la defensa del interés social promoviendo ante los tribunales el interés de lo público y la defensa de los derechos de los ciudadanos.
-has_children: true
+categories: Justicia

@@ -1,6 +1,6 @@
 id: 62622cba-385e-45c5-be8b-0952d507f94b
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 12
-categories: Educación
+parent_chapter: 9c099206-10d7-4c4f-864e-cbe322afde2e
 text: Para ello, se desarrollará un sistema de acceso a la función docente de carácter nacional que asegure la igualdad y la excelencia de nuestro personal docente.
+categories: Educación

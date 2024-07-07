@@ -1,7 +1,6 @@
 id: 86ad8302-f872-4ccf-85c0-d9b64f418006
 type: promise
-parent_statement: b73ea7eb-1cc9-4548-92a3-45262ce313ea
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Urbanismo y ciudades
+parent_statement: b73ea7eb-1cc9-4548-92a3-45262ce313ea
+parent_chapter: da4a5e62-c6b6-45b0-a08b-611f6d470a08
 text: Estará dirigido a personas o colectivos y se actuará mediante la presentación de proyectos a la Administración pública, que hará el seguimiento de los mismos y que financiará con inversión pública las infraestructuras necesarias para garantizar la conectividad y el acceso.
+categories: Urbanismo y ciudades

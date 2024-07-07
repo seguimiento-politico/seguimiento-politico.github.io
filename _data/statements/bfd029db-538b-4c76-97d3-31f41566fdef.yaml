@@ -1,6 +1,6 @@
 id: bfd029db-538b-4c76-97d3-31f41566fdef
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 139
-categories: Política internacional
+parent_chapter: 4d3afa99-1301-4519-a703-6dfe49d7e832
+children_promises:
+- e2878b16-7ae1-4b6c-ae72-4cb89a96a7b2
+- 55aa0005-6689-48da-b55a-3972fee8a191
+- 913f1fa4-a9a5-454f-860f-393d8d4db08f
+- 1dfe7cbb-6c9f-471e-84ef-b9ba1abac22a
+- 57053094-b45f-4eff-83c9-d5b667dfb418
+- 1cf03f73-6412-4470-9ec9-a3f444a68526
+children_statements: []
 title: Un país que defienda una Europa autónoma y con voz propia en el mundo.
-has_children: true
+categories: Política internacional

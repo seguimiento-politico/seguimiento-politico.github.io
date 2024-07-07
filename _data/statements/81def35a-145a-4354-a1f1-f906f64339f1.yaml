@@ -1,6 +1,6 @@
 id: 81def35a-145a-4354-a1f1-f906f64339f1
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 20
-categories: Derechos y servicios sociales
+parent_chapter: b56c35d8-c066-45e2-8c61-4c2f3c0b80a9
 text: Prioridad nacional en las ayudas sociales. Impulso de los mecanismos legales necesarios para garantizar la prioridad de los ciudadanos españoles en el acceso a ayudas sociales.
+categories: Derechos y servicios sociales

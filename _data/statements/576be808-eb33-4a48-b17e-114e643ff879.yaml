@@ -1,6 +1,6 @@
 id: 576be808-eb33-4a48-b17e-114e643ff879
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 83
+parent_chapter: f4984d5e-4174-4823-b667-d24d18e9a181
+text: El transporte marítimo de mercancías es fundamental para la actividad económica española, sosteniendo la mayor cuota modal en el comercio exterior. España, por su situación y longitud de costa, tiene que maximizar su liderazgo en este sector.
 categories: Transporte
 topics: Transporte marítimo, Transporte mercancías
-text: El transporte marítimo de mercancías es fundamental para la actividad económica española, sosteniendo la mayor cuota modal en el comercio exterior. España, por su situación y longitud de costa, tiene que maximizar su liderazgo en este sector.

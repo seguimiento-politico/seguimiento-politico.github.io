@@ -1,7 +1,6 @@
 id: a993c5ab-3125-4c81-a43d-4215de6871b9
 type: promise
-parent_statement: 21026742-0242-4793-95fa-7e975ec6d8e4
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,8 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 156
+parent_statement: 21026742-0242-4793-95fa-7e975ec6d8e4
+parent_chapter: 33cdec74-1c77-454b-96f2-fdee1448bd35
+text: La promoción de la formación de profesionales de la salud en la identificación y manejo de los impactos negativos de las redes sociales en la salud.
 categories: Ciencia y tecnología
 topics:
 - Juventud
 - Redes sociales
-text: La promoción de la formación de profesionales de la salud en la identificación y manejo de los impactos negativos de las redes sociales en la salud.

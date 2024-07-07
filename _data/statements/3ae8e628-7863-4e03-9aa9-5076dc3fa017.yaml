@@ -1,6 +1,6 @@
 id: 3ae8e628-7863-4e03-9aa9-5076dc3fa017
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,16 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 54
+parent_chapter: c1d2932c-9fc8-4b60-9a6a-8398312cb597
+children_promises:
+- 40c2cba1-e7fb-4ab8-93c0-d44e3ae95231
+- 644c0538-f9e8-4c47-b97c-7b404e5df81d
+- cee2f61c-243f-49af-9bd6-fdb7fb9dd1e7
+- f4cca401-7ac1-4e08-b26b-ca3803659856
+- 87488af5-d347-4ca9-b320-0e1091b808b1
+- d5f550a4-cf40-4e9d-b33c-58660ea1d269
+children_statements:
+- 6e5fe4f5-1b62-4b6c-acd3-e8d99c1f95cc
+title: Garantizar el derecho a la reparación.
 categories: Economía
 topics: Economía circular
-title: Garantizar el derecho a la reparación.
-has_children: true

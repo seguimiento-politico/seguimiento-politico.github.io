@@ -1,6 +1,6 @@
 id: 952ed265-4784-49a3-9f2f-a269ece6e577
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 175
-categories: Derechos y servicios sociales
+parent_chapter: d0e12844-b1ea-4076-93e4-1d25899f811d
 text: Avanzar hacia una regulación estatal de ordenación de las profesiones de la Intervención Social y la consideración de los/as profesionales de los servicios sociales como autoridad.
+categories: Derechos y servicios sociales

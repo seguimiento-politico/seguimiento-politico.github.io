@@ -1,6 +1,6 @@
 id: 624e4f77-3366-488c-88c1-757e5d45bb74
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 71
+parent_chapter: 06e768c1-851f-40aa-84be-505e878d3697
+text: ESTABLECEREMOS UN RÉGIMEN DE INFORMACIÓN INSTITUCIONALIZADO y frecuente entre el presidente del Gobierno y el líder de la oposición.
 categories: Democracia
 topics: Separación de poderes
-text: ESTABLECEREMOS UN RÉGIMEN DE INFORMACIÓN INSTITUCIONALIZADO y frecuente entre el presidente del Gobierno y el líder de la oposición.

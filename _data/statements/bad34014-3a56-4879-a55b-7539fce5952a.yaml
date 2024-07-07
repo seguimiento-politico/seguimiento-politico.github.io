@@ -1,7 +1,6 @@
 id: bad34014-3a56-4879-a55b-7539fce5952a
 type: promise
-parent_statement: a6925049-9b85-4297-9740-d683984c4595
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Seguridad y defensa
+parent_statement: a6925049-9b85-4297-9740-d683984c4595
+parent_chapter: 66b190ef-617c-438a-adf3-a3c9f707719b
 text: Propondremos reformas legales orientadas a conseguir estos objetivos (como la Ley de Derechos y Deberes de la Guardia Civil).
+categories: Seguridad y defensa

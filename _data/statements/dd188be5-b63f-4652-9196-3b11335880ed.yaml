@@ -1,6 +1,6 @@
 id: dd188be5-b63f-4652-9196-3b11335880ed
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 31
+parent_chapter: 9084fb76-14d5-4f08-b13b-74bd606de716
+children_promises:
+- acf6b84d-3cb1-4f37-8d61-b19fe84ec5eb
+- 65e281bf-87ac-4d78-8c06-177ae6e8ff9e
+- bd69f6ed-3fbf-4532-bc5c-acd0fd8e230f
+- 3ab3f7bd-bc6c-44c7-92d2-751c3e1be498
+- 0aaf37c5-3fa4-4da6-a498-21fa1b679b80
+children_statements: []
+title: Apoyaremos la creación de empresas y su crecimiento
 categories: Empresas y autónomos
 topics: Emprendimiento
-title: Apoyaremos la creación de empresas y su crecimiento
-has_children: true

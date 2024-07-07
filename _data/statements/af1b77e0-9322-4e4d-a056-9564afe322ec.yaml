@@ -1,7 +1,6 @@
 id: af1b77e0-9322-4e4d-a056-9564afe322ec
 type: promise
-parent_statement: 72d55e24-2367-4369-a6f8-859b3a341803
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -10,5 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 95
-categories: Seguridad y defensa
+parent_statement: 72d55e24-2367-4369-a6f8-859b3a341803
+parent_chapter: d2165d9c-4ccd-4649-b6ee-393361a2d9bb
 text: Apoyaremos todas las medidas que tengan por finalidad aumentar la protección personal y seguridad y prevención de riesgos laborales de los Vigilantes de Seguridad a fin de que puedan desarrollar su principal actividad frente a los agresores, lucharemos contra el intrusismo y la mejora de sus condiciones laborales y de jubilación.
+categories: Seguridad y defensa

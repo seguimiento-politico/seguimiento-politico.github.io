@@ -1,6 +1,6 @@
 id: c686e248-d607-458c-b8eb-56f166becec0
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 72
-categories: Medioambiente
+parent_chapter: 85ba981f-5588-4f5a-bd23-87684187301f
 text: Desde junio de 2018 hemos gobernado para conseguir una sociedad más justa, reduciendo desigualdades y modernizando nuestro tejido productivo. La transición ecológica es una de las herramientas para conseguir estos objetivos. Hemos trabajado para transformar nuestras ciudades, nuestra movilidad, la energía, la industria y los servicios buscando la mayor eficiencia en el uso de los recursos, soluciones respetuosas con el medio ambiente y el sistema climático, conservando y restaurando ecosistemas y haciendo de nuestros municipios sitios sanos y saludables, pensados para los vecinos.
+categories: Medioambiente

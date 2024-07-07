@@ -1,6 +1,6 @@
 id: ede2d7f9-a57d-432b-bdbe-ea1a6f3c4a8c
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 93
+parent_chapter: a6b0904c-226b-4036-b418-18f80e2f7fbb
+text: Acompañamos a las ciudades en sus planes de salud y medio ambiente, prestando particular atención a la calidad del aire que respiramos y a la reducción de otros tipos de contaminación (química, acústica y lumínica) para proteger la salud pública y mejorar la calidad de vida.
 categories: Derechos y servicios sociales
 topics: Medioambiente saludable, Contaminación
-text: Acompañamos a las ciudades en sus planes de salud y medio ambiente, prestando particular atención a la calidad del aire que respiramos y a la reducción de otros tipos de contaminación (química, acústica y lumínica) para proteger la salud pública y mejorar la calidad de vida.

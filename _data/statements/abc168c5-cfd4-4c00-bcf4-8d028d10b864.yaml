@@ -1,7 +1,6 @@
 id: abc168c5-cfd4-4c00-bcf4-8d028d10b864
 type: promise
-parent_statement: 37e5b7b1-ee9c-4d92-847c-71cc23c61b27
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,4 +8,6 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 37e5b7b1-ee9c-4d92-847c-71cc23c61b27
+parent_chapter: 234f712b-aaa0-45c7-92d9-e5641ca46ec2
 text: Oficina de transición energética justa. Para conseguir que los recursos movilizados para la transición ecológica lleguen a quienes más lo necesiten, proponemos la creación de la oficina de transición energética justa (OTEJ). Un organismo dependiente del IDAE que en un inicio se establecerá, principalmente, en forma de sede electrónica, pero con el objetivo, a final de legislatura y en convenio con los Ayuntamientos, de contar con sedes presenciales en municipios de más de 50.000 habitantes y servicios itinerantes en el resto del país. Entre las tareas de la OTEJ estarían; Funcionar como una ventanilla única que permita agilizar todos los trámites relacionados con autoconsumo y rehabilitación. Catalizar la obtención de ayudas para la rehabilitación energética y el autoconsumo (especialmente en forma comunitaria) a aquellos que más lo necesiten. Asesorar activamente en materia de ahorro energético y de recursos, tanto en el ámbito residencial como en el del comercio y la industria (talleres de factura de la luz, ahorro y ecoeficiencia). Impulsar las comunidades energéticas. Asesorar a pymes y autónomos para informar y planificar la reducción de su huella de carbono a través del autoconsumo, comercializadoras verdes, etcétera. Y asesorarlos también para garantizar el acceso a productos financieros sostenibles, así como a subvenciones nacionales y europeas.

@@ -1,6 +1,6 @@
 id: 6d1f7693-56b9-4a82-bfb6-f50bed608405
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 166
+parent_chapter: e207a6bf-9c54-4399-a574-f130ae590b63
+text: Por si no bastara con dinamitar el futuro del sistema, en el año 2013 el Partido Popular impuso el rodillo de su mayoría absoluta para aprobar una aberrante reforma del sistema público de pensiones sin diálogo social ni el aval del Pacto de Toledo. Esta reforma suponía de facto y para siempre un empobrecimiento constante y paulatino de losa y laso pensionistas presentes y futuros.
 categories: Derechos y servicios sociales
 topics: Pensiones
-text: Por si no bastara con dinamitar el futuro del sistema, en el año 2013 el Partido Popular impuso el rodillo de su mayoría absoluta para aprobar una aberrante reforma del sistema público de pensiones sin diálogo social ni el aval del Pacto de Toledo. Esta reforma suponía de facto y para siempre un empobrecimiento constante y paulatino de losa y laso pensionistas presentes y futuros.

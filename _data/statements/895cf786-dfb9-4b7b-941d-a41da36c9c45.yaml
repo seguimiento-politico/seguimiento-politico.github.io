@@ -1,11 +1,12 @@
 id: 895cf786-dfb9-4b7b-941d-a41da36c9c45
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 99
-categories: Seguridad y defensa
+parent_chapter: ce32a1c3-f0ee-405f-bdb8-e85af6ed814a
 text: Impulsaremos un mando conjunto de ciberdefensa. Potenciaremos la capacidad operativa de nuestras Fuerzas Armadas ante las nuevas amenazas, especialmente en el ámbito de la Ciberseguridad.
+categories: Seguridad y defensa

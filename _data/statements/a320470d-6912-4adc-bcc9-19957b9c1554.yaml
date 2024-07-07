@@ -1,6 +1,6 @@
 id: a320470d-6912-4adc-bcc9-19957b9c1554
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 269
-categories: Seguridad y Defensa
+parent_chapter: 3c98fb62-bbb8-4916-950e-d63929014fb9
 text: Seguiremos manteniendo el liderazgo de España en la escena internacional y especialmente en la Europa de la Defensa, fomentando la aplicación de un modelo de seguridad cooperativa con la colaboración de los actores locales en las iniciativas internacionales de paz como, por ejemplo, en las regiones del Sahel y del Golfo de Guinea, y la aplicación de los principios de Kigali y Vancouver.
+categories: Seguridad y Defensa

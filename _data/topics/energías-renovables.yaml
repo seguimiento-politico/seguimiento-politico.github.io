@@ -1,0 +1,31 @@
+name: Energías renovables
+other:
+- &id003
+  id: 7fdad29b-f21a-43b0-a35b-ad7bda21eeb2
+  parties:
+  - VOX
+other_count: 1
+position_negative: []
+position_negative_count: 0
+position_positive:
+- &id002
+  id: f11ea89f-bcc7-4bb9-882e-0346405764f5
+  parties:
+  - VOX
+- &id001
+  id: 07333bd0-387e-4bc5-bd60-54dc46113c7f
+  parties:
+  - VOX
+position_positive_count: 2
+proposed_actions:
+- *id001
+proposed_actions_count: 1
+statements:
+- *id002
+- *id003
+- *id001
+statements_count: 3
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

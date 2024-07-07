@@ -1,7 +1,6 @@
 id: 81527f22-0210-47fc-a0d7-9920168cdb36
 type: promise
-parent_statement: e5d1353f-c03a-482d-828f-99a472b79079
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Seguridad y defensa
+parent_statement: e5d1353f-c03a-482d-828f-99a472b79079
+parent_chapter: 66b190ef-617c-438a-adf3-a3c9f707719b
 text: y medidas de inserción laboral juvenil.
+categories: Seguridad y defensa

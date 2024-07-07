@@ -1,6 +1,6 @@
 id: c9673305-38ab-407f-bbc0-6860919cc9fa
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 140
-categories: Política internacional
+parent_chapter: 4d3afa99-1301-4519-a703-6dfe49d7e832
+children_promises:
+- 4e90898d-5306-4c67-aa63-a6b71fec4575
+children_statements: []
 title: Una política exterior comprometida con una internacional democrática.
-has_children: true
+categories: Política internacional

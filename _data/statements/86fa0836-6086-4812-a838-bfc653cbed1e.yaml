@@ -1,6 +1,6 @@
 id: 86fa0836-6086-4812-a838-bfc653cbed1e
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 232
-categories: Democracia
+parent_chapter: dbcc7ee6-627f-4108-bcf4-9b0b69036063
 text: Durante todos estos años, el PSOE ha defendido la reforma del Senado, que continúa hoy resultando necesaria para convertirlo en una verdadera cámara de representación territorial. El Senado debe ser una cámara que represente la diversidad y singularidades de los territorios de España, ofreciendo respuestas adecuadas desde un enfoque integrador, constructivo y eficiente. En tanto no se produzca la reforma constitucional necesaria, las y los socialistas impulsaremos el papel del Senado como espacio de diálogo y colaboración entre los diferentes niveles de gobierno e intensificaremos sus relaciones con los parlamentos autonómicos.
+categories: Democracia

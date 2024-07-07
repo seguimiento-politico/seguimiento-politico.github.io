@@ -1,7 +1,6 @@
 id: bee96de2-0f6b-4efa-a7fa-283dd970978b
 type: promise
-parent_statement: edd677a7-b578-4016-b284-779a40ed237d
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Impuestos y financiación pública
+parent_statement: edd677a7-b578-4016-b284-779a40ed237d
+parent_chapter: ea2982af-8671-4013-b30b-3217bd021e2a
 text: Una política fiscal y de inversión para garantizar servicios públicos modernos para la gran mayoría de la sociedad.
+categories: Impuestos y financiación pública

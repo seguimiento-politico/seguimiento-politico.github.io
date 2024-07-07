@@ -1,7 +1,6 @@
 id: fd89e44e-0d8b-4485-8fb2-2514fcd6e037
 type: promise
-parent_statement: 6e6d5819-d8f0-4fe7-834c-b711e87b175c
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 6e6d5819-d8f0-4fe7-834c-b711e87b175c
+parent_chapter: 477927b2-ab8b-4a05-8cc0-962c0cbbb883
+text: Promoveremos la inclusión de la economía social en el plan estadístico nacional e incluir a las organizaciones representativas de la economía social en el Consejo Superior de Estadística, con el fin de conocer mejor la contribución a la generación de empleo y al crecimiento socioeconómico de estas empresas.
 categories: Trabajo
 topics: Economía social
-text: Promoveremos la inclusión de la economía social en el plan estadístico nacional e incluir a las organizaciones representativas de la economía social en el Consejo Superior de Estadística, con el fin de conocer mejor la contribución a la generación de empleo y al crecimiento socioeconómico de estas empresas.

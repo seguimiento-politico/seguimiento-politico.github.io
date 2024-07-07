@@ -1,6 +1,6 @@
 id: c1e9f159-619d-4813-9d83-e6c7ce6f292c
-type: declaration
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 73
+parent_chapter: 88c43ae6-3b46-453b-88f6-05040af07103
+text: Queremos recuperar el protagonismo y la integridad del Parlamento como centro de la vida política española, tras cinco años de degradación constante por parte del Gobierno. Queremos recuperar el valor de la tramitación legislativa con todas sus garantías, limitar las normas extraordinarias a los casos expresamente previstos y garantizar los derechos de los diputados y senadores en el ejercicio de sus funciones. Se trata de un aspecto fundamental de nuestro programa de fortalecimiento del Estado de Derecho y de la calidad democrática.
 categories: Democracia
 topics: Podel legislativo
-text: Queremos recuperar el protagonismo y la integridad del Parlamento como centro de la vida política española, tras cinco años de degradación constante por parte del Gobierno. Queremos recuperar el valor de la tramitación legislativa con todas sus garantías, limitar las normas extraordinarias a los casos expresamente previstos y garantizar los derechos de los diputados y senadores en el ejercicio de sus funciones. Se trata de un aspecto fundamental de nuestro programa de fortalecimiento del Estado de Derecho y de la calidad democrática.

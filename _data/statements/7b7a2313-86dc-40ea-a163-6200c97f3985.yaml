@@ -1,6 +1,6 @@
 id: 7b7a2313-86dc-40ea-a163-6200c97f3985
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 22
+parent_chapter: d3d26d0a-0ea8-4348-8556-ce6fd7e0688d
+text: 'ORGANIZAREMOS FOROS ESPECIALIZADOS como escaparate de la capacidad tecnológica española en la materia. Para difundir todas las iniciativas en este ámbito y potenciar la participación de todos los agentes: empresas, universidades, administraciones, etc.'
 categories: Ciencia y tecnología
 topics: Inteligencia artificial
-text: 'ORGANIZAREMOS FOROS ESPECIALIZADOS como escaparate de la capacidad tecnológica española en la materia. Para difundir todas las iniciativas en este ámbito y potenciar la participación de todos los agentes: empresas, universidades, administraciones, etc.'

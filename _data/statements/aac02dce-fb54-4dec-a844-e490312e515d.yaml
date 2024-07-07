@@ -1,6 +1,6 @@
 id: aac02dce-fb54-4dec-a844-e490312e515d
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,8 +9,13 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 7
+parent_chapter: f7d833fa-aff7-4e92-ab7f-4430cb8f127b
+children_promises:
+- 5af35137-8f69-49a9-9011-5db705027181
+- 017d2d51-7b59-4575-9bc6-c0c36c5b9d84
+- fd3fd842-a68d-44bd-88d2-efd003cf68dc
+children_statements: []
+title: Construcción lugares de culto Islam, reciprocidad y financiación
 categories:
 - Seguridad y defensa
 - Migración
-title: Construcción lugares de culto Islam, reciprocidad y financiación
-has_children: true

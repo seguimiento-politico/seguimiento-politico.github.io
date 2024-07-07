@@ -1,6 +1,6 @@
 id: 88e70ba3-c428-4518-b20f-d97889da97b2
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 50
-categories: Educación
+parent_chapter: a9015bc2-6b3d-40b7-bf93-f53764c97c24
 text: LA EDUCACIÓN DE 0 A 3 AÑOS SERÁ UNIVERSAL Y GRATUITA y estará cofinanciada por el Estado y las Comunidades Autónomas, como palanca para la lucha contra las desigualdades en el punto de partida, así como para facilitar la conciliación. Dotaremos de nuevas plazas financiadas con fondos públicos, priorizando aquellos lugares donde exista mayor vulnerabilidad. Definiremos como orientaciones curriculares en la educación infantil la adquisición del lenguaje, la comprensión lectora y las habilidades numéricas básicas.
+categories: Educación

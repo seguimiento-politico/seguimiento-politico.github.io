@@ -1,6 +1,6 @@
 id: 37d4d212-7f14-428f-aa62-a7d192a5ea5f
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 42
-categories: Administración pública
+parent_chapter: 2dc718bb-57b9-449b-be3a-cb454350b2a1
 text: Estableceremos un sistema de garantías de pago a las empresas adjudicatarias de contratos con el sector público. Para ello, promoveremos los instrumentos financieros que permitan reducir los tiempos de pago.
+categories: Administración pública

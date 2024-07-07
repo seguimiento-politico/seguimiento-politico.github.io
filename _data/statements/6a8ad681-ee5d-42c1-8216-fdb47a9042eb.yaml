@@ -1,7 +1,6 @@
 id: 6a8ad681-ee5d-42c1-8216-fdb47a9042eb
 type: promise
-parent_statement: d2fecb92-d00c-42f9-95f7-5f7c3d4b5f22
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Sanidad
+parent_statement: d2fecb92-d00c-42f9-95f7-5f7c3d4b5f22
+parent_chapter: 17e4c412-8ac4-4992-848a-422903075ee3
 text: Nos comprometemos a acabar con la temporalidad y la precariedad del personal sanitario, lo que es necesario para impulsar la sostenibilidad del sistema de salud y garantizar la oferta de servicios de suficiente calidad.
+categories: Sanidad

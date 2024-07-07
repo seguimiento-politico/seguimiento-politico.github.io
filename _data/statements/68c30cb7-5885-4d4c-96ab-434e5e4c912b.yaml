@@ -1,6 +1,6 @@
 id: 68c30cb7-5885-4d4c-96ab-434e5e4c912b
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 82
+parent_chapter: ef0bb89b-1b90-4682-a618-d8eea7201020
 title: Por una nueva representatividad, interlocución y mayor fortaleza del campo.
 text: Necesitamos abrir un proceso de diálogo con las organizaciones agrarias para reformar la actual Ley 12/2014, que regula la representación de agricultores y agricultoras y ganaderos y ganaderas por parte de las organizaciones profesionales agrarias El objetivo es alcanzar una adecuada representatividad y una interlocución eficaz entre el sector agropecuario y la Administración Este proceso debe ser democrático y representar la diversidad de los distintos tipos de agricultura y ganadería que se dan en nuestro sector primario

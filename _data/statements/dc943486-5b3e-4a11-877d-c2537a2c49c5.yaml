@@ -1,6 +1,6 @@
 id: dc943486-5b3e-4a11-877d-c2537a2c49c5
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 42
-categories: Vivienda
+parent_chapter: b958cf54-1e2a-46d1-94d9-83d7f5877612
 text: Acabaremos con la expropiación temporal de inmuebles y con el control de rentas en el contrato de arrendamiento puestos en marcha en los últimos años por distintas regiones.
+categories: Vivienda

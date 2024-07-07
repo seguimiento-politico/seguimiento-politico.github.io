@@ -1,7 +1,6 @@
 id: f569d3ca-4a28-4f96-93ba-5d5c8c8581f6
-type: declaration
-parent_statement: c71437f8-a584-4ede-b166-27710efbb186
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: c71437f8-a584-4ede-b166-27710efbb186
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+text: La defensa y la promoción de los derechos sexuales y reproductivos de las mujeres son un eje central de trabajo.
 categories: Democracia
 topics: Igualdad
-text: La defensa y la promoción de los derechos sexuales y reproductivos de las mujeres son un eje central de trabajo.

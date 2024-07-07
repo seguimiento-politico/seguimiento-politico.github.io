@@ -1,6 +1,6 @@
 id: bb671aa3-c0ab-4eb3-96cf-ca999ba5af96
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 157
-categories: Educación
+parent_chapter: 869a602d-b512-418c-a46e-5ebd811152f6
+children_promises:
+- bc069d80-8a09-4925-9a39-6db01113d783
+- 1a9e8265-6676-4351-9973-c0636122ae01
+- a584d621-7751-4258-9334-f08134f16466
+children_statements: []
 title: Dignificar la profesión docente, cuyo papel social es fundamental.
-has_children: true
+categories: Educación

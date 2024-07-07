@@ -1,6 +1,6 @@
 id: 1d1430ba-9ebf-4931-9a74-48a5ca729c56
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 120
+parent_chapter: 96e848d1-3015-443e-a16c-804978d00154
+text: Fomentaremos políticas de igualdad efectiva entre hombres y mujeres dentro del sistema científico, universitario y empresarial, en desarrollo de la Ley de la Ciencia y de la Ley de Universidades.
 categories: Ciencia y tecnología
 topics: I+D+i
-text: Fomentaremos políticas de igualdad efectiva entre hombres y mujeres dentro del sistema científico, universitario y empresarial, en desarrollo de la Ley de la Ciencia y de la Ley de Universidades.

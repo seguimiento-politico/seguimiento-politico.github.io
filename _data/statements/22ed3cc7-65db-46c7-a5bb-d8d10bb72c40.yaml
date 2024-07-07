@@ -1,6 +1,6 @@
 id: 22ed3cc7-65db-46c7-a5bb-d8d10bb72c40
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 33
+parent_chapter: 9630c4a7-13c3-4dfb-9c7c-bcafe81c5dc1
+children_promises:
+- 1cec625d-4356-4a44-8b83-23d24f0d98ce
+- 45f04482-ae88-4af3-a3fb-04997b6ae13d
+- 75248a35-6025-4a2a-9967-7e1f697e3e0a
+- 2ac7869f-1b05-402b-945b-72b614aa0033
+- 556461b4-e01a-4b71-a813-95bf09b1d545
+children_statements: []
+title: Avanzar en los derechos colectivos de participación democrática en las empresas
 categories: Trabajo
 topics: Colectivos
-title: Avanzar en los derechos colectivos de participación democrática en las empresas
-has_children: true

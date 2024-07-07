@@ -1,6 +1,6 @@
 id: 263e7324-9e03-4405-8017-1a06205350a7
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 80
+parent_chapter: ef0bb89b-1b90-4682-a618-d8eea7201020
 text: Culminar la equiparación salarial de la Policía y la Guardia Civil al hacer efectiva la iniciativa legislativa popular de Proposición de Ley para la Efectiva Igualdad y Equiparación Salarial de las Policías del Estado español

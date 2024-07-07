@@ -1,6 +1,6 @@
 id: cf9db6cc-cd00-48aa-994d-a7c98e89030b
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_chapter: a0117b1d-e50c-46a1-91b5-bfb12645e015
+text: La seguridad viaria debe ser un pilar fundamental en las políticas de desarrollo de la red de carreteras.
 categories: Transporte
 topics: Seguridad vial
-text: La seguridad viaria debe ser un pilar fundamental en las políticas de desarrollo de la red de carreteras.

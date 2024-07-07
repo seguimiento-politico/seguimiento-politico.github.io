@@ -1,7 +1,6 @@
 id: 308b1a3e-2ede-4efc-a90c-7799f71b6f0d
 type: promise
-parent_statement: 23fa7e7f-5776-4d70-b304-8291eb9df84e
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Industria
+parent_statement: 23fa7e7f-5776-4d70-b304-8291eb9df84e
+parent_chapter: 7c79fe71-f119-4b1d-a348-2b181c21b108
 text: Recuperación de la titularidad pública de los aprovechamientos hidroeléctricos según vaya caducando su concesión que será gestionada directamente por organismos públicos.
+categories: Industria

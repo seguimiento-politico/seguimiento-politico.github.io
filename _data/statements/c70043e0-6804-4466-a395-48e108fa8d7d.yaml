@@ -1,6 +1,6 @@
 id: c70043e0-6804-4466-a395-48e108fa8d7d
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 173
+parent_chapter: 3c3b6e77-c208-4e24-b285-18f9fd80d11c
+children_promises:
+- e2a598c8-7d39-44df-ba8c-42f0eee05d09
+- 019cdcdd-2b58-4521-8e98-910aee4eabcc
+- e44ca099-9381-4c67-ad92-7fa83ea7c492
+- dd0eeed7-dddb-4783-9756-24c320dbaa62
+children_statements: []
+title: Programa de cultura y sostenibilidad
 categories: Cultura
 topics: Desarrollo sostenible
-title: Programa de cultura y sostenibilidad
-has_children: true

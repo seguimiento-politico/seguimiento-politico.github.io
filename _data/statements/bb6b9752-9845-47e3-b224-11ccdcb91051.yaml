@@ -1,6 +1,6 @@
 id: bb6b9752-9845-47e3-b224-11ccdcb91051
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,16 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 60
+parent_chapter: ad039df8-ee0b-45eb-922e-f9f457f1a005
+children_promises:
+- 4d097cac-a8b8-4b3c-bc07-b221fe572e94
+- 9eee4a45-8fd2-40d6-899a-b8ddd8fd25c4
+- 787a24f6-9b0e-44af-937e-8b0e6fbee4bb
+- 8a373adb-d365-41ae-bd53-03d2bbe6cd62
+- b6c390b1-5b92-4543-b7b8-1ae93337c626
+- 1bc3c1cb-8661-48ef-a80c-fa587fa3615d
+- dc9f0fcc-1c61-4ace-9820-a2b68e010877
+children_statements: []
+title: Propuestas para la transición agroecológica y apoyo a las explotaciones familiares
 categories: Agricultura
 topics: Desarrollo sostenible
-title: Propuestas para la transición agroecológica y apoyo a las explotaciones familiares
-has_children: true

@@ -1,7 +1,6 @@
 id: 046a23cc-e41f-4b0d-a072-36e5c02b7448
 type: promise
-parent_statement: c8933d87-1c7d-41d8-9a38-f220ba23ed65
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Educación
+parent_statement: c8933d87-1c7d-41d8-9a38-f220ba23ed65
+parent_chapter: c1ead426-cec8-44d6-a73a-d98f9059e1db
 text: Mejoraremos la oferta y la accesibilidad de las enseñanzas artísticas, e iniciaremos el proceso de adscripción e integración de los estudios superiores de música y de las restantes enseñanzas artísticas al sistema universitario. Se debería reconocer su rango de estudios superiores universitarios, regularizando una situación que hoy en día es anómala.
+categories: Educación

@@ -1,6 +1,6 @@
 id: d7bdce13-7c52-4ae8-b860-c821fc477241
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 27
-categories: Sanidad
+parent_chapter: 75517e5c-2334-421b-8769-dbe823cce614
 text: Impulsaremos y adoptaremos las modificaciones normativas, legales y reglamentarias, necesarias para garantizar la efectividad del derecho a la protección a la salud a través del acceso universal al Sistema Nacional de Salud.
+categories: Sanidad

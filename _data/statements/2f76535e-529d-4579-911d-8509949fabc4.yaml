@@ -1,7 +1,6 @@
 id: 2f76535e-529d-4579-911d-8509949fabc4
 type: promise
-parent_statement: 69b702ac-6c9e-4202-bac9-c036cea93ab3
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
-categories: Nacionalismo y patriotismo
+parent_statement: 69b702ac-6c9e-4202-bac9-c036cea93ab3
+parent_chapter: 0c19cae3-98a2-45ba-a607-41aadce4ec63
 text: Intensidad y determinación en las acciones diplomáticas para la devolución de Gibraltar desmantelamiento de las redes de piratería, narcotráfico, contrabando y blanqueo de capitales que se extienden desde la colonia
+categories: Nacionalismo y patriotismo

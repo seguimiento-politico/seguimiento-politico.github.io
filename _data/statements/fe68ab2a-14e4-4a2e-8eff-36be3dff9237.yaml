@@ -1,11 +1,12 @@
 id: fe68ab2a-14e4-4a2e-8eff-36be3dff9237
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 32
-categories: Educación
+parent_chapter: d01d08b0-ad16-47ca-a6fa-7d638f061cfa
 text: En tanto se alcance una equiparación real y efectiva de la financiación de la educación concertada, se modificará la Ley 49/2002 de 23 de diciembre, de régimen fiscal de las entidades sin fines lucrativos y de los incentivos fiscales al mecenazgo, para reforzar que las aportaciones realizadas por las familias a entidades sin ánimo de lucro acogidas a la citada Ley y dedicadas a la educación concertada, sean deducibles en los términos recogidos en el artículo 17 de la citada ley.<br> Elaboraremos un informe sobre el coste de la plaza escolar. En función del mismo actualizaremos el módulo del concierto.
+categories: Educación

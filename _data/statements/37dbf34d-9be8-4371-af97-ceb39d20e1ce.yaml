@@ -1,6 +1,6 @@
 id: 37dbf34d-9be8-4371-af97-ceb39d20e1ce
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 57
+parent_chapter: f332e39e-54bd-4a09-97bf-4e1a0c3e4bbd
+children_promises:
+- 14b03751-a333-4780-8ac3-aa2264849457
+children_statements: []
+title: Continuaremos impulsando los despliegues 5G
 categories: Infraestructuras
 topics: Digitalización
-title: Continuaremos impulsando los despliegues 5G
-has_children: true

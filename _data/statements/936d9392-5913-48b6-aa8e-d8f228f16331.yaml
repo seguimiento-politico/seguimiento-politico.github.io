@@ -1,6 +1,6 @@
 id: 936d9392-5913-48b6-aa8e-d8f228f16331
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,15 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 174
-categories: Deporte
+parent_chapter: 1f3cf0db-d571-4433-a626-3036186931e1
+children_promises:
+- 7410699d-9c10-46e6-b9aa-8abec30c1727
+- 680a9da9-e5be-418f-9178-796ed1f9bfed
+- 3849fbe8-d680-480e-bf28-deca5e06e294
+- c8be25fe-3cee-4ad3-ae06-e5a6f4979a98
+- 29cae8f5-1b8e-4a05-b288-ed0ee8426b95
+- 957390e1-76ef-45a2-a123-e3a6fbea8cfe
+- e4c7af0e-fb3e-4d39-8643-8ea24052d923
+children_statements: []
 title: Promoción del deporte en la comunidad y en el ámbito personal, la práctica intergeneracional y la vida activa
-has_children: true
+categories: Deporte

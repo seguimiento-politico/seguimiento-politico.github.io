@@ -1,6 +1,6 @@
 id: 47d88cd3-8035-4f79-b176-00ad4dd42f25
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 60
+parent_chapter: df0855f1-ef6b-4176-a7cc-717c59210e57
+text: PROMOVEREMOS LA CREACIÓN DE MÁS RECURSOS ASISTENCIALES PARA QUE LAS PERSONAS CON DISCAPACIDAD PUEDAN VIVIR CON LOS APOYOS PERSONALES QUE PRECISEN, en consonancia con la Estrategia Europea de Cuidados.
 categories: Derechos y servicios sociales
 topics: Discapacidad
-text: PROMOVEREMOS LA CREACIÓN DE MÁS RECURSOS ASISTENCIALES PARA QUE LAS PERSONAS CON DISCAPACIDAD PUEDAN VIVIR CON LOS APOYOS PERSONALES QUE PRECISEN, en consonancia con la Estrategia Europea de Cuidados.

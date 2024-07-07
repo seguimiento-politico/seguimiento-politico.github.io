@@ -1,6 +1,6 @@
 id: 7aba8dd1-cb21-4a8d-850d-4cf05a147032
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 164
+parent_chapter: 1396ba16-84f5-4ba6-9717-58d5e5cedee0
+text: Reduciremos radicalmente el IVA de los productos destinados a la primera infancia como pañales, biberones o leche de fórmula.
 categories:
 - Familia
-text: Reduciremos radicalmente el IVA de los productos destinados a la primera infancia como pañales, biberones o leche de fórmula.

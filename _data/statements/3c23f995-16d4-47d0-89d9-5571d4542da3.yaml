@@ -1,6 +1,6 @@
 id: 3c23f995-16d4-47d0-89d9-5571d4542da3
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 10
-categories: Educación
+parent_chapter: 4cc9eb95-7c33-470b-bb2f-7ed39176baa9
 text: Derogación de la LOMCE. Aprobaremos una Ley Básica de Educación, que derogue la LOMCE y sus consecuencias negativas, que blinde la educación pública como eje vertebrador del sistema educativo e incorpore los acuerdos alcanzados por la comunidad educativa en estos años, eliminando la segregación escolar, y permitiendo la personalización de caminos formativos a las necesidades de los alumnos y alumnas. Alinearemos la Formación Profesional con el resto del sistema, reforzaremos la formación en valores y el desarrollo de capacidades transversales (soft skills) así como los mecanismos de autonomía y gobernanza de las escuelas. La nueva Ley de Educación garantizará desde sus principios rectores la inclusión y la eliminación de la segregación escolar por las condiciones de origen de los estudiantes, por sus necesidades educativas especiales o por sexo.
+categories: Educación

@@ -1,7 +1,6 @@
 id: b86a6811-a9e1-4c3a-9a65-0b878f9ed1c1
 type: promise
-parent_statement: 149f42ae-34ae-44e6-94ed-d7b76e6ec0a2
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Derechos y servicios sociales
+parent_statement: 149f42ae-34ae-44e6-94ed-d7b76e6ec0a2
+parent_chapter: 6bea7d15-32ea-402e-8fad-42663ddea615
 text: Para ello, necesitamos un marco normativo que facilite la creación y desarrollo de Equipos Interdisciplinares de Desarrollo Comunitario, con el objetivo de potenciar el trabajo en red con las asociaciones vecinales y las organizaciones sociales y ciudadanas que se encuentren en el territorio y sean capaces de facilitar la dinamización comunitaria. En definitiva, se trata de ir incardinando la acción comunitaria, entendida como instrumento para la convivencia en diversidad, la coproducción solidaria y la gobernanza participativa.
+categories: Derechos y servicios sociales

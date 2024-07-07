@@ -1,6 +1,6 @@
 id: 67d4f77d-5ce1-479b-8a90-531ec7ed60f7
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 59
+parent_chapter: fe1ddaf6-59e0-47ee-bda3-193d9d6d6150
+text: PONDREMOS EN MARCHA UN PLAN NACIONAL DE ATENCIÓN A LA FRAGILIDAD SOCIOSANITARIA con el fin de contribuir a la detección y orientación de los servicios sociosanitarios en base a la fragilidad de las personas, y a la planificación de los recursos necesarios en este ámbito, teniendo en cuenta la esfera física, social y cognitiva-mental.
 categories: Derechos y servicios sociales
 topics: Ciudados y dependencia
-text: PONDREMOS EN MARCHA UN PLAN NACIONAL DE ATENCIÓN A LA FRAGILIDAD SOCIOSANITARIA con el fin de contribuir a la detección y orientación de los servicios sociosanitarios en base a la fragilidad de las personas, y a la planificación de los recursos necesarios en este ámbito, teniendo en cuenta la esfera física, social y cognitiva-mental.

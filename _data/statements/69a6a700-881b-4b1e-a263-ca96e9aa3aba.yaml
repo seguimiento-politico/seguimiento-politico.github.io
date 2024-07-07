@@ -1,12 +1,13 @@
 id: 69a6a700-881b-4b1e-a263-ca96e9aa3aba
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 21
+parent_chapter: 9d4d8c82-d88b-49c6-8b4b-2154a888ebc8
+text: Pondremos en marcha un marco regulatorio singular y flexible para empresas innovadoras “Sandbox Regulation” que evite que la inseguridad jurídica frene las innovaciones.
 categories:
 - Economía
-text: Pondremos en marcha un marco regulatorio singular y flexible para empresas innovadoras “Sandbox Regulation” que evite que la inseguridad jurídica frene las innovaciones.

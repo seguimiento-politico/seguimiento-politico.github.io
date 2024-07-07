@@ -1,0 +1,71 @@
+name: Elitismo
+other:
+- &id004
+  id: 72c48444-4715-4db3-bae8-9ede18d9a05e
+  parties:
+  - VOX
+- &id005
+  id: 7f0ad76f-a506-418e-adf0-c32a323e457d
+  parties:
+  - VOX
+- &id007
+  id: 9cf9e90a-7818-4a2f-a7d5-992435ec6328
+  parties:
+  - VOX
+- &id008
+  id: c98415d3-520c-402c-9b30-3770c34d8a08
+  parties:
+  - VOX
+- &id009
+  id: b9d353f1-ba26-4e69-98ba-10a2ea7ee19d
+  parties:
+  - VOX
+- &id010
+  id: b189caa3-2294-4546-826d-a7e2eb489226
+  parties:
+  - VOX
+other_count: 6
+position_negative:
+- &id001
+  id: 25384583-ff36-4896-8e48-540b4200a231
+  parties:
+  - VOX
+- &id002
+  id: 60021e1e-5505-4377-989f-19b5155eb306
+  parties:
+  - VOX
+- &id003
+  id: 83fb3d41-07bd-4487-8c3e-78804a0dbc88
+  parties:
+  - VOX
+- &id006
+  id: 0a2182d5-60c8-4732-8c52-d162e8d67dcb
+  parties:
+  - VOX
+position_negative_count: 4
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- &id011
+  id: 4ee82bf6-1f17-48db-856d-d7f90c0c1b3e
+  parties:
+  - VOX
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+statements_count: 11
+status_quo_negative:
+- *id001
+- *id011
+status_quo_negative_count: 2
+status_quo_positive: []
+status_quo_positive_count: 0

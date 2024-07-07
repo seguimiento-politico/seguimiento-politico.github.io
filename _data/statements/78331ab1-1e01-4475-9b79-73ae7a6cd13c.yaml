@@ -1,6 +1,6 @@
 id: 78331ab1-1e01-4475-9b79-73ae7a6cd13c
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 140
-categories: Política internacional
+parent_chapter: 4d3afa99-1301-4519-a703-6dfe49d7e832
+children_promises:
+- efacd6aa-6bda-4ffa-80a6-d65ebf93fc47
+- 72bdba9d-9374-41d9-a762-c7456fd7fdd6
+- 0f36cc57-0745-4201-832a-a5b53979425b
+- d22285c8-52f5-4e7e-8721-acb1e455f620
+- 86298042-7028-4e6d-a6bf-74af504df0df
+children_statements: []
 title: Unas relaciones renovadas y una nueva agenda progresista con América Latina
-has_children: true
+categories: Política internacional

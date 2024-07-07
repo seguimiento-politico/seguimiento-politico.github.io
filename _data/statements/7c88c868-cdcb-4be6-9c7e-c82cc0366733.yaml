@@ -1,6 +1,6 @@
 id: 7c88c868-cdcb-4be6-9c7e-c82cc0366733
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,9 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 89
+parent_chapter: a166d84d-0ba4-4fa2-9e47-69b6c7805f22
+text: Aprobaremos las leyes básicas de bomberos forestales y de agentes forestales.
 categories: Medioambiente
 topics:
 - Cambio climático
 - Gestión de riesgos
 - Incendios
-text: Aprobaremos las leyes básicas de bomberos forestales y de agentes forestales.

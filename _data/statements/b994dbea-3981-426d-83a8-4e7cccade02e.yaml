@@ -1,6 +1,6 @@
 id: b994dbea-3981-426d-83a8-4e7cccade02e
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 90
+parent_chapter: 7a2272f5-3205-423d-bed5-4b2d9f159031
+text: Protegeremos el 30% de los espacios terrestres y el 30% de los marinos para el año 2030.
 categories: Medioambiente
 topics: Biodiversidad
-text: Protegeremos el 30% de los espacios terrestres y el 30% de los marinos para el año 2030.

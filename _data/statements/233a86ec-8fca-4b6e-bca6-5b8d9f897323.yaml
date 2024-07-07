@@ -1,6 +1,6 @@
 id: 233a86ec-8fca-4b6e-bca6-5b8d9f897323
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 14
+parent_chapter: 25c761ac-89ea-4a48-aa96-21ab2cc69c63
+children_promises:
+- 2bfb2b2d-4d84-4e4d-bec6-14850a332506
+- f940d898-b3f4-4507-a69f-79b4abaf5dd5
+children_statements: []
+title: Modificación de cartera de servicios sanitarios
 categories:
 - Sanidad
-title: Modificación de cartera de servicios sanitarios
-has_children: true

@@ -1,6 +1,6 @@
 id: f00c88f6-4552-486f-8e86-148785b2756b
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 59
+parent_chapter: de18231f-ea27-483e-81a9-f51977d7f26c
 title: Reformar la ley electoral para atender al principio de «una persona, un voto» y aumentar la proporcionalidad del sistema.
 text: Sustituiremos la fórmula de reparto de escaños D’Hondt por la de Sainte-Laguë, más proporcional Con este cambio en la ley electoral, atenuaremos la diferencia entre el porcentaje de votos y el porcentaje de escaños que obtiene cada partido y, con ello, las desigualdades en el valor del voto y la representación

@@ -1,6 +1,6 @@
 id: fcd5592c-f533-4744-9bc0-01b041888b07
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 266
+parent_chapter: 14fda285-4f48-4e5d-ad45-cb0baf35fb92
+text: Desarrollaremos la primera Estrategia Española de Diplomacia Humanitaria, adoptada este año, promoviendo el respeto al Derecho Internacional Humanitario y profundizando en los instrumentos y enfoque para la promoción y protección de los derechos humanos de mujeres y niñas.
 categories: Política internacional
 topics: Derechos humanos
-text: Desarrollaremos la primera Estrategia Española de Diplomacia Humanitaria, adoptada este año, promoviendo el respeto al Derecho Internacional Humanitario y profundizando en los instrumentos y enfoque para la promoción y protección de los derechos humanos de mujeres y niñas.

@@ -1,6 +1,6 @@
 id: 6a2aaa5f-afd0-4d49-aeb3-7729cac3859b
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,15 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 168
-categories: Cultura
+parent_chapter: 7350357f-215c-4adf-8549-2205377e11a9
+children_promises:
+- f9e9d688-b4bb-4761-a941-ce09d8ebec9f
+- 14187808-2210-4fa9-8188-f809ae670bcd
+- 3bcffde2-75ef-4896-80bc-9a74918bd8c5
+- 5b34b4b1-2697-4ee7-990a-c283f197388b
+- dc0f5762-f2a2-45f0-8e12-be9fd5c4307b
+- 80a2f506-75b6-490f-a4e4-05c2c5b64968
+- 4e9733b2-0488-4209-802c-e37889c851c4
+children_statements: []
 title: Participación, gobernanza y democratización de las prácticas e instituciones culturales.
-has_children: true
+categories: Cultura

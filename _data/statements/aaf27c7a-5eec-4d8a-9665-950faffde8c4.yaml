@@ -1,7 +1,6 @@
 id: aaf27c7a-5eec-4d8a-9665-950faffde8c4
 type: promise
-parent_statement: 1700b5be-2763-4c91-8732-c972901c20c2
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Trabajo
+parent_statement: 1700b5be-2763-4c91-8732-c972901c20c2
+parent_chapter: 2e87f7f8-d5a3-47a6-82d5-b25f36e88929
 text: Se introducirán sistemas de control, participación y transparencia en la gestión de las MATPSS.
+categories: Trabajo

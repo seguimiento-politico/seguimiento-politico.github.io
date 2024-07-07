@@ -1,6 +1,6 @@
 id: e9e94c39-b2e1-4033-aa29-5f2488cb0576
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 55
+parent_chapter: f4a5d1b6-d10d-41c8-af19-09947c6b9033
+children_promises:
+- b9388b76-4922-4001-85e7-730ccbe14e36
+- c4561b39-7d07-4cb0-9129-116a7b1dd3d3
+children_statements: []
+title: Planes de acción contra la contaminación acústica y lumínica
 categories: Medioambiente
 topics: Contaminación
-title: Planes de acción contra la contaminación acústica y lumínica
-has_children: true

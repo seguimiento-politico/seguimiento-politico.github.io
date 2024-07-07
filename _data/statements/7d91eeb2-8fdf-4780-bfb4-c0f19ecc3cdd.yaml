@@ -1,6 +1,6 @@
 id: 7d91eeb2-8fdf-4780-bfb4-c0f19ecc3cdd
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 60
+parent_chapter: de18231f-ea27-483e-81a9-f51977d7f26c
 text: Constitucionalizar de verdad la soberanía popular y garantizarla con una regulación que facilite presentar iniciativas legislativas populares y no permita invisibilizarlas, y que normalice las consultas cuando se trate de asuntos muy relevantes, como la entrada de España en operaciones militares Esta reforma también permitiría abrir nuevos espacios participativos, como la deliberación ciudadana en la elaboración, gestión y control de las políticas públicas, los presupuestos participativos del Estado, la participación en los procesos legislativos en las Cortes Generales o una mayor presencia de consultas populares, y sentaría las bases para que la participación avance en los demás ámbitos territoriales Además, cuando el 15 % del censo electoral entienda que el Gobierno le ha dado la espalda, podrá iniciar un proceso revocatorio que terminará con un referéndum en que se decida de manera vinculante si quien ocupa la presidencia del Gobierno debe dimitir y convocar nuevas elecciones generales Suprimiremos, además, la necesidad de autorización del Consejo de Ministros para la celebración de consultas populares locales, en el ámbito de sus competencias

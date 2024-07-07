@@ -1,7 +1,6 @@
 id: c60000f2-e35a-40bf-a82c-768c0a119797
 type: promise
-parent_statement: dcc95187-bc38-4df2-9053-1247401f6724
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: dcc95187-bc38-4df2-9053-1247401f6724
+parent_chapter: f4a5d1b6-d10d-41c8-af19-09947c6b9033
+text: Reforzaremos el carácter legal de los planes de calidad del aire y los planes de acción de reducción de la contaminación adoptados por las comunidades autónomas y municipios.
 categories: Medioambiente
 topics: Contaminación
-text: Reforzaremos el carácter legal de los planes de calidad del aire y los planes de acción de reducción de la contaminación adoptados por las comunidades autónomas y municipios.

@@ -1,6 +1,6 @@
 id: 290dd9c4-e687-456d-9a3e-d8640b3abed2
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 190
+parent_chapter: c522da89-5c36-4166-ae3f-6fd1f38abe58
+text: Trabajar por erradicar el sinhogarismo de calle en 2030, desarrollando el Acuerdo Marco e impulsando la Estrategia Nacional para la lucha contra el sinhogarismo en España 2023-2030.
 categories: Derechos y servicios sociales
 topics: Personas sin hogar
-text: Trabajar por erradicar el sinhogarismo de calle en 2030, desarrollando el Acuerdo Marco e impulsando la Estrategia Nacional para la lucha contra el sinhogarismo en España 2023-2030.

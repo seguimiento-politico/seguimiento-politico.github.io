@@ -1,7 +1,6 @@
 id: d419e052-d975-4f94-b3d6-fc45dfd904c4
 type: promise
-parent_statement: 7527a193-e44e-47b3-b6b9-51109cbccb08
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
+parent_statement: 7527a193-e44e-47b3-b6b9-51109cbccb08
+parent_chapter: 70e896cb-cc2e-4700-a649-38c82b332b6c
+text: Fomentar la flexibilidad de horarios e implantar un plan específico de reincorporación, para facilitar que los padres que hayan estado un tiempo dedicados al cuidado de los hijos puedan reincorporarse a la actividad laboral.
 categories:
 - Familia
-text: Fomentar la flexibilidad de horarios e implantar un plan específico de reincorporación, para facilitar que los padres que hayan estado un tiempo dedicados al cuidado de los hijos puedan reincorporarse a la actividad laboral.

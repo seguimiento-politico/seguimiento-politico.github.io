@@ -1,6 +1,6 @@
 id: 7c31f16f-7786-48a4-97d5-a43fd0484836
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 167
+parent_chapter: e207a6bf-9c54-4399-a574-f130ae590b63
+text: Todo ello se hace dentro del marco de una estrategia integral con la que equilibrar las cuentas de la seguridad social por la vía de los ingresos, terminando con la insolvencia heredada y fortaleciendo la estructura de ingresos del sistema. Por otro lado, la reforma introduce importantes elementos redistributivos. Sabemos que la reducción de la desigualdad es el fundamental para lograr el bienestar social, y por ello nuestra reforma tiene la solidaridad como principio motor.
 categories: Derechos y servicios sociales
 topics: Pensiones
-text: Todo ello se hace dentro del marco de una estrategia integral con la que equilibrar las cuentas de la seguridad social por la vía de los ingresos, terminando con la insolvencia heredada y fortaleciendo la estructura de ingresos del sistema. Por otro lado, la reforma introduce importantes elementos redistributivos. Sabemos que la reducción de la desigualdad es el fundamental para lograr el bienestar social, y por ello nuestra reforma tiene la solidaridad como principio motor.

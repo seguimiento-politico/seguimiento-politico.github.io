@@ -1,7 +1,6 @@
 id: 2717b8c1-0508-4493-9a2b-391da4950766
 type: promise
-parent_statement: 79b36441-816a-4d21-be49-cb3564d9fba1
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 79b36441-816a-4d21-be49-cb3564d9fba1
+parent_chapter: dc33f933-12a0-4325-b761-1f9bf8c3ad0d
+text: Se aprovechará el conocimiento del sector y se aplicarán modelos contrastados que ya funcionan con éxito." Estableceremos mecanismos para que las cuotas pesqueras se consuman con criterios sociales y territoriales, evitando negocios especulativos. Se tendrá en cuenta el segmento de flota del que se trate en cada caso, evitando que las capturas históricas sean el elemento determinante y exclusivo en los repartos." Aplicaremos el artículo 17 de la Política Pesquera Común para facilitar el acceso de los pescadores artesanales y de pequeña escala a los recursos marinos y los mercados." Se dará un tratamiento diferenciado a la pesca artesanal por sus características distintivas (como la escasa capacidad de desplazamiento y su vinculación al territorio), protegiéndola de forma efectiva frente a la competencia de la pesca deportiva y otros tipos de pesca. Prohibición de la pesca recreativa de especies en situación biológica sensible y de las que están sujetas a Tac y cuotas, dada la necesidad de protección que estas presentan."
 categories: Pesca y acuicultura
 topics: Desarrollo sostenible
-text: Se aprovechará el conocimiento del sector y se aplicarán modelos contrastados que ya funcionan con éxito." Estableceremos mecanismos para que las cuotas pesqueras se consuman con criterios sociales y territoriales, evitando negocios especulativos. Se tendrá en cuenta el segmento de flota del que se trate en cada caso, evitando que las capturas históricas sean el elemento determinante y exclusivo en los repartos." Aplicaremos el artículo 17 de la Política Pesquera Común para facilitar el acceso de los pescadores artesanales y de pequeña escala a los recursos marinos y los mercados." Se dará un tratamiento diferenciado a la pesca artesanal por sus características distintivas (como la escasa capacidad de desplazamiento y su vinculación al territorio), protegiéndola de forma efectiva frente a la competencia de la pesca deportiva y otros tipos de pesca. Prohibición de la pesca recreativa de especies en situación biológica sensible y de las que están sujetas a Tac y cuotas, dada la necesidad de protección que estas presentan."

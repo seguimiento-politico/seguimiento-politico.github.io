@@ -1,6 +1,6 @@
 id: be49e451-e933-494f-9d40-a1cf73635d26
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 49
-categories: Industria
+parent_chapter: 52ae8dc4-28e9-4398-8226-2aed999f465f
+children_promises:
+- e7f2eb93-ebb6-476f-98c3-d965f9022798
+- b2aca48b-c8df-41d5-99fc-35b2899d953e
+children_statements: []
 title: Continuaremos trabajando en un pacto global y de estado por la industria en nuestro país, buscando el apoyo unánime de todas las fuerzas políticas.
-has_children: true
+categories: Industria

@@ -1,6 +1,6 @@
 id: 3aea8541-78d6-4c2a-b480-35159ab7db87
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 124
-categories: Cultura
+parent_chapter: ef655d4e-aabd-4367-b039-db13bf06547d
 text: Pondremos en marcha un programa de cine de verano en municipios sin salas de exhibición.
+categories: Cultura

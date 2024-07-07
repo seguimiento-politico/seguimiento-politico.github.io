@@ -1,7 +1,6 @@
 id: c3d7dcfa-6c14-4917-9b53-a9c718138d55
 type: promise
-parent_statement: cdb991b4-1783-46ef-9537-d9079615277d
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,6 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 222
+parent_statement: cdb991b4-1783-46ef-9537-d9079615277d
+parent_chapter: ac350b9c-6bf2-4017-a573-8420cb922467
+text: 50.000 viviendas promovidas directamente por el Estado a través de la Entidad Pública Estatal de Suelo (Sepes), de las que 30.000 pertenecen a actuaciones en diferentes desarrollos, y 20.000 corresponden a suelos provenientes de 50 antiguas instalaciones militares.
 categories: Vivienda
 topics: Alquiler
-text: 50.000 viviendas promovidas directamente por el Estado a través de la Entidad Pública Estatal de Suelo (Sepes), de las que 30.000 pertenecen a actuaciones en diferentes desarrollos, y 20.000 corresponden a suelos provenientes de 50 antiguas instalaciones militares.

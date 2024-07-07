@@ -1,0 +1,30 @@
+name: Modelo económico
+other:
+- &id001
+  id: e8cb05ac-9cb5-4bc4-9a95-c3bb98f4ec20
+  parties:
+  - VOX
+- &id002
+  id: 72c48444-4715-4db3-bae8-9ede18d9a05e
+  parties:
+  - VOX
+- &id003
+  id: 472db57a-6630-4f76-b08f-6ecf22bd8296
+  parties:
+  - VOX
+other_count: 3
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- *id002
+- *id003
+statements_count: 3
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

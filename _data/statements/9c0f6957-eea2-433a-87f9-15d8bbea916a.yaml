@@ -1,7 +1,6 @@
 id: 9c0f6957-eea2-433a-87f9-15d8bbea916a
 type: promise
-parent_statement: 204a2ade-7edc-4ca8-ad93-439719eebddd
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Deporte
+parent_statement: 204a2ade-7edc-4ca8-ad93-439719eebddd
+parent_chapter: a70e8aeb-8c97-49cc-a564-4ef30daf0789
 text: Es importante también que mejoremos la sostenibilidad energética de las instalaciones deportivas, garanticemos la adaptación y accesibilidad de los espacios, las instalaciones y los equipamientos deportivos, potenciemos las instalaciones deportivas dirigidas específicamente a las personas con discapacidad y que adaptemos, en su caso, los espacios e instalaciones deportivas a la demanda deportiva en el medio rural. En este sentido, sería interesante consolidar el senderismo como actividad estratégica de salud, bienestar y sociabilidad.
+categories: Deporte

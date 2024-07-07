@@ -1,6 +1,6 @@
 id: e7ec2c24-d85f-480c-945a-b2d13bf4df42
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 50
+parent_chapter: c31b1fcd-80d0-4ca3-b06a-863fa279380c
+children_promises:
+- 25724bb2-a449-4fae-aca7-2a9fc89afe6f
+children_statements: []
+title: Reducción de la contaminación del agua
 categories: Medioambiente
 topics: Desertificación
-title: Reducción de la contaminación del agua
-has_children: true

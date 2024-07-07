@@ -1,6 +1,6 @@
 id: dc2cc071-04d3-4559-b2b8-195d0605a54b
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 109
+parent_chapter: f91bc08f-3d6b-4f78-a00a-810f7184cf6a
 text: Prohibir la utilización de sociedades pantalla como un instrumento para disfrutar de la vivienda habitual pagando menos impuestos. Evitaremos así la práctica, que hemos conocido con frecuencia últimamente, de tener como vivienda habitual una casa no con un título de propiedad directa, sino a través de la titularidad de una sociedad pantalla de la misma persona, su familia o una persona de confianza, creada con el fin de ponerla a disposición de quien la disfruta pagando menos impuestos por su adquisición y tenencia La prohibición dejaría sin efecto estas operaciones interpuestas y atribuiría la propiedad de la vivienda directamente a quien la ha pagado y la disfruta, que tendrá que abonar los correspondientes impuestos, como hacen todos los españoles y españolas Las sociedades mercantiles deben servir para participar en la actividad mercantil, no para eludir impuestos en el disfrute privado de los bienes y servicios

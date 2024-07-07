@@ -1,6 +1,6 @@
 id: d6f321a6-b1de-4220-8bb6-23dace69dfba
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 56
+parent_chapter: 5d726eb0-d9d8-487a-b54a-76273c1b0a4a
+children_promises:
+- d7812eae-fcd9-4dc7-9c26-d1e6f2203f8e
+children_statements: []
+title: Desarrollaremos la aplicación Mi Carpeta Ciudadana, integrando más funcionalidades de las ya disponibles
 categories: Economía
 topics: Digitalización
-title: Desarrollaremos la aplicación Mi Carpeta Ciudadana, integrando más funcionalidades de las ya disponibles
-has_children: true

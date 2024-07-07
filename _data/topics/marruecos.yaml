@@ -1,0 +1,35 @@
+name: Marruecos
+other:
+- &id001
+  id: b6b10d9a-e0ef-49e5-aa4f-c9c39ef75890
+  parties:
+  - PSOE
+- &id002
+  id: b5607865-b4ca-4e0f-ae05-e96d4c1dd5c8
+  parties:
+  - VOX
+- &id003
+  id: d12b7fa8-0ed5-4e94-b1a7-38d09e359ff8
+  parties:
+  - VOX
+other_count: 3
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- &id004
+  id: 5e01ecde-164a-4901-a71c-f1f1b21c6b5c
+  parties:
+  - VOX
+- *id002
+- *id003
+statements_count: 4
+status_quo_negative:
+- *id004
+status_quo_negative_count: 1
+status_quo_positive: []
+status_quo_positive_count: 0

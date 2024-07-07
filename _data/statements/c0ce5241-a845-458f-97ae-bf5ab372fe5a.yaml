@@ -1,6 +1,6 @@
 id: c0ce5241-a845-458f-97ae-bf5ab372fe5a
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 78
-categories: Administración pública
+parent_chapter: b3f3a427-7acf-443a-9179-5ef199e2ef15
 text: ACORDAREMOS UNA REFORMA DEL SISTEMA DE FINANCIACIÓN AUTONÓMICA que sustituya al vigente desde hace 15 años y lo negociaremos con todas las Comunidades Autónomas, buscando los consensos necesarios para su aprobación. La reforma partirá de la suficiencia y la sostenibilidad de las finanzas públicas, buscando un reparto equitativo de los recursos, preservará la autonomía fiscal de las Comunidades Autónomas y reforzará su responsabilidad financiera. Se analizarán otros elementos que afecten a las finanzas autonómicas, como la eliminación ordenada del FLA, la revisión del fondo de compensación interterritorial y el encaje con la financiación local.
+categories: Administración pública

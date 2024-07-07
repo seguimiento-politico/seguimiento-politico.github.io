@@ -1,0 +1,21 @@
+id: 9266f557-b575-44f0-95a1-f3f4d1066b75
+type: statement
+parent_document: a613c4b6-f9dc-4926-8b9a-b87c233e5a75
+parties:
+- VOX
+election_type: europeas
+election_date: '2024-06-09'
+publication_date: '2024-05-30'
+page: 9
+text: Negando y rechazando aquellos estudios científicos que han advertido sobre las nefastas consecuencias de las Estrategias “De la Granja a la Mesa” y “Biodiversidad para 2030” para el sector agroalimentario europeo, Von der Leyen ha actuado de forma irresponsable, sacrificando la productividad agraria para cumplir una serie de objetivos medioambientales. Bruselas ha ignorado los diversos tipos de producción y las diferentes prácticas agrícolas de los Estados miembros. La imposición de objetivos homogéneos a nivel europeo tendrá efectos desiguales según el país que se trate, generando una discriminación entre los agricultores y ganaderos europeos y perjudicando gravemente, entre otros, al sector primario español.
+categories:
+- Agricultura
+- Ganadería
+- Medioambiente
+topics:
+- name: Estudios científicos
+- name: Pacto Verde Europeo
+  position_negative:
+  - text: estudios científicos que advierten de su impacto negativo en el sector agroalimentario europeo
+  - text: sacrificio de la productividad agraria para cumplir una serie de objetivos medioambientales
+  - text: objetivos homogéneos tendrán efectos desiguales según el país, generando desigualdad entre los agricultores y ganaderos europeos y perjudicando gravemente, entre otros, al sector primario español

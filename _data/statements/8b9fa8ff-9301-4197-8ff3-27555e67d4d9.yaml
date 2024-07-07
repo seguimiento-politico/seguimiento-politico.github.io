@@ -1,6 +1,6 @@
 id: 8b9fa8ff-9301-4197-8ff3-27555e67d4d9
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 142
+parent_chapter: 46f86e67-8c84-4e9a-b4fc-edce6fe582f3
+text: Los cuidados nos competen a todas las personas como sociedad y debemos avanzar hacia una organización social donde éstos no recaigan de manera de manera sistemática en las mujeres. La división sexual del trabajo y la desigual distribución en los usos del tiempo, a través de los mandatos de género establecidos socialmente, impiden la corresponsabilidad y sitúan a las mujeres en el centro de los cuidados. En el partido socialista creemos que es imprescindible desvincular la idea que asocia los cuidados con las mujeres. En esa idea, la de la división sexual del trabajo, se fundamenta toda la desigualdad y las discriminaciones que sufren las mujeres.
 categories: Derechos y servicios sociales
 topics: Cuidados
-text: Los cuidados nos competen a todas las personas como sociedad y debemos avanzar hacia una organización social donde éstos no recaigan de manera de manera sistemática en las mujeres. La división sexual del trabajo y la desigual distribución en los usos del tiempo, a través de los mandatos de género establecidos socialmente, impiden la corresponsabilidad y sitúan a las mujeres en el centro de los cuidados. En el partido socialista creemos que es imprescindible desvincular la idea que asocia los cuidados con las mujeres. En esa idea, la de la división sexual del trabajo, se fundamenta toda la desigualdad y las discriminaciones que sufren las mujeres.

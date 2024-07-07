@@ -1,6 +1,6 @@
 id: 73520624-67e5-46b8-aa35-f76993f22e5f
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 24
+parent_chapter: 3af136f2-79a9-420c-af0c-d9d97743494c
+children_promises:
+- f34df911-b21f-4594-92d7-d2a213018c6f
+children_statements: []
+title: Cooperación internacional hispánica
 categories:
 - Política internacional
-title: Cooperación internacional hispánica
-has_children: true

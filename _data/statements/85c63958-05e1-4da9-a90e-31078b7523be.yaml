@@ -1,7 +1,6 @@
 id: 85c63958-05e1-4da9-a90e-31078b7523be
 type: promise
-parent_statement: 6e6d5819-d8f0-4fe7-834c-b711e87b175c
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 6e6d5819-d8f0-4fe7-834c-b711e87b175c
+parent_chapter: 477927b2-ab8b-4a05-8cc0-962c0cbbb883
+text: Reconoceremos las cooperativas o sociedades laborales dependientes (aquellas cuyos ingre sos dependen de un cliente en al menos un determinado porcentaje). En estos casos, la empresa cliente abonará la diferencia entre la remuneración de las socias y los socios-trabajadores y la que perciban sus propias personas empleadas de nivel equivalente.
 categories: Trabajo
 topics: Economía social
-text: Reconoceremos las cooperativas o sociedades laborales dependientes (aquellas cuyos ingre sos dependen de un cliente en al menos un determinado porcentaje). En estos casos, la empresa cliente abonará la diferencia entre la remuneración de las socias y los socios-trabajadores y la que perciban sus propias personas empleadas de nivel equivalente.

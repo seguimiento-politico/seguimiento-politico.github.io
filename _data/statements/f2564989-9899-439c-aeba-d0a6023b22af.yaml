@@ -1,6 +1,6 @@
 id: f2564989-9899-439c-aeba-d0a6023b22af
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 44
+parent_chapter: 1e1d9fec-722c-4fe5-83c8-753b161e1073
+children_promises:
+- 4dbb5aa5-e066-484b-b681-c77db29d4bfb
+children_statements: []
+title: Impulsaremos proyectos que contribuyan a fomentar impactos positivos y reducir los efectos negativos de la actividad turística.
 categories: Turismo
 topics: Desarrollo sostenible
-title: Impulsaremos proyectos que contribuyan a fomentar impactos positivos y reducir los efectos negativos de la actividad turística.
-has_children: true

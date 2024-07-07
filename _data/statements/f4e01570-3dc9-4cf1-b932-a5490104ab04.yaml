@@ -1,7 +1,6 @@
 id: f4e01570-3dc9-4cf1-b932-a5490104ab04
 type: promise
-parent_statement: 7c9602ed-faed-4d85-bcb3-1c83d7e021e6
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +8,10 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: 7c9602ed-faed-4d85-bcb3-1c83d7e021e6
+parent_chapter: 1d4a4787-163e-4649-b875-f97fd3780649
+text: Defensa ante la UE de un mayor control de las importaciones para que los productos importados cumplan los mismos estándares ambientales, sociales y laborales que los productores europeos.
 categories:
 - Agricultura
 - Ganadaría
 topics: Desarrollo sostenible
-text: Defensa ante la UE de un mayor control de las importaciones para que los productos importados cumplan los mismos estándares ambientales, sociales y laborales que los productores europeos.

@@ -1,7 +1,6 @@
 id: 25724bb2-a449-4fae-aca7-2a9fc89afe6f
 type: promise
-parent_statement: e7ec2c24-d85f-480c-945a-b2d13bf4df42
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: e7ec2c24-d85f-480c-945a-b2d13bf4df42
+parent_chapter: c31b1fcd-80d0-4ca3-b06a-863fa279380c
+text: Reducción de la contaminación del agua provocada por el uso excesivo de fertilizantes sintéticos y excrementos y purines de la ganadería industrial, priorizando aquellos que afectan a los espacios naturales con un alto interés para la biodiversidad.
 categories: Medioambiente
 topics: Desertificación
-text: Reducción de la contaminación del agua provocada por el uso excesivo de fertilizantes sintéticos y excrementos y purines de la ganadería industrial, priorizando aquellos que afectan a los espacios naturales con un alto interés para la biodiversidad.

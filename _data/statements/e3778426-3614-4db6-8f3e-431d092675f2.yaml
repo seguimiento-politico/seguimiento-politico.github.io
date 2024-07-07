@@ -1,6 +1,6 @@
 id: e3778426-3614-4db6-8f3e-431d092675f2
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 48
-categories: Organización territorial
+parent_chapter: 0ebe7bcf-4ec7-4d85-9e96-27e33fcdd88d
 text: Garantizaremos los elementos nucleares de la autonomía local, tras el intento de cercenar el ámbito de actuación de los entes locales que ha supuesto la Ley de Racionalización y Sostenibilidad de las Administraciones Locales. La Constitución debería reconocer al municipio como unidad territorial básica, así como sus competencias propias. Abordaremos la reforma y la mejora de la financiación local, mediante la previsión de tributos propios mínimos, sin perjuicio de otros que puedan ser reconocidos por la legislación estatal y autonómica, y facilitaremos la libre disposición de los recursos derivados de la participación en los ingresos del Estado.
+categories: Organización territorial

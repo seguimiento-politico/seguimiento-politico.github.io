@@ -1,6 +1,6 @@
 id: 99e55604-4417-443f-9623-2c58064f92d7
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 50
+parent_chapter: c31b1fcd-80d0-4ca3-b06a-863fa279380c
+children_promises:
+- 15566fdd-66e2-437d-b846-053575cdc35c
+- 5be9ccc3-d54c-43db-834b-c8dc4ed98803
+- 02455e90-eb7d-4d39-b6fa-428c4a84cee0
+- 903dbb41-d9de-4e41-83cc-8c4156eeeeba
+children_statements:
+- 7af3d19f-2739-4f97-95bb-d7abc9056e38
+title: Cumplimiento de la depuración completa de aguas residuales para 2027.
 categories: Medioambiente
 topics: Desertificación
-title: Cumplimiento de la depuración completa de aguas residuales para 2027.
-has_children: true

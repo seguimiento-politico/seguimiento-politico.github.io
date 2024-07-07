@@ -1,0 +1,35 @@
+name: Multiculturalismo
+other:
+- &id003
+  id: a798616d-b7b5-46ed-8207-4933c080a95f
+  parties:
+  - VOX
+other_count: 1
+position_negative:
+- &id001
+  id: 83fb3d41-07bd-4487-8c3e-78804a0dbc88
+  parties:
+  - VOX
+- &id002
+  id: bf01f1b3-2ed1-4ef6-a780-e7ededcbeb84
+  parties:
+  - VOX
+- &id004
+  id: 3f62eebc-f39f-4c67-9303-da5dfe96bc21
+  parties:
+  - VOX
+position_negative_count: 3
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- *id002
+- *id003
+- *id004
+statements_count: 4
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

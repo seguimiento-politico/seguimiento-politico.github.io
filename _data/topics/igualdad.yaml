@@ -1,0 +1,26 @@
+name: Igualdad
+other:
+- &id001
+  id: 11899f3a-7cde-4304-9eea-ac5d7f91733a
+  parties:
+  - CIUDADANOS
+- &id002
+  id: b84df99c-5b2c-4ccf-8c75-60854a04aa02
+  parties:
+  - PSOE
+  - UNIDAS PODEMOS
+other_count: 2
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- *id002
+statements_count: 2
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

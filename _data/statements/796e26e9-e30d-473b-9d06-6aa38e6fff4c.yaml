@@ -1,6 +1,6 @@
 id: 796e26e9-e30d-473b-9d06-6aa38e6fff4c
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 77
-categories: Impuestos y financiación pública
+parent_chapter: ec3e397c-bf4a-4692-a06e-58f507cee1f8
 text: 'Impuesto de Sociedades: reducción del tipo progresiva y continuada en la legislatura hasta alcanzar el 15% y simplificación del Impuesto sobre Sociedades para favorecer el crecimiento de nuestras empresas y la creación de empleo en España, así como para atraer los beneficios generados por empresas españolas en el exterior. El tipo aplicable se reducirá efectivamente en función de la relocalización de beneficios en España y de la creación efectiva de empleo en España, con incentivos fiscales a la inversión y a la reinversión de beneficios y plusvalías en bienes y activos tangibles e intangibles; eliminando toda discriminación de la inversión por tamaño.'
+categories: Impuestos y financiación pública

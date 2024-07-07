@@ -1,6 +1,6 @@
 id: 7bc0f1c6-82ae-4082-a0bf-9fa21d6089bf
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 6
+parent_chapter: 73e0eb17-ca17-45e8-a4bd-217e9f7fe4bf
+text: Garantizaremos que la digitalización se realiza preservando nuestra segur  idad, derechos laborales y sociales, y valores democráticos, y que se ejecuta de forma inclusiva, asegurando la justicia social e incorporando a todos los sectores de la sociedad.
 categories: Economía
 topics: Desarrollo sostenible
-text: Garantizaremos que la digitalización se realiza preservando nuestra segur  idad, derechos laborales y sociales, y valores democráticos, y que se ejecuta de forma inclusiva, asegurando la justicia social e incorporando a todos los sectores de la sociedad.

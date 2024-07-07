@@ -1,6 +1,6 @@
 id: c2c80ba6-ad9b-4c9b-8878-dd449f9da80b
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 48
-categories: Territorio rural
+parent_chapter: bfeb74d8-c8b3-47b4-b73b-61f1aaaf5305
 text: Impulsaremos un plan de inversiones en nuestras infraestructuras ferroviarias con parámetros de calidad, sostenibilidad y justicia territorial. Disponer de un transporte ferroviario de calidad no solamente cohesiona nuestro país y facilita la movilidad de las personas, sino que, además, ayuda a reducir las emisiones. Es necesario incrementar la frecuencia de los servicios existentes de corta y media distancia.
+categories: Territorio rural

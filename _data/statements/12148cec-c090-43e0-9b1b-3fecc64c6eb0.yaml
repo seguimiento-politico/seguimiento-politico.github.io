@@ -1,7 +1,6 @@
 id: 12148cec-c090-43e0-9b1b-3fecc64c6eb0
 type: promise
-parent_statement: ea8b4d8a-7756-4299-9feb-63375891352a
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: ea8b4d8a-7756-4299-9feb-63375891352a
+parent_chapter: b3f71622-6590-4ea3-b839-4254df880fe7
+text: Crearemos una comisión delegada para asuntos rurales, dependiente directamente del Ministerio de la Presidencia, para coordinar las actividades de los distintos ministerios en relación con el medio rural; un consejo asesor del medio rural, con representantes de la sociedad civil del medio rural y personas expertas; y un observatorio del medio rural, responsable de un informe anual sobre la evolución de la situación del medio rural, con estudios específicos sobre los diferentes territorios.
 categories: Territorio rural
 topics: Igualdad
-text: Crearemos una comisión delegada para asuntos rurales, dependiente directamente del Ministerio de la Presidencia, para coordinar las actividades de los distintos ministerios en relación con el medio rural; un consejo asesor del medio rural, con representantes de la sociedad civil del medio rural y personas expertas; y un observatorio del medio rural, responsable de un informe anual sobre la evolución de la situación del medio rural, con estudios específicos sobre los diferentes territorios.

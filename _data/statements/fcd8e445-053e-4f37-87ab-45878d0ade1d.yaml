@@ -1,6 +1,6 @@
 id: fcd8e445-053e-4f37-87ab-45878d0ade1d
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 170
-categories: Cultura
+parent_chapter: d83fae97-6483-46e8-ac0d-9980e0838a11
+children_promises:
+- f0290aa4-5bee-412f-956f-9756f05ada30
+- e49e9559-3d9b-4fce-ad9f-c4092d89c598
+children_statements: []
 title: La cultura como eje estratégico para la vertebración territorial del Estado
-has_children: true
+categories: Cultura

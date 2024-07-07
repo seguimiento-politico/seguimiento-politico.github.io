@@ -1,6 +1,6 @@
 id: 99a5d317-faa7-4f8f-affa-2edab9a44408
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 20
-categories: Trabajo
+parent_chapter: 2817bce5-ff8f-4e37-968e-c4f707d06358
 title: BUSCAREMOS MEJORAR LAS CONDICIONES LABORALES Y DE SEGURIDAD SOCIAL PARA LOS TRABAJADORES AUTÓNOMOS.
 text: Apoyaremos la conciliación de los autónomos mediante una bonificación específica a la cuota empresarial en caso de que contraten a un trabajador por cuenta ajena durante el descanso del trabajador autónomo por nacimiento de hijo o situaciones análogas. Aproximaremos el TRADE (trabajador autónomo económicamente dependiente) al trabajo por cuenta ajena en términos de protección social.
+categories: Trabajo

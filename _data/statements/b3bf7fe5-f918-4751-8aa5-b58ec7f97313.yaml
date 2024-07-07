@@ -1,7 +1,6 @@
 id: b3bf7fe5-f918-4751-8aa5-b58ec7f97313
-type: declaration
-parent_statement: d227391b-0585-45a6-a850-6d14883d83ca
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -9,6 +8,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 12
+parent_statement: d227391b-0585-45a6-a850-6d14883d83ca
+parent_chapter: 49a1f009-be5a-4a44-ac48-45c1f040a528
+text: Impulsaremos el desarrollo de las energías limpias, y la racionalización y sostenibilidad del uso de nuestros recursos hídricos y naturales, potenciando los sectores primarios y combatiendo la despoblación de nuestro mundo rural.
 categories: Economía
 topics: Desarrollo sostenible
-text: Impulsaremos el desarrollo de las energías limpias, y la racionalización y sostenibilidad del uso de nuestros recursos hídricos y naturales, potenciando los sectores primarios y combatiendo la despoblación de nuestro mundo rural.

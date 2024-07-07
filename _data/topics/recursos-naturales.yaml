@@ -1,0 +1,25 @@
+name: Recursos naturales
+other:
+- &id001
+  id: 6d80f622-8f4b-46eb-9919-6fba40155c99
+  parties:
+  - VOX
+- &id002
+  id: 6a89095b-67ba-467d-adc1-c59d0072d256
+  parties:
+  - VOX
+other_count: 2
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- *id002
+statements_count: 2
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

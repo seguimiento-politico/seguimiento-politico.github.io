@@ -1,6 +1,6 @@
 id: 866d028f-86f9-4d35-a5fa-4d34fbec71a8
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 45
+parent_chapter: 8b3b4090-2613-4308-b395-3a2c5b3078b6
+text: Profundizaremos en la digitalización de la Administración, empleando las nuevas tecnologías para la definición de políticas públicas y para mejorar los procesos y los servicios desde la perspectiva del ciudadano; y aprobaremos un Plan de Formación y capacitación de los empleados públicos.
 categories: Ciencia y tecnología
 topics: Digitalización
-text: Profundizaremos en la digitalización de la Administración, empleando las nuevas tecnologías para la definición de políticas públicas y para mejorar los procesos y los servicios desde la perspectiva del ciudadano; y aprobaremos un Plan de Formación y capacitación de los empleados públicos.

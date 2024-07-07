@@ -1,6 +1,6 @@
 id: 9fb7cc7c-8411-4d94-bd48-59232b62bcbf
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,9 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 41
+parent_chapter: 2c1c9355-e394-4081-ab4a-f2f453e2cb83
+text: Aprobaremos sendos Estatutos Básicos para los Agentes Forestales y para los Bomberos Forestales, de forma que en todo el territorio se mejoren las condiciones de trabajo de estos profesionales, que juegan un papel crucial en la preservación de la biodiversidad, así como en la prevención y extinción de incendios forestales.
 categories: Medioambiente
 topics:
 - Cambio climático
 - Desarrollo sostenible
-text: Aprobaremos sendos Estatutos Básicos para los Agentes Forestales y para los Bomberos Forestales, de forma que en todo el territorio se mejoren las condiciones de trabajo de estos profesionales, que juegan un papel crucial en la preservación de la biodiversidad, así como en la prevención y extinción de incendios forestales.

@@ -1,6 +1,6 @@
 id: b537ce93-3896-4249-9a2c-7d98586c71b5
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 94
+parent_chapter: 4b1a1fd6-83f2-4e8c-a775-7e65f72f50be
 title: Tiempo máximo de 1 mes para las listas de espera de cualquier especialista o de operaciones relacionadas con patologías graves.
 text: Dentro de las competencias del Estado, a través de los órganos correspondientes y con la dotación de los recursos materiales y humanos necesarios, se hará valer esta garantía

@@ -1,6 +1,6 @@
 id: a97de9ec-f7df-49a0-be75-7395eaedda8d
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 241
+parent_chapter: e5be3d56-d004-4484-b293-9d1f24b80d8c
+text: Garantizaremos el diálogo social para el reconocimiento de las condiciones de trabajo y el establecimiento de nuevos derechos, buscando el consenso en los avances en materia de empleo público, y proponiendo un II Acuerdo Marco para una Administración del Siglo XXI.
 categories: Trabajo
 topics: Empleo público
-text: Garantizaremos el diálogo social para el reconocimiento de las condiciones de trabajo y el establecimiento de nuevos derechos, buscando el consenso en los avances en materia de empleo público, y proponiendo un II Acuerdo Marco para una Administración del Siglo XXI.

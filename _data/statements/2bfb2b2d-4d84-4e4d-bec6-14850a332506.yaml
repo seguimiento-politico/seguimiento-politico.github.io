@@ -1,7 +1,6 @@
 id: 2bfb2b2d-4d84-4e4d-bec6-14850a332506
 type: promise
-parent_statement: 233a86ec-8fca-4b6e-bca6-5b8d9f897323
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
+parent_statement: 233a86ec-8fca-4b6e-bca6-5b8d9f897323
+parent_chapter: 25c761ac-89ea-4a48-aa96-21ab2cc69c63
+text: Suprimir en la sanidad pública las intervenciones quirúrgicas ajenas a la salud (cambio de género, aborto...)
 categories:
 - Sanidad
-text: Suprimir en la sanidad pública las intervenciones quirúrgicas ajenas a la salud (cambio de género, aborto...)

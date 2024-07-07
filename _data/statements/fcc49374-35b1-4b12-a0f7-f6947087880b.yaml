@@ -1,7 +1,6 @@
 id: fcc49374-35b1-4b12-a0f7-f6947087880b
 type: promise
-parent_statement: da5095ad-5ec9-44ef-bd2c-aefee0d0102d
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Trabajo
+parent_statement: da5095ad-5ec9-44ef-bd2c-aefee0d0102d
+parent_chapter: b3962e05-bd69-4c4c-a4f4-32760cf9c456
 text: Garantizaremos la igualdad de las condiciones esenciales de trabajo de las personas trabaja doras externalizadas en relación con las personas trabajadoras de la empresa principal.
+categories: Trabajo

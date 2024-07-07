@@ -1,10 +1,27 @@
-domains:
-    - Sociedad
-    - Estado
-    - Estado de bienestar
-    - Economía
-    - Medioambiente
-    - Relaciones internacionales
+filter_by_status_lang_label: statement_status
+filter_by_category_lang_label: category_label
+
+statuses:
+    -
+        name: Opinión
+        lang_label: status_opinion
+        color: secondary
+        icon: lightbulb
+    -
+        name: Afirmación veraz
+        lang_label: status_true
+        color: success
+        icon: check-circle
+    -
+        name: Afirmación falaz
+        lang_label: status_misleading
+        color: warning
+        icon: fire-alt
+    -
+        name: Afirmación falsa
+        lang_label: status_false
+        color: danger
+        icon: ban
 
 categories:
     -   name: Infraestructuras
@@ -31,16 +48,6 @@ categories:
         icon: industry
     -   name: Turismo
         icon: umbrella-beach
-    -   name: Agricultura
-        icon: wheat-awn
-    -   name: Ganadería
-        icon: horse
-    -   name: Pesca y acuicultura
-        icon: fish
-    -   name: Minería
-        icon: explosion
-    -   name: Industria forestal
-        icon: tree
     -   name: Agua
         icon: faucet
     -   name: Energía
@@ -87,10 +94,10 @@ categories:
         icon: fighter-jet 
     -   name: Política internacional
         icon: globe  
+    -   name: Unión Europea
+        icon: eur 
     -   name: Cooperación internacional
         icon: peace
-    -   name: Nacionalismo y patriostismo
-        icon: people-group
     -   name: Territorio rural
         icon: tractor
     -   name: Familia
@@ -104,27 +111,311 @@ categories:
     -   name: Minorías
         icon: people-roof
 
-statuses:
-    -
-        name: Opinion
-        lang_label: status_opinion
-        color: secondary
-        icon: lightbulb
-    -
-        name: Afirmación veraz
-        lang_label: status_true
-        color: success
-        icon: check-circle
-    -
-        name: Afirmación falaz 
-        lang_label: status_misleading
-        color: warning
-        icon: fire-alt
-    -
-        name: Afirmación falsa
-        lang_label: status_false
-        color: danger
-        icon: ban
+topics:
+- name: Agua
+- name: Energía
+- name: Familia
+- name: Religión
+- name: Civismo
+- name: Lenguas
+- name: Empresas públicas
+- name: Fuerzas armadas
+- name: Policía
+- name: Tribunales
+- name: Ganadería
+- name: Agricultura
+- name: Pesca y acuicultura
+- name: Minería
+- name: Explotación forestal
+- name: 6G
+- name: Abandono escolar
+- name: Acuerdo de París
+- name: Adoctrinamiento
+- name: Agenda 2030
+- name: Agricultura ecológica
+- name: Agricultura extensiva
+- name: Agricultura intensiva
+- name: Alimentación saludable
+- name: alimentación
+- name: Alquiler
+- name: América latina
+- name: Hispanoamérica
+- name: Iberoamérica
+- name: Aranceles
+- name: Austeridad del gasto
+- name: Reducción de gasto
+- name: Autónomos
+- name: Ayudas y subvenciones
+- name: Beneficio empresarial
+- name: Biodiversidad
+- name: Blanqueo capitales
+- name: Bombeos hidráulicos
+- name: Burocracia
+- name: cambio climático - adaptación
+- name: cambio climático - mitigación
+- name: Cambio climático
+- name: Canarias
+- name: Cataluña
+- name: Censura
+- name: Ceuta y Melilla
+- name: Ciberacoso
+- name: Ciberdelitos
+- name: Ciberseguridad
+- name: Clientelismo
+- name: Combustibles fósiles
+- name: Comercio comunitario
+- name: Comercio exterior
+- name: Comercio extracomunitario
+- name: Comercio interior
+- name: Comercio nacional
+- name: Competencia desigual
+- name: Competencia desleal
+- name: Competencia
+- name: Competitividad
+- name: Computación cuántica
+- name: Conciliación
+- name: consumo responsable
+- name: Contratación pública
+- name: Control y reducción de emisiones
+- name: Control fronteras
+- name: Frontex
+- name: Corrupción
+- name: Crimen organizado
+- name: Cristianismo, Catolicismo
+- name: Criterios objetivos
+- name: Criterios subjetivos
+- name: Cuidados dependencia
+- name: De la Granja a la mesa
+- name: Delincuencia
+- name: Demagogia
+- name: Democracia participativa
+- name: Demografía
+- name: Dependencia
+- name: Derecho de asilo
+- name: Derechos animales
+- name: Bienestar animal
+- name: Animalismo
+- name: Derechos digitales
+- name: Privacidad digital
+- name: Desarrollo sostenible
+- name: ODS
+- name: Desastres naturales
+- name: Desertización
+- name: Desigualdad
+- name: Desinformación
+- name: Despotismo
+- name: digitalización
+- name: Digitalización
+- name: Discapacidad
+- name: Diversidad cultural
+- name: Multiculturalismo
+- name: Economía circular
+- name: Economía social
+- name: Economía verde
+- name: Educación en valores
+- name: eficiencia energética
+- name: Ejército europeo
+- name: Electrónica
+- name: Microelectrónica
+- name: Semiconductores
+- name: Elitismo
+- name: Empleo juvenil
+- name: Empleo público
+- name: Oposiciones
+- name: Energía barata
+- name: Energía limpia
+- name: Energía nuclear
+- name: Energía segura
+- name: Energía sostenible
+- name: Energías renovables
+- name: Energías renovables
+- name: Envejecimiento activo
+- name: Erasmus
+- name: españa vaciada
+- name: Estados Unidos de Europa
+- name: Europa del sur
+- name: Evidencia
+- name: Estudios científicos
+- name: Conocimiento
+- name: Experiencia
+- name: Exportaciones
+- name: Familias numerosas
+- name: feminismo
+- name: Fiscalidad verde
+- name: Formación continua
+- name: Formación profesional
+- name: Fracking
+- name: Fraude fiscal
+- name: Fundamentalismo islámico
+- name: Ganadería ecológica
+- name: Ganadería extensiva
+- name: Ganadería intensiva
+- name: Gases de efecto invernadero
+- name: GEI
+- name: CO2
+- name: Metano
+- name: Ozono
+- name: Óxido nitroso
+- name: Gases de efecto invernadero
+- name: Gestión de riesgos
+- name: Gibraltar
+- name: Globalización
+- name: Globalismo
+- name: Guerras
+- name: Hipotecas
+- name: Homogeneización normativa
+- name: Homologación educativa
+- name: Homologación fiscal
+- name: Homologación laboral
+- name: Homologación normativa
+- name: Homologación sanidad
+- name: I+D+i
+- name: Innovación
+- name: Investigación
+- name: igualdad de gnénero
+- name: Igualdad
+- name: Igualdad de género
+- name: Feminismo
+- name: Importaciones comunitarias
+- name: Importaciones extracomunitarias
+- name: Importaciones
+- name: Impuesto de sociedades
+- name: Impuestos verdes
+- name: Impuestos
+- name: Incendios
+- name: Independentismo
+- name: Separatismo
+- name: Inflación
+- name: Inmigración ilegal
+- name: Inmigración legal
+- name: Inteligencia artificial
+- name: IA
+- name: Islam
+- name: Jornada laboral
+- name: juego
+- name: Lengua española
+- name: Lenguas cooficiales
+- name: Lenguas
+- name: Ley de la restauración de la naturaleza
+- name: Ley Europea del Clima
+- name: Libertad de expresión
+- name: Libertad
+- name: Libre elección centro educativo
+- name: Libre elección lengua de enseñanza
+- name: Marruecos
+- name: Marruecos
+- name: Materias primas
+- name: Mecenazgo
+- name: Mercado eléctrico
+- name: Modelo económico
+- name: Modelo energético
+- name: Modelo político
+- name: Modelo social
+- name: Multinacionales
+- name: Nacionalismo
+- name: Natalidad
+- name: Neoliberalismo
+- name: Nepotismo
+- name: Nutriscore
+- name: Oligopolio
+- name: ONU, Naciones Unidas
+- name: OTAN
+- name: PAC
+- name: Política Agraria Común
+- name: Pacto Verde Europeo
+- name: Paraísos fiscales
+- name: Pobreza energética
+- name: Policía europea
+- name: Política estratégica
+- name: Populismo
+- name: PP
+- name: Precio de la energía
+- name: privacidad digiltal
+- name: privacidad digital
+- name: Protección del medioambiente
+- name: Ecologismo
+- name: Protección menores
+- name: Proteccionismo comunitario
+- name: Proteccionismo nacional
+- name: Proteccionismo
+- name: PSOE
+- name: Socialistas
+- name: pymes
+- name: Racionalización del gasto
+- name: Optimización del gasto
+- name: Control de gasto
+- name: racismo
+- name: Razas autóctonas
+- name: reciclaje
+- name: Reciclaje
+- name: Recursos naturales
+- name: Redes sociales
+- name: Regiones ultraperiféricas
+- name: Reglamento de Control Pesquero
+- name: Repower EU
+- name: Residencias de mayores
+- name: Sáhara
+- name: Sector automovilístico
+- name: Sector del automóvil
+- name: Sector eléctrico
+- name: Sector primario
+- name: Agricultura
+- name: Ganadería
+- name: Pesca
+- name: Sectores estratégicos
+- name: Seguía
+- name: Seguridad alimentaria
+- name: Soberanía alimentaria
+- name: Seguridad energética
+- name: Sistema electoral
+- name: Soberanía energética
+- name: software libre
+- name: Tauromaquia
+- name: Terrorismo
+- name: Tipos de familia
+- name: Tráfico de drogas
+- name: Tráfico de personas
+- name: Trata de personas
+- name: Transición ecológica
+- name: Tribunal Constitucional Europeo
+- name: Tuberculosis bovina
+- name: Unión Europea
+- name: UE
+- name: Europa 
+- name: Uso de fitosanitarios
+- name: Valores
+- name: Modo de vida
+- name: Costumbres
+- name: Tradiciones
+- name: Valores occidentales
+- name: Vehículo eléctrico
+- name: Movilidad eléctrica
+- name: Vientre alquiler
+- name: Violencia de género
+- name: vivienda pública
+- name: Bélgica
+- name: Suecia
+- name: Francia
+- name: Hungría
+- name: Polonia
+- name: Progreso
+- name: Retroceso
+- name: Reindustrialización
+- name: Relocalización industrial
+- name: Soberanía industrial
+- name: Deslocalización industrial
+- name: Bienestar social
 
-filter_by_status_lang_label: statement_status
-filter_by_category_lang_label: category_label
+# only for documentation porpuses
+topics_variables:
+- importance # DEPRECATED: importance can be deduced from the number of times a topic surfaced along the document.
+- dynamic # DEPRECATED: does not provide useful info. (conservative, reformist, revolutionary) for ideologies/statements. relative to aversion to change status-quo
+- effect #  expected (positive, negative) effect on the topic. only for actions/promises
+- position # (positive, negative, ambiguous) for ideologies/statements
+- position_arguments # reasons to support the position
+- negatives
+- positives
+- causes # if the topic is a consequence, describe the original causes
+- actions # actions proposed to solve the issue
+# both position and effect can be used to detect contradictions in the ideology
+# for the real actions, contradictions can be detected based on congress activity

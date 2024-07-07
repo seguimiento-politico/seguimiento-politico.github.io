@@ -1,6 +1,6 @@
 id: 5e8b05bb-5cc9-48be-9989-bbc5b06499ea
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,7 +10,8 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 7
-categories: Empresas y autónomos
-topics: Economía social
+parent_chapter: 4e67d2f6-57a4-4eb6-9522-a745ec43505c
 title: Apoyo a las empresas de economía social.
 text: Como modelo de empresa sostenible, integradora y generadora de empleo de calidad, mejoraremos la coordinación y coherencia de acción desde los diferentes Departamentos ministeriales.
+categories: Empresas y autónomos
+topics: Economía social

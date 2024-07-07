@@ -1,6 +1,6 @@
 id: 137a192e-f5fb-4047-9c74-7fc3192172e2
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 98
+parent_chapter: 4b1a1fd6-83f2-4e8c-a775-7e65f72f50be
 text: Nueva Ley de Universidades Impulsaremos una nueva Ley de Universidades que, desde la participación de la comunidad universitaria y las comunidades autónomas, garantice que la universidad, después de una larga década de recortes, alcanza por fin la financiación suficiente para ser un servicio público clave en la formación superior, la promoción de valores y de igualdad en todas las etapas de la vida, funciona con criterios de buen gobierno dentro de los más altos estándares europeos y garantiza la efectividad de los derechos del personal docente, investigador y de administración y servicios

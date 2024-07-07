@@ -1,6 +1,6 @@
 id: 09154c6e-d12f-4e42-9467-4af0644ac479
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,8 +9,17 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 172
+parent_chapter: f9ecf2a6-febf-46fc-a961-5572a6563078
+children_promises:
+- ad7d65ec-bc57-4097-9ee9-4a1f70a363b2
+- 4bafb778-1056-4941-8a86-c343fb1d70d2
+- 638fbf1e-a6d7-40c4-a190-ffeff791d266
+- 20a9997c-a3b4-420b-9af0-76833d191aef
+- fb0af6d7-ad4c-4b7c-9f74-3d232001e398
+- 8fd97647-2de6-429a-b0ed-b2d480290a04
+- 1c5ac675-3cbb-4c55-b23b-f662ad3e8804
+children_statements: []
+title: Ley de enseñanzas artísticas
 categories:
 - Cultura
 - Educación
-title: Ley de enseñanzas artísticas
-has_children: true

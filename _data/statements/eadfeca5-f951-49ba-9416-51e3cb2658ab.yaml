@@ -1,7 +1,6 @@
 id: eadfeca5-f951-49ba-9416-51e3cb2658ab
 type: promise
-parent_statement: a5ab9e3e-30ab-4910-b6d0-d6fe038d6dcf
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,6 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 93
+parent_statement: a5ab9e3e-30ab-4910-b6d0-d6fe038d6dcf
+parent_chapter: a6b0904c-226b-4036-b418-18f80e2f7fbb
+text: Fomentaremos los refugios climáticos (toldos, arbolado, fuentes...) en las ciudades.
 categories: Derechos y servicios sociales
 topics: Medioambiente saludable, Contaminación
-text: Fomentaremos los refugios climáticos (toldos, arbolado, fuentes...) en las ciudades.

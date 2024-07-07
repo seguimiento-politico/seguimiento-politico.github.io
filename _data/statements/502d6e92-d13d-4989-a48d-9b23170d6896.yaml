@@ -1,6 +1,6 @@
 id: 502d6e92-d13d-4989-a48d-9b23170d6896
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 32
-categories: Trabajo
+parent_chapter: 8334330f-156c-4154-9c8c-27f20def2bb6
+children_promises:
+- f87d1af7-34c3-4013-a138-a858d3107c1a
+- 70cab447-8939-451b-823b-719f72d4480c
+children_statements: []
 title: Aseguraremos que la competencia efectiva permita que se trasladen a los precios finales las bajadas en los costes de la energía y de otras materias primas
-has_children: true
+categories: Trabajo

@@ -1,6 +1,6 @@
 id: dcc95187-bc38-4df2-9053-1247401f6724
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 55
+parent_chapter: f4a5d1b6-d10d-41c8-af19-09947c6b9033
+children_promises:
+- c60000f2-e35a-40bf-a82c-768c0a119797
+- 93242613-2ba2-40da-9eed-ba5669875ea4
+children_statements: []
+title: Plan nacional integrado de calidad del aire
 categories: Medioambiente
 topics: Contaminación
-title: Plan nacional integrado de calidad del aire
-has_children: true

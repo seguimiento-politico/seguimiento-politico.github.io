@@ -1,6 +1,6 @@
 id: 43d23c4e-9508-4b5c-9d74-f7d0c7d08026
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 86
-categories: Derechos y servicios sociales
+parent_chapter: 6bea7d15-32ea-402e-8fad-42663ddea615
+children_promises:
+- 107c43f2-44b8-4ff3-83d2-f24107442fa2
+children_statements: []
 title: Ayudas de emergencia social eficaces y ágiles, por cauce ajeno a la Ley de Subvenciones.
-has_children: true
+categories: Derechos y servicios sociales

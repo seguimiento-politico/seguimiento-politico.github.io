@@ -1,6 +1,6 @@
 id: 4c6459d0-0756-4cde-b5e9-21487dbbb4b3
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 102
-categories: Política internacional
+parent_chapter: 6c487e14-3e0d-4200-bdc9-70b5eb4d801e
 text: TRABAJAREMOS EN EL SENO DE LA UE y de la mano de nuestros aliados para establecer una nueva política de relaciones globales con China. Trabajaremos para hacer del Indo-Pacífico una región abierta, libre y segura donde la libre navegación, los intercambios comerciales y la estabilidad estén garantizados. Facilitaremos que las empresas españolas se sigan implantando en la región y lleven la marca España a nuevos mercados. Potenciaremos la relación con India, Japón, Corea del Sur, Australia y Nueva Zelanda.
+categories: Política internacional

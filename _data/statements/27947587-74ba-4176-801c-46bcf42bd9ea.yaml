@@ -1,7 +1,6 @@
 id: 27947587-74ba-4176-801c-46bcf42bd9ea
 type: promise
-parent_statement: 5d5c2453-629e-4856-9536-7b800dc38dbd
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -9,5 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 49
-categories: Sanidad
+parent_statement: 5d5c2453-629e-4856-9536-7b800dc38dbd
+parent_chapter: 5c8d94eb-aad0-4b93-8408-511875a0e54f
 text: Aprobaremos específicamente un Plan Nacional de Prevención del Suicidio, en el que se integren los diferentes agentes (sanidad, educación, prensa, sistema judicial, servicios sociales), tal y como ocurre en otros países de nuestro entorno.
+categories: Sanidad

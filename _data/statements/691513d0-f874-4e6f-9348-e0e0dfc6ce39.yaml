@@ -1,6 +1,6 @@
 id: 691513d0-f874-4e6f-9348-e0e0dfc6ce39
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 77
-categories: Transporte
+parent_chapter: a97d33b8-5d0d-4f18-ae40-4a52b218e524
 text: Retomaremos y aprobaremos la Ley de Movilidad Sostenible, en la que consolidaremos la movilidad como un derecho esencial de la ciudadanía. Será la palanca para la innovación en este ámbito y nos colocará a la vanguardia mundial, lo que facilitará la captación de inversiones.
+categories: Transporte

@@ -1,0 +1,20 @@
+name: Impuesto de sociedades
+other:
+- &id001
+  id: 25bc1533-0887-4100-98fc-90abee99d8b8
+  parties:
+  - CIUDADANOS
+other_count: 1
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+statements_count: 1
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

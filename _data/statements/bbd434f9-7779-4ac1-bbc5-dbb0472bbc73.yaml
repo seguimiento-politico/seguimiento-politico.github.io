@@ -1,11 +1,12 @@
 id: bbd434f9-7779-4ac1-bbc5-dbb0472bbc73
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 71
-categories: Medioambiente
+parent_chapter: a0c8a60f-23cb-436e-b629-c54923dd079a
 text: Promoveremos una Estrategia integral para las zonas verdes y bosques periurbanos que faciliten su accesibilidad y disfrute y favorezcan las actividades vinculadas al medioambiente para todos.
+categories: Medioambiente

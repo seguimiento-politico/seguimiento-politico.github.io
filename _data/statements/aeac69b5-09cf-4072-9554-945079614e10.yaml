@@ -1,6 +1,6 @@
 id: aeac69b5-09cf-4072-9554-945079614e10
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 87
-categories: Derechos y servicios sociales
+parent_chapter: 6bea7d15-32ea-402e-8fad-42663ddea615
+children_promises:
+- 5517b8a4-2025-4d82-be9b-ad1351efc866
+- bcec4ba3-58da-46a8-947f-2ca7ddd4c908
+- de209609-8ec8-4076-9db3-5ed1b929fdd5
+- b54606f4-6bec-4858-bee4-80850692ce5e
+- ab25b066-c2bb-4449-9019-c6c78ea95533
+children_statements:
+- 8ce23e6e-833e-48f4-8135-b415d1f88c9f
 title: Duplicaremos la dotación presupuestaria del Plan Corresponsables
-has_children: true
+categories: Derechos y servicios sociales

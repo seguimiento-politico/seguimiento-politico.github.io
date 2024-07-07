@@ -1,7 +1,6 @@
 id: 5aac46fc-c383-4656-bf2f-737a053db255
-type: declaration
-parent_statement: 0a0b4121-a02e-4b4b-a379-28727779ac6c
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Justicia
+parent_statement: 0a0b4121-a02e-4b4b-a379-28727779ac6c
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
 text: El Ministerio Fiscal, al tener el mandato constitucional de, entre otros, promover la acción de la justicia en defensa de la legalidad, de los derechos de los ciudadanos y del interés público tutelado por la ley, y procurar ante estos la satisfacción del interés social,
+categories: Justicia

@@ -1,7 +1,6 @@
 id: d37683af-ce80-4658-882f-72ca7d307eaa
 type: promise
-parent_statement: f6d9a713-3b0c-4359-af57-310287a3317b
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Política internacional
+parent_statement: f6d9a713-3b0c-4359-af57-310287a3317b
+parent_chapter: 4d3afa99-1301-4519-a703-6dfe49d7e832
 text: Reforzaremos la ayuda humanitaria a Ucrania y apostaremos por un plan de reconstrucción basado en ayudas y no en préstamos, orientado al bienestar de las mayorías ucranianas y no al beneficio de las grandes multinacionales.
+categories: Política internacional

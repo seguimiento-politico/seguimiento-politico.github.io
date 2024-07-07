@@ -1,7 +1,6 @@
 id: 6bfe0fea-83ac-4c4e-9104-5c772fd53882
 type: promise
-parent_statement: f4b9f550-e0e1-453b-b344-d4a408598892
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: f4b9f550-e0e1-453b-b344-d4a408598892
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+text: Es preciso revisar también los enfoques médicos androcéntricos que con frecuencia dificultan los diagnósticos y los tratamientos adecuados para las mujeres, como ocurre con los infradiagnósticos en infartos o la sobremedicación por ansiedad, así como fortalecer la perspectiva de género en el ámbito de la prevención de los riesgos laborales.
 categories: Democracia
 topics: Igualdad
-text: Es preciso revisar también los enfoques médicos androcéntricos que con frecuencia dificultan los diagnósticos y los tratamientos adecuados para las mujeres, como ocurre con los infradiagnósticos en infartos o la sobremedicación por ansiedad, así como fortalecer la perspectiva de género en el ámbito de la prevención de los riesgos laborales.

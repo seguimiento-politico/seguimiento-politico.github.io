@@ -1,11 +1,12 @@
 id: 37b843e3-63b4-4627-ae88-32c43ac6905b
-type: declaration
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+type: statement
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 79
-categories: Democracia
+parent_chapter: fba892fd-d41d-42e2-ba2b-5a598a075f0d
 text: La Justicia es la garantía de los derechos y libertades de los ciudadanos. Es necesario reforzar la independencia de los jueces y magistrados, mejorar la eficiencia de nuestra organización judicial y atender a la especial situación que existe en Cataluña. La Administración pública es uno de los elementos que vertebra al Estado. Es necesario que la Administración del Estado tenga presencia y capacidad de actuación en el conjunto de la nación.
+categories: Democracia

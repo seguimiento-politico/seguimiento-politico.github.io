@@ -1,6 +1,6 @@
 id: e552b5f3-c260-4258-8a0b-c0a97c03a0f9
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 20
+parent_chapter: aa035e42-2283-410b-bd01-f26776238f1a
+text: Se determinará el carácter social de la vivienda de protección pública con una normativa que garantice su explotación únicamente para alquiler de personas vulnerables, evitando que sean vendidas o explotadas por fondos buitre.'
 categories: Vivienda
 topics: Vivienda pública
-text: Se determinará el carácter social de la vivienda de protección pública con una normativa que garantice su explotación únicamente para alquiler de personas vulnerables, evitando que sean vendidas o explotadas por fondos buitre.'

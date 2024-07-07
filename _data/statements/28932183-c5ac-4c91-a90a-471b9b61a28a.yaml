@@ -1,6 +1,6 @@
 id: 28932183-c5ac-4c91-a90a-471b9b61a28a
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 20
+parent_chapter: cae5d808-1ce9-4168-a268-4ea405606db1
+text: Hasta que se alcance dicho Pacto, el Gobierno seguirá actualizado las pensiones conforme a los criterios señalados en el punto anterior. Asimismo, el Gobierno impulsará la reducción de la brecha de género en las pensiones y la ampliación de las pensiones de viudedad en los casos de parejas sin vínculo matrimonial. Revisaremos el complemento por maternidad para hacerlo más equitativo y reformaremos el Sistema de la Seguridad Social para eliminar las discriminaciones por razón de género, particularmente en materia de trabajo a tiempo parcial, teniendo en cuenta las últimas sentencias del Tribunal de Justicia de la Unión Europea y del Tribunal Constitucional
 categories: Derechos y servicios sociales
 topics: Pensiones
-text: Hasta que se alcance dicho Pacto, el Gobierno seguirá actualizado las pensiones conforme a los criterios señalados en el punto anterior. Asimismo, el Gobierno impulsará la reducción de la brecha de género en las pensiones y la ampliación de las pensiones de viudedad en los casos de parejas sin vínculo matrimonial. Revisaremos el complemento por maternidad para hacerlo más equitativo y reformaremos el Sistema de la Seguridad Social para eliminar las discriminaciones por razón de género, particularmente en materia de trabajo a tiempo parcial, teniendo en cuenta las últimas sentencias del Tribunal de Justicia de la Unión Europea y del Tribunal Constitucional

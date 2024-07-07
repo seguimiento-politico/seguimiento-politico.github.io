@@ -1,6 +1,6 @@
 id: 5d16ce48-af05-4300-a35b-6b57ed169458
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 69
+parent_chapter: 7d3df58a-3293-4f26-b114-1a8c3838af87
+children_promises:
+- 6b3eb701-2c10-4d3c-a6ae-808c00ce8523
+- b91f8e41-66f0-40d5-bab5-ab644caa8b22
+- 379f6225-14f0-4a1d-8fc1-4ba058c3644d
+children_statements: []
+title: Información y comunicación sobre la calidad y salubridad de los alimentos
 categories: Consumo
 topics: Alimentación saludable
-title: Información y comunicación sobre la calidad y salubridad de los alimentos
-has_children: true

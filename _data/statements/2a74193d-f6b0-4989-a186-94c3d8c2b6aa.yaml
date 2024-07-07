@@ -1,6 +1,6 @@
 id: 2a74193d-f6b0-4989-a186-94c3d8c2b6aa
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 50
+parent_chapter: c31b1fcd-80d0-4ca3-b06a-863fa279380c
+children_promises:
+- 551fbe20-1cc7-4162-883f-1fd332a85286
+children_statements: []
+title: ' Apuesta por alternativas hídricas disponibles.'
 categories: Medioambiente
 topics: Desertificación
-title: ' Apuesta por alternativas hídricas disponibles.'
-has_children: true

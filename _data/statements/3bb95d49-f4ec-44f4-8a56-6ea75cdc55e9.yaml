@@ -1,6 +1,6 @@
 id: 3bb95d49-f4ec-44f4-8a56-6ea75cdc55e9
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 33
-categories: Banca
+parent_chapter: 1fb125f8-bab0-49cf-a4a8-7924f09dfad1
+children_promises:
+- e348a088-3476-400a-8cae-6f54438231ef
+- 83fce70a-bd81-41a6-b8a6-23e10f876996
+- 2f40dd4b-ec40-4835-beda-95a7b1277f0e
+children_statements: []
 title: Apoyaremos la participación activa de las personas mayores en la economía.
-has_children: true
+categories: Banca

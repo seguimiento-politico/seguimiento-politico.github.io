@@ -1,6 +1,6 @@
 id: 8292e29b-ade0-4af1-9514-e0d6dfb34433
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,17 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 128
-categories: Justicia
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
+children_promises:
+- 0b6dad59-8448-4417-92de-e637ce168094
+- 6308bf0c-7b52-476e-85c0-89d5f26d7da7
+- f4725b3c-1abe-40e7-8fae-d0394195e1f0
+- f9b71da5-2d71-4886-a1e9-2384a6e4ea0c
+- 9a1d28ef-c552-4677-8671-d71c64a8e084
+- f4c5d68e-d759-48b7-a1ff-e131c3d45f1f
+- 53e24228-cf53-4c1c-8439-7064b25cbc3c
+- b2875c74-c0ae-4893-b8d8-4ea3b2cd2a32
+- 2892e089-2bc6-4c44-ae68-600fa056d144
+children_statements: []
 title: Reformas en los distintos ámbitos jurisdiccionales
-has_children: true
+categories: Justicia

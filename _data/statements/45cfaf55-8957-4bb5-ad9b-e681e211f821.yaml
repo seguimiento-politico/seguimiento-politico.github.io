@@ -1,7 +1,6 @@
 id: 45cfaf55-8957-4bb5-ad9b-e681e211f821
 type: promise
-parent_statement: c6217e93-12e7-402e-92b7-44d2dd6c6296
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Deporte
+parent_statement: c6217e93-12e7-402e-92b7-44d2dd6c6296
+parent_chapter: 7cb07f90-2b71-46f2-af0b-2684ec9ab916
 text: Garantizaremos una cultura de cooperación y alianzas en torno a la realidad deportiva con la que se aproveche plenamente el potencial y los recursos de las distintas Administraciones públicas y de los agentes privados del sector deportivo en España.
+categories: Deporte

@@ -1,13 +1,14 @@
 id: cf9512fd-22b3-42c3-afab-7575fd593143
 type: promise
-parent_statement: f161f71a-a44d-4b73-9d7a-5fbbf6a8bbdb
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 50
+parent_statement: f161f71a-a44d-4b73-9d7a-5fbbf6a8bbdb
+parent_chapter: 6c19598f-1602-41cd-a604-79735c83a992
+text: Mantendremos la categoría de familia numerosa especial hasta que el último hijo reúna los requisitos contemplados en la ley.
 categories: Familia
 topics: Incentivos, ayudas y subvenciones
-text: Mantendremos la categoría de familia numerosa especial hasta que el último hijo reúna los requisitos contemplados en la ley.

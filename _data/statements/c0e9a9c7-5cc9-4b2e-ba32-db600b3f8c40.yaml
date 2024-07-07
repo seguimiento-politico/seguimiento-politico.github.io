@@ -1,6 +1,6 @@
 id: c0e9a9c7-5cc9-4b2e-ba32-db600b3f8c40
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,7 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 118
+parent_chapter: 96823b0f-932d-41e1-a800-716933f427ff
+text: Lanzaremos un estudio nacional para el diseño e instalación de nuevos pantanos que almacenen agua para consumo humano, uso agrícola y generación energética. 250. Instalaremos bombeos hidráulicos en todos aquellos pantanos destinados a la generación hidroeléctrica en que sea posible, adoptando las medidas legislativas necesarias.
 categories:
 - Industria
 - Energía
-text: Lanzaremos un estudio nacional para el diseño e instalación de nuevos pantanos que almacenen agua para consumo humano, uso agrícola y generación energética. 250. Instalaremos bombeos hidráulicos en todos aquellos pantanos destinados a la generación hidroeléctrica en que sea posible, adoptando las medidas legislativas necesarias.

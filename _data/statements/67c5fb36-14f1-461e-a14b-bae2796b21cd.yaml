@@ -1,6 +1,6 @@
 id: 67c5fb36-14f1-461e-a14b-bae2796b21cd
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 20
-categories: Trabajo
+parent_chapter: 2817bce5-ff8f-4e37-968e-c4f707d06358
 title: PROMOVEREMOS EL FORTALECIMIENTO DE LA FORMACIÓN Y EL EMPLEO JUVENIL EN EL ÁMBITO DEL TRABAJO AUTÓNOMO.
 text: Desarrollaremos también un modelo de formación profesional específico para el trabajo autónomo que se adapte a sus necesidades, elimine trabas administrativas y permita el acceso a la formación bonificada a través de las cotizaciones sociales.
+categories: Trabajo

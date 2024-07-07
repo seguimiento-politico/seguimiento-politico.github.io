@@ -1,6 +1,6 @@
 id: 96d24431-05d7-4bf6-89ab-c664d0217fe2
-type: declaration
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,4 +8,5 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 6
+parent_chapter: d398e1b7-4bfc-46c4-ac88-5e95589750d5
 text: Vivimos en una gran Nación, que en sus peores instantes siempre ha dado lo mejor de sí misma y ha mostrado una enorme fortaleza para salir unida de cada uno de ellos. Entre todos, a lo largo de estas décadas, hemos construido un país con capacidad de asombrar al mundo y de compararse con los mejores en cualquier materia. Nuestro potencial es inmenso y solo necesitamos un Gobierno que crea en él para poder desarrollarlo en toda su dimensión.

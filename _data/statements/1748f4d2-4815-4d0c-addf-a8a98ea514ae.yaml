@@ -1,11 +1,12 @@
 id: 1748f4d2-4815-4d0c-addf-a8a98ea514ae
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 65
-categories: Cultura
+parent_chapter: 214f04bb-9ba4-4cc0-bfd1-0d934bbded7f
 text: Crearemos una Fiscalía especializada en la protección de la propiedad intelectual.
+categories: Cultura

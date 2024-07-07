@@ -1,6 +1,6 @@
 id: 4e45b9e0-5225-4ee9-b596-79730119d022
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 145
+parent_chapter: c794cb24-1c55-422f-8b6d-1ff29ad1ed87
+children_promises:
+- c323443b-3b1e-413b-8fc3-5979db5a834c
+- da71c00e-7e08-47cf-81d4-56bbe37db980
+children_statements: []
+title: ' Las personas y sus derechos fundamentales, en el corazón de Europa'
 categories: Política internacional
 topics: Europa
-title: ' Las personas y sus derechos fundamentales, en el corazón de Europa'
-has_children: true

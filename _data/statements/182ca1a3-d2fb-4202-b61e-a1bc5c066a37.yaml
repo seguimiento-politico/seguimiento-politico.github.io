@@ -1,6 +1,6 @@
 id: 182ca1a3-d2fb-4202-b61e-a1bc5c066a37
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 88
-categories: Derechos y servicios sociales
+parent_chapter: 6bea7d15-32ea-402e-8fad-42663ddea615
+children_promises:
+- 3eedd95c-db5f-449a-a087-1ae0c440ff8b
+- c9112ccc-45a0-4036-a80c-812ecd29cd2e
+- f8ca5e4c-c1dd-4d01-8ad9-5620ecf10d7d
+- 2a549ec0-9bef-41bb-a90f-d89c2ed475c2
+children_statements:
+- 6dfb5ac4-5e1b-464d-9b77-6fcd21282b46
 title: Políticas de bienestar contra el cambio climático
-has_children: true
+categories: Derechos y servicios sociales

@@ -1,0 +1,118 @@
+name: Soberanía nacional
+other:
+- &id008
+  id: 8b584549-6774-450a-ae33-c426df615327
+  parties:
+  - VOX
+- &id010
+  id: 1a2a1e8e-4bb1-41dd-a9bd-821ff813c444
+  parties:
+  - VOX
+- &id011
+  id: 0f550384-c30d-4289-b963-89ac3b4d58ba
+  parties:
+  - VOX
+- &id012
+  id: 24665f89-fc03-4258-8ec2-25193e4d0247
+  parties:
+  - VOX
+- &id013
+  id: 5fb97e80-94c1-4754-bb02-610dae6b0bb4
+  parties:
+  - VOX
+- &id015
+  id: b189caa3-2294-4546-826d-a7e2eb489226
+  parties:
+  - VOX
+other_count: 6
+position_negative: []
+position_negative_count: 0
+position_positive:
+- &id003
+  id: 1c9e30b4-d95f-4a24-ae16-77f7e64bcd26
+  parties:
+  - VOX
+- &id004
+  id: 04770a59-b427-4bb0-b488-b4effbd553bc
+  parties:
+  - VOX
+- &id005
+  id: 07d9f40b-dc82-4c95-b067-ff8a50cb0e5d
+  parties:
+  - VOX
+- &id006
+  id: 83ab4c94-b8a5-4d3b-80ed-50a6f61cd102
+  parties:
+  - VOX
+- &id007
+  id: fd7c442a-56fb-4784-9b5f-6287a193f031
+  parties:
+  - VOX
+- &id001
+  id: f7453348-cb15-4acc-8810-38f375a2b0e3
+  parties:
+  - VOX
+- &id002
+  id: 4b9a570f-7220-43a1-8017-6aea741da53e
+  parties:
+  - VOX
+- &id009
+  id: e8cb05ac-9cb5-4bc4-9a95-c3bb98f4ec20
+  parties:
+  - VOX
+- &id016
+  id: 29a170e0-86bf-4e43-b41f-ff90dc291bc5
+  parties:
+  - VOX
+position_positive_count: 9
+proposed_actions:
+- *id001
+- *id002
+- &id014
+  id: b66a4681-103e-4859-b814-a61094852d4b
+  parties:
+  - VOX
+proposed_actions_count: 3
+statements:
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- &id017
+  id: 4ee82bf6-1f17-48db-856d-d7f90c0c1b3e
+  parties:
+  - VOX
+- *id001
+- *id002
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- &id018
+  id: d24b4c21-4ee3-467e-959c-bddb6e3720cb
+  parties:
+  - VOX
+- &id019
+  id: c98415d3-520c-402c-9b30-3770c34d8a08
+  parties:
+  - VOX
+- *id015
+- *id016
+statements_count: 19
+status_quo_negative:
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id017
+- *id014
+- *id018
+- *id019
+status_quo_negative_count: 9
+status_quo_positive: []
+status_quo_positive_count: 0

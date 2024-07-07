@@ -1,7 +1,6 @@
 id: f1b9756e-17ff-470f-be6f-94d3455d615f
 type: promise
-parent_statement: e7563323-161c-4039-8c17-da82997d7ff3
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Seguridad y defensa
+parent_statement: e7563323-161c-4039-8c17-da82997d7ff3
+parent_chapter: 66b190ef-617c-438a-adf3-a3c9f707719b
 text: Para ello se habrá de consensuar un nuevo Código Penal, sistemáticamente coherente, contrastado técnicamente, con un nuevo sistema de penas, con preferencia por penas más eficaces y eficientes y por penas a cumplirse en la comunidad.
+categories: Seguridad y defensa

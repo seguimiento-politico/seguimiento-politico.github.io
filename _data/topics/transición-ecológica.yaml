@@ -1,0 +1,21 @@
+name: Transición ecológica
+other: []
+other_count: 0
+position_negative:
+- &id001
+  id: c1fccb45-1fae-42e5-b65c-c8cd4b17bdd2
+  parties:
+  - VOX
+position_negative_count: 1
+position_positive: []
+position_positive_count: 0
+proposed_actions:
+- *id001
+proposed_actions_count: 1
+statements:
+- *id001
+statements_count: 1
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

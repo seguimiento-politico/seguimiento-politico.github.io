@@ -1,6 +1,6 @@
 id: 43111e1c-7a62-49cc-a920-1f93b7e908d8
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 5
+parent_chapter: 06fd7e51-b8d5-491c-895a-9be06be8bef5
+children_promises:
+- 7993c568-d662-4408-a494-f9948df8b438
+children_statements: []
+title: Persecución efectiva de las mafias de comercio callejero
 categories:
 - Migración
-title: Persecución efectiva de las mafias de comercio callejero
-has_children: true

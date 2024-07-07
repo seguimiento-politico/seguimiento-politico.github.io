@@ -1,7 +1,6 @@
 id: 5b414eac-16dd-42ef-9a1a-87d4bf853671
 type: promise
-parent_statement: e2b9277a-52ef-44e8-85bb-6f642d4dcd6c
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Trabajo
+parent_statement: e2b9277a-52ef-44e8-85bb-6f642d4dcd6c
+parent_chapter: e9e1334a-785f-47ff-a9d1-05e1b24e1b85
 text: Se trata de acelerar los efectos positivos de las nuevas tecnologías, apoyar a las trabajadoras y los trabajadores, ciudadanos y empresas, para que puedan acceder a las oportunidades y empleos de calidad, y acompañar a aquellas regiones o sectores más afectados con el fin de garantizar una transición justa que no deje a nadie atrás.
+categories: Trabajo

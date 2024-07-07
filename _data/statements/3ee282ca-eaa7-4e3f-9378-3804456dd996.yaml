@@ -1,6 +1,6 @@
 id: 3ee282ca-eaa7-4e3f-9378-3804456dd996
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 97
+parent_chapter: 1acd9b9e-b384-4d0b-bbc8-26a101a0abb1
+text: Impulsaremos programas de retorno del talento de mujeres, proyectos de mujeres para el emprendimiento verde y rural y de mejora de la igualdad.
 categories: Territorio rural
 topics: Igualdad, Feminismo
-text: Impulsaremos programas de retorno del talento de mujeres, proyectos de mujeres para el emprendimiento verde y rural y de mejora de la igualdad.

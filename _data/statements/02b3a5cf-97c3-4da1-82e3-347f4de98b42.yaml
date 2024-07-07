@@ -1,6 +1,6 @@
 id: 02b3a5cf-97c3-4da1-82e3-347f4de98b42
-type: declaration
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 71
+parent_chapter: 06e768c1-851f-40aa-84be-505e878d3697
+text: El adecuado funcionamiento del Estado de Derecho depende de las neutralidad de instituciones reguladoras que aseguran el equilibrio de poder y el buen servicio de la Administración. En estos años, el Gobierno ha colonizado todos esos organismos para someterlos a su control partidista. El Partido Popular presentó a comienzos de 2023 un gran Plan de Calidad institucional que garantiza la independencia y profesionalidad de esas instituciones.
 categories: Democracia
 topics: Separación de poderes
-text: El adecuado funcionamiento del Estado de Derecho depende de las neutralidad de instituciones reguladoras que aseguran el equilibrio de poder y el buen servicio de la Administración. En estos años, el Gobierno ha colonizado todos esos organismos para someterlos a su control partidista. El Partido Popular presentó a comienzos de 2023 un gran Plan de Calidad institucional que garantiza la independencia y profesionalidad de esas instituciones.

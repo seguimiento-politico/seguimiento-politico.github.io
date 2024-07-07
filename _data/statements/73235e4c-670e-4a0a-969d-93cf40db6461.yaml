@@ -1,6 +1,6 @@
 id: 73235e4c-670e-4a0a-969d-93cf40db6461
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 56
-categories: Sanidad
+parent_chapter: befa4347-5ac5-4c3d-853b-7fc9b83921e6
 text: Presionaremos para que el desconocimiento de las lenguas regionales no sea en ningún caso un impedimento para el acceso por oposición a plazas de personal sanitario, como está ocurriendo hoy en algunas regiones de España; garantizando que el único requisito en materia de lengua sea el conocimiento del español.
+categories: Sanidad

@@ -1,6 +1,6 @@
 id: eb914689-56ca-49ce-b688-6ddf5b329bc5
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 42
-categories: Organización territorial
+parent_chapter: d5628b60-5d7a-425f-9d5d-8aacf8d84bf4
 text: Impulsaremos la mejora y clarificación de la distribución competencial entre el Gobierno central y las comunidades autónomas para implementar un modelo de reparto más claro y preciso que perimetre las facultades competenciales concretas de cada entidad, y reduzca al máximo las competencias compartidas a fin de evitar la ambigüedad actual, que a menudo acaba teniendo que ser dirimida por los tribunales, provocando fricciones judiciales entre el Gobierno central y las comunidades autónomas. En este sentido, resulta fundamental, de un lado, que las competencias del Gobierno central estén bien configuradas, de tal manera que ello permita la correcta coordinación de las políticas nacionales y el respecto a la igualdad de todos los españoles. De otro, que las comunidades autónomas dispongan de las capacidades necesarias para un autogobierno eficiente a la par que respetuoso con el interés general. Se creará un Comité de expertos que asistirá y dará soporte al Gobierno en esta medida.
+categories: Organización territorial

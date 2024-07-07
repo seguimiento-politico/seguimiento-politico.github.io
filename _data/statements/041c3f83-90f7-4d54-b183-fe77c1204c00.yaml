@@ -1,6 +1,6 @@
 id: 041c3f83-90f7-4d54-b183-fe77c1204c00
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,7 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 12
+parent_chapter: 298cb86d-a349-4888-aba4-5567f2db236a
+text: Suprimiremos todos los organismos ideológicos y subvenciones a partidos, sindicatos, patronales y otros entes políticos. No habrá igualdad real entre españoles mientras una casta privilegiada viva del esfuerzo del español de a pie.
 categories: Derechos y servicios sociales
 topics:
 - Igualdad
-text: Suprimiremos todos los organismos ideológicos y subvenciones a partidos, sindicatos, patronales y otros entes políticos. No habrá igualdad real entre españoles mientras una casta privilegiada viva del esfuerzo del español de a pie.

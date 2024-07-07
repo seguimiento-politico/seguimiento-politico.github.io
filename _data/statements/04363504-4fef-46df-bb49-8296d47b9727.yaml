@@ -1,6 +1,6 @@
 id: 04363504-4fef-46df-bb49-8296d47b9727
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 33
-categories: Trabajo
+parent_chapter: 8334330f-156c-4154-9c8c-27f20def2bb6
+children_promises:
+- 7a142512-536a-4f77-a965-7a27ad88a776
+children_statements: []
 title: Seguiremos impulsando la inclusión y las competencias digitales del conjunto de la ciudadanía
-has_children: true
+categories: Trabajo

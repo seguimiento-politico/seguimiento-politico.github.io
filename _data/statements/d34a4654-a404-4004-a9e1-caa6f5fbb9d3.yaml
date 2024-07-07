@@ -1,6 +1,6 @@
 id: d34a4654-a404-4004-a9e1-caa6f5fbb9d3
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 109
-categories: Deporte
+parent_chapter: 545bbc11-bff6-413f-924d-b004b152b450
 text: APOYAREMOS DECIDIDAMENTE EL DEPORTE FEMENINO, promoviendo una mayor visibilización y un mayor apoyo para su proyección competitiva, nacional e internacional. Garantizaremos en las competiciones femeninas que el sexo biológico ordene las categorías deportivas, como el mejor mecanismo de garantía de la igualdad de oportunidades y la justicia competitiva. Promoveremos la presencia de la mujer en la gestión y el liderazgo deportivo.
+categories: Deporte

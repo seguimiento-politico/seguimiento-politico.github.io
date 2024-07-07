@@ -1,6 +1,6 @@
 id: dfef1aad-d78d-4202-a55e-c0f1888a653e
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 44
-categories: Vivienda
+parent_chapter: 7cfc87b2-226c-44ee-8071-6bdf306b36d3
 text: Proposición no de Ley relativa a combatir el fenómeno de la ocupación y de la “inquiocupación” a través de medidas como la reducción de los plazos en el procedimiento de desahucio, la creación de un registro de datos históricos de zonas afectadas por la ocupación y el incremento de las penas por el delito de usurpación (noviembre 2021).
+categories: Vivienda

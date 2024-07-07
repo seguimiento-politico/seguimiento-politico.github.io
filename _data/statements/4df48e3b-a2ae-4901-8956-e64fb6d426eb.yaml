@@ -1,6 +1,6 @@
 id: 4df48e3b-a2ae-4901-8956-e64fb6d426eb
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 33
-categories: Infraestructuras
+parent_chapter: d5897736-0845-447a-b84c-5b5e89bb1649
 text: VELAREMOS POR LA MODERNIZACIÓN DE NUESTRA RED DE INFRAESTRUCTURAS VIARIAS, su explotación y conservación y por una mayor integración de los recursos de gestión de la seguridad en la circulación del Estado. Avanzaremos en la creación e implantación de una Tarjeta de Movilidad Ciudadana que, de manera integrada con los sistemas de transporte de competencia autonómica y municipal, garantice el acceso a todos los medios de movilidad de una manera sostenible, eficiente y con la máxima accesibilidad.
+categories: Infraestructuras

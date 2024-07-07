@@ -1,7 +1,6 @@
 id: e7da1fb0-0c8e-46a8-b29e-90e948742cfd
 type: promise
-parent_statement: 06ee3772-ef75-47e4-b1e5-84609a110918
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 06ee3772-ef75-47e4-b1e5-84609a110918
+parent_chapter: 999e9dab-efca-4092-a144-a19ca4ee5302
+text: Se proporcionará a las personas con discapacidad que lo necesiten los recursos y apoyos necesarios para que puedan desarrollar una vida libre y autónoma en el seno de la comunidad, fomentando la desinstitucionalización. Todo ello en función de las características, las necesidades y las preferencias específicas de cada una. Se generalizará la prestación de asistencia personal, estableciéndola como la opción preferente dentro del sistema. Esta prestación la ofrecerán siempre las Administraciones a las personas a las que se les reconozca la situación de dependencia, garantizando la cualificación profesional del asistente personal y que la dotación económica de la ayuda sea suficiente para cubrir los gastos que origine la atención a la persona con discapacidad.
 categories: Derecuos y servicios sosciales
 topics: Discapacidad
-text: Se proporcionará a las personas con discapacidad que lo necesiten los recursos y apoyos necesarios para que puedan desarrollar una vida libre y autónoma en el seno de la comunidad, fomentando la desinstitucionalización. Todo ello en función de las características, las necesidades y las preferencias específicas de cada una. Se generalizará la prestación de asistencia personal, estableciéndola como la opción preferente dentro del sistema. Esta prestación la ofrecerán siempre las Administraciones a las personas a las que se les reconozca la situación de dependencia, garantizando la cualificación profesional del asistente personal y que la dotación económica de la ayuda sea suficiente para cubrir los gastos que origine la atención a la persona con discapacidad.

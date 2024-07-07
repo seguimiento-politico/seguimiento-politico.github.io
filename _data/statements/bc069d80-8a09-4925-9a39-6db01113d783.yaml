@@ -1,7 +1,6 @@
 id: bc069d80-8a09-4925-9a39-6db01113d783
 type: promise
-parent_statement: bb671aa3-c0ab-4eb3-96cf-ca999ba5af96
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Educación
+parent_statement: bb671aa3-c0ab-4eb3-96cf-ca999ba5af96
+parent_chapter: 869a602d-b512-418c-a46e-5ebd811152f6
 text: Se deben mejorar las condiciones del profesorado, y eso pasa por una reducción significativa de las ratios, por facilitar los desdobles y los refuerzos, y disminuir los horarios y las tareas burocráticas.
+categories: Educación

@@ -1,6 +1,6 @@
 id: 728a4a48-4508-412e-9b1b-c9ce0a8e0dd9
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,20 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 112
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+children_promises:
+- e9f740fa-898a-456e-8408-952477dd5022
+- 01c36e06-f7a8-47c8-9e1c-f91f81e4fcc3
+- 1b57f86e-7de4-415b-b4c1-ba1c44aed09b
+- ee151764-f437-4e20-b851-e05017e699af
+- 18fc20b6-d7d3-4a3c-951d-81d91a307f6e
+- ebecdc18-ed08-4261-a58e-0dcab936c35e
+- a3b92cd2-e56c-4ee3-b3d8-1f21f91dd024
+- c97ea138-a965-4c19-8325-ccbb2d9f0547
+- c095b34c-71a2-4592-bf6b-27e777032ab0
+- 763634e3-176e-47d9-a62d-81c0dc24e605
+children_statements:
+- 9c7cda44-421d-485a-b0c8-6f84bb0c39a9
+title: Fortalecimiento instituciones y constitución
 categories: Democracia
 topics: Igualdad
-title: Fortalecimiento instituciones y constitución
-has_children: true

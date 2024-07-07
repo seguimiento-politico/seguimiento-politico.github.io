@@ -1,6 +1,6 @@
 id: 39dab68c-dbb5-4f13-90ad-8f7cdea764d3
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 121
-categories: Organización territorial
+parent_chapter: 3985eb27-2ecc-4f17-a504-3aa15c5697d4
+children_promises:
+- b9f679db-dd79-4926-a1b3-3c7bf9cb43d1
+- 1634af91-095a-4a4c-bbec-7b25cb0c3d5d
+children_statements:
+- 4fde4ca1-e9db-40a2-adce-29bfae058b36
 title: Una España plurilingüe y pluricultural. Reconocimiento del plurilingüismo.
-has_children: true
+categories: Organización territorial

@@ -1,6 +1,6 @@
 id: 5d3e19d7-ca17-45a5-bfee-54cbb6290b21
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 49
+parent_chapter: d2dbc75d-1fee-4912-8381-af97f02411a1
+text: El Gobierno de España está plenamente comprometido con el cumplimiento de todos y cada uno de los Objetivos de Desarrollo Sostenible (ODS) de la Agenda 2030, aprobada en 2015 por Naciones Unidas; así se puso de manifiesto en la anterior legislatura con el nombramiento de la Alta Comisionada para la Agenda 2030, dependiente de la Presidencia del Gobierno, así como con las decisiones adoptadas para garantizar la imprescindible implicación y coordinación de todos los Ministerios así como de todas las Administraciones Territoriales y la participación de la sociedad civil, en los correspondientes órganos ya diseñados. En esta Legislatura se avanzará hacia la aprobación de la Estrategia de Desarrollo Sostenible, que deberá garantizar la máxima coherencia entre todas las políticas de las diferentes administraciones, y que será objeto de seguimiento y evaluación en la correspondiente Comisión Mixta Congreso-Senado que no pudo iniciar su trabajo a causa del adelanto electoral.
 categories: Organización territorial
 topics: Desarrollo sostenible
-text: El Gobierno de España está plenamente comprometido con el cumplimiento de todos y cada uno de los Objetivos de Desarrollo Sostenible (ODS) de la Agenda 2030, aprobada en 2015 por Naciones Unidas; así se puso de manifiesto en la anterior legislatura con el nombramiento de la Alta Comisionada para la Agenda 2030, dependiente de la Presidencia del Gobierno, así como con las decisiones adoptadas para garantizar la imprescindible implicación y coordinación de todos los Ministerios así como de todas las Administraciones Territoriales y la participación de la sociedad civil, en los correspondientes órganos ya diseñados. En esta Legislatura se avanzará hacia la aprobación de la Estrategia de Desarrollo Sostenible, que deberá garantizar la máxima coherencia entre todas las políticas de las diferentes administraciones, y que será objeto de seguimiento y evaluación en la correspondiente Comisión Mixta Congreso-Senado que no pudo iniciar su trabajo a causa del adelanto electoral.

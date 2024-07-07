@@ -1,6 +1,6 @@
 id: ea3c5f56-6582-4993-9799-f28bb092365a
-type: declaration
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 75
-categories: Justicia
+parent_chapter: 0f87afc6-fcea-4ab1-b5a8-63765bc3744f
 text: Una de las bases de un Estado de Derecho democrático es contar con una Justicia independiente. Para ello, el gobierno del Poder Judicial debe estar a salvo de las injerencias políticas. Hay que volver a prestigiar la Justicia tras los ataques sufridos durante la última legislatura y dotarla de los medios necesarios para que cumpla su función con todas las garantías en plazos razonables y que todos los miembros que componen la Oficina Judicial dispongan del reconocimiento y de los medios necesarios para desempeñar su tarea.
+categories: Justicia

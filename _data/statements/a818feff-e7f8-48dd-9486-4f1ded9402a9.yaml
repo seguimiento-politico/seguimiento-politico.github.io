@@ -1,6 +1,6 @@
 id: a818feff-e7f8-48dd-9486-4f1ded9402a9
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 62
+parent_chapter: d0ca92d6-a651-4e64-8fa2-2354747b0fd1
+text: TRABAJAREMOS PARA COMBATIR LA VIOLENCIA DE GÉNERO ESPECIALMENTE ENTRE LOS MENORES DE 18 AÑOS, poniendo énfasis en el uso de las redes sociales para ejercer esa violencia. Modificaremos la ley para tipificar la violencia digital y luchar contra la violencia de control, amenazas o violencia psicológica a través de los móviles y otros dispositivos digitales.
 categories: Seguridad y defensa
 topics: Violencia de género
-text: TRABAJAREMOS PARA COMBATIR LA VIOLENCIA DE GÉNERO ESPECIALMENTE ENTRE LOS MENORES DE 18 AÑOS, poniendo énfasis en el uso de las redes sociales para ejercer esa violencia. Modificaremos la ley para tipificar la violencia digital y luchar contra la violencia de control, amenazas o violencia psicológica a través de los móviles y otros dispositivos digitales.

@@ -1,6 +1,6 @@
 id: 7b4b266a-181e-4220-b177-bdb135324c5b
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 149
-categories: Política internacional
+parent_chapter: 7d023909-0f5e-4683-b705-4b789e78ec33
+children_promises:
+- 8371e4c5-252a-4273-8a05-b3f223227611
+- ac78e035-0df3-4080-8859-277ee45489aa
+- cab54d08-5024-45b0-8b53-3b0a7cf18cd1
+- 39ee8e2f-be09-45fe-a715-d3b5b5d7d978
+children_statements: []
 title: Abandono del paradigma securitario y de las devoluciones sumarias
-has_children: true
+categories: Política internacional

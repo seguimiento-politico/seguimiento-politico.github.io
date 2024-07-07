@@ -1,12 +1,13 @@
 id: 7ad49a5c-9504-4770-b2f1-8f2ecd5c53c7
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 27
+parent_chapter: a376d79e-bd30-4273-bfd7-dcba6c72b615
+text: Crearemos una aplicación digital para informar a los trabajadores ocupados y desempleados sobre la oferta formativa que les ofrece el sistema nacional de empleo, con el detalle de los programas y centros con mejores resultados, y les facilite el acceso a los mismos, especialmente a través de un bono formación que permita al beneficiario elegir libremente el proveedor de servicio de formación.
 categories:
 - Trabajo
-text: Crearemos una aplicación digital para informar a los trabajadores ocupados y desempleados sobre la oferta formativa que les ofrece el sistema nacional de empleo, con el detalle de los programas y centros con mejores resultados, y les facilite el acceso a los mismos, especialmente a través de un bono formación que permita al beneficiario elegir libremente el proveedor de servicio de formación.

@@ -1,7 +1,6 @@
 id: 1390a361-9430-4af9-a29f-2ec33ad8f7a0
 type: promise
-parent_statement: 557c8b7a-8c50-4c90-9abe-1147d95af2b4
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 557c8b7a-8c50-4c90-9abe-1147d95af2b4
+parent_chapter: 63ab839a-6275-4d54-bf9b-ec036a685a75
+text: Se busca impulsar un modelo de economía digital cooperativo, social, solidario y feminista que garantice la democracia económica y la capacidad colectiva en el ámbito de la planificación desde el que se fomente el cooperativismo de plataforma y se apoye el desarrollo de tecnologías de plataforma de código abierto en colaboración con otras Administraciones.
 categories: Educación
 topics: Digitalización
-text: Se busca impulsar un modelo de economía digital cooperativo, social, solidario y feminista que garantice la democracia económica y la capacidad colectiva en el ámbito de la planificación desde el que se fomente el cooperativismo de plataforma y se apoye el desarrollo de tecnologías de plataforma de código abierto en colaboración con otras Administraciones.

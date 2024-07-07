@@ -1,6 +1,6 @@
 id: 92cc631b-c724-48f6-bfb8-259387d6ddba
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 25
-categories: Sanidad
+parent_chapter: 98aa97ac-a698-4c4b-84ee-872a887a064b
 text: Seguiremos llevando a cabo la renovación de la tecnología sanitaria para que el Sistema Nacional de Salud sea referente en innovación tecnológica.
+categories: Sanidad

@@ -1,11 +1,12 @@
 id: 8556b24a-4cf5-470e-b81a-516b12e95c29
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 95
-categories: Política internacional
+parent_chapter: c15d9dfd-af86-4bce-ae77-139268e953c4
 text: Apoyaremos a los demócratas de Cuba para impulsar una transición política que permita dar paso a una democracia y poner fin a la dictadura más longeva de Iberoamérica.
+categories: Política internacional

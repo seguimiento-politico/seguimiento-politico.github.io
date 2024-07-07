@@ -1,6 +1,6 @@
 id: 02fee37a-e64a-4667-9c7d-e04c2fc97fa8
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Religión
+parent_chapter: 44755ca0-367e-43ea-97ca-74ced0d87d05
 text: 'A lo largo de los últimos años del siglo XX y en este siglo XXI, España, y sus ciudadanos y ciudadanas, han avanzado de manera firme hacia los valores de igualdad, pluralidad, diversidad, inclusión y tolerancia que configuran a nuestro país como una moderna sociedad democrática.<br><br> El PSOE ha sido el partido político que ha impulsado dichos avances. Las leyes y normativas promovidas y aplicadas por Gobiernos socialistas sobre divorcio, interrupción voluntaria del embarazo, muerte digna, matrimonio entre personas del mismo sexo, igualdad entre mujeres y hombres, violencia de género... son expresión de espacios de laicidad conquistados por y para la ciudadanía, que siempre han tenido que vencer democráticamente la oposición de sectores conservadores, como ha sido el del Partido Popular. Ahora, además, asistimos a un renacimiento de movimientos ultranacionalistas y supremacistas en España y en toda Europa, que alimentan el odio a quien tiene otra cultura u otra religión distinta de la que ha sido tradicional en nuestro país.<br><br> Para el Partido Socialista defender la Constitución es defender la igualdad, la diversidad y el ejercicio de la libertad dentro del marco que la misma dispone. Por ello y desde 2018, el Gobierno de Pedro Sánchez ha trabajado intensamente en la normalización de la diversidad religiosa y el reconocimiento de las minorías, así como en la neutralidad y la igualdad del sistema de relaciones de los poderes públicos con el hecho religioso. Y, al mismo tiempo, ha desarrollado una importante actividad legislativa en materia de libertad de conciencia, religiosa y de convicciones.<br><br> Para profundizar en la convivencia de una sociedad plural e inclusiva, emprenderemos las siguientes actuaciones:'
+categories: Religión

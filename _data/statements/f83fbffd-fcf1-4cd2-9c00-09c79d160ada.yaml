@@ -1,6 +1,6 @@
 id: f83fbffd-fcf1-4cd2-9c00-09c79d160ada
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 11
+parent_chapter: 5c7c02a1-db85-42f6-ba9b-65d0ab903fa1
+text: Impulsaremos la simplificación de los procedimientos de acreditación de nuevos títulos académicos, respetando la autonomía universitaria y competencias autonómicas en la materia y fortaleciendo los mecanismos de coordinación entre los organismos involucrados en la verificación.
 categories: Educación
 topics: Universidad
-text: Impulsaremos la simplificación de los procedimientos de acreditación de nuevos títulos académicos, respetando la autonomía universitaria y competencias autonómicas en la materia y fortaleciendo los mecanismos de coordinación entre los organismos involucrados en la verificación.

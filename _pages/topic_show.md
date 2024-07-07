@@ -1,0 +1,318 @@
+---
+title: Todas las declaraciones políticas
+comments: true
+permalink: /topics/show
+---
+
+{% include topics_styling.html %}
+
+{% if topic_data.position_positive_count > 0 or topic_data.position_negative_count > 0 %}
+    <!-- position -->
+    <div class="card">
+        <div class="card-header pb-2 d-flex justify-content-between align-items-start">
+            Razones de posicionamiento sobre {{ topic_data.name }}
+        </div>
+        <div class="card-body">
+            <div class="row">
+                {% if topic_data.position_negative_count > 0 %}
+
+                    {% assign icon-position = icon-position-down %}
+                    {% assign color-position = color-down %}
+                    {% assign text-position = text-position-down %}
+
+                    <div class="notice-danger col-md">
+                        <div class="border-bottom align-self-center text-center">
+                            Posiciones negativas (en contra de)
+                            <i class="fas fa-fw {{ icon-position }} {{ color-position }}" title="{{ text-position }}"></i>
+                        </div>
+                        {% for d in topic_data.position_negative %}
+                            {% assign p = site.data.statements  | where: "id", d.id %}
+                            {% assign statement_page =  site.statements | where: "uid", d.id | first %}
+                            {% for t in p[0].topics %}
+                                {% if t.name == topic_data.name %}
+                                    {% for tt in t.position_negative %}
+                                        <p><span class="align-self-center ">
+                                            {% for party in p[0].parties %}
+                                                {% assign party_name = party %}   
+                                                {% include logos_settings.html type='party' %}        
+                                                {% include logos_show.html type='party' %}
+                                            {% endfor %}
+                                            {% if tt.text %}
+                                                <a class="btn btn-{{class}}" href="{{ statement_page.url }}"> {{'"'}}{{ tt.text }}{{'"'}} </a>
+                                            {% else %}
+                                                <a class="btn btn-{{class}}" href="{{ statement_page.url }}"> {{'"'}}{{ t.text }}{{'"'}} </a>
+                                            {% endif %}
+                                        </span></p>
+                                    {% endfor %}
+                                {% endif %}
+                            {% endfor %}
+                        {% endfor %}  
+                    </div>
+                {% endif %}
+
+                {% if topic_data.position_positive_count > 0 %}
+
+                    {% assign icon-position = icon-position-up %}
+                    {% assign color-position = color-up %}
+                    {% assign text-position = text-position-up %}
+
+                    <div class="notice-success col-md">
+                        <div class="border-bottom align-self-center text-center">
+                            Posiciones positivas (a favor de)
+                            <i class="fas fa-fw {{ icon-position }} {{ color-position }}" title="{{ text-position }}"></i>
+                        </div>
+                        {% for d in topic_data.position_positive %}
+                            {% assign p = site.data.statements  | where: "id", d.id %}
+                            {% assign statement_page =  site.statements | where: "uid", d.id | first %}
+                            {% for t in p[0].topics %}
+                                {% if t.name == topic_data.name %}
+                                    {% for tt in t.position_positive %}
+                                        <p><span class="align-self-center ">
+                                            {% for party in p[0].parties %}
+                                                {% assign party_name = party %}   
+                                                {% include logos_settings.html type='party' %}        
+                                                {% include logos_show.html type='party' %}
+                                            {% endfor %}
+                                            {% if tt.text %}
+                                                <a class="btn btn-{{class}}" href="{{ statement_page.url }}"> {{'"'}}{{ tt.text }}{{'"'}} </a>
+                                            {% else %}
+                                                <a class="btn btn-{{class}}" href="{{ statement_page.url }}"> {{'"'}}{{ t.text }}{{'"'}} </a>
+                                            {% endif %}
+                                        </span></p>
+                                    {% endfor %}
+                                {% endif %}
+                            {% endfor %}
+                        {% endfor %} 
+                    </div>
+                {% endif %}
+            </div> 
+        </div>    
+    </div>
+    <br>
+{% endif %}
+
+{% if topic_data.status_quo_positive_count > 0 or topic_data.status_quo_negative_count > 0 %}
+    <!-- status-quo -->
+    <div class="card">
+        <div class="card-header pb-2 d-flex justify-content-between align-items-start">
+            Valoraciones sobre la situación de {{ topic_data.name }}
+        </div>
+        <div class="card-body">
+            <div class="row">
+                {% if topic_data.status_quo_negative_count > 0 %}
+
+                    {% assign icon-status-quo = icon-status-quo-down  %}
+                    {% assign color-status-quo = color-down %}
+                    {% assign text-status-quo = text-status-quo-down %}
+
+                    <div class="notice-danger col-md">
+                        <div class="border-bottom align-self-center text-center">
+                            Evaluaciones negativas (mala tendencia)
+                            <i class="fas fa-fw {{ icon-status-quo }} {{ color-status-quo }}" title="{{ text-status-quo }}"></i>
+                        </div>
+                        {% for d in topic_data.status_quo_negative %}
+                            {% assign p = site.data.statements  | where: "id", d.id %}
+                            {% assign statement_page =  site.statements | where: "uid", d.id | first %}
+                            {% for t in p[0].topics %}
+                                {% if t.name == topic_data.name %}
+                                    {% for tt in t.status_quo_negative %}
+                                        <p><span class="align-self-center ">
+                                            {% for party in p[0].parties %}
+                                                {% assign party_name = party %}   
+                                                {% include logos_settings.html type='party' %}        
+                                                {% include logos_show.html type='party' %}
+                                            {% endfor %}
+                                            {% if tt.text %}
+                                                <a class="btn btn-{{class}}" href="{{ statement_page.url }}"> {{'"'}}{{ tt.text }}{{'"'}} </a>
+                                            {% else %}
+                                                <a class="btn btn-{{class}}" href="{{ statement_page.url }}"> {{'"'}}{{ t.text }}{{'"'}} </a>
+                                            {% endif %}
+                                        </span></p>
+                                    {% endfor %}
+                                {% endif %}
+                            {% endfor %}
+                        {% endfor %}  
+                    </div>
+                {% endif %}
+
+                {% if topic_data.status_quo_positive_count > 0 %}
+
+                    {% assign icon-status-quo = icon-status-quo-up %}
+                    {% assign color-status-quo = color-up %}
+                    {% assign text-status-quo = text-status-quo-up %}
+
+                    <div class="notice-success col-md">
+                        <div class="border-bottom align-self-center text-center">
+                            Evaluaciones positivas (buena tendencia)
+                            <i class="fas fa-fw {{ icon-status-quo }} {{ color-status-quo }}" title="{{ text-status-quo }}"></i>
+                        </div>
+                        {% for d in topic_data.status_quo_positive %}
+                            {% assign p = site.data.statements  | where: "id", d.id %}
+                            {% assign statement_page =  site.statements | where: "uid", d.id | first %}
+                            {% for t in p[0].topics %}
+                                {% if t.name == topic_data.name %}
+                                    {% for tt in t.status_quo_positive %}
+                                        <p><span class="align-self-center ">
+                                            {% for party in p[0].parties %}
+                                                {% assign party_name = party %}   
+                                                {% include logos_settings.html type='party' %}        
+                                                {% include logos_show.html type='party' %}
+                                            {% endfor %}
+                                            {% if tt.text %}
+                                                <a class="btn btn-{{class}}" href="{{ statement_page.url }}"> {{'"'}}{{ tt.text }}{{'"'}} </a>
+                                            {% else %}
+                                                <a class="btn btn-{{class}}" href="{{ statement_page.url }}"> {{'"'}}{{ t.text }}{{'"'}} </a>
+                                            {% endif %}
+                                        </span></p>
+                                    {% endfor %}
+                                {% endif %}
+                            {% endfor %}
+                        {% endfor %} 
+                    </div>
+                {% endif %}
+            </div> 
+        </div>    
+    </div>
+    <br>
+{% endif %}
+
+{% if topic_data.proposed_actions_count > 0 %}
+    <!-- actions -->
+    <div class="card">
+        <div class="card-header pb-2 d-flex justify-content-between align-items-start">
+            Propuestas de acción relacionadas con {{ topic_data.name }}
+        </div>
+        <div class="card-body">
+            <div class="row">
+                {% if actions_negative %}
+                    <div class="notice-danger col-md">
+                        <div class="border-bottom align-self-center text-center">
+                            Con intención negativa (en detrimento de)
+                        </div>
+                        {% for d in topic_data.position_negative %}
+                            {% assign p = site.data.statements  | where: "id", d.id %}
+                            {% assign statement_page =  site.statements | where: "uid", d.id | first %}
+                            {% for t in p[0].topics %}
+                                {% if t.name == topic_data.name %}
+                                    {% for tt in t.position_negative %}
+                                        <p><span class="align-self-center ">
+                                            {% for party in p[0].parties %}
+                                                {% assign party_name = party %}   
+                                                {% include logos_settings.html type='party' %}        
+                                                {% include logos_show.html type='party' %}
+                                            {% endfor %}
+                                            {% if tt.text %}
+                                                <a class="btn btn-{{class}}" href="{{ statement_page.url }}"> {{'"'}}{{ tt.text }}{{'"'}} </a>
+                                            {% else %}
+                                                <a class="btn btn-{{class}}" href="{{ statement_page.url }}"> {{'"'}}{{ t.text }}{{'"'}} </a>
+                                            {% endif %}
+                                        </span></p>
+                                    {% endfor %}
+                                {% endif %}
+                            {% endfor %}
+                        {% endfor %}  
+                    </div>
+                {% endif %}
+                
+                {% unless topic_data.proposed_actions contains "effect" %}
+                    <div class="notice-success col-md">
+                        <div class="border-bottom align-self-center text-center">
+                            Con efectos indeterminados 
+                        </div>
+                        {% for d in topic_data.position_positive %}
+                            {% assign p = site.data.statements  | where: "id", d.id %}
+                            {% assign statement_page =  site.statements | where: "uid", d.id | first %}
+                            {% for t in p[0].topics %}
+                                {% if t.name == topic_data.name %}
+                                    {% for tt in t.position_positive %}
+                                        <p><span class="align-self-center ">
+                                            {% for party in p[0].parties %}
+                                                {% assign party_name = party %}   
+                                                {% include logos_settings.html type='party' %}        
+                                                {% include logos_show.html type='party' %}
+                                            {% endfor %}
+                                            {% if tt.text %}
+                                                <a class="btn btn-{{class}}" href="{{ statement_page.url }}"> {{'"'}}{{ tt.text }}{{'"'}} </a>
+                                            {% else %}
+                                                <a class="btn btn-{{class}}" href="{{ statement_page.url }}"> {{'"'}}{{ t.text }}{{'"'}} </a>
+                                            {% endif %}
+                                        </span></p>
+                                    {% endfor %}
+                                {% endif %}
+                            {% endfor %}
+                        {% endfor %} 
+                    </div>
+                {% endunless %}
+
+                {% if actions_positive %}
+                    <div class="notice-success col-md">
+                        <div class="border-bottom align-self-center text-center">
+                            Con intención positiva (de refuerzo)
+                        </div>
+                        {% for d in topic_data.position_positive %}
+                            {% assign p = site.data.statements  | where: "id", d.id %}
+                            {% assign statement_page =  site.statements | where: "uid", d.id | first %}
+                            {% for t in p[0].topics %}
+                                {% if t.name == topic_data.name %}
+                                    {% for tt in t.position_positive %}
+                                        <p><span class="align-self-center ">
+                                            {% for party in p[0].parties %}
+                                                {% assign party_name = party %}   
+                                                {% include logos_settings.html type='party' %}        
+                                                {% include logos_show.html type='party' %}
+                                            {% endfor %}
+                                            {% if tt.text %}
+                                                <a class="btn btn-{{class}}" href="{{ statement_page.url }}"> {{'"'}}{{ tt.text }}{{'"'}} </a>
+                                            {% else %}
+                                                <a class="btn btn-{{class}}" href="{{ statement_page.url }}"> {{'"'}}{{ t.text }}{{'"'}} </a>
+                                            {% endif %}
+                                        </span></p>
+                                    {% endfor %}
+                                {% endif %}
+                            {% endfor %}
+                        {% endfor %} 
+                    </div>
+                {% endif %}
+            </div> 
+        </div>    
+    </div>
+    <br>
+{% endif %}
+
+<!-- TODO: revisar que mostrar resto de declaraciones funciona correctamente -->
+
+{% if topic_data.other_count > 0 %}
+<!-- resto -->
+<div class="card">
+    <div class="card-header pb-2 d-flex justify-content-between align-items-start">
+        Otras declaraciones relativas a {{ topic_data.name }}
+    </div>
+    <div class="card-body">
+        <div class="row">
+            {% for d in topic_data.other %}
+                {% assign p = site.data.statements  | where: "id", d.id %}
+                {% assign statement_page =  site.statements | where: "uid", d.id | first %}
+                {% for t in p[0].topics %}
+                    {% if t.name == topic_data.name %}
+                        {% for tt in t.other %}
+                            <p><span class="align-self-center ">
+                                {% for party in p[0].parties %}
+                                    {% assign party_name = party %}   
+                                    {% include logos_settings.html type='party' %}        
+                                    {% include logos_show.html type='party' %}
+                                {% endfor %}
+                                {% if tt.text %}
+                                    <a class="btn btn-{{class}}" href="{{ statement_page.url }}"> {{ tt.text | capitalize }} </a>
+                                {% else %}
+                                    <a class="btn btn-{{class}}" href="{{ statement_page.url }}"> {{ t.text | capitalize }} </a>
+                                {% endif %}
+                            </span></p>
+                        {% endfor %}
+                    {% endif %}
+                {% endfor %}
+            {% endfor %} 
+        </div> 
+    </div>    
+</div>
+<br>
+{% endif %}

@@ -1,7 +1,6 @@
 id: 8862af64-e888-459f-b190-9e0c57d1b6c6
-type: declaration
-parent_statement: c6eaf70c-7a64-4686-bd75-d3d0be47c347
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: c6eaf70c-7a64-4686-bd75-d3d0be47c347
+parent_chapter: b82b7f57-da6b-4fd4-8a55-f1773ebd9608
+text: La transformación de la Administración no es sencilla y requiere de un fuerte compromiso por parte tanto del liderazgo político como de la 120Un proyecto para ensanchar la democracia Democracia de calidad función directiva profesional. Un liderazgo también renovado, pero fuertemente comprometido con los propósitos de cambiar las dinámicas de funcionamiento de las instituciones públicas.
 categories: Democracia
 topics: Administración pública
-text: La transformación de la Administración no es sencilla y requiere de un fuerte compromiso por parte tanto del liderazgo político como de la 120Un proyecto para ensanchar la democracia Democracia de calidad función directiva profesional. Un liderazgo también renovado, pero fuertemente comprometido con los propósitos de cambiar las dinámicas de funcionamiento de las instituciones públicas.

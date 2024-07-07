@@ -1,0 +1,25 @@
+name: Investigación
+other:
+- &id001
+  id: daae28f5-46df-40f2-a942-df15824c9d31
+  parties:
+  - CIUDADANOS
+- &id002
+  id: 943bd5e2-48b1-4be1-b65b-cbb85b3156fe
+  parties:
+  - CIUDADANOS
+other_count: 2
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- *id002
+statements_count: 2
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

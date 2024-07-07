@@ -1,6 +1,6 @@
 id: 773f9efb-5520-40d4-a0e3-014eb8f7558d
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 17
-categories: Consumo
+parent_chapter: babe4391-0037-42a8-8d34-fa497e2b2082
 text: Reduciremos el impacto de la comida basura, al establecer obligaciones claras en el etiquetado, que deberá reflejar la calidad de los productos conforme al modelo del semáforo nutricional, así como una revisión de la fiscalidad de los alimentos ultra procesados o ricos en grasas y azúcares. Además, se impulsará que la compra pública de alimentos para comedores escolares o de hospitales sea un modelo de alimentación de calidad y de cercanía.
+categories: Consumo

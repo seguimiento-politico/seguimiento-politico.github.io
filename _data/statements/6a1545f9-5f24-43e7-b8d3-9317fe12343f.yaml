@@ -1,7 +1,6 @@
 id: 6a1545f9-5f24-43e7-b8d3-9317fe12343f
 type: promise
-parent_statement: ce646808-94de-42fc-9217-37214e6d75b9
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -10,5 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 92
-categories: Seguridad y defensa
+parent_statement: ce646808-94de-42fc-9217-37214e6d75b9
+parent_chapter: d2165d9c-4ccd-4649-b6ee-393361a2d9bb
 text: España no debe abandonar a quienes han dedicado los mejores años de su vida a servir a la patria en las Fuerzas Armadas. Se favorecerá su continuidad laboral tras su tiempo de servicio.
+categories: Seguridad y defensa

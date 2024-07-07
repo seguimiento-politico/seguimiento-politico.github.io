@@ -1,6 +1,6 @@
 id: eb148ae0-2599-4faa-82f8-f5844e4bbe21
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 141
+parent_chapter: a7be9da6-1793-476b-983c-482bbf1df8f3
+text: Potenciaremos el emprendimiento femenino, tanto en la transición energética y la economía verde como en la digitalización. Para ello es importante garantizar la financiación de las iniciativas promovidas por mujeres o en las que participen mujeres. Planes piloto desarrollados por la Comisión Europea apuntan a que una revisión de los protocolos de financiación ayudaría a desterrar prejuicios y valorar aspectos que suelen incluir los proyectos de las mujeres que son esenciales para la innovación y la resiliencia de estas nuevas empresas y que muchos casos no son tenidas en cuenta.
 categories: Trabajo
 topics: Igualdad
-text: Potenciaremos el emprendimiento femenino, tanto en la transición energética y la economía verde como en la digitalización. Para ello es importante garantizar la financiación de las iniciativas promovidas por mujeres o en las que participen mujeres. Planes piloto desarrollados por la Comisión Europea apuntan a que una revisión de los protocolos de financiación ayudaría a desterrar prejuicios y valorar aspectos que suelen incluir los proyectos de las mujeres que son esenciales para la innovación y la resiliencia de estas nuevas empresas y que muchos casos no son tenidas en cuenta.

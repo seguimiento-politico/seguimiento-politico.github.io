@@ -1,6 +1,6 @@
 id: fa5a9c0d-317c-4fc9-b0ed-a80a17b068f8
-type: declaration
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 64
+parent_chapter: 3fb859a6-a66e-4c05-af2f-e5b0148fcd0e
+text: El Partido Popular defiende el pluralismo y la diversidad como valores intrínsecos de la democracia. Creemos en una España en la que cada persona puede desarrollar su proyecto de vida sin sufrir discriminación de ningún tipo, tal y como recoge el artículo 14 de la Constitución Española.
 categories: Derechos y servicios sociales
 topics: Igualdad
-text: El Partido Popular defiende el pluralismo y la diversidad como valores intrínsecos de la democracia. Creemos en una España en la que cada persona puede desarrollar su proyecto de vida sin sufrir discriminación de ningún tipo, tal y como recoge el artículo 14 de la Constitución Española.

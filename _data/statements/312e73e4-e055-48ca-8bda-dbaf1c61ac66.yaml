@@ -1,6 +1,6 @@
 id: 312e73e4-e055-48ca-8bda-dbaf1c61ac66
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 205
+parent_chapter: 3d1b7144-3878-4cb4-adc8-196127e0eb99
+text: Hemos hecho nuestro el objetivo 2030 de poner fin a la pandemia del VIH, y lo cierto es que estamos más cerca que nunca de lograrlo. Durante los próximos cuatro años seguiremos implementando el Pacto Social por la no Discriminación y la Igualdad de Trato Asociada al VIH, del mismo modo seguiremos impulsando todas las medidas de diagnóstico temprano para poder llegar a los objetivos 95- 95-95, porque tenemos la suerte y la responsabilidad de poder crear la primera generación libre de VIH.
 categories: Sanidad
 topics: Promoción de la salud
-text: Hemos hecho nuestro el objetivo 2030 de poner fin a la pandemia del VIH, y lo cierto es que estamos más cerca que nunca de lograrlo. Durante los próximos cuatro años seguiremos implementando el Pacto Social por la no Discriminación y la Igualdad de Trato Asociada al VIH, del mismo modo seguiremos impulsando todas las medidas de diagnóstico temprano para poder llegar a los objetivos 95- 95-95, porque tenemos la suerte y la responsabilidad de poder crear la primera generación libre de VIH.

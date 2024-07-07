@@ -1,6 +1,6 @@
 id: 798c67b0-5dc7-4c62-8618-118d82ea5e84
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 77
-categories: Impuestos y financiación pública
+parent_chapter: ec3e397c-bf4a-4692-a06e-58f507cee1f8
 text: Suprimiremos el Impuesto sobre el Patrimonio, el Impuesto sobre Sucesiones y Donaciones y Plusvalías municipales en todo el territorio nacional, impuestos quesuponen confiscaciones injustas, duplicadas o desproporcionadas del patrimonio de los españoles.
+categories: Impuestos y financiación pública

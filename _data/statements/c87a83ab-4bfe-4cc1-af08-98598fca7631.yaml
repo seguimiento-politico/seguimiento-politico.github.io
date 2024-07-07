@@ -1,6 +1,6 @@
 id: c87a83ab-4bfe-4cc1-af08-98598fca7631
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 152
+parent_chapter: a96bcd96-42a3-44fb-b7fb-d86c59c23d69
+text: PNL por la que se solicitan medidas de apoyo del sector cinegético en España (enero 2020).
 categories:
 - Territorio rural
-text: PNL por la que se solicitan medidas de apoyo del sector cinegético en España (enero 2020).

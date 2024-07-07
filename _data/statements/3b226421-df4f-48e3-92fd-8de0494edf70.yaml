@@ -1,11 +1,12 @@
 id: 3b226421-df4f-48e3-92fd-8de0494edf70
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 43
-categories: Consumo
+parent_chapter: 59b98746-2cf3-43c2-ad40-8063b926b2bb
 text: Regularemos la publicidad del Juego y realizaremos campañas de prevención de la ludopatía.
+categories: Consumo

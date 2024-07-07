@@ -1,7 +1,6 @@
 id: f5fe55f3-f257-45c0-aa69-b7d5c1086078
 type: promise
-parent_statement: cab428ca-7a7e-4758-af02-968d2f5c6eba
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Política internacional
+parent_statement: cab428ca-7a7e-4758-af02-968d2f5c6eba
+parent_chapter: db635e28-b5bf-4dba-aaf7-b48b45ca3061
 text: Impulsaremos la convergencia entre la agenda de desarrollo y los convenios internacionales de derechos humanos —en particular la CEDAW—, apostando por la justicia de género en todas las políticas públicas.
+categories: Política internacional

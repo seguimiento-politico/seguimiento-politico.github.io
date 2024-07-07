@@ -1,6 +1,6 @@
 id: c46e666b-5a5d-4f10-ac04-6162466f2eca
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 246
+parent_chapter: d05356ab-7241-4db3-b89b-606c6702afe6
+text: Aprobaremos las leyes de transparencia de grupos de interés y de prevención de conflictos de intereses del personal empleado público. Reforzando la actividad y la independencia de la Oficina de Conflictos de Intereses, para la comprobación del patrimonio y la actividad de los máximos responsables públicos, dotándole además de facultades para detectar posibles casos del nuevo delito de enriquecimiento ilícito de altos cargos.
 categories: Democracia
 topics: Gobernanza y transparencia
-text: Aprobaremos las leyes de transparencia de grupos de interés y de prevención de conflictos de intereses del personal empleado público. Reforzando la actividad y la independencia de la Oficina de Conflictos de Intereses, para la comprobación del patrimonio y la actividad de los máximos responsables públicos, dotándole además de facultades para detectar posibles casos del nuevo delito de enriquecimiento ilícito de altos cargos.

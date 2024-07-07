@@ -1,6 +1,6 @@
 id: 65c56d24-b246-481b-8229-08b03b6958bf
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 104
+parent_chapter: 5a78c83a-e028-4353-b943-e627cc312cee
+children_promises:
+- fc74ec06-f6e2-42ed-9d92-b7709c6a3c68
+children_statements:
+- ff8c425b-c18c-4d76-829a-748a29f873af
+title: Reforma de la Ley Orgánica sobre Derechos y Libertades de los Extranjeros en España y su Integración Social (LOEX)
 categories: Migración
 topics: Racismo
-title: Reforma de la Ley Orgánica sobre Derechos y Libertades de los Extranjeros en España y su Integración Social (LOEX)
-has_children: true

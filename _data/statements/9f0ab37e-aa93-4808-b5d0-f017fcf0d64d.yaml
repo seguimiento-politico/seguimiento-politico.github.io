@@ -1,7 +1,6 @@
 id: 9f0ab37e-aa93-4808-b5d0-f017fcf0d64d
 type: promise
-parent_statement: 2a10cf6f-1941-4555-a569-896d1312010b
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Cultura
+parent_statement: 2a10cf6f-1941-4555-a569-896d1312010b
+parent_chapter: d83fae97-6483-46e8-ac0d-9980e0838a11
 text: Por su historia, por su situación geográfica, España podría desempeñar un importante papel a nivel global. Entender nuestra historia como una historia plural, compleja, como una encrucijada de pueblos es algo que podemos aportar, con humildad, al mundo. Esto debería ir acompañado de una política cultural internacional a la que se dedicara institucionalmente un espacio propio.
+categories: Cultura

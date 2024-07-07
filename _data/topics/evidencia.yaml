@@ -1,0 +1,25 @@
+name: Evidencia
+other:
+- &id001
+  id: af1cbc37-a8d2-458a-8dd9-b27804c327c6
+  parties:
+  - VOX
+- &id002
+  id: 2ed91718-a78d-4e5c-bd6a-400cd785b9ef
+  parties:
+  - VOX
+other_count: 2
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- *id002
+statements_count: 2
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

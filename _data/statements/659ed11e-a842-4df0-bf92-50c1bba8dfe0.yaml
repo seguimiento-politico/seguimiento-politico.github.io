@@ -1,12 +1,13 @@
 id: 659ed11e-a842-4df0-bf92-50c1bba8dfe0
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 18
+parent_chapter: b019b40e-f2ac-4d25-bf11-14a963b4bdaf
+text: Dentro del Plan Startup Spain Impulsaremos una amplia reforma fiscal para dinamizar la inversión de capital privado y favorecer el acceso a financiación de emprendedores que incluirá reformas para el “carried interest”, los Fondos de Capital Riesgo, el venture capital, la “exit tax” o la inversión privada individual en start-ups.
 categories:
 - Impuestos y financiación pública
-text: Dentro del Plan Startup Spain Impulsaremos una amplia reforma fiscal para dinamizar la inversión de capital privado y favorecer el acceso a financiación de emprendedores que incluirá reformas para el “carried interest”, los Fondos de Capital Riesgo, el venture capital, la “exit tax” o la inversión privada individual en start-ups.

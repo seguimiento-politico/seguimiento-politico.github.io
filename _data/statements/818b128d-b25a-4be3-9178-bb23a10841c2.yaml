@@ -1,6 +1,6 @@
 id: 818b128d-b25a-4be3-9178-bb23a10841c2
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,16 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 8
-categories: Economía
+parent_chapter: 5ae877b3-1389-490f-b5f8-bb2c2704b535
+children_promises:
+- 73dc247e-4886-4556-a6f3-fda350401f36
+- 4bb2bb52-8e43-4943-bbb9-bd4dedc01f21
+- 3cc76def-b8fd-48f1-bb5d-d4b6dcbf44e6
+- 4dee61f8-ab7a-47cf-877e-111a27dfddf6
+- 65459e7d-02a6-4333-aa1b-3b48f1e71236
+- 7507ed88-8ab7-42ae-8977-59c23450f1ef
+- 9c33caa1-2c8c-4156-945b-be089d6ef09e
+- 34ed818d-7421-40b2-a2dd-350e3894ac41
+children_statements: []
 title: Defender el poder adquisitivo frente a los efectos de la inflación
-has_children: true
+categories: Economía

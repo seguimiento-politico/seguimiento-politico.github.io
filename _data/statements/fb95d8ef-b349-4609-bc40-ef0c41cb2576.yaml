@@ -1,6 +1,6 @@
 id: fb95d8ef-b349-4609-bc40-ef0c41cb2576
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 124
-categories: Cultura
+parent_chapter: ef655d4e-aabd-4367-b039-db13bf06547d
 text: Habilitaremos la creación de un “Comité Asesor Juvenil” en el seno del Ministerio de Cultura y Deporte con el objetivo de que participen en el diseño de políticas culturales orientadas a jóvenes y adolescentes.
+categories: Cultura

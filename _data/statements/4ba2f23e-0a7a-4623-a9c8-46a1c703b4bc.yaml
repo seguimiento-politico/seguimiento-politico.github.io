@@ -1,6 +1,6 @@
 id: 4ba2f23e-0a7a-4623-a9c8-46a1c703b4bc
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 47
-categories: Política internacional
+parent_chapter: b5f12909-b76e-47aa-bc10-2eee3574ca31
 text: Impulsaremos una Unión Europea que trabaje por la prosper  idad y el bienestar de sus ciudadanos, los derechos humanos, las libertades fundamentales y la protección de todas las personas.
+categories: Política internacional

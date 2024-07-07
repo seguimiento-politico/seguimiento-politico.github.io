@@ -1,6 +1,6 @@
 id: 85430e9e-eede-4363-b4ca-32f57a029a9d
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,7 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 121
+parent_chapter: 07354b8b-a545-4b5c-b496-6ba6dc394d93
+text: Proposición no de ley para la inclusión del concepto de soberanía energética y reversión de la prohibición de exploración, investigación y explotación de los recursos propios, minerales y energéticos de España. La delirante Ley de Cambio Climático que nos prohíbe el aprovechamiento de los recursos naturales propios que nos permitirían garantizar nuestra soberanía energética fue aprobada con el único voto contrario de VOX (septiembre 2022).
 categories:
 - Industria
 - Energía
-text: Proposición no de ley para la inclusión del concepto de soberanía energética y reversión de la prohibición de exploración, investigación y explotación de los recursos propios, minerales y energéticos de España. La delirante Ley de Cambio Climático que nos prohíbe el aprovechamiento de los recursos naturales propios que nos permitirían garantizar nuestra soberanía energética fue aprobada con el único voto contrario de VOX (septiembre 2022).

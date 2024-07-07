@@ -1,7 +1,6 @@
 id: a5f9b30e-b1d2-4ba4-9cb4-75d868646fa2
 type: promise
-parent_statement: 23fa7e7f-5776-4d70-b304-8291eb9df84e
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Industria
+parent_statement: 23fa7e7f-5776-4d70-b304-8291eb9df84e
+parent_chapter: 7c79fe71-f119-4b1d-a348-2b181c21b108
 text: Hacia un cierre nuclear seguro y socialmente justo. Sumar se compromete a mantener el calendario de cierre del parque nuclear español, aplicando una moratoria a cualquier nueva iniciativa nuclear, exigiendo revisiones e inversiones para garantizar la seguridad del proceso y subrayando la responsabilidad de los propietarios en el mismo. Mientras tanto, se propone sacar la energía nuclear del mercado marginalista por su efecto distorsionante, incrementar la tasa de residuos radiactivos y asegurar un proceso de transición justa de los trabajadores vinculados al sector.
+categories: Industria

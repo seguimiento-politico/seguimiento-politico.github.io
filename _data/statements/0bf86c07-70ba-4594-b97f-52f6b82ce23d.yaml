@@ -1,6 +1,6 @@
 id: 0bf86c07-70ba-4594-b97f-52f6b82ce23d
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 143
+parent_chapter: c794cb24-1c55-422f-8b6d-1ff29ad1ed87
+children_promises:
+- 834aa684-7d82-4c64-8959-4026e05a691c
+- 2e31029f-9262-49da-8fa3-0e4611a3a4ce
+- 4cea3732-7e01-4d29-b36d-3b17494728aa
+children_statements: []
+title: Reforma de los tratados para blindar la Europa social.
 categories: Política internacional
 topics: Europa
-title: Reforma de los tratados para blindar la Europa social.
-has_children: true

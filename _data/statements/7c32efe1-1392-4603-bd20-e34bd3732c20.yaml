@@ -1,6 +1,6 @@
 id: 7c32efe1-1392-4603-bd20-e34bd3732c20
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 26
-categories: Industria
+parent_chapter: 954de2bf-5021-4dd9-832f-397812195e64
 text: IMPULSAREMOS EL DESARROLLO DE PROYECTOS DE INVERSIÓN A TRAVÉS DE UNA NUEVA OFICINA DE PROYECTOS INDUSTRIALES ESTRATÉGICOS (OPIE) que designará un agente facilitador para cada proyecto, ejerciendo funciones de apoyo y asesoramiento para su diseño, tramitación, monitorización y puesta en marcha, así como la coordinación con el resto de administraciones.
+categories: Industria

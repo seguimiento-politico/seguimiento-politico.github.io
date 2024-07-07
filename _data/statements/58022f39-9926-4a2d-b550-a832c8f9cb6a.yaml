@@ -1,6 +1,6 @@
 id: 58022f39-9926-4a2d-b550-a832c8f9cb6a
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,9 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 66
+parent_chapter: 1d4a4787-163e-4649-b875-f97fd3780649
+children_promises:
+- c2ec2333-f30c-428d-afbb-3f74071b77fa
+- 34339d3d-a08d-4b23-8ee0-be6f2ee56882
+children_statements: []
+title: Proseguiremos con las inversiones del Plan de Recuperación, Transformación y Resiliencia para apoyar al sector en la necesaria transición ecológica y digital
 categories:
 - Agricultura
 - Ganadaría
 topics: Desarrollo sostenible
-title: Proseguiremos con las inversiones del Plan de Recuperación, Transformación y Resiliencia para apoyar al sector en la necesaria transición ecológica y digital
-has_children: true

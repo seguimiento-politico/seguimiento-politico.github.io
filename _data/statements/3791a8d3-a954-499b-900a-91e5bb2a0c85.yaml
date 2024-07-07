@@ -1,7 +1,6 @@
 id: 3791a8d3-a954-499b-900a-91e5bb2a0c85
 type: promise
-parent_statement: 8ec4fcd7-0cf8-41e4-8083-76de5955249f
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
+parent_statement: 8ec4fcd7-0cf8-41e4-8083-76de5955249f
+parent_chapter: 80f33f13-c365-4098-ac18-6210795cdb15
+text: Reducir el tipo general del Impuesto sobre Sociedades al 20% con una reducción del 5% en el caso que los beneficios no se distribuyan y se mantengan en la empresa como reservas.
 categories:
 - Economía
-text: Reducir el tipo general del Impuesto sobre Sociedades al 20% con una reducción del 5% en el caso que los beneficios no se distribuyan y se mantengan en la empresa como reservas.

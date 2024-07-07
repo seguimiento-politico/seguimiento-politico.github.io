@@ -1,6 +1,6 @@
 id: 1674689d-3c95-4caa-9dd0-72ca2cc4e0dc
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 236
+parent_chapter: 8a0803ad-af9f-44c7-bd6c-049f66148a50
+text: Crearemos un certificado digital para medir el nivel de respeto a los derechos de ciudadanía digital de toda página o espacio web.
 categories: Derechos y servicios sociales
 topics:
 - Derechos digitales
-text: Crearemos un certificado digital para medir el nivel de respeto a los derechos de ciudadanía digital de toda página o espacio web.

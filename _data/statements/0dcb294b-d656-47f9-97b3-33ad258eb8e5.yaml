@@ -1,7 +1,6 @@
 id: 0dcb294b-d656-47f9-97b3-33ad258eb8e5
 type: promise
-parent_statement: ec8dddf6-bd06-4e47-96ad-21a39b218d33
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: ec8dddf6-bd06-4e47-96ad-21a39b218d33
+parent_chapter: 5ac453aa-319d-4ea3-b4b6-7a63e3dde3ff
+text: Para ello, se reforzará y modernizará el Sistema Arbitral de Consumo, se fomentará el asociacionismo, renovando e impulsando el Consejo de Consumidores y Usuarios, y se mejorarán los mecanismos procesales a favor de las acciones de representación de las personas consumidoras.
 categories: Consumo
 topics: Consumo sostenible
-text: Para ello, se reforzará y modernizará el Sistema Arbitral de Consumo, se fomentará el asociacionismo, renovando e impulsando el Consejo de Consumidores y Usuarios, y se mejorarán los mecanismos procesales a favor de las acciones de representación de las personas consumidoras.

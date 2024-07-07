@@ -1,6 +1,6 @@
 id: 653005e8-31ed-42b8-9fef-6e7534940750
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 20
-categories: Trabajo
+parent_chapter: cae5d808-1ce9-4168-a268-4ea405606db1
 title: Policías Nacionales y Guardias Civiles.
 text: Cumpliremos en 2020 como hicimos en 2018 y 2019, el acuerdo firmado por el Gobierno y los sindicatos y asociaciones profesionales de la Policía y la Guardia Civil, para alcanzar la equiparación salarial con los cuerpos autonómicos. Se impulsará también el Plan de Infraestructuras para la seguridad del Estado con una dotación de 600 millones en los próximos años, para mejorar comisarías y cuarteles de las Fuerzas y Cuerpos de Seguridad del Estado.
+categories: Trabajo

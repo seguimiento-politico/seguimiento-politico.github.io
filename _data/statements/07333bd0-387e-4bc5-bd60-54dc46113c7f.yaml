@@ -1,0 +1,24 @@
+id: 07333bd0-387e-4bc5-bd60-54dc46113c7f
+type: promise
+parent_document: a613c4b6-f9dc-4926-8b9a-b87c233e5a75
+parties:
+- VOX
+election_type: europeas
+election_date: '2024-06-09'
+publication_date: '2024-05-30'
+page: 25
+text: Estimular desde la UE la disponibilidad de un mix energético que incluya energía fotovoltaica, eólica, hidráulica y nuclear y las utilice de forma proporcionada para garantizar la soberanía energética.
+categories:
+- Energía
+topics:
+- name: Soberanía energética
+  proposed_actions:
+  - text: Emplear las Energías renovables y la Nuclear de forma proporcionada para garantizar la soberanía energética
+- name: Energías renovables
+  position_positive: null
+  proposed_actions:
+  - text: Estimular desde la UE la disponibilidad de un mix energético que incluya energía fotovoltaica, eólica, hidráulica y nuclear
+- name: Energía nuclear
+  position_positive: null
+  proposed_actions:
+  - text: Estimular desde la UE la disponibilidad de un mix energético que incluya energía fotovoltaica, eólica, hidráulica y nuclear

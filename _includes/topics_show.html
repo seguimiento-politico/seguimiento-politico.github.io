@@ -1,0 +1,206 @@
+<span class="small text-muted">
+<!-- arguments -->
+{% assign variables = "status, position" | split: ", " %}
+{% assign variants = "positive, negative" | split: ", " %}
+{% assign second_variables = "promotes, obstructs, due, responsible_agents, exploits" | split: ", " %}
+<!-- prescriptions and actions -->
+{% assign action_negative_variables = "to_obstruct, by_obstructing, by_eliminating" | split: ", " %}
+{% assign action_neutral_variables = "for, over, by_changing, if_condition" | split: ", " %}
+{% assign action_positive_variables = "to_promote, by_promoting" | split: ", " %}
+
+{% assign all_topics = "" %}
+{% assign position_negative_topics = "" %}
+{% assign position_positive_topics = "" %}
+{% assign status_negative_topics = "" %}
+{% assign status_positive_topics = "" %}
+
+{% if element[1].topics %}
+    {% for topic in element[1].topics %}
+        {% if topic.name %} 
+            {% assign all_topics = all_topics | append: ", " | append: topic.name %}
+        {% else %} 
+            {% assign all_topics = all_topics | append: ", " | append: topic %}
+        {% endif %}
+    {% endfor %}
+{% endif %}
+
+{% if element[1].arguments %}
+    {% for argument in element[1].arguments %}
+        
+        {% for variable in variables %}
+            {% for variant in variants %}
+                {% assign var_name = variable | append: "_" | append: variant %}
+                {% assign topics = argument | map: var_name | compact | join: ', ' %}
+                
+                {% assign all_topics = all_topics | append: ", " | append: topics %}
+
+                {% if var_name == 'position_positive' %}
+                    {% assign position_positive_topics = position_positive_topics | append: ', ' | append: topics %}
+                {% elsif var_name == 'position_negative' %}
+                    {% assign position_negative_topics = position_negative_topics | append: ', ' | append: topics %}
+                {% elsif var_name == 'status_positive' %}
+                    {% assign status_positive_topics = status_positive_topics | append: ', ' | append: topics %}
+                {% elsif var_name == 'status_negative' %}
+                    {% assign status_negative_topics = status_negative_topics | append: ', ' | append: topics %}
+                {% endif %}
+
+                {% for second in second_variables %}
+                    {% assign var_name = variable | append: "_" | append: variant | append: "_" | append: second %}
+                    {% assign topics = argument | map: var_name | compact | join: ', ' %}
+
+                    {% assign all_topics = all_topics | append: ", " | append: topics %}
+
+                    {% if variant == 'negative' %}
+                        {% if second == 'obstructs' %}
+                            {% assign position_positive_topics = position_positive_topics | append: ', ' | append: topics %}
+                            {% if variable == 'status' %} {% assign status_negative_topics = status_negative_topics | append: ', ' | append: topics %} {% endif %}
+                        {% elsif second == 'promotes' %}   
+                            {% assign position_negative_topics = position_negative_topics | append: ', ' | append: topics %}
+                            {% if variable == 'status' %} {% assign status_negative_topics = status_negative_topics | append: ', ' | append: topics %} {% endif %}
+                        {% else %}
+                            {% assign position_negative_topics = position_negative_topics | append: ', ' | append: topics %}
+                            {% if variable == 'status' %} {% assign status_negative_topics = status_negative_topics | append: ', ' | append: topics %} {% endif %}
+                        {% endif %}
+                    {% else %}
+                        {% if second == 'obstructs' %}
+                            {% assign position_negative_topics = position_negative_topics | append: ', ' | append: topics %}
+                            {% if variable == 'status' %} {% assign status_positive_topics = status_positive_topics | append: ', ' | append: topics %} {% endif %}
+                        {% elsif second == 'promotes' %}   
+                            {% assign position_positive_topics = position_positive_topics | append: ', ' | append: topics %}
+                            {% if variable == 'status' %} {% assign status_positive_topics = status_positive_topics | append: ', ' | append: topics %} {% endif %}
+                        {% else %}
+                            {% assign position_positive_topics = position_positive_topics | append: ', ' | append: topics %}
+                            {% if variable == 'status' %} {% assign status_positive_topics = status_positive_topics | append: ', ' | append: topics %} {% endif %}
+                        {% endif %}
+                    {% endif %}
+
+                {% endfor %}
+
+            {% endfor %}
+        {% endfor %}
+    {% endfor %}
+{% endif %}
+
+{% if element[1].prescriptions %}
+    {% for prescription in element[1].prescriptions %}
+        {% for variable in action_negative_variables %}
+            {% assign topics = prescription | map: variable | compact | join: ', ' %}
+            {% assign all_topics = all_topics | append: ", " | append: topics %}
+
+            {% assign position_negative_topics = position_negative_topics | append: ', ' | append: topics %}
+            {% assign status_negative_topics = status_negative_topics | append: ', ' | append: topics %}
+        {% endfor %}
+
+        {% for variable in action_positive_variables %}
+            {% assign topics = prescription | map: variable | compact | join: ', ' %}
+            {% assign all_topics = all_topics | append: ", " | append: topics %}
+
+            {% assign position_positive_topics = position_positive_topics | append: ', ' | append: topics %}
+            {% assign status_negative_topics = status_negative_topics | append: ', ' | append: topics %}
+        {% endfor %}
+
+        {% for variable in action_neutral_variables %}
+            {% assign topics = prescription | map: variable | compact | join: ', ' %}
+            {% assign all_topics = all_topics | append: ", " | append: topics %}
+
+            {% assign status_negative_topics = status_negative_topics | append: ', ' | append: topics %}
+        {% endfor %}
+
+    {% endfor %}
+{% endif %}
+
+{% if element[1].actions %}
+    {% for action in element[1].actions %}
+        {% for variable in action_negative_variables %}
+            {% assign topics = action | map: variable | compact | join: ', ' %}
+            {% assign all_topics = all_topics | append: ", " | append: topics %}
+
+            {% assign position_negative_topics = position_negative_topics | append: ', ' | append: topics %}
+            {% assign status_negative_topics = status_negative_topics | append: ', ' | append: topics %}
+        {% endfor %}
+
+        {% for variable in action_positive_variables %}
+            {% assign topics = action | map: variable | compact | join: ', ' %}
+            {% assign all_topics = all_topics | append: ", " | append: topics %}
+
+            {% assign position_positive_topics = position_positive_topics | append: ', ' | append: topics %}
+            {% assign status_negative_topics = status_negative_topics | append: ', ' | append: topics %}
+        {% endfor %}
+
+        {% for variable in action_neutral_variables %}
+            {% assign topics = action | map: variable | compact | join: ', ' %}
+            {% assign all_topics = all_topics | append: ", " | append: topics %}
+
+            {% assign status_negative_topics = status_negative_topics | append: ', ' | append: topics %}
+        {% endfor %}
+
+    {% endfor %}
+{% endif %}
+
+{% assign unique_topics = all_topics | split: ", " | compact | uniq %}
+
+{% for topic in unique_topics %}
+    {% if topic == "" %}
+        {% continue %}
+    {% endif %}
+
+    {% assign show-position = false %}
+    {% assign icon-position = '' %}
+    {% assign color-position = '' %}
+    {% assign text-position = '' %}
+    
+    {% assign show-status-quo = false %}
+    {% assign icon-status-quo = '' %}
+    {% assign color-status-quo = '' %}
+    {% assign text-status-quo = '' %}
+
+    {% assign text = '' %}
+    {% assign text = color-neutral %}
+    
+    {% if position_negative_topics contains topic or position_positive_topics contains topic %}
+        {% if position_negative_topics contains topic and position_positive_topics contains topic %}
+            {% assign show-position = true %}
+            {% assign icon-position = icon-position-mixed %}
+            {% assign color-position = color-mixed %}
+            {% assign text-position = text-position-mixed %}
+        {% elsif position_positive_topics contains topic %}
+            {% assign show-position = true %}
+            {% assign icon-position = icon-position-up %}
+            {% assign color-position = color-up %}
+            {% assign text-position = text-position-up %}
+        {% else %}
+            {% assign show-position = true %}
+            {% assign icon-position = icon-position-down %}
+            {% assign color-position = color-down %}
+            {% assign text-position = text-position-down %}
+        {% endif %}
+    {% endif %}
+
+    {% if status_negative_topics contains topic or status_positive_topics contains topic %} 
+        {% if status_negative_topics contains topic and status_positive_topics contains topic %}
+            {% assign show-status-quo = true %}
+            {% assign icon-status-quo = icon-status-quo-mixed %}
+            {% assign color-status-quo = color-mixed %}
+            {% assign text-status-quo = text-status-quo-mixed %}
+        {% elsif status_positive_topics contains topic %}
+            {% assign show-status-quo = true %}
+            {% assign icon-status-quo = icon-status-quo-up %}
+            {% assign color-status-quo = color-up %}
+            {% assign text-status-quo = text-status-quo-up %}
+        {% else %}
+            {% assign show-status-quo = true %}
+            {% assign icon-status-quo = icon-status-quo-down  %}
+            {% assign color-status-quo = color-down %}
+            {% assign text-status-quo = text-status-quo-down %}
+        {% endif %}
+    {% endif %}
+
+    {% if show-position %} <i class="fas fa-fw {{ icon-position }} {{ color-position }}" title="{{ text-position }}"></i>{% endif %}
+    {% if show-status-quo %} <i class="fas fa-fw {{ icon-status-quo }} {{ color-status-quo }}" title="{{ text-status-quo }}"></i>{% endif %}
+    <a href="/topics/show?name={{ topic | slugify }}" target="_blank">{{ topic }}</a>
+    {% if forloop.last == false %} {{ " | "}} {% endif %}
+
+{% endfor %}
+
+
+</span>

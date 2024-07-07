@@ -1,6 +1,6 @@
 id: f61d5320-e85b-4885-a7e9-366917a0983e
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 44
+parent_chapter: 1e1d9fec-722c-4fe5-83c8-753b161e1073
+children_promises:
+- 1a0c734f-8113-4cad-8994-dcb931305a40
+- 0965f852-74ec-4caa-9ad4-309288d38306
+- 8ac44814-1124-473c-a530-e14eae303623
+children_statements: []
+title: Apoyaremos una política pública de Paradores de Turismo que ponga en valor la protección de nuestro patrimonio natural, paisajístico, histórico y cultural.
 categories: Turismo
 topics: Desarrollo sostenible
-title: Apoyaremos una política pública de Paradores de Turismo que ponga en valor la protección de nuestro patrimonio natural, paisajístico, histórico y cultural.
-has_children: true

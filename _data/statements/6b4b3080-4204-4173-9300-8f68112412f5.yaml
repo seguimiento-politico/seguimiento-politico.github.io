@@ -1,6 +1,6 @@
 id: 6b4b3080-4204-4173-9300-8f68112412f5
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 28
+parent_chapter: 0198b426-e501-4084-b969-9a1dd94572a3
+text: Apoyaremos la transformación digital de las PYMES, centralizando y proporcionando una ventana única de acceso a los distintos programas públicos de apoyo, a través de la aprobación de un Marco Estratégico PYMES 2030.
 categories: Economía
 topics: Empresas
-text: Apoyaremos la transformación digital de las PYMES, centralizando y proporcionando una ventana única de acceso a los distintos programas públicos de apoyo, a través de la aprobación de un Marco Estratégico PYMES 2030.

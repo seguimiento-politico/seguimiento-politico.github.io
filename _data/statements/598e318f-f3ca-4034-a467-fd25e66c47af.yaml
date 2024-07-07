@@ -1,12 +1,13 @@
 id: 598e318f-f3ca-4034-a467-fd25e66c47af
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 17
+parent_chapter: b019b40e-f2ac-4d25-bf11-14a963b4bdaf
+text: Eliminaremos el Impuesto de Sucesiones y Donaciones para las transmisiones entre padres e hijos y al resto de la línea descendiente, así como entre cónyuges.
 categories:
 - Impuestos y financiación pública
-text: Eliminaremos el Impuesto de Sucesiones y Donaciones para las transmisiones entre padres e hijos y al resto de la línea descendiente, así como entre cónyuges.

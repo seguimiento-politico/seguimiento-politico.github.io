@@ -1,6 +1,6 @@
 id: 874f733c-23de-4f1e-a4b3-628ed354641f
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,7 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 119
+parent_chapter: 96823b0f-932d-41e1-a800-716933f427ff
+text: Exigiremos, en el seno de la Unión Europea, la supresión del mercado de emisiones de CO2 y del mecanismo de asignación de los derechos a través de subasta por su carácter especulativo, ya que lastra la economía y provoca la pérdida de industria y capacidad productiva esencial de los Estados Miembros.
 categories:
 - Industria
 - Energía
-text: Exigiremos, en el seno de la Unión Europea, la supresión del mercado de emisiones de CO2 y del mecanismo de asignación de los derechos a través de subasta por su carácter especulativo, ya que lastra la economía y provoca la pérdida de industria y capacidad productiva esencial de los Estados Miembros.

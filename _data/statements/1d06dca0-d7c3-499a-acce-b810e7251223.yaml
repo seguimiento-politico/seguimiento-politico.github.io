@@ -1,7 +1,6 @@
 id: 1d06dca0-d7c3-499a-acce-b810e7251223
 type: promise
-parent_statement: f496b3a0-472d-46cf-a8f7-5577a830ec90
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: f496b3a0-472d-46cf-a8f7-5577a830ec90
+parent_chapter: 194f102b-5855-48f6-8c07-594c4c44c66f
+text: Fomento de nodos logísticos, centros de acopio o food hubs sostenibles gestionados por el sector productivo (pequeñas y medianas producciones agroecológicas y pesca artesanal orientadas al circuito corto) para impulsar la agregación, almacenamiento, procesamiento, logística y distribución de alimentos.
 categories: Consumo
 topics: Alimentación saludable
-text: Fomento de nodos logísticos, centros de acopio o food hubs sostenibles gestionados por el sector productivo (pequeñas y medianas producciones agroecológicas y pesca artesanal orientadas al circuito corto) para impulsar la agregación, almacenamiento, procesamiento, logística y distribución de alimentos.

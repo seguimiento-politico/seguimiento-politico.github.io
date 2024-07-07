@@ -1,6 +1,6 @@
 id: 8cb5203d-302c-4146-8456-a8ba5ef01369
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 202
-categories: Sanidad
+parent_chapter: ce0f05e1-2eb2-478e-b8a9-bf19fe5c769b
 text: Concluiremos la aprobación de las especialidades en Medicina de Urgencias y emergencias, Enfermedades infecciosas, del Deporte, y Genética, así como nuevas especialidades que se adapten a las necesidades presentes y futuras de la población.
+categories: Sanidad

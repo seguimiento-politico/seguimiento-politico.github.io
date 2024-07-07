@@ -1,7 +1,6 @@
 id: 756cae68-5692-4a72-91f2-a0078ef19824
 type: promise
-parent_statement: d1aefdf4-e1c3-4b94-95f5-d38a214f4e33
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Cultura
+parent_statement: d1aefdf4-e1c3-4b94-95f5-d38a214f4e33
+parent_chapter: 3c3b6e77-c208-4e24-b285-18f9fd80d11c
 text: En primer lugar, potenciar la neutralidad de la red para garantizar que se limita el papel de las empresas que proveen el apoyo a la comunicación y, así, asegurarse de que el servicio ofrecido no distingue ni prioriza de manera arbitraria los contenidos, servicios, aplicaciones u otros con criterios de propiedad, marca, fuente de origen o preferencia.
+categories: Cultura

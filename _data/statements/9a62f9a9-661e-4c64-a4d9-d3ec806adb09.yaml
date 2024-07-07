@@ -1,6 +1,6 @@
 id: 9a62f9a9-661e-4c64-a4d9-d3ec806adb09
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 127
+parent_chapter: a7853898-5bb1-4a7c-8910-f570fc691c52
+text: Fortaleceremos las funciones del CGPJ y lo dotaremos de mayor autonomía presupuestaria.
 categories:
 - Justicia
-text: Fortaleceremos las funciones del CGPJ y lo dotaremos de mayor autonomía presupuestaria.

@@ -1,7 +1,6 @@
 id: 73f2a45e-3df3-43ee-bb67-5ee9bbcd6ec9
 type: promise
-parent_statement: a6e1b090-7e1d-49b3-a30e-3d19c25f5c66
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,4 +8,6 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: a6e1b090-7e1d-49b3-a30e-3d19c25f5c66
+parent_chapter: 234f712b-aaa0-45c7-92d9-e5641ca46ec2
 text: Desplegar procesos que hagan frente a las situaciones de contingencia y urgencia derivadas de los efectos de la crisis ecológica y climática.

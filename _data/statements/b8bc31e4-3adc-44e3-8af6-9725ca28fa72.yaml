@@ -1,6 +1,6 @@
 id: b8bc31e4-3adc-44e3-8af6-9725ca28fa72
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 129
+parent_chapter: 36d24e1d-5fdd-486e-90c6-db666440d304
+text: Mantendremos las ayudas para material escolar y libros de texto para apoyar la inversión de las familias al inicio del curso escolar.
 categories: Derechos y servicios sociales
 topics: Infancia y juventud
-text: Mantendremos las ayudas para material escolar y libros de texto para apoyar la inversión de las familias al inicio del curso escolar.

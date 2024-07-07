@@ -1,0 +1,41 @@
+name: Natalidad
+other:
+- &id001
+  id: c12382f8-28a4-4225-a95d-34a8eba948ec
+  parties:
+  - CIUDADANOS
+- &id003
+  id: e985ed68-5d08-4ffb-8f53-09806c2f08c2
+  parties:
+  - VOX
+- &id004
+  id: 3f62eebc-f39f-4c67-9303-da5dfe96bc21
+  parties:
+  - VOX
+other_count: 3
+position_negative: []
+position_negative_count: 0
+position_positive:
+- &id002
+  id: f65a3147-b891-471f-af38-4c0f0bed1262
+  parties:
+  - VOX
+position_positive_count: 1
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- *id002
+- &id005
+  id: e985ed68-5d08-4ffb-8f53-09806c2f08c2
+  parties:
+  - VOX
+- *id003
+- *id004
+statements_count: 5
+status_quo_negative:
+- *id002
+- *id005
+status_quo_negative_count: 2
+status_quo_positive: []
+status_quo_positive_count: 0

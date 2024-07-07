@@ -1,6 +1,6 @@
 id: c4cee7cc-7449-4690-a75c-570c7ceeef97
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 150
-categories: Política internacional
+parent_chapter: 7d023909-0f5e-4683-b705-4b789e78ec33
+children_promises:
+- 0029e6c1-c0d9-4502-a978-2245aafd3762
+- b6be8714-8df0-450b-bb3c-ea272ead3426
+- 9ac18c43-4a51-4448-9ec4-c642c4f3bc24
+children_statements: []
 title: Protección de la ciudadanía española en el exterior
-has_children: true
+categories: Política internacional

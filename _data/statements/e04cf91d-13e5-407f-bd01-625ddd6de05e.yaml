@@ -1,11 +1,12 @@
 id: e04cf91d-13e5-407f-bd01-625ddd6de05e
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 69
-categories: Energía
+parent_chapter: ca959df7-900b-4214-bd99-9431d6240a39
 text: Reforzaremos la protección del bono social, para que mejore la pro    tección de los consumidores más vulnerables.
+categories: Energía

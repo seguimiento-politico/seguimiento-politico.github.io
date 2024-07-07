@@ -1,7 +1,6 @@
 id: 6492a174-4abf-4139-8266-ec929548c398
 type: promise
-parent_statement: 92a795e1-fb34-4222-8bde-159d362166c4
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,5 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 125
-categories: Cultura
+parent_statement: 92a795e1-fb34-4222-8bde-159d362166c4
+parent_chapter: ef655d4e-aabd-4367-b039-db13bf06547d
 text: En coordinación y cooperación con los propios agentes, promoveremos una estrategia que permita a todos los sectores de las industrias culturales, avanzar en la sostenibilidad medio ambiental, incorporando dichas industrias a la estrategia de impacto cero y lucha contra el cambio climático.
+categories: Cultura

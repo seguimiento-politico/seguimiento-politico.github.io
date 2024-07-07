@@ -1,6 +1,6 @@
 id: 0e548a09-8ed8-40c6-add9-536f0a8f517a
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 176
-categories: Deporte
+parent_chapter: a70e8aeb-8c97-49cc-a564-4ef30daf0789
+children_promises:
+- f052faae-3447-4d19-84ee-79a91783bd3f
+- 6343c9f3-7e93-462d-a920-399359d72b7e
+- ba01a238-3fd3-4a4a-85cb-d12a67ef5e3b
+- 00e71d3b-c148-4137-93ef-9ffcfe1d8e62
+children_statements: []
 title: Hacer del deporte una herramienta de mejora económica y social desde las Administraciones públicas y las instituciones
-has_children: true
+categories: Deporte

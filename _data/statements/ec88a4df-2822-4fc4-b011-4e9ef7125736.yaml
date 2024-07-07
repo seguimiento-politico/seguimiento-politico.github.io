@@ -1,7 +1,6 @@
 id: ec88a4df-2822-4fc4-b011-4e9ef7125736
 type: promise
-parent_statement: f4b9f550-e0e1-453b-b344-d4a408598892
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: f4b9f550-e0e1-453b-b344-d4a408598892
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+text: Se plantearán medidas para garantizar los derechos de las mujeres embarazadas, las condiciones del parto y posparto más allá de la actual estrategia de atención al parto normal en el Sistema Nacional de Salud, y se valorará la presentación de una ley.
 categories: Democracia
 topics: Igualdad
-text: Se plantearán medidas para garantizar los derechos de las mujeres embarazadas, las condiciones del parto y posparto más allá de la actual estrategia de atención al parto normal en el Sistema Nacional de Salud, y se valorará la presentación de una ley.

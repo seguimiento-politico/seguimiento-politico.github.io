@@ -1,6 +1,6 @@
 id: 4da2b803-fca1-489e-825d-01d64b6e3ebf
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 17
+parent_chapter: 14cfe70b-f6b5-4003-88f7-02a877dec28f
 title: Incorporar a niñas, niños y adolescentes a esta transformación.
 text: (Véase el apartado sobre educación en «Garantías de Justicia Social»)

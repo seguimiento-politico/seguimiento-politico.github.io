@@ -1,7 +1,6 @@
 id: 019cdcdd-2b58-4521-8e98-910aee4eabcc
 type: promise
-parent_statement: c70043e0-6804-4466-a395-48e108fa8d7d
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: c70043e0-6804-4466-a395-48e108fa8d7d
+parent_chapter: 3c3b6e77-c208-4e24-b285-18f9fd80d11c
+text: Crearemos indicadores para evaluar la sostenibilidad de las actividades culturales y aplicaremos criterios de sostenibilidad en las ayudas y la contratación pública.
 categories: Cultura
 topics: Desarrollo sostenible
-text: Crearemos indicadores para evaluar la sostenibilidad de las actividades culturales y aplicaremos criterios de sostenibilidad en las ayudas y la contratación pública.

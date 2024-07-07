@@ -1,6 +1,6 @@
 id: aabd7912-e6a0-4ac3-9086-7cf53962d9de
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 74
+parent_chapter: 88c43ae6-3b46-453b-88f6-05040af07103
+text: MODIFICAREMOS LOS REGLAMENTOS DE LAS CORTES GENERALES a efectos de excluir expresa y claramente la posibilidad de introducir enmiendas “intrusas”, como ha señalado recientemente el Tribunal Constitucional. Por enmiendas intrusas, y de acuerdo con la jurisprudencia del Tribunal Constitucional, se entenderán aquellas que no guarden una conexión de homogeneidad con el objeto material de la norma en tramitación.
 categories: Democracia
 topics: Podel legislativo
-text: MODIFICAREMOS LOS REGLAMENTOS DE LAS CORTES GENERALES a efectos de excluir expresa y claramente la posibilidad de introducir enmiendas “intrusas”, como ha señalado recientemente el Tribunal Constitucional. Por enmiendas intrusas, y de acuerdo con la jurisprudencia del Tribunal Constitucional, se entenderán aquellas que no guarden una conexión de homogeneidad con el objeto material de la norma en tramitación.

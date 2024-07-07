@@ -1,6 +1,6 @@
 id: 3c8f5de2-4083-4047-a700-83aade13a5e1
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 75
-categories: Justicia
+parent_chapter: 0f87afc6-fcea-4ab1-b5a8-63765bc3744f
 text: APROBAREMOS LAS REFORMAS PROCESALES, ORGANIZATIVAS Y DE DIGITALIZACIÓN NECESARIAS, dialogando con las Comunidades Autónomas. Incrementaremos en 1.000 plazas la plantilla de jueces y fiscales a lo largo de la legislatura.
+categories: Justicia

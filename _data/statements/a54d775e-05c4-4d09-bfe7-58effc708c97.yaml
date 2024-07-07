@@ -1,6 +1,6 @@
 id: a54d775e-05c4-4d09-bfe7-58effc708c97
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 20
+parent_chapter: d5bc3185-7cac-4cbc-9ca4-df232e4c8a2f
+children_promises:
+- a82dc712-0e1e-4632-badf-e02eaaf4925c
+- ea953de6-a56c-4ae6-a4fb-e06a2822e39a
+- d3522899-5957-49af-8f92-1160e8f0f595
+children_statements: []
+title: Terrorismo ETA
 categories:
 - Justicia
-title: Terrorismo ETA
-has_children: true

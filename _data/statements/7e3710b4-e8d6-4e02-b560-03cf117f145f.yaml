@@ -1,7 +1,6 @@
 id: 7e3710b4-e8d6-4e02-b560-03cf117f145f
 type: promise
-parent_statement: f6d9a713-3b0c-4359-af57-310287a3317b
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Política internacional
+parent_statement: f6d9a713-3b0c-4359-af57-310287a3317b
+parent_chapter: 4d3afa99-1301-4519-a703-6dfe49d7e832
 text: Daremos marcha atrás con celeridad al cambio de posición adoptado en 2022 con respecto al Sáhara Occidental y utilizaremos todos los canales de influencia en el conflicto para apoyar plenamente el derecho a la libre determinación del pueblo del Sáhara Occidental, en el seno de las Naciones Unidas, impulsando el trabajo de la MINURSO, y tanto en las instancias regionales como en las relaciones bilaterales con su Vecindad Sur.
+categories: Política internacional

@@ -1,7 +1,6 @@
 id: b3d6051c-0033-4751-bde1-1502c5d8399a
 type: promise
-parent_statement: 96a8c5d1-dbb7-4b83-9a64-afaba5cf9c91
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,8 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 157
+parent_statement: 96a8c5d1-dbb7-4b83-9a64-afaba5cf9c91
+parent_chapter: fa3cbb6b-1ec5-4044-b60a-7e8b530ca3e3
+text: Incluiremos medidas como programas para crear conciencia sobre los riesgos asociados y las consecuencias negativas de su consumo;
 categories: Derechos y servicios sociales
 topics:
 - Juventud
 - Pornografía
-text: Incluiremos medidas como programas para crear conciencia sobre los riesgos asociados y las consecuencias negativas de su consumo;

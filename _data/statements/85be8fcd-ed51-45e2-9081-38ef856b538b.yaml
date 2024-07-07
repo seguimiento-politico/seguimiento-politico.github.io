@@ -1,7 +1,6 @@
 id: 85be8fcd-ed51-45e2-9081-38ef856b538b
 type: promise
-parent_statement: 6a5a83ec-4ead-47ad-812a-1bfa083fccc2
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 6a5a83ec-4ead-47ad-812a-1bfa083fccc2
+parent_chapter: 4a4ec318-0db9-4da1-9515-2b36e808a75f
+text: con precios justos para los productores y las productoras, y consumidores y consumidoras,
 categories: Consumo
 topics: Alimentación saludable
-text: con precios justos para los productores y las productoras, y consumidores y consumidoras,

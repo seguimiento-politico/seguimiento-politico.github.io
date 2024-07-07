@@ -1,6 +1,6 @@
 id: 2588ddb9-2c46-42d7-80d0-95226897f03d
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 217
+parent_chapter: 50ccf55c-06d9-4d67-b7df-7b241b8adc09
+text: Promoveremos campañas de prevención, sensibilización y reconocimiento de la diversidad cultural como estrategia de combate contra el racismo, favoreciendo la participación de las personas racializadas en los medios de comunicación, especialmente en las televisiones públicas, como referentes positivos que desactiven los prejuicios y estereotipos que son la antesala del racismo.
 categories: Derechos y servicios sociales
 topics:
 - Discriminación
 - Racismo
-text: Promoveremos campañas de prevención, sensibilización y reconocimiento de la diversidad cultural como estrategia de combate contra el racismo, favoreciendo la participación de las personas racializadas en los medios de comunicación, especialmente en las televisiones públicas, como referentes positivos que desactiven los prejuicios y estereotipos que son la antesala del racismo.

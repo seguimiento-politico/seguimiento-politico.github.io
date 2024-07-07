@@ -1,6 +1,6 @@
 id: 39cbdd23-830c-411a-b609-4ba1b3ec0db6
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_chapter: 9541bf1a-337b-46af-897e-74b015fabf16
+text: Continuaremos reforzando la confianza en España mediante una política económica responsable y coherente, alineada con las recomendaciones de los organismos internacionales, basada en la escucha y el diálogo con los agentes económicos y sociales.
 categories: Economía
 topics: Desarrollo sostenible
-text: Continuaremos reforzando la confianza en España mediante una política económica responsable y coherente, alineada con las recomendaciones de los organismos internacionales, basada en la escucha y el diálogo con los agentes económicos y sociales.

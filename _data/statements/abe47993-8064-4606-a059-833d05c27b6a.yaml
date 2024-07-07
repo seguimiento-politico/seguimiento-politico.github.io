@@ -1,6 +1,6 @@
 id: abe47993-8064-4606-a059-833d05c27b6a
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 106
-categories: Cultura
+parent_chapter: 156e3030-bc67-4aa6-8243-9123dce112aa
 text: FORTALECEREMOS EL PROGRAMA PLATEA de circulación de espectáculos en recintos de ámbito local. Reformaremos el Instituto Nacional de las Artes Escénicas y de la Música adaptando su régimen jurídico y sus sistemas de gestión y control económico-financiero a las peculiaridades de su actividad, e impulsaremos las giras nacionales e internacionales de sus unidades artísticas.
+categories: Cultura

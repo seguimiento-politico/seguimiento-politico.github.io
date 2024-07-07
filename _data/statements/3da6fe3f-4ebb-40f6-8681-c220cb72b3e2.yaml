@@ -1,7 +1,6 @@
 id: 3da6fe3f-4ebb-40f6-8681-c220cb72b3e2
 type: promise
-parent_statement: 81f69d06-c830-4648-a8a7-8a20b09ad3d6
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
+parent_statement: 81f69d06-c830-4648-a8a7-8a20b09ad3d6
+parent_chapter: d5bc3185-7cac-4cbc-9ca4-df232e4c8a2f
+text: Las víctimas serán oídas en las distintas fases del procedimiento, y también en la ejecución de la sentencia.
 categories:
 - Justicia
-text: Las víctimas serán oídas en las distintas fases del procedimiento, y también en la ejecución de la sentencia.

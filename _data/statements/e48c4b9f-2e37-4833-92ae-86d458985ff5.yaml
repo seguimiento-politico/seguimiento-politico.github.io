@@ -1,6 +1,6 @@
 id: e48c4b9f-2e37-4833-92ae-86d458985ff5
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 26
+parent_chapter: b8a5aa3d-8c58-4fdb-8ce8-c6eb037312b4
 text: Trabajar para una Constitución decididamente feminista que, entre otros, definirá los cuidados como un derecho fundamental. Se llevará a cabo, además, un desarrollo legislativo que considere los cuidados una responsabilidad social inseparable de la vida misma y que garantice su acceso y su provisión de manera universal a partir de una dotación presupuestaria suficiente y de unos servicios públicos adecuados.

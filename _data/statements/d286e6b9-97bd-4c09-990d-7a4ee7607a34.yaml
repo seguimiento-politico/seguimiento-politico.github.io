@@ -1,6 +1,6 @@
 id: d286e6b9-97bd-4c09-990d-7a4ee7607a34
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,18 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 154
-categories: Educación
+parent_chapter: c1ead426-cec8-44d6-a73a-d98f9059e1db
+children_promises:
+- 2ad30a90-3cbe-472d-8cbc-5c8a44a77775
+- 84f97594-93f8-477f-8cdc-4ebd14314973
+- 49edccac-3995-4e5b-ba97-42309beeea96
+- 649f6ac4-f906-4f9d-9261-7ca2713d46c8
+- fb4068a8-bb68-4ef4-8f30-1a0a09089e2d
+- c5efa9aa-3749-49d2-8450-4187837dfe40
+- e843e444-f260-4691-8772-83f63f48b99e
+- 091c1a62-2891-40f0-a4f1-dd1879ddcca0
+- 88573b2b-e452-497d-99c3-c7e6a27730a0
+children_statements:
+- 9f866465-39f4-403d-890d-ae07fdd31376
 title: Apuesta decidida por reforzar la educación pública y la responsabilidad y regulación públicas del conjunto del sistema, incluyendo la red concertada
-has_children: true
+categories: Educación

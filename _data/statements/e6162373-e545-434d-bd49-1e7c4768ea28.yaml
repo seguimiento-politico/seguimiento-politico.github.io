@@ -1,6 +1,6 @@
 id: e6162373-e545-434d-bd49-1e7c4768ea28
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 63
+parent_chapter: de18231f-ea27-483e-81a9-f51977d7f26c
 title: 'Objetivo 2020: cero muertes en el Mediterráneo.'
 text: Reforzaremos el Servicio de Salvamento Marítimo, un servicio puntero en Europa, que permanecerá como servicio público y civil y cuya única función será la salvaguarda de la vida en el mar Para ello, dotaremos de recursos y de personal estable a las tripulaciones Se protegerá el trabajo de las ONG de rescate y salvamento en el Mediterráneo Central y se suprimirán las prohibiciones de salida Garantizaremos el respeto absoluto a los derechos humanos en la frontera sur, de acuerdo con la normativa internacional, y vigilaremos que no se produzca ninguna devolución en caliente o exprés ilegal Asimismo, prohibiremos las llamadas «plataformas de desembarco» o similares Además, España se comprometerá, en coordinación con otros países de la Unión Europea, a acoger a aquellas personas rescatadas por ONG en el Mediterráneo Central, evitando casos de sufrimiento extremo como el que hemos visto este verano con el barco de Open Arms En el mismo sentido, impulsará un servicio de salvamento europeo que evite que situaciones como esta vuelvan a repetirse

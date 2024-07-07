@@ -1,7 +1,6 @@
 id: 7f39bac2-fb52-4418-89f6-9b48c786eb8a
 type: promise
-parent_statement: 3ac7c77d-f36f-46ea-bef8-6385640ad89e
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 3ac7c77d-f36f-46ea-bef8-6385640ad89e
+parent_chapter: c2c75a7e-7842-4287-9086-d85c4a8cebaa
+text: promoveremos planes de igualdad y diversidad en las instituciones culturales dependientes del Ministerio de Cultura y Deporte;
 categories: Cultura
 topics: Igualdad
-text: promoveremos planes de igualdad y diversidad en las instituciones culturales dependientes del Ministerio de Cultura y Deporte;

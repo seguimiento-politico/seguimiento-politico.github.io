@@ -1,6 +1,6 @@
 id: 94b3fe4d-5f20-46dc-95d8-b65da15078fe
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,7 +8,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 15
-categories: Economía
-topics: Desarrollo sostenible
+parent_chapter: 48b6e85e-eb0a-40f5-9aa9-d85750a8402d
 title: FOMENTAREMOS EL CRECIMIENTO DEL TAMAÑO DE LAS EMPRESAS.
 text: Corregiremos las actuales limitaciones del impuesto de sociedades, con el objetivo de optimizar la gestión tributaria y simplificar reglas que obstaculizan el desarrollo de las empresas. Haremos que las obligaciones fiscales y laborales, que desincentivan el crecimiento al superar ciertos umbrales, se implementen de manera diferida o a través de moratorias. Por último, introduciremos cambios en la regulación tributaria con el objetivo de apoyar el crecimiento de las pequeñas y medianas empresas, suavizando los escalones regulatorios al adquirir la condición de gran empresa a efectos fiscales y modificando la periodicidad en las liquidaciones de IVA y los pagos de las retenciones de IRPF.
+categories: Economía
+topics: Desarrollo sostenible

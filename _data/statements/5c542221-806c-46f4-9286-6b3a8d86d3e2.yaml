@@ -1,6 +1,6 @@
 id: 5c542221-806c-46f4-9286-6b3a8d86d3e2
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 129
-categories: Justicia
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
+children_promises:
+- b257ee7b-d39c-4c68-a148-866ab20bb4f5
+- 1a75e706-c378-4fca-b61d-45a01d8c4c28
+- 3f4feaf1-2848-4e56-9229-7cfadce040ed
+- 6a9201bf-f6ab-4720-b743-65a040ea0291
+children_statements: []
 title: Supresión de la justicia militar e integración en la jurisdicción ordinaria
-has_children: true
+categories: Justicia

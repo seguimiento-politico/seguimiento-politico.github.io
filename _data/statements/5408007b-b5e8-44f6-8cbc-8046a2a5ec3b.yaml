@@ -1,7 +1,6 @@
 id: 5408007b-b5e8-44f6-8cbc-8046a2a5ec3b
 type: promise
-parent_statement: 19caccc5-91a8-42ad-b64e-b28272ade817
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 19caccc5-91a8-42ad-b64e-b28272ade817
+parent_chapter: b5417c2b-2bd9-455f-a227-1ac572dbd434
+text: Reconociendo este el derecho a obtener una Declaración de reparación y reconocimiento, así como el derecho de las víctimas, sus familiares y la sociedad en general, a la verificación de los hechos y la revelación pública y completa de los motivos y circunstancias en que se cometieron las violaciones del Derecho Internacional Humanitario o de violaciones graves y manifiestas de las normas internacionales de los derechos humanos ocurridas a causa de la Guerra y de la Dictadura
 categories: Democracia
 topics: Memoria democrática
-text: Reconociendo este el derecho a obtener una Declaración de reparación y reconocimiento, así como el derecho de las víctimas, sus familiares y la sociedad en general, a la verificación de los hechos y la revelación pública y completa de los motivos y circunstancias en que se cometieron las violaciones del Derecho Internacional Humanitario o de violaciones graves y manifiestas de las normas internacionales de los derechos humanos ocurridas a causa de la Guerra y de la Dictadura

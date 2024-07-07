@@ -1,6 +1,6 @@
 id: d9a092c1-0c41-48dc-8499-97cfe66e39fb
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 241
-categories: Administración pública
+parent_chapter: 251474fc-1fa6-4749-85be-3ba457500342
 text: Aseguraremos que la digitalización de los trámites administrativos no generará exclusión de colectivos, para los que siempre estará disponible la opción de la tramitación multicanal. Para ello, crearemos la figura del asistente personal de registro y tramitación, que ayudará a las personas con mayores dificultades a la hora de gestionar sus trámites ante la Administración.
+categories: Administración pública

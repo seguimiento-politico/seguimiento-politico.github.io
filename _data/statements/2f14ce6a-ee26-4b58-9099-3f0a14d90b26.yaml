@@ -1,7 +1,6 @@
 id: 2f14ce6a-ee26-4b58-9099-3f0a14d90b26
 type: promise
-parent_statement: 8361f3e0-420d-4fa7-8179-f1e95cf34257
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +8,10 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: 8361f3e0-420d-4fa7-8179-f1e95cf34257
+parent_chapter: 96f08000-98a6-4e52-8e39-fe555ca37269
+text: En este sentido reforzaremos e impulsaremos el PROYECTO TRACTOR 7 con el objetivo de promover la divulgación nacional e internacional de la ciencia en español junto con actores como la FECYT, la agencia de noticias científicas SINC y aprovechando el Año Cajal que pondrá en marcha un programa de incentivos fiscales.
 categories: Economía
 topics:
 - Digitalización
 - Lenguas
-text: En este sentido reforzaremos e impulsaremos el PROYECTO TRACTOR 7 con el objetivo de promover la divulgación nacional e internacional de la ciencia en español junto con actores como la FECYT, la agencia de noticias científicas SINC y aprovechando el Año Cajal que pondrá en marcha un programa de incentivos fiscales.

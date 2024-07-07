@@ -1,6 +1,6 @@
 id: fdf2b7de-d60b-4977-b89a-0e5f810c436d
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 45
-categories: Comercio
+parent_chapter: 9297166b-75a1-4115-a351-6be6142ed7df
+children_promises:
+- a991ceb8-9452-4908-9eab-de89cc2aabd2
+children_statements: []
 title: Desarrollaremos instrumentos públicos para dinamizar el consumo local y apoyar al comercio de proximidad
-has_children: true
+categories: Comercio

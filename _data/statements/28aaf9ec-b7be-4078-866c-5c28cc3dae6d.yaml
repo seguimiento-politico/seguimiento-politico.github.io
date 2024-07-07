@@ -1,7 +1,6 @@
 id: 28aaf9ec-b7be-4078-866c-5c28cc3dae6d
 type: promise
-parent_statement: b278b504-0d31-4caf-a857-af0b52e8151d
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Política internacional
-topics: Cambio climático
+parent_statement: b278b504-0d31-4caf-a857-af0b52e8151d
+parent_chapter: 4d3afa99-1301-4519-a703-6dfe49d7e832
 text: Impulsaremos la creación de una fuerza civil de control ecológico en el seno de Naciones Unidas y de un tribunal internacional de justicia climática para facilitar la lucha global contra el ecocidio, que debe ser reconocido como delito en el ámbito de la Corte Penal Internacional.
+categories: Política internacional

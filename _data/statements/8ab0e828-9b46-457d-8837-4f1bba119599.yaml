@@ -1,6 +1,6 @@
 id: 8ab0e828-9b46-457d-8837-4f1bba119599
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,9 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 166
+parent_chapter: 58627ca3-e6ae-47ce-bd7d-42455ec78c0a
+children_promises:
+- e0ef4162-3716-4fd2-83ce-7927e745f79d
+- 21585022-f130-477b-b855-fe93b82a64dc
+- 2f409a0c-d1bf-4a21-9c32-96c75da7dec5
+children_statements: []
+title: Alcanzaremos una financiación para la ciencia significativa, estable y mantenida en tiempos de crisis
 categories: Ciencia y tecnología
 topics:
 - Financiación
 - Gobernanza y transparencia
-title: Alcanzaremos una financiación para la ciencia significativa, estable y mantenida en tiempos de crisis
-has_children: true

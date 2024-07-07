@@ -1,0 +1,20 @@
+name: Homologación educativa
+other:
+- &id001
+  id: 3d9091e8-1306-4cc0-b9ec-a71c26872167
+  parties:
+  - CIUDADANOS
+other_count: 1
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+statements_count: 1
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

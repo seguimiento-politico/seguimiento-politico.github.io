@@ -1,7 +1,6 @@
 id: c7c85be5-5f5f-4106-8231-3efded2761ad
 type: promise
-parent_statement: 55fca26e-cab6-4625-a416-a8079397623b
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Vivienda
+parent_statement: 55fca26e-cab6-4625-a416-a8079397623b
+parent_chapter: 10dbdb5a-3231-46ed-86c9-0dc18f77040e
 text: Realizaremos las modificaciones legales oportunas para que las Administraciones públicas dispongan de capacidad para ejercer derechos de tanteo y retracto.
+categories: Vivienda

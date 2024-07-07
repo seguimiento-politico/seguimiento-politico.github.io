@@ -1,11 +1,12 @@
 id: 62f5d38f-00f9-4dc0-8aca-e70e1df86eb9
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 69
-categories: Energía
+parent_chapter: ca959df7-900b-4214-bd99-9431d6240a39
 text: Defendemos un mix energético que permita cumplir los objetivos de seguridad del suministro, cambio climático y precio de la energía. Esto exige aprovechar al máximo las opciones renovables que ya son competitivas, pero sin renunciar a otras tecnologías que aún son útiles a nuestro país. Para ello, promoveremos la aprobación de un Pacto de Estado para establecer un mix energético estable a 40 años que de certidumbre al sector y al consumidor.
+categories: Energía

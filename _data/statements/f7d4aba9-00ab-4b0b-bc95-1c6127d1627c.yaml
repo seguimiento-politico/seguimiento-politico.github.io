@@ -1,6 +1,6 @@
 id: f7d4aba9-00ab-4b0b-bc95-1c6127d1627c
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 59
-categories: Sanidad
+parent_chapter: befa4347-5ac5-4c3d-853b-7fc9b83921e6
 text: La Sanidad española debe dar preferencia sanitaria a todo español y residente legal y a los trabajadores españoles que regresen del extranjero, aunque sea temporalmente. En el caso de los inmigrantes en situación de ilegalidad, la atención abarcará las situaciones de urgencia vital y enfermedades infecto-contagiosas.
+categories: Sanidad

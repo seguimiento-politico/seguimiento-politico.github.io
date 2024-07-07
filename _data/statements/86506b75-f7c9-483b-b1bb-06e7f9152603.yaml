@@ -1,6 +1,6 @@
 id: 86506b75-f7c9-483b-b1bb-06e7f9152603
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 96
-categories: Seguridad y defensa
+parent_chapter: 25bf0f0c-1738-4a66-b726-df1563c619d0
 text: Proposición no de Ley relativa a medidas en apoyo del colectivo de funcionarios de prisiones (febrero 2020).
+categories: Seguridad y defensa

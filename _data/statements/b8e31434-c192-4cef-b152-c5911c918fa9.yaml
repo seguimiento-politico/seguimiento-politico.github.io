@@ -1,6 +1,6 @@
 id: b8e31434-c192-4cef-b152-c5911c918fa9
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 130
-categories: Seguridad y defensa
+parent_chapter: 66b190ef-617c-438a-adf3-a3c9f707719b
+children_promises:
+- b2f959fa-cb65-45fe-bfa2-6189ba6cca92
+children_statements: []
 title: ' Desmilitarización de la Guardia Civil, como reivindican muchos profesionales del cuerpo y respalda el Código Europeo de Ética Policial.'
-has_children: true
+categories: Seguridad y defensa

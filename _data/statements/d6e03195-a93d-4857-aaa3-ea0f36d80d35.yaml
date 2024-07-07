@@ -1,6 +1,6 @@
 id: d6e03195-a93d-4857-aaa3-ea0f36d80d35
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 14
+parent_chapter: 7ae97af0-2b46-4081-8273-1e68d732579c
+text: La política industrial verde favorecerá la instalación de industrias y el desarrollo de otros sectores y activ  idades económicas verdes en aquellos territorios y comarcas que acogen importantes desarrollos de energías renovables, asegurando el equilibrio territorial, y el desarrollo sostenible de otros sectores y la creación estable de empleo de cal  idad. Esta política industrial favorecerá, asimismo, la elaboración de planes sectoriales de descarbonización que acompañen a los distintos sectores industriales y económicos en la aceleración de la transición energética y el aprovechamiento de las oportun  idades que supone en materia de competitiv  idad.
 categories: Economía
 topics: Desarrollo sostenible
-text: La política industrial verde favorecerá la instalación de industrias y el desarrollo de otros sectores y activ  idades económicas verdes en aquellos territorios y comarcas que acogen importantes desarrollos de energías renovables, asegurando el equilibrio territorial, y el desarrollo sostenible de otros sectores y la creación estable de empleo de cal  idad. Esta política industrial favorecerá, asimismo, la elaboración de planes sectoriales de descarbonización que acompañen a los distintos sectores industriales y económicos en la aceleración de la transición energética y el aprovechamiento de las oportun  idades que supone en materia de competitiv  idad.

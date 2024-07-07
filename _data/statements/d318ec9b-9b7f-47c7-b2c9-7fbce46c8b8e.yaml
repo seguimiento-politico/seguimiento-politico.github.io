@@ -1,6 +1,6 @@
 id: d318ec9b-9b7f-47c7-b2c9-7fbce46c8b8e
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 18
+parent_chapter: 48b6e85e-eb0a-40f5-9aa9-d85750a8402d
+text: CREAREMOS UN ECOSISTEMA PROPICIO PARA LA INNOVACIÓN SOCIAL, facilitando el acceso a recursos, financiación y apoyo técnico a emprendedores y organizaciones sociales. Impulsaremos la creación de incubadoras y aceleradoras especializadas en innovación social, promoviendo la colaboración entre emprendedores, expertos y la comunidad en general.
 categories: Economía
 topics: Desarrollo sostenible
-text: CREAREMOS UN ECOSISTEMA PROPICIO PARA LA INNOVACIÓN SOCIAL, facilitando el acceso a recursos, financiación y apoyo técnico a emprendedores y organizaciones sociales. Impulsaremos la creación de incubadoras y aceleradoras especializadas en innovación social, promoviendo la colaboración entre emprendedores, expertos y la comunidad en general.

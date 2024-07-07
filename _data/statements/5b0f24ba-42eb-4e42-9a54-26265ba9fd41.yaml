@@ -1,10 +1,12 @@
 id: 5b0f24ba-42eb-4e42-9a54-26265ba9fd41
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 57
+parent_chapter: 5fc11c4e-9db8-4c9e-9643-4790f6b860a4
 text: Reforzaremos los recursos residenciales de protección de la infancia y adolescencia, potenciando la especialización de estos centros e impulsando la figura de los educadores, a través de la implantación de criterios unificados y estándares de calidad en su labor.
+topics: Infancia y juventud

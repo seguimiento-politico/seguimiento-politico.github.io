@@ -1,11 +1,12 @@
 id: 4bd4ae8f-3b72-41f5-9457-3344cb43f8c3
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 39
-categories: Sanidad
+parent_chapter: dcb6b10d-0b49-4143-9511-53be3f00f338
 text: Impulso de la utilización del testamento vital como fórmula de manifestación de la voluntad de los pacientes ante una situación terminal.
+categories: Sanidad

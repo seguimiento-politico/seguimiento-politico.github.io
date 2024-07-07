@@ -1,6 +1,6 @@
 id: 67f9a0da-3a66-4279-be69-21f4f8e7c838
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 85
-categories: Transporte
+parent_chapter: fbe79259-f087-4345-a103-bbd2c5480c02
 text: Recogeremos medidas específicas para la movilidad sostenible en el medio rural, debidamente adaptadas a la propia idiosincrasia de estos territorios.
+categories: Transporte

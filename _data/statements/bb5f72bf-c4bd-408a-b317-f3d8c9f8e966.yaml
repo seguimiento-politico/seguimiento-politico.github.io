@@ -1,6 +1,6 @@
 id: bb5f72bf-c4bd-408a-b317-f3d8c9f8e966
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 266
+parent_chapter: 14fda285-4f48-4e5d-ad45-cb0baf35fb92
+text: Seguiremos abogando por la defensa de los derechos humanos y luchando contra todo tipo de discriminación, liderando iniciativas en materia de derechos de las personas con discapacidad, derechos de la infancia, de las personas LGTBI y la lucha contra el racismo y la xenofobia.
 categories: Política internacional
 topics: Derechos humanos
-text: Seguiremos abogando por la defensa de los derechos humanos y luchando contra todo tipo de discriminación, liderando iniciativas en materia de derechos de las personas con discapacidad, derechos de la infancia, de las personas LGTBI y la lucha contra el racismo y la xenofobia.

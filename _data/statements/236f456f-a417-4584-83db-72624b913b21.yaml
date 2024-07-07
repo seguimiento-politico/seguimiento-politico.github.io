@@ -1,6 +1,6 @@
 id: 236f456f-a417-4584-83db-72624b913b21
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 44
-categories: Comercio
+parent_chapter: 81738100-166b-4a15-8460-e2dbccc1f94d
 text: El comercio interior se configura como esencial para el necesario proceso de transformación de nuestras empresas, impulsando la sostenibilidad, la digitalización, la economía circular y los productos de cercanía y calidad. Desde el PSOE creemos que el comercio de proximidad es un verdadero factor de desarrollo económico, social y cultural y que requiere de una coordinación sólida y estrecha con todas las administraciones, asociaciones y Cámaras de Comercio para la puesta en marcha de actuaciones conjuntas que permitan a nuestras empresas avanzar hacia su necesaria transformación.
+categories: Comercio

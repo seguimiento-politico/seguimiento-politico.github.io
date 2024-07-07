@@ -1,6 +1,6 @@
 id: 5b889fae-2069-4a62-b6f3-3cb552065982
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 239
+parent_chapter: 85b67bf7-7776-40c7-a9d5-e7428dc47683
+text: Vamos a implementar nuevas políticas con perspectiva feminista para avanzar en la igualdad entre mujeres y hombres en la Policía Nacional y la Guardia Civil.
 categories: Seguridad y defensa
 topics: Violencia de género
-text: Vamos a implementar nuevas políticas con perspectiva feminista para avanzar en la igualdad entre mujeres y hombres en la Policía Nacional y la Guardia Civil.

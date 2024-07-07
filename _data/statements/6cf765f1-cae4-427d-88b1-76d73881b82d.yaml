@@ -1,6 +1,6 @@
 id: 6cf765f1-cae4-427d-88b1-76d73881b82d
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 238
-categories: Seguridad y defensa
+parent_chapter: 9b54f6c1-7065-4418-a3a8-456ef8c8fdb7
 text: Fortaleceremos las políticas resocializadoras de nuestro sistema penitenciario para evitar la reincidencia, fomentando en los internos la revisión crítica del pasado y el reconocimiento del daño causado.
+categories: Seguridad y defensa

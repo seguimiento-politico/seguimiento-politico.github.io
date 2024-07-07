@@ -1,6 +1,6 @@
 id: efeb5ca4-c50c-450d-bfd6-215ff8071df5
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 120
+parent_chapter: 96e848d1-3015-443e-a16c-804978d00154
+text: Promoveremos una mayor divulgación en medios sociales de comunicación y de difusión de la información, del trabajo que científicos y Organismos Públicos de Investigación desarrollan, así como el trabajo conjunto con Cultura y con los medios públicos de radiotelevisión para el desarrollo de formatos audiovisuales sobre ciencia y tecnología. Se promoverá en estos contenidos, ofrecer la visibilización e información sobre el papel de la mujer en la ciencia y la historia del desarrollo humano.
 categories: Ciencia y tecnología
 topics: I+D+i
-text: Promoveremos una mayor divulgación en medios sociales de comunicación y de difusión de la información, del trabajo que científicos y Organismos Públicos de Investigación desarrollan, así como el trabajo conjunto con Cultura y con los medios públicos de radiotelevisión para el desarrollo de formatos audiovisuales sobre ciencia y tecnología. Se promoverá en estos contenidos, ofrecer la visibilización e información sobre el papel de la mujer en la ciencia y la historia del desarrollo humano.

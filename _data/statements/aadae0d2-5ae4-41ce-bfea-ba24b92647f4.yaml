@@ -1,6 +1,6 @@
 id: aadae0d2-5ae4-41ce-bfea-ba24b92647f4
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 167
+parent_chapter: e207a6bf-9c54-4399-a574-f130ae590b63
+text: El consenso que ha avalado las reformas emprendidas ha permitido garantizar en todo momento una paz social que contrasta con la situación que vivió España con la reforma del PP de 2013, o con la que ha conocido Francia recientemente. Y, además, se ha enmarcado dentro del Plan de Recuperación, Transformación y Resiliencia como una de las principales reformas estructurales que sirve para garantizar la pervivencia del sistema en los próximos treinta años.
 categories: Derechos y servicios sociales
 topics: Pensiones
-text: El consenso que ha avalado las reformas emprendidas ha permitido garantizar en todo momento una paz social que contrasta con la situación que vivió España con la reforma del PP de 2013, o con la que ha conocido Francia recientemente. Y, además, se ha enmarcado dentro del Plan de Recuperación, Transformación y Resiliencia como una de las principales reformas estructurales que sirve para garantizar la pervivencia del sistema en los próximos treinta años.

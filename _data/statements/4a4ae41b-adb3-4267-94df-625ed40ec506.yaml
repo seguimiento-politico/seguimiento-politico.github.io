@@ -1,6 +1,6 @@
 id: 4a4ae41b-adb3-4267-94df-625ed40ec506
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 9
+parent_chapter: a9337629-c0c5-4c98-b385-6fb858f07a04
+text: Aprobación de una Ley de bomberos forestales en el marco del Sistema Nacional de Protección Civil. Esta norma establecerá obligaciones para las Administraciones competentes en relación con la elaboración de planes generales, territoriales, especiales y de autoprotección. También establecerá los derechos laborales del sector mediante la creación del Estatuto Básico de Bomberos Forestales, que reconozca las funciones propias de estos servicios en el medio natural y rural, y los aspectos de salud y prevención de riesgos laborales, así como las categorías profesionales y sus especificaciones de formación.
 categories: Trabajo
 topics: Empleo público
-text: Aprobación de una Ley de bomberos forestales en el marco del Sistema Nacional de Protección Civil. Esta norma establecerá obligaciones para las Administraciones competentes en relación con la elaboración de planes generales, territoriales, especiales y de autoprotección. También establecerá los derechos laborales del sector mediante la creación del Estatuto Básico de Bomberos Forestales, que reconozca las funciones propias de estos servicios en el medio natural y rural, y los aspectos de salud y prevención de riesgos laborales, así como las categorías profesionales y sus especificaciones de formación.

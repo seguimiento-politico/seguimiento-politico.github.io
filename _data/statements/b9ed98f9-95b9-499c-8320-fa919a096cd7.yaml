@@ -1,6 +1,6 @@
 id: b9ed98f9-95b9-499c-8320-fa919a096cd7
-type: declaration
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+type: statement
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 43
-categories: Derechos y servicios sociales
+parent_chapter: a4517fe7-5755-4c05-a541-7d42b42f6bb3
 text: La acción política debe tener como razón última el bien común y estar inspirada en el respeto a la dignidad humana y a los derechos que le son inherentes a la persona.
+categories: Derechos y servicios sociales

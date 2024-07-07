@@ -1,6 +1,6 @@
 id: 1cda0081-fb53-443a-996d-2388f78263a4
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 7
-categories: Economía
+parent_chapter: 4e67d2f6-57a4-4eb6-9522-a745ec43505c
 title: Actualización de la legislación de prevención de riesgos laborales. Para ello se actualizará el catálogo de enfermedades profesionales, así como el procedimiento de notificación del accidente de trabajo. Además, se evaluará con especial atención la prevención de nuevos riesgos asociados al uso de las TIC, los psicosociales y de determinadas sustancias químicas dañinas para la salud, así como la creciente digitalización y robotización y las nuevas formas de organización del trabajo. Asimismo, se incorporará la perspectiva de impacto de género en la prevención de riesgos laborales.
+categories: Economía

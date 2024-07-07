@@ -1,6 +1,6 @@
 id: 2da97b7f-c530-4d48-9caf-3d88cd1a6e9c
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 45
+parent_chapter: b7393c05-e9d7-4054-94bb-6eca00d463a1
+text: Se incrementan dos puntos los tipos impositivos sobre la base general para los contribuyentes que tengan rentas superiores a 130.000 euros y cuatro puntos para la parte que exceda de 300.000 euros. El tipo estatal sobre las rentas de capital se incrementará en 4 puntos porcentuales para dichas rentas superiores a 140.000 euros.
 categories: Impuestos y financiación fiscal
 topics: IRPF
-text: Se incrementan dos puntos los tipos impositivos sobre la base general para los contribuyentes que tengan rentas superiores a 130.000 euros y cuatro puntos para la parte que exceda de 300.000 euros. El tipo estatal sobre las rentas de capital se incrementará en 4 puntos porcentuales para dichas rentas superiores a 140.000 euros.

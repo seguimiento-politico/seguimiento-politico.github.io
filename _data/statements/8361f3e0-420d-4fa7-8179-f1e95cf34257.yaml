@@ -1,6 +1,6 @@
 id: 8361f3e0-420d-4fa7-8179-f1e95cf34257
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,9 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 61
+parent_chapter: 96f08000-98a6-4e52-8e39-fe555ca37269
+children_promises:
+- c980c622-2965-4cf9-8946-1471c2663e7b
+- 2f14ce6a-ee26-4b58-9099-3f0a14d90b26
+- 48ac4f42-b088-4d3a-9a8f-c29c56369f9f
+children_statements: []
+title: Reforzaremos e intensificaremos la participación de los organismos públicos de investigación y las universidades en el desarrollo del PERTE y sus programas y líneas de actuación
 categories: Economía
 topics:
 - Digitalización
 - Lenguas
-title: Reforzaremos e intensificaremos la participación de los organismos públicos de investigación y las universidades en el desarrollo del PERTE y sus programas y líneas de actuación
-has_children: true

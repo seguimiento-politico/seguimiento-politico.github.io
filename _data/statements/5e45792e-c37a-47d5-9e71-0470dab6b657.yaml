@@ -1,6 +1,6 @@
 id: 5e45792e-c37a-47d5-9e71-0470dab6b657
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 17
+parent_chapter: 70e896cb-cc2e-4700-a649-38c82b332b6c
+children_promises:
+- 6118f1b3-c08c-4fb0-96b7-4dd209ec4a25
+- d16af5cf-f4be-43ec-8fd0-ca6b9dc5ba5e
+- d60c84b6-c022-4fe1-bb74-c103a8ff857b
+children_statements: []
+title: Ministerio de Familia
 categories:
 - Familia
-title: Ministerio de Familia
-has_children: true

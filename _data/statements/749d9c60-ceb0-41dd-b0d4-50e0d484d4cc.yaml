@@ -1,6 +1,6 @@
 id: 749d9c60-ceb0-41dd-b0d4-50e0d484d4cc
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 250
+parent_chapter: 78357eae-f064-4648-9cf1-b5e149ae3feb
+text: Se aplicará un Plan de Implantación, en todo el territorio nacional, de las Oficinas de Justicia en los municipios para que los Juzgados de Paz evolucionen hacia recursos profesionalizados y mejoren la calidad de los servicios de justicia en las localidades más pequeñas.
 categories: Justicia
 topics: Eficiencia
-text: Se aplicará un Plan de Implantación, en todo el territorio nacional, de las Oficinas de Justicia en los municipios para que los Juzgados de Paz evolucionen hacia recursos profesionalizados y mejoren la calidad de los servicios de justicia en las localidades más pequeñas.

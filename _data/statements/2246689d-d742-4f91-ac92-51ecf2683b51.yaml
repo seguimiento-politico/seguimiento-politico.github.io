@@ -1,6 +1,6 @@
 id: 2246689d-d742-4f91-ac92-51ecf2683b51
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 90
-categories: Administración pública
+parent_chapter: 49db7900-6ee8-4eec-b2ec-69a5f1e16407
 text: PROMOVEREMOS LOS DERECHOS DE LA CIUDADANÍA EN RELACIÓN CON LA INTELIGENCIA ARTIFICIAL Y LA ACTUACIÓN ADMINISTRATIVA, el respeto a los principios de buen gobierno y el derecho a una buena administración digital, la transparencia sobre el uso de instrumentos de Inteligencia Artificial, así como su funcionamiento y alcance en cada procedimiento y, en particular, sobre los datos utilizados, su margen de error, su ámbito de aplicación y su carácter decisorio o no decisorio. Regularemos las condiciones de transparencia y acceso al código fuente para garantizar que no produce resultados discriminatorios. Garantizaremos que la adopción de decisiones discrecionales quede reservada a personas, así como el derecho a obtener una motivación comprensible de la decisión administrativa, en cuanto al criterio propuesto por los sistemas inteligentes.
+categories: Administración pública

@@ -1,7 +1,6 @@
 id: 6963daff-c42a-4fef-89c4-613a7890473e
-type: declaration
-parent_statement: 666ba341-3af0-4d82-91c8-a9a3f0dbe3e7
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 666ba341-3af0-4d82-91c8-a9a3f0dbe3e7
+parent_chapter: 2d06e79f-d667-441b-b7cf-513970c6ccde
+text: null
 categories: Medioambiente
 topics: Biodiversidad
-text: null

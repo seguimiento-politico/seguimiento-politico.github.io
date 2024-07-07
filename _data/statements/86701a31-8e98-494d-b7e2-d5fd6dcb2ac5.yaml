@@ -1,6 +1,6 @@
 id: 86701a31-8e98-494d-b7e2-d5fd6dcb2ac5
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 127
-categories: Cultura
+parent_chapter: ef655d4e-aabd-4367-b039-db13bf06547d
 text: Seguiremos apoyando la vuelta al cine a los mayores de 65 años con la bonificación del precio de las entradas a 2€, contribuyendo a la recuperación de las salas de cine y que la vuelta al cine sea un acto social cotidiano.
+categories: Cultura

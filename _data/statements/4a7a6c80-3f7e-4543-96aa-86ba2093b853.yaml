@@ -1,6 +1,6 @@
 id: 4a7a6c80-3f7e-4543-96aa-86ba2093b853
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 131
+parent_chapter: bbb648f8-b134-4f34-9db4-8a224126b93a
+text: El 30% de las viviendas promovidas a través de cualquiera de las líneas del Plan de Vivienda para el Alquiler Asequible, serán destinadas a jóvenes de entre 18 y 35 años.
 categories: Vivienda
 topics: Incentivos, ayudas y subvenciones
-text: El 30% de las viviendas promovidas a través de cualquiera de las líneas del Plan de Vivienda para el Alquiler Asequible, serán destinadas a jóvenes de entre 18 y 35 años.

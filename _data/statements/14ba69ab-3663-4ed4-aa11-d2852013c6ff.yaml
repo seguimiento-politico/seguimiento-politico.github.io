@@ -1,6 +1,6 @@
 id: 14ba69ab-3663-4ed4-aa11-d2852013c6ff
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 24
-categories: Trabajo
+parent_chapter: 89a37952-7653-4d01-b826-60b84d3454b4
 text: Avanzaremos hacia un marco jurídico y laboral adaptado a las cada vez más comunes circunstancias de teletrabajo, que puede servir para mejorar la conciliación siempre y cuando se aseguren unas condiciones laborales adecuadas. Esta nueva modalidad de empleo puede servir también para que muchas familias tengan la libertad de salir de los grandes núcleos urbanos y volver a sus pueblos y ciudades.
+categories: Trabajo

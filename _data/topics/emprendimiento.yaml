@@ -1,0 +1,40 @@
+name: Emprendimiento
+other:
+- &id001
+  id: dd188be5-b63f-4652-9196-3b11335880ed
+  parties:
+  - PSOE
+- &id002
+  id: dc92e6f0-b8d9-4309-97c2-6618c8cfc06b
+  parties:
+  - PSOE
+- &id003
+  id: 54629133-ab7e-4d20-ab4b-4db51042fd06
+  parties:
+  - PSOE
+- &id004
+  id: 8ff87f04-a1b9-496d-aee1-a8efbf166438
+  parties:
+  - PSOE
+- &id005
+  id: de2bf15a-9d7f-46f5-ab81-f61e95c2e347
+  parties:
+  - PSOE
+other_count: 5
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+statements_count: 5
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

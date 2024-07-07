@@ -1,7 +1,6 @@
 id: efacd6aa-6bda-4ffa-80a6-d65ebf93fc47
 type: promise
-parent_statement: 78331ab1-1e01-4475-9b79-73ae7a6cd13c
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Política internacional
+parent_statement: 78331ab1-1e01-4475-9b79-73ae7a6cd13c
+parent_chapter: 4d3afa99-1301-4519-a703-6dfe49d7e832
 text: Avanzaremos hacia unas relaciones horizontales con América Latina que incluyan la participación de actores no estatales y movimientos sociales e indígenas de la región
+categories: Política internacional

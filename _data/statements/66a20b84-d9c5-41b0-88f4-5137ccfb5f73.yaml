@@ -1,7 +1,6 @@
 id: 66a20b84-d9c5-41b0-88f4-5137ccfb5f73
 type: promise
-parent_statement: 6a24f1da-0637-4834-9787-923c82182902
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,8 +8,10 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 6a24f1da-0637-4834-9787-923c82182902
+parent_chapter: 1d2802d7-3c25-4a37-96cf-85b8e7ed4986
+text: La educación pública debe ser laica y respetar la libertad de conciencia de los niños y las niñas.
 categories: Educación
 topics:
 - Igualdad
 - Inclusión
-text: La educación pública debe ser laica y respetar la libertad de conciencia de los niños y las niñas.

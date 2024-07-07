@@ -1,7 +1,6 @@
 id: 3fb92655-9495-4510-b440-66e25266757e
 type: promise
-parent_statement: 0d32c250-87d3-4aa2-bdbe-3fcfd38f66cd
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Trabajo
+parent_statement: 0d32c250-87d3-4aa2-bdbe-3fcfd38f66cd
+parent_chapter: 80d48e2e-109f-4d20-9b2c-09d128e89470
 text: el establecimiento de periodos de descanso para proteger a las personas frente a condiciones de trabajo que impliquen un ritmo monótono y repetitivo y la garantía del derecho de las personas trabajadoras a la desconexión digital, incluyendo la prohibición de la empresa de contactar con ellas fuera de la jornada laboral.
+categories: Trabajo

@@ -1,8 +1,8 @@
 ##### README #####
 # author: Tovarlogic@gmail.com
-# DEPRECATED
 # version: 2 
-# this script is used to create new manifestos documents in yaml format v2 (includes promises) from v1 (not includes promises) plus promises files
+# DEPRECATED: use update_files.py instead
+# this script is used to create new manifestos documents in yaml format v2 (includes promises) from v1 (promises not included) + individual promises files
 
 import os
 import shutil
@@ -63,7 +63,7 @@ def get_promises(chapter):
                             if 'description' in p:
                                 part['id'] = str(uuid.uuid4())
                                 part['text'] = p['description']
-                                proposal['children'].append({'declaration': part})
+                                proposal['children'].append({'statement': part})
                                 part = {}
                             partial = False
                             quote = ""
@@ -122,7 +122,7 @@ def go_deeper(dict):
         if 'description' in item:
             text = item['description'].replace('\r\n', '')
             part['children'] = []
-            part['children'].append({'declaration': {'id': str(uuid.uuid4()), 'text': text}})
+            part['children'].append({'statement': {'id': str(uuid.uuid4()), 'text': text}})
 
         if 'children' in item:
             if not 'children' in part:

@@ -1,7 +1,6 @@
 id: 8c65b64f-d3d8-471c-af46-5d2aacbc8885
 type: promise
-parent_statement: 9ee370ee-9dbd-448d-a5b0-ef5db0b7e4c6
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Trabajo
+parent_statement: 9ee370ee-9dbd-448d-a5b0-ef5db0b7e4c6
+parent_chapter: 89ad30e0-548c-47cd-a92a-62d44e2dbb0f
 text: Garantizaremos la subida del SMI como palanca que haga incrementar el conjunto de los sala rios y contribuya a reactivar la economía. Haber alcanzado, con los 1.080 €, el 60% del salario me dio, si bien es un gran avance, no es suficiente en un país que tiene salarios un 25% por debajo de la media de los países de la Eurozona.
+categories: Trabajo

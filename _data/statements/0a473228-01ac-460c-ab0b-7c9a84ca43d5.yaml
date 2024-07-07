@@ -1,6 +1,6 @@
 id: 0a473228-01ac-460c-ab0b-7c9a84ca43d5
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,28 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 97
+parent_chapter: 12295f44-3ae3-43bd-8758-0026574e6662
+children_promises:
+- 59d37f54-10d2-4811-94d3-5268e96d62f4
+- a83b2d88-20db-4afc-8e45-3d5f5834064e
+- 84ec9d03-d4d3-42b1-89d1-26add18cfbb5
+- 18b86f3c-099a-43d5-9e66-83cbdb5052f2
+- 4f217219-c71b-45f0-8fd3-e2a4f18ce679
+- 55d77549-d092-4931-a160-e849a1cee533
+- ae1ab0d0-77e2-4775-9ab0-36c237a3add1
+- 101445ec-9431-4d8b-a600-c0c8aa3a5b76
+- c2815d3f-3f8c-4e92-9845-d391451597b0
+- e47d6391-788a-44d3-ae1e-eef14c6b2ae6
+- f239b419-1090-4d0d-980a-e19075efc02f
+- d5e345fc-d8de-4a6e-b1fe-5eda19680140
+- 8c5b8449-3aab-4e51-b4fa-b4be6f657edd
+- 7b8b9466-274b-4620-a6ac-84a8a413183b
+- 0af7e3a0-582b-481c-9279-f261fabe8ed2
+- 96edbbbb-ece4-4c38-941d-d5b4d202f198
+- 32ec970f-fe92-419d-aede-7b8cb596976d
+- ed220367-82bf-4338-b298-6e6250d36e60
+- 8338eb55-1876-488a-8f4c-450981a5d821
+children_statements: []
+title: Cuidados y autonomía
 categories: Derechos y servicios sociales
 topics: Cuidados y dependencia
-title: Cuidados y autonomía
-has_children: true

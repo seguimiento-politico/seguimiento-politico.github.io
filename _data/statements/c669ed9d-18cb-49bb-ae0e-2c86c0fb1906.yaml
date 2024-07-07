@@ -1,6 +1,6 @@
 id: c669ed9d-18cb-49bb-ae0e-2c86c0fb1906
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 226
+parent_chapter: 6e53a21f-6625-47b4-9b6e-487838baa479
+text: Reforzaremos las ayudas directas para el alquiler de vivienda habitual contempladas en los Planes Estatales de Vivienda.
 categories:
 - Juventud
 - Incentivos, ayudas y subvenciones
-text: Reforzaremos las ayudas directas para el alquiler de vivienda habitual contempladas en los Planes Estatales de Vivienda.

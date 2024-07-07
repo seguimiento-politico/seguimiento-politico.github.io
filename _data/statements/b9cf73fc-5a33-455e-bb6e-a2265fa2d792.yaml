@@ -1,6 +1,6 @@
 id: b9cf73fc-5a33-455e-bb6e-a2265fa2d792
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 103
+parent_chapter: f8348ef6-75be-45f5-9b64-97ad1de424bc
+text: Lucha sin cuartel contra todas las mafias, el terrorismo y la corrupción que amenazan nuestra seguridad y convivencia. Lucha contra la degradación sin permitir la existencia de enclaves de ilegalidad. Lucha contra las pandillas y bandas callejeras, el tráfico de drogas y la pequeña delincuencia.
 categories:
 - Migración
-text: Lucha sin cuartel contra todas las mafias, el terrorismo y la corrupción que amenazan nuestra seguridad y convivencia. Lucha contra la degradación sin permitir la existencia de enclaves de ilegalidad. Lucha contra las pandillas y bandas callejeras, el tráfico de drogas y la pequeña delincuencia.

@@ -1,11 +1,12 @@
 id: afbcbaa0-eda8-43bc-9c24-03d9c1164ede
-type: declaration
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+type: statement
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 87
-categories: Seguridad y defensa
+parent_chapter: adfdbb68-8e6d-41fa-b953-fcd2789530ea
 text: El PP cree en la integración y en el valor del respeto, no en políticas de guetos que comienzan con comunidades separadas y que terminan en realidades enfrentadas. Hay que prestar especial atención a la situación de las segundas generaciones de inmigrantes para promover su integración total. Es necesario afrontar la situación de los Menores No Acompañados desde el principio de que donde mejor están es con su familia.
+categories: Seguridad y defensa

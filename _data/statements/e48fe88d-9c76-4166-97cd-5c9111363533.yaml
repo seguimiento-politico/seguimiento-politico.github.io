@@ -1,7 +1,6 @@
 id: e48fe88d-9c76-4166-97cd-5c9111363533
 type: promise
-parent_statement: 80b5b7a4-b329-4078-bc06-b2f7f90ac208
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 80b5b7a4-b329-4078-bc06-b2f7f90ac208
+parent_chapter: b5121737-ffe0-4552-9c0f-a47c9d827a54
+text: Democratizaremos la adopción de nuevos tratados internacionales, así como revisar y controlar (y, en su caso, revertir) aquellos tratados comerciales que perjudiquen los intereses comerciales y agroalimentarios.
 categories: Política internacional
 topics: Europa
-text: Democratizaremos la adopción de nuevos tratados internacionales, así como revisar y controlar (y, en su caso, revertir) aquellos tratados comerciales que perjudiquen los intereses comerciales y agroalimentarios.

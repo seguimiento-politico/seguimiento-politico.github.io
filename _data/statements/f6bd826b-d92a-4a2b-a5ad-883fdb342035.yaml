@@ -1,7 +1,6 @@
 id: f6bd826b-d92a-4a2b-a5ad-883fdb342035
 type: promise
-parent_statement: a2a4e947-8df4-49df-b49d-e1927ee9f036
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Industria
+parent_statement: a2a4e947-8df4-49df-b49d-e1927ee9f036
+parent_chapter: bdc3bec8-826b-4422-99f9-ce6bb7d37ec5
 text: Crearemos el Banco de Inversión para la Nueva Economía (BINE), un ente público de inversión, en línea con modelos implantados en nuestro entorno similar, como el Kredintanstalt für Wiederaufbau (KfW) alemán. El BINE será una herramienta fundamental para impulsar la inversión pública y privada en España hacia la modernización económica, en concreto hacia la transición ecológica y la reindustrialización, contribuyendo al desarrollo de proyectos industriales y empresariales. Será el encargado de canalizar los recursos necesarios para financiar proyectos innovadores y sostenibles en diferentes sectores con el fin de mejorar la competitividad y el desarrollo económico del país. También tendrá un papel prioritario en la financiación de un parque amplio y profundo de vivienda pública o protegida, así como de la rehabilitación de la vivienda existente. Para su puesta en marcha se impulsará una simplificación y mejora de la arquitectura financiera pública estatal, partiendo de instituciones ya existentes como ICO, COFIDES, CDTI, ENISA, entre otras, con el objetivo de mejorar la eficiencia, ampliar su alcance y aumentar recursos disponibles.
+categories: Industria

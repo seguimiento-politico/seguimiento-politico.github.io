@@ -1,6 +1,6 @@
 id: d8193b7d-4d15-4d64-b072-945e884a3145
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 251
+parent_chapter: dbc90932-26af-47ce-8c0f-c80c9fb4c377
+text: Profundizaremos en la cogobernanza con las Comunidades autónomas del servicio público de Justicia. Mejoraremos la cooperación institucional con todas las Comunidades autónomas con competencias transferidas.
 categories: Justicia
 topics: Modernización
-text: Profundizaremos en la cogobernanza con las Comunidades autónomas del servicio público de Justicia. Mejoraremos la cooperación institucional con todas las Comunidades autónomas con competencias transferidas.

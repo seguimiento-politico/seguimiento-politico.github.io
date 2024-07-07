@@ -1,7 +1,6 @@
 id: 6c66e8b4-ba4d-464f-8b46-1831f6e4f62c
 type: promise
-parent_statement: f0fbcb6c-2a43-4186-bcb9-27c719340cbd
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Trabajo
+parent_statement: f0fbcb6c-2a43-4186-bcb9-27c719340cbd
+parent_chapter: 8334330f-156c-4154-9c8c-27f20def2bb6
 text: Aumentaremos el mínimo por descendientes y personas dependientes en el IRPF con el fin de apoyar a las familias con hijos, impulsar la natalidad y acompañar en el cuidado de las personas mayores y dependiente.
+categories: Trabajo

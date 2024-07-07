@@ -1,11 +1,12 @@
 id: 96079601-e167-4665-98c3-9aab5c150591
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 34
-categories: Educación
+parent_chapter: d01d08b0-ad16-47ca-a6fa-7d638f061cfa
 text: En coordinación con las comunidades autónomas llevaremos la conectividad por fibra óptica o 5G a todos los colegios e institutos públicos de España.
+categories: Educación

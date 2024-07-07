@@ -1,6 +1,6 @@
 id: d9596aee-5595-468d-b498-42bdf03afcb5
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 141
-categories: Política internacional
+parent_chapter: 4d3afa99-1301-4519-a703-6dfe49d7e832
+children_promises:
+- e6d9340a-358b-4edf-b20e-e60df39087ed
+- ee0f0242-f924-4cd9-9967-0adc17e6e80b
+- 4562d62a-aeaa-401d-8ecf-5f343339b3bf
+children_statements: []
 title: Una nueva relación estratégica con nuestra Vecindad Sur
-has_children: true
+categories: Política internacional

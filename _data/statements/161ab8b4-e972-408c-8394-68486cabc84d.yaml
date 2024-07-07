@@ -1,6 +1,6 @@
 id: 161ab8b4-e972-408c-8394-68486cabc84d
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 84
-categories: Impuestos y financiación pública
+parent_chapter: ec3e397c-bf4a-4692-a06e-58f507cee1f8
 text: Cerraremos todos los organismos destinados a crear estructuras paralelas del estado (consejos de juventud, defensores del pueblo, consejos consultivos, agencias meteorológicas, cartográficas...), que suponen un gasto político ineficaz pagado por todos y que se han convertido en voceros del gobierno autonómico de turno.
+categories: Impuestos y financiación pública

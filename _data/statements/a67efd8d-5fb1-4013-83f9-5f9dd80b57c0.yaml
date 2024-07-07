@@ -1,6 +1,6 @@
 id: a67efd8d-5fb1-4013-83f9-5f9dd80b57c0
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 10
-categories: Educación
+parent_chapter: 4cc9eb95-7c33-470b-bb2f-7ed39176baa9
 text: 'Garantizaremos la gratuidad real y efectiva de la educación obligatoria: libros, material escolar y comedor durante todas las etapas para familias en situación de vulnerabilidad socioeconómica.'
+categories: Educación

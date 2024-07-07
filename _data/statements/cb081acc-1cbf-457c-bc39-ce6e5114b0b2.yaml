@@ -1,6 +1,6 @@
 id: cb081acc-1cbf-457c-bc39-ce6e5114b0b2
-type: declaration
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 79
-categories: Seguridad y defensa
+parent_chapter: ca5aaa88-30fb-47d6-8f78-cba68b133ea0
 text: Garantizar la seguridad pública es un requisito indispensable para el libre ejercicio de los derechos y libertades de los españoles. Nuestras Fuerzas y Cuerpos de Seguridad deben estar respaldadas por los poderes públicos y dotadas adecuadamente de recursos para cumplir con garantías y eficacia sus funciones de protección social.
+categories: Seguridad y defensa

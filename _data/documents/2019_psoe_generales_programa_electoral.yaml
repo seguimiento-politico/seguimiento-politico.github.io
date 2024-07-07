@@ -12,89 +12,91 @@ url: https://www.psoe.es/media-content/2019/10/Ahora-progreso-programa-PSOE-10N-
 web_history: https://web.archive.org/web/20191109163507/https://www.psoe.es/media-content/2019/10/Ahora-progreso-programa-PSOE-10N-31102019.pdf
 content: 
 - chapter:
+    id: b8550311-badb-44f7-aafe-46f10435e0b1
     title: Introducción
     children:
-    - declaration:
+    - statement:
         id: 9aa15281-b820-4d7e-a4d8-8e804c5a99aa
         page: 13
         text: El próximo 10 de noviembre se decide qué Gobierno quieren los españoles para resolver los desafíos que tienen por delante. Se decide quién puede gestionar con solidez la economía al mismo tiempo que lucha contra la precariedad del empleo y la brecha social. Quién puede seguir avanzando en la igualdad efectiva entre hombres y mujeres. Quién puede garantizar los derechos conquistados y desarrollar otros nuevos, como la eutanasia. Quién puede impulsar una transición ecológica que transforme nuestra economía sin dejar a nadie atrás. Quién puede resolver el problema de la cohesión territorial y de Cataluña. Quién es capaz, en suma, de construir un país más fuerte, más unido y más justo.
-    - declaration:
+    - statement:
         id: b65c53a2-43b0-4a6b-8d7e-28f0e523b218
         page: 13
         text: Los españoles y las españolas ya dijeron en las urnas que el partido que debía dirigir el rumbo del país era el PSOE. En menos de un mes mostraron sus preferencias para el gobierno de la nación, para los gobiernos locales y autonómicos y para el parlamento europeo. El PSOE fue el partido más votado en todas y cada una de las citas electorales.
-    - declaration:
+    - statement:
         id: 88c25574-c35f-4bfd-b5b0-360a36a4443f
         page: 13
         text: 'A pesar de esa rotundidad, en varias comunidades autónomas y en ayuntamientos donde el PSOE había sido el partido más votado, los partidos conservadores, el Partido Popular (PP) —en algunos casos con los peores resultados de su historia— y Ciudadanos (Cs) se aliaron para evitar la posibilidad de gobiernos progresistas. Lo más grave es que la mayoría de esas alianzas requirieron el apoyo del nuevo partido de ultraderecha, Vox, que ha impuesto sus exigencias en materias muy sensibles: violencia de género, respeto a la diversidad, gestión de la inmigración, lucha contra el cambio climático...Las derechas prefirieron aliarse con la ultraderecha antes de reconocer y aceptar la victoria electoral del PSOE, contribuyendo finalmente a impedir también la investidura de Pedro Sánchez.'
-    - declaration:
+    - statement:
         id: 84368249-9f7d-46e3-a006-bc1e333e6d3e
         page: 13
         text: Pero, por otro lado, la posibilidad de que el PSOE liderase el Gobierno de España se ha visto frustrada, además, por las graves discrepancias con Unidas Podemos (UP), nuestro potencial socio preferente, que no aceptó apoyar a un Gobierno socialista abierto a independientes consensuados con UP, ni de coalición, en la que habrían tenido una vicepresidencia y tres ministerios, ni mucho menos con base en un acuerdo programático profundo y con garantías, siguiendo un modelo análogo al experimentado con éxito en Portugal. Lamentablemente, la eventual incorporación de UP al Gobierno de España habría impedido una respuesta coherente y ajustada a nuestros principios constitucionales, en particular en relación con el reto secesionista en Cataluña.
-    - declaration:
+    - statement:
         id: 7d9ed7dc-8790-4893-b83f-f258b457e013
         page: 14
         text: España ya ha perdido demasiado tiempo con este bloqueo forzado desde la derecha y la izquierda. Nuestra voluntad es, hoy más que nunca, recuperar el tiempo perdido y poder gobernar cuanto antes desde los valores del socialismo, para atender con la máxima urgencia las necesidades de una amplia mayoría social, que sigue sufriendo desigualdad, precariedad, pobreza, carencias en el acceso a los derechos básicos, falta de expectativas... Avanzar en justicia social representa, por lo tanto, nuestro principal compromiso, junto con nuestro empeño por garantizar la convivencia entre todos los españoles, así como promover la máxima ejemplaridad en la acción pública.
-    - declaration:
+    - statement:
         id: 724c6620-a914-4d92-94c6-0d8893885643
         page: 14
         text: El Presidente en funciones, Pedro Sánchez, ha manifestado su voluntad de acelerar la formación de un nuevo Gobierno y de aprobar, de forma urgente, los Presupuestos Generales del Estado para 2020, que reflejarán las prioridades de nuestros compromisos electorales, sintetizados en el presente documento.
-    - declaration:
+    - statement:
         id: 708ad1d6-8518-470d-8141-1c35b455e43f
         page: 14
         text: 'Las prioridades de la próxima legislatura se ordenarán en torno a 6 ejes: empleo digno y pensiones justas; el feminismo y la lucha contra todo tipo de desigualdad; la emergencia climática y la transición ecológica de la economía; el avance tecnológico y la transformación digital; el fortalecimiento del Estado autonómico y la máxima cohesión territorial; y un mayor protagonismo de España en Europa, para contribuir a la consolidación de nuestros valores, dentro y fuera de las fronteras europeas.'
-    - declaration:
+    - statement:
         id: 49457821-2bba-4800-b5e0-ef9893921e72
         page: 14
         text: Queremos avanzar hacia un empleo digno y unas pensiones justas, recuperando plenamente los derechos de trabajadores y pensionistas, requerirá de un amplio acuerdo parlamentario y de diálogo con los agentes sociales. Estamos decididos a seguir luchando contra la precariedad y a mejorar la capacidad adquisitiva de trabajadores y pensionistas, impulsando los cambios normativos necesarios, en la perspectiva de un nuevo Estatuto de los Trabajadores, así como de un acuerdo en el seno de la Comisión del Pacto de Toledo.
-    - declaration:
+    - statement:
         id: 1628fdbd-89b0-46bc-94ed-e475f5df3106
         page: 14
         text: Queremos avanzar hacia un empleo digno y unas pensiones justas, recuperando plenamente los derechos de trabajadores y pensionistas, requerirá de un amplio acuerdo parlamentario y de diálogo con los agentes sociales. Estamos decididos a seguir luchando contra la precariedad y a mejorar la capacidad adquisitiva de trabajadores y pensionistas, impulsando los cambios normativos necesarios, en la perspectiva de un nuevo Estatuto de los Trabajadores, así como de un acuerdo en el seno de la Comisión del Pacto de Toledo.<br>Nuestro objetivo es promover el empleo de calidad y crear oportunidades para todos, en particular para los jóvenes, las mujeres y los parados de larga duración.
-    - declaration:
+    - statement:
         id: d2bcb033-d6a0-4352-978d-1caa262aca0e
         page: 14
         text: La igualdad, nuestra principal seña de identidad, impregnará toda la acción del Gobierno. En particular, la igualdad efectiva entre mujeres y hombres, avanzando hacia la erradicación de todo tipo de violencia contra las mujeres y de cualquier brecha laboral y salarial.
-    - declaration:
+    - statement:
         id: b71d53c6-398a-445a-b04c-78761153c451
         page: 15
         text: La igualdad de derechos debe traducirse en la atención preferente a la pobreza infantil, el fortalecimiento de la educación y de la sanidad pública, del sistema público de servicios sociales y de atención a la dependencia; y en la promoción de suficiente oferta de viviendas asequibles que permitan la emancipación de nuestros jóvenes. Igualdad también frente a toda discriminación por cualquier circunstancia personal o social, frenando cualquier atisbo de involución en esta materia.
-    - declaration:
+    - statement:
         id: 5510d9ef-d017-4ac7-9a1c-9bc5e54e5212
         page: 15
         text: En síntesis, un nuevo impulso al Estado del Bienestar, que solo será posible si disponemos de más recursos públicos mediante la necesaria reforma fiscal —con el compromiso de no subir impuestos a las clases medias y trabajadoras— y si se llevan a cabo las imprescindibles reformas de la financiación local y de la financiación autonómica.
-    - declaration:
+    - statement:
         id: 5c64e08b-c4c8-40a0-8bb2-60dcf597f247
         page: 15
         text: Desde estos principios de igualdad y justicia, también nos proponemos afrontar las tareas pendientes de regeneración democrática, fortaleciendo la democracia participativa, aprobando medidas para combatir y prevenir la corrupción y recuperando la confianza de la ciudadanía en el sistema democrático y en las instituciones.
-    - declaration:
+    - statement:
         id: bbcfb154-ab7e-429b-9f5d-39d211f51558
         page: 
         text: Nuestro compromiso frente a la emergencia climática nos obliga a acelerar la transición ecológica de nuestra economía, que incluirá programas para incentivar la creación de empleo y la diversificación del tejido productivo en los sectores y comarcas más vulnerables, de cara a garantizar una senda de prosperidad compartida y duradera. Haremos frente también a los riesgos de la pérdida de biodiversidad, aprovechando el potencial de nuestro rico patrimonio natural y nuestras capacidades empresariales y tecnológicas para mejorar el bienestar social. Nos comprometemos a una transición ecológica justa en todos los sectores productivos y en todos los territorios, con una especial atención a la productividad y sostenibilidad de nuestra agricultura, ganadería y pesca.
-    - declaration:
+    - statement:
         id: 17881560-a59f-4a5c-8250-4e1076638dd8
         page: 15
         text: Tenemos la obligación de aprovechar la revolución tecnológica, y en particular la ineludible transición digital de nuestra economía, incorporando con mayor intensidad las correspondientes habilidades en el sistema educativo desde edades tempranas desarrollando políticas activas de empleo, y promoviendo la máxima capacidad de transmisión de la ciencia y de la innovación a todo el tejido productivo. Fomentaremos el uso de las nuevas tecnologías en el sector público y en el sector privado, con especial atención a su completa implantación en el medio rural para abordar con decisión el reto demográfico.
-    - declaration:
+    - statement:
         id: 292e7b9e-d8ce-4803-be76-b7c54419ffa2
         page: 16
         text: Las prioridades enunciadas requieren, para ser desarrolladas con éxito, el perfeccionamiento del Estado Autonómico y la máxima cohesión territorial. La España autonómica es una España democrática, plural, abierta, europea y moderna, que reconoce la diversidad a partir de la unidad. Para alcanzar nuestras metas debemos ser capaces de reconocer plenamente la diversidad y de conseguir un funcionamiento más integrado del modelo autonómico, en el que la mayoría de la población de todos los territorios se sienta partícipe.
-    - declaration:
+    - statement:
         id: 9bd9128d-bf9c-40a7-ac27-b25d868933cb
         page: 16
         text: Trabajaremos para mejorar la colaboración institucional con todas las comunidades autónomas y abordaremos el conflicto de convivencia en Cataluña impulsando el diálogo entre catalanes y, también, entre el Gobierno de España y la Generalitat de Cataluña, siempre dentro de la Constitución y del Estatuto de Autonomía. El Estado Autonómico debe dar respuesta, también, al reto demográfico en el medio rural, garantizando los servicios públicos básicos y la conectividad en todo el territorio.
-    - declaration:
+    - statement:
         id: 51f78888-0082-4f6f-8a54-86427094270d
         page: 16
         text: Por último, las y los socialistas impulsaremos una presencia activa de España en las instituciones europeas, promoviendo la profundización de la Unión Económica y Monetaria para que el euro sea un factor de estabilidad y prosperidad. Apostaremos, con la implicación de todas las fuerzas progresistas de los países miembros, por los cambios necesarios en el proyecto europeo para fortalecer su dimensión social y política, de forma que se avance hacia una Europa federal. Queremos, desde ese proyecto renovado, contribuir a una profunda reorientación de la globalización, de forma que la UE promueva la paz, el respeto a los derechos humanos y el cumplimento de los Objetivos de Desarrollo Sostenible de la Agenda 2030 en todos los países del mundo.
-    - declaration:
+    - statement:
         id: 47b794ec-aa35-48d5-8188-c964e98987c6
         page: 16
         text: 'Ahora es la hora de la verdad. Ahora es el momento de analizar las propuestas de cada partido y de responder a las preguntas que se plantean: qué partido puede contribuir mejor a unir España en un proyecto de progreso y qué presidente puede liderar esas transformaciones.'
-    - declaration:
+    - statement:
         id: 9c82c346-b854-4299-981c-afd03d27eb37
         page: 16
         text: El PSOE presenta un programa incontestablemente progresista, feminista y europeísta. Un programa que ha sido el resultado de analizar minuciosamente la realidad social y de hablar con la sociedad civil para escuchar sus demandas. Un programa asentado sobre el principio de realidad, hecho para cumplirse. Un programa ambicioso y transformador.
 - chapter: 
+    id: cae5d808-1ce9-4168-a268-4ea405606db1
     title: EMPLEO DIGNO Y PENSIONES JUSTAS
     categories: Trabajo
     children:
@@ -161,14 +163,17 @@ content:
         title: Policías Nacionales y Guardias Civiles. 
         text: Cumpliremos en 2020 como hicimos en 2018 y 2019, el acuerdo firmado por el Gobierno y los sindicatos y asociaciones profesionales de la Policía y la Guardia Civil, para alcanzar la equiparación salarial con los cuerpos autonómicos. Se impulsará también el Plan de Infraestructuras para la seguridad del Estado con una dotación de 600 millones en los próximos años, para mejorar comisarías y cuarteles de las Fuerzas y Cuerpos de Seguridad del Estado. 
 - chapter: 
+    id: 9264e1a6-8956-43c8-9d25-6a2db61a821a
     title: FEMINISMO, LUCHA CONTRA LA DESIGUALDAD Y CALIDAD DEMOCRÁTICA.  
     children:
     - chapter: 
+        id: 27676427-0fa3-43e9-9227-424af69155b2
         title: Agenda Feminista
         categories: Derechos y servicios sociales
         topics: Igualdad
         children:
         - chapter: 
+            id: 1e6c4483-a585-4aa8-9571-576fd45f4ea1
             title: Igualdad de oportunidades en el empleo y la ocupación
             children: 
             - promise:
@@ -188,6 +193,7 @@ content:
                 page: 21
                 text: Para garantizar una creciente conciliación de la vida laboral, familiar y personal, favoreciendo la necesaria corresponsabilidad entre hombres y mujeres, impulsaremos un pacto social y político por la racionalización de los horarios, que incluirá una Ley de usos del tiempo y racionalización de los horarios.
         - chapter: 
+            id: 6f300614-e8ea-4d3c-beef-78df8b43b5e5
             title: Lucha contra la violencia machista
             categories: Seguridad y defensa
             topics: Violencia de género
@@ -213,6 +219,7 @@ content:
                 page: 22
                 text: Ratificaremos el Convenio 190 de la OIT sobre la eliminación de la violencia y el acoso en el mundo del trabajo, de 21 de junio de 2019.
         - chapter: 
+            id: e95ad0a3-fee6-46e6-ab65-6359fefcd3f9
             title: Derechos sexuales y reproductivos. Por una maternidad libremente decidida
             topics: Derechos sexuales y reproductivos
             children:
@@ -229,6 +236,7 @@ content:
                 page: 23
                 text: Garantizaremos los tratamientos de reproducción asistida a todas las mujeres, independientemente de su orientación sexual y estado civil, una vez restablecido este derecho en la cartera de servicios comunes del Sistema Nacional de Salud.
         - chapter: 
+            id: 28a5a89f-f946-4cf3-b140-72282e7b4781
             title: Contra los vientres de alquiler
             topics: Vientres de alquiler
             children:
@@ -237,9 +245,11 @@ content:
                 page: 23
                 text: Decimos NO a los vientres de alquiler. La explotación reproductiva está prohibida en nuestra legislación, en coherencia con las recomendaciones del Parlamento Europeo. Los vientres de alquiler socavan los derechos de las mujeres, especialmente de las más vulnerables, mercantilizando sus cuerpos y sus funciones reproductivas. Actuaremos frente a las agencias que ofrecen esta práctica, a sabiendas de que está prohibida en nuestro país.
         - chapter: 
+            id: 259369f2-f321-4441-be81-1d0121d613f3
             title: Lucha contra la desigualdad social
             children: 
             - chapter: 
+                id: 1b166bbb-40b5-49ba-a4c8-75dad7a80fff
                 title: Educación
                 categories: Educación
                 children:
@@ -326,6 +336,7 @@ content:
                     page: 25
                     text: Impulsaremos un pacto por la universidad con el máximo consenso de los agentes políticos y sociales, que garantice una financiación adecuada para modernizar la universidad, ampliar su capacidad de atraer y retener talento y adaptarla a las nuevas realidades, a través de una nueva Ley Orgánica de Universidades, introduciendo, entre otras cosas, un sistema más homogéneo de precios públicos de las matrículas universitarias, más acordes con los niveles de vida medios de la ciudadanía.
             - chapter: 
+                id: 2dd22b48-2a09-406f-aa79-a41041803506
                 title: Vivienda
                 categories: Vivienda
                 children:
@@ -342,6 +353,7 @@ content:
                     page: 26
                     text: Aprobaremos medidas específicas de ayuda al alojamiento para colectivos con necesidades habitacionales urgentes, actualizando la estrategia de sinhogarismo, favoreciendo el realojo de inquilinos que no puedan hacer frente al pago de sus rentas o que incluso hayan perdido su vivienda por ejecución hipotecaria, complementando las iniciativas adoptadas por comunidades autónomas y ayuntamientos.
             - chapter: 
+                id: 2151d415-90ce-4872-a454-e7bc580c7a54
                 title: Cultura y Deporte
                 categories: Cultura
                 children:
@@ -363,9 +375,11 @@ content:
                     text: Promoveremos una Ley del Deporte que se acompañará de un Plan Estratégico, para regular las profesiones asociadas al deporte, así como la accesibilidad a su práctica por parte de todos los ciudadanos, la eliminación de toda discriminación por género, y la formación y empleo para los deportistas retirados.
                     categories: Deporte
             - chapter: 
+                id: 2d66bbc2-49aa-4927-908c-0c6eae6e1236
                 title: Sanidad, Bienestar Social y Consumo
                 children: 
                     - chapter: 
+                        id: 75517e5c-2334-421b-8769-dbe823cce614
                         title: Derecho a la salud y asistencia sanitaria
                         categories: Sanidad
                         children:
@@ -402,6 +416,7 @@ content:
                             page: 28
                             text: Integraremos las enfermedades raras en la planificación global de la cobertura universal, garantizando el acceso a diagnóstico y tratamiento de todas las personas, independientemente de dónde vivan y la patología con la que convivan; e incorporaremos las posibilidades terapéuticas y organizativas en relación con la atención al cáncer infantil y adolescente para incrementar la supervivencia.
                     - chapter: 
+                        id: b9acb21e-b2d4-4d2a-a551-e4c86a481336
                         title: Servicios Sociales
                         categories: Derechos y servicios sociales
                         children:
@@ -426,6 +441,7 @@ content:
                             page: 30
                             text: Avanzaremos hacia el establecimiento de un Ingreso Mínimo Vital como base de la libertad y de los derechos de todas las personas. Mejoraremos las prestaciones por hijo a cargo para los hogares en situación de pobreza, y desarrollaremos un mecanismo de garantía de ingresos para los hogares altamente vulnerables.
                     - chapter: 
+                        id: 4909feb0-f0e9-41c7-ad5a-f590d0639eb5
                         title: Protección para todo tipo de familias
                         categories: Familia
                         children:
@@ -434,6 +450,7 @@ content:
                             page: 30
                             text: Se elaborará una nueva ley de familias que responda a la realidad y necesidades de las diferentes estructuras familiares atendiendo a su condición de numerosas, monoparentales (en su mayoría encabezadas por mujeres), de partos múltiples, de familias acogedoras, con miembros con discapacidad... adecuando las ayudas a cada situación. La Ley garantizará la protección a todas las familias, en condiciones de igualdad, con independencia del estado civil de los progenitores o de la filiación de los y las menores.
                     - chapter: 
+                        id: e574f1f9-7f0c-4cdd-a7a0-9af3b6640de0
                         title: Consumo
                         categories: Consumo
                         children:
@@ -446,6 +463,7 @@ content:
                             page: 30
                             text: Se aprobará la creación de la Autoridad de Protección del Cliente Financiero, con el fin de garantizar un procedimiento eficiente capaz de resolver los conflictos con el sector financiero y proteger a la ciudadanía. Por eso, impulsaremos una autoridad administrativa de protección que reúna y refuerce las funciones de reclamación actuales en el ámbito de entidades de crédito, de inversión y seguros.
                     - chapter: 
+                        id: f262e428-539a-4d27-84d4-147f69c01eff
                         title: Pobreza energética
                         categories: Energía
                         topics: Pobreza energética
@@ -455,6 +473,7 @@ content:
                             page: 30
                             text: Se prohibirán los cortes de suministros básicos de agua, luz y gas en las primeras residencias, cuando el impago se deba a motivos como la pobreza sobrevenida y a las personas que estén padeciendo una situación de vulnerabilidad, en virtud de la Directiva 2009/72/CE y 2009/73/CE, y se mejorará el diseño del actual “bono social”.
                     - chapter: 
+                        id: ff575a53-efd2-4656-8eaa-67d41dc37d20
                         title: Prevención de adicciones
                         categories: Derechos y servicios sociales
                         topics: Adicciones
@@ -464,6 +483,7 @@ content:
                             page: 31
                             text: Aprobaremos una regulación de la publicidad de los juegos de azar y apuestas en línea, similar a la de los productos del tabaco, introduciendo medidas de información, gestión y limitación del consumo de juegos de azar, con el objetivo de reforzar la autoconciencia y autonomía del jugador, promoviendo la implicación de los operadores de juegos de azar y apuestas, incluyendo su contribución a actuaciones de reparación de los efectos de la ludopatía.
             - chapter: 
+                id: 973680ce-e0de-4a19-97fc-c89b80dc0b61
                 title: Fiscalidad
                 categories: Impuestos y financiación pública
                 children:
@@ -500,10 +520,12 @@ content:
                     page: 32
                     text: Abordaremos la desactivación de la tasa rosa, que es como se denomina al incremento de precio de un mismo producto cuando se trata de una “versión femenina”, y reduciremos el IVA de los productos de higiene femenina al 4%, porque son artículos de primera necesidad.
         - chapter: 
+            id: 92566106-de39-4a5d-bca6-917beee48dc5
             title: Calidad democrática y garantía de derechos y libertades de la ciudadanía
             categories: Democracia
             children:
             - chapter: 
+                id: 89375858-99fa-4877-97d3-a329719afd84
                 title: Mejora de la calidad democrática, anticorrupción y transparencia
                 children:
                 - promise:
@@ -550,6 +572,7 @@ content:
                     page: 34
                     text: Constituiremos consejos sectoriales de verificación en los que participará directamente la sociedad civil. Su misión será evaluar el cumplimiento, por parte del Gobierno, de los compromisos sociales del PSOE contenidos en este programa.
             - chapter: 
+                id: 8897c490-2f12-407f-9b66-7b1a8da9736c
                 title: Derechos de las personas con discapacidad
                 categories: Derechos y servicios sociales
                 topics: Discapacidad
@@ -559,6 +582,7 @@ content:
                     page: 34
                     text: Impulsaremos la reforma del artículo 49 de la Constitución, adaptándolo a las concepciones actuales sobre la protección de derechos de las personas con discapacidad, y extenderemos a los menores de 18 años con discapacidad las exenciones de copago previstas en la normativa actual.
             - chapter: 
+                id: 2ae0c74d-ab67-4ac0-a7a2-2a333943bb75
                 title: Igualdad de trato y diversidad
                 categories: Derechos y servicios sociales
                 topics: Igualdad
@@ -578,6 +602,7 @@ content:
                     text: Desarrollaremos el Plan de Acción contra los delitos de odio, para garantizar la protección de los derechos y libertades de todas las personas, con independencia de sus circunstancias personales o sociales, así como la aplicación efectiva de la Ley del Estatuto de la Víctima, para procurar la atención integral y especializada a las víctimas de los delitos de odio, garantizando el resarcimiento de sus derechos, a partir de la imprescindible formación de todos los que intervienen en la respuesta ante estos delitos.
                     categories: Seguridad y defensa
             - chapter: 
+                id: 34122573-31ef-498a-a75c-ec31076a25d2
                 title: Inmigración
                 categories: Migración
                 topics: Inmigración
@@ -603,6 +628,7 @@ content:
                     page: 35
                     text: Aprobaremos el reglamento de desarrollo de la Ley 12/2009 de 30 de octubre, reguladora del derecho de asilo y la protección subsidiaria, para aplicar todas las figuras jurídicas que están pendientes de implementación.
             - chapter: 
+                id: 9e7e2a44-85af-4541-acef-37f68ebb2472
                 title: Memoria democrática
                 categories: Democracia
                 topics: Memoria democrática
@@ -612,6 +638,7 @@ content:
                     page: 35
                     text: Reformaremos la vigente Ley de Memoria Histórica, conforme a las iniciativas ya impulsadas por el Grupo Parlamentario Socialista. Especialmente impulsaremos desde el Estado planes de choque y cuatrienales, para la exhumación de las víctimas del franquismo que yacen en fosas comunes. Desarrollaremos actuaciones de reconocimiento y reparación de las víctimas de la Guerra Civil y la Dictadura, declarando el 31 de octubre como día de recuerdo para todas las víctimas del franquismo, y el día 8 de mayo como el día de reconocimiento a las víctimas del exilio. Tras culminar el proceso de exhumación de Francisco Franco, retiraremos la simbología franquista que aún queda en los lugares públicos y reformaremos el Código Penal para incluir como delito la apología del franquismo y su exaltación y enaltecimiento en lugares de acceso público, y propondremos retirar las condecoraciones vinculadas a actuaciones durante la dictadura. De acuerdo con las asociaciones de la Memoria Histórica, el Gobierno establecerá un programa para la exhumación de víctimas del franquismo, avanzando en el principio de reconocimiento y reparación.
             - chapter: 
+                id: 95fe5738-0d35-4469-9411-62484575b47f
                 title: Lucha contra el terrorismo y atención a sus víctimas
                 categories: Seguridad y defensa
                 topics: Terrorismo
@@ -621,6 +648,7 @@ content:
                     page: 36
                     text: Intensificaremos el compromiso del Gobierno en la lucha contra el terrorismo y en el reconocimiento y respeto a sus víctimas, introduciendo las modificaciones que la Ley 29/2011, de Reconocimiento y Protección Integral a las Víctimas del Terrorismo necesita para garantizar asistencia integral a las víctimas del terrorismo y a sus familias. Al reconocimiento y la memoria de las víctimas del terrorismo contribuirá la Fundación Centro para la Memoria de las Víctimas del Terrorismo (comúnmente conocida como “Centro Memorial”).
             - chapter: 
+                id: 8688aaef-5afa-4f82-b16b-f5c3a2fdc6cc
                 title: Justicia independiente
                 topics: Separación de poderes
                 categories: Justicia
@@ -634,6 +662,7 @@ content:
                     page: 36
                     text: Derogaremos la reforma del artículo 324 de la Ley de Enjuiciamiento Criminal, eliminando el plazo máximo de instrucción por ser una limitación para la lucha contra la corrupción política, así como la Ley Orgánica 1/2014, de 13 de marzo, de modificación de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, relativa a la justicia universal, restaurando lo previsto en la Ley Orgánica 1/2009, de 3 de noviembre.
         - chapter: 
+            id: 3ef7238c-e72c-452a-b049-22b69433aaad
             title: Jóvenes
             categories: Derechos y servicios sociales
             topics: Juventud
@@ -659,11 +688,13 @@ content:
                 page: 37
                 text: Promoveremos el acceso de la juventud a las actividades agrarias y ganaderas para facilitar el relevo generacional en las explotaciones e implementaremos planes especiales de empleo en zonas que cuenten con una situación estructural de baja tasa de empleo y que sufran especialmente por el vaciamiento poblacional.
 - chapter: 
+    id: 5ec67c74-06a6-48b3-83c2-a2204ac24a2f
     title: EMERGENCIA CLIMÁTICA Y TRANSICIÓN ECOLÓGICA DE LA ECONOMÍA
     categories: Medioambiente
     topics: [Cambio climático, Desarrollo sostenible]
     children: 
     - chapter: 
+        id: a7996477-1c14-4309-9aee-7b4b037eef4e
         title: Emergencia climática
         children:
         - promise:
@@ -679,6 +710,7 @@ content:
             page: 38
             text: Se establecerá la obligación de elaborar cada 5 años, unos Presupuestos de Carbono, desglosados por sectores, para hacer visible la contribución de cada sector a la reducción de emisiones. Se establecerán mecanismos de seguimiento para favorecer la participación ciudadana y la implicación de todas las administraciones.
     - chapter: 
+        id: 2c1c9355-e394-4081-ab4a-f2f453e2cb83
         title: Transición ecológica de la economía
         children:
         - promise:
@@ -750,6 +782,7 @@ content:
             page: 41
             text: Impulsaremos una Ley de Bienestar Animal, que garantice una relación respetuosa hacia todos los seres vivos que, como indica la comunidad científica, son capaces de sentir emociones.
     - chapter: 
+        id: c81b524a-7c17-4056-ad5e-56c01a72ec58
         title: Agricultura y pesca sostenibles
         topics: Desarrollo sostenible
         children:
@@ -785,10 +818,12 @@ content:
             text: Impulsaremos una pesca y acuicultura sostenibles, basada en el conocimiento, la innovación y la investigación científica, y fortaleceremos la viabilidad económica tanto de la flota industrial como de la artesanal, al tiempo que mejoraremos las condiciones sociolaborales de sus trabajadores.
             categories: Pesca y acuicultura
 - chapter: 
+    id: 002d99ce-e214-4475-bdda-6be2bb4d31be
     title: AVANCE CIENTÍFICO, TECNOLÓGICO Y TRANSICIÓN DIGITAL
     categories: Ciencia y tecnología
     children:
     - chapter: 
+        id: 9b9406d4-64ea-4dc6-9ef5-d29e2f089e3e
         title: Investigación, Desarrollo e Innovación (I+D+i)
         topics: 'I+D+i'
         children:
@@ -838,6 +873,7 @@ content:
                 page: 44
                 text: Crearemos fondos específicos para proyectos de investigación en áreas estratégicas.
     - chapter: 
+        id: 8b3b4090-2613-4308-b395-3a2c5b3078b6
         title: Transformación digital
         topics: Digitalización
         children:
@@ -890,10 +926,12 @@ content:
             page: 45
             text: Aprobaremos un Plan de Ciberseguridad y crearemos un Foro nacional de ciberseguridad, consolidando un auténtico polo de emprendimiento a partir del INCIBE. Potenciaremos la oficina de coordinación cibernética entre la Policía Nacional y la Guardia Civil e, igualmente, pondremos en marcha el Centro de Operaciones de Ciberseguridad. Se reforzarán los programas específicos para la protección de los menores en la red, incluyendo medidas de formación y concienciación para educadores y familias.
 - chapter: 
+    id: 34b84a35-7813-4087-ae34-24ba7669e889
     title: ESTRUCTURA TERRITORIAL
     categories: Organización territorial
     children:
     - chapter: 
+        id: 0ebe7bcf-4ec7-4d85-9e96-27e33fcdd88d
         title: Estado autonómico
         children:
         - promise:
@@ -925,6 +963,7 @@ content:
             page: 48
             text: Impulsaremos la descentralización institucional del Estado, trasladando total o parcialmente las sedes de diversas instituciones y organismos a distintas ciudades.
     - chapter: 
+        id: bfeb74d8-c8b3-47b4-b73b-61f1aaaf5305
         title: Reto demográfico en el medio rural
         categories: Territorio rural
         children:
@@ -969,6 +1008,7 @@ content:
             page: 49
             text: Introduciremos criterios territoriales para reducir la desigualdad y garantizar la efectividad de los derechos de las ciudadanas y ciudadanos, sin importar el lugar en el que vivan.
     - chapter: 
+        id: d2dbc75d-1fee-4912-8381-af97f02411a1
         title: Agenda 2030
         topics: Desarrollo sostenible
         children:
@@ -977,6 +1017,7 @@ content:
             page: 49
             text: El Gobierno de España está plenamente comprometido con el cumplimiento de todos y cada uno de los Objetivos de Desarrollo Sostenible (ODS) de la Agenda 2030, aprobada en 2015 por Naciones Unidas; así se puso de manifiesto en la anterior legislatura con el nombramiento de la Alta Comisionada para la Agenda 2030, dependiente de la Presidencia del Gobierno, así como con las decisiones adoptadas para garantizar la imprescindible implicación y coordinación de todos los Ministerios así como de todas las Administraciones Territoriales y la participación de la sociedad civil, en los correspondientes órganos ya diseñados. En esta Legislatura se avanzará hacia la aprobación de la Estrategia de Desarrollo Sostenible, que deberá garantizar la máxima coherencia entre todas las políticas de las diferentes administraciones, y que será objeto de seguimiento y evaluación en la correspondiente Comisión Mixta Congreso-Senado que no pudo iniciar su trabajo a causa del adelanto electoral.
 - chapter: 
+    id: 06572758-339c-4185-bcc1-2905946110b7
     title: ESPAÑA EN EUROPA, ESPAÑA EN EL MUNDO
     categories: Política internacional
     children:

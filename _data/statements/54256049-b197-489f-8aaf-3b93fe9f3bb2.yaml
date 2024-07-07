@@ -1,6 +1,6 @@
 id: 54256049-b197-489f-8aaf-3b93fe9f3bb2
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 253
+parent_chapter: a8ad63ab-b62a-4543-ac99-7b8568a09d6b
+text: Impulsaremos la creación de un gran Centro de la Memoria Democrática, con la finalidad de salvaguardar la dignidad de las víctimas y la promoción de la memoria democrática de los derechos humanos y los valores democráticos.
 categories: Democracia
 topics: Memoria democrática
-text: Impulsaremos la creación de un gran Centro de la Memoria Democrática, con la finalidad de salvaguardar la dignidad de las víctimas y la promoción de la memoria democrática de los derechos humanos y los valores democráticos.

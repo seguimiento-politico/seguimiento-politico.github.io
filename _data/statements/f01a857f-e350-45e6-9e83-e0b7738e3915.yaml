@@ -1,6 +1,6 @@
 id: f01a857f-e350-45e6-9e83-e0b7738e3915
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 82
-categories: Impuestos y financiación pública
+parent_chapter: ec3e397c-bf4a-4692-a06e-58f507cee1f8
 text: Suprimiremos todas las oficinas de implantación de la Agenda 2030 y crearemos una Oficina Estratégica para el Interés Nacional que vele por los intereses de los españoles en el ámbito económico, defendiendo los intereses de las empresas españolas en el exterior y atrayendo inversiones productivas.
+categories: Impuestos y financiación pública

@@ -1,6 +1,6 @@
 id: 2b2846c2-6384-4bec-9cae-a627643901e8
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 131
+parent_chapter: b94be249-1495-4fac-8084-a1ca48e64068
+text: Fomentaremos y apoyaremos la adquisición y el uso bicicletas eléctricas.
 categories: Transporte
 topics: Incentivos, ayudas y subvenciones
-text: Fomentaremos y apoyaremos la adquisición y el uso bicicletas eléctricas.

@@ -1,6 +1,6 @@
 id: 917ede93-e227-4421-917b-91a63dad37ac
-type: declaration
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_chapter: d59fe7bc-7318-4c18-a232-113ef256f4dd
+text: 'En tiempos complejos, la democracia es la respuesta. Apostar por la democracia implica mejorar nuestra inteligencia colectiva y nuestra capacidad para transformar la realidad. Sin embargo, vivimos tiempos de crisis y desconfianza democrática que nos obligan a revisarla y profundizar en ella.<br><br> Necesitamos una democracia revitalizada, un nuevo contrato democrático capaz de incorporar todas las voces de una sociedad diversa, de recuperar la confianza en las instituciones públicas y de situar el diálogo en el centro de las decisiones políticas.<br><br> Proponer medidas concretas para ensanchar y mejorar la calidad de nuestra democracia no es sencillo, pues se trata de modificar las reglas del juego y, sobre todo, las prácticas y los comportamientos de los múltiples actores sociales y políticos. En cualquier caso, proponemos seis líneas de acción:'
 categories: Democracia
 topics: Participación ciudadana
-text: 'En tiempos complejos, la democracia es la respuesta. Apostar por la democracia implica mejorar nuestra inteligencia colectiva y nuestra capacidad para transformar la realidad. Sin embargo, vivimos tiempos de crisis y desconfianza democrática que nos obligan a revisarla y profundizar en ella.<br><br> Necesitamos una democracia revitalizada, un nuevo contrato democrático capaz de incorporar todas las voces de una sociedad diversa, de recuperar la confianza en las instituciones públicas y de situar el diálogo en el centro de las decisiones políticas.<br><br> Proponer medidas concretas para ensanchar y mejorar la calidad de nuestra democracia no es sencillo, pues se trata de modificar las reglas del juego y, sobre todo, las prácticas y los comportamientos de los múltiples actores sociales y políticos. En cualquier caso, proponemos seis líneas de acción:'

@@ -1,6 +1,6 @@
 id: 1dabb1d0-98d5-4135-af04-6031967fef75
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 18
-categories: Administración pública
+parent_chapter: f4f32036-0cfd-4ca9-b6f3-5cfec1c58526
+children_promises:
+- c3f99253-4408-4ed0-bb60-bc062113a15b
+- e05e3c44-e697-4607-8e19-10310da4b533
+- 44afb4b0-9668-4c47-9b3a-10c9a0f1493f
+- 43fc85c7-8693-4f79-abc1-5ceec6fe8fad
+children_statements:
+- 99f0145f-d46b-48e7-89ba-b1a9b6503873
 title: Promoveremos medidas de innovación y transversalidad en las Administraciones públicas.
-has_children: true
+categories: Administración pública

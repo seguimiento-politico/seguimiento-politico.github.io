@@ -1,7 +1,6 @@
 id: 4dc052ff-3573-40b9-ad45-8078c6560b5a
 type: promise
-parent_statement: a7ff9b0e-ec1c-452e-937b-e6560415dd2d
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Seguridad y defensa
+parent_statement: a7ff9b0e-ec1c-452e-937b-e6560415dd2d
+parent_chapter: 66b190ef-617c-438a-adf3-a3c9f707719b
 text: Se prestará especial atención a la salud mental y a la discapacidad, promoviendo como medida normal el no ingreso en prisión de las personas con enfermedad mental o discapacidad intelectual.
+categories: Seguridad y defensa

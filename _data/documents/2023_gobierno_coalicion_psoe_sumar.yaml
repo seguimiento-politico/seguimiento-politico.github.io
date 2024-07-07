@@ -9,32 +9,33 @@ parties:
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
-url: 
-web_history: 
+url: https://www.socialistes.cat/wp-content/uploads/2023/10/ACUERDO_GOBIERNO_COALICIO%CC%81N_2023-.pdf
+web_history: https://web.archive.org/web/20231108075909/https://www.socialistes.cat/wp-content/uploads/2023/10/ACUERDO_GOBIERNO_COALICIO%CC%81N_2023-.pdf
 title: España Avanza. 
 description: Acuerdo de gobierno entre PSOE y SUMAR para la Legislatura XV
 content:
-- declaration:
+- statement:
     id: 3b7c83aa-48d4-4cec-a2ca-aa1314f32855
     page: 2
     text: Hace cuatro años, España cambió de rumbo y retomó la senda del progreso. Tras una década de políticas de auster  idad, precariedad laboral, crispación, retrocesos en derechos, e inacción medioambiental, nuestro país volvió a mirar al futuro con ambición y con esperanza. La mayoría social se movilizó e hizo posible la creación del primer gobierno de coalición progresista de nuestra democracia. Hoy, casi 1.400 días después, podemos afirmar –con humildad, pero con confianza– que ese gobierno ha s  ido un éxito. Bajo su gestión, España ha navegado una de las coyunturas internacionales más complejas y adversas de la historia reciente, ha recuperado la estabil  idad institucional, y ha llevado a cabo una modernización sin precedentes de su economía, su mercado laboral y su Estado del bienestar, al tiempo que ha proteg  ido y ampliado los derechos y libertades de su ciudadanía.
-- declaration:
+- statement:
     id: 9e9796fc-2b3d-4e26-9ec0-90dd9e8cbbfc
     page: 2
     text: Las crisis y los desastres naturales no nos han apartado de nuestro camino. Al contrario. El gobierno de coalición ha afrontado lo urgente y ha abordado lo importante, tomando med  idas pioneras y valientes que han funcionado. Ahora, ha llegado el momento de seguir avanzando por la senda del progreso y la convivencia. Debemos consol  idar las reformas logradas, recoger sus frutos y dar nuevos pasos hacia el bienestar y la justicia social, la prosper  idad económica y la sostenibil  idad medioambiental.
-- declaration:
+- statement:
     id: b9d6b3e2-e522-4613-81cb-086e39a38ec9
     page: 2
     text: España quiere y puede convertirse en uno de los países más avanzados e influyentes del mundo. Ese es nuestro objetivo y nuestro compromiso. Contamos con las estrategias, la trayectoria, el talento y los apoyos necesarios para conseguirlo. Vamos a seguir modernizando nuestro tej  ido productivo y apostando por la ciencia y la innovación para crear más riqueza, oportun  idades y empleo de cal  idad. Vamos a seguir mejorando nuestros servicios públicos y nuestro Estado del Bienestar. Vamos a seguir defendiendo el interés general de la gente frente a los intereses de las élites y los mercados, y los derechos y libertades de la ciudadanía, las mujeres y las personas del colectivo LGTBI. Vamos a seguir abanderando la transición ecológica en Europa y elevando el l  iderazgo internacional de nuestro país. En definitiva, vamos a hacer que España siga avanzando.
-- declaration:
+- statement:
     id: c133b9e6-0c2f-44b8-9d07-b01dafce4302
     page: 3
     text: El nuevo gobierno de coalición progresista estará compuesto por diferentes formaciones políticas y contará con sensibil  idades distintas. Esa plural  idad será una de nuestras mayores fortalezas, porque constituye un fiel reflejo de la divers  idad que caracteriza a la sociedad española y que nos hace grandes como país.
-- declaration:
+- statement:
     id: a894b07c-7ba0-4eda-b2a8-f50c67e51f78
     page: 3
     text: Nos adentramos en una década que será decisiva para el futuro de España y el mundo, y el nuevo gobierno de coalición va a estar a la altura. Vienen cuatro años más de progreso, de convivencia, estabil  idad, e ilusión. Vienen cuatro años más de izquierda.
 - chapter: 
+    id: 73e0eb17-ca17-45e8-a4bd-217e9f7fe4bf
     title: Una economía más moderna, al servicio de las personas y de un crecimiento justo y sostenible
     categories: Economía
     topics: Desarrollo sostenible
@@ -128,6 +129,7 @@ content:
         page: 8
         text: Reforzaremos los derechos de las personas consum  idoras. Se modernizará el Sistema Arbitral de Consumo, se fomentará el asociacionismo, renovando e impulsando el Consejo de Consum  idores y Usuarios, y se mejorarán los mecanismos procesales en defensa de los intereses colectivos en materia de acciones de representación de las personas consum  idoras. Se aprobará una nueva Ley de Condiciones Generales de la Contratación y una Ley de Servicios de Atención a la Clientela.
     - chapter: 
+        id: 233073ee-84f6-470b-9e97-5fa8c6a735c9
         title: Ciencia e Innovación
         categories: Ciencia y tecnología
         topics: 'I+D+i'
@@ -165,6 +167,7 @@ content:
             page: 9
             text: Mantendremos la apuesta por los programas de apoyo a las empresas innovadoras, como las iniciativas Misiones y TransMisiones; la compra pública innovadora; la coinversión en empresas de base tecnológica; o el Plan de Transferencia y Colaboración para incentivar la colaboración público-privada en I+D+I e impulsar la capac  idad innovadora de las empresas españolas.
 - chapter: 
+    id: 4e3dbdf1-46ac-4aae-800b-566235f4fd90
     title: Más y mejores empleos, con más derechos y mejores salarios
     categories: Trabajo
     children:
@@ -270,6 +273,7 @@ content:
         page: 13
         text: España seguirá cumpliendo con sus compromisos internacionales en materia laboral, entre otros, los Convenios 167 y 184 de la OIT.
 - chapter: 
+    id: 7ae97af0-2b46-4081-8273-1e68d732579c
     title: Una agenda verde para garantizar la sostenibilidad de hoy y de mañana
     categories: Economía
     topics: Desarrollo sostenible
@@ -371,6 +375,7 @@ content:
         page: 19
         text: Retomaremos la Ley contra el Desperdicio Alimentario.
     - chapter: 
+        id: b7666ade-9a66-49ca-9621-feeda6f1a0e3
         title: Agricultura, pesca, desarrollo rural, reto demográfico y lucha contra la despoblación
         children:
         - promise:
@@ -442,10 +447,12 @@ content:
             page: 21
             text: Impulsaremos la protección y el bienestar de los animales. Para ello, se desarrollará la Directiva 2010/63/UE del Parlamento Europeo y del Consejo Europeo relativa a la protección de los animales utilizados para fines científicos, y se pondrán en marcha nuevos planes estatales contra el maltrato a los animales.
 - chapter: 
+    id: a149c51e-f5e6-45cb-9a94-00093f0f7790
     title: Una España que avanza en nuevos derechos sociales sociales para un mayor bienestar
     categories: Derechos y servicios sociales
     children:
     - chapter: 
+        id: 82cb99f9-443b-47be-bd4c-2773bb661dc1
         title: Apoyo público a los ciudadanos y las ciudadanas
         children:
         - promise:
@@ -493,6 +500,7 @@ content:
             page: 24
             text: Culminaremos la reforma del artículo 49 de la Constitución para suprimir el término “disminu  idos” y reforzar la protección constitucional de los derechos de las personas con discapac  idad.
     - chapter: 
+        id: 0b36ba7b-9b95-4627-acb1-a2de3527b118
         title: Seguir mejorando nuestro sistema público de pensiones, con pensiones dignas y sostenibles
         categories: Derechos y servicios sociales
         topics: Pensiones
@@ -510,6 +518,7 @@ content:
             page: 24
             text: Para proteger los derechos de las mujeres, seguiremos progresando en la eliminación de la brecha de género de las pensiones, completando las lagunas de cotización para el cálculo de la pensión final e incluyendo nuevos mecanismos para reducir dicha brecha.
     - chapter: 
+        id: 98aa97ac-a698-4c4b-84ee-872a887a064b
         title: Sanidad pública con más servicios y sin listas de espera
         categories: Sanidad
         children:
@@ -558,6 +567,7 @@ content:
             page: 26
             text: Aprobaremos, en coordinación con las CCAA, una norma estatal para la mejora de la composición y cal  idad nutricional de los menús en los comedores escolares. La normativa, además, regulará la oferta en las máquinas vending y puntos de venta en centros educativos para que sea saludable.
     - chapter: 
+        id: b29ce8bc-cfe8-451c-8ff8-2716eb87c909
         title: Educación pública y de calidad para garantizar la igualdad de oportunidades
         categories: Educación
         children:
@@ -618,6 +628,7 @@ content:
             page: 28
             text: Seguiremos avanzando en la reducción de la precariedad y temporal  idad, y en la progresiva estabilización del profesorado universitario a través de las sucesivas Ofertas Públicas de Empleo, manteniéndose una tasa de reposición acorde a las neces  idades de renovación de las plantillas.
 - chapter: 
+    id: 4b9ad552-80e7-45a6-bece-e6b170f13df0
     title: Garantizar el derecho a la vivienda y transporte de calidad para todos y todas
     categories: Vivienda
     children:
@@ -714,6 +725,7 @@ content:
         page: 32
         text: Implantaremos una experiencia piloto de Obligación de Servicio Público aérea entre Menorca y Barcelona y, si los resultados son exitosos, ampliaremos la iniciativa a las conexiones de Ibiza y Menorca con Madr  id, Barcelona y Valencia.
 - chapter: 
+    id: 8930526d-d2e6-4209-b5eb-45f218e2a0c8
     title: España, un referente feminista
     categories: Derechos y servicios sociales
     topics: Igualdad
@@ -783,6 +795,7 @@ content:
         page: 35
         text: Trabajaremos para garantizar que la construcción del conocimiento se hace sin sesgos de género.
 - chapter: 
+    id: 92fe2ec6-2e28-46a8-8939-62173145ab6f
     title: Una España diversa y plural, con más derechos y más libertades
     categories: Derechos y servicios sociales
     children:
@@ -811,6 +824,7 @@ content:
         page: 36
         text: Trabajaremos para garantizar que el trabajo sea un espacio libre de acoso o discriminación por orientación sexual, expresión o   ident  idad de género y características sexuales.
 - chapter: 
+    id: e8d5c618-2425-492e-9784-205fd8c32426
     title: Una Fiscalidad justa y adaptada a los retos del presente
     categories: Impuestos y financiación pública
     children:
@@ -871,9 +885,11 @@ content:
         page: 39
         text: Impulsaremos una herramienta personalizada para que cada español sepa exactamente a qué se destinan los impuestos que paga, y así la ciudadanía pueda juzgar por sí misma la importancia de los impuestos para sostener el estado de bienestar.
 - chapter: 
+    id: 2cbde85d-cde7-43c7-85df-c08c92175333
     title: Una administración más ágil y una política territorial más justa y eficaz
     children:
     - chapter: 
+        id: 861ccb1c-592d-493e-9a26-099f2cebc313
         title: Modelo territorial
         categories: Territorio rural
         children:
@@ -890,6 +906,7 @@ content:
             page: 40
             text: Reforzaremos y extenderemos la co-gobernanza desde el diálogo, la lealtad institucional y la colaboración territorial.
     - chapter: 
+        id: 2dc718bb-57b9-449b-be3a-cb454350b2a1
         title: Administración Pública
         categories: Administración pública
         children:
@@ -938,6 +955,7 @@ content:
             page: 42
             text: Reforzaremos la lucha contra la moros  idad para asegurar el estricto cumplimiento de los plazos legales de pago en toda la cadena de producción, especialmente mediante actuaciones dirig  idas a mejorar la protección de los trabajadores y trabajadoras de las subcontratas, evitando que en los contratos adjudicados por el sector público a grandes empresas se produzcan situaciones de impago de salarios tanto a las PYMES como a las personas autónomas subcontratadas.
     - chapter: 
+        id: 46db4d3f-cf6c-411a-998c-91f7fa54bd7b
         title: Democracia y justicia
         categories: Democracia
         children:
@@ -982,6 +1000,7 @@ content:
             page: 44
             text: Propondremos un nuevo modelo de acceso, formación, especialización y promoción de jueces y fiscales, desarrollando un sistema de becas públicas, ayudas y compensaciones para preparar el acceso al empleo público en la justicia, con el objeto de garantizar la igualdad de oportun  idades.
 - chapter: 
+    id: da886195-4ba1-49d8-aec1-945b64d704c6
     title: Cultura para crecer en democracia
     categories: Cultura
     children:
@@ -1030,6 +1049,7 @@ content:
         page: 46
         text: Seguiremos trabajando para lograr la igualdad de género efectiva en el deporte garantizando la presencia del deporte femenino en la carta de servicios de la radio y televisión públicas y el adecuado tratamiento informativo (sin estereotipos de género) en los medios de comunicación. Además, se promoverán med  idas de ayuda a la conciliación de las mujeres deportistas profesionales y a otros niveles y se desarrollarán programas de formación en prevención de acoso y abusos sexuales en clubes y federaciones deportivas.
 - chapter: 
+    id: b5f12909-b76e-47aa-bc10-2eee3574ca31
     title: Una España abierta al mundo y con voz propia en el escenario internacional
     categories: Política internacional
     children:

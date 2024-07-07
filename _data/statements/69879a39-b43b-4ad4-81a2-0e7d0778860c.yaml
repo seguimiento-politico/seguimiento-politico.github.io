@@ -1,6 +1,6 @@
 id: 69879a39-b43b-4ad4-81a2-0e7d0778860c
-type: declaration
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+type: statement
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 25
+parent_chapter: b8a5aa3d-8c58-4fdb-8ce8-c6eb037312b4
 text: Sin embargo, las movilizaciones feministas lo han cambiado todo al poner la vida en el centro de nuestras prioridades y al demostrar que este ya es un país feminista que puede organizarse de otro modo. Por ello, proponemos un ambicioso programa de inversiones públicas para la construcción de infraestructuras sociales sólidas al servicio de las personas y con la capacidad de crear, en un plazo muy corto, más de medio millón de empleos repartidos con justicia por todo el territorio. Si es cierto que llega una nueva crisis, nos debe encontrar cuidándonos y con una economía más robusta para afrontarla.

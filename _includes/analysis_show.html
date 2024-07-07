@@ -1,0 +1,107 @@
+
+{% if element[1].analysis %}
+    {% for analysis in element[1].analysis %}
+        {% if analysis.information %}
+            {% assign color = "info" %}
+        {% elsif analysis.fallacy %}
+            {% assign color = "danger" %}
+        {% else %}
+            {% assign color = "warning" %}
+        {% endif %}
+        <div class="callout callout-{{color}}">
+            {% for a in analysis %}
+                {% if forloop.index == 1 %}
+                    <b>
+                        {{ site.data.locales.ui-text[site.lang].[a[0]] | default: a[0] }} {{ site.data.locales.ui-text[site.lang].[a[1]] | default: a[1] }}{{": "}}
+                    </b>
+                {% else %}
+                    {{a[1]}}
+                {% endif %}
+            {% endfor %}
+        </div>
+    {% endfor %}
+{% endif %}
+
+{% if element[1].arguments %}
+    {% for argument in element[1].arguments %}
+        {% if argument.analysis %}
+            {% for analysis in argument.analysis %}
+                {% if analysis.information %}
+                    {% assign color = "info" %}
+                {% elsif analysis.fallacy %}
+                    {% assign color = "danger" %}
+                {% else %}
+                    {% assign color = "warning" %}
+                {% endif %}
+                <div class="callout callout-{{color}} text-justify">
+                    {% for a in analysis %}
+                        {% if forloop.index == 1 %}
+                            <b> 
+                                {% assign type = a[0] %}
+                                {% assign detail = a[1] %}
+                                {{ site.data.locales.ui-text[site.lang].[type] | default: type }} {{ site.data.locales.ui-text[site.lang].[detail] | default: detail }}{{": "}}
+                            </b>
+                        {% else %}
+                            {{a[1]}}
+                        {% endif %}
+                    {% endfor %}
+                </div>
+            {% endfor %}
+        {% endif %}
+    {% endfor %}
+{% endif %}
+
+
+{% if element[1].prescriptions %}
+    {% for prescription in element[1].prescriptions %}
+        {% if prescription.analysis %}
+            {% for analysis in prescription.analysis %}
+                {% if analysis.information %}
+                    {% assign color = "info" %}
+                {% elsif analysis.fallacy %}
+                    {% assign color = "danger" %}
+                {% else %}
+                    {% assign color = "warning" %}
+                {% endif %}
+                <div class="callout callout-{{color}} text-justify">
+                    {% for a in analysis %}
+                        {% if forloop.index == 1 %}
+                            <b>
+                                {{ site.data.locales.ui-text[site.lang].[a[0]] | default: a[0] }} {{ site.data.locales.ui-text[site.lang].[a[1]] | default: a[1] }}{{": "}}
+                            </b>
+                        {% else %}
+                            {{a[1]}}
+                        {% endif %}
+                    {% endfor %}
+                </div>
+            {% endfor %}
+        {% endif %}
+    {% endfor %}
+{% endif %}
+
+{% if element[1].actions %}
+    {% for action in element[1].actions %}
+        {% if action.analysis %}
+            {% for analysis in action.analysis %}
+                {% if analysis.information %}
+                    {% assign color = "info" %}
+                {% elsif analysis.fallacy %}
+                    {% assign color = "danger" %}
+                {% else %}
+                    {% assign color = "warning" %}
+                {% endif %}
+                <div class="callout callout-{{color}} text-justify">
+                    {% for a in analysis %}
+                        {% if forloop.index == 1 %}
+                            <b>
+                                {{ site.data.locales.ui-text[site.lang].[a[0]] | default: a[0] }} {{ site.data.locales.ui-text[site.lang].[a[1]] | default: a[1] }}{{": "}}
+                            </b>
+                        {% else %}
+                            {{a[1]}}
+                        {% endif %}
+                    {% endfor %}
+                </div>
+            {% endfor %}
+        {% endif %}
+    {% endfor %}
+{% endif %}

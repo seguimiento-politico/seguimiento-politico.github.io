@@ -1,6 +1,6 @@
 id: e4156f60-618a-47ea-b29a-50c82b2370b1
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,7 +10,8 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 46
-categories: Impuestos y financiación fiscal
-topics: Distribución fiscal
+parent_chapter: 0de871a0-5319-40e9-8662-5ef7c35d2626
 title: Cumplimiento de los mecanismos de disciplina fiscal para garantizar la sostenibilidad de las cuentas públicas.
 text: Desarrollaremos una política fiscal responsable, que garantice la estabilidad presupuestaria y la reducción del déficit y de la deuda pública, en una senda compatible con el crecimiento económico y la creación de empleo, con el refuerzo de las inversiones productivas en los ámbitos de la transición ecológica, la educación, la ciencia, la I+D y la digitalización, y con niveles adecuados de protección social. Reforzaremos la progresividad del sistema impositivo y la suficiencia de los ingresos públicos, reduciendo las diferencias con la media europea.
+categories: Impuestos y financiación fiscal
+topics: Distribución fiscal

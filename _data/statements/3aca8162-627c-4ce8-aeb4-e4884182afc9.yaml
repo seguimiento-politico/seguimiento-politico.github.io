@@ -1,6 +1,6 @@
 id: 3aca8162-627c-4ce8-aeb4-e4884182afc9
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 231
-categories: Democracia
+parent_chapter: dbcc7ee6-627f-4108-bcf4-9b0b69036063
 text: Seguiremos avanzando en el proceso de institucionalización del diálogo entre instituciones y entre los distintos niveles de Gobierno. Tras la reforma de la Conferencia de Presidentes, las y los socialistas seguiremos promoviendo nuevos avances en los instrumentos de cooperación orientados a reforzar la solidaridad interterritorial y la mejora en las políticas públicas. Reconoceremos a la Conferencia de Presidentes como el máximo órgano de cogobernanza política con el desarrollo del nuevo Reglamento, acordado en La Palma en marzo de 2022.
+categories: Democracia

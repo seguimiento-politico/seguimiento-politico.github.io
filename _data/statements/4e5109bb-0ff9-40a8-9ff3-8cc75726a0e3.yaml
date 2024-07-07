@@ -1,7 +1,6 @@
 id: 4e5109bb-0ff9-40a8-9ff3-8cc75726a0e3
 type: promise
-parent_statement: 916df8e9-01cf-44f9-8239-026711fc3e65
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
+parent_statement: 916df8e9-01cf-44f9-8239-026711fc3e65
+parent_chapter: 70e896cb-cc2e-4700-a649-38c82b332b6c
+text: Prohibición de los vientres de alquiler y toda actividad que cosifique y utilice como producto de compra venta a los seres humanos.
 categories:
 - Familia
-text: Prohibición de los vientres de alquiler y toda actividad que cosifique y utilice como producto de compra venta a los seres humanos.

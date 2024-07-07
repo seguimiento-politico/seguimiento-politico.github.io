@@ -1,6 +1,6 @@
 id: 6b031caa-1924-494f-9498-4f9feea55970
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 64
+parent_chapter: 3fb859a6-a66e-4c05-af2f-e5b0148fcd0e
+text: LUCHAREMOS CONTRA TODO TIPO DE DISCRIMINACIÓN, con nuevos protocolos educativos con el fin de que ningún menor sufra exclusión o humillación alguna. Además, impulsaremos cambios en el código penal y campañas de sensibilización en todos los estamentos de la sociedad, también entre los empleados públicos.
 categories: Derechos y servicios sociales
 topics: Igualdad
-text: LUCHAREMOS CONTRA TODO TIPO DE DISCRIMINACIÓN, con nuevos protocolos educativos con el fin de que ningún menor sufra exclusión o humillación alguna. Además, impulsaremos cambios en el código penal y campañas de sensibilización en todos los estamentos de la sociedad, también entre los empleados públicos.

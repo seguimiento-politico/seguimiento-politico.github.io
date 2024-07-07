@@ -1,6 +1,6 @@
 id: d1a1249b-bf4b-4666-ade9-8fe7ce6a5289
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 35
+parent_chapter: 34122573-31ef-498a-a75c-ec31076a25d2
+text: Abordaremos una reforma de la obtención de la nacionalidad por residencia, que incorpore una reducción de los plazos máximos establecidos actualmente, la revisión de los supuestos de renuncia a la nacionalidad anterior y la valoración de la trayectoria de integración, más allá del actual examen, como elemento preeminente a la hora de evaluar las condiciones del acceso. Asimismo, impulsaremos la firma de Acuerdos de doble nacionalidad.
 categories: Migración
 topics: Inmigración
-text: Abordaremos una reforma de la obtención de la nacionalidad por residencia, que incorpore una reducción de los plazos máximos establecidos actualmente, la revisión de los supuestos de renuncia a la nacionalidad anterior y la valoración de la trayectoria de integración, más allá del actual examen, como elemento preeminente a la hora de evaluar las condiciones del acceso. Asimismo, impulsaremos la firma de Acuerdos de doble nacionalidad.

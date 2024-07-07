@@ -1,10 +1,11 @@
 id: 00da7e49-2703-4497-b3ce-1a0fff6230b4
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 52
+parent_chapter: b2d30d31-839e-4c79-b8e2-fe59d97d9e6d
 text: Impulsaremos el desarrollo normativo de la Lengua de Signos.

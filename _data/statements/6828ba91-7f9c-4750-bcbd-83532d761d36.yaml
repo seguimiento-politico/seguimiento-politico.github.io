@@ -1,6 +1,6 @@
 id: 6828ba91-7f9c-4750-bcbd-83532d761d36
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 34
+parent_chapter: a507bf09-1837-436d-9255-f7223e1c8c0f
+children_promises:
+- 721d254e-2a3b-427d-86f2-00eab0d11b78
+- 08ed4a57-c757-4d1c-b478-5504e597a0eb
+children_statements: []
+title: Impulsaremos una reforma de las reglas fiscales europeas
 categories: Política internacional
 topics: Europa
-title: Impulsaremos una reforma de las reglas fiscales europeas
-has_children: true

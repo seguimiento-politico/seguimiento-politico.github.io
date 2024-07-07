@@ -1,7 +1,6 @@
 id: cddec481-8705-4a98-9e3a-46841a58daa5
 type: promise
-parent_statement: dc92e6f0-b8d9-4309-97c2-6618c8cfc06b
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Empresas y autónomos
-topics: Emprendimiento
+parent_statement: dc92e6f0-b8d9-4309-97c2-6618c8cfc06b
+parent_chapter: 9084fb76-14d5-4f08-b13b-74bd606de716
 text: Desarrollaremos todos los mecanismos e instrumentos de la Ley de Startups para situar a España como un referente en emprendimiento y facilitar la atracción de nuevas inversiones a sectores de futuro.
+categories: Empresas y autónomos

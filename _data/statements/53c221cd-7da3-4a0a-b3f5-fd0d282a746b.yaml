@@ -1,7 +1,6 @@
 id: 53c221cd-7da3-4a0a-b3f5-fd0d282a746b
 type: promise
-parent_statement: 19caccc5-91a8-42ad-b64e-b28272ade817
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 19caccc5-91a8-42ad-b64e-b28272ade817
+parent_chapter: b5417c2b-2bd9-455f-a227-1ac572dbd434
+text: Además, se instará al Ministerio Fiscal a cumplir con el mandato de la ley, dando cauce de participación a las personas y organizaciones cuyos derechos están amparados por la normativa internacional, la Convención europea sobre derechos humanos y el pacto internacional de derechos civiles y políticos y la propia Ley de Memoria Democrática.
 categories: Democracia
 topics: Memoria democrática
-text: Además, se instará al Ministerio Fiscal a cumplir con el mandato de la ley, dando cauce de participación a las personas y organizaciones cuyos derechos están amparados por la normativa internacional, la Convención europea sobre derechos humanos y el pacto internacional de derechos civiles y políticos y la propia Ley de Memoria Democrática.

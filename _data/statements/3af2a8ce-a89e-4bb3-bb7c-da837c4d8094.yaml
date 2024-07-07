@@ -1,7 +1,6 @@
 id: 3af2a8ce-a89e-4bb3-bb7c-da837c4d8094
 type: promise
-parent_statement: a35e47ed-60b4-4213-8995-10182ca0027e
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: a35e47ed-60b4-4213-8995-10182ca0027e
+parent_chapter: a507bf09-1837-436d-9255-f7223e1c8c0f
+text: Apoyaremos la candidatura de Madrid como sede de la nueva Agencia Europea contra el Blanqueo de Capitales.
 categories: Política internacional
 topics: Europa
-text: Apoyaremos la candidatura de Madrid como sede de la nueva Agencia Europea contra el Blanqueo de Capitales.

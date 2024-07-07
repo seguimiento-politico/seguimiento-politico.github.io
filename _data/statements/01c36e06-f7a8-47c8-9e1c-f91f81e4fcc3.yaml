@@ -1,7 +1,6 @@
 id: 01c36e06-f7a8-47c8-9e1c-f91f81e4fcc3
 type: promise
-parent_statement: 728a4a48-4508-412e-9b1b-c9ce0a8e0dd9
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 728a4a48-4508-412e-9b1b-c9ce0a8e0dd9
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+text: Se propondrá también crear una Vicepresidencia de Feminismos y Economía de los Cuidados para dirigir y coordinar estas reformas con el resto de las Administraciones y de agentes sociales, así como recuperar la Comisión Delegada de Igualdad.
 categories: Democracia
 topics: Igualdad
-text: Se propondrá también crear una Vicepresidencia de Feminismos y Economía de los Cuidados para dirigir y coordinar estas reformas con el resto de las Administraciones y de agentes sociales, así como recuperar la Comisión Delegada de Igualdad.

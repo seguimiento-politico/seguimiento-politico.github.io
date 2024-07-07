@@ -1,7 +1,6 @@
 id: 5dcc4f3f-efa9-4055-9de9-41801fc57967
 type: promise
-parent_statement: aa707de8-c5aa-496a-b7c6-a03d8217dbb5
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Trabajo
+parent_statement: aa707de8-c5aa-496a-b7c6-a03d8217dbb5
+parent_chapter: 2e87f7f8-d5a3-47a6-82d5-b25f36e88929
 text: El sistema de la Seguridad Social es el núcleo esencial de lo que, de un modo amplio, se denomina protección social. El texto constitucional explicitará que el sistema de la Seguridad Social es una función del Estado de la que está excluida toda operación de lucroprivado, así como que el sistema está basado en el principio solidario que impone un mecanismo financiero de reparto, una caja única, la consideración conjunta de las con tingencias y la redistribución de rentas de los que más a los que menos tienen.
+categories: Trabajo

@@ -1,6 +1,6 @@
 id: da169487-db76-4095-85e9-d1829f573781
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 58
-categories: Sanidad
+parent_chapter: befa4347-5ac5-4c3d-853b-7fc9b83921e6
 text: Incluiremos en la cartera de servicios las prestaciones relacionadas con la salud bucodental y oftalmológica. Del mismo modo, suprimiremos de la Sanidad Pública aquellas intervenciones quirúrgicas y hormonales ajenas a la salud (cambio de sexo, aborto, eutanasia, etc.), protegiendo especialmente a los menores de estas prácticas.
+categories: Sanidad

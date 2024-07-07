@@ -1,11 +1,12 @@
 id: 6f9a3561-d9bf-4616-acac-9be78fe3ba78
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 42
-categories: Sanidad
+parent_chapter: dcb6b10d-0b49-4143-9511-53be3f00f338
 text: Promoveremos la adecuación de las plantillas del Sistema Nacional de Salud a las necesidades actuales y a la previsión de bajas por jubilación. Se promoverán sistemas de evaluación objetivos y transparentes que reconozcan la excelencia en el desempeño profesional.
+categories: Sanidad

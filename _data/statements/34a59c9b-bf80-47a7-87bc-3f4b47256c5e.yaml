@@ -1,6 +1,6 @@
 id: 34a59c9b-bf80-47a7-87bc-3f4b47256c5e
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 42
+parent_chapter: 16366866-7ea4-45a3-a9c4-42b13446ff60
+text: Dignificar y bonificar la decisión de uno de los progenitores de dedicarse en exclusiva al cuidado y educación de los hijos.
 categories:
 - Familia
-text: Dignificar y bonificar la decisión de uno de los progenitores de dedicarse en exclusiva al cuidado y educación de los hijos.

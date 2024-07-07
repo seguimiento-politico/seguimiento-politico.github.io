@@ -1,6 +1,6 @@
 id: 37be063e-77e2-4cb3-9bfe-b85f8ac580f3
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 6
+parent_chapter: 73e0eb17-ca17-45e8-a4bd-217e9f7fe4bf
+text: Revisaremos los instrumentos financieros al servicio del sector productivo (ICO, CDTI, ENISA y otros) con el objeto de mejorar la eficacia de la Administración Pública para financiar e impulsar proyectos de transformación económica, en concreto aquellos relacionados con la transición ecológica y la reindustrialización, contribuyendo al desarrollo de proyectos industriales y empresariales.
 categories: Economía
 topics: Desarrollo sostenible
-text: Revisaremos los instrumentos financieros al servicio del sector productivo (ICO, CDTI, ENISA y otros) con el objeto de mejorar la eficacia de la Administración Pública para financiar e impulsar proyectos de transformación económica, en concreto aquellos relacionados con la transición ecológica y la reindustrialización, contribuyendo al desarrollo de proyectos industriales y empresariales.

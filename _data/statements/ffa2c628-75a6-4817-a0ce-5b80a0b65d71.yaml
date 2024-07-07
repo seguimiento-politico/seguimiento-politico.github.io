@@ -1,7 +1,6 @@
 id: ffa2c628-75a6-4817-a0ce-5b80a0b65d71
 type: promise
-parent_statement: daf5ab5c-a137-43ba-b15a-6a11f467d666
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: daf5ab5c-a137-43ba-b15a-6a11f467d666
+parent_chapter: 2d06e79f-d667-441b-b7cf-513970c6ccde
+text: De la misma manera, ante el previsible aumento de las catástrofes naturales ligadas a la emergencia climática en territorio nacional, impulsaremos un programa de capacitación climática tanto en la Unidad Militar de Emergencia como en los Servicios de Protección Civil, recomendando su extensión a las fuerzas y equipos de seguridad y emergencia de las comunidades autónomas.
 categories: Medioambiente
 topics: Biodiversidad
-text: De la misma manera, ante el previsible aumento de las catástrofes naturales ligadas a la emergencia climática en territorio nacional, impulsaremos un programa de capacitación climática tanto en la Unidad Militar de Emergencia como en los Servicios de Protección Civil, recomendando su extensión a las fuerzas y equipos de seguridad y emergencia de las comunidades autónomas.

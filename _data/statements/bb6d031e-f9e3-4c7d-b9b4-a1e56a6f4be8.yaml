@@ -1,6 +1,6 @@
 id: bb6d031e-f9e3-4c7d-b9b4-a1e56a6f4be8
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 239
+parent_chapter: 85b67bf7-7776-40c7-a9d5-e7428dc47683
+text: Vamos a destinar más agentes y medios para la lucha contra la violencia de género, y vamos a potenciar y a dotar de más instrumentos al sistema VioGén.
 categories: Seguridad y defensa
 topics: Violencia de género
-text: Vamos a destinar más agentes y medios para la lucha contra la violencia de género, y vamos a potenciar y a dotar de más instrumentos al sistema VioGén.

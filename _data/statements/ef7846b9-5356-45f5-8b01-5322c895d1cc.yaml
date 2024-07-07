@@ -1,7 +1,6 @@
 id: ef7846b9-5356-45f5-8b01-5322c895d1cc
 type: promise
-parent_statement: 9770f6a3-950b-44ce-85e7-99b4d0c4ecd5
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Deporte
+parent_statement: 9770f6a3-950b-44ce-85e7-99b4d0c4ecd5
+parent_chapter: 7cb07f90-2b71-46f2-af0b-2684ec9ab916
 text: Necesitamos medios de comunicación que contribuyan a la promoción de la cultura física, de estilos de vida activos y del multideporte; que muestren y potencien otras realidades deportivas y que se impliquen con la cultura física corporal como herramienta de mejora de la salud personal y el bienestar social.
+categories: Deporte

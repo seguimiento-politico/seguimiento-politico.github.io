@@ -1,6 +1,6 @@
 id: 49457821-2bba-4800-b5e0-ef9893921e72
-type: declaration
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+type: statement
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 14
+parent_chapter: b8550311-badb-44f7-aafe-46f10435e0b1
 text: Queremos avanzar hacia un empleo digno y unas pensiones justas, recuperando plenamente los derechos de trabajadores y pensionistas, requerirá de un amplio acuerdo parlamentario y de diálogo con los agentes sociales. Estamos decididos a seguir luchando contra la precariedad y a mejorar la capacidad adquisitiva de trabajadores y pensionistas, impulsando los cambios normativos necesarios, en la perspectiva de un nuevo Estatuto de los Trabajadores, así como de un acuerdo en el seno de la Comisión del Pacto de Toledo.

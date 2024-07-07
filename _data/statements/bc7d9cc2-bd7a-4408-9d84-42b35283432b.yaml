@@ -1,6 +1,6 @@
 id: bc7d9cc2-bd7a-4408-9d84-42b35283432b
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 12
+parent_chapter: 14cfe70b-f6b5-4003-88f7-02a877dec28f
 text: Establecer líneas de inversión prioritarias en otros elementos que apoyarán la implantación del coche eléctrico o de coches que funcionen con otras tecnologías alternativas a los combustibles fósiles. Motores, tecnología del hidrógeno, redes inteligentes, innovaciones sociales para favorecer la movilidad, etcétera

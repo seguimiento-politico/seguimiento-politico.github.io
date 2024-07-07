@@ -1,6 +1,6 @@
 id: 99143a7b-52c3-4290-969d-fc7dacd6c7c3
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 152
+parent_chapter: 3fad71c1-ef43-4174-89f5-52e6265e7163
+text: Atenderemos de manera especial a las y los menores huérfanos.
 categories: Democracia
 topics: Violencia de género
-text: Atenderemos de manera especial a las y los menores huérfanos.

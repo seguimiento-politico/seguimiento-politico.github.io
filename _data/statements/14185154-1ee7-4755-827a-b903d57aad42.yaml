@@ -1,6 +1,6 @@
 id: 14185154-1ee7-4755-827a-b903d57aad42
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 49
+parent_chapter: 493fd51c-7cfd-4b5e-bc63-efcefe3f24e6
 title: Crear un sello de calidad turística.
 text: Junto con las comunidades autónomas, crearemos un sello de reconocimiento de la calidad turística para los establecimientos que respeten los derechos laborales y cuiden su entorno Esta red de establecimientos, que se promocionará por diversos canales y se incluirá en una plataforma digital pública de servicios turísticos con sello de calidad, será la primera línea de visibilización de una red de turismo sostenible, de calidad y que apueste por la modernización, la desestacionalización y la descentralización de este sector

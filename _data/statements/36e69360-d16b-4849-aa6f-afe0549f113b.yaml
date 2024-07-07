@@ -1,6 +1,6 @@
 id: 36e69360-d16b-4849-aa6f-afe0549f113b
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_chapter: 62353710-63ba-4418-9448-041c80c8ee34
+text: 'Las y los socialistas somos firmes defensores del concepto de “seguridad humana”, aquella que garantiza la libertad y los derechos sin perder de vista las condiciones materiales que son causa de la inseguridad. Por ello, confiamos en una sociedad solidaria capaz de luchar contra la lacra de la trata de personas de forma que, sin caer en el populismo o en propuestas simplistas que sólo ponen en mayor riesgo las vidas de los más vulnerables, puedan dar una repuesta ordenada, al fenómeno de la migración irregular. Para ello:'
 categories: Migración
 topics: Inmigración
-text: 'Las y los socialistas somos firmes defensores del concepto de “seguridad humana”, aquella que garantiza la libertad y los derechos sin perder de vista las condiciones materiales que son causa de la inseguridad. Por ello, confiamos en una sociedad solidaria capaz de luchar contra la lacra de la trata de personas de forma que, sin caer en el populismo o en propuestas simplistas que sólo ponen en mayor riesgo las vidas de los más vulnerables, puedan dar una repuesta ordenada, al fenómeno de la migración irregular. Para ello:'

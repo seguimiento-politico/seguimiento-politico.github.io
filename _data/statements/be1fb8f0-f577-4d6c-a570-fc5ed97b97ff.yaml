@@ -1,6 +1,6 @@
 id: be1fb8f0-f577-4d6c-a570-fc5ed97b97ff
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,15 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 126
-categories: Justicia
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
+children_promises:
+- 60f06c73-e2cc-4d6e-ac65-ddb2d6370af6
+- d07676c3-d5ec-463c-9bcc-7e70d43d2983
+- e8854bbd-35e3-467a-8ca0-ee378232a09c
+- 2580f986-6058-4e55-82d4-98ffcaa6d2c4
+- 02f039fa-dc09-4640-a7a4-4b379c27464e
+- 78284ec1-2355-4cff-a466-07644e081c97
+children_statements:
+- 3fa641d6-6021-42c6-ba94-12723fb4033a
 title: Incorporaremos de manera integral la perspectiva de género interseccional y otras perspectivas que sirvan tanto para visibilizar como para reconocer las necesidades de colectivos marginalizados y luchar contra todo sesgo o discriminación en la carrera Fiscal y Judicial y el resto del personal judicial.
-has_children: true
+categories: Justicia

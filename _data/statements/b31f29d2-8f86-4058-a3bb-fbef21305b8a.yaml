@@ -1,11 +1,12 @@
 id: b31f29d2-8f86-4058-a3bb-fbef21305b8a
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 15
-categories: Nacionalismo y patriotismo
+parent_chapter: 1d70d4de-8db8-40af-98f3-72921bc2f7ab
 text: Prohibiremos el uso de la representación institucional de municipios en asociaciones que busquen alterar el orden constitucional.
+categories: Nacionalismo y patriotismo

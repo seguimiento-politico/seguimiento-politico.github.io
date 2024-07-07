@@ -1,0 +1,20 @@
+name: Política estratégica
+other:
+- &id001
+  id: e9e72bd1-199f-4852-8ae2-cf139e9c853a
+  parties:
+  - CIUDADANOS
+other_count: 1
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+statements_count: 1
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

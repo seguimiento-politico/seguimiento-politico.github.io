@@ -1,7 +1,6 @@
 id: 1a12e400-70bf-4e96-9d04-dcf562117472
-type: declaration
-parent_statement: d77054ca-dab2-4eb1-b4c2-069e1c2257c0
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -9,5 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 96
-categories: Política internacional
+parent_statement: d77054ca-dab2-4eb1-b4c2-069e1c2257c0
+parent_chapter: 65567664-6676-4d53-b234-fd4300e68287
 text: La lengua española es un patrimonio que compartimos más de 500 millones de personas en el mundo, sobre el que edificar sólidos vínculos políticos, culturales, económicos y sociales. La promoción, la defensa y el respeto al español y a la cultura e historia de España serán elementos esenciales de nuestra proyección exterior en cualquier ámbito geográfico o político.
+categories: Política internacional

@@ -1,7 +1,6 @@
 id: b259d470-e37a-47b4-af51-afefdd5f1a18
 type: promise
-parent_statement: 3fbfece9-e592-4c5d-afac-fa64649851e0
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: 3fbfece9-e592-4c5d-afac-fa64649851e0
+parent_chapter: 1e1d9fec-722c-4fe5-83c8-753b161e1073
+text: En el marco de las Conferencias Sectoriales de Turismo, promoveremos planes de dinamización y de colaboración que generen sinergias transformadoras y potenciadoras de nuevos productos turísticos entre comunidades autónomas.
 categories: Turismo
 topics: Desarrollo sostenible
-text: En el marco de las Conferencias Sectoriales de Turismo, promoveremos planes de dinamización y de colaboración que generen sinergias transformadoras y potenciadoras de nuevos productos turísticos entre comunidades autónomas.

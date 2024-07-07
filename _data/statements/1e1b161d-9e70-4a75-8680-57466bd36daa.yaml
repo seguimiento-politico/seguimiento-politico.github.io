@@ -1,6 +1,6 @@
 id: 1e1b161d-9e70-4a75-8680-57466bd36daa
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 20
-categories: Vivienda
+parent_chapter: aa035e42-2283-410b-bd01-f26776238f1a
 text: Protección a las personas hipotecadas. Impulsaremos nuevas medidas de carácter normativo que refuercen la protección de las personas hipotecadas, la transparencia de las condiciones de contratación y de sus implicaciones económicas y jurídicas.<br> El procedimiento de ejecución hipotecaria deberá garantizar todos los medios de defensa y de prueba para la protección del deudor hipotecario, de acuerdo con lo que establece la normativa europea.<br> Se impulsarán los mecanismos para la reestructuración viable de las deudas hipotecarias sobre la vivienda habitual de los deudores de buena fe en situación de vulnerabilidad. Se reforzará la coordinación entre los órganos judiciales y los servicios sociales en caso de ejecución hipotecaria para evitar las situaciones de desamparo y exclusión residencial.
+categories: Vivienda

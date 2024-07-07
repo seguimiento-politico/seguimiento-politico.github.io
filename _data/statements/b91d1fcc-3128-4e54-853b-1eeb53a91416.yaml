@@ -1,11 +1,12 @@
 id: b91d1fcc-3128-4e54-853b-1eeb53a91416
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 88
-categories: Seguridad y defensa
+parent_chapter: adfdbb68-8e6d-41fa-b953-fcd2789530ea
 text: Seguiremos apoyando con medios humanos y materiales a las unidades que luchan contra el tráfico de drogas, especialmente en las costas de Andalucía y Galicia.
+categories: Seguridad y defensa

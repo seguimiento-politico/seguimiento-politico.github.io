@@ -1,7 +1,6 @@
 id: 8a65373f-7270-49dd-a10c-b88bc1e5bf8f
 type: promise
-parent_statement: 203691e1-426b-487f-ae8b-895cc9e896b7
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 203691e1-426b-487f-ae8b-895cc9e896b7
+parent_chapter: ad039df8-ee0b-45eb-922e-f9f457f1a005
+text: 'Facilitaremos e impulsaremos la puesta en marcha de bancos públicos de tierras de alcance local, autonómico y estatal de manera coordinada con otras actuaciones para facilitar el relevo generacional y la instalación de jóvenes, mujeres y nuevas incorporaciones en las explotaciones agrarias: formación, acompañamiento y financiación de arranque, integración como agricultor activo entre los beneficiarios de la PAC.'
 categories: Agricultura
 topics: Desarrollo sostenible
-text: 'Facilitaremos e impulsaremos la puesta en marcha de bancos públicos de tierras de alcance local, autonómico y estatal de manera coordinada con otras actuaciones para facilitar el relevo generacional y la instalación de jóvenes, mujeres y nuevas incorporaciones en las explotaciones agrarias: formación, acompañamiento y financiación de arranque, integración como agricultor activo entre los beneficiarios de la PAC.'

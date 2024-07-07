@@ -1,6 +1,6 @@
 id: 43aafe31-18d2-4c9f-8e6e-99a56d343ed3
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 57
+parent_chapter: de18231f-ea27-483e-81a9-f51977d7f26c
 title: Regular los lobbies y hacer transparente su incidencia política.
 text: Cada vez que un lobby con intereses económicos se reúna con un cargo público o de un partido, altos cargos de la Administración, miembros del Gobierno, diputados o diputadas, senadores o senadoras o jueces y juezas de los altos tribunales, entre otros, la ciudadanía debe poder saberlo Para la democracia española, resulta preocupante la capacidad de influencia de determinados intereses privados organizados en torno a grupos de presión para incidir en las normas jurídicas y en las decisiones de los poderes públicos, incluido el manejo de sus recursos

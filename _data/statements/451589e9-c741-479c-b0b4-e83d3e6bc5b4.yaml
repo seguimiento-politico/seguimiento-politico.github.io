@@ -1,7 +1,6 @@
 id: 451589e9-c741-479c-b0b4-e83d3e6bc5b4
 type: promise
-parent_statement: 853f8eee-3070-4c54-a107-82c179fa928a
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 853f8eee-3070-4c54-a107-82c179fa928a
+parent_chapter: 66cf6219-da39-4941-aa1a-c1b88e89ed00
+text: 'Desarrollaremos normativas para la implementación de planes de transporte al trabajo: las empresas con más de quinientas (500) personas en plantilla financiarán de forma finalista y justificada las infraestructuras, los equipamientos y el coste del desplazamiento al centro de trabajo de sus plantillas.'
 categories: Transporte
 topics: Movilidad sostenible
-text: 'Desarrollaremos normativas para la implementación de planes de transporte al trabajo: las empresas con más de quinientas (500) personas en plantilla financiarán de forma finalista y justificada las infraestructuras, los equipamientos y el coste del desplazamiento al centro de trabajo de sus plantillas.'

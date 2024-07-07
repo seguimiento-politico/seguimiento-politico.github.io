@@ -1,6 +1,6 @@
 id: 4e6b84f7-5a3b-4e76-b3a3-3691605fc929
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 73
-categories: Medioambiente
+parent_chapter: 85ba981f-5588-4f5a-bd23-87684187301f
 text: Un compromiso sobre el terreno que, desde lo local, garantice la calidad de vida, para que el menú básico de servicios públicos esté disponible a no más de 30 minutos del lugar donde se viva.
+categories: Medioambiente

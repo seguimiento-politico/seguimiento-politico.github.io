@@ -1,6 +1,6 @@
 id: ae3d1162-3103-49a7-b87e-8cbd781cd24a
-type: declaration
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+type: statement
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 9
-categories: Trabajo
+parent_chapter: a34fa567-045d-4af8-adb5-b2a7ec58bb17
 text: Todos los trabajos son esenciales y todos los trabajadores españoles deben ser defendidos. Debemos proteger a los trabajadores de España y favorecer un marco para la creación de empleo, la movilidad social y el desarrollo personal y profesional que permita a los españoles acceder a empleos estables con salarios dignos, combatiendo la precariedad laboral y garantizando la conciliación.
+categories: Trabajo

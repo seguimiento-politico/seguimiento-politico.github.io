@@ -1,6 +1,6 @@
 id: 5fc4f428-c8a3-4009-aec0-7c8757627d06
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 39
-categories: Impuestos y financiación pública
+parent_chapter: adffd871-b28d-4061-bc87-6b0d1ee98ead
+children_promises:
+- 542ca2a6-cf00-4562-b62f-fc3452aacb7d
+- 390f9a5c-fa00-41c6-ba40-385f1e8c0117
+children_statements: []
 title: Continuaremos impulsando a nivel internacional el establecimiento de una tributación mínima suficiente en el Impuesto sobre Sociedades y una justa distribución de la recaudación entre los países en los que operan los grupos transnacionales.
-has_children: true
+categories: Impuestos y financiación pública

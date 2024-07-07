@@ -1,12 +1,13 @@
 id: 18e5d468-712c-4932-88ff-e21df4ccdb4b
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 26
+parent_chapter: a376d79e-bd30-4273-bfd7-dcba6c72b615
+text: Potenciaremos la atracción de talento a nuestro país, facilitando el acceso a visados y permisos de trabajo en España, avanzando en el marco de las medidas de fomento a la movilidad de la Ley de emprendedores de 2013, para profesionales altamente cualificados, investigadores, inversores, etc.
 categories:
 - Trabajo
-text: Potenciaremos la atracción de talento a nuestro país, facilitando el acceso a visados y permisos de trabajo en España, avanzando en el marco de las medidas de fomento a la movilidad de la Ley de emprendedores de 2013, para profesionales altamente cualificados, investigadores, inversores, etc.

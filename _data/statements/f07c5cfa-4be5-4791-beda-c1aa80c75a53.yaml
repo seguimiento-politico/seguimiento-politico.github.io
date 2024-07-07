@@ -1,6 +1,6 @@
 id: f07c5cfa-4be5-4791-beda-c1aa80c75a53
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 37
+parent_chapter: 3ef7238c-e72c-452a-b049-22b69433aaad
+text: Promoveremos el acceso de la juventud a las actividades agrarias y ganaderas para facilitar el relevo generacional en las explotaciones e implementaremos planes especiales de empleo en zonas que cuenten con una situación estructural de baja tasa de empleo y que sufran especialmente por el vaciamiento poblacional.
 categories: Derechos y servicios sociales
 topics: Juventud
-text: Promoveremos el acceso de la juventud a las actividades agrarias y ganaderas para facilitar el relevo generacional en las explotaciones e implementaremos planes especiales de empleo en zonas que cuenten con una situación estructural de baja tasa de empleo y que sufran especialmente por el vaciamiento poblacional.

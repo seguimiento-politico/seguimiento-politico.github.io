@@ -1,6 +1,6 @@
 id: 59645b37-541c-47ec-b4fb-793982ee16c6
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,10 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 75
+parent_chapter: 361dd186-a1f2-4f3b-ae13-0ff44f00ef4d
+text: 'Las energías renovables son nuestra mejor herramienta para para reducir la factura energética, además de nuestra mayor ventaja competitiva como país. No solo generan energía, también generan nuevas oportunidades industriales y puestos de trabajo cualificados. Aprovecharemos el liderazgo español en transición energética para seguir impulsando una auténtica agenda de reindustrialización: apoyándonos en la competitividad generada por las renovables y los bajos costes de la energía que generan y respondiendo a nuevas exigencias que nos permitirán ser líderes en ámbitos punteros y de creciente demanda como el acero verde.'
 categories:
 - Energía
 topics:
 - Energías renovables
 - Reindustrialización
 - Desarrollo sostenible
-text: 'Las energías renovables son nuestra mejor herramienta para para reducir la factura energética, además de nuestra mayor ventaja competitiva como país. No solo generan energía, también generan nuevas oportunidades industriales y puestos de trabajo cualificados. Aprovecharemos el liderazgo español en transición energética para seguir impulsando una auténtica agenda de reindustrialización: apoyándonos en la competitividad generada por las renovables y los bajos costes de la energía que generan y respondiendo a nuevas exigencias que nos permitirán ser líderes en ámbitos punteros y de creciente demanda como el acero verde.'

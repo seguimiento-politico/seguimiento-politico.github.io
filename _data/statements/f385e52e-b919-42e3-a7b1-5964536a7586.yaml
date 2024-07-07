@@ -1,7 +1,6 @@
 id: f385e52e-b919-42e3-a7b1-5964536a7586
 type: promise
-parent_statement: a2973d58-1759-48fa-8a6e-2ddd1e4e9dac
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Justicia
+parent_statement: a2973d58-1759-48fa-8a6e-2ddd1e4e9dac
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
 text: Se invertirá en una mayor remuneración para la asistencia jurídica gratuita con el objetivo de dignificar y compensar el servicio público prestado por abogadas y abogados.
+categories: Justicia

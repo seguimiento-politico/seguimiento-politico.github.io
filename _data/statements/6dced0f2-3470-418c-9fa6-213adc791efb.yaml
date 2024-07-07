@@ -1,6 +1,6 @@
 id: 6dced0f2-3470-418c-9fa6-213adc791efb
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 30
-categories: Empresas y autónomos
+parent_chapter: 9084fb76-14d5-4f08-b13b-74bd606de716
+children_promises:
+- 6bae0def-032c-41f6-a5bd-6be82fd3be80
+- b4ecbce7-0456-4ead-9e81-c9f5b9c5c2e4
+children_statements: []
 title: Concentraremos los esfuerzos en el mejor desarrollo y aplicación de las reformas estructurales y en la reducción de las cargas administrativas.
-has_children: true
+categories: Empresas y autónomos

@@ -1,7 +1,6 @@
 id: 97218408-3916-49ce-816f-2b6cb84deb7b
 type: promise
-parent_statement: 2daed85c-595d-4151-b9fc-b084ebb1124e
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 2daed85c-595d-4151-b9fc-b084ebb1124e
+parent_chapter: c794cb24-1c55-422f-8b6d-1ff29ad1ed87
+text: Promoveremos que la última palabra sobre las trayectorias de deuda y déficit corresponda al Consejo Europeo y al Parlamento Europeo, y no a la Comisión Europea, para garantizar así la legitimidad democrática de las decisiones en materia de coordinación de políticas económicas.
 categories: Política internacional
 topics: Europa
-text: Promoveremos que la última palabra sobre las trayectorias de deuda y déficit corresponda al Consejo Europeo y al Parlamento Europeo, y no a la Comisión Europea, para garantizar así la legitimidad democrática de las decisiones en materia de coordinación de políticas económicas.

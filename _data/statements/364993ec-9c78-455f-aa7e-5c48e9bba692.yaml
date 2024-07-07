@@ -1,7 +1,6 @@
 id: 364993ec-9c78-455f-aa7e-5c48e9bba692
 type: promise
-parent_statement: d83be751-0f19-41f3-bb1d-74df447cfef4
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,8 +8,10 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: d83be751-0f19-41f3-bb1d-74df447cfef4
+parent_chapter: 2fd23be2-e41d-4c13-aa3d-11392bf2ab12
+text: Se obligará a implementar contratos-programa plurianuales destinados a la financiación por objetivos que complementen la financiación básica para el funcionamiento de las universidades.
 categories: Educación
 topics:
 - Financiacíón
 - Gobernanza y transparencia
-text: Se obligará a implementar contratos-programa plurianuales destinados a la financiación por objetivos que complementen la financiación básica para el funcionamiento de las universidades.

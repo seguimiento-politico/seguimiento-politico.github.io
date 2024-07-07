@@ -1,7 +1,6 @@
 id: 145ea63c-07dd-48b1-8414-709d5552f20e
 type: promise
-parent_statement: e64d437e-d935-4765-a245-7d4db387d30f
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,6 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 152
+parent_statement: e64d437e-d935-4765-a245-7d4db387d30f
+parent_chapter: 3fad71c1-ef43-4174-89f5-52e6265e7163
+text: Creación de las Unidades de Valoración Forense y de Juzgados especializados en Violencia contra la Mujer en todo el territorio nacional para fortalecer el sistema de respuesta judicial a las mujeres víctimas.
 categories: Democracia
 topics: Violencia de género
-text: Creación de las Unidades de Valoración Forense y de Juzgados especializados en Violencia contra la Mujer en todo el territorio nacional para fortalecer el sistema de respuesta judicial a las mujeres víctimas.

@@ -1,0 +1,19 @@
+id: dcb98255-0ace-4037-ba44-fe3e7bb82d3d
+type: promise
+parent_document: a613c4b6-f9dc-4926-8b9a-b87c233e5a75
+parties:
+- VOX
+election_type: europeas
+election_date: '2024-06-09'
+publication_date: '2024-05-30'
+page: 16
+text: Reformar el sistema de asilo para evitar los abusos y respetar el principio de no-devolución de la Convención de Ginebra, favoreciendo la integración regional de los asilados. Los acuerdos con terceros países deben facilitar la integración regional de los asilados. El derecho a asilo no implica necesariamente vivir en Europa; es más lógico integrarse en países seguros de la misma región.
+topics:
+- name: Derecho de asilo
+  status_quo_negative:
+  - text: El derecho a asilo no implica necesariamente vivir en Europa; es más lógico integrarse en países seguros de la misma región.
+  proposed_actions:
+  - text: Reformar el sistema de asilo para evitar los abusos y respetar el principio de no-devolución de la Convención de Ginebra
+  - text: favorecer el asilo en países seguros de la misma región de procedencia en vez de en la UE
+    literal: false
+  - text: acuerdos con terceros países deben facilitar la integración regional de los asilados

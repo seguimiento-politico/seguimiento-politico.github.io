@@ -1,7 +1,6 @@
 id: 31498606-a3f7-4113-af37-5079ab58197a
 type: promise
-parent_statement: 7edfaa52-05b7-473a-9deb-b99519a4db16
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 7edfaa52-05b7-473a-9deb-b99519a4db16
+parent_chapter: 0954599d-af78-4370-9f76-a716d889661d
+text: Pondremos en marcha una estrategia integral para aumentar la productividad, con más recursos públicos y sobre todo privados, de I+D+i hasta alcanzar el 2,1% del PIB. Potenciando así las activi8dades industriales y los servicios de mayor valor añadido, con empresas de mayor tamaño que se integren en las fases de mayor generación de valor en las cadenas globales de producción. Se fomentará la formación permanente de todas las personas en la estructura de las empresas, así como una mayor vinculación con la Universidad y con los demás centros de investigación y conocimiento de nuestro país. Se apuesta así por la permanencia, por la estabilidad laboral y por carreras profesionales más largas vinculadas al proyecto empresarial.
 categories: Economía
 topics: Productividad
-text: Pondremos en marcha una estrategia integral para aumentar la productividad, con más recursos públicos y sobre todo privados, de I+D+i hasta alcanzar el 2,1% del PIB. Potenciando así las activi8dades industriales y los servicios de mayor valor añadido, con empresas de mayor tamaño que se integren en las fases de mayor generación de valor en las cadenas globales de producción. Se fomentará la formación permanente de todas las personas en la estructura de las empresas, así como una mayor vinculación con la Universidad y con los demás centros de investigación y conocimiento de nuestro país. Se apuesta así por la permanencia, por la estabilidad laboral y por carreras profesionales más largas vinculadas al proyecto empresarial.

@@ -1,6 +1,6 @@
 id: b4029a52-b748-49e1-9c35-2b5b1603b859
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 172
-categories: Derechos y servicios sociales
+parent_chapter: 5f57ba4e-d577-41a4-b2d9-7ff1612f735d
+children_promises:
+- cefe4a34-1847-4211-acf8-34da0bac8b65
+children_statements: []
 text: Abordaremos decididamente el grave problema social del suicidio cuya incidencia no deja de aumentar. Fomentaremos una cultura de la vida y del cuidado y atenderemos a las causas del suicidio para ponerles remedio. Para ello, impulsaremos la elaboración de un informe sobre el suicidio para profundizar en sus causas, y garantizar el mejor acompañamiento sanitario, psicológico y social a las personas que se encuentran en una situación límite de salud mental, prestando especial atención a las personas que cometen tentativa de suicidio o lesiones autoinfligidas y a sus familiares.
-has_children: true
+categories: Derechos y servicios sociales

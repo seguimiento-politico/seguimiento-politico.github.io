@@ -1,7 +1,6 @@
 id: 766c8117-cc0c-422a-8e0d-94754ec89ea5
 type: promise
-parent_statement: 1012d7d2-4d00-4a88-9846-143a9c47402e
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Sanidad
+parent_statement: 1012d7d2-4d00-4a88-9846-143a9c47402e
+parent_chapter: 17e4c412-8ac4-4992-848a-422903075ee3
 text: Se garantizará la independencia del sistema sanitario de la industria farmacéutica, tanto en los aspectos relacionados con la formación como con la investigación, potenciando el papel de la Agencia de Evaluación de Medicamentos y Productos Sanitarios.
+categories: Sanidad

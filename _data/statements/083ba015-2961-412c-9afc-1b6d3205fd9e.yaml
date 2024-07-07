@@ -1,6 +1,6 @@
 id: 083ba015-2961-412c-9afc-1b6d3205fd9e
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 141
+parent_chapter: 5732e731-e59a-4bf7-9c33-280819845d40
+text: España no puede renunciar a ser el epicentro de esta comunidad fraterna de naciones libres y soberanas que conforman la Iberosfera. Nada de lo que ocurra en sus países integrantes puede ser distante o extraño para España. Necesitamos un giro en la política exterior española que haga frente a este avance totalitario de la extrema izquierda y que lidere una respuesta internacional contundente.
 categories:
 - Política internacional
-text: España no puede renunciar a ser el epicentro de esta comunidad fraterna de naciones libres y soberanas que conforman la Iberosfera. Nada de lo que ocurra en sus países integrantes puede ser distante o extraño para España. Necesitamos un giro en la política exterior española que haga frente a este avance totalitario de la extrema izquierda y que lidere una respuesta internacional contundente.

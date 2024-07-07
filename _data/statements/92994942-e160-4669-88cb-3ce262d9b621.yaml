@@ -1,13 +1,20 @@
 id: 92994942-e160-4669-88cb-3ce262d9b621
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 56
+parent_chapter: 3e3d9e00-f82c-4af6-a3f8-4dc153933036
+children_promises:
+- a75cd754-e687-4614-a549-2e15b552cb2c
+- 65d88732-fb70-426c-b267-ae91b385ada6
+- be018607-dd43-4965-9431-8dc0aede915b
+- 351f2e90-ac18-41d8-a445-87f633ceefde
+- be0d1f29-020e-4fe8-934c-4e9b0ef4a54b
+children_statements: []
+text: 'Mejoraremos la coordinación entre las distintas instituciones y administraciones implicadas en la lucha contra la violencia de género:'
 categories: Seguridad y defensa
 topics: Violencia de género
-text: 'Mejoraremos la coordinación entre las distintas instituciones y administraciones implicadas en la lucha contra la violencia de género:'
-has_children: true

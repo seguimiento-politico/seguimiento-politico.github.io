@@ -1,6 +1,6 @@
 id: ee2b947d-01ff-4259-af49-d1a91df4c15c
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 264
+parent_chapter: 79744ba7-ffbb-40f2-b730-179f4a4aec89
+text: Conscientes de la importancia de reforzar la gobernabilidad y la democracia desde el fortalecimiento institucional, trabajaremos con nuestros socios en el programa de Fortalecimiento de la Democracia en América Latina lanzado para apoyar instituciones, colectivos y mecanismos de refuerzo de las democracias.
 categories: Política internacional
 topics: América latina
-text: Conscientes de la importancia de reforzar la gobernabilidad y la democracia desde el fortalecimiento institucional, trabajaremos con nuestros socios en el programa de Fortalecimiento de la Democracia en América Latina lanzado para apoyar instituciones, colectivos y mecanismos de refuerzo de las democracias.

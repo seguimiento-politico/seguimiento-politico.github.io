@@ -1,6 +1,6 @@
 id: db68fee6-4890-4a78-9323-a3d0e1fa5764
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 102
+parent_chapter: 4b1a1fd6-83f2-4e8c-a775-7e65f72f50be
 title: Fin de la estafa de los 902.
 text: Desterraremos la práctica de derivar a la gente a números de tarificación añadida, como los 902 y similares Las empresas deberán disponer de un número de teléfono fijo de tarificación normal para la atención al cliente Estos teléfonos serán accesibles para personas con diversidad intelectual o de edad avanzada

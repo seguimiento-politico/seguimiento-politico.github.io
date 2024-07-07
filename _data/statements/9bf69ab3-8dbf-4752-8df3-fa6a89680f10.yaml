@@ -1,7 +1,6 @@
 id: 9bf69ab3-8dbf-4752-8df3-fa6a89680f10
 type: promise
-parent_statement: 9ee370ee-9dbd-448d-a5b0-ef5db0b7e4c6
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Trabajo
+parent_statement: 9ee370ee-9dbd-448d-a5b0-ef5db0b7e4c6
+parent_chapter: 89ad30e0-548c-47cd-a92a-62d44e2dbb0f
 text: Protección frente a las deslocalizaciones. La creciente globalización propicia también otros fenómenos (como la deslocalización de empresas) que tienen consecuencias negativas sobre el tejido productivo y el mercado de trabajo. Estas deslocalizaciones persiguen una reducción de los costes empresariales mediante el traslado de ciertas actividades productivas, con frecuencia in tensivas en mano de obra, hacia terceros países que cuentan con sistemas regulatorios débiles en materia fiscal, de seguridad industrial o laboral, o donde la supervisión de su cumplimiento efectivo es laxa. Las empresas que decidan el traslado de su actividad industrial, productiva o de negocio a territorios que no formen parte de los Estados miembros de la Unión Europea o de los Estados sig natarios del Acuerdo sobre el Espacio Económico Europeo no podrán adoptar medidas de despido colectivo, modificación sustancial de las condiciones de trabajo o inaplicación de condiciones de trabajo previstas en convenio; en caso de utilización de medidas individuales, deberán reintegrar las ayudas recibidas y serán penalizadas en el acceso a la contratación pública.
+categories: Trabajo

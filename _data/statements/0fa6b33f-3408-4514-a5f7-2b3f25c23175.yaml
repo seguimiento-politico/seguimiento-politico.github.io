@@ -1,6 +1,6 @@
 id: 0fa6b33f-3408-4514-a5f7-2b3f25c23175
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 63
+parent_chapter: d0ca92d6-a651-4e64-8fa2-2354747b0fd1
+text: REFORMAREMOS LA LEY ORGÁNICA DEL PODER JUDICIAL para atribuir la competencia a los Juzgados de Violencia Sobre la Mujer de todos los delitos comprendidos en el ámbito de aplicación del Convenio de Estambul. Dicho Convenio servirá de orientación de todos los avances en la lucha contra la violencia de género.
 categories: Seguridad y defensa
 topics: Violencia de género
-text: REFORMAREMOS LA LEY ORGÁNICA DEL PODER JUDICIAL para atribuir la competencia a los Juzgados de Violencia Sobre la Mujer de todos los delitos comprendidos en el ámbito de aplicación del Convenio de Estambul. Dicho Convenio servirá de orientación de todos los avances en la lucha contra la violencia de género.

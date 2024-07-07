@@ -1,6 +1,6 @@
 id: 8f3ecacc-35fb-478a-85e7-0f6057508d35
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 31
+parent_chapter: 17196e02-8167-47c1-85ab-7e5f65277435
+text: Extenderemos a los menores de 18 con discapacidad las exenciones de copago previstas en la normativa actual.
 categories: Derechos y servicios sociales
 topics: Discapacidad
-text: Extenderemos a los menores de 18 con discapacidad las exenciones de copago previstas en la normativa actual.

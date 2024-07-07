@@ -1,6 +1,6 @@
 id: 4e9976b5-6add-4c24-ad40-aeb28df81679
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 30
-categories: Consumo
+parent_chapter: e574f1f9-7f0c-4cdd-a7a0-9af3b6640de0
 text: Mejoraremos la protección de los consumidores y usuarios mediante la regulación de la figura del consumidor vulnerable con especial atención a colectivos específicos como la infancia, y fomentaremos el consumo responsable, regulando la obsolescencia programada, con el fin de prolongar la vida útil de los productos, la capacidad de reparación, la existencia de piezas de repuesto y la capacidad de actualización.
+categories: Consumo

@@ -1,6 +1,6 @@
 id: e70db245-2a53-429a-bee2-5026732c4079
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,19 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 16
-categories: Impuestos y financiación pública
+parent_chapter: bc87da00-c24a-4c2f-8e57-ef8fee857d81
+children_promises:
+- 46ce323c-358d-48e1-a711-1a4c4ca5d623
+- aeed83fa-2d2c-456e-8fa1-d330aff57f20
+- 0798b812-93dd-4f94-80b5-b84bef367b9f
+- 1357d40b-59d1-4a8f-90fb-2d947377d89b
+- e3e4a814-ad38-4839-9879-b8541139eafe
+- fe06022b-cf3d-48cc-9d20-8389b74e4341
+- 5cfd04fe-e6b0-44c1-a05d-eb514003e5eb
+- b06561b5-b5b8-4c4c-88ba-24ea94929e05
+- 72efd0d2-dfe3-4dd0-9a3b-52d10798f97c
+- 14a19fd4-6dad-40a8-b2c6-2437d5939601
+children_statements:
+- 206c6719-cbdb-4281-85b7-32045a547bc6
 title: Una fiscalidad justa que impulse mejores políticas públicas
-has_children: true
+categories: Impuestos y financiación pública

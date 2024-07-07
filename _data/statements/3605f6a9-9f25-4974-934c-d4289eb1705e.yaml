@@ -1,6 +1,6 @@
 id: 3605f6a9-9f25-4974-934c-d4289eb1705e
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 90
-categories: Administración pública
+parent_chapter: 49db7900-6ee8-4eec-b2ec-69a5f1e16407
 text: DESARROLLAREMOS Y FOMENTAREMOS LA DIGITALIZACIÓN DE LA ADMINISTRACIÓN PÚBLICA, especialmente en el ámbito de los servicios de empleo, fomentando su automatización para acortar los tiempos de tramitación y pago y reducir la carga burocrática para los beneficiarios. Garantizaremos los derechos individuales mediante la transparencia de los algoritmos públicos. Fomentaremos la formación continuada en nuevas tecnologías.
+categories: Administración pública

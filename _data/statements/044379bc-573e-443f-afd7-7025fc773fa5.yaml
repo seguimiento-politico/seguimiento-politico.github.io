@@ -1,6 +1,6 @@
 id: 044379bc-573e-443f-afd7-7025fc773fa5
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 43
+parent_chapter: 9b9406d4-64ea-4dc6-9ef5-d29e2f089e3e
+text: Aumentaremos la inversión pública en I+D+i y estimularemos la inversión privada, de manera que la inversión total llegue al 2% del PIB al final de la legislatura, aumentando el peso de las partidas destinadas a inversión directa, garantizando una planificación plurianual de la financiación a través de la Agencia Estatal de Investigación.
 categories: Ciencia y tecnología
 topics: I+D+i
-text: Aumentaremos la inversión pública en I+D+i y estimularemos la inversión privada, de manera que la inversión total llegue al 2% del PIB al final de la legislatura, aumentando el peso de las partidas destinadas a inversión directa, garantizando una planificación plurianual de la financiación a través de la Agencia Estatal de Investigación.

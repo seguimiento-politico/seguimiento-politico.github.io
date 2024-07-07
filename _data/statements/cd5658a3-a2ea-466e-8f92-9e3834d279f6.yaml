@@ -1,6 +1,6 @@
 id: cd5658a3-a2ea-466e-8f92-9e3834d279f6
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 108
+parent_chapter: 8a474e92-a922-4e8e-9aca-16ac157ca40a
+text: Derogación de la Ley de cambio climático que impide que exploremos nuestros recursos, carga sobre los hombros de los españoles el peso de la transición ecológica en forma de “impuestos verdes” y criminaliza a nuestros trabajadores y agricultores.
 categories:
 - Medioambiente
-text: Derogación de la Ley de cambio climático que impide que exploremos nuestros recursos, carga sobre los hombros de los españoles el peso de la transición ecológica en forma de “impuestos verdes” y criminaliza a nuestros trabajadores y agricultores.

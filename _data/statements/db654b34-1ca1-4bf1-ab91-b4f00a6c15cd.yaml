@@ -1,6 +1,6 @@
 id: db654b34-1ca1-4bf1-ab91-b4f00a6c15cd
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 133
+parent_chapter: a6f69436-abc0-4e1b-bbac-a22624f69fc8
+text: Estableceremos a la juventud como uno de los pilares de las políticas de cooperación al desarrollo. Fomentando su participación en programas de cooperación y acceso a organismos multilaterales y la creación de redes juveniles a nivel internacional.
 categories: Democracia
 topics: Participación ciudadana
-text: Estableceremos a la juventud como uno de los pilares de las políticas de cooperación al desarrollo. Fomentando su participación en programas de cooperación y acceso a organismos multilaterales y la creación de redes juveniles a nivel internacional.

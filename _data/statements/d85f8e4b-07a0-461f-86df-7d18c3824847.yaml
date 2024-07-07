@@ -1,7 +1,6 @@
 id: d85f8e4b-07a0-461f-86df-7d18c3824847
 type: promise
-parent_statement: e7349a00-b099-4573-9dc4-bfb7debb30ca
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Sanidad
+parent_statement: e7349a00-b099-4573-9dc4-bfb7debb30ca
+parent_chapter: 17e4c412-8ac4-4992-848a-422903075ee3
 text: Se pondrá en marcha una estrategia estatal de cero contenciones, dirigida a conseguir que las prácticas coercitivas en los centros sanitarios y entornos penitenciarios sean realmente excepcionales y siempre ateniéndose a unas causas y a través de unos procedimientos previamente protocolizados.
+categories: Sanidad

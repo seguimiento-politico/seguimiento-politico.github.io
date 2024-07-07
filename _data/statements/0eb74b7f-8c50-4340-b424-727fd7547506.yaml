@@ -1,6 +1,6 @@
 id: 0eb74b7f-8c50-4340-b424-727fd7547506
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 13
+parent_chapter: 80f33f13-c365-4098-ac18-6210795cdb15
+children_promises:
+- d1144065-7478-4fc3-a685-b711e5f6b266
+children_statements: []
+title: Liberalizar el suelo
 categories:
 - Economía
-title: Liberalizar el suelo
-has_children: true

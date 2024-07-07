@@ -1,6 +1,6 @@
 id: ca1735c1-0097-4c62-be95-a9709a1bd797
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 16
+parent_chapter: 14cfe70b-f6b5-4003-88f7-02a877dec28f
 title: Atajar la contaminación del aire, que está acortando nuestra vida.
 text: Extender el modelo de éxito de Madrid Central a otras ciudades con problemas de contaminación, en colaboración con las Administraciones competentes y apoyando un modelo de calidad y asequible del transporte público, la bicicleta y nuevas formas de movilidad, así como las medidas necesarias para evitar cualquier discriminación por razones económicas en los derechos a la movilidad También es necesario poner en marcha un Plan Nacional de Salud y Medio Ambiente que aborde los crecientes impactos sobre la salud de los cambios ambientales consecuencia de la crisis ecológica, como la contaminación urbana y la persistencia bioacumulativa de sustancias tóxicas

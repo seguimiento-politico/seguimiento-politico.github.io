@@ -7,7 +7,7 @@ config:
     lang: es
     group_by: legislature   
 scope: national # internationa, national, regional or local
-country: spain # if scope is "international" then instead of "country:" use "organization:"
+country: spain # if scope is "supranational" then instead of "country:" use "organization:"
 institution: corona
 context:
     name: "La Corona: Felipe VI"

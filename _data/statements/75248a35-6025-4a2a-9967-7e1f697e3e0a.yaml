@@ -1,7 +1,6 @@
 id: 75248a35-6025-4a2a-9967-7e1f697e3e0a
 type: promise
-parent_statement: 22ed3cc7-65db-46c7-a5bb-d8d10bb72c40
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 22ed3cc7-65db-46c7-a5bb-d8d10bb72c40
+parent_chapter: 9630c4a7-13c3-4dfb-9c7c-bcafe81c5dc1
+text: Extenderemos el derecho de libertad sindical a los miembros de la Guardia Civil. La existencia de un doble estatuto (policial y militar) de los miembros de la Guardia Civil ha provocado una situa ción de discriminación injustificada en relación con el resto de las Fuerzas y Cuerpos de Seguridad, que sí tienen reconocido el derecho de libertad sindical. Solo si se les garantiza el derecho de liber tad sindical, los miembros de la Guardia Civil podrán defender adecuadamente sus legítimos intere ses profesionales y laborales de una manera real y efectiva.
 categories: Trabajo
 topics: Colectivos
-text: Extenderemos el derecho de libertad sindical a los miembros de la Guardia Civil. La existencia de un doble estatuto (policial y militar) de los miembros de la Guardia Civil ha provocado una situa ción de discriminación injustificada en relación con el resto de las Fuerzas y Cuerpos de Seguridad, que sí tienen reconocido el derecho de libertad sindical. Solo si se les garantiza el derecho de liber tad sindical, los miembros de la Guardia Civil podrán defender adecuadamente sus legítimos intere ses profesionales y laborales de una manera real y efectiva.

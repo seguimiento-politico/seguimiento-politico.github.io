@@ -1,6 +1,6 @@
 id: c7d92377-2e33-4ed5-859d-bf0f8e7f7ec9
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 110
+parent_chapter: f91bc08f-3d6b-4f78-a00a-810f7184cf6a
 text: Hacer el impuesto sobre sucesiones y donaciones más justo, en colaboración con las comunidades autónomas, de forma que sea más progresivo y que las personas herederas con menor patrimonio preexistente y mayor grado de consanguineidad tengan cuotas reducidas También introduciremos, en estos casos, facilidades de pago, como fraccionamientos o dación en pago de bienes hipotecados Al mismo tiempo, armonizaremos este impuesto a escala estatal a partir de un mínimo de tributación para evitar la competencia fiscal entre territorios.

@@ -1,7 +1,6 @@
 id: 1b5bbafb-a934-4ce3-a04e-40f2e28138fb
-type: declaration
-parent_statement: fcb75fb1-6409-4142-b972-e7b249ce91c2
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,6 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 168
+parent_statement: fcb75fb1-6409-4142-b972-e7b249ce91c2
+parent_chapter: e207a6bf-9c54-4399-a574-f130ae590b63
+text: Igualdad entre mujeres y hombres. Por vez primera, se hace explícito el objetivo de reducción de la brecha de género en el sistema de pensiones. Ello se traduce, más allá de las actuaciones para la eliminación de la brecha salarial, en la adopción de medidas dirigidas específicamente a corregir la injusta desigualdad existente entre las pensiones de las mujeres frente a las de los hombres.
 categories: Derechos y servicios sociales
 topics: Pensiones
-text: Igualdad entre mujeres y hombres. Por vez primera, se hace explícito el objetivo de reducción de la brecha de género en el sistema de pensiones. Ello se traduce, más allá de las actuaciones para la eliminación de la brecha salarial, en la adopción de medidas dirigidas específicamente a corregir la injusta desigualdad existente entre las pensiones de las mujeres frente a las de los hombres.

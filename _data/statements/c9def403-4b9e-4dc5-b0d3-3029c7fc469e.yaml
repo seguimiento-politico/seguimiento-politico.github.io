@@ -1,6 +1,6 @@
 id: c9def403-4b9e-4dc5-b0d3-3029c7fc469e
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 117
+parent_chapter: d59fe7bc-7318-4c18-a232-113ef256f4dd
+children_promises:
+- 8a12c360-882e-4912-bb4e-78ba0b9408c4
+- e5acce0f-d712-40fb-8820-f9df0b09d826
+children_statements:
+- f8f30ca0-f884-4d43-91e2-056eee5d5576
+title: 'Fortalecimiento de la sociedad civil: la comunidad frente al individualismo.'
 categories: Democracia
 topics: Participación ciudadana
-title: 'Fortalecimiento de la sociedad civil: la comunidad frente al individualismo.'
-has_children: true

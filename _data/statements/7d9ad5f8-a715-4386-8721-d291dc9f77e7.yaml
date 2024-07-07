@@ -1,7 +1,6 @@
 id: 7d9ad5f8-a715-4386-8721-d291dc9f77e7
 type: promise
-parent_statement: 063c3234-6ef1-40c7-92ab-19f5745ca418
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 063c3234-6ef1-40c7-92ab-19f5745ca418
+parent_chapter: 1c9b9596-90be-4e2a-b1e4-9d37f55ff261
+text: Trabajo autónomo con garantías y valor reconocido, con prestaciones sociales adecuadas (jubilación, subsidio para mayores de 52 años, cese de actividad, con especial atención al cese por causas económicas, etcétera), con una fiscalidad que permita alcanzar un modelo de tributación más equitativo; con derechos formativos adaptados a sus necesidades; con derechos de concilia ción; con ayudas específicas para el establecimiento y el desarrollo de su actividad en entornos con riesgo de despoblación o con población envejecida; con medidas de orientación, acompañamiento y apoyo económico para impulsar iniciativas, en sectores emergentes y de energías renovables, la información y la comunicación, así como en la recuperación de oficios y servicios de proximidad.
 categories: Trabajo
 topics: Autónomos
-text: Trabajo autónomo con garantías y valor reconocido, con prestaciones sociales adecuadas (jubilación, subsidio para mayores de 52 años, cese de actividad, con especial atención al cese por causas económicas, etcétera), con una fiscalidad que permita alcanzar un modelo de tributación más equitativo; con derechos formativos adaptados a sus necesidades; con derechos de concilia ción; con ayudas específicas para el establecimiento y el desarrollo de su actividad en entornos con riesgo de despoblación o con población envejecida; con medidas de orientación, acompañamiento y apoyo económico para impulsar iniciativas, en sectores emergentes y de energías renovables, la información y la comunicación, así como en la recuperación de oficios y servicios de proximidad.

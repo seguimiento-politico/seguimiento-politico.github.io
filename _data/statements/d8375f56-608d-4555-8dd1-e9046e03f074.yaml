@@ -1,6 +1,6 @@
 id: d8375f56-608d-4555-8dd1-e9046e03f074
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 49
+parent_chapter: 493fd51c-7cfd-4b5e-bc63-efcefe3f24e6
 title: Cláusulas sociales y contratación pública como instrumentos para generar valor social.
 text: La Administración Pública es la mayor contratante de productos y servicios de España, por lo que, si orienta esa política hacia objetivos sociales, puede iniciar una verdadera revolución a la hora de generar riqueza con justicia, con buenas condiciones laborales, con respeto a las normas ambientales y a la igualdad de género, al tiempo que pueden dirigirse a fortalecer la economía local Solo hay que pensar en el cambio que podría darse si los centros escolares, los centros de trabajo públicos y los hospitales orientaran sus servicios de comedor hacia este modelo

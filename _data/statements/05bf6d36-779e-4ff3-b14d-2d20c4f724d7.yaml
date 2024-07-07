@@ -1,6 +1,6 @@
 id: 05bf6d36-779e-4ff3-b14d-2d20c4f724d7
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 47
-categories: Organización territorial
+parent_chapter: 0ebe7bcf-4ec7-4d85-9e96-27e33fcdd88d
 text: Apostamos por una España fuerte y cohesionada, estructurada a partir de la Constitución y de los Estatutos de Autonomía. Mejoraremos la colaboración institucional con todas las comunidades autónomas y abordaremos el conflicto de convivencia en Cataluña impulsando el diálogo entre catalanes y también entre el Gobierno de España y la Generalitat de Cataluña, siempre dentro de la Constitución y del Estatuto de Autonomía. Al menos desde 2003, en Santillana del Mar, el PSOE se ha comprometido a las reformas necesarias para un nuevo impulso del autogobierno, luego concretadas en la Declaración de Granada de 2013 y en la Declaración de Barcelona de 2017.
+categories: Organización territorial

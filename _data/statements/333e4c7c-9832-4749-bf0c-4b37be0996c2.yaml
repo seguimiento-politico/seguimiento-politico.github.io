@@ -1,6 +1,6 @@
 id: 333e4c7c-9832-4749-bf0c-4b37be0996c2
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,21 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 76
-categories: Vivienda
+parent_chapter: 10dbdb5a-3231-46ed-86c9-0dc18f77040e
+children_promises:
+- 093f6513-5405-4e7f-904f-d53188e95b8c
+- 1c02de4f-fe04-4afc-a796-e5760f2618f4
+- 1f38e373-7c4f-478e-a7d1-f3956ccaa53a
+- ce92a5dc-e94f-4b2b-9a3e-9db5e8d53dce
+- f82c9120-7513-4542-a01e-9d034e709484
+- 9d6c16c8-b76b-431d-9f83-85edcaab2c43
+- 32842bb3-4f6e-4cd7-b4ba-aaa4000d3999
+- 6f6bb6aa-3534-4c4e-862c-4861e908f733
+- a1f30223-3737-4756-9586-e0e6244ea7b5
+- 2764f9cc-c84c-4ff7-8d8d-b7025d6b0450
+- 6409f253-1ebd-42d0-8574-73794c06ab81
+- 93d2c52a-9088-4103-8a89-193348530f4f
+- 397b8b80-21ed-4a42-8b95-b77b6c44ce31
+children_statements: []
 title: Alquiler
-has_children: true
+categories: Vivienda

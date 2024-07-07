@@ -1,6 +1,6 @@
 id: e030d5b0-b0bc-4934-956d-e848fc84e536
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 127
-categories: Cultura
+parent_chapter: ef655d4e-aabd-4367-b039-db13bf06547d
 text: Garantizaremos la dotación del Fondo de Protección a la Cinematografía.
+categories: Cultura

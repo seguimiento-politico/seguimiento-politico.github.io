@@ -1,7 +1,6 @@
 id: 903dbb41-d9de-4e41-83cc-8c4156eeeeba
 type: promise
-parent_statement: 99e55604-4417-443f-9623-2c58064f92d7
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 99e55604-4417-443f-9623-2c58064f92d7
+parent_chapter: c31b1fcd-80d0-4ca3-b06a-863fa279380c
+text: En su caso, se propondrán alternativas de menor impacto ambiental y económico que permitan una gestión eficiente de la oferta y la demanda de agua, especialmente en el caso de los regadíos existentes
 categories: Medioambiente
 topics: Desertificación
-text: En su caso, se propondrán alternativas de menor impacto ambiental y económico que permitan una gestión eficiente de la oferta y la demanda de agua, especialmente en el caso de los regadíos existentes

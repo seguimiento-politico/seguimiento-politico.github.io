@@ -1,6 +1,6 @@
 id: 75d2674b-8d16-4df7-ac7b-056fbfb1de58
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 62
+parent_chapter: de18231f-ea27-483e-81a9-f51977d7f26c
 title: Garantizar la libertad para morir dignamente.
 text: Toda personaque padezca un sufrimiento irreversible debe tener reconocido el derecho y la libertad de poner fin a ese sufrimiento. Para ello, registraremos una ley con todas las garantías necesarias para las personas que deciden poner fin a su vida, así como para los y las profesionales que las asisten

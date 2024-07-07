@@ -1,11 +1,12 @@
 id: cf19915a-01e4-49d1-94c3-863f3d9025b3
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 41
-categories: Sanidad
+parent_chapter: dcb6b10d-0b49-4143-9511-53be3f00f338
 text: Potenciaremos la Estrategias Nacionales que se han puesto en marcha con especial hincapié en la de enfermos crónicos y de Enfermedades Raras para el impulso de acciones de mejora.
+categories: Sanidad

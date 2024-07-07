@@ -13,52 +13,54 @@ title: Las razones siguen intactas
 description: Programa electoral para las elecciones generales del 10 de Noviembre de 2019
 content:
 - chapter: 
+    id: db3c527d-962f-4542-b1b9-49840d241ec0
     title: El país que podemos ser
     children:
-    - declaration:
+    - statement:
         id: 0973c1c7-87c0-4fec-80b5-b9a834b94076
         page: 5
         text: 'Hoy en día, y con un importante agravamiento como consecuencia de la última crisis, en España no se respetan muchos de los derechos de la ciudadanía que consagra la Constitución española: el derecho a un empleo digno, a unas pensiones suficientes, a una vivienda asequible, a una sanidad y educación públicas y de calidad... Al mismo tiempo, hay retos de país, que son también grandes oportunidades de avanzar, y que siguen pendientes: una verdadera transición ecológica para frenar el cambio climático y bajar la factura de la luz, una revolución en la economía de los cuidados que nos sitúe en la vanguardia europea, erradicar el machismo estructural y sus violencias, frenar la despoblación en la España vaciada y revertirla... Por si esto fuera poco, los negros nubarrones de una nueva crisis económica ya asoman en el horizonte.'
-    - declaration:
+    - statement:
         id: 2ef9dbc4-0c4b-4c27-8746-c5150c5a2d13
         page: 5
         text: En las elecciones del 10 de noviembre, hay que elegir adónde vamos a partir de aquí. En las elecciones del 10 de noviembre, el camino que va a seguir España se bifurca en dos futuros muy distintos y serás tú quien, con tu voto, decidirá qué dirección tomamos como país.
-    - declaration:
+    - statement:
         id: be79c27a-0e8b-4f93-a187-9ce49fdcf182
         page: 5
         text: 'En uno de los dos caminos que se separan, el antiguo bipartidismo se fortalece apoyado en diferentes partidos satélite, los derechos de las personas se siguen violando y los retos de país siguen pendientes. Al final de ese camino, cuando llega la nueva crisis, el Gobierno hace exactamente lo mismo que hicieron PSOE y PP en la última: austeridad, recortes y apretarse el cinturón..., pero solamente para los de abajo. Aunque lo llaman «crisis» y la mayoría de la sociedad sufre retrocesos, aumenta el número de millonarios y los beneficios de las grandes corporaciones crecen.'
-    - declaration:
+    - statement:
         id: 350c59c5-7536-4ede-9e8d-30d8b63781db
         page: 5
         text: 'En el otro camino que surge del 10 de noviembre, no se cumplen, en cambio, los planes de los poderosos y de los partidos que trabajan para ellos. Al final del segundo camino, los españoles hemos recuperado parte de nuestros derechos, la vida de las personas es un poco más segura y más estable, ya estamos trabajando en los retos y las oportunidades de futuro que jóvenes, mujeres, pensionistas y habitantes de la España despoblada han puesto encima de la mesa en las calles... Y, cuando llega la crisis, el Gobierno solo hace recortes por arriba: subiendo los impuestos a los bancos, a las grandes fortunas y a las grandes corporaciones.'
-    - declaration:
+    - statement:
         id: 25a3928e-a551-4781-921a-50bee13dd6b4
         page: 6
         text: Este programa que tienes ahora en tus manos dibuja esa España más justa y mejor que se halla al final del segundo camino.
-    - declaration:
+    - statement:
         id: 704319c0-1174-43a5-b043-806cfc591300
         page: 6
         text: 'Los portavoces mediáticos de los poderosos y sus brazos parlamentarios te dirán —por tierra, mar y aire— que «no se puede». Es el mantra triste que sus dueños los obligan a repetir. Pero recuerda: hay una fuerza política que tiene las manos libres para cambiar las cosas porque no pide créditos a los bancos, no tiene exministros sentados en los consejos de administración del IBEX 35 y tiene un candidato que ha demostrado que no se vende. Mientras esa posibilidad exista, claro que se puede. Depende única y exclusivamente de qué camino elijas el 10 de noviembre.'
-    - declaration:
+    - statement:
         id: de38807e-e5c0-461a-a6ea-6a4a9013cb48
         page: 6
         text: 'Por cierto, la diferencia entre los dos caminos es muy sencilla: en el segundo está Unidas Podemos en el Gobierno; en el primero, no.'
 - chapter: 
+    id: 14cfe70b-f6b5-4003-88f7-02a877dec28f
     title: Horizonte Verde y Nuevo Modelo Industrial
     children:
-    - declaration:
+    - statement:
         id: 8c2d8564-2575-4476-8dfd-97eba32edbb0
         page: 9
         text: 'Lo han dicho los científicos: o reducimos drásticamente las emisiones de CO2 y otros gases de efecto invernadero y lo hacemos pronto, o entramos en una trayectoria de no retorno y los efectos del cambio climático serán graves e irreversibles. Lo han dicho los jóvenes en la calle mientras los políticos y opinadores profesionales se dedicaban al politiqueo y al ruido: no tenemos un planeta B, no tenemos un planeta de repuesto.'
-    - declaration:
+    - statement:
         id: f165a707-f407-40f4-8bd3-9017c7549ab8
         page: 9
         text: España tiene el clima, la potencia investigadora y la energía humana e intelectual para ser vanguardia mundial en la lucha contra el cambio climático y la producción de tecnologías renovables. España puede, España debe y España lo necesita. Porque no solo hablamos de rescatar el planeta, sino también de crear cientos de miles de empleos de calidad, del retorno de nuestro talento emigrado y de que la transición energética sea, además, una locomotora económica que nos permita dejar de ser un país que fía su futuro al pelotazo urbanístico, a exportar mano de obra precaria y a servir copas a los países ricos; que nos permita ser un país que, si llega una nueva crisis económica, no vuelva a tener los pies de barro y resista mejor la tormenta gracias a su industria y a su tecnología.
-    - declaration:
+    - statement:
         id: 5399f8eb-96e3-4d98-ad7b-8f6f4907d58d
         page: 9
         text: Movilizando un 2,5 % del PIB anualmente de capital público y privado, podríamos reducir nuestras emisiones de CO2 a la mitad en una década y en un 90 % para 2040, y crearíamos 600 000 empleos netos a lo largo del proceso.
-    - declaration:
+    - statement:
         id: a0fa7953-9665-49c8-b3f2-3d0d9c855840
         page: 9
         text: Lo anterior supone una verdadera revolución productiva y requiere poner a todo nuestro país a trabajar en ello. Por eso, detallamos una serie de medidas fundamentales que Unidas Podemos abordará si gobierna.
@@ -289,17 +291,18 @@ content:
         page: 22
         text: Creación de una Vicepresidencia de Transición Ecológica y Nuevo Modelo Industrial para dirigir y coordinar estas reformas con el resto de las Administraciones y agentes sociales
 - chapter: 
+    id: b8a5aa3d-8c58-4fdb-8ce8-c6eb037312b4
     title: Horizonte Morado y Economía de los Cuidados
     children:
-    - declaration:
+    - statement:
         id: 9e3892c1-54a2-4552-81b9-f12b5064995b
         page: 25
         text: En los últimos años, la larga tradición del movimiento feminista en España ha tomado un impulso que nos sitúa en la primera línea del panorama internacional como un país feminista y de derechos. Al mirar hacia su futuro, nuestro país no puede desear ni imaginar un horizonte que no sea morado, en el que las mujeres dejen de sufrir violencias machistas y puedan disfrutar de su sexualidad y de sus vidas cotidianas con libertad, vivan como vivan y deseen a quien deseen; en el que tengan protagonismo en todas las esferas de la vida, puedan compartir su conocimiento con las nuevas generaciones a través del sistema educativo y puedan vivir su vida con la libertad y la autonomía que da no estar sujetas a la precariedad y a las actividades menos reconocidas de nuestra sociedad.
-    - declaration:
+    - statement:
         id: f1f0d87c-fba2-41e4-9dc9-0c52ed24bb35
         page: 25
         text: Además, hay que asumir que nuestro sistema de cuidados está en crisis. Nuestro Estado del bienestar se ha construido apoyándose en una cantidad inmensa de trabajo femenino no reconocido ni remunerado (o mal remunerado) para mantener al resto de las personas del hogar, y la austeridad le quitó aún más oxígeno a este modelo, hasta llevarlo al colapso. De este modo, la ausencia de servicios públicos y comunitarios que nos permitan compartir entre el conjunto de la ciudadanía la tarea de cuidarnos, de hacer que la vida avance, se ha convertido en uno de los principales lastres de nuestra economía. Algo que impide a las personas jóvenes componer el modelo de familia que quieran; a las adultas, hacer compatibles el trabajo y la vida; y a las mayores, tener la seguridad de que podrán disfrutar de los cuidados adecuados.
-    - declaration:
+    - statement:
         id: 69879a39-b43b-4ad4-81a2-0e7d0778860c
         page: 25
         text: Sin embargo, las movilizaciones feministas lo han cambiado todo al poner la vida en el centro de nuestras prioridades y al demostrar que este ya es un país feminista que puede organizarse de otro modo. Por ello, proponemos un ambicioso programa de inversiones públicas para la construcción de infraestructuras sociales sólidas al servicio de las personas y con la capacidad de crear, en un plazo muy corto, más de medio millón de empleos repartidos con justicia por todo el territorio. Si es cierto que llega una nueva crisis, nos debe encontrar cuidándonos y con una economía más robusta para afrontarla.
@@ -437,21 +440,22 @@ content:
         page: 33
         text: Crear una Vicepresidencia de Feminismos y Economía de los Cuidados para dirigir y coordinar estas reformas con el resto de las Administraciones y agentes sociales
 - chapter: 
+    id: 493fd51c-7cfd-4b5e-bc63-efcefe3f24e6
     title: Horizonte Digital y Nueva Economía
     children:
-    - declaration:
+    - statement:
         id: 9e2d01fc-a367-4f83-aa59-909b35fbba67
         page: 37
         text: Las medidas de este horizonte, que dibuja nuevas posibilidades de organizarnos y de producir, son decisivas no solo para avanzar en una nueva economía, sino también para avanzar hacia los horizontes verde y morado, y construir un nuevo modelo industrial y una economía feminista de los cuidados.
-    - declaration:
+    - statement:
         id: bd7ec19b-2522-4431-b8fd-34ed6cf128d9
         page: 37
         text: Ante las enormes transformaciones que se están viviendo y que se van a acelerar en los principales ámbitos productivos, la actitud tradicional de los dirigentes de este país ha sido y está siendo la inacción, lo que equivale a entregar las llaves de los sectores más dinámicos de nuestra economía a grandes corporaciones, con frecuencia extranjeras. Esto hace que nuestras empresas y nuestra ciudadanía se queden atrás, sin poder competir en igualdad de condiciones, relegadas a posiciones subalternas o desplazadas hacia sectores más duros, como el turismo y la hostelería.
-    - declaration:
+    - statement:
         id: 9f3d3594-c7d8-407c-8105-fe41a7ba200b
         page: 37
         text: La alternativa es tener las manos libres y el pulso firme para liderar el futuro de la economía de nuestro país en materia de I+D+i y en los procesos de digitalización de la industria y los servicios. Para cuidar nuestro talento en campos tan importantes como la ciencia o la cultura, no solo para evitar su fuga, sino para que el talento no se sacrifique en el altar de la precariedad. Y para anteponer nuestra industria y nuestra gente al enorme poder que están acumulando los oligopolios en los sectores estratégicos, un enorme poder que va en perjuicio de las pymes y de la ciudadanía en general, que son quienes pagan las consecuencias del lastre que generan a la economía.
-    - declaration:
+    - statement:
         id: f7ca9263-8529-4ce7-96ab-e43e85496f89
         page: 37
         title: Esto es aún más importante si se avecina una nueva crisis económica. 
@@ -614,13 +618,14 @@ content:
         page: 49
         text: Crear una Vicepresidencia de Digitalización y Nueva Economía para dirigir y coordinar estas reformas junto con el resto de Administraciones y agentes sociales
 - chapter: 
+    id: de18231f-ea27-483e-81a9-f51977d7f26c
     title: Garantías Democráticas y de Ciudadanía
     children:
-    - declaration:
+    - statement:
         id: 94945f6b-801a-45aa-9d36-63f7bef12dfd
         page: 53
         text: Nuestro país no solo es ambicioso en cuanto al horizonte verde, morado y digital que quiere consolidar en la próxima década. Nuestro país es consciente de que ya es feminista y moderno, de que ya tiene el talento y las oportunidades productivas para hacerlo posible. Al mismo tiempo, sabe cuáles son los obstáculos en este camino, los lastres que debemos soltar para despegar. El «bailar pegados» de los grandes poderes económicos y las principales instituciones democráticas —como los ministerios, pero también los medios de comunicación o los partidos políticos— pone en riesgo el éxito de estos proyectos.
-    - declaration:
+    - statement:
         id: 959897ae-d436-4e01-ac09-62da4775fabc
         page: 53
         text: El camino hacia una España más justa y mejor que se dibuja en este programa solo es viable si conquistamos nuestra democracia y ponemos las instituciones a la altura de su gente; si nos sacamos de encima a los corruptos y su control sobre las instituciones públicas. No en vano, la corrupción nos quita cada año 90 000 millones de euros que podríamos invertir en transición energética o en infraestructuras sociales feministas; y, además, esa misma corrupción captura las instituciones públicas para que en ellas se decida a favor de unos pocos y en contra de la mayoría
@@ -864,9 +869,10 @@ content:
         title: Hacer justicia a nuestra memoria democrática. 
         text: La recuperación de la memoria democrática de nuestro país va mucho más allá de la exhumación de la momia del dictador Hace falta verdad, justicia, reparación y no repetición Mientras tanto, somos la excepcionalidad europea en términos de impunidad y de haberle dado la espalda a nuestra historia Vamos a revertir esto de acuerdo con los principios de los derechos humanos en torno a los ejes de verdad (poder conocer lo ocurrido), justicia (llevar a los responsables ante los tribunales), reparación de las víctimas y no repetición (garantizar que no persisten hoy elementos que siguen causando daño) Para avanzar en este camino, implementaremos un programa de exhumaciones de las víctimas del franquismo que continúan en fosas comunes, retiraremos las medallas concedidas a Billy el Niño y a otros torturadores del franquismo, modificaremos la Ley de Amnistía para que se puedan juzgar los crímenes de lesa humanidad del fascismo, tal como hace ineludible el derecho internacional —que se incumple ahora en España—, y anularemos los juicios políticos del franquismo También declararemos nulas las condenas y sanciones de tribunales, jurados y otros órganos penales, administrativos o militares dictadas durante la guerra civil española o la dictadura por motivos políticos, ideológicos, de creencia o de orientación sexual, identidad sexual, identidad de género o expresión de género Al mismo tiempo, hay que señalar que el régimen franquista no solo fue una maquinaria autoritaria diseñada para la represión, sino que operó también como un mecanismo de saqueo y expolio hacia familias de la jerarquía franquista Por ello, una de las claves en la reparación es auditar de los bienes expoliados por el franquismo para devolverlos a sus legítimos titulares
 - chapter: 
+    id: ef0bb89b-1b90-4682-a618-d8eea7201020
     title: Garantías de Justicia Laboral y Pensiones
     children:
-    - declaration:
+    - statement:
         id: ce76521c-0365-4785-8afd-5b52f2e706ff
         page: 73
         text: El horizonte verde, morado y digital que proponemos va a significar, a largo plazo, un cambio profundo en nuestras relaciones laborales, en la distribución de tiempos para el cuidado y el disfrute personal y, en general, en nuestra manera de estar en este planeta. Para ello, hay que cortar amarras con una precariedad laboral que no nos deja llegar a fin de mes, planificar nuestro futuro o alcanzar unas pensiones dignas. Hay que hacer excepcionales los contratos temporales y que los indefinidos vuelvan a significar algo en términos de estabilidad y de posibilidad de planificar una vida. Hay que acabar con los fraudes y las horas impagadas, y reequilibrar los sueldos y el poder de negociación de las partes
@@ -1068,9 +1074,10 @@ content:
         title: Jubilación anticipada y sin penalización en sectores especialmente duros. 
         text: Agilizaremos el reconocimiento de la posibilidad de jubilarse antes de los 65 años sin penalización para trabajadores y trabajadoras en sectores especialmente duros y precarios, como camareras y camareros de piso, extinción de incendios, ayuda a domicilio, buceo, rederas y rederos, trabajo en astilleros y en la estiba, trabajos industriales penosos y de transporte en carretera, entre otros.
 - chapter: 
+    id: 4b1a1fd6-83f2-4e8c-a775-7e65f72f50be
     title: Garantías de Justicia Social
     children:
-    - declaration:
+    - statement:
         id: e1177f2f-d934-4c12-b611-51ff2b783812
         page: 89
         title: España ha perdido al menos una década. 
@@ -1327,21 +1334,22 @@ content:
         page: 103
         text: Aumentar el presupuesto de Ayuda Oficial al Desarrollo (AOD) hasta la media de los Estados del entorno de la Unión Europea (UE-15), del 0,5 % de la renta nacional bruta (RNB) en 2023 y del 0,7 % de la RNB en 2027. De este presupuesto, al menos un 10 % de la AOD se destinará a ayuda humanitaria.
 - chapter: 
+    id: f91bc08f-3d6b-4f78-a00a-810f7184cf6a
     title: Garantías de Justicia Fiscal
     children:
-    - declaration:
+    - statement:
         id: 60f5d2b3-7167-45d5-b26c-57c6e6e89792
         page: 107
         text: 'Para que la ciudadanía perciba como propias las políticas públicas desarrolladas por el Estado y les conceda plena legitimidad, es imprescindible que se cumpla un principio básico de justicia: que contribuya más quien más tiene. Que se cumpla el artículo 31 de la Constitución española y se acabe con los privilegios fiscales de los poderosos. La necesidad de poner en marcha un ambicioso plan de inversiones verdes, moradas y digitales contrasta con la realidad de que recaudamos un 8 % del PIB menos que la media de la zona euro.'
-    - declaration:
+    - statement:
         id: 53c5eb6c-a6bc-4875-b8b3-4e4426d752a4
         page: 107
         text: 'En este escenario de expansión de la desigualdad (desde la crisis, España es el segundo país de la UE donde más ha aumentado la desigualdad, hasta 20 veces más que la media europea), aumenta una clase de superricos: un 1 % que, en 2016, ya acaparaba una cuarta parte de la riqueza del país, mientras que el 20 % más pobre solo posee el 0,1 % de la riqueza. Esto es lo que le da al 1 % una enorme capacidad de influencia para echar el freno a las reformas que necesita este país. Si queremos construir una sociedad más justa y mejor, esto tiene que cambiar.'
-    - declaration:
+    - statement:
         id: 2f203761-76f0-4e4d-80a9-48ddf1f03abc
         page: 107
         text: 'Por eso vamos a impulsar un conjunto de propuestas para acabar con los privilegios y garantizar una financiación adecuada de las políticas públicas. Junto a otras medidas necesarias para mejorar nuestro sistema fiscal, destacamos cuatro propuestas especialmente dirigidas a terminar con los privilegios fiscales de una minoría: recuperar la recaudación del impuesto sobre sociedades, perdida desde el inicio de la crisis por las ventajas que reciben las grandes empresas; instaurar un impuesto a las grandes fortunas; establecer impuestos sobre las transacciones financieras y la banca; y dedicar una atención especial a los grandes defraudadores fiscales.'
-    - declaration:
+    - statement:
         id: 3a406cc0-b1b5-4300-aed0-3c7a2681e1d1
         page: 107
         text: Si viene una nueva crisis económica, hay que garantizar que solo se hacen recortes por arriba, al tiempo que se protegen y se amplían los derechos y la estabilidad de los de abajo.
@@ -1425,13 +1433,14 @@ content:
         title: Eliminación de la exención del IBI de la cual goza la Iglesia. 
         text: En nuestro país nunca se ha acometido una verdadera separación entre la Iglesia católica y el Estado A consecuencia de ello, la Iglesia sigue disfrutando de privilegios que son imposibles de explicar, al mismo tiempo que a la gente solo le crece el importe de las facturas Uno de estos privilegios es la exención de pagar el impuesto sobre bienes inmuebles (IBI) por los bienes que dice poseer Mientras que una persona normal tiene que llegar a situaciones de gran necesidad para que se le permita no pagar el IBI, la Iglesia española no solo recibe fondos de nuestra declaración de la renta que luego gasta en televisiones sectarias que nadie ve, sino que, además, se le permite no pagar impuestos por sus propiedades Esta medida tendrá la excepción de los inmuebles afectos al culto, los bienes cuya finalidad principal sea su utilización por parte de Cáritas para la acción social u otro tipo de bienes que gozan de dicha exención por motivos generales
 - chapter: 
+    id: 11de281a-d271-499b-955d-2771db4b467d
     title: Garantías de Justicia Territorial
     children:   
-    - declaration:
+    - statement:
         id: 1f12c196-169e-4595-a2c6-d6d03290233b
         page: 115
         text: Hasta ahora, el desarrollo de nuestro país ha vivido de espaldas a la mayor parte del territorio. El abandono de la España vaciada ha perpetuado zonas de periferia en el interior de nuestro país, zonas mal comunicadas, pueblos y ciudades de los que la juventud sale solo con billete de ida. Este desequilibrio se ha intensificado en los últimos tiempos, afectando incluso a la pérdida de población en ciudades pequeñas y medianas. La concentración en unas pocas grandes ciudades y zonas costeras al calor de empleos precarios nos deja un país partido, desconectado y con enormes desigualdades territoriales que hay que recuperar para afrontar los retos que tenemos por delante.
-    - declaration:
+    - statement:
         id: f798b879-ad0d-418c-95c7-3c5abd4d2537
         page: 115
         text: Al mismo tiempo que dejan una España vaciada, los partidos de siempre no tienen ninguna propuesta para dejar de enfrentar a los distintos pueblos de este país. Desde su misma Constitución, el nuestro es un país plurinacional en el que la inmensa mayoría de sus pueblos conviven fraternalmente y deben poder elegir su destino, al tiempo que hay que tener claro que los problemas no se resuelven a garrotazos ni de manera unilateral. Tenemos la tarea de transformar el enfrentamiento en diálogo, porque para asumir los retos que tenemos por delante, debemos estar juntos y juntas.

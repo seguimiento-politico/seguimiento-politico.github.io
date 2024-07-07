@@ -1,6 +1,6 @@
 id: 7527a193-e44e-47b3-b6b9-51109cbccb08
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 18
+parent_chapter: 70e896cb-cc2e-4700-a649-38c82b332b6c
+children_promises:
+- 90ab157e-786a-44ef-ba26-876626d5103b
+- d419e052-d975-4f94-b3d6-fc45dfd904c4
+children_statements: []
+title: Conciliación vida familiar y laboral
 categories:
 - Familia
-title: Conciliación vida familiar y laboral
-has_children: true

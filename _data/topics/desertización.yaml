@@ -1,0 +1,20 @@
+name: Desertización
+other:
+- &id001
+  id: 550019fa-6473-4afa-8f6a-fd863ea33bbc
+  parties:
+  - CIUDADANOS
+other_count: 1
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+statements_count: 1
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

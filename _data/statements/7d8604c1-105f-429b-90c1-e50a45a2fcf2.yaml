@@ -1,6 +1,6 @@
 id: 7d8604c1-105f-429b-90c1-e50a45a2fcf2
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 10
+parent_chapter: 80f33f13-c365-4098-ac18-6210795cdb15
+children_promises:
+- 5c5529d6-1cd6-4725-9f30-d63b4507b8a5
+children_statements: []
+title: Apoyo a los desempleados mayores y de larga duración
 categories:
 - Economía
-title: Apoyo a los desempleados mayores y de larga duración
-has_children: true

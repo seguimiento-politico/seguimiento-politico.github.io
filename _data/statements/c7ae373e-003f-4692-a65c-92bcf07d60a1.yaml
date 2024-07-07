@@ -1,6 +1,6 @@
 id: c7ae373e-003f-4692-a65c-92bcf07d60a1
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 102
+parent_chapter: f8348ef6-75be-45f5-9b64-97ad1de424bc
+text: Declararemos como situación de interés para la Seguridad Nacional la insoportable presión migratoria que se vive en Canarias, Ceuta y Melilla.
 categories:
 - Migración
-text: Declararemos como situación de interés para la Seguridad Nacional la insoportable presión migratoria que se vive en Canarias, Ceuta y Melilla.

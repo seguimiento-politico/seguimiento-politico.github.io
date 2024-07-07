@@ -1,6 +1,6 @@
 id: 350c59c5-7536-4ede-9e8d-30d8b63781db
-type: declaration
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+type: statement
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 5
+parent_chapter: db3c527d-962f-4542-b1b9-49840d241ec0
 text: 'En el otro camino que surge del 10 de noviembre, no se cumplen, en cambio, los planes de los poderosos y de los partidos que trabajan para ellos. Al final del segundo camino, los españoles hemos recuperado parte de nuestros derechos, la vida de las personas es un poco más segura y más estable, ya estamos trabajando en los retos y las oportunidades de futuro que jóvenes, mujeres, pensionistas y habitantes de la España despoblada han puesto encima de la mesa en las calles... Y, cuando llega la crisis, el Gobierno solo hace recortes por arriba: subiendo los impuestos a los bancos, a las grandes fortunas y a las grandes corporaciones.'

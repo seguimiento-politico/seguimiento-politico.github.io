@@ -1,6 +1,6 @@
 id: 1cbdb48d-e71b-4e3d-910c-c02a1f811519
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 192
+parent_chapter: f4d30405-da8f-4647-bc30-ce8a01fe2c1a
+text: Fomentar la transversalidad de las políticas de atención a las personas con discapacidad con la presencia de la inclusión y accesibilidad en todas las políticas.
 categories: Derechos y servicios sociales
 topics: Discapacidad
-text: Fomentar la transversalidad de las políticas de atención a las personas con discapacidad con la presencia de la inclusión y accesibilidad en todas las políticas.

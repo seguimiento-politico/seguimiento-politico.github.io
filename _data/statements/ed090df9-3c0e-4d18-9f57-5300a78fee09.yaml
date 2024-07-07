@@ -1,11 +1,12 @@
 id: ed090df9-3c0e-4d18-9f57-5300a78fee09
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 33
-categories: Educación
+parent_chapter: d01d08b0-ad16-47ca-a6fa-7d638f061cfa
 text: Reforzaremos la Alta Inspección del Estado, fortaleciendo sus competencias, sus medios humanos y materiales. También modificaremos su regulación para que pueda actuar de oficio con capacidad sancionadora y con competencia en los libros de texto y otros materiales curriculares.
+categories: Educación

@@ -1,11 +1,12 @@
 id: edbbc3f1-3fca-4d49-b834-8570c7876d5a
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 76
-categories: Territorio rural
+parent_chapter: 793ce6d6-8948-47f1-8eca-22cf3aed3a0e
 text: Reformaremos la Ley del Suelo para facilitar la implantación de industrias en suelo rústico.
+categories: Territorio rural

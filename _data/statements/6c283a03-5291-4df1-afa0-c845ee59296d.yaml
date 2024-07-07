@@ -1,6 +1,6 @@
 id: 6c283a03-5291-4df1-afa0-c845ee59296d
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 18
-categories: Trabajo
+parent_chapter: cae5d808-1ce9-4168-a268-4ea405606db1
 title: Hacia un nuevo Estatuto de los Trabajadores.
 text: El Gobierno impulsará, con los agentes sociales, la elaboración de un nuevo Estatuto de los Trabajadores, que incentive la actividad económica y la creación de empleo digno, de calidad y estable, de forma que la contratación indefinida sea la forma ordinaria de acceder al empleo. El nuevo Estatuto deberá garantizar la protección de los trabajadores y trabajadoras frente a los desafíos sociales, tecnológicos y ecológicos del siglo XXI, reforzando su participación en las decisiones de las empresas y recuperando el papel crucial de la negociación colectiva. Elaboraremos una carta de derechos de los trabajadores y trabajadoras que actualice el catálogo de derechos a las exigencias de la digitalización, incluyendo el derecho a la desconexión.
+categories: Trabajo

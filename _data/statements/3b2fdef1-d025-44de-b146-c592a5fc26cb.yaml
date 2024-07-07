@@ -1,6 +1,6 @@
 id: 3b2fdef1-d025-44de-b146-c592a5fc26cb
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 32
-categories: Educación
+parent_chapter: 8dc56675-db4f-4450-b565-3d1b2de80c30
 text: Iniciaremos el proceso de devolución al Estado de las competencias en Educación. Es urgente acabar con diecisiete modelos educativos diferentes, en algunos casos excluyentes entre sí, que han dinamitado la igualdad de oportunidades en todo el territorio nacional y han permitido el adoctrinamiento separatista en algunas regiones. Como paso previo, de acuerdo con la propuesta política de España Decide, se consultará al pueblo español mediante la aplicación del artículo 92 de la Constitución Española, relativo a consultas sobre decisiones políticas de especial trascendencia, su voluntad sobre el regreso de las competencias educativas al Estado.
+categories: Educación

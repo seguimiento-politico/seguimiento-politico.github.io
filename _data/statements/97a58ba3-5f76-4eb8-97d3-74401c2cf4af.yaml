@@ -1,6 +1,6 @@
 id: 97a58ba3-5f76-4eb8-97d3-74401c2cf4af
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,35 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 114
+parent_chapter: 5b5e2314-3fa5-4e12-99b5-33a9b2e5cea2
+children_promises:
+- 2429f484-44ea-4751-a016-01f1cfabe5d2
+- e958e26a-8f22-42cf-a0bc-014c7bb6a45f
+- 4ee6c30f-4ba6-410c-aa5e-5217b3dc8225
+- a4a69aa7-ba25-4070-829f-2cfc1d4e9a7b
+- 0ef81d4a-86e8-4bfc-8a2b-5fa0010e757c
+- e8a146bc-1d0f-409f-ac7e-7aee3eb6d04a
+- 4e9ac8c9-f40c-4392-88d1-b9d0a19e4084
+- 9446e657-6947-413d-8183-775977131129
+- 78d1870c-e8a6-4833-b2c1-5c75240c2233
+- d626fadc-0b52-4bf4-93f1-c5ac62d2fa3d
+- 68d57228-087e-4b96-b2bc-e377b5dc88ae
+- b4aa97f5-8cb2-475f-ace5-9ac079f55dd5
+- f4d42e58-3e44-4718-a961-82c7aad6fb32
+- 5f78fc39-3aab-4561-adb2-7c8741f48135
+- 3253f4c0-78c5-41c6-87ef-244d5efed761
+- 2b91448c-b0ec-4251-81ec-717c7b72d4f7
+- 41cfd982-8131-4aa3-8429-9bfaf6e6995a
+- 059823bd-44cc-462e-88ea-6eaefebb5123
+- ba5730b9-dc9d-41b5-8904-a87886172d19
+- 36700925-d23b-4524-a911-93901627d18e
+- 042042c3-d4bb-4af4-a1db-a6d4db1b7dc4
+- dfd8f2c7-4f26-4b62-96ff-d7287f965003
+- 8088c032-9a71-4832-8025-2610d1747b37
+- e5a63ec7-a3de-4d81-b454-6232e8d77e3f
+- 281164bc-8aaf-4c7b-89f4-4b40762dd58e
+children_statements:
+- 18cd2d76-641a-4847-b4ad-8818c7ae78f0
+title: 'Igualdad y feminismo: Derechos y libertades LGTBI+'
 categories: Democracia
 topics: LGTBI
-title: 'Igualdad y feminismo: Derechos y libertades LGTBI+'
-has_children: true

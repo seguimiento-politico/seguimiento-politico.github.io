@@ -1,6 +1,6 @@
 id: c4b03c45-e4a8-453b-8dc4-b1e33056669d
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 118
+parent_chapter: 11de281a-d271-499b-955d-2771db4b467d
 text: Garantía legal de justicia territorial en las inversiones para transporte público, colectivo o de bajas emisiones, para que el derecho de movilidad sea efectivo en todo el país, especialmente en aquellos territorios aislados y carentes, hoy, de una movilidad moderna De nuevo, es necesario introducir criterios de discriminación positiva para reducir la desigualdad existente en materia de infraestructuras Priorizaremos la construcción de nuevas infraestructuras y la mejora de las existentes, así como el mantenimiento para los territorios que han sufrido una historia de aislamiento y malas conexiones

@@ -1,6 +1,6 @@
 id: bd6baf4d-2a95-4f5c-a355-608f64a8f828
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 171
+parent_chapter: 1ba59a71-2649-49ec-b7ab-7b3f541edfea
+children_promises:
+- 2c592e4f-6ca1-4d20-8a48-08dd5b47ae0a
+children_statements: []
+text: Completaremos el despliegue de las medidas de fortalecimiento de la estructura de ingresos adoptadas para garantizar la sostenibilidad del sistema a largo plazo. Ello incluye culminar el proceso que iniciamos en 2021 de separación de fuentes de financiación con la asunción por el Estado de todos los gastos impropios, de naturaleza no contributiva, así como el despliegue del mecanismo de equidad intergeneracional. Rellenaremos la hucha de las pensiones. El Fondo de Reserva de la Seguridad Social estará dotado con más de 20.000 millones de euros en 2027.
 categories: Derechos y servicios sociales
 topics: Pensiones
-text: Completaremos el despliegue de las medidas de fortalecimiento de la estructura de ingresos adoptadas para garantizar la sostenibilidad del sistema a largo plazo. Ello incluye culminar el proceso que iniciamos en 2021 de separación de fuentes de financiación con la asunción por el Estado de todos los gastos impropios, de naturaleza no contributiva, así como el despliegue del mecanismo de equidad intergeneracional. Rellenaremos la hucha de las pensiones. El Fondo de Reserva de la Seguridad Social estará dotado con más de 20.000 millones de euros en 2027.
-has_children: true

@@ -1,6 +1,6 @@
 id: 42bde22b-de77-429a-b19f-f21d0cd32197
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 15
+parent_chapter: 14cfe70b-f6b5-4003-88f7-02a877dec28f
 title: Aprovechar las nuevas líneas para alcanzar un verdadero efecto de red mediante el impulso de servicios en los ejes transversales ferroviarios.
 text: (Véase el apartado «Garantías de Justicia Territorial»)

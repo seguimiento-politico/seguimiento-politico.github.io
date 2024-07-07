@@ -1,6 +1,6 @@
 id: fc6122c3-3ba0-4d98-8221-7863966e05ea
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 133
-categories: Seguridad y defensa
+parent_chapter: 66b190ef-617c-438a-adf3-a3c9f707719b
+children_promises:
+- f1fc7c7f-d316-4694-8e73-d9e66cd9046f
+children_statements:
+- 8188ebd1-916c-41d7-9d67-e9da834e62ad
 title: Mejores prácticas en la promoción y publicidad de la seguridad privada
-has_children: true
+categories: Seguridad y defensa

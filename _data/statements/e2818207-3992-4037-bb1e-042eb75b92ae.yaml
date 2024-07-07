@@ -1,6 +1,6 @@
 id: e2818207-3992-4037-bb1e-042eb75b92ae
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 43
-categories: Organización territorial
+parent_chapter: d5628b60-5d7a-425f-9d5d-8aacf8d84bf4
 text: Desarrollaremos la previsión de las reglas y principios que deben regir el sistema de financiación de las comunidades autónomas y el procedimiento para establecerlo con participación de los territorios, con el objetivo final de aprobar un nuevo sistema de financiación de las comunidades autónomas que resuelva las carencias, asimetrías y ambigüedades del sistema actual. El objetivo es implantar un sistema que permita, de un lado, garantizar la lealtad y solidaridad entre territorios y la igualdad de todos los españoles y españolas; de otro, asegurar la justa distribución de los recursos públicos y la capacidad de las comunidades autónomas para proveer los servicios y prestaciones sociales que son de su competencia.
+categories: Organización territorial

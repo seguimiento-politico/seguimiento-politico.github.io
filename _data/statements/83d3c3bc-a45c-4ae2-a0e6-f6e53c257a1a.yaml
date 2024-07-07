@@ -1,6 +1,6 @@
 id: 83d3c3bc-a45c-4ae2-a0e6-f6e53c257a1a
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 99
+parent_chapter: c425d082-cd3e-4480-b652-21a0048e281d
+text: CONTRIBUIREMOS A LA REVISIÓN DEL NUEVO PACTO DE ESTABILIDAD Y CRECIMIENTO, con el objetivo de impulsar un crecimiento sostenible e integrador en toda la UE.
 categories: Política internacional
 topics: Europa
-text: CONTRIBUIREMOS A LA REVISIÓN DEL NUEVO PACTO DE ESTABILIDAD Y CRECIMIENTO, con el objetivo de impulsar un crecimiento sostenible e integrador en toda la UE.

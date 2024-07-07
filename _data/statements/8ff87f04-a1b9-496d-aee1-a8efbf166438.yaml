@@ -1,6 +1,6 @@
 id: 8ff87f04-a1b9-496d-aee1-a8efbf166438
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 31
+parent_chapter: 9084fb76-14d5-4f08-b13b-74bd606de716
+children_promises:
+- b6833328-88de-4332-8203-0e60d864f8c7
+- 499556a0-09e5-4220-8fe8-e9d9ca507823
+- 6e6fc1a4-0baa-466e-98f8-80953fcd1b40
+- 52944508-274b-4781-a91b-b97a38a823d2
+children_statements: []
+title: Proporcionaremos apoyo financiero a las pymes innovadoras y startups tecnológicas
 categories: Empresas y autónomos
 topics: Emprendimiento
-title: Proporcionaremos apoyo financiero a las pymes innovadoras y startups tecnológicas
-has_children: true

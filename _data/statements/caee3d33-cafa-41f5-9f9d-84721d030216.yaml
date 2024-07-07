@@ -1,6 +1,6 @@
 id: caee3d33-cafa-41f5-9f9d-84721d030216
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 34
-categories: Trabajo
+parent_chapter: 2e87f7f8-d5a3-47a6-82d5-b25f36e88929
+children_promises:
+- 885f8560-2301-41e1-9ce0-174c06167861
+children_statements:
+- bab0e5f5-33d3-48e2-b145-af736be0d2ac
 title: Reconfiguraremos las prestaciones no contributivas, incluidas las de desempleo
-has_children: true
+categories: Trabajo

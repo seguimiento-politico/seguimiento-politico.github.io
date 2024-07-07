@@ -1,7 +1,6 @@
 id: e69266f8-70cd-437c-be3d-5cdb6d2686c4
 type: promise
-parent_statement: e32ec9ef-5c30-406e-a952-20c952e95d16
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,8 +8,10 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: e32ec9ef-5c30-406e-a952-20c952e95d16
+parent_chapter: fab1a77a-568e-403c-9c7d-19f7b540d95e
+text: Introducción de coeficientes de corrección para el conjunto de PDI, frente a su paralización durante cinco o más años, con una política paralela para el PTGAS.
 categories: Trabajo
 topics:
 - Empleo público
 - Universidad
-text: Introducción de coeficientes de corrección para el conjunto de PDI, frente a su paralización durante cinco o más años, con una política paralela para el PTGAS.

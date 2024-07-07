@@ -1,6 +1,6 @@
 id: 91c85218-673d-4b93-8274-a56f334e1b14
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 46
+parent_chapter: 493fd51c-7cfd-4b5e-bc63-efcefe3f24e6
 title: Impulsar una red de centros culturales ciudadanos.
 text: En cooperación con el resto de Administraciones y partiendo de la actual red de bibliotecas, centros culturales, centros cívicos, casas de juventud y de nuestra propuesta de centros de innovación ciudadana, se impulsará, como modelo antagónico a las casas de apuestas que proliferan en los barrios, el refuerzo y la actualización de estas instituciones culturales y de ocio, con nuevos productos en formatos electrónicos y materiales para el empoderamiento tecnológico, y con la filosofía del «hazlo tú mismo» como herramienta De este modo, se impulsará el derecho al ocio de calidad y autogestionado de los y las jóvenes. Se incluirá una dotación específica para contratar programadores y programadoras e implementar programas en coordinación con el sistema educativo, y se fomentará la cogestión ciudadana

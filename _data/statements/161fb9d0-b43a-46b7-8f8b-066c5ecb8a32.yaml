@@ -1,6 +1,6 @@
 id: 161fb9d0-b43a-46b7-8f8b-066c5ecb8a32
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 49
-categories: Política internacional
+parent_chapter: 7aed2df5-3eef-480d-a5ed-828fc5d485e6
 text: Trabajaremos para que África se convierta en una prioridad de la política exterior europea y plantearemos en Bruselas iniciativas que contribuyan al desarrollo sostenible de este continente.
+categories: Política internacional

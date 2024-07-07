@@ -1,6 +1,6 @@
 id: ab47ab49-869c-4028-bd26-d3bc87c032db
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 29
+parent_chapter: de85e0ef-5ecc-4ca0-89b4-a741503b7353
+children_promises:
+- 6ef4cb1f-f09d-4f98-8543-1364eb66327b
+children_statements: []
+title: Seguiremos impulsando la modernización y digitalización de las Administraciones Públicas
 categories: Economía
 topics: Digitalización
-title: Seguiremos impulsando la modernización y digitalización de las Administraciones Públicas
-has_children: true

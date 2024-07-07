@@ -1,7 +1,6 @@
 id: 0fc255bc-0f5c-432b-bcb2-6b7807e8885a
 type: promise
-parent_statement: 2b3c4d5e-6f7g-8h9i-10j11-k12l13m14n15
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 2b3c4d5e-6f7g-8h9i-10j11-k12l13m14n15
+parent_chapter: 3ad176d1-1f6b-4cbb-aea4-e397f16166d6
+text: Plan de turismo sostenible y derecho al lugar. El desarrollo incontrolado del turismo atenta profundamente contra los lugares en los que este se concentra masivamente. El plan de turismo regulará y acompañará a la industria turística para lograr articular una oferta que, siendo fuente de prosperidad en términos económicos, minimice sus impactos ecológicos y sociales. Regularemos el parque de viviendas turísticas en las ciudades, estableceremos límites a las plazas hoteleras en función de la capacidad de carga ecológica y social de los territorios y desarrollaremos un paquete de tasas turísticas que sirvan para garantizar el derecho al lugar de sus habitantes, internalizando costes que hoy se externalizan sobre la naturaleza y el estado de bienestar.
 categories: Industria
 topics: Desarrollo sostenible
-text: Plan de turismo sostenible y derecho al lugar. El desarrollo incontrolado del turismo atenta profundamente contra los lugares en los que este se concentra masivamente. El plan de turismo regulará y acompañará a la industria turística para lograr articular una oferta que, siendo fuente de prosperidad en términos económicos, minimice sus impactos ecológicos y sociales. Regularemos el parque de viviendas turísticas en las ciudades, estableceremos límites a las plazas hoteleras en función de la capacidad de carga ecológica y social de los territorios y desarrollaremos un paquete de tasas turísticas que sirvan para garantizar el derecho al lugar de sus habitantes, internalizando costes que hoy se externalizan sobre la naturaleza y el estado de bienestar.

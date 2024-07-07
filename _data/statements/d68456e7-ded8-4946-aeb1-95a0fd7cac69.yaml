@@ -1,7 +1,6 @@
 id: d68456e7-ded8-4946-aeb1-95a0fd7cac69
 type: promise
-parent_statement: 01e67731-8410-4e54-a20c-6d748fa1ed6c
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
+parent_statement: 01e67731-8410-4e54-a20c-6d748fa1ed6c
+parent_chapter: 3af136f2-79a9-420c-af0c-d9d97743494c
+text: Exclusividad del Estado, en lo que se refiere a relaciones internacionales (art. 149 de la Constitución).
 categories:
 - Política internacional
-text: Exclusividad del Estado, en lo que se refiere a relaciones internacionales (art. 149 de la Constitución).

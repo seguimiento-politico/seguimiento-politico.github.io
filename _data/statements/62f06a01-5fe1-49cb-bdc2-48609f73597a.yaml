@@ -1,7 +1,6 @@
 id: 62f06a01-5fe1-49cb-bdc2-48609f73597a
 type: promise
-parent_statement: 1ea280ae-5bd5-4462-ba69-e442de1a05f3
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 1ea280ae-5bd5-4462-ba69-e442de1a05f3
+parent_chapter: dc33f933-12a0-4325-b761-1f9bf8c3ad0d
+text: Protección del sector pesquero mediante su calificación como sector estratégico y esencial para la seguridad y soberanía alimentaria.
 categories: Pesca y acuicultura
 topics: Desarrollo sostenible
-text: Protección del sector pesquero mediante su calificación como sector estratégico y esencial para la seguridad y soberanía alimentaria.

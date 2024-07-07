@@ -1,7 +1,6 @@
 id: 0cbd4884-769a-4eaf-a519-4040a081654f
 type: promise
-parent_statement: 97365f7a-0248-479b-91c9-c13d9bf3d455
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 97365f7a-0248-479b-91c9-c13d9bf3d455
+parent_chapter: 5ac453aa-319d-4ea3-b4b6-7a63e3dde3ff
+text: Esta ley ha de recoger los principios inspiradores de la Directiva 93/13/CEE del Consejo, del 5 de abril de 1993, sobre las cláusulas abusivas en los contratos celebrados con consumidores, así como la jurisprudencia correspondiente del Tribunal de Justicia de la Unión Europea.
 categories: Consumo
 topics: Consumo sostenible
-text: Esta ley ha de recoger los principios inspiradores de la Directiva 93/13/CEE del Consejo, del 5 de abril de 1993, sobre las cláusulas abusivas en los contratos celebrados con consumidores, así como la jurisprudencia correspondiente del Tribunal de Justicia de la Unión Europea.

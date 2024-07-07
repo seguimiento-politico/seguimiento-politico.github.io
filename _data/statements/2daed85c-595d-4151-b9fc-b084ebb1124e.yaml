@@ -1,6 +1,6 @@
 id: 2daed85c-595d-4151-b9fc-b084ebb1124e
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 144
+parent_chapter: c794cb24-1c55-422f-8b6d-1ff29ad1ed87
+children_promises:
+- 3821dcaa-9ca4-40a9-8a57-6f29bed0f589
+- 97218408-3916-49ce-816f-2b6cb84deb7b
+- d8c626b1-38c3-45c3-a154-4b60b6da2b7b
+children_statements: []
+title: Una gobernanza económica europea al servicio de las personas
 categories: Política internacional
 topics: Europa
-title: Una gobernanza económica europea al servicio de las personas
-has_children: true

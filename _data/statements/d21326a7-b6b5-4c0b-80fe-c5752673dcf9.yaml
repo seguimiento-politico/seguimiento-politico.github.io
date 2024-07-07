@@ -1,12 +1,27 @@
 id: d21326a7-b6b5-4c0b-80fe-c5752673dcf9
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 40
-categories: Sanidad
+parent_chapter: dcb6b10d-0b49-4143-9511-53be3f00f338
+children_promises:
+- eea422cb-a6c2-49c4-beae-b4652f035fb9
+- da8df75e-c30f-4c1b-8d88-d6155de0ea35
+- 7b7771eb-4ff6-488c-b224-4de7760f5096
+- adbe4722-dd34-4e2a-9cd1-1290bc698f4a
+- 4cf54364-dd06-4e4b-be62-f8ce291f7e4f
+- 6f2e42e2-3cbc-4bdf-b6f3-ea5e5f857efa
+- 5986b62d-25f4-49ad-bc7d-672bdbd5f457
+- e8d07f8e-14dc-408b-91ce-317ef1fd736d
+- c73b6013-1aad-4d9c-9045-cb46740312b7
+- 262729cb-0d9b-4e3d-bcb6-6907ed005b91
+- 49659216-804d-444a-b71b-90ec894736c2
+- 3e996d47-38d1-4682-b6e6-f4fad4d41f4a
+- a921923b-910e-44ee-aa42-7a43852349e9
+children_statements: []
 text: 'Lideraremos las medidas que fortalezcan la gestión dentro del Sistema Nacional de Salud y garanticen su sostenibilidad a través de las siguientes líneas de acción:'
-has_children: true
+categories: Sanidad

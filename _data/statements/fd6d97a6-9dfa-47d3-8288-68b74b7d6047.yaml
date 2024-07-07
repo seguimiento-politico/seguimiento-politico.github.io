@@ -1,6 +1,6 @@
 id: fd6d97a6-9dfa-47d3-8288-68b74b7d6047
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 82
-categories: Transporte
+parent_chapter: f35f6695-01b8-45f0-bd82-72f9b0ee06ea
 text: Crearemos nuevos carriles bici o sendas peatonales paralelas a las carreteras, así como pasarelas y pasos seguros, que permitirán superar la barrera y los riesgos que las carreteras pueden suponer para los usuarios más vulnerables.
+categories: Transporte

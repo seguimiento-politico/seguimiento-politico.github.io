@@ -1,7 +1,6 @@
 id: e049c1ee-6e14-4e76-9002-df058f0b552d
 type: promise
-parent_statement: 827f15ec-b119-4d1d-b336-a8bcac2f9946
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 827f15ec-b119-4d1d-b336-a8bcac2f9946
+parent_chapter: 6fa4a5cf-07ee-4bc7-9747-5ca7f92803fb
+text: y compensar el coste de oportunidad de la dedicación exclusiva al estudio.
 categories: Educación
 topics: Universidad
-text: y compensar el coste de oportunidad de la dedicación exclusiva al estudio.

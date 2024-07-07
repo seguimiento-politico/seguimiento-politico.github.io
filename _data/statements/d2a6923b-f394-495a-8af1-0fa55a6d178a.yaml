@@ -1,7 +1,6 @@
 id: d2a6923b-f394-495a-8af1-0fa55a6d178a
 type: promise
-parent_statement: fe0efd4e-912f-4909-a512-a4099179e7a3
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: fe0efd4e-912f-4909-a512-a4099179e7a3
+parent_chapter: 63ab839a-6275-4d54-bf9b-ec036a685a75
+text: Es necesario que los datos sean gestionados y regulados por un organismo público que garantice la protección de los derechos individuales y colectivos, así como el retorno colectivo. Esto significa que ninguna empresa podrá explotar los datos sin autorización previa de este organismo regulador y sin asegurar que la explotación de los datos beneficie, más allá de la empresa en cuestión, a la sociedad en su conjunto. Es fundamental asegurar un adecuado acceso y gestión de los datos, teniendo en cuenta que el mundo digital se ha acompañado de la fabricación ingente de huellas y rastros de uso que pueden convertirse en atractivas mercancías, en ocasiones, muy delicadas
 categories: Educación
 topics: Digitalización
-text: Es necesario que los datos sean gestionados y regulados por un organismo público que garantice la protección de los derechos individuales y colectivos, así como el retorno colectivo. Esto significa que ninguna empresa podrá explotar los datos sin autorización previa de este organismo regulador y sin asegurar que la explotación de los datos beneficie, más allá de la empresa en cuestión, a la sociedad en su conjunto. Es fundamental asegurar un adecuado acceso y gestión de los datos, teniendo en cuenta que el mundo digital se ha acompañado de la fabricación ingente de huellas y rastros de uso que pueden convertirse en atractivas mercancías, en ocasiones, muy delicadas

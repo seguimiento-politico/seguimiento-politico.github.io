@@ -1,7 +1,6 @@
 id: ef94fc28-18d1-4349-bef4-8b5d994191c4
-type: declaration
-parent_statement: 464aa0d3-92c5-424a-bca5-8ce58e0b8598
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 464aa0d3-92c5-424a-bca5-8ce58e0b8598
+parent_chapter: 4a4ec318-0db9-4da1-9515-2b36e808a75f
+text: para desarrollar instrumentos y políticas que garanticen el derecho a la alimentación saludable y sostenible, especialmente para la infancia y adolescencia.
 categories: Consumo
 topics: Alimentación saludable
-text: para desarrollar instrumentos y políticas que garanticen el derecho a la alimentación saludable y sostenible, especialmente para la infancia y adolescencia.

@@ -1,6 +1,6 @@
 id: 1c4a79a7-0124-4a7a-94f1-174e7189f271
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 92
-categories: Sanidad
+parent_chapter: 17e4c412-8ac4-4992-848a-422903075ee3
+children_promises:
+- 37e8df0c-d3a5-41d6-855d-1b643ad0ca99
+children_statements: []
 title: Sanidad penitenciaria
-has_children: true
+categories: Sanidad

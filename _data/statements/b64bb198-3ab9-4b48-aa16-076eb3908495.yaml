@@ -1,6 +1,6 @@
 id: b64bb198-3ab9-4b48-aa16-076eb3908495
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 236
-categories: Medioambiente
+parent_chapter: b42e309b-70f9-4049-9fdc-70fba06757b6
 text: null
+categories: Medioambiente

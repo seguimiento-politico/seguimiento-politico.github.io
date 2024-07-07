@@ -1,7 +1,6 @@
 id: 09fd180a-1e95-445a-9b4a-3284fc06b3f7
 type: promise
-parent_statement: 120d3466-0865-4027-9c40-a573ae83fa7f
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Cultura
+parent_statement: 120d3466-0865-4027-9c40-a573ae83fa7f
+parent_chapter: 1b4d5a8a-94bc-43e6-a463-c865f0d6ae63
 text: Promoveremos proyectos y proposiciones de ley para retomar en la nueva legislatura la aprobación, siempre en diálogo y consenso con los sectores implicados, de importantes normativas como la Ley del cine y de la cultura audiovisual, que garantice, preserve y se mantenga vigilante sobre los derechos de propiedad intelectual, la Ley por la que se regulan las enseñanzas artísticas superiores y se establece la organización y equivalencias de las enseñanzas artísticas profesionales, y la Ley de creación de la Oficina Española de Derechos de Autor y Conexos.
+categories: Cultura

@@ -1,6 +1,6 @@
 id: 4fa2363d-b301-4216-a6ad-46eb4a5abe77
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 100
+parent_chapter: f8348ef6-75be-45f5-9b64-97ad1de424bc
+text: Como primera medida, consultaremos o exigiremos consultar al pueblo español, el que sufre en primera persona las consecuencias de las políticas de puertas abiertas, sobre el modelo de gestión de la inmigración y defensa de las fronteras que quieren para España. En aplicación del artículo 92 de la Constitución, sobre consultas políticas de especial relevancia, consultaremos a los españoles sobre las políticas migratorias y la expulsión de inmigrantes ilegales.
 categories:
 - Migración
-text: Como primera medida, consultaremos o exigiremos consultar al pueblo español, el que sufre en primera persona las consecuencias de las políticas de puertas abiertas, sobre el modelo de gestión de la inmigración y defensa de las fronteras que quieren para España. En aplicación del artículo 92 de la Constitución, sobre consultas políticas de especial relevancia, consultaremos a los españoles sobre las políticas migratorias y la expulsión de inmigrantes ilegales.

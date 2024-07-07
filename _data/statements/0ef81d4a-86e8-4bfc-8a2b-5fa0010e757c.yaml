@@ -1,7 +1,6 @@
 id: 0ef81d4a-86e8-4bfc-8a2b-5fa0010e757c
 type: promise
-parent_statement: 97a58ba3-5f76-4eb8-97d3-74401c2cf4af
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 97a58ba3-5f76-4eb8-97d3-74401c2cf4af
+parent_chapter: 5b5e2314-3fa5-4e12-99b5-33a9b2e5cea2
+text: Políticas de empleo y lucha contra la marginalidad. <br>● Implantar los planes de igualdad LGTBI+ en el ámbito del empleo y crear políticas activas de inserción laboral para prevenir el riesgo de exclusión social por diversidad sexual o de género, así como para apoyar a quienes ya se encuentran en situación de exclusión social. Se prestará especial atención a las políticas de inserción laboral específicas para mujeres trans, especialmente afectadas por el desempleo. <br>● Reconocer la LGTBI+fobia como causa de riesgo psicosocial en el empleo. <br>● Garantizar que el trabajo sea un espacio libre de acoso o discriminación por orientación sexual, expresión o identidad de género y características sexuales, en conexión con otras formas de violencia y acoso en el ámbito del trabajo, como las que sufren las mujeres
 categories: Democracia
 topics: LGTBI
-text: Políticas de empleo y lucha contra la marginalidad. <br>● Implantar los planes de igualdad LGTBI+ en el ámbito del empleo y crear políticas activas de inserción laboral para prevenir el riesgo de exclusión social por diversidad sexual o de género, así como para apoyar a quienes ya se encuentran en situación de exclusión social. Se prestará especial atención a las políticas de inserción laboral específicas para mujeres trans, especialmente afectadas por el desempleo. <br>● Reconocer la LGTBI+fobia como causa de riesgo psicosocial en el empleo. <br>● Garantizar que el trabajo sea un espacio libre de acoso o discriminación por orientación sexual, expresión o identidad de género y características sexuales, en conexión con otras formas de violencia y acoso en el ámbito del trabajo, como las que sufren las mujeres

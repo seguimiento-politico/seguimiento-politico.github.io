@@ -1,12 +1,13 @@
 id: 11d33088-5e63-43be-a2ce-9b589f9ea804
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 28
+parent_chapter: fc1c7709-bffb-4d70-964b-fb1c882def4b
+text: Ampliaremos los convenios internacionales para evitar la doble imposición internacional e impediremos que el Impuesto de Sociedades grave fiscalmente beneficios que ya han pagado impuestos en otros países.
 categories:
 - Comercio
-text: Ampliaremos los convenios internacionales para evitar la doble imposición internacional e impediremos que el Impuesto de Sociedades grave fiscalmente beneficios que ya han pagado impuestos en otros países.

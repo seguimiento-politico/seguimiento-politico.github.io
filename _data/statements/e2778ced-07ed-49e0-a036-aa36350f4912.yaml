@@ -1,7 +1,6 @@
 id: e2778ced-07ed-49e0-a036-aa36350f4912
 type: promise
-parent_statement: 9adabb37-2af0-4f29-86a6-c61fb37e2a83
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 9adabb37-2af0-4f29-86a6-c61fb37e2a83
+parent_chapter: 66cf6219-da39-4941-aa1a-c1b88e89ed00
+text: Mejora del planteamiento y los objetivos de los planes de movilidad sostenible en relación con el trabajo, para que reflejen la realidad del tejido empresarial de España.
 categories: Transporte
 topics: Movilidad sostenible
-text: Mejora del planteamiento y los objetivos de los planes de movilidad sostenible en relación con el trabajo, para que reflejen la realidad del tejido empresarial de España.

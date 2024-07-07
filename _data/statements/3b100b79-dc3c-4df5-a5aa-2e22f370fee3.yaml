@@ -1,6 +1,6 @@
 id: 3b100b79-dc3c-4df5-a5aa-2e22f370fee3
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 45
+parent_chapter: 7c812468-b672-4621-98aa-f7bc0b37c5af
+text: Aprobaremos la Ley de Medidas de Prevención y Lucha contra el Fraude Fiscal y elaboraremos una Estrategia nacional contra el fraude fiscal. Se reforzarán los medios dedicados a la lucha contra el fraude, se actualizará la lista de paraísos fiscales, se potenciará la prevención del fraude mediante la lista de morosos de la AEAT y se prohibirán las amnistías fiscales.
 categories: Impuestos y financiación fiscal
 topics: Fraude fiscal
-text: Aprobaremos la Ley de Medidas de Prevención y Lucha contra el Fraude Fiscal y elaboraremos una Estrategia nacional contra el fraude fiscal. Se reforzarán los medios dedicados a la lucha contra el fraude, se actualizará la lista de paraísos fiscales, se potenciará la prevención del fraude mediante la lista de morosos de la AEAT y se prohibirán las amnistías fiscales.

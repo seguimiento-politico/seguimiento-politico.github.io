@@ -1,0 +1,58 @@
+id: 072dd59b-4b76-4b25-8a7d-d0c5fc8d4950
+type: statement
+parent_document: a613c4b6-f9dc-4926-8b9a-b87c233e5a75
+parties:
+- VOX
+election_type: europeas
+election_date: '2024-06-09'
+publication_date: '2024-05-30'
+page: 22
+text: 'La agenda ecologista radical que domina las instituciones de la UE y que asumen PP y PSOE ha impregnado el mercado de la energía, provocando un aumento artificial del precio de la energía que cuesta muy caro a los españoles. El precio de la luz ha subido por el incremento de los costes de las energías “menos limpias”. Estas acuden a un mercado de derechos de emisión de CO2 controlado por Bruselas, que, guiada por su religión climática, ha cargado cada vez más impuestos sobre ellas.
+
+  Cuando en 2008 nace el mercado de derechos de emisión CO2 el precio medio anual fue de 22,02€. En 2021 el precio medio de la tonelada de CO2 emitida fue de 53,55€ y el año pasado fueron 83,5€; incrementándose el precio por la Estrategia Europea de Clima (votada por PSOE y PP), la subida de impuestos verdes y la entrada de fondos de inversión especulativos.
+
+  VOX ha denunciado en la UE las decisiones que está tomando von der Leyen y que han provocado un encarecimiento del precio de la energía y la pérdida de competitividad de nuestra industria, especialmente las directivas contenidas en el paquete de medidas Fit for 55 y el plan Repower EU. A su vez, en VOX nos hemos opuesto a reglamentos con la Ley Europea del Clima que sentó las bases para la consecución de la Agenda 2030 y el Acuerdo de París en la Unión Europea y el “germen” de la ya conocida ley de la restauración de la naturaleza, la estrategia “De la Granja a la mesa” o el mecanismo de ajuste de carbono en frontera; y que suponen la ruina para los españoles y los europeos.'
+categories:
+- Energía
+- Medioambiente
+- Impuestos y financiación pública
+topics:
+- name: De la Granja a la mesa
+  position_negative:
+  - text: suponen la ruina para los españoles y los europeos.
+- name: Ley de la restauración de la naturaleza
+  position_negative:
+  - text: suponen la ruina para los españoles y los europeos.
+- name: Acuerdo de París
+  position_negative:
+  - text: encarece la energía
+  - text: reduce la competitividad de la industria
+- name: Repower EU
+  position_negative:
+  - text: encarece la energía
+  - text: reduce la competitividad de la industria
+- name: Ley Europea del Clima
+  position_negative:
+  - text: suponen la ruina para los españoles y los europeos.
+- name: Ecologismo
+  position_negative:
+  - text: lleva a políticas que encarecen el precio de la energía
+- name: Mercado eléctrico
+- name: Precio de la energía
+- name: Gases de efecto invernadero
+- name: Energía sostenible
+- name: Energía limpia
+  position_negative: null
+- name: Cambio climático
+  position_negative: null
+- name: Impuestos verdes
+  position_negative:
+  - text: es consecuencia del ecologismo radical
+  - text: encarece la energía
+- name: Control y reducción de emisiones
+  position_negative:
+  - text: encarece la energía
+  negative_consequences:
+  - text: reduce la competitividad de la industria
+  negative_causes:
+  - text: es consecuencia del ecologismo radical

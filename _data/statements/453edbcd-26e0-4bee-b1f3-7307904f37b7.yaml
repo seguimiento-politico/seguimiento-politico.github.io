@@ -1,6 +1,6 @@
 id: 453edbcd-26e0-4bee-b1f3-7307904f37b7
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 26
-categories: Trabajo
+parent_chapter: c22a6b36-a06c-43e3-ae12-f9b87ce394c7
+children_promises:
+- 7f95b070-5526-4334-ba8b-e2daeee1e415
+children_statements:
+- be4af5c6-7a0e-4623-8467-f600307edc44
 title: Reconocimiento del derecho a la intimidad en los controles por reconocimiento facial
-has_children: true
+categories: Trabajo

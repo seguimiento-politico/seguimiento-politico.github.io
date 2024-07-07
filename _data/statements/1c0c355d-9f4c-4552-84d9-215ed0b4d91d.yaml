@@ -1,6 +1,6 @@
 id: 1c0c355d-9f4c-4552-84d9-215ed0b4d91d
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 61
+parent_chapter: df0855f1-ef6b-4176-a7cc-717c59210e57
+text: PROPONEMOS UNA PROFUNDA MODIFICACIÓN DE LOS CENTROS DE ATENCIÓN A PERSONAS CON DISCAPACIDAD DEPENDIENTES DEL IMSERSO, en colaboración con las Comunidades Autónomas y el Tercer Sector. Modificaremos la Ley de Propiedad Horizontal con el fin de facilitar que todas las personas con discapacidad o mayores puedan hacer las obras de accesibilidad necesarias para que puedan seguir viviendo en sus domicilios y en su comunidad.
 categories: Derechos y servicios sociales
 topics: Discapacidad
-text: PROPONEMOS UNA PROFUNDA MODIFICACIÓN DE LOS CENTROS DE ATENCIÓN A PERSONAS CON DISCAPACIDAD DEPENDIENTES DEL IMSERSO, en colaboración con las Comunidades Autónomas y el Tercer Sector. Modificaremos la Ley de Propiedad Horizontal con el fin de facilitar que todas las personas con discapacidad o mayores puedan hacer las obras de accesibilidad necesarias para que puedan seguir viviendo en sus domicilios y en su comunidad.

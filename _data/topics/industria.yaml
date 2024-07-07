@@ -1,0 +1,45 @@
+name: Industria
+other:
+- &id001
+  id: b5607865-b4ca-4e0f-ae05-e96d4c1dd5c8
+  parties:
+  - VOX
+- &id002
+  id: 666fa654-af9f-496b-b5be-9a3aa1155443
+  parties:
+  - VOX
+- &id003
+  id: e985ed68-5d08-4ffb-8f53-09806c2f08c2
+  parties:
+  - VOX
+other_count: 3
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions:
+- &id004
+  id: c1fccb45-1fae-42e5-b65c-c8cd4b17bdd2
+  parties:
+  - VOX
+proposed_actions_count: 1
+statements:
+- &id005
+  id: 25384583-ff36-4896-8e48-540b4200a231
+  parties:
+  - VOX
+- *id001
+- &id006
+  id: db2d4bf3-d7d9-4dfb-9b43-9a0063c89037
+  parties:
+  - VOX
+- *id002
+- *id003
+- *id004
+statements_count: 6
+status_quo_negative:
+- *id005
+- *id006
+status_quo_negative_count: 2
+status_quo_positive: []
+status_quo_positive_count: 0

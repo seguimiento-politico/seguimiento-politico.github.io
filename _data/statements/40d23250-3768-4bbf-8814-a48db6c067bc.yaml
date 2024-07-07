@@ -1,6 +1,6 @@
 id: 40d23250-3768-4bbf-8814-a48db6c067bc
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 90
+parent_chapter: 4b1a1fd6-83f2-4e8c-a775-7e65f72f50be
 title: Garantizar un alquiler estable, asequible y seguro.
 text: Para asegurar la renta y la estabilidad del contrato en beneficio de ambas partes, se implantará un contrato de arrendamiento indefinido, estableciendo causas claras de rescisión justificada En los casos en que el arrendatario sea especialmente vulnerable y el arrendador sea un gran propietario de viviendas (sociedades inmobiliarias y fondos buitre), el contrato de alquiler se prorrogará de manera automática

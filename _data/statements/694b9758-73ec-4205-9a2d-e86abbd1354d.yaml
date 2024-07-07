@@ -1,10 +1,12 @@
 id: 694b9758-73ec-4205-9a2d-e86abbd1354d
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 51
+parent_chapter: b2d30d31-839e-4c79-b8e2-fe59d97d9e6d
 text: Extenderemos las medidas de apoyo al empleo de la personas con discapacidad a las comunidades autónomas. Favoreceremos los convenios de colaboración con las entidades de iniciativa social para la gestión de servicios sociales.
+topics: Discapacidad

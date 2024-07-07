@@ -1,6 +1,6 @@
 id: c36d52ed-b186-414a-93df-e4092bc274f3
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 36
+parent_chapter: 71810e43-e455-49c0-b7c8-ad2068deb746
+text: Profundizar en las alianzas que afrontan los retos comunes en defensa del Estado de derecho, el imperio de la ley, la libertad de expresión, la propiedad privada y la separación de poderes frente a la ofensiva totalitaria del comunismo y el socialismo en los países de la Iberosfera.
 categories:
 - Política internacional
-text: Profundizar en las alianzas que afrontan los retos comunes en defensa del Estado de derecho, el imperio de la ley, la libertad de expresión, la propiedad privada y la separación de poderes frente a la ofensiva totalitaria del comunismo y el socialismo en los países de la Iberosfera.

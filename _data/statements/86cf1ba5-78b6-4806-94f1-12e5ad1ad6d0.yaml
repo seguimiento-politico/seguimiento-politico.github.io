@@ -1,6 +1,6 @@
 id: 86cf1ba5-78b6-4806-94f1-12e5ad1ad6d0
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 238
+parent_chapter: 1d1e663b-2a63-4a00-926a-0947518da1fa
+text: Adaptaremos la legislación a un contexto cambiante a fin de lograr la prestación óptima e integral de los servicios de seguridad privada.
 categories: Seguridad y defensa
 topics: Seguridad privada
-text: Adaptaremos la legislación a un contexto cambiante a fin de lograr la prestación óptima e integral de los servicios de seguridad privada.

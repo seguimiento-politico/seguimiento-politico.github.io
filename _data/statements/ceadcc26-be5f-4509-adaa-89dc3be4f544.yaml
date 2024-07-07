@@ -1,6 +1,6 @@
 id: ceadcc26-be5f-4509-adaa-89dc3be4f544
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 178
+parent_chapter: afca3e4a-d9b5-41f5-8544-5899bb9425e5
+text: Sensibilizar a la ciudadanía del cambio que suponen las nuevas sociedades longevas, y apostar por la intergeneracionalidad para construir sociedades más equitativas, inclusivas y sostenibles, erradicando culturas y prácticas edadistas.
 categories: Derechos y servicios sociales
 topics: Mayores
-text: Sensibilizar a la ciudadanía del cambio que suponen las nuevas sociedades longevas, y apostar por la intergeneracionalidad para construir sociedades más equitativas, inclusivas y sostenibles, erradicando culturas y prácticas edadistas.

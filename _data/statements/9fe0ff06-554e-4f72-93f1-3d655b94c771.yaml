@@ -1,6 +1,6 @@
 id: 9fe0ff06-554e-4f72-93f1-3d655b94c771
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 36
+parent_chapter: 71810e43-e455-49c0-b7c8-ad2068deb746
+text: En materia de inmigración, que se afrontará en todo caso atendiendo a las necesidades de la economía española, se establecerán condiciones que tengan en cuenta las nacionalidades que comparten idioma y lazos históricos y culturales con España.
 categories:
 - Política internacional
-text: En materia de inmigración, que se afrontará en todo caso atendiendo a las necesidades de la economía española, se establecerán condiciones que tengan en cuenta las nacionalidades que comparten idioma y lazos históricos y culturales con España.

@@ -1,6 +1,6 @@
 id: e962dc4f-623d-4dcf-8c19-43935536f15e
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 92
-categories: Sanidad
+parent_chapter: 17e4c412-8ac4-4992-848a-422903075ee3
+children_promises:
+- 35a8ff8c-107d-44c5-a68c-19c6f7411299
+children_statements: []
 title: Atención a las adicciones.
-has_children: true
+categories: Sanidad

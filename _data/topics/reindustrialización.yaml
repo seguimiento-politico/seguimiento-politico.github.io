@@ -1,0 +1,25 @@
+name: Reindustrialización
+other:
+- &id001
+  id: c11f6a86-a99c-4c54-af11-2cb544c05113
+  parties:
+  - CIUDADANOS
+- &id002
+  id: e0dede8c-485c-41ca-9442-9e60c8c2f0f2
+  parties:
+  - CIUDADANOS
+other_count: 2
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- *id002
+statements_count: 2
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

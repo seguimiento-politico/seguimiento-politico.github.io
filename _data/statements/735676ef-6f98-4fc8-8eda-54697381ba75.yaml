@@ -1,6 +1,6 @@
 id: 735676ef-6f98-4fc8-8eda-54697381ba75
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 12
+parent_chapter: 14cfe70b-f6b5-4003-88f7-02a877dec28f
 text: Aumento de hasta el 25 % de coches eléctricos o que funcionen con otras tecnologías alternativas a los combustibles fósiles en los turismos vendidos en España en 2025 y hasta el 70% en 2030, para aproximarnos al objetivo del 100 % en 2040. Esta transición se llevará a cabo colaborando desde el Estado con los fabricantes para que puedan adaptar sus cadenas de montaje en España a la producción de coches eléctricos o que funcionen con otras tecnologías alternativas a los combustibles fósiles y sin que el cambio del parque móvil suponga ningún coste añadido para la economía de las familias La industria automotriz española es estratégica y, si no apoyamos y activamos su reconversión adelantándonos a otros países, corremos el riesgo de afrontar cierres a medio plazo

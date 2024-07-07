@@ -1,7 +1,6 @@
 id: 5f033683-19bb-4ced-9b2f-e7c3ab6e0c3e
 type: promise
-parent_statement: de21114e-9aae-4578-ac50-9b2f97ddf120
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: de21114e-9aae-4578-ac50-9b2f97ddf120
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+text: Apoyo a las familias monoparentales. Estas familias, compuestas mayoritariamente por mujeres cabeza de familia, sufren mayor riesgo de pobreza y mayores y mayores carencias materiales severas. Se propondrán medidas de apoyo para reducir la feminización de la pobreza, así como para equiparar en derechos a estas familias, especialmente en el ámbito de los cuidados.
 categories: Democracia
 topics: Igualdad
-text: Apoyo a las familias monoparentales. Estas familias, compuestas mayoritariamente por mujeres cabeza de familia, sufren mayor riesgo de pobreza y mayores y mayores carencias materiales severas. Se propondrán medidas de apoyo para reducir la feminización de la pobreza, así como para equiparar en derechos a estas familias, especialmente en el ámbito de los cuidados.

@@ -1,6 +1,6 @@
 id: a7785798-3ab7-428a-9707-5c9ff728f22e
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 210
-categories: Consumo
+parent_chapter: d389f23d-8889-42f7-bf07-5877db4fb159
 text: Pondremos en marcha un Plan Nacional de Apoyo al Sistema Arbitral que potencie y fomente entre personas consumidoras y empresas el recurso al arbitraje de consumo como vía de resolución de reclamaciones.
+categories: Consumo

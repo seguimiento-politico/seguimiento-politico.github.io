@@ -1,6 +1,6 @@
 id: 25e8378f-3b16-4f35-9257-7400ce8f1cd7
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 59
+parent_chapter: 515b8d5e-bb59-4239-b0e5-1a45b7cb18f0
+children_promises:
+- 5ca7dadc-8484-4fff-8730-6a899bcea5e8
+children_statements: []
+title: Crearemos una infraestructura de país (Salas Blancas España), que nos ponga en igualdad de condiciones con las instituciones más innovadoras del mundo en el área de semiconductores y microelectrónica.
 categories:
 - Industria
 - Ciencia y tecnología
-title: Crearemos una infraestructura de país (Salas Blancas España), que nos ponga en igualdad de condiciones con las instituciones más innovadoras del mundo en el área de semiconductores y microelectrónica.
-has_children: true

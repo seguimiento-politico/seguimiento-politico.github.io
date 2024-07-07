@@ -1,0 +1,20 @@
+name: Empleo juvenil
+other:
+- &id001
+  id: 0937122b-4412-4e92-96f9-5785bd85adc1
+  parties:
+  - CIUDADANOS
+other_count: 1
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+statements_count: 1
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

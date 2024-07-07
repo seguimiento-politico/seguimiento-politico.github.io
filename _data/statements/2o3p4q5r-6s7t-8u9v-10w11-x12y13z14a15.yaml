@@ -1,6 +1,6 @@
 id: 2o3p4q5r-6s7t-8u9v-10w11-x12y13z14a15
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 45
-categories: Industria
+parent_chapter: 7c79fe71-f119-4b1d-a348-2b181c21b108
+children_promises:
+- 2fff0d0c-aa54-4075-939a-37360a296323
+children_statements: []
 title: Acceso Universal a la Energía con Sistema Tarifario Progresivo
-has_children: true
+categories: Industria

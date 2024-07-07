@@ -1,6 +1,6 @@
 id: b1194af2-1096-42d7-811f-0da5eddd431d
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 85
+parent_chapter: 269560f1-fa10-4646-ad71-8442044657c5
+text: Promocionaremos el establecimiento de sistemas de pago integrados en el ámbito del transporte, especialmente, en los sistemas de movilidad cotidiana, y contribuiremos a financiar su implantación.
 categories: Transporte
 topics: Digitalización
-text: Promocionaremos el establecimiento de sistemas de pago integrados en el ámbito del transporte, especialmente, en los sistemas de movilidad cotidiana, y contribuiremos a financiar su implantación.

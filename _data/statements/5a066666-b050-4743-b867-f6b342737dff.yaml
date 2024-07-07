@@ -1,7 +1,6 @@
 id: 5a066666-b050-4743-b867-f6b342737dff
 type: promise
-parent_statement: 9ee370ee-9dbd-448d-a5b0-ef5db0b7e4c6
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Trabajo
+parent_statement: 9ee370ee-9dbd-448d-a5b0-ef5db0b7e4c6
+parent_chapter: 89ad30e0-548c-47cd-a92a-62d44e2dbb0f
 text: Estableceremos garantías para las personas trabajadoras frente al despido mediante un sistema restaurativo y disuasorio, así como mediante el reforzamiento de la causalidad en los supuestos de extinción de la relación laboral. Ello implica el derecho del trabajador a la readmisión o a la indemniza ción por despido improcedente, incluyendo el cese durante el periodo de prueba. En ambos casos, se reconocerá el derecho a una indemnización adicional que compense efectivamente el daño causado en atención a las circunstancias del despido y a la capacidad económica de la empresa.
+categories: Trabajo

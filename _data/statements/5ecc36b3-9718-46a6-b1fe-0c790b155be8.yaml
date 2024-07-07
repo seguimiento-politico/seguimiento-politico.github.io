@@ -1,6 +1,6 @@
 id: 5ecc36b3-9718-46a6-b1fe-0c790b155be8
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 54
+parent_chapter: d6814cd3-b2e5-4b90-a62f-2c3e6434b1be
+children_promises:
+- c75870de-0967-4b9e-925d-9a77a92faa42
+children_statements: []
+title: Fomentaremos un debate entre los Estados miembros que sitúe los derechos digitales en el centro de las prioridades políticas de la Unión
 categories: Derechos y servicios sociales
 topics: Derechos digitales
-title: Fomentaremos un debate entre los Estados miembros que sitúe los derechos digitales en el centro de las prioridades políticas de la Unión
-has_children: true

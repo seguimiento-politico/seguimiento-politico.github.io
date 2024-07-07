@@ -1,6 +1,6 @@
 id: 8a90648e-b288-410f-8b47-155e346168cb
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 144
+parent_chapter: c794cb24-1c55-422f-8b6d-1ff29ad1ed87
+children_promises:
+- e4b4c363-0073-432d-8d6c-08b36ab1289c
+- 5d654c41-3f23-4708-bedd-4ec83d1c87af
+- f952d697-0c45-4c8e-bb12-91e23ee608e4
+- b820bbac-b9fb-45a3-bf22-f9841c2f6bb7
+- bc6e9367-d1af-4f9e-878d-73630a7cb613
+children_statements: []
+title: Los derechos laborales, en el centro de la transición ecológica y digital europea
 categories: Política internacional
 topics: Europa
-title: Los derechos laborales, en el centro de la transición ecológica y digital europea
-has_children: true

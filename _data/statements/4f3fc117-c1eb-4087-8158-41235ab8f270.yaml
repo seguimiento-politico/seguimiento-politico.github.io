@@ -1,7 +1,6 @@
 id: 4f3fc117-c1eb-4087-8158-41235ab8f270
 type: promise
-parent_statement: 97365f7a-0248-479b-91c9-c13d9bf3d455
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 97365f7a-0248-479b-91c9-c13d9bf3d455
+parent_chapter: 5ac453aa-319d-4ea3-b4b6-7a63e3dde3ff
+text: con la finalidad de erradicar prácticas como las «cláusulas suelo», las tarjetas revolving o las hipotecas multidivisa, entre otras.
 categories: Consumo
 topics: Consumo sostenible
-text: con la finalidad de erradicar prácticas como las «cláusulas suelo», las tarjetas revolving o las hipotecas multidivisa, entre otras.

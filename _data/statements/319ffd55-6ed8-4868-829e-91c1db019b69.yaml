@@ -1,6 +1,6 @@
 id: 319ffd55-6ed8-4868-829e-91c1db019b69
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,18 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 94
+parent_chapter: b36e5d9e-ba98-45f0-8911-a0a18af0be33
+children_promises:
+- af96ee01-5222-4563-b402-684ea7ed3971
+- 7be3d199-6621-4c04-ae58-346e1fa87f14
+- 37093727-a514-4b19-b4fb-a93bc680cdd6
+- 747dd077-2c10-4413-bf8d-8d784505aa20
+- b00aff47-6c9c-4eaf-b6d2-6e4e93da38c9
+- 12272678-52d7-43b5-811b-4b292030fd8e
+- c43a7004-0271-47d5-9a42-9cc40e4ce40d
+- 97ef9074-7dde-4b87-918b-6205ab7b4487
+- 7adfca14-eca8-4404-8147-b8860f8707dc
+children_statements: []
+title: 'Protección derechos infancia y familias: Cuidados y permisos parentales'
 categories: Familia
 topics: Incentivos, ayudas y subvenciones
-title: 'Protección derechos infancia y familias: Cuidados y permisos parentales'
-has_children: true

@@ -1,11 +1,12 @@
 id: 1190dfb7-cb8d-42d6-8262-b71ba67f73d8
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 36
-categories: Deporte
+parent_chapter: 600905ec-cddc-48bb-ac75-e797f671a827
 text: Impulsaremos la difusión de los deportes minoritarios y facilitaremos su acercamiento al público.
+categories: Deporte

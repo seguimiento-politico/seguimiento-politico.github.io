@@ -1,11 +1,12 @@
 id: aa2f79d6-69d0-4ac7-b2d3-054b32ee9e7f
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 14
-categories: Nacionalismo y patriotismo
+parent_chapter: 1d70d4de-8db8-40af-98f3-72921bc2f7ab
 text: Reformaremos el Código Penal para volver a tipificar como delito la convocatoria de referéndum ilegal y reformaremos la Ley del Indulto para prohibirlo en los casos de delitos de rebelión y sedición.
+categories: Nacionalismo y patriotismo

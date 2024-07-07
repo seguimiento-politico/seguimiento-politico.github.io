@@ -1,6 +1,6 @@
 id: a96633ef-8ad7-4b00-bf0e-d95935df7f92
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 95
-categories: Territorio rural
+parent_chapter: e03e73c9-6e4e-4aa6-8af9-eb52e23ad12e
 text: Aprobaremos un plan estratégico para el impulso de la vivienda rural en zonas de reto demográfico.
+categories: Territorio rural

@@ -1,6 +1,6 @@
 id: 280c7d98-9fa6-4b39-b578-5e6cca7b050e
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 23
+parent_chapter: 3af136f2-79a9-420c-af0c-d9d97743494c
+children_promises:
+- 0032531f-65b9-4699-8557-e716752ed1db
+children_statements: []
+title: Nuevo tratado europeo
 categories:
 - Política internacional
-title: Nuevo tratado europeo
-has_children: true

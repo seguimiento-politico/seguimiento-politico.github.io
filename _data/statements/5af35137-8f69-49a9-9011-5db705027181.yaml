@@ -1,7 +1,6 @@
 id: 5af35137-8f69-49a9-9011-5db705027181
 type: promise
-parent_statement: aac02dce-fb54-4dec-a844-e490312e515d
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +8,9 @@ country: spain
 election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
+parent_statement: aac02dce-fb54-4dec-a844-e490312e515d
+parent_chapter: f7d833fa-aff7-4e92-ab7f-4430cb8f127b
+text: Prohibición de erigir mezquitas promovidas por el wahabismo, el salafismo, o cualquier interpretación fundamentalista del Islam.
 categories:
 - Seguridad y defensa
 - Migración
-text: Prohibición de erigir mezquitas promovidas por el wahabismo, el salafismo, o cualquier interpretación fundamentalista del Islam.

@@ -1,7 +1,6 @@
 id: 2dbf7ec1-ad29-4634-b4be-253d06a0b225
 type: promise
-parent_statement: e351d82f-172e-4060-8c74-346ac6514776
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -10,5 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 51
-categories: Política internacional
+parent_statement: e351d82f-172e-4060-8c74-346ac6514776
+parent_chapter: 06572758-339c-4185-bcc1-2905946110b7
 text: La igualdad de trato y contra todo tipo de discriminación (por orientación sexual, identidad de género, raza, religión...) impulsando las correspondientes normas de ámbito europeo, teniendo en cuenta nuestra propia experiencia.
+categories: Política internacional

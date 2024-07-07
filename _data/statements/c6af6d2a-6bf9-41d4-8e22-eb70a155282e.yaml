@@ -1,6 +1,6 @@
 id: c6af6d2a-6bf9-41d4-8e22-eb70a155282e
-type: declaration
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+type: statement
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 37
+parent_chapter: eafb5f3a-18c5-49d4-af67-5a250182a9b7
+text: La falta de infraestructuras de transporte, sanidad, educación y servicios básicos, unida a las menguantes posibilidades de empleo y al abandono de la política nacional del agua, están condenando a la España rural a convertirse en la España vaciada.
 categories:
 - Territorio rural
-text: La falta de infraestructuras de transporte, sanidad, educación y servicios básicos, unida a las menguantes posibilidades de empleo y al abandono de la política nacional del agua, están condenando a la España rural a convertirse en la España vaciada.

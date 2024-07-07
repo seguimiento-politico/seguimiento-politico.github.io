@@ -1,7 +1,6 @@
 id: 8bafff91-6f5f-49aa-827a-4e3fc0cb77b5
 type: promise
-parent_statement: 934fb268-8a9e-4df1-9781-72b2c36c5890
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 934fb268-8a9e-4df1-9781-72b2c36c5890
+parent_chapter: c1d2932c-9fc8-4b60-9a6a-8398312cb597
+text: Persecución y sanción a los vertederos ilegales.
 categories: Economía
 topics: Economía circular
-text: Persecución y sanción a los vertederos ilegales.

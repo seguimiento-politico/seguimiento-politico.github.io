@@ -1,6 +1,6 @@
 id: 4161ec03-19a9-415d-9ce9-4ce513e422a6
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 143
+parent_chapter: 5732e731-e59a-4bf7-9c33-280819845d40
+text: Eliminaremos cualquier tipo de ayuda destinada a la implementación de la Agenda 2030 o la financiación de movimientos de ideología de género o indigenistas en la Iberosfera. Revisaremos nuestra política de cooperación internacional al desarrollo con el fin de no contribuir de manera indirecta al sostenimiento de regímenes autoritarios o que violen los derechos humanos. Reforzaremos e intensificaremos el control de las inversiones en España procedentes de países con regímenes corruptos como Venezuela, Cuba o Nicaragua, entre otros.
 categories:
 - Política internacional
-text: Eliminaremos cualquier tipo de ayuda destinada a la implementación de la Agenda 2030 o la financiación de movimientos de ideología de género o indigenistas en la Iberosfera. Revisaremos nuestra política de cooperación internacional al desarrollo con el fin de no contribuir de manera indirecta al sostenimiento de regímenes autoritarios o que violen los derechos humanos. Reforzaremos e intensificaremos el control de las inversiones en España procedentes de países con regímenes corruptos como Venezuela, Cuba o Nicaragua, entre otros.

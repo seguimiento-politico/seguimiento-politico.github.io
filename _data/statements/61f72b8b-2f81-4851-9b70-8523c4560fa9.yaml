@@ -1,6 +1,6 @@
 id: 61f72b8b-2f81-4851-9b70-8523c4560fa9
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,7 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 10
+parent_chapter: 298cb86d-a349-4888-aba4-5567f2db236a
+text: Eliminación de toda legislación de género y que establezca diferencias laborales entre españoles atendiendo a su sexo, raza u orientación o identidad sexual, tales como cuotas, preferencia en la contratación o prevalencia en caso de empate en una oposición. En lugar de las “cuotas de género”, planes de igualdad u obligaciones de contratación, impulsaremos políticas que permitan la estabilidad familiar y que combatan la brecha maternal.
 categories: Derechos y servicios sociales
 topics:
 - Igualdad
-text: Eliminación de toda legislación de género y que establezca diferencias laborales entre españoles atendiendo a su sexo, raza u orientación o identidad sexual, tales como cuotas, preferencia en la contratación o prevalencia en caso de empate en una oposición. En lugar de las “cuotas de género”, planes de igualdad u obligaciones de contratación, impulsaremos políticas que permitan la estabilidad familiar y que combatan la brecha maternal.

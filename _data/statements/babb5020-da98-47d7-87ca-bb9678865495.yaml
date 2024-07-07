@@ -1,11 +1,12 @@
 id: babb5020-da98-47d7-87ca-bb9678865495
-type: declaration
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+type: statement
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 79
-categories: Democracia
+parent_chapter: fba892fd-d41d-42e2-ba2b-5a598a075f0d
 text: La mejor respuesta a quienes amenazan nuestra democracia es fortaleciendo nuestras instituciones. Merecemos un Gobierno que sea referente de ejemplaridad y que respete la separación de poderes, por ello, es necesario potenciar los mecanismos de transparencia y dotar de nuevos instrumentos de control al Parlamento para evitar la degradación institucional de nuestra democracia provocada por las decisiones del actual Gobierno.
+categories: Democracia

@@ -1,6 +1,6 @@
 id: 86646bed-52de-46aa-8d2f-2e5ef101541e
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 84
-categories: Impuestos y financiación pública
+parent_chapter: ec3e397c-bf4a-4692-a06e-58f507cee1f8
 text: Pondremos a las delegaciones territoriales de RTVE al servicio de todos los españoles, fomentando que sean medios que reflejen la realidad cultural y la actualidad de las distintas provincias. Con ello se dará el primer paso para el cierre de las televisiones autonómicas, que sirven como altavoces del odio a España con el dinero de todos, fuentes de despilfarro e instrumentos al servicio del gobierno regional de turno.
+categories: Impuestos y financiación pública

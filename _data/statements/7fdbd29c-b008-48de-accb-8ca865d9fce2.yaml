@@ -1,6 +1,6 @@
 id: 7fdbd29c-b008-48de-accb-8ca865d9fce2
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 20
+parent_chapter: d5bc3185-7cac-4cbc-9ca4-df232e4c8a2f
+children_promises:
+- 348eeb16-6921-43dc-a104-74cbbd8e5b28
+children_statements: []
+title: Ley de memoria dignidad y justicia para las víctimas del terrorismo.
 categories:
 - Justicia
-title: Ley de memoria dignidad y justicia para las víctimas del terrorismo.
-has_children: true

@@ -1,6 +1,6 @@
 id: 8963ef86-038c-4ac1-bcfc-ca58a6974b8b
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 70
+parent_chapter: 8578ab8d-7981-4416-af24-1cc8cecbf086
+text: Desarrollaremos estrategias para el control de la población de especies cinegéticas de interés asegurando la convivencia con las actividades del medio rural.
 categories: Medioambiente
 topics: Caza
-text: Desarrollaremos estrategias para el control de la población de especies cinegéticas de interés asegurando la convivencia con las actividades del medio rural.

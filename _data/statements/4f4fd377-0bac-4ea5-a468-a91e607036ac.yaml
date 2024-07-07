@@ -1,7 +1,6 @@
 id: 4f4fd377-0bac-4ea5-a468-a91e607036ac
 type: promise
-parent_statement: 21e6da0f-847e-48fd-84b9-b566ce33b87a
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 21e6da0f-847e-48fd-84b9-b566ce33b87a
+parent_chapter: b7709ab3-42ae-4fea-8ba2-7acda945ac2b
+text: Garantizaremos tanto el derecho al cuidado como su corresponsabilidad. El cuidado de las personas es un trabajo no remunerado que asumen de forma desproporcionada las mujeres, lo que afecta negativamente a su vida personal y penaliza su trayectoria laboral. El estado de bienestar debe asumir la garantía del derecho a los cuidados dignos, dotando de presupuesto a las políticas públicas de fomento de la igualdad. Para ello, se propone hacer remunerado y ampliar a diez semanas hasta los doce años el recientemente creado permiso parental, similar al existente en otros países de la UE; remunerar el permiso de cinco días para cuidado de familiares y ampliar el permiso de baja por maternidad para las familias monomarentales hasta las 32 semanas.
 categories: Economía
 topics: Igualdad
-text: Garantizaremos tanto el derecho al cuidado como su corresponsabilidad. El cuidado de las personas es un trabajo no remunerado que asumen de forma desproporcionada las mujeres, lo que afecta negativamente a su vida personal y penaliza su trayectoria laboral. El estado de bienestar debe asumir la garantía del derecho a los cuidados dignos, dotando de presupuesto a las políticas públicas de fomento de la igualdad. Para ello, se propone hacer remunerado y ampliar a diez semanas hasta los doce años el recientemente creado permiso parental, similar al existente en otros países de la UE; remunerar el permiso de cinco días para cuidado de familiares y ampliar el permiso de baja por maternidad para las familias monomarentales hasta las 32 semanas.

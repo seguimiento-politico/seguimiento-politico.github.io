@@ -1,6 +1,6 @@
 id: cb82b49f-9712-4d33-9560-e790971e2831
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 14
+parent_chapter: 7ae97af0-2b46-4081-8273-1e68d732579c
+text: Un eje esencial de la política industrial será la Estrategia “España, Potencia Industrial Verde”, promoviendo la reindustrialización de España, el refuerzo de capac  idades productivas y la cadena de valor asociada a la transición energética, y el aumento del empleo de cal  idad mediante el impulso de las oportun  idades que ofrece la transición energética, en el con  texto de revisión de la globalización que se está produciendo. En este sent  ido, desplegaremos la hoja de ruta de gestión sostenible de las materias primas para reforzar la autonomía estratégica española y europea en esta transición.
 categories: Economía
 topics: Desarrollo sostenible
-text: Un eje esencial de la política industrial será la Estrategia “España, Potencia Industrial Verde”, promoviendo la reindustrialización de España, el refuerzo de capac  idades productivas y la cadena de valor asociada a la transición energética, y el aumento del empleo de cal  idad mediante el impulso de las oportun  idades que ofrece la transición energética, en el con  texto de revisión de la globalización que se está produciendo. En este sent  ido, desplegaremos la hoja de ruta de gestión sostenible de las materias primas para reforzar la autonomía estratégica española y europea en esta transición.

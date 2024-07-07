@@ -1,6 +1,6 @@
 id: bbcfb154-ab7e-429b-9f5d-39d211f51558
-type: declaration
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+type: statement
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: null
+parent_chapter: b8550311-badb-44f7-aafe-46f10435e0b1
 text: Nuestro compromiso frente a la emergencia climática nos obliga a acelerar la transición ecológica de nuestra economía, que incluirá programas para incentivar la creación de empleo y la diversificación del tejido productivo en los sectores y comarcas más vulnerables, de cara a garantizar una senda de prosperidad compartida y duradera. Haremos frente también a los riesgos de la pérdida de biodiversidad, aprovechando el potencial de nuestro rico patrimonio natural y nuestras capacidades empresariales y tecnológicas para mejorar el bienestar social. Nos comprometemos a una transición ecológica justa en todos los sectores productivos y en todos los territorios, con una especial atención a la productividad y sostenibilidad de nuestra agricultura, ganadería y pesca.

@@ -1,6 +1,6 @@
 id: 17010d52-5f8d-418b-b605-6e2e86b7cbe1
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 57
+parent_chapter: f332e39e-54bd-4a09-97bf-4e1a0c3e4bbd
+children_promises:
+- b18d28bc-14a2-4c85-a0c1-879ef8b4d1d1
+children_statements: []
+title: Diseñaremos un plan piloto 6G
 categories: Infraestructuras
 topics: Digitalización
-title: Diseñaremos un plan piloto 6G
-has_children: true

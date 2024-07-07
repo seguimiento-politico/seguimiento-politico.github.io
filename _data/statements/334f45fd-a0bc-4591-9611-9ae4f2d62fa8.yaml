@@ -1,6 +1,6 @@
 id: 334f45fd-a0bc-4591-9611-9ae4f2d62fa8
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 17
+parent_chapter: 70e896cb-cc2e-4700-a649-38c82b332b6c
+children_promises:
+- 677156a0-ec13-4d8f-80a3-d2c3be76c72b
+- 50100731-c82e-470c-8330-63a930d43ec3
+- 501e379a-6c70-48d8-b464-b971fca130f5
+children_statements: []
+title: Apoyo a la familia y natalidad
 categories:
 - Familia
-title: Apoyo a la familia y natalidad
-has_children: true

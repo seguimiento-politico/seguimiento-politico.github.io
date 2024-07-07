@@ -1,6 +1,6 @@
 id: c05f67bc-9241-4190-a734-393bf2a5feea
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 87
-categories: Impuestos y financiación pública
+parent_chapter: fb49201f-46b6-4443-abac-a63d5804e668
 text: Proposición no de Ley exigiendo la auditoría y racionalización del gasto de las entidades pertenecientes al sector público institucional de la Administración General del Estado para identificar duplicidades y eliminarlas (mayo 2022).
+categories: Impuestos y financiación pública

@@ -1,7 +1,6 @@
 id: 7d4dc1d3-eeb6-405c-a59a-aade87c6fa7b
 type: promise
-parent_statement: 939fded4-d0e8-4ad2-abbb-b8108d0bef4e
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +8,9 @@ country: spain
 election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
+parent_statement: 939fded4-d0e8-4ad2-abbb-b8108d0bef4e
+parent_chapter: f7d833fa-aff7-4e92-ab7f-4430cb8f127b
+text: Fortalecer nuestras fronteras.
 categories:
 - Seguridad y defensa
 - Migración
-text: Fortalecer nuestras fronteras.

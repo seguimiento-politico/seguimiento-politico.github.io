@@ -1,0 +1,35 @@
+name: Control fronteras
+other:
+- &id001
+  id: 6e504663-3cb9-4f00-9112-bc6b16fc42fc
+  parties:
+  - VOX
+- &id002
+  id: c866b1bc-6480-4fb9-aee8-f046f5d54eb9
+  parties:
+  - VOX
+- &id003
+  id: 594c789a-6a6e-44b1-a22a-fbfa82cfd9ad
+  parties:
+  - VOX
+- &id004
+  id: 895ecc9c-ac12-482c-bc9b-b5f5bc59a1b9
+  parties:
+  - VOX
+other_count: 4
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- *id002
+- *id003
+- *id004
+statements_count: 4
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

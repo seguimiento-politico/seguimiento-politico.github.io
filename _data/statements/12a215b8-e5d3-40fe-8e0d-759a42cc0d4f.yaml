@@ -1,6 +1,6 @@
 id: 12a215b8-e5d3-40fe-8e0d-759a42cc0d4f
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 22
+parent_chapter: 6f300614-e8ea-4d3c-beef-78df8b43b5e5
+text: 'Impulsaremos medidas encaminadas a la abolición de la prostitución: incluyendo una Ley integral contra la trata con fines de explotación sexual, para sancionar penalmente a quienes contribuyan o se beneficien de la prostitución ajena, sancionando la demanda y la compra de prostitución. Se promoverán planes de formación para empleados públicos con el objeto de facilitar la identificación, la atención a las víctimas de trata con un enfoque integrador, transcultural y de protección y se estrechará la colaboración entre las administraciones públicas, las Fuerzas y Cuerpos de Seguridad de Estado, los Servicios Sociales y las organizaciones especializadas del Tercer Sector.'
 categories: Seguridad y defensa
 topics: Violencia de género
-text: 'Impulsaremos medidas encaminadas a la abolición de la prostitución: incluyendo una Ley integral contra la trata con fines de explotación sexual, para sancionar penalmente a quienes contribuyan o se beneficien de la prostitución ajena, sancionando la demanda y la compra de prostitución. Se promoverán planes de formación para empleados públicos con el objeto de facilitar la identificación, la atención a las víctimas de trata con un enfoque integrador, transcultural y de protección y se estrechará la colaboración entre las administraciones públicas, las Fuerzas y Cuerpos de Seguridad de Estado, los Servicios Sociales y las organizaciones especializadas del Tercer Sector.'

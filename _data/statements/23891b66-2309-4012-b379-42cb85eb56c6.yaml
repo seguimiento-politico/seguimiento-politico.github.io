@@ -1,7 +1,6 @@
 id: 23891b66-2309-4012-b379-42cb85eb56c6
 type: promise
-parent_statement: 02ae9c68-8758-4c64-85c5-784e324ba864
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Industria
+parent_statement: 02ae9c68-8758-4c64-85c5-784e324ba864
+parent_chapter: 7c79fe71-f119-4b1d-a348-2b181c21b108
 text: Un Fondo Público de Inversión en Energías Renovables. Con el fin de contribuir a que el proceso de implantación de las energías renovables sea también un instrumento que permita vertebrar mejor el país y contribuir al reto demográfico de fijar población en la España vaciada, crearemos un Fondo Público de Inversión en Energías Renovables, similar al Fondo Soberano Noruego del Petróleo, cuyo objetivo será financiar procesos de desarrollo industrial en la España vaciada y en el mundo rural, así como mejorar la dotación de servicios públicos de estos territorios.
+categories: Industria

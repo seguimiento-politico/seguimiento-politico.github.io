@@ -1,6 +1,6 @@
 id: e5ec8e89-850d-4078-b288-dcdcf1a3b93e
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 93
+parent_chapter: 4b1a1fd6-83f2-4e8c-a775-7e65f72f50be
 title: Suministros básicos de agua, luz y gas garantizados.
 text: Con las reformas estructurales del sistema eléctrico, se bajará el precio de la factura de la luz, pero también se impedirán los cortes de suministros básicos de agua, luz y gas en las primeras residencias cuando el impago se deba a motivos ajenos a su voluntad, como la pobreza sobrevenida Estas protecciones, que se activarán de manera automática cuando exista situación de vulnerabilidad, durarán un año y se extenderán mientras persista la situación de vulnerabilidad Además, se sumarán a un sistema de sanciones a las compañías cuyos contratos contengan cláusulas abusivas o sean opacas en su gestión de los servicios esenciales de luz, agua y gas

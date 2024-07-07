@@ -1,6 +1,6 @@
 id: c0baa47d-fb42-46ef-bb9e-09b05d9be5b2
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 238
+parent_chapter: 1c3ade94-94d5-47e5-a7bc-091411375d6a
+text: Frente al negacionismo climático, apostamos por el cuidado del medio ambiente para prevenir el riesgo de incendios o inundaciones y vamos a impulsar la coordinación entre administraciones y con la UE para mejorar la respuesta a las catástrofes.
 categories: Seguridad y defensa
 topics: Cambio climático
-text: Frente al negacionismo climático, apostamos por el cuidado del medio ambiente para prevenir el riesgo de incendios o inundaciones y vamos a impulsar la coordinación entre administraciones y con la UE para mejorar la respuesta a las catástrofes.

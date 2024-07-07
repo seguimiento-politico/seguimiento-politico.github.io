@@ -1,6 +1,6 @@
 id: 706d912a-9e46-4402-ac6e-5d7e09976f4d
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 47
-categories: Organización territorial
+parent_chapter: 0ebe7bcf-4ec7-4d85-9e96-27e33fcdd88d
 text: Impulsaremos la clarificación del reparto competencial, y promoveremos la participación de las comunidades autónomas en las actuaciones y decisiones del Estado y del Estado en las actuaciones autonómicas, cuando afecte al interés general, así como el intercambio de información para favorecer una auténtica integración.
+categories: Organización territorial

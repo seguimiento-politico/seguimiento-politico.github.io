@@ -1,6 +1,6 @@
 id: e579280b-b2c1-4b2e-8ba0-ab743b6d02b9
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 46
+parent_chapter: 0de871a0-5319-40e9-8662-5ef7c35d2626
+text: 'En el Impuesto sobre el Valor Añadido: reduciremos el tipo de gravamen de IVA de los servicios veterinarios y de los productos de higiene femenina.'
 categories: Impuestos y financiación fiscal
 topics: Distribución fiscal
-text: 'En el Impuesto sobre el Valor Añadido: reduciremos el tipo de gravamen de IVA de los servicios veterinarios y de los productos de higiene femenina.'

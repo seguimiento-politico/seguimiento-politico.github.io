@@ -1,6 +1,6 @@
 id: 68cb038f-9b10-4c13-8bc9-6802c15d2445
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 171
+parent_chapter: 1ba59a71-2649-49ec-b7ab-7b3f541edfea
+children_promises:
+- 8e4dd73b-ffaa-49e7-a6f3-e026f4adefbe
+- 4e438a4e-5fad-4240-819a-df3f5bd014e2
+children_statements: []
+text: Seguiremos profundizando en la ambiciosa agenda de reducción de la brecha de género de las pensiones, con una subida del complemento contra la brecha de género del IPC +10% adicional en 2026-2027.
 categories: Derechos y servicios sociales
 topics: Pensiones
-text: Seguiremos profundizando en la ambiciosa agenda de reducción de la brecha de género de las pensiones, con una subida del complemento contra la brecha de género del IPC +10% adicional en 2026-2027.
-has_children: true

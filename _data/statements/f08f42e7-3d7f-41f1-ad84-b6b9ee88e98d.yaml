@@ -1,6 +1,6 @@
 id: f08f42e7-3d7f-41f1-ad84-b6b9ee88e98d
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 32
-categories: Derechos y servicios sociales
+parent_chapter: f6b1da17-dc9f-4173-bb8d-5c472a4a169a
 text: Desde el respeto escrupuloso a la libertad de expresión e información, impulsaremos una estrategia nacional para la lucha contra la desinformación, que incluirá la elaboración de guías, mejores prácticas y cursos para combatir la desinformación en internet y redes sociales.
+categories: Derechos y servicios sociales

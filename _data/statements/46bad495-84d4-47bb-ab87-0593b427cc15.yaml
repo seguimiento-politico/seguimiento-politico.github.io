@@ -1,11 +1,12 @@
 id: 46bad495-84d4-47bb-ab87-0593b427cc15
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 88
-categories: Seguridad y defensa
+parent_chapter: adfdbb68-8e6d-41fa-b953-fcd2789530ea
 text: Reforzaremos los mecanismo de coordinación y eficiencia de la policía local para mejorar la seguridad de los vecinos del ámbito rural, con gestión mancomunada u otras formas de organización local eficaces.
+categories: Seguridad y defensa

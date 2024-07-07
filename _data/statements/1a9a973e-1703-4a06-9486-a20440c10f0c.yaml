@@ -1,12 +1,13 @@
 id: 1a9a973e-1703-4a06-9486-a20440c10f0c
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 29
+parent_chapter: 4f4736d6-ca72-42e2-b85c-f0d1537c0682
+text: Trasladaremos una imagen positiva del turismo como uno de los sectores productivos en la economía de España, tractor de otros sectores. No solamente por una imagen exterior, sino también por una cuestión de convivencia para evitar acciones de “turismofobia”.
 categories:
 - Turismo
-text: Trasladaremos una imagen positiva del turismo como uno de los sectores productivos en la economía de España, tractor de otros sectores. No solamente por una imagen exterior, sino también por una cuestión de convivencia para evitar acciones de “turismofobia”.

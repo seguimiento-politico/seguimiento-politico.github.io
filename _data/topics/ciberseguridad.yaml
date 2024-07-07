@@ -1,0 +1,25 @@
+name: Ciberseguridad
+other:
+- &id001
+  id: 508618a5-fcbd-491a-bbe4-6885d0465fbc
+  parties:
+  - CIUDADANOS
+- &id002
+  id: 25486d6c-9a80-4525-9b9b-2cb6bd51f4f9
+  parties:
+  - CIUDADANOS
+other_count: 2
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- *id002
+statements_count: 2
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

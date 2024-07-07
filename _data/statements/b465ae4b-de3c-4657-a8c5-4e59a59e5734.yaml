@@ -1,7 +1,6 @@
 id: b465ae4b-de3c-4657-a8c5-4e59a59e5734
 type: promise
-parent_statement: 425f7270-51f2-4060-a546-34ec74dceafe
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Cultura
+parent_statement: 425f7270-51f2-4060-a546-34ec74dceafe
+parent_chapter: 7350357f-215c-4adf-8549-2205377e11a9
 text: Ese Plan debe permitir que la sociedad se sienta representada en las políticas culturales y en su planificación a largo plazo, y ha de preservar los derechos culturales, la igualdad, la diversidad y el equilibrio territorial, el fomento y sostenibilidad de las industrias y tejidos culturales y creativos, y la participación ciudadana.
+categories: Cultura

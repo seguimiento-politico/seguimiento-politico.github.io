@@ -1,7 +1,6 @@
 id: c2815d3f-3f8c-4e92-9845-d391451597b0
 type: promise
-parent_statement: 0a473228-01ac-460c-ab0b-7c9a84ca43d5
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Derechos y servicios sociales
-topics: Cuidados y dependencia
+parent_statement: 0a473228-01ac-460c-ab0b-7c9a84ca43d5
+parent_chapter: 12295f44-3ae3-43bd-8758-0026574e6662
 text: Envejecer en el hogar y en el entorno comunitario. La mayoría de la gente desea permanecer en sus hogares incluso a edades avanzadas y, sin embargo, el sistema las empuja a que ingresen en una residencia. Queremos que las personas mayores puedan vivir en casas, en sus barrios y en sus pueblos con variedad de opciones y capacidad de elección idénticas al resto de la población. Promoveremos un modelo de apoyos y cuidados local y con base comunitaria que garantice el equilibrio y la integración de todos los agentes comprometidos en la atención a las situaciones de dependencia.
+categories: Derechos y servicios sociales
+topics: Tercera edad

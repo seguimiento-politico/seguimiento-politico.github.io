@@ -1,6 +1,6 @@
 id: b5a60002-baf8-4344-9c6b-a18b8df438a5
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 41
-categories: Vivienda
+parent_chapter: b958cf54-1e2a-46d1-94d9-83d7f5877612
 text: Fomentaremos la colaboración entre la Administración Pública y las entidades privadas a efectos de aumentar el parque de viviendas de protección oficial. Movilizaremos el suelo público perteneciente a la Administración General del Estado y los organismos de ella dependientes para la promoción de vivienda en alquiler social. Habilitaremos una plataforma auditada de peticiones para que, manteniendo la SAREB la titularidad de los activos, sean los Ayuntamientos los que soliciten a la SAREB, en función de la demanda y las necesidades habitacionales, la cesión temporal de los activos y el suelo urbanizable para alquiler social.
+categories: Vivienda

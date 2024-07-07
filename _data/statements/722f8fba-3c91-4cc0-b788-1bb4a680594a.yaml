@@ -1,7 +1,6 @@
 id: 722f8fba-3c91-4cc0-b788-1bb4a680594a
 type: promise
-parent_statement: f0f8809c-0371-4c3d-b95a-1cf4e8045240
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,8 +8,10 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: f0f8809c-0371-4c3d-b95a-1cf4e8045240
+parent_chapter: 1d2802d7-3c25-4a37-96cf-85b8e7ed4986
+text: Debe basarse así en una cultura de la diversidad y de la inclusión social para poder dar respuesta a todo el estudiantado, sin discriminación alguna, educando en igualdad, equidad y justicia social.
 categories: Educación
 topics:
 - Igualdad
 - Inclusión
-text: Debe basarse así en una cultura de la diversidad y de la inclusión social para poder dar respuesta a todo el estudiantado, sin discriminación alguna, educando en igualdad, equidad y justicia social.

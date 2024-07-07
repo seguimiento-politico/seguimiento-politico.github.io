@@ -1,6 +1,6 @@
 id: 83d209af-8631-4717-a258-94f1db28f171
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 23
+parent_chapter: 3af136f2-79a9-420c-af0c-d9d97743494c
+children_promises:
+- a6fc80f3-4474-49c7-9c21-91877617b890
+- 4594a199-914f-4986-a05d-151676fa2ea0
+children_statements: []
+title: Revisión de la Política Agraria Común (PAC)
 categories:
 - Política internacional
-title: Revisión de la Política Agraria Común (PAC)
-has_children: true

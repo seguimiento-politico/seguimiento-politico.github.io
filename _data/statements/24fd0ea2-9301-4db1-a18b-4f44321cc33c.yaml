@@ -1,6 +1,6 @@
 id: 24fd0ea2-9301-4db1-a18b-4f44321cc33c
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,7 +8,8 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 30
+parent_chapter: 3772d1ed-1f99-4909-8296-7fc8857deef4
+text: Despolitizar los consejos de administración de las eléctricas. Las puertas giratorias han provocado una abundancia de políticos en los consejos causando pérdida de soberanía energética, sueldos millonarios para los expolíticos y pobreza energética para los españoles.
 categories:
 - Industria
 - Energía
-text: Despolitizar los consejos de administración de las eléctricas. Las puertas giratorias han provocado una abundancia de políticos en los consejos causando pérdida de soberanía energética, sueldos millonarios para los expolíticos y pobreza energética para los españoles.

@@ -1,6 +1,6 @@
 id: 3a3dcb40-039b-441f-93b5-e32e99a98301
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 23
-categories: Derechos y servicios sociales
+parent_chapter: 82cb99f9-443b-47be-bd4c-2773bb661dc1
 text: Impulsaremos políticas para abordar el reto de la soledad no deseada a través de una Estrategia Nacional que coordine acciones y promueva el reconocimiento de este problema social. En esta línea, promoveremos los grupos de apoyo mutuo y las iniciativas comunitarias para la prevención de la soledad y aumentaremos la oferta de Centros de día y de cu  idados de larga duración.
+categories: Derechos y servicios sociales

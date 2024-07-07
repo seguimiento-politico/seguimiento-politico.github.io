@@ -1,6 +1,6 @@
 id: 65f1f691-61fe-4435-a28c-6011efb7f517
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 30
-categories: Vivienda
+parent_chapter: 4b9ad552-80e7-45a6-bece-e6b170f13df0
 text: Aprobaremos un plan estratégico para el impulso de la vivienda rural en zonas de reto demográfico.
+categories: Vivienda

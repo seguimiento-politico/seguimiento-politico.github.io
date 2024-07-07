@@ -1,6 +1,6 @@
 id: c541a568-9b33-48e0-af3a-bc4f961c00fa
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 177
-categories: Deporte
+parent_chapter: 7cb07f90-2b71-46f2-af0b-2684ec9ab916
+children_promises:
+- 39352455-8c1d-46f9-9ffb-afcabf4058be
+- 6284294e-48fa-4569-aadb-9e1247df4f1e
+- b73a2bd2-3419-4bfe-8bc0-05cd37570ac0
+- 8459cd9f-4421-4c5b-8aff-fc983cfc95d2
+- 72b7bc55-37f1-4dee-8e61-4192eb70c81f
+children_statements: []
 title: Apuesta por la investigación, la formación y el desarrollo normativo ante una sociedad cambiante
-has_children: true
+categories: Deporte

@@ -1,6 +1,6 @@
 id: 842364aa-03f1-4baa-9a0e-c83f7ffd826f
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 220
-categories: Deporte
+parent_chapter: 296df921-76ce-4a26-8cc7-612e0c14d44b
 text: Impulsaremos la integración de las Federaciones de deportes practicados por personas con discapacidad en las federaciones deportivas, así como ella promoción d deporte inclusivo como elemento integrador.
+categories: Deporte

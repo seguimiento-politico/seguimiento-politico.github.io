@@ -1,7 +1,6 @@
 id: c34253f6-9ed4-47d4-a7b4-d2a5346ec04b
 type: promise
-parent_statement: c09d1c8c-8a07-480b-87f8-0132d8ba4278
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Administración pública
+parent_statement: c09d1c8c-8a07-480b-87f8-0132d8ba4278
+parent_chapter: f4f32036-0cfd-4ca9-b6f3-5cfec1c58526
 text: Es necesario reformar la ley en vigor, diseñada para institucionalizar la austeridad en España. Lo que se necesita, al contrario, es hacer compatible la sostenibilidad de las finanzas públicas y la estabilidad de la deuda con la inversión y el papel proactivo que debe tener la política fiscal para abordar las transiciones ecológica y digital e impulsar el pleno empleo. La experiencia de la última década pone de manifiesto que los efectos negativos sobre el crecimiento de los recortes de gasto acaban siendo contraproducentes para la estabilidad fiscal, que la política fiscal debe aplicarse con flexibilidad para adaptarse a las circunstancias, y que los efectos positivos de la inversión pública son la mejor fórmula para una reducción progresiva de las ratios de deuda.
+categories: Administración pública

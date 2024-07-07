@@ -1,6 +1,6 @@
 id: 6b620f02-e137-4638-baef-c5c5ab99deca
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 31
+parent_chapter: b8a5aa3d-8c58-4fdb-8ce8-c6eb037312b4
 text: Prestación para el cuidado de niños, niñas y adolescentes, que llegará a los 1200 euros al año de manera universal y a los 2000 euros al año para situaciones de pobreza severa, y que se iniciará de manera urgente con 600 euros al año para familias en riesgo de pobreza, con un incremento del 50 % para familias de una sola progenitora o de un solo progenitor

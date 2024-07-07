@@ -1,6 +1,6 @@
 id: 05015603-75d6-41b5-acbe-75c6054bd707
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 61
+parent_chapter: df0855f1-ef6b-4176-a7cc-717c59210e57
+text: ACTUALIZAREMOS LA ESTRATEGIA ESPAÑOLA EN TRASTORNOS DEL ESPECTRO AUTISTA. Elaboraremos una Estrategia Nacional de Prevención de la Ceguera. Promoveremos todos los instrumentos legales, tanto internacionales como estatales, que propicien una adecuada protección a las lenguas de signos españolas. Implantaremos la tecnología adaptada a la comunicación y accesibilidad de personas con discapacidad auditiva, con especial atención al bucle magnético.
 categories: Derechos y servicios sociales
 topics: Discapacidad
-text: ACTUALIZAREMOS LA ESTRATEGIA ESPAÑOLA EN TRASTORNOS DEL ESPECTRO AUTISTA. Elaboraremos una Estrategia Nacional de Prevención de la Ceguera. Promoveremos todos los instrumentos legales, tanto internacionales como estatales, que propicien una adecuada protección a las lenguas de signos españolas. Implantaremos la tecnología adaptada a la comunicación y accesibilidad de personas con discapacidad auditiva, con especial atención al bucle magnético.

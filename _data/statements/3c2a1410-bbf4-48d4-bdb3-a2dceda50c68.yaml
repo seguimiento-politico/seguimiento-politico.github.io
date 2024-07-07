@@ -1,6 +1,6 @@
 id: 3c2a1410-bbf4-48d4-bdb3-a2dceda50c68
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 110
+parent_chapter: 8a474e92-a922-4e8e-9aca-16ac157ca40a
+text: Todos los veranos somos testigos de los estragos de los incendios forestales y del esfuerzo y sacrificio de nuestros cuerpos de bomberos, Protección Civil, FCSE y la UME en su extinción. Sin embargo, los incendios se empiezan a combatir en invierno, por eso es necesario anticiparse al período estival y realizar todas las tareas necesarias para prevenir su propagación y el aumento de los daños.
 categories:
 - Medioambiente
-text: Todos los veranos somos testigos de los estragos de los incendios forestales y del esfuerzo y sacrificio de nuestros cuerpos de bomberos, Protección Civil, FCSE y la UME en su extinción. Sin embargo, los incendios se empiezan a combatir en invierno, por eso es necesario anticiparse al período estival y realizar todas las tareas necesarias para prevenir su propagación y el aumento de los daños.

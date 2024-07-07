@@ -1,6 +1,6 @@
 id: 6488c180-1c0b-4191-b74b-a44f6b6e4476
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 268
+parent_chapter: 7260ed69-d02c-48a2-8712-ed039ccddea7
+text: Continuaremos mejorando y reforzando la atención a los españoles y españolas la ciudadanía española en el exterior a través de la Red de Consulados y Embajadas de España, avanzando en el Plan de Digitalización de los servicios consulares y dotando a los Consulados de refuerzos e instrumentos que permitan que las y los ciudadanos y ciudadanas españoles en el exterior vean atendidas sus necesidades.
 categories: Política internacional
 topics:
 - Expatriados
 - Consulados
-text: Continuaremos mejorando y reforzando la atención a los españoles y españolas la ciudadanía española en el exterior a través de la Red de Consulados y Embajadas de España, avanzando en el Plan de Digitalización de los servicios consulares y dotando a los Consulados de refuerzos e instrumentos que permitan que las y los ciudadanos y ciudadanas españoles en el exterior vean atendidas sus necesidades.

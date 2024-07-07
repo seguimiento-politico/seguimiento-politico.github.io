@@ -1,6 +1,6 @@
 id: 8961c888-09d6-4229-9622-c0800afe083c
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 26
-categories: Migración
+parent_chapter: 5f0d7f53-8d55-4de4-a19d-e4610d909ada
 text: Eliminación de las ayudas públicas a inmigrantes en situación ilegal y de las subvenciones a ONGs, asociaciones o cualquier entidad que destine sus fondos a promover o ayudar a la inmigración ilegal.
+categories: Migración

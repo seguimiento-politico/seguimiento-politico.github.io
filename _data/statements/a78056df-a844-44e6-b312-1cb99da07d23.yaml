@@ -1,6 +1,6 @@
 id: a78056df-a844-44e6-b312-1cb99da07d23
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 17
-categories: Consumo
+parent_chapter: babe4391-0037-42a8-8d34-fa497e2b2082
 text: Propondremos una modificación de la Ley de seguridad alimentaria para adecuarla a las exigencias contemporáneas de protección a las personas consumidoras y transparencia en su acción.
+categories: Consumo

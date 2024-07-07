@@ -1,6 +1,6 @@
 id: 3f8ee0f1-769e-42ec-a7f3-58b1de6fd9ce
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 80
+parent_chapter: 66cf6219-da39-4941-aa1a-c1b88e89ed00
+children_promises:
+- ea8809d1-db23-4673-ac43-485992b08456
+- 851e6318-32c9-40af-9f57-a216badb4c91
+children_statements: []
+title: Ciudades y territorios cercanos, accesibles y con servicios públicos.
 categories: Transporte
 topics: Movilidad sostenible
-title: Ciudades y territorios cercanos, accesibles y con servicios públicos.
-has_children: true

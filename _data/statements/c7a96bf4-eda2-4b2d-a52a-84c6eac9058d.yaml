@@ -1,7 +1,6 @@
 id: c7a96bf4-eda2-4b2d-a52a-84c6eac9058d
 type: promise
-parent_statement: 658214a6-74ec-413c-999c-b09ce5f86555
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 658214a6-74ec-413c-999c-b09ce5f86555
+parent_chapter: c2c75a7e-7842-4287-9086-d85c4a8cebaa
+text: Brindaremos apoyo para recuperar la memoria de mujeres artistas y creadoras, ampliando la documentación en museos, archivos y bibliotecas, así como respaldando proyectos de investigación e inventario de fondos artísticos en riesgo de desaparición.
 categories: Cultura
 topics: Igualdad
-text: Brindaremos apoyo para recuperar la memoria de mujeres artistas y creadoras, ampliando la documentación en museos, archivos y bibliotecas, así como respaldando proyectos de investigación e inventario de fondos artísticos en riesgo de desaparición.

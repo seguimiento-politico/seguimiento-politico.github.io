@@ -1,0 +1,25 @@
+name: Educación en valores
+other:
+- &id001
+  id: cd409d08-2634-4650-8fa8-6432abe15225
+  parties:
+  - CIUDADANOS
+- &id002
+  id: d21f7ec9-0af9-4b82-a9bb-e50619b54b46
+  parties:
+  - CIUDADANOS
+other_count: 2
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- *id002
+statements_count: 2
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

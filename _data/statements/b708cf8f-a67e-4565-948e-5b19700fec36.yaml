@@ -1,6 +1,6 @@
 id: b708cf8f-a67e-4565-948e-5b19700fec36
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 167
+parent_chapter: e207a6bf-9c54-4399-a574-f130ae590b63
+text: Retomando la senda del diálogo sobre el que se fraguó la reforma de 2011, hemos realizado una reforma del sistema de pensiones enmarcada en las recomendaciones del Pacto de Toledo, y tras de un intenso y fructífero proceso de interlocución con las organizaciones sindicales y empresariales. Porque las pensiones para las y los socialistas son un derecho que entendemos como un asunto de Estado, y por ello consideramos necesario legitimar las reformas en este ámbito mediante el consenso social derivado de esa mesa tripartita de negociación.
 categories: Derechos y servicios sociales
 topics: Pensiones
-text: Retomando la senda del diálogo sobre el que se fraguó la reforma de 2011, hemos realizado una reforma del sistema de pensiones enmarcada en las recomendaciones del Pacto de Toledo, y tras de un intenso y fructífero proceso de interlocución con las organizaciones sindicales y empresariales. Porque las pensiones para las y los socialistas son un derecho que entendemos como un asunto de Estado, y por ello consideramos necesario legitimar las reformas en este ámbito mediante el consenso social derivado de esa mesa tripartita de negociación.

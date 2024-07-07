@@ -1,6 +1,6 @@
 id: f798b879-ad0d-418c-95c7-3c5abd4d2537
-type: declaration
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+type: statement
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 115
+parent_chapter: 11de281a-d271-499b-955d-2771db4b467d
 text: Al mismo tiempo que dejan una España vaciada, los partidos de siempre no tienen ninguna propuesta para dejar de enfrentar a los distintos pueblos de este país. Desde su misma Constitución, el nuestro es un país plurinacional en el que la inmensa mayoría de sus pueblos conviven fraternalmente y deben poder elegir su destino, al tiempo que hay que tener claro que los problemas no se resuelven a garrotazos ni de manera unilateral. Tenemos la tarea de transformar el enfrentamiento en diálogo, porque para asumir los retos que tenemos por delante, debemos estar juntos y juntas.

@@ -1,6 +1,6 @@
 id: 0322c976-b6a7-4596-97c3-6942c01051a3
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 32
-categories: Territorio rural
+parent_chapter: 994994ce-d238-4df8-ae47-d7637a178a8c
 text: MEJORAREMOS A PARTIR DE UN PROYECTO PILOTO, LA FISCALIDAD ESPECÍFICA EN EL MEDIO RURAL, particularmente a aquellas personas y empresas que articulen una industria, abran un negocio o que vendan, compren o permuten tierras. Bonificaremos el Impuesto de Transmisiones y de Actos Jurídicos Documentados o el IBI por compra de una vivienda en el rural e impulsaremos políticas de rehabilitación de viviendas en los pueblos.
+categories: Territorio rural

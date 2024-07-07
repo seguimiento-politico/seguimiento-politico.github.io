@@ -1,6 +1,6 @@
 id: b6051921-4b14-4862-90ca-024f1ad207c2
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 11
+parent_chapter: 80f33f13-c365-4098-ac18-6210795cdb15
+children_promises:
+- 276f4147-98bf-4198-836e-180284b669df
+- 92b3eb4c-836b-46e2-af72-e9dd970f7b5f
+- 8d0d39ef-92fb-47ff-962d-ca9f071c781d
+children_statements: []
+title: Beneficios fiscales para las familias
 categories:
 - Economía
-title: Beneficios fiscales para las familias
-has_children: true

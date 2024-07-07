@@ -1,0 +1,45 @@
+name: Medioambiente
+other:
+- &id001
+  id: bcb35722-e19f-4f05-9276-8d83a0a445e8
+  parties:
+  - VOX
+- &id002
+  id: b5607865-b4ca-4e0f-ae05-e96d4c1dd5c8
+  parties:
+  - VOX
+- &id003
+  id: ece6ba07-cf63-414d-a430-2f0d8c9b2be1
+  parties:
+  - VOX
+- &id006
+  id: 393c21a3-d1d5-41a5-86f4-ea8807915010
+  parties:
+  - VOX
+other_count: 4
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions:
+- &id004
+  id: 28d71fb9-8a78-412c-8991-5ca4d9f26899
+  parties:
+  - VOX
+- &id005
+  id: 17d36def-7688-412e-8a86-d7e964fb366e
+  parties:
+  - VOX
+proposed_actions_count: 2
+statements:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+statements_count: 6
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

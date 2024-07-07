@@ -1,7 +1,6 @@
 id: 2764f9cc-c84c-4ff7-8d8d-b7025d6b0450
 type: promise
-parent_statement: 333e4c7c-9832-4749-bf0c-4b37be0996c2
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Vivienda
+parent_statement: 333e4c7c-9832-4749-bf0c-4b37be0996c2
+parent_chapter: 10dbdb5a-3231-46ed-86c9-0dc18f77040e
 text: Mejoraremos la información de alquileres y estableceremos precios de referencia. Esta propuesta pretende mejorar el funcionamiento del mercado del alquiler de vivienda por dos vías. La primera de ellas es mejorar el conocimiento sobre la evolución de los alquileres estableciendo un pago mensual a cuenta en el IRPF del 0,1% de los ingresos percibidos por alquileres, para conocer con precisión casi censal y en tiempo real cómo evoluciona el precio de los alquileres en España. La segunda es establecer unos precios de referencia para las zonas tensionadas equivalentes al 30% de la renta de los hogares que alquilan, eliminando las deducciones fiscales en el IRPF de los alquileres que se sitúen por encima del precio de referencia y estableciendo un recargo en el impuesto de sociedades para los fondos y empresas que alquilen viviendas por encima de los precios de referencia. Por otro lado, haremos obligatoria la declaración de zona de mercado tensionado en las áreas geográficas en las que se cumplan objetivamente los requisitos que la Ley de Vivienda establece, aplicando así la regulación de alquileres a todas las zonas de mercado tensionado sin depender de la voluntad política del Gobierno autonómico.
+categories: Vivienda

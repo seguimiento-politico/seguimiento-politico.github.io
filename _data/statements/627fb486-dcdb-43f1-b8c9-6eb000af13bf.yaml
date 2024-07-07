@@ -1,7 +1,6 @@
 id: 627fb486-dcdb-43f1-b8c9-6eb000af13bf
 type: promise
-parent_statement: 04135130-6c82-4ef8-86e7-81c919aadd65
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,8 +8,10 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 04135130-6c82-4ef8-86e7-81c919aadd65
+parent_chapter: fab1a77a-568e-403c-9c7d-19f7b540d95e
+text: Incluir la evaluación de carácter cualitativo, la relativa a la docencia o a la gestión académica y la vinculada al bienestar común o a la transferencia a la sociedad sin ánimo de lucro.
 categories: Trabajo
 topics:
 - Empleo público
 - Universidad
-text: Incluir la evaluación de carácter cualitativo, la relativa a la docencia o a la gestión académica y la vinculada al bienestar común o a la transferencia a la sociedad sin ánimo de lucro.

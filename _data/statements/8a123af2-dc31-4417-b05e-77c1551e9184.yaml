@@ -1,6 +1,6 @@
 id: 8a123af2-dc31-4417-b05e-77c1551e9184
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 34
-categories: Trabajo
+parent_chapter: 2e87f7f8-d5a3-47a6-82d5-b25f36e88929
+children_promises:
+- 215bc4fd-3681-4e6e-ac2f-53ce5cd844c1
+- 9e1462d7-a6e5-4c24-9877-c331208c79b3
+children_statements: []
 title: Protección de la familia en situaciones de viudedad, orfandad, etcétera
-has_children: true
+categories: Trabajo

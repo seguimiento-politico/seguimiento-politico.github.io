@@ -1,6 +1,6 @@
 id: e84e0114-7388-42cd-bd26-5145819092da
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,7 +8,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 21
-categories: Derechos y servicios sociales
-topics: Igualdad
+parent_chapter: 4b1683fc-d7a0-48bb-aee9-80fe2e0346f6
 title: IMPULSAREMOS PLANES DE IGUALDAD CON HORIZONTES TEMPORALES Y OBJETIVOS CONCRETOS Y EVALUABLES.
 text: 'Entre sus objetivos estarán fomentar el empleo y el emprendimiento de las mujeres; avanzar hacia una presencia equilibrada en puestos directivos; dar pasos firmes en materia de corresponsabilidad, y combatir las brechas que aún se mantienen en el ámbito laboral: la brecha salarial entre hombres y mujeres, la brecha en la ocupación y en la intensidad de esa ocupación laboral, la brecha en los cuidados y en el tiempo dedicado a estos, la brecha de género en las pensiones, las desigualdades horizontales y verticales en el mercado laboral, o las abultadas diferencias entre sexos en la elección de estudios STEM.'
+categories: Derechos y servicios sociales
+topics: Igualdad

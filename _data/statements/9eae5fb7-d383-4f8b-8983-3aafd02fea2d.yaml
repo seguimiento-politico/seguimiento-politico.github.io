@@ -1,6 +1,6 @@
 id: 9eae5fb7-d383-4f8b-8983-3aafd02fea2d
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 11
+parent_chapter: 80f33f13-c365-4098-ac18-6210795cdb15
+children_promises:
+- fa7d3daa-1b5d-4b52-bda0-7b33f0703029
+- 68754d4b-3c85-46fa-943f-63d76ede8e0b
+- 933680e6-5def-491a-8cb2-80acd79132bd
+children_statements: []
+title: Supresión impuestos de patrimonio, sucesiones y donaciones, y plusvalías municipales
 categories:
 - Economía
-title: Supresión impuestos de patrimonio, sucesiones y donaciones, y plusvalías municipales
-has_children: true

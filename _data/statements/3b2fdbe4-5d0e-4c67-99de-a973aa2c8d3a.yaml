@@ -1,11 +1,12 @@
 id: 3b2fdbe4-5d0e-4c67-99de-a973aa2c8d3a
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 14
-categories: Nacionalismo y patriotismo
+parent_chapter: 1d70d4de-8db8-40af-98f3-72921bc2f7ab
 text: Reafirmaremos la competencia exclusiva que se reconoce al Estado en las relaciones internacionales en los términos del artículo 149 de la Constitución. Se clausurarán todos los organismos e instituciones que socaven esta competencia exclusiva. Se facilitará la integración de los organismos autonómicos dentro de los servicios del Estado.
+categories: Nacionalismo y patriotismo

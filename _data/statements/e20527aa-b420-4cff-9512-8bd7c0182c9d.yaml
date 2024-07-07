@@ -1,7 +1,6 @@
 id: e20527aa-b420-4cff-9512-8bd7c0182c9d
-type: declaration
-parent_statement: 634dfa8c-fbac-4793-9802-fbb885beea66
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -9,5 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 67
-categories: Democracia
+parent_statement: 634dfa8c-fbac-4793-9802-fbb885beea66
+parent_chapter: a6a343d5-df56-4658-85e8-614a6cb5a3f6
 text: Frente al uso partidista de los instrumentos del Estado evidenciado por este Gobierno (indultos a los líderes del procés, eliminación del delito de sedición y reducción de las penas por malversación), desde el Partido Popular reiteramos nuestro compromiso firme con el respeto al principio de legalidad y de igualdad de los españoles ante ley. Asimismo trabajaremos para que los españoles dispongan de una justicia moderna que sea capaz de amparar sus derechos en un tiempo razonable. Una justicia libre todo tipo de injerencia de los partidos políticos y que solo responda a criterios de legalidad en sus decisiones.
+categories: Democracia

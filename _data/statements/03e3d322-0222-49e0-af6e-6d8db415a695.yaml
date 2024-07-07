@@ -1,6 +1,6 @@
 id: 03e3d322-0222-49e0-af6e-6d8db415a695
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 23
-categories: Impuestos y financiación pública
+parent_chapter: 59c49ab6-930e-4f5f-a508-14cb6d6a773b
 title: APROBAREMOS UN ALIVIO FISCAL INMEDIATO A LAS FAMILIAS.
 text: Corregiremos los efectos de la inflación en la tarifa del IRPF que supone una subida real de impuestos sobre la clase media. Reduciremos el IVA a la carne, pescados y conservas con carácter temporal.
+categories: Impuestos y financiación pública

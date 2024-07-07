@@ -1,6 +1,6 @@
 id: 78cee1b0-5258-4b78-a50c-c774d2361caf
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 151
+parent_chapter: 814800d1-d17a-4410-9eb1-114a76841345
+text: Apoyaremos y daremos a conocer la gran labor innovadora que se está llevando a cabo en las zonas rurales, proyectando referentes de mujeres que sirvan de inspiración para las más jóvenes. Así mismo, pondremos en marcha Programas de retorno del talento de las mujeres al mundo rural.
 categories: Territorio rural
 topics: Igualdad
-text: Apoyaremos y daremos a conocer la gran labor innovadora que se está llevando a cabo en las zonas rurales, proyectando referentes de mujeres que sirvan de inspiración para las más jóvenes. Así mismo, pondremos en marcha Programas de retorno del talento de las mujeres al mundo rural.

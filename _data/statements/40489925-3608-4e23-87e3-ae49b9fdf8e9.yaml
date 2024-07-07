@@ -1,6 +1,6 @@
 id: 40489925-3608-4e23-87e3-ae49b9fdf8e9
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 76
+parent_chapter: ef0bb89b-1b90-4682-a618-d8eea7201020
 title: Poner orden en el sistema de prácticas externas para que sean un trampolín y no una trampa de precariedad.
 text: Para ello, garantizaremos que estén incluidas en los planes de estudio y que sean formativas, y que estén tuteladas profesionalmente y sean retribuidas al menos conforme al SMI según el número de horas cotizadas y con jornadas máximas de cinco horas

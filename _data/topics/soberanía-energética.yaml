@@ -1,0 +1,67 @@
+name: Soberanía energética
+other:
+- &id003
+  id: 2ca6fcc1-2e4b-4cee-b0ed-7cae323f0182
+  parties:
+  - CIUDADANOS
+- &id009
+  id: 393c21a3-d1d5-41a5-86f4-ea8807915010
+  parties:
+  - VOX
+other_count: 2
+position_negative: []
+position_negative_count: 0
+position_positive:
+- &id004
+  id: 0a2182d5-60c8-4732-8c52-d162e8d67dcb
+  parties:
+  - VOX
+- &id005
+  id: 6d80f622-8f4b-46eb-9919-6fba40155c99
+  parties:
+  - VOX
+- &id001
+  id: fe7cc966-e5af-4a31-8d9c-ba66e71474ac
+  parties:
+  - VOX
+- &id006
+  id: f11ea89f-bcc7-4bb9-882e-0346405764f5
+  parties:
+  - VOX
+- &id007
+  id: 6a89095b-67ba-467d-adc1-c59d0072d256
+  parties:
+  - VOX
+- &id002
+  id: 4e608a47-0b9c-454c-b112-e1745bb15232
+  parties:
+  - VOX
+position_positive_count: 6
+proposed_actions:
+- *id001
+- *id002
+- &id008
+  id: 07333bd0-387e-4bc5-bd60-54dc46113c7f
+  parties:
+  - VOX
+proposed_actions_count: 3
+statements:
+- *id003
+- *id004
+- *id005
+- *id001
+- *id006
+- *id007
+- &id010
+  id: abb1e557-dabe-4358-a325-b5b8e42b0c73
+  parties:
+  - VOX
+- *id002
+- *id008
+- *id009
+statements_count: 10
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive:
+- *id010
+status_quo_positive_count: 1

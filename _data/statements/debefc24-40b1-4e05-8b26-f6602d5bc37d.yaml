@@ -1,7 +1,6 @@
 id: debefc24-40b1-4e05-8b26-f6602d5bc37d
 type: promise
-parent_statement: 79915a2c-36e7-4695-9c4b-c7b3733a667e
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Justicia
+parent_statement: 79915a2c-36e7-4695-9c4b-c7b3733a667e
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
 text: También impulsaremos recursos de apoyo al servicio judicial (atención a las víctimas, ejecución penal, justicia restaurativa y terapéutica y la articulación con el espacio sociosanitario).
+categories: Justicia

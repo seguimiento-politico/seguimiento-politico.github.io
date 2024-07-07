@@ -1,6 +1,6 @@
 id: 2db74e05-26f6-4c3f-bca4-73909c3c440f
-type: declaration
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 32
-categories: Territorio rural
+parent_chapter: 994994ce-d238-4df8-ae47-d7637a178a8c
 text: Despoblación y cohesión territorial se cuentan también entre los grandes desafíos de la España actual. De cómo abordemos estas cuestiones, dependerá en buena medida la sostenibilidad de nuestro modelo de bienestar y la calidad de vida de las generaciones futuras.<br><br> Por ello deben tratarse como cuestiones de Estado, que merecen atención prioritaria. La España rural está llena de talento y de un patrimonio histórico y natural que podemos transformar en oportunidades. Para eso debemos centrarnos en la mejora de las infraestructuras y servicios y apoyar la transformación digital de esas zonas, desde la convicción de que todos los españoles deben disfrutar de los mismos derechos, porque creemos que la igualdad de oportunidades es la mejor política territorial.
+categories: Territorio rural

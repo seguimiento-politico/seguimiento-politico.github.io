@@ -1,6 +1,6 @@
 id: adc71243-94da-440c-b823-9d8623691bb0
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 222
-categories: Vivienda
+parent_chapter: c2222482-199f-4b08-aff6-5ef8b5f773c3
 text: Impulsaremos medidas que incentiven la oferta de viviendas adecuadas, asequibles, sostenibles y dignas.
+categories: Vivienda

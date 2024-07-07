@@ -1,6 +1,6 @@
 id: 04c89815-c121-4473-a726-d2e89cc9b9f8
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Seguridad y Defensa
+parent_chapter: a591de87-cf2b-46cb-ad76-1a2658b06d45
 text: 'La columna vertebral de nuestras Fuerzas Armadas son nuestras y nuestros: oficiales, suboficiales, tropa y marinería. Son ellos y ellas, con su profesionalidad, esfuerzo y devoción de servicio los que hacen posible que tengamos unas Fuerzas Armadas profesionales y ejemplares, no sólo para nuestros compatriotas, sino también para nuestros socios. Hemos de sentirnos orgullos de los hombres y mujeres que componen y trabajan en nuestras Fuerzas Armadas.<br><br> Es por eso por lo que las y los socialistas hemos trabajado en el desarrollo de una política de personal que atienda la moral, calidad de vida, formación y adiestramiento de los miembros de los Ejércitos y de la Armada. Los hombres y mujeres que integran las Fuerzas Armadas constituyen el núcleo de esta institución esencial para garantizar la seguridad y con ella los derechos, libertades y bienestar que nuestra sociedad disfruta.'
+categories: Seguridad y Defensa

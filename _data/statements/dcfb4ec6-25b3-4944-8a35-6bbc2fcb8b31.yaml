@@ -1,7 +1,6 @@
 id: dcfb4ec6-25b3-4944-8a35-6bbc2fcb8b31
 type: promise
-parent_statement: 1437fdcb-d4e5-4486-8699-16cbb525e8b9
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Política internacional
+parent_statement: 1437fdcb-d4e5-4486-8699-16cbb525e8b9
+parent_chapter: 7d023909-0f5e-4683-b705-4b789e78ec33
 text: Promoveremos la ratificación, a la mayor brevedad, de la Convención internacional de protección de los derechos de los trabajadores migratorios y sus familiares.
+categories: Política internacional

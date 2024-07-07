@@ -1,6 +1,6 @@
 id: 6dc09eaf-98e3-4252-a966-461ad1cb28bd
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 157
+parent_chapter: fa3cbb6b-1ec5-4044-b60a-7e8b530ca3e3
+text: Fomentaremos acuerdos con empresas tecnológicas y todos los agentes implicados para poner en marcha programas específicos, así como para contribuir a la difusión de campañas.
 categories: Ciencia y tecnología
 topics:
 - Juventud
 - Redes sociales
-text: Fomentaremos acuerdos con empresas tecnológicas y todos los agentes implicados para poner en marcha programas específicos, así como para contribuir a la difusión de campañas.

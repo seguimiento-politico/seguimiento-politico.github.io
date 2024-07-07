@@ -1,6 +1,6 @@
 id: f496b3a0-472d-46cf-a8f7-5577a830ec90
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 70
+parent_chapter: 194f102b-5855-48f6-8c07-594c4c44c66f
+children_promises:
+- 8f4ba42b-f7c5-47f2-8679-64e91618da0b
+- 1d06dca0-d7c3-499a-acce-b810e7251223
+- d8acdf8e-63f5-4d19-9042-67df8103921c
+- 2eb612da-6663-450e-a8c3-142a7cee73b0
+children_statements: []
+title: 'Alimentación saludable: Tejer alianzas entre consumo y producción para la transición'
 categories: Consumo
 topics: Alimentación saludable
-title: 'Alimentación saludable: Tejer alianzas entre consumo y producción para la transición'
-has_children: true

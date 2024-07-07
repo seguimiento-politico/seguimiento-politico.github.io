@@ -1,7 +1,6 @@
 id: 3849fbe8-d680-480e-bf28-deca5e06e294
 type: promise
-parent_statement: 936d9392-5913-48b6-aa8e-d8f228f16331
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Deporte
+parent_statement: 936d9392-5913-48b6-aa8e-d8f228f16331
+parent_chapter: 1f3cf0db-d571-4433-a626-3036186931e1
 text: Apoyar programas de escuelas deportivas intergeneracionales para desarrollar los lazos sociales entre personas de diferentes edades.
+categories: Deporte

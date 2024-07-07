@@ -1,6 +1,6 @@
 id: 9497b772-d5c3-4ed8-a154-75c64d2ec409
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 266
+parent_chapter: cb71ec5b-c3d6-4663-8a5b-9590b9ad0d54
+text: Continuaremos trabajando por reducir tensiones y contribuyendo al diálogo, aprovechando las oportunidades que presenta la región.
 categories: Política internacional
 topics:
 - Asia
 - Pacífico
-text: Continuaremos trabajando por reducir tensiones y contribuyendo al diálogo, aprovechando las oportunidades que presenta la región.

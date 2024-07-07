@@ -1,7 +1,6 @@
 id: 6f0c545e-74d1-458a-a362-71996a22d0f8
 type: promise
-parent_statement: 6f16b3f4-3c66-4ef4-9c40-ee2a9f8f12f7
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Industria
+parent_statement: 6f16b3f4-3c66-4ef4-9c40-ee2a9f8f12f7
+parent_chapter: 7c79fe71-f119-4b1d-a348-2b181c21b108
 text: Creación de un mapa nacional de instalación preferente de energías renovables en coordinación con las comunidades autónomas de acuerdo con sus competencias de ordenación territorial, que respete la biodiversidad y las zonas de alto valor agroecológico.
+categories: Industria

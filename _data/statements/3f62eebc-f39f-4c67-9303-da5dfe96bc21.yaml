@@ -1,0 +1,30 @@
+id: 3f62eebc-f39f-4c67-9303-da5dfe96bc21
+type: statement
+parent_document: a613c4b6-f9dc-4926-8b9a-b87c233e5a75
+parties:
+- VOX
+election_type: europeas
+election_date: '2024-06-09'
+publication_date: '2024-05-30'
+page: 27
+text: Con von der Leyen, líder del Partido Popular Europeo, se ha abogado por incluir el derecho al aborto en la Carta de los Derechos Fundamentales de la Unión Europea, en medio de la peor crisis demográfica que ha asolado las Naciones europeas y mientras esta casta oligárquica se dedica a promover el multiculturalismo y la progresiva desaparición de nuestra cultura europea, sustituida por la sharía, como ya estamos viendo en tantos barrios y ciudades de Bélgica, de Suecia, de Francia y cada vez más en España.
+categories:
+- Derechos y servicios sociales
+- Religión
+topics:
+- name: Demografía
+- name: Natalidad
+- name: Aborto
+  position_negative: null
+- name: Oligarquía
+  position_negative: null
+- name: Multiculturalismo
+  position_negative: null
+- name: Valores
+  position_positive: null
+- name: Islam
+  position_negative: null
+- name: Bélgica
+- name: Suecia
+- name: Francia
+- name: Unión Europea

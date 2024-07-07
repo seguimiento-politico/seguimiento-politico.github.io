@@ -1,7 +1,6 @@
 id: c5654eaa-37ee-4fee-8bf7-08ded2f0e1d8
 type: promise
-parent_statement: 5cffc290-14e7-4e17-9dfc-2f309ac405bd
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Industria
+parent_statement: 5cffc290-14e7-4e17-9dfc-2f309ac405bd
+parent_chapter: 52ae8dc4-28e9-4398-8226-2aed999f465f
 text: Pondremos en marcha las convocatorias del PERTE de descarbonización industrial que permitirá acompañar a las empresas en su transición hacia modelos y procesos más respetuosos con el medio ambiente.
+categories: Industria

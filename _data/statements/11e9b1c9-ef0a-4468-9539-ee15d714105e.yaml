@@ -1,6 +1,6 @@
 id: 11e9b1c9-ef0a-4468-9539-ee15d714105e
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 9
+parent_chapter: 233073ee-84f6-470b-9e97-5fa8c6a735c9
+text: Consol  idaremos los Planes Complementarios de I+D+I para áreas estratégicas, con corresponsabil  idad y cofinanciación en política científica entre la AGE y las CCAA.
 categories: Ciencia y tecnología
 topics: I+D+i
-text: Consol  idaremos los Planes Complementarios de I+D+I para áreas estratégicas, con corresponsabil  idad y cofinanciación en política científica entre la AGE y las CCAA.

@@ -1,6 +1,6 @@
 id: 8cede278-da15-4823-94eb-45bdc8959afc
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 15
+parent_chapter: 8ebfb644-aef8-4936-8572-2bf4d581e4b5
+text: Plantearemos a todas las fuerzas políticas y a los agentes sociales un nuevo Pacto de Toledo, que garantice la sostenibilidad y suficiencia del sistema público de pensiones.
 categories: Derechos y servicios sociales
 topics: Pensiones
-text: Plantearemos a todas las fuerzas políticas y a los agentes sociales un nuevo Pacto de Toledo, que garantice la sostenibilidad y suficiencia del sistema público de pensiones.

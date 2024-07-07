@@ -1,7 +1,6 @@
 id: 1e1a7750-9193-45c6-a975-f784650402ec
 type: promise
-parent_statement: 1b12841a-507d-41e2-9153-a003f36538b7
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Seguridad y defensa
+parent_statement: 1b12841a-507d-41e2-9153-a003f36538b7
+parent_chapter: 66b190ef-617c-438a-adf3-a3c9f707719b
 text: Adoptaremos el modelo sueco de una agencia nacional de prevención que sirva para desarrollar el conocimiento sobre el sistema de justicia penal y prevención del delito, adoptando un papel central en auditar, potenciar la transparencia y mejorar la calidad de las estadísticas sobre la criminalidad y el funcionamiento del sistema penal, así como su reutilización a efectos de la investigación científica.
+categories: Seguridad y defensa

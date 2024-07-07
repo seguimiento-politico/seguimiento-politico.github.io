@@ -1,6 +1,6 @@
 id: 73246e67-29b1-443a-92bf-6263c74a35d0
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 19
-categories: Trabajo
+parent_chapter: cae5d808-1ce9-4168-a268-4ea405606db1
 text: Reforzaremos el apoyo a las empresas de economía social, como modelo de empresa sostenible, integradora y generadora de empleo de calidad, y como agentes clave para un desarrollo territorial equilibrado y una mayor cohesión social. Promoveremos un Plan Nacional de Emprendimiento Social para impulsar el diseño y puesta en marcha de políticas públicas específicas que apoyen a las y los emprendedores sociales a diseñar, consolidar y gestionar sus proyectos. Mejoraremos la representatividad y el diálogo institucional con las principales asociaciones nacionales del sector. Revisaremos el régimen fiscal de cooperativas y sociedades laborales para recuperar la eficacia tributaria en el fomento de este tipo de empresas.
+categories: Trabajo

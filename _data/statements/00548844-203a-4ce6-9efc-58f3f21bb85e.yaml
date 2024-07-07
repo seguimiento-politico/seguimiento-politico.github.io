@@ -1,6 +1,6 @@
 id: 00548844-203a-4ce6-9efc-58f3f21bb85e
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,16 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 12
+parent_chapter: dc0b81ff-b170-445d-9cda-44cdb48fa9b7
+children_promises:
+- d11c1e46-61f6-4a45-956f-c960c7466f02
+- 4e01284a-2e4e-44f0-a5f4-92ffdf3faa7f
+- c9471c4f-c8ec-45f4-9362-90c29c4ba741
+- 55d1dc79-039a-4e0c-b470-9fe23f7ca9a9
+- edd40e84-6aa1-4421-a3ed-8775efeafa2b
+- 9d0d2e7d-ef3c-428d-b01c-e05bed2439d8
+- 2c637ec2-3174-428d-b0cc-f50ca445fa28
+children_statements: []
+title: Más competencia para evitar el abuso de poder de las grandes empresas
 categories: Economía
 topics: Competencia
-title: Más competencia para evitar el abuso de poder de las grandes empresas
-has_children: true

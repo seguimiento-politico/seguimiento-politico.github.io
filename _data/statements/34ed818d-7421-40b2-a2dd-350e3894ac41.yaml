@@ -1,7 +1,6 @@
 id: 34ed818d-7421-40b2-a2dd-350e3894ac41
 type: promise
-parent_statement: 818b128d-b25a-4be3-9178-bb23a10841c2
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Economía
+parent_statement: 818b128d-b25a-4be3-9178-bb23a10841c2
+parent_chapter: 5ae877b3-1389-490f-b5f8-bb2c2704b535
 text: Transformaremos en una política de transporte permanente la reducción del precio de los abonos de transporte para desplazamientos recurrentes, al trabajo o a los centros de estudio y con la cofinanciación de las comunidades autónomas y la Administración local. Es una medida que reduce el coste del transporte, mejora el poder adquisitivo de las personas e impulsa un necesario cambio de modelo que impulse el transporte colectivo, que es un instrumento imprescindible para enfrentarnos a los desafíos de la crisis climática.
+categories: Economía

@@ -1,6 +1,6 @@
 id: e85cce6c-112f-4d22-ba56-710c17c8bfe6
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,13 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 17
+parent_chapter: 70e896cb-cc2e-4700-a649-38c82b332b6c
+children_promises:
+- 377086d5-e3d2-438a-ae29-9aa1aede5405
+- ad171a4e-227a-4eaa-af43-78161fe11573
+- 8c54d545-cb3d-4a26-a2e3-adee77dc6fc1
+- f46b85c8-5a57-4969-9026-7076889c21f2
+children_statements: []
+title: Violencia de género y feminismo
 categories:
 - Familia
-title: Violencia de género y feminismo
-has_children: true

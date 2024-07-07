@@ -1,6 +1,6 @@
 id: a1b2c34d-567e-89f0-g12h-3456ijk7890l
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 59
+parent_chapter: b3f71622-6590-4ea3-b839-4254df880fe7
+children_promises:
+- c5840616-21d3-4b18-a9d8-a05c4065083c
+children_statements: []
+title: Acelerar y reforzar la implantación del mecanismo rural de garantía
 categories: Territorio rural
 topics: Igualdad
-title: Acelerar y reforzar la implantación del mecanismo rural de garantía
-has_children: true

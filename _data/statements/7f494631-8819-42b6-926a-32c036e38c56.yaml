@@ -1,6 +1,6 @@
 id: 7f494631-8819-42b6-926a-32c036e38c56
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 85
+parent_chapter: 269560f1-fa10-4646-ad71-8442044657c5
+text: Crearemos un espacio de datos integrado de movilidad, que permita a las administraciones un diseño de políticas públicas basadas en datos, con una mayor calidad en la prestación de los servicios de transporte y mejor información y fiabilidad para los usuarios y usuarias, especialmente, en la planificación de los viajes de varias etapas.
 categories: Transporte
 topics: Digitalización
-text: Crearemos un espacio de datos integrado de movilidad, que permita a las administraciones un diseño de políticas públicas basadas en datos, con una mayor calidad en la prestación de los servicios de transporte y mejor información y fiabilidad para los usuarios y usuarias, especialmente, en la planificación de los viajes de varias etapas.

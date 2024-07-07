@@ -1,7 +1,6 @@
 id: 427d3de8-ec5f-46be-abb2-96975e5ef900
 type: promise
-parent_statement: 89ccf93f-3953-4424-9669-07d0a1f84cd9
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
+parent_statement: 89ccf93f-3953-4424-9669-07d0a1f84cd9
+parent_chapter: 0aeec4ec-9240-4040-ba6b-c7f21bee3fb4
+text: Supresión de las cuotas (por sexo o por cualquier otra causa) en las listas electorales Cada partido las elaborará de acuerdo a las decisiones de sus militantes
 categories:
 - Democracia
-text: Supresión de las cuotas (por sexo o por cualquier otra causa) en las listas electorales Cada partido las elaborará de acuerdo a las decisiones de sus militantes

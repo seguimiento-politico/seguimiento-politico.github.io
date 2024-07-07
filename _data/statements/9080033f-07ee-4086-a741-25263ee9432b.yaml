@@ -1,6 +1,6 @@
 id: 9080033f-07ee-4086-a741-25263ee9432b
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 220
-categories: Deporte
+parent_chapter: 296df921-76ce-4a26-8cc7-612e0c14d44b
 text: Crearemos un hub de innovación deportiva que impulse el impacto económico del deporte, la atracción del talento joven, el desarrollo de todas las industrias relacionadas con el deporte y sus conexiones con los diferentes y nuevos perfiles tecnológicos.
+categories: Deporte

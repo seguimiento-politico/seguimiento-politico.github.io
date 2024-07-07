@@ -1,6 +1,6 @@
 id: 464aa0d3-92c5-424a-bca5-8ce58e0b8598
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 67
+parent_chapter: 4a4ec318-0db9-4da1-9515-2b36e808a75f
+children_promises:
+- d2580b0f-4aeb-4e64-8e82-51137ef40880
+- 0f1fbdc4-1425-4d0f-9cfb-ebb2d4f01d6f
+- 31ae615f-fc3f-49f9-8c6a-5a66a24c6a01
+- 6cac8b3f-ca97-4776-ab4f-aaa82fb0e82d
+children_statements:
+- ef94fc28-18d1-4349-bef4-8b5d994191c4
+title: Reforma de la Ley de Seguridad Alimentaria y Nutrición
 categories: Consumo
 topics: Alimentación saludable
-title: Reforma de la Ley de Seguridad Alimentaria y Nutrición
-has_children: true

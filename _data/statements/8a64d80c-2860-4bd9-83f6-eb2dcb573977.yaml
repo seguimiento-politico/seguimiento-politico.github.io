@@ -1,7 +1,6 @@
 id: 8a64d80c-2860-4bd9-83f6-eb2dcb573977
 type: promise
-parent_statement: 888e6898-f38c-4272-811c-690f00dba852
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Justicia
+parent_statement: 888e6898-f38c-4272-811c-690f00dba852
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
 text: Para eso es preciso reformular su sistema de elección y reforzar su naturaleza democrática y, por tanto, el protagonismo del Parlamento, así como la obtención de mayorías, de modo que se evite el bloqueo que en la actualidad sufre, garantizando una representación plural y equilibrada que asegure la imparcialidad del órgano y evite su instrumentalización.
+categories: Justicia

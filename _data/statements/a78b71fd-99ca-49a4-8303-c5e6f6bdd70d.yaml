@@ -1,6 +1,6 @@
 id: a78b71fd-99ca-49a4-8303-c5e6f6bdd70d
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 166
+parent_chapter: 080f36b6-6257-48d3-91d8-72102e35357e
+text: Proposición no de Ley relativa a la valoración social y a la protección de la libre dedicación al cuidado en el hogar de menores y personas con discapacidad o en situación de dependencia. Se insta a los poderes públicos a reconocer la labor social que realizan quienes se dedican a estas tareas de cuidado y, para ello, reducen su jornada laboral o renuncian a ella por un tiempo (septiembre 2021).
 categories:
 - Familia
-text: Proposición no de Ley relativa a la valoración social y a la protección de la libre dedicación al cuidado en el hogar de menores y personas con discapacidad o en situación de dependencia. Se insta a los poderes públicos a reconocer la labor social que realizan quienes se dedican a estas tareas de cuidado y, para ello, reducen su jornada laboral o renuncian a ella por un tiempo (septiembre 2021).

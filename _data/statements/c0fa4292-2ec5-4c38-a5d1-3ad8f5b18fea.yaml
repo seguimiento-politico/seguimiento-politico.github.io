@@ -1,6 +1,6 @@
 id: c0fa4292-2ec5-4c38-a5d1-3ad8f5b18fea
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 46
-categories: Comercio
+parent_chapter: 9297166b-75a1-4115-a351-6be6142ed7df
+children_promises:
+- 4b1e97fb-4ede-47f1-80f0-e306258eb05f
+children_statements: []
 title: Fortaleceremos la actividad comercial mediante el mantenimiento de ayudas
-has_children: true
+categories: Comercio

@@ -1,6 +1,6 @@
 id: 098bac28-c90b-474c-894f-1bfc5aa28308
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 36
+parent_chapter: 71810e43-e455-49c0-b7c8-ad2068deb746
+text: Difundir la Carta de Madrid como respuesta a la amenaza totalitaria y globalista encabezada por el Foro Sao Paulo y el Grupo de Puebla bajo el paraguas del régimen castrista.
 categories:
 - Política internacional
-text: Difundir la Carta de Madrid como respuesta a la amenaza totalitaria y globalista encabezada por el Foro Sao Paulo y el Grupo de Puebla bajo el paraguas del régimen castrista.

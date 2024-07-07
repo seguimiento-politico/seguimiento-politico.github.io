@@ -1,6 +1,6 @@
 id: a2a4e947-8df4-49df-b49d-e1927ee9f036
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,17 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 10
-categories: Industria
+parent_chapter: bdc3bec8-826b-4422-99f9-ce6bb7d37ec5
+children_promises:
+- 7445bac7-f822-4eea-aab6-6020de2948cc
+- 06ef05cf-fa4f-40f0-bf44-2823dbe07fed
+- c929830f-2dce-4cf2-be2f-df80a9258f59
+- 40b26f47-6093-4ea1-b9a6-3af3441fe332
+- 13b2fe4c-6c54-4028-bb3e-ffd1ee48edc7
+- d3e56291-2455-4714-9905-0cb3bb17f6b1
+- f6bd826b-d92a-4a2b-a5ad-883fdb342035
+- 3e41ea21-5bed-453c-9ba9-557634b70efc
+- 020fa7ea-25ad-49a3-98ab-3976fce789e7
+children_statements: []
 title: Política industrial para la transición energética y el empleo
-has_children: true
+categories: Industria

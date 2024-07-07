@@ -1,6 +1,6 @@
 id: 87d1c693-b31f-4675-8502-709767de7d33
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 206
+parent_chapter: b59004d9-c0df-4c00-b0da-b340a3d9d702
+text: Evaluaremos la ley vigente para avanzar para avanzar hacia la promoción de espacios libres de humo, en la línea propuesta por la Unión Europea Europa.
 categories: Sanidad
 topics: Tabaco
-text: Evaluaremos la ley vigente para avanzar para avanzar hacia la promoción de espacios libres de humo, en la línea propuesta por la Unión Europea Europa.

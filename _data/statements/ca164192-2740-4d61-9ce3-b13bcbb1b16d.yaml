@@ -1,6 +1,6 @@
 id: ca164192-2740-4d61-9ce3-b13bcbb1b16d
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 90
-categories: Seguridad y defensa
+parent_chapter: d2165d9c-4ccd-4649-b6ee-393361a2d9bb
 text: La garantía de la soberanía de España exige que no sólo el Estado retenga la competencia en materia de Defensa y que las administraciones autonómicas no se inmiscuyan en ellas, sino que le sean inmediatamente devueltas aquellas competencias en materia de Seguridad, Interior, Tráfico, Protección Civil y Vigilancia Marítima, así como aquellas en el ámbito de Justicia e Instituciones Penitenciarias.
+categories: Seguridad y defensa

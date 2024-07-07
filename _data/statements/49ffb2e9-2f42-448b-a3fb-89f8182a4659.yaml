@@ -1,6 +1,6 @@
 id: 49ffb2e9-2f42-448b-a3fb-89f8182a4659
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 39
+parent_chapter: 6d1287b0-06f9-4615-8c0f-7def03a6f3ce
+text: El avance de la igualdad supone acabar con aquellas discriminaciones que sufren las mujeres en todos los ámbitos. Así, vamos a abordar a la desactivación de lo que se denomina “tasa rosa”, es decir, el incremento de precio de un mismo producto cuando se trata de una “versión femenina”.
 categories: Derechos y servicios sociales
 topics: Igualdad
-text: El avance de la igualdad supone acabar con aquellas discriminaciones que sufren las mujeres en todos los ámbitos. Así, vamos a abordar a la desactivación de lo que se denomina “tasa rosa”, es decir, el incremento de precio de un mismo producto cuando se trata de una “versión femenina”.

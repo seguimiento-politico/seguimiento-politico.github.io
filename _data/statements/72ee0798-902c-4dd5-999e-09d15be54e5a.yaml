@@ -1,6 +1,6 @@
 id: 72ee0798-902c-4dd5-999e-09d15be54e5a
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 139
-categories: Política internacional
+parent_chapter: 4d3afa99-1301-4519-a703-6dfe49d7e832
+children_promises:
+- 57116e96-1fbe-4645-91e7-84324f3b2c53
+- 8577e250-ef7d-42ec-a504-e9324a12bcfc
+- e5db3a22-3041-4a0f-9870-ca1d072e3c9e
+children_statements: []
 title: Los derechos humanos, pilar de nuestra acción exterior
-has_children: true
+categories: Política internacional

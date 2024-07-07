@@ -1,0 +1,129 @@
+- name: PERTE
+  sources:
+    - title: 'FAQs: Que son los perte'
+      url: https://planderecuperacion.gob.es/preguntas/que-son-los-perte
+- name: RETECH
+  urls: 
+    - https://www.incibe.es/retech
+    - https://espanadigital.gob.es/medida/retech-redes-territoriales-de-especializacion-tecnologica
+    - https://planderecuperacion.gob.es/etiquetas/retech
+- name: Agenda España Digital
+  type: strategy
+  urls: 
+    - https://espanadigital.gob.es/
+- name: Plan de Recuperación, Transformación y Resiliencia
+  urls: 
+    - https://planderecuperacion.gob.es/
+- name: Kit Digital
+  urls: 
+    - https://www.acelerapyme.gob.es/kit-digital
+    - https://planderecuperacion.gob.es/etiquetas/kit-digital
+    - https://www.red.es/es/iniciativas/proyectos/kit-digital
+    - https://portal.gestion.sedepkd.red.gob.es/portal/kitdigital
+- name: Next Generation
+  type: fund
+  urls: 
+    - https://next-generation-eu.europa.eu/index_es
+    - https://planderecuperacion.gob.es/preguntas/que-es-el-fondo-de-recuperacion-nextgenerationeu
+    - https://www.hablamosdeeuropa.es/es/Paginas/NextGenerationEU.aspx
+- name: Next-Tech
+  type: fund
+  urls: 
+    - https://www.ico.es/web/axis/fond-ico-next-tech
+    - https://espanadigital.gob.es/lineas-de-actuacion/fondo-next-tech
+    - https://planderecuperacion.gob.es/como-acceder-a-los-fondos/convocatorias/DRU/75/fondo-fond-ico-next-tech
+- name: Plan Nacional de Competencias Digitales
+  urls: 
+    - https://generaciond.gob.es/plan-nacional
+    - https://planderecuperacion.gob.es/politicas-y-componentes/componente-19-plan-nacional-de-competencias-digitales-digital-skills
+- name: Plan de Digitalización de las Administraciones Públicas
+  sources:
+    - title: 'Ministerio de Economía, Comercio y Empresa: Plan digitalización'
+      url: https://portal.mineco.gob.es/gl-es/ministerio/estrategias/Paxinas/Plan_Digitalizacion_AAPP.aspx
+    - title: 'Estrategias en Administración electrónica: Plan de Digitalización de las AAPP 2021-2025'
+      url: https://administracionelectronica.gob.es/pae_Home/pae_Estrategias/Plan_Digitalizacion_AAPP.html
+- name: UNICO
+  sources:
+    - title: 'Ministerio de Economía, Comercio y Empresa: Programa UNICO banda ancha'
+      url: https://portal.mineco.gob.es/es-es/ministerio/estrategias/Paginas/06_Programa_UNICO_Banda_Ancha.aspx
+- name: Ley Europea sobre el Clima
+  sources:
+  - title: 'Ministerio de transición ecológica'
+    url: https://www.miteco.gob.es/es/cambio-climatico/temas/el-proceso-internacional-de-lucha-contra-el-cambio-climatico/la-union-europea.html
+  - title: 'Comisión europea: climate action'
+    url: https://climate.ec.europa.eu/eu-action/european-climate-law_es
+  - title: 'EUR-Lex: Síntesis de la legislación'
+    url: https://eur-lex.europa.eu/ES/legal-content/summary/european-climate-law.html
+- name: Reglamento de reparto del esfuerzo
+  sources:
+  - title: Preguntas y respuestas
+    url: https://ec.europa.eu/commission/presscorner/detail/es/qanda_21_3543
+- name: Reglamento sobre el uso de la tierra, el cambio de uso de la tierra y la silvicultura
+  sources:
+  - title: 'EUR-Lex: Marco sobre clima y energía para 2030'
+    url: https://eur-lex.europa.eu/ES/legal-content/summary/2030-climate-and-energy-framework-greenhouse-gas-emissions-land-use-change-and-forestry.html
+  - title: 'Comisión europea: Preguntas y respuestas'
+    url: https://ec.europa.eu/commission/presscorner/detail/es/qanda_21_3543
+- name: De la Granja a la Mesa
+  sources:
+  - title: 'Comisión europea: info. de referencia'
+    url: https://www.consilium.europa.eu/es/policies/from-farm-to-fork/
+  - title: 'Comisión europea - representación españa: info. de referencia'
+    url: https://spain.representation.ec.europa.eu/noticias-eventos/noticias-0/la-estrategia-europea-de-la-granja-la-mesa-farm-fork-como-conseguir-un-sistema-alimentario-2022-07-28_es
+- name: Biodiversidad para 2030
+  sources:
+  - title: 'Comisión europea'
+    url: https://environment.ec.europa.eu/strategy/biodiversity-strategy-2030_en?prefLang=es
+  - title: 'Ministerio de transición ecológica'
+    url: https://www.miteco.gob.es/es/biodiversidad/temas/ecosistemas-y-conectividad/infraestructura-verde/iv_documentacion.html
+- name: ODS
+  sources:
+  - title: 'ONU: ODS'
+    url: https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/
+  - title: 
+- name: Agenda 2030
+  sources:
+  - title: 'Ministerio de derechos sociales, consumo y agenda 2030'
+    url: https://www.mdsocialesa2030.gob.es/agenda2030/index.htm
+- name: Pacto verde europeo
+  sources:
+  - title: 'Comisión europea 1'
+    url: https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal_es
+  - title: 'Comisión europea 2'
+    url: https://www.consilium.europa.eu/es/policies/green-deal/
+  - title: 'Comisión europea: representación en españa'
+    url: https://spain.representation.ec.europa.eu/estrategias-y-prioridades/politicas-clave-de-la-ue-en-espana/espana-y-el-pacto-verde-europeo_es
+- name: Reglamento sobre la restauración de la naturaleza
+  sources:
+  - title: 'Comisión europea: preguntas y respuestas'
+    url: https://ec.europa.eu/commission/presscorner/detail/es/QANDA_22_3747
+  - title: 'Comisión europea: info. de referencia'
+    url: https://www.consilium.europa.eu/es/policies/nature-restoration/  
+- name: Reglamento relativo al uso sostenible de productos fitosanitarios
+  sources:
+  - title: 'Eur-Lex'
+    url: https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A52022PC0305
+  - title: 'Ministerio de Agricultura'
+    url: https://www.mapa.gob.es/es/agricultura/temas/sanidad-vegetal/productos-fitosanitarios/uso-sostenible-de-productos-fitosanitarios/
+  - title: 'Comision europea: Agricultura sostenible'
+    url: https://agriculture.ec.europa.eu/sustainability/environmental-sustainability/low-input-farming_es
+- name: Objetivo 55
+  sources:
+  - title: 'Consejo europeo: Info. de referencia'
+    url: https://www.consilium.europa.eu/es/policies/green-deal/fit-for-55/
+- name: Arraigo
+  sources:
+  - title: 'Conceptos jurídicos: Arraigo'
+    url: https://www.conceptosjuridicos.com/arraigo/
+- name: Nutriscore
+  sources:
+  - title: 'Agencia de seguridad alimentaria y nutrición: info. modelo Nutriscore'
+    url: https://www.aesan.gob.es/AECOSAN/web/para_el_consumidor/seccion/informacion_Nutri_Score.htm
+- name: Derechos Fundamentales de la Unión Europea
+  sources:
+  - title: 'Eur-lex: Carta de los Derechos Fundamentales de la Unión Europea'
+    url: https://eur-lex.europa.eu/ES/legal-content/summary/charter-of-fundamental-rights-of-the-european-union.html
+- name: Inmigración ilegal
+  sources:
+  - title: 'ISEAK: Proveniencia sentimiento antiinmigración en España'
+    url: https://iseak.eu/publicacion/de-donde-proviene-el-sentimiento-antiinmigracion-en-espana-evidencia-de-una-encuesta-a-gran-escala

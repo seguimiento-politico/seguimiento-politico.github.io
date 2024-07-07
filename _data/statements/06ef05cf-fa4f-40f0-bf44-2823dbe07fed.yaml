@@ -1,7 +1,6 @@
 id: 06ef05cf-fa4f-40f0-bf44-2823dbe07fed
 type: promise
-parent_statement: a2a4e947-8df4-49df-b49d-e1927ee9f036
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Industria
+parent_statement: a2a4e947-8df4-49df-b49d-e1927ee9f036
+parent_chapter: bdc3bec8-826b-4422-99f9-ce6bb7d37ec5
 text: Promoveremos un proceso de reindustrialización en España y de aumento del empleo de calidad mediante el impulso de la transición energética, en el actual contexto de revisión de la globalización. Con la política industrial adecuada, España puede ofrecer, a industrias estratégicas de alto valor añadido, ventajas relacionadas con la energía, como la garantía de suministro o su potencial para la producción de energía renovable a un precio reducido (energía solar, eólica terrestre o hidrógeno verde). Esta estrategia competitiva supondrá el abandono definitivo de los intentos pasados —y fallidos— de competir mediante devaluaciones salariales, y convertirá a nuestro país en un foco de atracción de industrias de calidad más que un exportador de energía barata. Este proceso se hará asegurando el equilibrio territorial, de forma que no haya territorios que contribuyan a la producción de energías renovables sin beneficiarse al mismo tiempo de las ventajas de la industrialización y la creación estable de buenos empleos.
+categories: Industria

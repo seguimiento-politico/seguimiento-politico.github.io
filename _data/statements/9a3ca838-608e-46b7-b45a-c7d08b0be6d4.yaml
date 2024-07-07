@@ -1,11 +1,12 @@
 id: 9a3ca838-608e-46b7-b45a-c7d08b0be6d4
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 13
-categories: Nacionalismo y patriotismo
+parent_chapter: 1d70d4de-8db8-40af-98f3-72921bc2f7ab
 text: Reforzaremos la presencia del Estado en todas las comunidades autónomas, para garantizar el pleno ejercicio de las competencias que tiene constitucionalmente atribuidas. Ampliaremos los recursos materiales y humanos a disposición de las Delegaciones del Gobierno, garantizando el efectivo desempeño de sus funciones de dirección y coordinación de la Administración General del Estado y sus Organismos públicos en el territorio.
+categories: Nacionalismo y patriotismo

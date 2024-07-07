@@ -1,6 +1,6 @@
 id: af5cf953-7eb8-4f59-b09e-abf6d979ddc0
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 132
-categories: Sanidad
+parent_chapter: 3b84ba40-eae3-47f2-812f-38e359411b69
 text: Garantizaremos el acceso a preservativos y anticonceptivos de forma gratuita a las personas jóvenes ampliando la red de puntos a lugares frecuentados por la juventud.
+categories: Sanidad

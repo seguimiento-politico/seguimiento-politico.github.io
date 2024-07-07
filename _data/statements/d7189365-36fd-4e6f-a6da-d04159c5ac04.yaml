@@ -1,7 +1,6 @@
 id: d7189365-36fd-4e6f-a6da-d04159c5ac04
 type: promise
-parent_statement: a139a4b9-fd6e-4d0e-88bd-2bcb6a95e121
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Trabajo
+parent_statement: a139a4b9-fd6e-4d0e-88bd-2bcb6a95e121
+parent_chapter: 8334330f-156c-4154-9c8c-27f20def2bb6
 text: Pondremos en marcha un Plan Nacional para que las empresas ofrezcan una mejor conciliación mediante jornadas híbridas que combinen lo presencial con lo remoto, horarios más adaptables, y la posibilidad de concentrar en cuatro días su semana laboral
+categories: Trabajo

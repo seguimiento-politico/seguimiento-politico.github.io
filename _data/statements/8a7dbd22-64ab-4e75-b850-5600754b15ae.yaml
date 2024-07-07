@@ -1,6 +1,6 @@
 id: 8a7dbd22-64ab-4e75-b850-5600754b15ae
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 53
-categories: Política internacional
+parent_chapter: 06572758-339c-4185-bcc1-2905946110b7
 text: Los Tratados Comerciales de la UE con terceros países pueden y deben convertirse en importantes herramientas para contribuir a una globalización más justa y sostenible, con exigencias concretas sobre los estándares sociales, ambientales, sanitarios... de los países con los que se establecen. Queda mucho por hacer en este ámbito, en el que solo muy recientemente se han comenzado a introducir referencias a dichos estándares; y en el que cabe también mejorar la transparencia en las negociaciones, así como la participación de los parlamentos nacionales y del parlamento europeo tanto en el diseño de los Tratados como en el seguimiento del cumplimiento de las correspondientes condiciones.
+categories: Política internacional

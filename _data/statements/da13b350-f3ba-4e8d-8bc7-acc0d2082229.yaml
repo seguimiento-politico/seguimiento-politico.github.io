@@ -1,6 +1,6 @@
 id: da13b350-f3ba-4e8d-8bc7-acc0d2082229
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 18
+parent_chapter: 7ae97af0-2b46-4081-8273-1e68d732579c
+text: Definiremos planes territoriales de conservación y restauración ambiental para territorios y comarcas con alto impacto a causa del cambio climático (Doñana, el Mar Menor, el Delta del Ebro, la Mancha Húmeda o los territorios insulares). Asimismo, declararemos reserva marina la costa colindante con la Sierra de Tramontana.
 categories: Economía
 topics: Desarrollo sostenible
-text: Definiremos planes territoriales de conservación y restauración ambiental para territorios y comarcas con alto impacto a causa del cambio climático (Doñana, el Mar Menor, el Delta del Ebro, la Mancha Húmeda o los territorios insulares). Asimismo, declararemos reserva marina la costa colindante con la Sierra de Tramontana.

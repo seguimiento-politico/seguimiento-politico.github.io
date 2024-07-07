@@ -1,7 +1,6 @@
 id: 99998405-d868-4587-8e36-e7f569ca2070
 type: promise
-parent_statement: 063c3234-6ef1-40c7-92ab-19f5745ca418
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 063c3234-6ef1-40c7-92ab-19f5745ca418
+parent_chapter: 1c9b9596-90be-4e2a-b1e4-9d37f55ff261
+text: Ampliaremos la cultura de la prevención de riesgos en el trabajo autónomo con nuevos progra mas financiados públicamente para formar en la autoprevención de riesgos adaptados a la activi dad desarrollada, con tiempos de formación subvencionados, profundizando en la cultura del au tocuidado, con formaciones específicas en gestión de los usos del tiempo en el trabajo autónomo, con políticas públicas de apoyo a la salud mental en el trabajo autónomo.
 categories: Trabajo
 topics: Autónomos
-text: Ampliaremos la cultura de la prevención de riesgos en el trabajo autónomo con nuevos progra mas financiados públicamente para formar en la autoprevención de riesgos adaptados a la activi dad desarrollada, con tiempos de formación subvencionados, profundizando en la cultura del au tocuidado, con formaciones específicas en gestión de los usos del tiempo en el trabajo autónomo, con políticas públicas de apoyo a la salud mental en el trabajo autónomo.

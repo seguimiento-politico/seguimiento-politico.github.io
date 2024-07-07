@@ -1,7 +1,6 @@
 id: da71c00e-7e08-47cf-81d4-56bbe37db980
 type: promise
-parent_statement: 4e45b9e0-5225-4ee9-b596-79730119d022
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 4e45b9e0-5225-4ee9-b596-79730119d022
+parent_chapter: c794cb24-1c55-422f-8b6d-1ff29ad1ed87
+text: Reformaremos en profundidad la organización y el funcionamiento de las agencias europeas independientes que operan en el ámbito de la Europa de las personas —muy especialmente de Frontex y Europol—, para democratizar su dirección y facilitar la exigencia de eventuales responsabilidades políticas y jurídicas a causa de su actuación, incluido ante el Parlamento Europeo.
 categories: Política internacional
 topics: Europa
-text: Reformaremos en profundidad la organización y el funcionamiento de las agencias europeas independientes que operan en el ámbito de la Europa de las personas —muy especialmente de Frontex y Europol—, para democratizar su dirección y facilitar la exigencia de eventuales responsabilidades políticas y jurídicas a causa de su actuación, incluido ante el Parlamento Europeo.

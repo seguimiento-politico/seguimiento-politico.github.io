@@ -1,6 +1,6 @@
 id: ffb69b7b-7341-4e5c-9787-756b8795631d
-type: declaration
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 58
+parent_chapter: fe1ddaf6-59e0-47ee-bda3-193d9d6d6150
+text: Trabajar por una España que cuida y respeta a sus mayores es un acto de solidaridad y responsabilidad entre generaciones, un compromiso hacia quienes cuidaron de nosotros y nos han legado la democracia y la libertad. El nuestro es uno de los países del mundo más longevos, un buen indicador de nuestra calidad de vida y de un sistema de bienestar que funciona. Sin embargo, el envejecimiento lleva aparejados grandes retos. No se trata solo de vivir mucho, sino de vivir lo mejor posible. Nos volcaremos con las necesidades de los mayores, en su calidad de vida y en combatir la soledad no deseada.
 categories: Derechos y servicios sociales
 topics: Ciudados y dependencia
-text: Trabajar por una España que cuida y respeta a sus mayores es un acto de solidaridad y responsabilidad entre generaciones, un compromiso hacia quienes cuidaron de nosotros y nos han legado la democracia y la libertad. El nuestro es uno de los países del mundo más longevos, un buen indicador de nuestra calidad de vida y de un sistema de bienestar que funciona. Sin embargo, el envejecimiento lleva aparejados grandes retos. No se trata solo de vivir mucho, sino de vivir lo mejor posible. Nos volcaremos con las necesidades de los mayores, en su calidad de vida y en combatir la soledad no deseada.

@@ -1,6 +1,6 @@
 id: 5b49b3fa-19f8-422b-a078-768bd6b87a1b
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 46
+parent_chapter: 0a1e6e60-ac39-48f2-8625-e9e72733c9da
+children_promises:
+- 1168f4aa-6387-4e8d-a445-e4ca97f65dbb
+- 611ca55b-48d6-43f4-8522-19154029cf4c
+children_statements: []
+title: Apostamos decididamente por aumentar la diversificación de las cadenas de suministro y de los mercados de exportación de España y la UE
 categories: Comercio
 topics: comercio exterior
-title: Apostamos decididamente por aumentar la diversificación de las cadenas de suministro y de los mercados de exportación de España y la UE
-has_children: true

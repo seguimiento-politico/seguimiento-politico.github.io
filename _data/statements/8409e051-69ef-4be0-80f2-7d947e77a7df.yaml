@@ -1,6 +1,6 @@
 id: 8409e051-69ef-4be0-80f2-7d947e77a7df
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 120
-categories: Organización territorial
+parent_chapter: 3985eb27-2ecc-4f17-a504-3aa15c5697d4
+children_promises:
+- 93cb4fc8-8030-4693-bf29-82fbe6d8c08e
+- 1d3273d5-e3cc-418e-833c-bf6eff9dbc66
+- fc6ef455-87f7-46d9-ae69-126b1f6833c3
+children_statements:
+- 39e2dbab-26b8-4827-854b-0cfb39f3d2a4
 title: Pacto territorial
-has_children: true
+categories: Organización territorial

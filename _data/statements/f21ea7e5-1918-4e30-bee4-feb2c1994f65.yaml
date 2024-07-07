@@ -1,7 +1,6 @@
 id: f21ea7e5-1918-4e30-bee4-feb2c1994f65
 type: promise
-parent_statement: 3c3eedff-5855-4ab7-a405-599514e702a7
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,5 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 78
-categories: Transporte
+parent_statement: 3c3eedff-5855-4ab7-a405-599514e702a7
+parent_chapter: a97d33b8-5d0d-4f18-ae40-4a52b218e524
 text: Estableceremos un sistema estable de financiación de proyectos de inversión relacionados con la movilidad urbana y metropolitana, así como el fondo estatal de contribución a la movilidad, para facilitar su transformación basada en la descarbonización, calidad del aire, digitalización y componente social.
+categories: Transporte

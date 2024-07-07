@@ -1,13 +1,14 @@
 id: a963dcd3-d335-47ff-bbcf-911cba8f54f4
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 23
+parent_chapter: d5cfbe7c-009c-4b4c-9963-9a6488479d1f
+text: Propondremos un plan estratégico de infraestructuras con horizonte 2030, que permita planificar su construcción, adquisición y mantenimiento.
 categories:
 - Ciencia y tecnología
 topics: I+D+i
-text: Propondremos un plan estratégico de infraestructuras con horizonte 2030, que permita planificar su construcción, adquisición y mantenimiento.

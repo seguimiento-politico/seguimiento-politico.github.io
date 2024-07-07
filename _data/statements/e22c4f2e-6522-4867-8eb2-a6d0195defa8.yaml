@@ -1,6 +1,6 @@
 id: e22c4f2e-6522-4867-8eb2-a6d0195defa8
-type: declaration
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+type: statement
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,7 +8,8 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 29
+parent_chapter: 3772d1ed-1f99-4909-8296-7fc8857deef4
+text: Los obstáculos impuestos a la industria nacional por parte de las diferentes agendas globalistas han debilitado nuestro tejido productivo, generando una pérdida progresiva de empresas y empleo y una reducción generalizada de salarios.
 categories:
 - Industria
 - Energía
-text: Los obstáculos impuestos a la industria nacional por parte de las diferentes agendas globalistas han debilitado nuestro tejido productivo, generando una pérdida progresiva de empresas y empleo y una reducción generalizada de salarios.

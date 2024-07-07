@@ -1,7 +1,6 @@
 id: e2878b16-7ae1-4b6c-ae72-4cb89a96a7b2
 type: promise
-parent_statement: bfd029db-538b-4c76-97d3-31f41566fdef
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Política internacional
+parent_statement: bfd029db-538b-4c76-97d3-31f41566fdef
+parent_chapter: 4d3afa99-1301-4519-a703-6dfe49d7e832
 text: Impulsaremos una Europa con un lugar autónomo y una voz propia en el mundo actual, que acompase valores e intereses y ponga en el centro los derechos humanos y la lucha contra la emergencia climática y las desigualdades globales, incluidas las de género.
+categories: Política internacional

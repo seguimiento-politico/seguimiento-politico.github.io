@@ -1,6 +1,6 @@
 id: 1e7b0c7c-6320-4b39-b9e8-3adbc7301a11
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 54
+parent_chapter: d6814cd3-b2e5-4b90-a62f-2c3e6434b1be
+children_promises:
+- c40d8bae-8490-4543-bd60-c2a5d375b62e
+children_statements: []
+title: Regularemos el uso de redes sociales de menores
 categories: Derechos y servicios sociales
 topics: Derechos digitales
-title: Regularemos el uso de redes sociales de menores
-has_children: true

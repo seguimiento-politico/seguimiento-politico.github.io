@@ -1,6 +1,6 @@
 id: b72ec2ac-a8cd-46fd-9226-f0304a78150c
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 121
+parent_chapter: 96e848d1-3015-443e-a16c-804978d00154
+text: Se reforzarán los programas de actividades educativas en áreas STEM, tales como Ferias de Ciencia o actividades extraescolares dedicadas a promover vocaciones científicas y tecnológicas entre niños y niñas.
 categories: Ciencia y tecnología
 topics: I+D+i
-text: Se reforzarán los programas de actividades educativas en áreas STEM, tales como Ferias de Ciencia o actividades extraescolares dedicadas a promover vocaciones científicas y tecnológicas entre niños y niñas.

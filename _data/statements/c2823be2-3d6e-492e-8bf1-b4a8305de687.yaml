@@ -1,6 +1,6 @@
 id: c2823be2-3d6e-492e-8bf1-b4a8305de687
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 69
+parent_chapter: 7d3df58a-3293-4f26-b114-1a8c3838af87
+children_promises:
+- 47fad587-4432-4b6f-86f8-1e88b67fae0f
+- 9fecd483-1b48-4cb8-8fb4-78730f042c21
+- 8b49e368-a1f6-43eb-b4d9-299b77fef770
+children_statements: []
+title: Educación nutricional para todas las personas
 categories: Consumo
 topics: Alimentación saludable
-title: Educación nutricional para todas las personas
-has_children: true

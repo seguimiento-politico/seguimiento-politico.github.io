@@ -1,6 +1,6 @@
 id: 2c645d9d-ae94-4db6-ad02-9f4cc06968b6
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 52
+parent_chapter: 2d06e79f-d667-441b-b7cf-513970c6ccde
+children_promises:
+- 39372bb9-dc1e-42ad-ab61-d116a93f4060
+children_statements: []
+title: Impulso de la protección del mar y su biodiversidad
 categories: Medioambiente
 topics: Biodiversidad
-title: Impulso de la protección del mar y su biodiversidad
-has_children: true

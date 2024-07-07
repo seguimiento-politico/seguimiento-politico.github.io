@@ -1,7 +1,6 @@
 id: 126fc70d-3799-4322-9cbf-2ffb3b422f95
 type: promise
-parent_statement: 5631f7b9-3f7e-4486-ad78-7ec4c1c22ea7
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
+parent_statement: 5631f7b9-3f7e-4486-ad78-7ec4c1c22ea7
+parent_chapter: 80f33f13-c365-4098-ac18-6210795cdb15
+text: Derogar cinco normativas por cada una promulgada para el comercio y la industria.
 categories:
 - Economía
-text: Derogar cinco normativas por cada una promulgada para el comercio y la industria.

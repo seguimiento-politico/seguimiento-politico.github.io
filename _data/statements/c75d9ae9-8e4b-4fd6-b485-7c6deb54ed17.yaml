@@ -1,13 +1,14 @@
 id: c75d9ae9-8e4b-4fd6-b485-7c6deb54ed17
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 23
+parent_chapter: d5cfbe7c-009c-4b4c-9963-9a6488479d1f
+text: Impulsaremos la innovación en sectores tradicionales, principalmente en las pymes, fomentando su reindustrialización y apoyando políticas de formación a la demanda de necesidades. Para ello, crearemos en CDTI una oficina especializada en sectores tradicionales y su transformación involucrando empresas, instituciones y organismos de investigación, universidades y hospitales.
 categories:
 - Ciencia y tecnología
 topics: I+D+i
-text: Impulsaremos la innovación en sectores tradicionales, principalmente en las pymes, fomentando su reindustrialización y apoyando políticas de formación a la demanda de necesidades. Para ello, crearemos en CDTI una oficina especializada en sectores tradicionales y su transformación involucrando empresas, instituciones y organismos de investigación, universidades y hospitales.

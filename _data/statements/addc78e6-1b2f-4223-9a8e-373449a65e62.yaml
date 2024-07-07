@@ -1,6 +1,6 @@
 id: addc78e6-1b2f-4223-9a8e-373449a65e62
-type: declaration
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 85
-categories: Derechos y servicios sociales
+parent_chapter: bf2e9039-90a2-45d4-9adb-714dea29c151
+children_promises: []
+children_statements:
+- 7a795f7e-5dc3-4ddb-8416-db7e68331b86
+- a80d94cd-519d-491f-a6a1-179e26e09829
 title: UNA FUNCIÓN PÚBLICA PREPARADA PARA AFRONTAR LOS DESAFÍOS
-has_children: true
+categories: Derechos y servicios sociales

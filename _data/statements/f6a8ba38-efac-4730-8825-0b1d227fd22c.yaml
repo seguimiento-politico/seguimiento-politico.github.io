@@ -1,6 +1,6 @@
 id: f6a8ba38-efac-4730-8825-0b1d227fd22c
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 58
+parent_chapter: a032ad89-ff94-4e43-a3b0-dfbbc59e0d4a
+children_promises:
+- 33468ec3-7b80-4047-a4f3-85d3e986057f
+children_statements: []
+title: Impulsaremos medidas de trato preferente y garantía de prestación presencial de servicios públicos a las personas mayores de 65 años y con discapacidad.
 categories: Derechos y servicios sociales
 topics: Digitalización
-title: Impulsaremos medidas de trato preferente y garantía de prestación presencial de servicios públicos a las personas mayores de 65 años y con discapacidad.
-has_children: true

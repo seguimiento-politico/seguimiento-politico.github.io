@@ -1,11 +1,12 @@
 id: c0907d50-a50a-484b-80c5-89da7d9581b4
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 74
-categories: Economía
+parent_chapter: 930edcb6-d23f-4673-af50-fcc5f7634f84
 text: Defenderemos los intereses de la flota española ante cualquier esce- nario de salida del Reino Unido de la Unión Europea.
+categories: Economía

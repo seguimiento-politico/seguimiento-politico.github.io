@@ -1,11 +1,12 @@
 id: 483e0d0b-698b-4579-b90e-ce9c5860c7da
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 32
-categories: Educación
+parent_chapter: d01d08b0-ad16-47ca-a6fa-7d638f061cfa
 text: Impulsaremos un Plan Nacional para promover la implantación del Bachillerato Internacional proporcionando los medios humanos y materiales necesarios a los Institutos Públicos que lo soliciten.
+categories: Educación

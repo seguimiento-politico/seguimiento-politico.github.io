@@ -1,7 +1,6 @@
 id: 7af51be3-fa31-4457-8f8c-7e6aac0b4856
 type: promise
-parent_statement: 6a24f1da-0637-4834-9787-923c82182902
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,8 +8,10 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 6a24f1da-0637-4834-9787-923c82182902
+parent_chapter: 1d2802d7-3c25-4a37-96cf-85b8e7ed4986
+text: El hecho religioso debe ser abordado en sus múltiples dimensiones como un elemento cultural y social de relevancia, pero las enseñanzas confesionales no deben integrarse ni en el currículo ni en el horario escolar.
 categories: Educación
 topics:
 - Igualdad
 - Inclusión
-text: El hecho religioso debe ser abordado en sus múltiples dimensiones como un elemento cultural y social de relevancia, pero las enseñanzas confesionales no deben integrarse ni en el currículo ni en el horario escolar.

@@ -1,6 +1,6 @@
 id: 82c7eefd-7a7c-473b-b9e5-10d3dcb7fc8a
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,15 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 52
+parent_chapter: 2d06e79f-d667-441b-b7cf-513970c6ccde
+children_promises:
+- 9122d540-da42-41fa-a6f1-daff76a45590
+- 91aa5e0d-e027-4ff0-8051-ebd4221eb97a
+- f30ec98f-6891-41c7-af63-c5dd9f552363
+- 5358c331-8348-4d90-9e88-692999f6f324
+- 1551f955-60e7-4707-a12e-ab309929e879
+children_statements:
+- b58ed404-7f43-4eab-b9a6-ee83a60d18ed
+title: 'Biodiversidad: Plan estratégico del patrimonio natural y la biodiversidad y su revisión legislativa'
 categories: Medioambiente
 topics: Biodiversidad
-title: 'Biodiversidad: Plan estratégico del patrimonio natural y la biodiversidad y su revisión legislativa'
-has_children: true

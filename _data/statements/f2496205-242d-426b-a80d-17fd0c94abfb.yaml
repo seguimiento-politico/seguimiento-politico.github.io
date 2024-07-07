@@ -1,11 +1,12 @@
 id: f2496205-242d-426b-a80d-17fd0c94abfb
-type: declaration
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+type: statement
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 79
-categories: Democracia
+parent_chapter: fba892fd-d41d-42e2-ba2b-5a598a075f0d
 text: Al mismo tiempo, queremos una Administración más eficiente y transparente, respetando los derechos y deberes de quien ha conseguido en justa competición su plaza pública, pero favoreciendo la evaluación del desempeño, la remuneración adicional por el mismo y el acceso sin discriminación por lengua.
+categories: Democracia

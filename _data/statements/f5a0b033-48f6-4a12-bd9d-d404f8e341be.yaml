@@ -1,6 +1,6 @@
 id: f5a0b033-48f6-4a12-bd9d-d404f8e341be
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 118
+parent_chapter: 96e848d1-3015-443e-a16c-804978d00154
+text: Seguiremos promoviendo un Estado emprendedor, que impulse la investigación y la innovación para aumentar la competitividad y productividad de la economía y las empresas españolas. Culminaremos los programas en marcha, impulsando el modelo de misiones y de programas complementarios de investigación con las Comunidades Autónomas, de forma que España se sitúa entre el TOP20 de los países innovadores a nivel mundial en cuatro años
 categories: Ciencia y tecnología
 topics: I+D+i
-text: Seguiremos promoviendo un Estado emprendedor, que impulse la investigación y la innovación para aumentar la competitividad y productividad de la economía y las empresas españolas. Culminaremos los programas en marcha, impulsando el modelo de misiones y de programas complementarios de investigación con las Comunidades Autónomas, de forma que España se sitúa entre el TOP20 de los países innovadores a nivel mundial en cuatro años

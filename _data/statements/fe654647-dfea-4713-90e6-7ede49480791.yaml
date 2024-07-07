@@ -1,6 +1,6 @@
 id: fe654647-dfea-4713-90e6-7ede49480791
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 17
+parent_chapter: 14cfe70b-f6b5-4003-88f7-02a877dec28f
 title: España está viviendo una pérdida irreparable en la calidad de sus suelos que nos hace todavía más vulnerables a otros fenómenos extremos, como sequías y crecidas, y que pone en riesgo la sostenibilidad de muchas comunidades Es urgente implementar un Plan de Restauración Hidrológico-Forestal, por ejemplo, con la recuperación y replantación de una masa forestal adecuada a cada ecosistema
 text: Frenar el avance de la desertificación.

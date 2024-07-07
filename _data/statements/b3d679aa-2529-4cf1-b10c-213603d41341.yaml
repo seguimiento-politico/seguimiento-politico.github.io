@@ -1,6 +1,6 @@
 id: b3d679aa-2529-4cf1-b10c-213603d41341
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 7
+parent_chapter: a47741b5-bbce-46ec-a578-07955d93b4fb
+text: Derecho a la desconexión y la adecuada gestión del tiempo de trabajo dentro de la normativa laboral, así como a la protección efectiva en casos de embarazo y lactancia.
 categories: Trabajo
 topics: Conciliación familiar
-text: Derecho a la desconexión y la adecuada gestión del tiempo de trabajo dentro de la normativa laboral, así como a la protección efectiva en casos de embarazo y lactancia.

@@ -1,12 +1,13 @@
 id: 8c958c56-a9c6-4d42-8080-a91423cb4765
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 90
+parent_chapter: fe3cc116-0401-4e46-adee-1667e3538386
+text: Todos los municipios de España donde gobierne el Partido Popular tendrán un espacio público dedicado a las víctimas del terrorismo. Los centros culturales municipales organizarán todos los años actividades para recordar y honrar a las víctimas del terrorismo por su sacrificio en favor de España, de la democracia y de la libertad de todos.
 categories: Seguridad y defensa
 topics: Terrorismo
-text: Todos los municipios de España donde gobierne el Partido Popular tendrán un espacio público dedicado a las víctimas del terrorismo. Los centros culturales municipales organizarán todos los años actividades para recordar y honrar a las víctimas del terrorismo por su sacrificio en favor de España, de la democracia y de la libertad de todos.

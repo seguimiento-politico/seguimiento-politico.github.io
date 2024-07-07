@@ -1,6 +1,6 @@
 id: ce48cd50-f05c-4b74-90b9-09224857d157
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 72
-categories: Urbanismo y ciudades
+parent_chapter: da4a5e62-c6b6-45b0-a08b-611f6d470a08
+children_promises:
+- 1ee49d17-d7a4-4456-8d93-d794953cc3ba
+- 856f2d14-b966-4eb9-aa05-7c48188d475d
+- 220403ca-bb35-45be-a5b6-48da72aff206
+- fa9e65a2-e164-4f90-a2db-b72a68926ad7
+- 7bf1b29e-93ff-442d-8d87-260b3027ba82
+children_statements: []
 title: Desarrollo de un territorio policéntrico con áreas urbanas mixtas y autónomas.
-has_children: true
+categories: Urbanismo y ciudades

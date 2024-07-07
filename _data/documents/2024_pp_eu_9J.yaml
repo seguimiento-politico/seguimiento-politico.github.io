@@ -1,0 +1,120 @@
+id: c4f5297c-b409-4210-b40a-4277dbb77d63
+version: 2
+type: 'manifesto'
+parties: PP
+election_type: 'europeas'
+election_date: '2024-06-09'
+publication_date: '2024-05-29'
+url: 'https://www.pp.es/sites/default/files/documentos/manifiesto_pp_europeas_2024_v2.pdf'
+web_history: 'https://web.archive.org/web/20240531155203/https://www.pp.es/sites/default/files/documentos/manifiesto_pp_europeas_2024_v2.pdf'
+title: 'Manifiesto ELECCIONES EUROPEAS 2024'
+description: ''
+content:
+- statement:
+    id: 3fa14116-b910-4ca2-93b3-364d11b1d3f9
+    page: 2
+    text: EUROPA ES UN PROYECTO DE LIBERTAD.
+- statement:
+    id: 93c5671a-1575-44dd-8d8e-ed5c8cbbe830
+    page: 2
+    text: 'SOBRE LA BASE DE UN PATRIMONIO CULTURAL COMÚN, LOS EUROPEOS HEMOS FUNDADO UN “MODO DE VIDA EUROPEO ÚNICO” DONDE EL ESTADO DE DERECHO, LA IGUALDAD, LA DEMOCRACIA Y, EN DEFINITIVA, LA LIBERTAD SON NUESTRAS SEÑAS DE IDENTIDAD: ESTO ES LO QUE NOS HACE ESPECIALES A LOS EUROPEOS, POR LO QUE NUESTRO PARTIDO TRABAJA EN ESPAÑA Y POR LO QUE TRABAJAREMOS EN LAS INSTITUCIONES EUROPEAS LA PRÓXIMA LEGISLATURA.'
+- statement:
+    id: 3b67cd66-c592-4867-aef8-4344ec5dad2c
+    page: 2
+    text: Vivimos momentos difíciles. Europa importa más que nunca. Dos guerras se libran en nuestra vecindad. La fragmentación del mundo en bloques amenaza con acarrear enormes costes a nuestras empresas, que se han beneficiado en las últimas décadas de rutas comerciales abiertas y seguras. La curva demográfica del continente describe una tendencia preocupante que amenaza nuestra comunidad política, nuestro modo de vivir y nuestra sociedad de bienestar. La transición energética y la eclosión de la inteligencia artificial presentan tantas oportunidades industriales y económicas como desafíos democráticos y sociales. Todo ello merece una respuesta conjunta, sensata y eficaz que devuelva el optimismo a las clases medias europeas y la fe en sus instituciones democráticas, sobre todo, a los más jóvenes.
+- statement:
+    id: 9e6801ba-65d3-46e1-b347-96e85a88a3d4
+    page: 2
+    text: Si Europa importa mucho, también es mucho lo que España puede aportar a Europa. Hace ya casi cuatro décadas que nuestro país recuperó el papel que le corresponde por historia y vocación en el concierto europeo. En este tiempo, España se hizo cargo de Europa y se convirtió en un motor de integración. Son muchas las propuestas, de los Fondos de Cohesión al Erasmus, de la ciudadanía europea a la Euroorden, que llevan nuestro sello.
+- statement:
+    id: 13f558b9-85af-40d4-a8b6-0ccf056acbe5
+    page: 
+    text: Por eso, ahora, en un contexto de crecimiento de nuevas formas iliberales de democracia que cifran en el aislamiento la salvación y, cuando los retrocesos en materia de igualdad ante la ley, estabilidad política y libertad que estamos viviendo en España pueden alejar a los ciudadanos de unas instituciones que hemos construido juntos, es importante que nuestro país envíe una señal clara y afinada de europeísmo.
+- statement:
+    id: 538119c7-9770-4411-bbf9-c63f1849513a
+    page: 
+    text: 'Hay que hacerlo combinando el respeto absoluto por los logros de la integración europea con la consideración hacia los intereses esenciales de nuestro país, a la hora de negociar nuevos avances. Europa tiene por delante cuatro grandes desafíos a los que debemos hacer frente: el desafío democrático, el desafío social, el desafío económico y el desafío geoestratégico.'
+- chapter:
+    title: EL DESAFÍO DEMOCRÁTICO
+    children:
+    - statement:
+        id: 73474aeb-b7d4-4a88-984b-9a199fef1f5e
+        page: 3
+        text: 'No existe democracia sin Estado de Derecho. La igualdad ante la ley no es un lujo teórico del que quepa prescindir: es la garantía de la convivencia y la clave de nuestro bienestar colectivo. En todos los países, la decadencia económica tiene su prólogo en el menoscabo de sus instituciones y el desprecio hacia las resoluciones de sus tribunales.'
+    - promise:
+        id: 57293e02-d3ff-4b7f-a12c-d1aebc1dbb0e
+        page: 3
+        text: Por ello, el Partido Popular peleará en el Parlamento Europeo para restablecer la igualdad entre los españoles. Los ataques a la nación constitucional española, consentidos, cuando no alentados, por el Gobierno de Pedro Sánchez, son un problema europeo además de nacional. Para que la separación de poderes vuelva a imperar entre nosotros y las instituciones recuperen su neutralidad, es necesario un Partido Popular fuerte en la Eurocámara que defienda que la justicia es independiente, que las instituciones no son patrimonio de ningún partido y que España no puede gobernarse desde Suiza o Waterloo.
+- chapter:
+    title: EL DESAFÍO SOCIAL
+    children:
+    - statement:
+        id: 55e80a0c-919a-4579-9ab2-6f93c3ee783c
+        page: 4
+        text: Todos los países europeos tienen en común la preocupación por el bienestar de sus poblaciones. En el corazón del proyecto europeo siempre estará la economía social de mercado y el desarrollo de sistemas públicos de protección para garantizar un orden económico, social, político y cultural cohesionado.
+    - statement:
+        id: f4c2e39e-9103-4679-a295-173122e964a2
+        page: 4
+        text: El modelo social europeo está acorralado por el reto demográfico, particularmente acuciante en España. Las proyecciones indican que Europa empezará a perder población a partir de 2050. Aunque debemos celebrar que los europeos vivamos más años, no cabe obviar los efectos que el descenso de la natalidad y la pérdida de jóvenes tienen en el dinamismo económico y los sistemas de bienestar. Europa, viejo continente, no puede resignarse a ser un continente viejo. 
+    - promise:
+        id: 260aa196-3302-4118-9936-1f225dffb931
+        page: 4
+        text: El Partido Popular presentará una batería de medidas destinada, por un lado, a facilitar la vida de las familias, que contribuyen con su esfuerzo a asegurar nuestro futuro; y, por el otro, a favorecer a los jóvenes europeos, cuyo derecho a construir una vida próspera ha sido con frecuencia desatendido e ignorado. 
+    - promise:
+        id: b2b1c04c-1129-463f-ae3b-fd468e10bb22
+        page: 4
+        text: Nuestro partido se compromete igualmente a potenciar los servicios sanitarios, mejorar las políticas educativas, facilitar el acceso a la vivienda y combatir la discriminación en toda la Unión Europea.
+- chapter:
+    title: EL DESAFÍO ECONÓMICO
+    children:
+    - statement:
+        id: bf051b8f-cd90-4252-8fdc-d790298fbd25
+        page: 5
+        text: 'Una economía pujante es el presupuesto de un bienestar sólido. Las cifras no permiten la complacencia. Si el peso económico de la Unión Europea era en 1993 todavía del 20% del producto interno bruto global, en 2023 había caído a un 13,3%. Los salarios en Europa son hoy casi un 30% más bajos que en EEUU. La brecha de competitividad también aumenta. No cabe otra conclusión: Europa necesita reformas sólidas porque se está quedado atrás.'
+    - promise:
+        id: 868d2fe8-9d91-4d85-b5e6-720e85529355
+        page: 5
+        text: Debemos encontrar un modelo de crecimiento que no se limite a generar y exportar regulaciones. Para ello, debemos apoyarnos en el mayor logro de la integración europea, el mercado común, una fuente de riqueza que debe ser puesta al día con miras a poder competir en el nuevo mapa geopolítico. 
+    - promise:
+        id: d305a9f5-6991-4ea2-972d-17618d8fff0d
+        page: 5
+        text: También debemos ser capaces de proteger la inversión productiva, de fomentar la creación de empresas y de hacer política industrial en condiciones de igualdad, con reglas justas y claras para todos los Estados miembros.
+- chapter:
+    title: EL DESAFÍO GEOESTRATÉGICO
+    children:
+    - statement:
+        id: 7c2b069d-e43c-49ea-9a2d-3fb81727ab9a
+        page: 6
+        text: El mundo camina hacia su fragmentación en bloques geopolíticos. Un escenario involucionista en el que Europa, continente que ha hecho del intercambio comercial una clave de prosperidad compartida y que no puede autoabastecerse de muchas materias primas, no tiene nada que ganar. La labor exterior de la Unión Europea debe dirigirse a apuntalar un orden internacional basado en reglas y a evitar que se deshagan los logros comerciales de la globalización.
+    - statement:
+        id: e4482559-1ab7-4a1b-9ff7-b494dc30010e
+        page: 6
+        text: De manera especial, Europa debe hacer oír su voz en las dos guerras que se libran en su vecindad, recordando lo frágil que es la paz cuando no se asienta en acuerdos sólidos, en instituciones democráticas y en el reconocimiento del derecho a existir de los Estados con unas fronteras seguras. 
+    - promise:
+        id: 794b4d07-e32a-4c25-a4d3-67d428fd2b89
+        page: 6
+        text: La Unión Europea debe ampliarse al ritmo que la negociación disponga al este y fortalecer su presencia en el norte de África. 
+    - promise:
+        id: 2d0595bc-b967-4b27-9605-3b4b8baeeda2
+        page: 6
+        text: Debe robustecer su alianza con ese socio indispensable que es Estados Unidos y, liderada por España, estrechar lazos con Iberoamérica. 
+    - promise:
+        id: 59ba804c-8181-4d56-99a5-71712a3a1671
+        page: 6
+        text: Debe ser capaz de competir, negociar y acordar asuntos de la agenda global con China. 
+    - promise:
+        id: d7bc0d4e-435d-4027-8558-1e4888f52fa7
+        page: 6
+        text: Debe, de manera prioritaria, invertir más en seguridad y en defensa.
+- chapter:
+    title: LA EUROPA DE LAS PEQUEÑAS COSAS
+    children:
+    - statement:
+        id: da7e6f69-06c6-4b93-b490-3f11f8761081
+        page: 7
+        text: Más importante aún que identificar los desafíos a los que nos enfrentamos, tan complejos e intrincados, es ser capaces de abordarlos del modo correcto. Y somos muy conscientes de que para hacerlo no hacen falta grandes fórmulas o proyectos colosales —estos suelen estar desapegados de la realidad y, en consecuencia, casi siempre fracasan.
+    - statement:
+        id: 38aab402-2814-47e8-84cf-3777d5051f69
+        page: 7
+        text: 'Lo que Europa necesita es exactamente lo contrario: medidas concretas que mejoren la vida de todos, que tengan un verdadero impacto en la realidad. Por eso proponemos una Europa al servicio de los europeos. O lo que es lo mismo: una Europa de las pequeñas cosas.'
+

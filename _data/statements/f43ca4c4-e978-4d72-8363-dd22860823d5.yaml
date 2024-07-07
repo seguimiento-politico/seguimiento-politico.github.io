@@ -1,6 +1,6 @@
 id: f43ca4c4-e978-4d72-8363-dd22860823d5
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 43
-categories: Democracia
+parent_chapter: 46db4d3f-cf6c-411a-998c-91f7fa54bd7b
 text: Reformaremos, y derogaremos, aquellos aspectos de la normativa vigente que limita los derechos de reunión y libertad de expresión (la «ley mordaza» y el Código Penal). En concreto, garantizaremos el ejercicio del derecho a la libertad de expresión y reunión pacífica. Introduciremos un sistema de sanciones restaurativas y reparadoras, que contemple la capac  idad económica de los sancionados. Esta nueva legislación estará basada en una concepción progresista y garantista de la segur  idad ciudadana y jurídica, y priorizará la garantía de derechos y la protección de la ciudadanía, y en particular regulará, entre otros, el derecho de reunión y manifestación, la   identificación y registro corporal, la utilización de técnicas preventivas y disuasorias, así como la   identificación de los agentes. Garantizará asimismo la libertad de información y la transparencia informativa.
+categories: Democracia

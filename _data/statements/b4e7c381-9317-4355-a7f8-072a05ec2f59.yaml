@@ -1,6 +1,6 @@
 id: b4e7c381-9317-4355-a7f8-072a05ec2f59
-type: declaration
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+type: statement
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 40
-categories: Territorio rural
+parent_chapter: 1b8363d9-c85e-4ba1-90d1-ce1448bdd2b1
 text: Apoyo decidido a la llamada España Vaciada.
+categories: Territorio rural

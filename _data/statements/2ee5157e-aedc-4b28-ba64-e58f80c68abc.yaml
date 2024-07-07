@@ -1,6 +1,6 @@
 id: 2ee5157e-aedc-4b28-ba64-e58f80c68abc
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 59
-categories: Sanidad
+parent_chapter: befa4347-5ac5-4c3d-853b-7fc9b83921e6
 text: Defenderemos nuestra soberanía sanitaria y fortaleceremos la industria nacional de tecnología sanitaria y medicamentos para mejorar la respuesta sanitaria. Reforzaremos la AEMPS , acabando con el infierno burocrático y el caos normativo autonómico, que expulsan a nuestras industrias y disuaden la inversión industrial en España.
+categories: Sanidad

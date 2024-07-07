@@ -1,7 +1,6 @@
 id: a0c3beec-3415-496d-abb5-400937252fef
 type: promise
-parent_statement: d9e95be9-49a8-4c33-8585-e177ec0692a0
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: d9e95be9-49a8-4c33-8585-e177ec0692a0
+parent_chapter: 85064199-a50f-4c6d-a819-6336cf24a3e1
+text: Dotaremos a las personas representantes de los medios necesarios para llevar a cabo sus funciones, así como del reconocimiento correspondiente, con especial consideración de las desigualdades, mediante acciones positivas cuando así se requiera.
 categories: Educación
 topics: Universidad
-text: Dotaremos a las personas representantes de los medios necesarios para llevar a cabo sus funciones, así como del reconocimiento correspondiente, con especial consideración de las desigualdades, mediante acciones positivas cuando así se requiera.

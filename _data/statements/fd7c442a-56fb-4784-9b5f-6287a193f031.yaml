@@ -1,0 +1,25 @@
+id: fd7c442a-56fb-4784-9b5f-6287a193f031
+type: statement
+parent_document: a613c4b6-f9dc-4926-8b9a-b87c233e5a75
+parties:
+- VOX
+election_type: europeas
+election_date: '2024-06-09'
+publication_date: '2024-05-30'
+page: 5
+text: Estas elecciones, tenemos una oportunidad única para cambiar el rumbo de Europa y recuperar las riendas de su destino frente a los que nos llevan irrevocablemente a la ruina y la sumisión. El próximo 9 de junio, el gran vencedor de las elecciones será el movimiento patriota del que forma parte VOX, que busca recuperar Europa y poner a trabajar a las instituciones europeas al servicio de los intereses de las Naciones que conforman Europa y del bienestar y la prosperidad de los europeos.
+topics:
+- name: Nacionalismo
+  position_positive:
+  - text: VOX forma parte del movimiento patriota
+- name: Unión Europea
+  status_quo_negative:
+  - text: el rumbo de Europa nos lleva irrevocablemente a la ruina y la sumisión
+  position_positive:
+  - text: VOX busca recuperar Europa y poner a trabajar a las instituciones europeas al servicio de los intereses de las Naciones que conforman Europa y del bienestar y la prosperidad de los europeos.
+- name: Soberanía nacional
+  status_quo_negative: null
+  position_positive:
+  - text: el rumbo de Europa nos lleva irrevocablemente a la ruina y la sumisión
+  - text: tenemos una oportunidad única para cambiar el rumbo de Europa y recuperar las riendas de su destino
+    type: duty

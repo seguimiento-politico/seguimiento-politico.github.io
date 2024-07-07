@@ -1,6 +1,6 @@
 id: 89968e6d-43bd-4998-8bb1-ef53591d7759
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 118
+parent_chapter: d59fe7bc-7318-4c18-a232-113ef256f4dd
+children_promises:
+- 8ac11116-8a01-43a7-86e1-be14cf69278c
+- 4a18c9c1-1dd7-4b45-98c5-e403c53c204e
+children_statements:
+- 3486384c-b21f-405e-9273-3c858c34e75f
+title: Atreverse a aprender y a innovar.
 categories: Democracia
 topics: Participación ciudadana
-title: Atreverse a aprender y a innovar.
-has_children: true

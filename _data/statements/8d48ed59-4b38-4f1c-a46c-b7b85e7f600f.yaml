@@ -1,6 +1,6 @@
 id: 8d48ed59-4b38-4f1c-a46c-b7b85e7f600f
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 54
-categories: Política internacional
+parent_chapter: 06572758-339c-4185-bcc1-2905946110b7
 text: 'Impulsaremos la dimensión política del proyecto europeo desde el convencimiento de que dicho proyecto solo será fuerte desde una auténtica integración política entre los países miembros. Queremos más Europa, con más competencias y más recursos para proteger a las y los europeos y a los bienes públicos globales. Y queremos mejor Europa, más ágil, democrática y cercana a la ciudadanía, capaz de reforzar su cohesión territorial: una Europa federal, con una auténtica soberanía europea, en la que se integre la España autonómica.'
+categories: Política internacional

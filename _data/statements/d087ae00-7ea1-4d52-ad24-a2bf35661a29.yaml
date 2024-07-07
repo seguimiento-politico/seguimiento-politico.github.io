@@ -1,6 +1,6 @@
 id: d087ae00-7ea1-4d52-ad24-a2bf35661a29
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 43
+parent_chapter: 1e1d9fec-722c-4fe5-83c8-753b161e1073
+children_promises:
+- ab0d8656-9e65-4c1a-8488-402f1bff9284
+children_statements: []
+title: Aprobaremos una Estrategia de Turismo LGTBI
 categories: Turismo
 topics: Desarrollo sostenible
-title: Aprobaremos una Estrategia de Turismo LGTBI
-has_children: true

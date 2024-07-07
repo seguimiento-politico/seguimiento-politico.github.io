@@ -1,6 +1,6 @@
 id: 2647f926-7608-4284-bde4-d00420ab3efd
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 158
-categories: Educación
+parent_chapter: 4f44b60a-d630-48f6-91cf-914cb0392db6
+children_promises:
+- a9a0b2f1-c41d-4a9e-b15d-275006656129
+children_statements: []
 title: Salud mental en los centros de educativos.
-has_children: true
+categories: Educación

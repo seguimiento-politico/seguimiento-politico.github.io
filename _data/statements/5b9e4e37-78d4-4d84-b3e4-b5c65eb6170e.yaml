@@ -1,6 +1,6 @@
 id: 5b9e4e37-78d4-4d84-b3e4-b5c65eb6170e
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 28
+parent_chapter: 7050dcc2-4872-4bb3-bb77-ab8f5251301a
+text: Promover la protección del medio natural con el ser humano como principal protagonista. Frente al ecologismo radical de las agendas impuestas por las élites que prescinden de las personas, la conservación de espacios naturales y protegidos no puede realizarse perjudicando a las comunidades locales y los modos de producción tradicionales, sea en el Mar Menor, en el Delta del Ebro o con la pesca artesanal.
 categories:
 - Medioambiente
-text: Promover la protección del medio natural con el ser humano como principal protagonista. Frente al ecologismo radical de las agendas impuestas por las élites que prescinden de las personas, la conservación de espacios naturales y protegidos no puede realizarse perjudicando a las comunidades locales y los modos de producción tradicionales, sea en el Mar Menor, en el Delta del Ebro o con la pesca artesanal.

@@ -1,7 +1,6 @@
 id: 52944508-274b-4781-a91b-b97a38a823d2
 type: promise
-parent_statement: 8ff87f04-a1b9-496d-aee1-a8efbf166438
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Empresas y autónomos
-topics: Emprendimiento
+parent_statement: 8ff87f04-a1b9-496d-aee1-a8efbf166438
+parent_chapter: 9084fb76-14d5-4f08-b13b-74bd606de716
 text: así como participaremos en las iniciativas europeas como la European Tech Champions Initiative gestionada por el Banco Europeo de Inversiones.
+categories: Empresas y autónomos

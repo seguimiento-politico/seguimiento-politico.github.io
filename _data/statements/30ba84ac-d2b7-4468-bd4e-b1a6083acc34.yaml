@@ -1,7 +1,6 @@
 id: 30ba84ac-d2b7-4468-bd4e-b1a6083acc34
 type: promise
-parent_statement: fc8396fb-afe0-42fa-9487-7e8d88cf2a2e
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Trabajo
+parent_statement: fc8396fb-afe0-42fa-9487-7e8d88cf2a2e
+parent_chapter: 80d48e2e-109f-4d20-9b2c-09d128e89470
 text: En atención a estas circunstancias, se propone que las personas que trabajan en turnos rotatorios no puedan trabajar más de cinco noches consecutivas, así como la introducción de un derecho de cambio de turno de trabajo para las personas mayores de cincuenta años con el fin de que puedan transitar de un turno de noche a un turno de día disponible en la empresa y para el que tengan la cualificación profesional necesaria.
+categories: Trabajo

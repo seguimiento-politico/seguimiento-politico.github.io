@@ -1,0 +1,25 @@
+name: Europa
+other:
+- &id001
+  id: 4f3081c4-9358-4f26-ad3a-07f7bd333aa8
+  parties:
+  - PSOE
+- &id002
+  id: 0d876e70-6224-43be-89c6-37a84286f630
+  parties:
+  - PSOE
+other_count: 2
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- *id002
+statements_count: 2
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

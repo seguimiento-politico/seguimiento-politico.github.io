@@ -1,12 +1,13 @@
 id: 5346c7a6-10b8-46e5-babd-5293ceeedb08
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 27
+parent_chapter: a376d79e-bd30-4273-bfd7-dcba6c72b615
+text: Fortaleceremos la coordinación en el seno del Sistema Nacional de Empleo de la planificación de todas las actuaciones en materia de políticas activas de empleo realizadas tanto con fondos europeos, como estatales o autonómicos para mejorar su eficacia y evitar solapamientos.
 categories:
 - Trabajo
-text: Fortaleceremos la coordinación en el seno del Sistema Nacional de Empleo de la planificación de todas las actuaciones en materia de políticas activas de empleo realizadas tanto con fondos europeos, como estatales o autonómicos para mejorar su eficacia y evitar solapamientos.

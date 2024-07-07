@@ -1,7 +1,6 @@
 id: 390f9a5c-fa00-41c6-ba40-385f1e8c0117
 type: promise
-parent_statement: 5fc4f428-c8a3-4009-aec0-7c8757627d06
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Impuestos y financiación pública
+parent_statement: 5fc4f428-c8a3-4009-aec0-7c8757627d06
+parent_chapter: adffd871-b28d-4061-bc87-6b0d1ee98ead
 text: Del mismo modo promoveremos la adopción de medidas para evitar la elusión y la evasión fiscales que realizan los grandes grupos económicos y los grandes patrimonios.
+categories: Impuestos y financiación pública

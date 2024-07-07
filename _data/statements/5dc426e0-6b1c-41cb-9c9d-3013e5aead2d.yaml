@@ -1,6 +1,6 @@
 id: 5dc426e0-6b1c-41cb-9c9d-3013e5aead2d
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 176
-categories: Derechos y servicios sociales
+parent_chapter: c208ef1c-97fc-4757-9df3-ce1b7508a041
 text: Proposición no de Ley para la prevención del suicidio. Pedimos que se elabore un informe sobre el suicidio para ahondar en sus causas, que se creen campañas de información para dar a conocer esta realidad y que el servicio de emergencias del 112 garantice una atención especializada del suicidio a nivel nacional (septiembre 2021).
+categories: Derechos y servicios sociales

@@ -1,13 +1,14 @@
 id: b629d5e1-4e8e-446d-aa36-98d46a38b269
 type: promise
-parent_statement: 0ef93616-b392-480a-9b63-d1be742f8a39
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 91
+parent_statement: 0ef93616-b392-480a-9b63-d1be742f8a39
+parent_chapter: 8ad64579-192d-4408-ab5e-dd2a67a74227
+text: Potenciaremos el despliegue de FRONTEX para el control de las fronteras.
 categories: Migración
 topics: Inmigración
-text: Potenciaremos el despliegue de FRONTEX para el control de las fronteras.

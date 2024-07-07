@@ -1,12 +1,13 @@
 id: d7c0398d-7300-48e5-a710-cceb0f83d0bd
 type: promise
-parent_statement: b26486c3-f271-4b07-83b4-478d7fe23d68
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 39
-categories: Sanidad
+parent_statement: b26486c3-f271-4b07-83b4-478d7fe23d68
+parent_chapter: dcb6b10d-0b49-4143-9511-53be3f00f338
 text: Promoción de iniciativas para evitar las adicciones (drogas, alcohol, uso inadecuado de nuevas tecnologías, tabaco, etc.) con diferentes enfoques y estrategias en función de las personas y grupos a los que se dirijan.
+categories: Sanidad

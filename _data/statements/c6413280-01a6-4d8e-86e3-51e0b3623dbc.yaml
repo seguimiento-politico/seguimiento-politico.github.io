@@ -1,6 +1,6 @@
 id: c6413280-01a6-4d8e-86e3-51e0b3623dbc
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 249
+parent_chapter: 78357eae-f064-4648-9cf1-b5e149ae3feb
+text: Pondremos en marcha la Carpeta Justicia para que la ciudadanía, las organizaciones, las empresas y los operadores jurídicos puedan hacer trámites y consultar sus expedientes de manera inmediata desde cualquier tipo de dispositivo y desde cualquier lugar.
 categories: Justicia
 topics: Eficiencia
-text: Pondremos en marcha la Carpeta Justicia para que la ciudadanía, las organizaciones, las empresas y los operadores jurídicos puedan hacer trámites y consultar sus expedientes de manera inmediata desde cualquier tipo de dispositivo y desde cualquier lugar.

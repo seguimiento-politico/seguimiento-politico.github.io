@@ -1,6 +1,6 @@
 id: c81d153c-405f-4c08-a398-07c35e44f29d
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 236
+parent_chapter: 8a0803ad-af9f-44c7-bd6c-049f66148a50
+text: Velaremos por el cumplimiento de la Carta de Derechos Digitales, desplegando iniciativas que faciliten su conocimiento por parte de la ciudadanía y garantizando el pleno ejercicio de los derechos contenidos en ella.
 categories: Derechos y servicios sociales
 topics:
 - Derechos digitales
-text: Velaremos por el cumplimiento de la Carta de Derechos Digitales, desplegando iniciativas que faciliten su conocimiento por parte de la ciudadanía y garantizando el pleno ejercicio de los derechos contenidos en ella.

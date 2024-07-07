@@ -1,6 +1,6 @@
 id: 3dc95901-e46e-49a1-8999-ec816ced8b2f
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 125
+parent_chapter: a7853898-5bb1-4a7c-8910-f570fc691c52
+text: España necesita una justicia libre de cualquier presión o injerencia partidista, los jueces deben elegir a los jueces. Igualmente, quedan pendientes medidas urgentes para una justicia ágil, cercana al ciudadano y con los medios y condiciones suficientes para quienes ejercen una de las más altas funciones del Estado.
 categories:
 - Justicia
-text: España necesita una justicia libre de cualquier presión o injerencia partidista, los jueces deben elegir a los jueces. Igualmente, quedan pendientes medidas urgentes para una justicia ágil, cercana al ciudadano y con los medios y condiciones suficientes para quienes ejercen una de las más altas funciones del Estado.

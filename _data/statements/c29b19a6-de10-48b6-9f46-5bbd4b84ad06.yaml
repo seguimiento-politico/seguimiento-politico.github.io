@@ -1,10 +1,11 @@
 id: c29b19a6-de10-48b6-9f46-5bbd4b84ad06
-type: declaration
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+type: statement
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 7
+parent_chapter: 837e463a-8623-483e-9a15-69bf3dc872f4
 text: El Partido Popular desea convocar a una sólida y amplia mayoría de españoles en torno a una propuesta de cambio, modernización, reformas y regeneración. Un programa que no pretende decir a los españoles qué tienen que hacer con sus vidas sino que desea acompañarles en sus proyectos. Un programa hecho desde unos valores que rompen con el pesimismo de la izquierda y permiten recuperar la confianza en que las nuevas generaciones vivirán mejor que quienes las precedieron.

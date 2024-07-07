@@ -1,6 +1,6 @@
 id: d1c1f9e9-0d31-442c-a185-93c54f45b18c
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 31
+parent_chapter: b8a5aa3d-8c58-4fdb-8ce8-c6eb037312b4
 text: Afrontar el problema de la soledad no deseada y, en particular, la de las personas mayores, implementando para ello un programa de acompañamiento remunerado por parte de jóvenes, de sensibilización sobre el problema y de mejora de unos servicios sociales cercanos y bien dotados para atender esta necesidad emergente, prevenirla o mitigar sus consecuencias

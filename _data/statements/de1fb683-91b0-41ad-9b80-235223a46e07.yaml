@@ -1,6 +1,6 @@
 id: de1fb683-91b0-41ad-9b80-235223a46e07
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 110
-categories: Educación
+parent_chapter: 36fd6124-6838-4148-89e5-0907ad9fec89
 text: Reforzaremos de manera activa la formación cívica en el marco del desarrollo escolar y en promover actividades extracurriculares vinculadas a estos objetivos mediante las escuelas de ciudadanía.
+categories: Educación

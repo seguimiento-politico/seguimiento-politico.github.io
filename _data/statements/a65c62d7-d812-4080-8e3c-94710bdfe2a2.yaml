@@ -1,7 +1,6 @@
 id: a65c62d7-d812-4080-8e3c-94710bdfe2a2
 type: promise
-parent_statement: 3792598b-6653-4eda-921a-c6bb886e7012
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 3792598b-6653-4eda-921a-c6bb886e7012
+parent_chapter: c794cb24-1c55-422f-8b6d-1ff29ad1ed87
+text: Reforzaremos decididamente los instrumentos del Pacto Verde Europeo, como el Fondo de Transición Justa y el Fondo Social Climático, para asegurar que la lucha contra la emergencia climática no recaiga en las personas trabajadoras y que contribuyan más aquellos que contaminen en mayor medida.
 categories: Política internacional
 topics: Europa
-text: Reforzaremos decididamente los instrumentos del Pacto Verde Europeo, como el Fondo de Transición Justa y el Fondo Social Climático, para asegurar que la lucha contra la emergencia climática no recaiga en las personas trabajadoras y que contribuyan más aquellos que contaminen en mayor medida.

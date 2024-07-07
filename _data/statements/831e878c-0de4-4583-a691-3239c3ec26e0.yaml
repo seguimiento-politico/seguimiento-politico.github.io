@@ -1,13 +1,14 @@
 id: 831e878c-0de4-4583-a691-3239c3ec26e0
 type: promise
-parent_statement: 03e10ab5-34a5-4b5d-a8aa-bfe1bc5165ae
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 84
+parent_statement: 03e10ab5-34a5-4b5d-a8aa-bfe1bc5165ae
+parent_chapter: d1de57bf-12c9-4ee3-a261-eeb154aba200
+text: Mejoraremos los contenidos de publicidad activa actualmente publicados en el Portal de Transparencia, ofreciendo información más comprensible y potenciando el uso de datos abiertos y visualizables, como tablas y gráficos, que faciliten la evaluación de la gestión de las instituciones.
 categories: Democracia
 topics: Gobernanza y transparencia
-text: Mejoraremos los contenidos de publicidad activa actualmente publicados en el Portal de Transparencia, ofreciendo información más comprensible y potenciando el uso de datos abiertos y visualizables, como tablas y gráficos, que faciliten la evaluación de la gestión de las instituciones.

@@ -1,6 +1,6 @@
 id: b6beee68-4744-41ee-a7df-54bc6353b006
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 145
+parent_chapter: c794cb24-1c55-422f-8b6d-1ff29ad1ed87
+children_promises:
+- f5c04e7c-381d-4c08-9aac-da8081a5cc86
+- c515ba3c-4563-4b84-a892-afcc76945e67
+- ee044120-7821-4092-a034-3fe687cbe802
+- d1672861-3de4-4675-8734-756953fc5c26
+children_statements: []
+title: Llevar la democracia económica a Europa
 categories: Política internacional
 topics: Europa
-title: Llevar la democracia económica a Europa
-has_children: true

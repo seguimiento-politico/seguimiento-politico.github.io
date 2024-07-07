@@ -1,7 +1,6 @@
 id: 6659f2e6-bb68-4734-b178-4f98885b39db
 type: promise
-parent_statement: 23c9df78-55cf-42f0-9d94-e0373a216ddd
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,7 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 146
-categories: Democracia
-topics: Igualdad
+parent_statement: 23c9df78-55cf-42f0-9d94-e0373a216ddd
+parent_chapter: 8e1e3920-c101-4470-95ce-14d3cac3fb58
 title: PARIDAD EN EL ÁMBITO POLÍTICO.
 text: Los nombramientos del Consejo de Ministros, los órganos superiores y directivos de la Administración General del Estado (por ejemplo las Secretarías de Estado o las direcciones generales) incorporarán la presencia equilibrada de mujeres y hombres.
+categories: Democracia
+topics: Igualdad

@@ -1,7 +1,6 @@
 id: d3af0880-7801-418a-bc21-8b59c0034f7b
 type: promise
-parent_statement: c71437f8-a584-4ede-b166-27710efbb186
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: c71437f8-a584-4ede-b166-27710efbb186
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+text: Sin perjuicio de la reciente criminalización del acoso por el que se obstaculiza el ejercicio del derecho a la interrupción voluntaria del embarazo a una mujer, se hace necesario tomar medidas adicionales para que las clínicas donde se practica, así como el acceso a las mismas, sean espacios seguros tanto para los y las profesionales como para las mujeres.
 categories: Democracia
 topics: Igualdad
-text: Sin perjuicio de la reciente criminalización del acoso por el que se obstaculiza el ejercicio del derecho a la interrupción voluntaria del embarazo a una mujer, se hace necesario tomar medidas adicionales para que las clínicas donde se practica, así como el acceso a las mismas, sean espacios seguros tanto para los y las profesionales como para las mujeres.

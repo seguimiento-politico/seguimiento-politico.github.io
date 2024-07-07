@@ -1,7 +1,6 @@
 id: e47d6391-788a-44d3-ae1e-eef14c6b2ae6
 type: promise
-parent_statement: 0a473228-01ac-460c-ab0b-7c9a84ca43d5
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Derechos y servicios sociales
-topics: Cuidados y dependencia
+parent_statement: 0a473228-01ac-460c-ab0b-7c9a84ca43d5
+parent_chapter: 12295f44-3ae3-43bd-8758-0026574e6662
 text: Para ello, aprobaremos e implementaremos la Estrategia Estatal de Desinstitucionalización; incrementaremos la financiación estatal de la atención a la dependencia hasta alcanzar la media europea, asegurando que alcance el 50% de la inversión total;
+categories: Derechos y servicios sociales
+topics: Tercera edad

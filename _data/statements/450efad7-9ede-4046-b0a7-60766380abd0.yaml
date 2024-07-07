@@ -1,6 +1,6 @@
 id: 450efad7-9ede-4046-b0a7-60766380abd0
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 6
+parent_chapter: 73e0eb17-ca17-45e8-a4bd-217e9f7fe4bf
+text: Facilitaremos los trámites de las empresas con las Administraciones Públicas, avanzando en simplificación administrativa y creando una plataforma digital para la factura electrónica que permita a los autónomos y a las pymes reducir sus costes operativos y mejorar la eficiencia de sus procesos.
 categories: Economía
 topics: Desarrollo sostenible
-text: Facilitaremos los trámites de las empresas con las Administraciones Públicas, avanzando en simplificación administrativa y creando una plataforma digital para la factura electrónica que permita a los autónomos y a las pymes reducir sus costes operativos y mejorar la eficiencia de sus procesos.

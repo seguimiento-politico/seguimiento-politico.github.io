@@ -1,6 +1,6 @@
 id: c915e760-d9b2-411d-b211-4a2c504f2748
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 180
+parent_chapter: 63ab839a-6275-4d54-bf9b-ec036a685a75
+children_promises:
+- 0b612662-8068-4898-88b5-b35169f7f00d
+- 84293443-a58c-488e-87b3-4b62029d192d
+- 7fcc7834-0f69-4b0f-a4f8-a2d8304947fd
+children_statements: []
+title: Promoción de una política tecnológica libre y descentralizada
 categories: Educación
 topics: Digitalización
-title: Promoción de una política tecnológica libre y descentralizada
-has_children: true

@@ -1,6 +1,6 @@
 id: 74d2faf7-ef5e-4b61-a181-c71c6d579139
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 124
-categories: Cultura
+parent_chapter: ef655d4e-aabd-4367-b039-db13bf06547d
 text: Confeccionaremos un Plan Nacional de la Danza junta al sector privado y en colaboración con el resto de las administraciones públicas con el fin de impulsar y potenciar esta disciplina artística en todo el territorio.
+categories: Cultura

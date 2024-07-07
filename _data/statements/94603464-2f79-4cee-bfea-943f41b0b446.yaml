@@ -1,7 +1,6 @@
 id: 94603464-2f79-4cee-bfea-943f41b0b446
 type: promise
-parent_statement: d684f8b6-a65f-4470-a17b-4edc9fb1c16b
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: d684f8b6-a65f-4470-a17b-4edc9fb1c16b
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+text: Plan de choque contra la precariedad en sectores extremadamente feminizados. El sindicalismo de clase y la aparición de organizaciones feministas en los ámbitos de la limpieza, las camareras de piso, el servicio doméstico, la atención domiciliaria o las aparadoras han trasladado al debate social las condiciones de extrema precariedad de estos sectores, ocupados en más del 90% por mujeres que además son, en gran medida, de origen migrante. La dignificación laboral de estas ocupaciones es una parte imprescindible de la lucha contra la pobreza en la ocupación, la brecha salarial de género y la segregación laboral.
 categories: Democracia
 topics: Igualdad
-text: Plan de choque contra la precariedad en sectores extremadamente feminizados. El sindicalismo de clase y la aparición de organizaciones feministas en los ámbitos de la limpieza, las camareras de piso, el servicio doméstico, la atención domiciliaria o las aparadoras han trasladado al debate social las condiciones de extrema precariedad de estos sectores, ocupados en más del 90% por mujeres que además son, en gran medida, de origen migrante. La dignificación laboral de estas ocupaciones es una parte imprescindible de la lucha contra la pobreza en la ocupación, la brecha salarial de género y la segregación laboral.

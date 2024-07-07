@@ -1,7 +1,6 @@
 id: 51bcbfa3-70d4-4bac-b90f-1ae7e040000b
 type: promise
-parent_statement: 4f7e9a88-da4a-4fa6-9bc2-1384118b379b
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 4f7e9a88-da4a-4fa6-9bc2-1384118b379b
+parent_chapter: dc33f933-12a0-4325-b761-1f9bf8c3ad0d
+text: Reconocimiento de las cofradías de pescadores y la pesca artesanal a nivel europeo como parte de la identidad cultural y patrimonial del país, así como del valor social, cultural y económico de la pesca.
 categories: Pesca y acuicultura
 topics: Desarrollo sostenible
-text: Reconocimiento de las cofradías de pescadores y la pesca artesanal a nivel europeo como parte de la identidad cultural y patrimonial del país, así como del valor social, cultural y económico de la pesca.

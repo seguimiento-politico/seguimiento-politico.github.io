@@ -1,12 +1,13 @@
 id: 950d71b7-6eae-44c3-a774-53eb6479bf94
 type: promise
-parent_statement: 129d66af-3287-4534-a33e-6c925e82d72c
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 93
-categories: Comercio
+parent_statement: 129d66af-3287-4534-a33e-6c925e82d72c
+parent_chapter: 4915f6f2-c36c-4f78-8473-6b2ba7f73ac7
 text: Reformaremos el régimen de infracciones y sanciones y reforzaremos las ordenanzas municipales, en aquellos municipios en los que gobierne el Partido Popular, para luchar contra el comercio ilegal, las ventas ilegales  en nuestras calles y las falsificaciones.
+categories: Comercio

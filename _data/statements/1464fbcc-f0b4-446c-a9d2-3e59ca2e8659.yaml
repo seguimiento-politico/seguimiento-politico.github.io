@@ -1,11 +1,12 @@
 id: 1464fbcc-f0b4-446c-a9d2-3e59ca2e8659
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 36
-categories: Deporte
+parent_chapter: 600905ec-cddc-48bb-ac75-e797f671a827
 text: La promoción y la práctica del deporte es fundamental en la formación de los niños y los jóvenes y un hábito esencial para cualquier estilo de vida saludable. Apoyaremos el deporte de base y las necesidades de los deportistas desde sus inicios.
+categories: Deporte

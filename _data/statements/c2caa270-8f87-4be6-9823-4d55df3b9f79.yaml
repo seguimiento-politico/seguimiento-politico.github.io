@@ -1,12 +1,15 @@
 id: c2caa270-8f87-4be6-9823-4d55df3b9f79
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 94
-categories: Seguridad y defensa
+parent_chapter: a0dfa1eb-d727-4385-bc22-6a7a7ca56097
+children_promises:
+- 4ad439f7-49f1-42c7-b3a6-db2c93daa280
+children_statements: []
 text: Desarrollaremos la Ley del Sistema Nacional de Protección Civil para favorecer la coordinación de los medios de las diferentes administraciones.
-has_children: true
+categories: Seguridad y defensa

@@ -1,7 +1,6 @@
 id: a4b92153-4a29-4322-a9ae-2efc1e22de95
-type: declaration
-parent_statement: 37e5b7b1-ee9c-4d92-847c-71cc23c61b27
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,4 +8,6 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 37e5b7b1-ee9c-4d92-847c-71cc23c61b27
+parent_chapter: 234f712b-aaa0-45c7-92d9-e5641ca46ec2
 text: Se reformará la función pública para mejorar y garantizar la capacidad administrativa, estratégica e innovadora del Estado en el marco de la TEJ, sin necesidad de depender de grandes consultoras.

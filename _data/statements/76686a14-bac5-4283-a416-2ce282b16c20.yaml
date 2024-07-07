@@ -1,6 +1,6 @@
 id: 76686a14-bac5-4283-a416-2ce282b16c20
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 66
+parent_chapter: de18231f-ea27-483e-81a9-f51977d7f26c
 title: Crear un Observatorio Ciudadano de Evaluación de Políticas Públicas y Rendición de Cuentas.
 text: En las últimas décadas hemos construido en España aeropuertos sin aviones, autopistas sin conductores, paradas de AVE en pueblos de menos de mil habitante. En definitiva, se ha despilfarrado mucho dinero mientras otras zonas del país, como Extremadura, Soria o Teruel, se han dejado abandonadas No puede ser que se 67 PODEMOS. sigan cometiendo estos errores Por eso, es necesario incorporar la fase de evaluación a todas las políticas públicas, al servicio de los intereses generales Al mismo tiempo, incorporaremos los saberes científicos a la elaboración de las normas jurídicas

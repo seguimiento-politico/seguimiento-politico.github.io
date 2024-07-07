@@ -1,7 +1,6 @@
 id: 913f1fa4-a9a5-454f-860f-393d8d4db08f
 type: promise
-parent_statement: bfd029db-538b-4c76-97d3-31f41566fdef
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Política internacional
+parent_statement: bfd029db-538b-4c76-97d3-31f41566fdef
+parent_chapter: 4d3afa99-1301-4519-a703-6dfe49d7e832
 text: Apostaremos por abandonar el requisito de la unanimidad en materia de política exterior y de seguridad común.
+categories: Política internacional

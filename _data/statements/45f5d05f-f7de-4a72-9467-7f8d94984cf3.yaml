@@ -1,6 +1,6 @@
 id: 45f5d05f-f7de-4a72-9467-7f8d94984cf3
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 109
+parent_chapter: 8a474e92-a922-4e8e-9aca-16ac157ca40a
+text: La gestión del agua siempre debe abordarse desde una concepción nacional, porque es un recurso de todos los españoles. Por eso es urgente realizar un Plan Nacional del Agua bajo los principios de solidaridad y bien común. Dicho plan impulsará la interconexión de todas las cuencas que permita una gestión más eficiente del agua y pueda servir para reactivar económicamente a nuestro sector primario.
 categories:
 - Medioambiente
-text: La gestión del agua siempre debe abordarse desde una concepción nacional, porque es un recurso de todos los españoles. Por eso es urgente realizar un Plan Nacional del Agua bajo los principios de solidaridad y bien común. Dicho plan impulsará la interconexión de todas las cuencas que permita una gestión más eficiente del agua y pueda servir para reactivar económicamente a nuestro sector primario.

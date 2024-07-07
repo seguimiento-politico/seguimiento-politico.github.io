@@ -1,6 +1,6 @@
 id: 56810f07-16c3-46c2-98dd-f0ed3b3cdc95
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 76
+parent_chapter: ef0bb89b-1b90-4682-a618-d8eea7201020
 title: Acabar con la brecha salarial.
 text: (Véase el apartado «Horizonte Morado y Economía de los Cuidados»)

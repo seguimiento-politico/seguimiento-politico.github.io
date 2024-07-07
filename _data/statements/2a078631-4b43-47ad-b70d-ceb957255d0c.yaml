@@ -1,7 +1,6 @@
 id: 2a078631-4b43-47ad-b70d-ceb957255d0c
-type: declaration
-parent_statement: 9c6f53cb-3edb-4a86-9f4e-e8c1c6c591fc
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 9c6f53cb-3edb-4a86-9f4e-e8c1c6c591fc
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+text: Nos encontramos en un momento delicado para los avances en igualdad. Es un hecho que se han producido retrocesos tanto dentro como fuera de la Unión Europea. La negación de la violencia contra las mujeres, la introducción del pin parental o la eliminación de parte de la arquitectura institucional son algunos ejemplos.
 categories: Democracia
 topics: Igualdad
-text: Nos encontramos en un momento delicado para los avances en igualdad. Es un hecho que se han producido retrocesos tanto dentro como fuera de la Unión Europea. La negación de la violencia contra las mujeres, la introducción del pin parental o la eliminación de parte de la arquitectura institucional son algunos ejemplos.

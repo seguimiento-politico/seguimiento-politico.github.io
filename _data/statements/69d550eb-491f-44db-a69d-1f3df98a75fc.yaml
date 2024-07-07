@@ -1,6 +1,6 @@
 id: 69d550eb-491f-44db-a69d-1f3df98a75fc
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_chapter: 92b67934-069f-4590-b128-b34b5eeb5e89
+text: España tiene la red más extensa de alta velocidad de Europa. Haremos que la alta velocidad sea accesible a todos y todas y en todo el territorio, aumentando cada vez más su potencial y aprovechando al máximo su capacidad.
 categories: Transporte
 topics: Ferrocarril, Alta velocidad
-text: España tiene la red más extensa de alta velocidad de Europa. Haremos que la alta velocidad sea accesible a todos y todas y en todo el territorio, aumentando cada vez más su potencial y aprovechando al máximo su capacidad.

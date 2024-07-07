@@ -1,0 +1,25 @@
+name: Inmigración legal
+other: []
+other_count: 0
+position_negative: []
+position_negative_count: 0
+position_positive:
+- &id001
+  id: 189b2560-a820-49c1-8cd1-7a8712fe8afd
+  parties:
+  - VOX
+position_positive_count: 1
+proposed_actions:
+- &id002
+  id: da29e8af-9c40-45b1-97fc-54ef62aec78f
+  parties:
+  - VOX
+proposed_actions_count: 1
+statements:
+- *id001
+- *id002
+statements_count: 2
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

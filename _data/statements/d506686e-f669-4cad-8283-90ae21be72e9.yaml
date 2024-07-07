@@ -1,6 +1,6 @@
 id: d506686e-f669-4cad-8283-90ae21be72e9
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,7 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 115
+parent_chapter: 96823b0f-932d-41e1-a800-716933f427ff
+text: El Gobierno de Sánchez ha aplicado de espaldas a los españoles las agendas globalistas que han debilitado nuestro tejido productivo, generando una pérdida progresiva de empresas y empleo, y una reducción generalizada de salarios.
 categories:
 - Industria
 - Energía
-text: El Gobierno de Sánchez ha aplicado de espaldas a los españoles las agendas globalistas que han debilitado nuestro tejido productivo, generando una pérdida progresiva de empresas y empleo, y una reducción generalizada de salarios.

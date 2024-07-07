@@ -1,6 +1,6 @@
 id: 23515db1-1cc1-4a91-9ee8-b1c8f4265349
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 49
-categories: Política internacional
+parent_chapter: 7aed2df5-3eef-480d-a5ed-828fc5d485e6
 text: Estudiaremos la eliminación de la exigencia de unanimidad para la toma de determinadas decisiones en la UE de forma que resulten viables muchas de las anteriores propuestas y la conveniencia, en algunos casos, de avanzar a diferentes velocidades en el proceso de integración europea.
+categories: Política internacional

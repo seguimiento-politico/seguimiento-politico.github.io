@@ -1,6 +1,6 @@
 id: ac0314cc-7ca0-4b9d-9a7d-479aedb6e235
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_chapter: 6e11c72c-309e-4540-ad5b-ffaed85a3a04
+text: Seguiremos acompañando a las comunidades autónomas para el mejor tratamiento de los residuos y el fomento del compostaje en el entorno urbano (ejecución PERTE Economía Circular).
 categories: Medioambiente
 topics: Residuos
-text: Seguiremos acompañando a las comunidades autónomas para el mejor tratamiento de los residuos y el fomento del compostaje en el entorno urbano (ejecución PERTE Economía Circular).

@@ -1,6 +1,6 @@
 id: d42a4abd-3b25-43b0-a390-3b27a702fc85
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 18
+parent_chapter: 7ae97af0-2b46-4081-8273-1e68d732579c
+text: Impulsaremos una economía más circular, culminando el desarrollo de la Ley de Res  iduos y suelos contaminados para una economía circular, así como del nuevo reglamento de res  iduos y envases que permitirá alcanzar los objetivos de reducción de envases para 2025 y 2030. Se garantizará el derecho a reparar de las personas consum  idoras, por medio de una transposición de la normativa europea, en materias tales como el etiquetado, as garantías de durabil  idad, o la disponibil  idad de piezas. Así como con campañas de divulgación y sensibilización que incentiven la reparación frente a la sustitución.
 categories: Economía
 topics: Desarrollo sostenible
-text: Impulsaremos una economía más circular, culminando el desarrollo de la Ley de Res  iduos y suelos contaminados para una economía circular, así como del nuevo reglamento de res  iduos y envases que permitirá alcanzar los objetivos de reducción de envases para 2025 y 2030. Se garantizará el derecho a reparar de las personas consum  idoras, por medio de una transposición de la normativa europea, en materias tales como el etiquetado, as garantías de durabil  idad, o la disponibil  idad de piezas. Así como con campañas de divulgación y sensibilización que incentiven la reparación frente a la sustitución.

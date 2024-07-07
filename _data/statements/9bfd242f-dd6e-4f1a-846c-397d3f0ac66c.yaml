@@ -1,7 +1,6 @@
 id: 9bfd242f-dd6e-4f1a-846c-397d3f0ac66c
 type: promise
-parent_statement: 4e8104d3-8cc0-4cb0-8514-5100db0efe2f
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,6 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 271
-categories: Seguridad y Defensa
+parent_statement: 4e8104d3-8cc0-4cb0-8514-5100db0efe2f
+parent_chapter: ff200f89-fcf9-409d-908e-4ca3fd75edb8
+children_promises:
+- a225573a-0ce4-47a4-a17e-73a37a52af34
+- ce3a47b4-46cc-42d2-acd2-bf557b415643
+children_statements: []
 text: 'Estos proyectos se unen a los criterios de la Estrategia Nacional frente al Reto Demográfico, fomentando la desconcentración de unidades militares por el territorio nacional para el desarrollo de nuevas oportunidades y ejercer de impulsor económico:'
-has_children: true
+categories: Seguridad y Defensa

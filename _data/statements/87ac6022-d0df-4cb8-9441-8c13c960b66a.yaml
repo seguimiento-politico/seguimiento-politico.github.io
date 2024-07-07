@@ -1,7 +1,6 @@
 id: 87ac6022-d0df-4cb8-9441-8c13c960b66a
 type: promise
-parent_statement: b125844d-628d-4c8c-97f4-014012d07e4f
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,8 +8,10 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: b125844d-628d-4c8c-97f4-014012d07e4f
+parent_chapter: 1d2802d7-3c25-4a37-96cf-85b8e7ed4986
+text: Hacer de los centros educativos un lugar de encuentro, participación y diálogo entre las familias, profesorado y alumnado.
 categories: Educación
 topics:
 - Igualdad
 - Inclusión
-text: Hacer de los centros educativos un lugar de encuentro, participación y diálogo entre las familias, profesorado y alumnado.

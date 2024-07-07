@@ -1,6 +1,6 @@
 id: fd3b7222-af87-4d55-8f33-2b0db29c1a51
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 44
+parent_chapter: 27ff313e-64fe-41ca-bc72-c44fafac350d
+children_promises:
+- da2feff0-fb95-4776-937c-fb9d9956c61e
+- 62450ce3-ace0-440d-acc9-49f714ab8a41
+- d880ff69-c266-4143-8266-cb1f68000413
+children_statements: []
 title: Reforzando la adaptación climática
-has_children: true
+topics: Cambio climático

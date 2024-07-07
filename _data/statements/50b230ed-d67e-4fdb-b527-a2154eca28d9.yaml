@@ -1,6 +1,6 @@
 id: 50b230ed-d67e-4fdb-b527-a2154eca28d9
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 52
-categories: Comercio
+parent_chapter: 6f519b8a-1387-4b6d-9ac4-fa4d05568ba2
 text: Siempre que este gobierno ha tenido que tomar decisiones tanto en el interior como en el exterior ha acabado aliado con los enemigos de España produciendo un daño irreparable a las clases medias, al campo y las industrias. No vamos a permitir injerencias de países y lobbies verdes extranjeros que ataquen el producto español y a los españoles que trabajan duro para conseguirlo. 100. Garantizaremos la seguridad jurídica y la homogeneización del caos normativo entre regiones para que España y sus productos sean más competitivos y desplieguen su potencial de exportación a Europa y a todo el mundo.
+categories: Comercio

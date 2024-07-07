@@ -1,7 +1,6 @@
 id: 3fb4b784-be70-44a3-8c1e-4af98e895a54
 type: promise
-parent_statement: 21e6da0f-847e-48fd-84b9-b566ce33b87a
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 21e6da0f-847e-48fd-84b9-b566ce33b87a
+parent_chapter: b7709ab3-42ae-4fea-8ba2-7acda945ac2b
+text: Eliminación de las diferencias salariales de género, aplicando con carácter general el principio de que al mismo trabajo debe corresponder igual salario. Para ello es necesario impulsar el poder negociador de las mujeres a través de una mayor transparencia y publicidad de los salarios por tipo de empleo y características de las personas trabajadoras; realizar un seguimiento de los niveles salariales en los sectores más feminizados, de cara a evitar menores salarios en estos sectores; reforzar el control horario con el fin de suprimir las falsas jornadas parciales; y crear un observatorio de la brecha salarial de género que ayudará a medir y evaluar la efectividad de las políticas.
 categories: Economía
 topics: Igualdad
-text: Eliminación de las diferencias salariales de género, aplicando con carácter general el principio de que al mismo trabajo debe corresponder igual salario. Para ello es necesario impulsar el poder negociador de las mujeres a través de una mayor transparencia y publicidad de los salarios por tipo de empleo y características de las personas trabajadoras; realizar un seguimiento de los niveles salariales en los sectores más feminizados, de cara a evitar menores salarios en estos sectores; reforzar el control horario con el fin de suprimir las falsas jornadas parciales; y crear un observatorio de la brecha salarial de género que ayudará a medir y evaluar la efectividad de las políticas.

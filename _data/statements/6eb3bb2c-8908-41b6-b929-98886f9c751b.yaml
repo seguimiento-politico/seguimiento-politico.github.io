@@ -1,6 +1,6 @@
 id: 6eb3bb2c-8908-41b6-b929-98886f9c751b
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 120
+parent_chapter: b82b7f57-da6b-4fd4-8a55-f1773ebd9608
+children_promises:
+- 9d85b052-2106-4d2a-bce8-40ff82b64180
+- f53b80e8-c3e4-4a4f-94dd-3894980b2fc6
+- 7eefd924-e102-477b-a0c5-c604249fa5cd
+children_statements:
+- 0a6c6222-115b-4524-b91c-d6dac9556c75
+title: Innovación, digitalización y gestión del conocimiento.
 categories: Democracia
 topics: Administración pública
-title: Innovación, digitalización y gestión del conocimiento.
-has_children: true

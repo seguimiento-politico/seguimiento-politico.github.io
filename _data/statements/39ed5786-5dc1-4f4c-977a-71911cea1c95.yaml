@@ -1,6 +1,6 @@
 id: 39ed5786-5dc1-4f4c-977a-71911cea1c95
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_chapter: 62ad5f8c-010a-4c71-8499-981a85fbad00
+text: El Gobierno liderado por el PSOE ha trabajado por impulsar las relaciones con los países del Mediterráneo y Vecindad Sur, fundamentales para la seguridad y estabilidad de España y del continente europeo.
 categories: Política internacional
 topics: Mediterráneo
-text: El Gobierno liderado por el PSOE ha trabajado por impulsar las relaciones con los países del Mediterráneo y Vecindad Sur, fundamentales para la seguridad y estabilidad de España y del continente europeo.

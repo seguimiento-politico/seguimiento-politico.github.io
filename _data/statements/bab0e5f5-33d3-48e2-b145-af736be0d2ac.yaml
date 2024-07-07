@@ -1,7 +1,6 @@
 id: bab0e5f5-33d3-48e2-b145-af736be0d2ac
-type: declaration
-parent_statement: caee3d33-cafa-41f5-9f9d-84721d030216
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Trabajo
+parent_statement: caee3d33-cafa-41f5-9f9d-84721d030216
+parent_chapter: 2e87f7f8-d5a3-47a6-82d5-b25f36e88929
 text: Determinadas presta ciones sociales, entre ellas el IMV, han significado un importante avance en el sistema de protección social; sin embargo, la complejidad de su diseño ha limitado notablemente su eficacia, siendo, en consecuencia, necesario revertir esta situación.
+categories: Trabajo

@@ -1,0 +1,67 @@
+promises:
+- name: Desconocido
+  lang_label: status_unknown
+  color: dark
+  icon: question-circle
+- name: Sin iniciar
+  lang_label: status_not_started
+  color: secondary
+  icon: hourglass-half
+- name: En progreso
+  lang_label: status_in_progress
+  color: primary
+  icon: gears
+- name: Cumplido
+  lang_label: status_achieved
+  color: success
+  icon: check-circle
+- name: Cumplido a medias
+  lang_label: status_compromised
+  color: warning
+  icon: asterisk
+- name: Bloquedado
+  lang_label: status_blocked
+  color: danger
+  icon: ban
+- name: Incumplido
+  lang_label: status_broken
+  color: danger
+  icon: times-circle
+
+statements:
+- name: Opinión
+  lang_label: status_opinion
+  color: secondary
+  icon: lightbulb
+- name: Afirmación veraz
+  lang_label: status_true
+  color: success
+  icon: check-circle
+- name: Afirmación falaz
+  lang_label: status_misleading
+  color: warning
+  icon: fire-alt
+- name: Afirmación falsa
+  lang_label: status_false
+  color: danger
+  icon: ban
+
+parties:
+- name: PSOE
+  lang_label: psoe
+  color: danger
+- name: PP
+  lang_label: pp
+  color: primary
+- name: Ciudadanos
+  lang_label: cs
+  color: warning
+- name: VOX
+  lang_label: vox
+  color: success
+- name: SUMAR
+  lang_label: sumar
+  color: pink
+- name: PODEMOS
+  lang_label: podemos
+  color: purple

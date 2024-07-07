@@ -1,6 +1,6 @@
 id: 895f2893-3a0b-415f-932c-e876e436a6c8
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 58
-categories: Sanidad
+parent_chapter: befa4347-5ac5-4c3d-853b-7fc9b83921e6
 text: Impulsaremos las reformas legislativas necesarias para garantizar las condiciones laborales óptimas para los profesionales sanitarios, acabar con su precariedad laboral y facilitar la retención de talento en el ámbito de la Sanidad pública. Pondremos especial atención en garantizar la conciliación familiar y laboral, especialmente de los profesionales con menores, o personas mayores o con discapacidad a su cargo, sin que tengan que renunciar a un sueldo digno para ello.
+categories: Sanidad

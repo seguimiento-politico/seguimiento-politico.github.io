@@ -1,6 +1,6 @@
 id: 707805fc-6e9c-401d-ab43-1c5386e50ca7
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 176
-categories: Deporte
+parent_chapter: 7cb07f90-2b71-46f2-af0b-2684ec9ab916
+children_promises:
+- b3fcb42a-0289-4b36-a216-e58effa6a3dd
+- 2e506530-643d-4d39-a926-4ed1c40aa884
+- 14316b4b-f62d-4b78-8f51-be1b27e51cc8
+- 8ee9f3fa-76ba-4d29-b479-126d2df66c9c
+children_statements: []
 title: Apoyo y acompañamiento la puesta al día de federaciones y clubes deportivos.
-has_children: true
+categories: Deporte

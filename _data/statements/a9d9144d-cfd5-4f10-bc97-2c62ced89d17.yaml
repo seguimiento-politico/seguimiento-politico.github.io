@@ -1,6 +1,6 @@
 id: a9d9144d-cfd5-4f10-bc97-2c62ced89d17
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 10
+parent_chapter: 80f33f13-c365-4098-ac18-6210795cdb15
+children_promises:
+- 0b444a77-e2db-4be2-a66d-a48d2d4f31f3
+- 4b4896d7-3c35-4773-b6f8-3ff5cacf8ada
+- 05d8e6cc-8293-4689-bba8-4067c036552b
+children_statements: []
+title: Apoyo a los trabajadores autónomos.
 categories:
 - Economía
-title: Apoyo a los trabajadores autónomos.
-has_children: true

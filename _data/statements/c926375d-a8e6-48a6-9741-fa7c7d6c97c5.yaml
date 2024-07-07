@@ -1,7 +1,6 @@
 id: c926375d-a8e6-48a6-9741-fa7c7d6c97c5
 type: promise
-parent_statement: ea84346c-f4e8-462b-8acb-f60a3aa7d21f
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Trabajo
+parent_statement: ea84346c-f4e8-462b-8acb-f60a3aa7d21f
+parent_chapter: c22a6b36-a06c-43e3-ae12-f9b87ce394c7
 text: Reconoceremos el derecho a la indemnidad en redes sociales, de modo que nadie pueda ser sancionado o despedido por el contenido recogido en sus redes sociales, que tampoco podrá ser tenido en cuenta dentro de un proceso de selección o contratación.
+categories: Trabajo

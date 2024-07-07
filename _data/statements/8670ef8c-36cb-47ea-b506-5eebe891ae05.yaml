@@ -1,6 +1,6 @@
 id: 8670ef8c-36cb-47ea-b506-5eebe891ae05
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 87
+parent_chapter: e696d207-8231-46d7-b6c5-53dde16b2429
+text: Seguiremos siendo un actor decisivo para el impulso de la ambición climática, tanto en el contexto de las cumbres climáticas y otros foros internacionales de toma de decisión, como en el seno de la Unión Europea, y en la búsqueda de acuerdos sobre la preservación de la biodiversidad, de los océanos y la reducción de plásticos.
 categories: Medioambiente, Política internacional
 topics: Cambio climático
-text: Seguiremos siendo un actor decisivo para el impulso de la ambición climática, tanto en el contexto de las cumbres climáticas y otros foros internacionales de toma de decisión, como en el seno de la Unión Europea, y en la búsqueda de acuerdos sobre la preservación de la biodiversidad, de los océanos y la reducción de plásticos.

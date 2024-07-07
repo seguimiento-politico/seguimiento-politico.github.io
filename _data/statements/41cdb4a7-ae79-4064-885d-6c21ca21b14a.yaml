@@ -1,6 +1,6 @@
 id: 41cdb4a7-ae79-4064-885d-6c21ca21b14a
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 24
-categories: Trabajo
+parent_chapter: c22a6b36-a06c-43e3-ae12-f9b87ce394c7
+children_promises:
+- 09e21514-25e3-437d-a685-f5c907f17ccc
+- 080ab6ae-66ce-4540-b133-7e062b5dad7e
+children_statements:
+- d0587b14-dad5-4a4b-8529-91847cedf2b7
 title: Implementaremos la auditoría algorítmica.
-has_children: true
+categories: Trabajo

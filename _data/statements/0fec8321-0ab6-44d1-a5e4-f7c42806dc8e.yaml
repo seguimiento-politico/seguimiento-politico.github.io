@@ -1,6 +1,6 @@
 id: 0fec8321-0ab6-44d1-a5e4-f7c42806dc8e
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 7
-categories: Economía
+parent_chapter: a47741b5-bbce-46ec-a578-07955d93b4fb
 text: Programa de Retorno de personas emigradas. Pondremos en marcha Programas de Retorno de personas emigradas para recuperar a quienes salieron de nuestro país en busca de un empleo y que son tan necesarios para nuestra economía. Haremos especial énfasis en los jóvenes que han tenido que emigrar en los últimos años y los investigadores e investigadoras que han tenido que abandonar nuestro sistema científico (Retorno del Talento).
+categories: Economía

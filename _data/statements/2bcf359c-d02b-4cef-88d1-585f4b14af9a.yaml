@@ -1,7 +1,6 @@
 id: 2bcf359c-d02b-4cef-88d1-585f4b14af9a
 type: promise
-parent_statement: ae0df47e-c8b1-4bb7-9911-5b7ccd1a539d
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: ae0df47e-c8b1-4bb7-9911-5b7ccd1a539d
+parent_chapter: 5d726eb0-d9d8-487a-b54a-76273c1b0a4a
+text: Diseñaremos un programa de simplificación burocrática, automatización inteligente de procesos y modernización de la administración pública, orientando el conjunto de las unidades administrativas a la atención a la ciudadanía y la resolución de sus problemas, pero con especial atención a las gestiones educativas, sanitarias, empresariales y de los autónomos para mejorar su eficiencia.
 categories: Economía
 topics: Digitalización
-text: Diseñaremos un programa de simplificación burocrática, automatización inteligente de procesos y modernización de la administración pública, orientando el conjunto de las unidades administrativas a la atención a la ciudadanía y la resolución de sus problemas, pero con especial atención a las gestiones educativas, sanitarias, empresariales y de los autónomos para mejorar su eficiencia.

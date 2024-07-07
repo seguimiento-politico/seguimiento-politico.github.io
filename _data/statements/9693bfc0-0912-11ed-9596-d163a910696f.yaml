@@ -1,6 +1,6 @@
 id: 9693bfc0-0912-11ed-9596-d163a910696f
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,7 +10,8 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 25
-categories: Medioambiente
-topics: Cambio climático
+parent_chapter: 818f7603-2f02-4ce5-ae43-b3ca06cfb5db
 title: Plan nacional de depuración, saneamiento, eficiencia, ahorro y reutilización de agua.
 text: '- Apostamos por la racionalización del uso del agua, en línea con la Directiva Europea sobre Calidad del Agua, en un contexto de disminución de la disponibilidad de recursos hídricos como consecuencia de los efectos del cambio climático. <br>- Impulsaremos el Plan Director de Regadíos para desarrollar inversiones en instalaciones y obras en baja que mejoren la disponibilidad y uso sostenible del agua, generando valor añadido y empleo. <br>- Garantizaremos el agua potable y de riego, al tiempo que se protege el medioambiente y se consagra el acceso al agua como un derecho humano y no como un bien mercantil. Se prohibirá, por tanto y como parte de este principio, la compraventa de derechos concesionales del agua. <br>- Llevaremos a cabo el saneamiento de las rías, desembocaduras de ríos y otros lugares de especial riqueza ambiental, económica y social.'
+categories: Medioambiente
+topics: Cambio climático

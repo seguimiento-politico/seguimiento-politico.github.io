@@ -1,6 +1,6 @@
 id: ce763553-d228-4868-a936-59f4a320b0df
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 108
+parent_chapter: f91bc08f-3d6b-4f78-a00a-810f7184cf6a
 text: Derogar las normas mediante las que PP y PSOE han institucionalizado la austeridad y la década perdida en España (artículo 135 de la Constitución y Ley de Estabilidad Presupuestaria) A PSOE y PP no les costó ni cinco minutos reformar la Constitución en 2011 para poner por delante los intereses de los bancos a los de nuestra ciudadanía Hay que establecer con toda claridad en la norma constitucional que la prioridad de los presupuestos públicos es siempre el bienestar de la ciudadanía

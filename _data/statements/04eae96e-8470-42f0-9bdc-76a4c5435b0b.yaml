@@ -1,6 +1,6 @@
 id: 04eae96e-8470-42f0-9bdc-76a4c5435b0b
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 133
+parent_chapter: d5ff476e-21ed-4e90-9c4b-b4adb4a8f9a7
+text: Toda la dureza que el Gobierno de Sánchez ha demostrado contra los españoles honrados y trabajadores ha desaparecido cada vez que el presidente tenía que defender los intereses nacionales en Bruselas. Algunos ejemplos son su incapacidad de defender los intereses de nuestro sector primario e industria, el constante chantaje de Marruecos o el acceso a la condición de eurodiputados de separatistas prófugos de la justicia y su no extradición a España.
 categories:
 - Política internacional
-text: Toda la dureza que el Gobierno de Sánchez ha demostrado contra los españoles honrados y trabajadores ha desaparecido cada vez que el presidente tenía que defender los intereses nacionales en Bruselas. Algunos ejemplos son su incapacidad de defender los intereses de nuestro sector primario e industria, el constante chantaje de Marruecos o el acceso a la condición de eurodiputados de separatistas prófugos de la justicia y su no extradición a España.

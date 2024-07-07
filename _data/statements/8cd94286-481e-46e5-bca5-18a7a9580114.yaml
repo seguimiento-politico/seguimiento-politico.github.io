@@ -1,7 +1,6 @@
 id: 8cd94286-481e-46e5-bca5-18a7a9580114
 type: promise
-parent_statement: 0dd83302-5e35-4d2c-8dc6-d5af84e1775f
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,4 +8,6 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 0dd83302-5e35-4d2c-8dc6-d5af84e1775f
+parent_chapter: 234f712b-aaa0-45c7-92d9-e5641ca46ec2
 text: Estrategia nacional contra la pobreza en el transporte. Definiremos indicadores oficiales que permitan identificar a las personas que sufren pobreza en el transporte según la definición aprobada por la Unión Europea y desarrollaremos una estrategia nacional contra la pobreza en el transporte que diagnostique, prevenga y combata situaciones de vulnerabilidad derivadas de la dificultad de asumir el coste de las necesidades en transporte o de un acceso limitado a este, lo que les dificulta realizar actividades socioeconómicas básicas.

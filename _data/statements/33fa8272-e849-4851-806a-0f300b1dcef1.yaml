@@ -1,11 +1,12 @@
 id: 33fa8272-e849-4851-806a-0f300b1dcef1
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 72
-categories: Economía
+parent_chapter: 930edcb6-d23f-4673-af50-fcc5f7634f84
 text: Apoyamos el seguro agrícola y la fiscalidad por módulos para garantizar la estabilidad a una actividad que tiene una gran volatilidad.
+categories: Economía

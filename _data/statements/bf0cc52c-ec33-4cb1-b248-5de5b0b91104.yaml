@@ -1,6 +1,6 @@
 id: bf0cc52c-ec33-4cb1-b248-5de5b0b91104
-type: declaration
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 95
-categories: Política internacional
+parent_chapter: 65567664-6676-4d53-b234-fd4300e68287
 title: UNA COYUNTURA INTERNACIONAL COMPLICADA
 text: España no puede ser testigo mudo de los múltiples acontecimientos globales. La guerra en Ucrania es un desafío dramático que sigue costando vidas y pone en jaque el orden internacional basado en reglas; la democracia liberal pugna con derivas autoritarias, extremistas y populistas; surgen amenazas sobre la construcción europea, que es un empeño compartido e inequívoco de la sociedad y de los gobiernos españoles, que estamos obligados a preservar y defender.
+categories: Política internacional

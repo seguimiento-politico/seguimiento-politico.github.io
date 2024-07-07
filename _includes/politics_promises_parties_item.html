@@ -2,11 +2,6 @@
 {% assign party_data = site.data.parties | where: "name", item.party | first %}
 {% assign status = statuses_data | where:'name', item.status | first %}
 
-{% include scope_path.html %}
-
-<!-- Party logo path -->
-{% include items_logo.html type=parties %}
-
 <div class="callout callout-{{ status.color }} p-0 m-0 mb-3 bg-body shadow-sm border-{{ status.color }}">
     <div class="border-bottom p-2 m-2 d-flex justify-content-between align-items-start">
         <span class="align-self-center">

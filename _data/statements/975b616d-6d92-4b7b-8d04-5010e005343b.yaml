@@ -1,7 +1,6 @@
 id: 975b616d-6d92-4b7b-8d04-5010e005343b
 type: promise
-parent_statement: 92a795e1-fb34-4222-8bde-159d362166c4
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,5 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 126
-categories: Cultura
+parent_statement: 92a795e1-fb34-4222-8bde-159d362166c4
+parent_chapter: ef655d4e-aabd-4367-b039-db13bf06547d
 text: Avanzaremos en la actualización de la normativa de derechos de autor en los nuevo modelos y canales de creación como puede ser los PODCAST.
+categories: Cultura

@@ -1,6 +1,6 @@
 id: 8f5b2fb1-0313-42a4-a537-5902e79b60ea
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 181
+parent_chapter: 63ab839a-6275-4d54-bf9b-ec036a685a75
+children_promises:
+- a8d7336f-80b8-40be-b1b5-fcc96f04e14c
+- 3e0fc9b7-9198-4568-8e7a-bf98ddd6adda
+- 277bb6aa-b45b-4478-b939-cf82768837f1
+- f8b1db9e-76b4-4a87-ad32-0ad60c80fa67
+- 4da267a4-e468-4aef-b59a-b92fededeeab
+children_statements: []
+title: Apuesta por la reducción de los desechos digitales en la Administración pública y en el resto de la sociedad
 categories: Educación
 topics: Digitalización
-title: Apuesta por la reducción de los desechos digitales en la Administración pública y en el resto de la sociedad
-has_children: true

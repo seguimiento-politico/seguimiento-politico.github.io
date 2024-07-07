@@ -1,6 +1,6 @@
 id: 06d085b2-ae24-4a1b-ad94-518f31cd6461
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 42
+parent_chapter: 493fd51c-7cfd-4b5e-bc63-efcefe3f24e6
 text: Facilitar el acceso a la tecnología a las empresas, con planes específicos de financiación y asesoramiento para pymes (Plan Pyme 5 0), para la economía social (Plan Coopera 5 0) de muchos sectores, como la del ámbito agropecuario, y para start-ups (Plan Start-up 5.0), que atienda a los retos específicos en sus fases de maduración, financiación y conexión.

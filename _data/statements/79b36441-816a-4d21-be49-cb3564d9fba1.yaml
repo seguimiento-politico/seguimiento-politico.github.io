@@ -1,6 +1,6 @@
 id: 79b36441-816a-4d21-be49-cb3564d9fba1
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,15 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 65
+parent_chapter: dc33f933-12a0-4325-b761-1f9bf8c3ad0d
+children_promises:
+- b8209bf4-604b-46f6-bcf5-8ea4d1e65e40
+- 2717b8c1-0508-4493-9a2b-391da4950766
+- 532929eb-94bc-4ad4-9c37-e99d317afd21
+- fecf1dad-83ca-4f12-93a9-8fb0a89bb28a
+- 89d3b636-08f5-421b-8726-f2a62cbce035
+- ca2934bd-f56d-46c1-ad2a-2f24d8ad8f97
+children_statements: []
+title: Propuestas para mejorar la gestión de la pesca y la ordenación del espacio marítimo
 categories: Pesca y acuicultura
 topics: Desarrollo sostenible
-title: Propuestas para mejorar la gestión de la pesca y la ordenación del espacio marítimo
-has_children: true

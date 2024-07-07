@@ -1,7 +1,6 @@
 id: 04affae3-bc43-4253-89fe-b462e147dc3a
 type: promise
-parent_statement: eab8fcdb-5776-4b26-9493-7e0a8b67bfda
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: eab8fcdb-5776-4b26-9493-7e0a8b67bfda
+parent_chapter: b36e5d9e-ba98-45f0-8911-a0a18af0be33
+text: Asimismo, se garantizará la calidad de los servicios públicos, reduciendo las ratios de alumnado por aula y mejorando la formación y las condiciones de trabajo de los educadores y las educadoras.
 categories: Familia
 topics: Incentivos, ayudas y subvenciones
-text: Asimismo, se garantizará la calidad de los servicios públicos, reduciendo las ratios de alumnado por aula y mejorando la formación y las condiciones de trabajo de los educadores y las educadoras.

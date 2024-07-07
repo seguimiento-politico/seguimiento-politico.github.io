@@ -1,6 +1,6 @@
 id: 145b78ec-498e-4894-9320-7a243ef5c627
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 45
+parent_chapter: 8b3b4090-2613-4308-b395-3a2c5b3078b6
+text: Garantizaremos redes ultrarrápidas de 100 Mbps en las escuelas, impulsaremos la Inteligencia Artificial con un centro específicamente dedicado, y contribuiremos a una gobernanza global de la digitalización que proteja los derechos de las personas y nuestros valores democráticos.
 categories: Ciencia y tecnología
 topics: Digitalización
-text: Garantizaremos redes ultrarrápidas de 100 Mbps en las escuelas, impulsaremos la Inteligencia Artificial con un centro específicamente dedicado, y contribuiremos a una gobernanza global de la digitalización que proteja los derechos de las personas y nuestros valores democráticos.

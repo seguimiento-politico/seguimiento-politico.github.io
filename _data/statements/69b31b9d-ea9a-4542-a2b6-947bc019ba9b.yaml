@@ -1,6 +1,6 @@
 id: 69b31b9d-ea9a-4542-a2b6-947bc019ba9b
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 119
+parent_chapter: 96e848d1-3015-443e-a16c-804978d00154
+text: Aceleraremos el despliegue completo de la Agencia Espacial Española e impulsaremos la primera Ley del Espacio en nuestro país para desarrollar operaciones y aplicaciones en el cosmos que repercutan en el bienestar y autonomía de nuestra sociedad. Un país líder en sectores punteros como el aeroespacial, que mejoran la vida de la ciudadanía a través de la monitorización y seguimiento del calentamiento global o los desastres naturales.
 categories: Ciencia y tecnología
 topics: I+D+i
-text: Aceleraremos el despliegue completo de la Agencia Espacial Española e impulsaremos la primera Ley del Espacio en nuestro país para desarrollar operaciones y aplicaciones en el cosmos que repercutan en el bienestar y autonomía de nuestra sociedad. Un país líder en sectores punteros como el aeroespacial, que mejoran la vida de la ciudadanía a través de la monitorización y seguimiento del calentamiento global o los desastres naturales.

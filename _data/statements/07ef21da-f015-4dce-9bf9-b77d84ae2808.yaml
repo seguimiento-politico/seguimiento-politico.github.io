@@ -1,6 +1,6 @@
 id: 07ef21da-f015-4dce-9bf9-b77d84ae2808
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 29
-categories: Economía
+parent_chapter: 0198b426-e501-4084-b969-9a1dd94572a3
 text: Evaluaremos el actual régimen especial del criterio de caja en el IVA para proceder, en su caso, a su revisión para, dentro de los límites de la directiva armonizada, hacerlo atractivo para autónomos y pequeñas empresas.
+categories: Economía

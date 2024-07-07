@@ -1,6 +1,6 @@
 id: fcb9264a-cdd9-41db-8e8e-7e7617c560a6
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 165
+parent_chapter: 49057808-0482-45cd-aac1-350b0a2d33e6
+children_promises:
+- 515f3d9f-5266-4636-8727-1afc041ad97e
+- b6c579b7-fe98-483f-aea4-bf60e8462176
+- 1231ebf7-87af-4901-a1eb-1fa4da04afa9
+- 3b9f12a6-a42f-41dc-af87-b9b6ae7b9f8c
+- a6602179-2f6d-4078-a02d-c7d2f192898d
+children_statements: []
+title: Establecimiento de un plan de soberanía tecnológica en el marco de un Estado emprendedor en sectores estratégicos
 categories: Ciencia y tecnología
 topics: I+D+i
-title: Establecimiento de un plan de soberanía tecnológica en el marco de un Estado emprendedor en sectores estratégicos
-has_children: true

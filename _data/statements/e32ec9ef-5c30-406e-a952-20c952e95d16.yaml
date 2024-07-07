@@ -1,6 +1,6 @@
 id: e32ec9ef-5c30-406e-a952-20c952e95d16
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,9 +9,16 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 161
+parent_chapter: fab1a77a-568e-403c-9c7d-19f7b540d95e
+children_promises:
+- 283696ab-de60-4771-a28e-0b99af108d81
+- a9d7670c-2bf4-41e7-8762-f47b2e26e64a
+- 39be5e08-9f87-45ea-b3dd-aff2c998292e
+- 1330e841-0a9a-4169-bbb8-c0a71273c54c
+- e69266f8-70cd-437c-be3d-5cdb6d2686c4
+children_statements: []
+title: Recuperación de los estándares adecuados en la cantidad y calidad del empleo de las universidades.
 categories: Trabajo
 topics:
 - Empleo público
 - Universidad
-title: Recuperación de los estándares adecuados en la cantidad y calidad del empleo de las universidades.
-has_children: true

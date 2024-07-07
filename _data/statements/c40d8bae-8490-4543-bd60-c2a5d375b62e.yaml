@@ -1,7 +1,6 @@
 id: c40d8bae-8490-4543-bd60-c2a5d375b62e
 type: promise
-parent_statement: 1e7b0c7c-6320-4b39-b9e8-3adbc7301a11
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: 1e7b0c7c-6320-4b39-b9e8-3adbc7301a11
+parent_chapter: d6814cd3-b2e5-4b90-a62f-2c3e6434b1be
+text: Regularemos el uso de redes sociales de menores con enfoque transversal y mediante la colaboración público-privada, impulsando su pensamiento crítico para combatir la desinformación y el uso de contenidos no adecuados según la edad.
 categories: Derechos y servicios sociales
 topics: Derechos digitales
-text: Regularemos el uso de redes sociales de menores con enfoque transversal y mediante la colaboración público-privada, impulsando su pensamiento crítico para combatir la desinformación y el uso de contenidos no adecuados según la edad.

@@ -1,6 +1,6 @@
 id: 5256827f-1fd6-41fe-92a1-fc974894e3a9
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 16
-categories: Comercio
+parent_chapter: 15957f8e-1f85-4690-833e-97db1ad6f08c
 text: Refuerzo de los controles fronterizos para todos los productos de terceros países que lleguen a nuestro mercado. Debe vigilarse de manera rigurosa el etiquetado para prevenir el fraude y así proteger tanto a nuestras empresas y trabajadores como a nuestros consumidores, habituales víctimas de información errónea y del uso de pesticidas o productos fitosanitarios que llevan años prohibidos en Europa.
+categories: Comercio

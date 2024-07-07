@@ -1,6 +1,6 @@
 id: 488e8a5a-f238-4881-b3c3-11b3e5ffbb49
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 192
-categories: Derechos y servicios sociales
-topics: Discapacidad
+parent_chapter: f4d30405-da8f-4647-bc30-ce8a01fe2c1a
 title: Plan Director de Educación Inclusiva
 text: La LOMLOE, alineada con la Convención Internacional de los Derechos de las Personas con Discapacidad, impulsa la educación inclusiva de calidad en colaboración con los centros de educación especial. Aseguraremos que los centros educativos cuenten con los recursos necesarios con el fin de atender en las mejores condiciones al alumnado con discapacidad.
+categories: Derechos y servicios sociales
+topics: Discapacidad

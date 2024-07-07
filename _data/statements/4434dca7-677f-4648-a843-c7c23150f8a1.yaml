@@ -1,6 +1,6 @@
 id: 4434dca7-677f-4648-a843-c7c23150f8a1
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 239
+parent_chapter: 62353710-63ba-4418-9448-041c80c8ee34
+text: Potenciaremos una estrategia que desmantele las mafias que trafican con seres humanos en los países de origen.
 categories: Migración
 topics: Inmigración
-text: Potenciaremos una estrategia que desmantele las mafias que trafican con seres humanos en los países de origen.

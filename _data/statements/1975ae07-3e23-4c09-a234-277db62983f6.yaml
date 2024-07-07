@@ -1,6 +1,6 @@
 id: 1975ae07-3e23-4c09-a234-277db62983f6
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 23
-categories: Trabajo
+parent_chapter: 80d48e2e-109f-4d20-9b2c-09d128e89470
+children_promises:
+- c0ecf4ce-7c9b-442e-aca0-c8cf740b5b32
+- 3169689d-9e32-4bf7-8120-ce9f61f8fe19
+children_statements: []
 title: Aplicación, en las empresas de cincuenta o más personas trabajadoras, de un plan de mejora de la organización del tiempo de trabajo y los usos del tiempo.
-has_children: true
+categories: Trabajo

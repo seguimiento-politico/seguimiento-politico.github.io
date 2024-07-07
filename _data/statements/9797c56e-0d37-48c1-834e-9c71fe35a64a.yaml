@@ -1,6 +1,6 @@
 id: 9797c56e-0d37-48c1-834e-9c71fe35a64a
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 167
-categories: Cultura
+parent_chapter: 7350357f-215c-4adf-8549-2205377e11a9
+children_promises:
+- b374fbe0-7f25-4255-bda6-7e875051778b
+- 8f8ad9b7-3463-4fe8-9ec1-a52fab5b3ac1
+- 3fc1fc8f-7495-4906-a521-3f1539afe9be
+- 6fd906f4-31f0-4e42-a775-c459f91476a4
+children_statements: []
 title: Garantizaremos y protegeremos la libertad de expresión, producción y creación
-has_children: true
+categories: Cultura

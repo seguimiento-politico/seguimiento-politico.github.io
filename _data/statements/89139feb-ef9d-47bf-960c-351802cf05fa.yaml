@@ -1,6 +1,6 @@
 id: 89139feb-ef9d-47bf-960c-351802cf05fa
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,10 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 75
+parent_chapter: 361dd186-a1f2-4f3b-ae13-0ff44f00ef4d
+text: Las energías renovables y sus tecnologías y materias primas asociadas nos permiten construir un nuevo modelo productivo basado en la innovación, el conocimiento y el uso eficiente de los recursos. Nos permiten desarrollar nuestro potencial industrial y lograr oportunidades de empleo de calidad, mejor remunerado y estable.
 categories:
 - Energía
 topics:
 - Energías renovables
 - Reindustrialización
 - Desarrollo sostenible
-text: Las energías renovables y sus tecnologías y materias primas asociadas nos permiten construir un nuevo modelo productivo basado en la innovación, el conocimiento y el uso eficiente de los recursos. Nos permiten desarrollar nuestro potencial industrial y lograr oportunidades de empleo de calidad, mejor remunerado y estable.

@@ -1,7 +1,6 @@
 id: 7637b99d-ed05-4705-9ea7-4e7fd810df94
 type: promise
-parent_statement: 79e46564-8c3d-4af8-8f68-d9ffdce88568
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 79e46564-8c3d-4af8-8f68-d9ffdce88568
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+text: Reparación. Se promoverán acciones innovadoras en materia de reparación simbólica y garantías de no repetición, para lo cual se establecerán sinergias con países que ya tienen una larga trayectoria en la materia. Entre otras cosas, se propondrá un sistema específico de indemnizaciones, mecanismos de reparación y atención para víctimas graves de delitos vinculados a las violencias machistas.
 categories: Democracia
 topics: Igualdad
-text: Reparación. Se promoverán acciones innovadoras en materia de reparación simbólica y garantías de no repetición, para lo cual se establecerán sinergias con países que ya tienen una larga trayectoria en la materia. Entre otras cosas, se propondrá un sistema específico de indemnizaciones, mecanismos de reparación y atención para víctimas graves de delitos vinculados a las violencias machistas.

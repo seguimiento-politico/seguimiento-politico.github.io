@@ -1,6 +1,6 @@
 id: a6925049-9b85-4297-9740-d683984c4595
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 130
-categories: Seguridad y defensa
+parent_chapter: 66b190ef-617c-438a-adf3-a3c9f707719b
+children_promises:
+- cd7dcca9-0b21-4427-9896-845df1ed30fb
+- bad34014-3a56-4879-a55b-7539fce5952a
+children_statements: []
 title: Convertiremos el bienestar del personal de las fuerzas y cuerpos de seguridad en una prioridad estratégica.
-has_children: true
+categories: Seguridad y defensa

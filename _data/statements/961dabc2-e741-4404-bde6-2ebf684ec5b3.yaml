@@ -1,6 +1,6 @@
 id: 961dabc2-e741-4404-bde6-2ebf684ec5b3
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 27
+parent_chapter: ed0485f1-af5b-46e9-b050-c76fc5dc388f
+text: Presentaremos una ambiciosa Estrategia Española de Inteligencia Artificial y promoveremos el desarrollo de las tecnologías habilitadoras, con alto potencial tractor, como el tratamiento de grandes volúmenes de datos, el procesamiento del Lenguaje Natural, la identidad digital, el blockchain, o el “internet de las cosas” entre otras, consolidando el papel de España a la vanguardia de Europa en el ámbito de la Supercomputación en España.
 categories: Economía
 topics: Digitalización
-text: Presentaremos una ambiciosa Estrategia Española de Inteligencia Artificial y promoveremos el desarrollo de las tecnologías habilitadoras, con alto potencial tractor, como el tratamiento de grandes volúmenes de datos, el procesamiento del Lenguaje Natural, la identidad digital, el blockchain, o el “internet de las cosas” entre otras, consolidando el papel de España a la vanguardia de Europa en el ámbito de la Supercomputación en España.

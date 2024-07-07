@@ -1,7 +1,6 @@
 id: 9e9d72a7-318e-4a0b-ac1a-eb294df3d3c1
 type: promise
-parent_statement: 7c1fcd8d-e4d6-4914-94f9-2ea20129256d
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Política internacional
+parent_statement: 7c1fcd8d-e4d6-4914-94f9-2ea20129256d
+parent_chapter: db635e28-b5bf-4dba-aaf7-b48b45ca3061
 text: Impulsaremos la creación y suministro equitativo de servicios públicos de calidad, incluyendo sistemas de educación y salud públicos; la defensa integral de los derechos de la infancia. Además del acceso a la vivienda, a una alimentación adecuada y al agua como bienes públicos y derechos justiciables.
+categories: Política internacional

@@ -1,7 +1,6 @@
 id: fb4068a8-bb68-4ef4-8f30-1a0a09089e2d
 type: promise
-parent_statement: d286e6b9-97bd-4c09-990d-7a4ee7607a34
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Educación
+parent_statement: d286e6b9-97bd-4c09-990d-7a4ee7607a34
+parent_chapter: c1ead426-cec8-44d6-a73a-d98f9059e1db
 text: Es fundamental, en esta dirección, evitar la segregación escolar en la red pública y, sobre todo, donde ha tenido más impacto, esto es, en una parte de la concertada, en lo que hace especialmente —aunque no solo— a colectivos de estudiantes en situación de vulnerabilidad por condiciones desfavorecidas, discapacidad, o dificultades académicas, garantizando la accesibilidad y educación en condiciones de igualdad, así como la inclusión de las distintas diversidades. Para ello, será necesario revisar la normativa de conciertos educativos para que la red concertada sea realmente subsidiaria de la pública y, asimismo, acabar con la cesión de suelo público para la construcción de centros educativos en manos privadas.
+categories: Educación

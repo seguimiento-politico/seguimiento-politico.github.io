@@ -1,6 +1,6 @@
 id: 00cbfa1d-e78e-4f31-a652-38d05930c5d2
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 23
-categories: Educación
+parent_chapter: 1b166bbb-40b5-49ba-a4c8-75dad7a80fff
 text: Estableceremos la universalización y la gratuidad de la educación infantil para niños y niñas menores de 3 años. Esta medida, que es estrictamente educativa, constituye un potente factor para combatir el fracaso escolar, impulsando el desarrollo personal desde las primeras etapas de la vida, contribuyendo, además, a reducir la desigualdad y a mejorar la conciliación de la vida laboral y familiar. Elaboraremos, conjuntamente con las comunidades autónomas, un plan de extensión de la Educación Infantil, con una red pública e integrada de recursos que garantice una oferta suficiente de plazas públicas para niños y niñas menores de 3 años.
+categories: Educación

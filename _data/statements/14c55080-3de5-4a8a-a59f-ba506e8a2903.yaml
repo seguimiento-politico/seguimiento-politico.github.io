@@ -1,6 +1,6 @@
 id: 14c55080-3de5-4a8a-a59f-ba506e8a2903
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,9 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 161
+parent_chapter: fab1a77a-568e-403c-9c7d-19f7b540d95e
+children_promises:
+- af330d0f-5707-47e5-961a-47e5be15fcd3
+children_statements: []
+title: Generación de nuevas modalidades de articulación de las tareas del PTGAS y del PDI en la realización de las principales misiones del sistema universitario.
 categories: Trabajo
 topics:
 - Empleo público
 - Universidad
-title: Generación de nuevas modalidades de articulación de las tareas del PTGAS y del PDI en la realización de las principales misiones del sistema universitario.
-has_children: true

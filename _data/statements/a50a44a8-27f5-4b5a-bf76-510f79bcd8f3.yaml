@@ -1,6 +1,6 @@
 id: a50a44a8-27f5-4b5a-bf76-510f79bcd8f3
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Trabajo
+parent_chapter: e9e1334a-785f-47ff-a9d1-05e1b24e1b85
 text: 'La reforma laboral, pactada con la UE y con los agentes sociales, proporciona la mejor base para seguir traduciendo el impulso inversor en creación de empleo de calidad. Durante la próxima legislatura, debemos extender la fase alcista del ciclo económico iniciada en 2021 a través de una política de inversión que aumente el empleo y la productividad. Del mismo modo, la oportunidad que nos ofrecen los fondos europeos Next Generation debe servirnos para retomar la senda de prosperidad y convergencia con los países más avanzados iniciada desde la llegada de la democracia y truncada con la década perdida tras la gran crisis financiera de 2008, gestionada por el Gobierno del PP.<br><br> Además, sobre la base de los avances logrados en estos años, se trata de activar un círculo virtuoso de formación y colocación que permita reducir el desempleo estructural, especialmente el de la juventud, alineándolo con la media europea, y eliminar el desempleo de larga duración. Para ello:'
+categories: Trabajo

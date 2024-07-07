@@ -1,0 +1,50 @@
+name: Sector primario
+other:
+- &id001
+  id: 83fb3d41-07bd-4487-8c3e-78804a0dbc88
+  parties:
+  - VOX
+- &id002
+  id: b5607865-b4ca-4e0f-ae05-e96d4c1dd5c8
+  parties:
+  - VOX
+- &id003
+  id: d24b4c21-4ee3-467e-959c-bddb6e3720cb
+  parties:
+  - VOX
+- &id004
+  id: f20b27f9-495e-4452-9918-9e3d3823010e
+  parties:
+  - VOX
+- &id005
+  id: e985ed68-5d08-4ffb-8f53-09806c2f08c2
+  parties:
+  - VOX
+other_count: 5
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- &id006
+  id: bf161953-28ca-4795-b4d3-624d25641fa6
+  parties:
+  - VOX
+- &id007
+  id: 25384583-ff36-4896-8e48-540b4200a231
+  parties:
+  - VOX
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+statements_count: 7
+status_quo_negative:
+- *id006
+- *id007
+status_quo_negative_count: 2
+status_quo_positive: []
+status_quo_positive_count: 0

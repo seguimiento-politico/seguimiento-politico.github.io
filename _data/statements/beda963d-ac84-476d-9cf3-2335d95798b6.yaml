@@ -1,7 +1,6 @@
 id: beda963d-ac84-476d-9cf3-2335d95798b6
-type: declaration
-parent_statement: f2da7380-f41f-4d9e-92e9-a818a4ff5ce7
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: f2da7380-f41f-4d9e-92e9-a818a4ff5ce7
+parent_chapter: b36e5d9e-ba98-45f0-8911-a0a18af0be33
+text: Se prestará especial atención a las problemáticas concretas que presentan los niños y las niñas migrantes no acompañados, refugiados o solicitantes de asilo.
 categories: Familia
 topics: Incentivos, ayudas y subvenciones
-text: Se prestará especial atención a las problemáticas concretas que presentan los niños y las niñas migrantes no acompañados, refugiados o solicitantes de asilo.

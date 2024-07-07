@@ -1,6 +1,6 @@
 id: fb0f9d78-56d5-4ada-9389-016ff84f92f0
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 202
-categories: Sanidad
+parent_chapter: ce0f05e1-2eb2-478e-b8a9-bf19fe5c769b
 text: Aprobaremos y desarrollaremos los Diplomas de Acreditación en el Área Funcional de Cuidados Paliativos, posibilitando un mejor desempeño por parte de las y los profesionales que atienden a pacientes que precisan atención paliativa, teniendo en cuenta la frecuencia, complejidad, gravedad y especificidad de los procesos, las patologías o los procedimientos relacionados con dicha área competencial, y la mejora en la calidad y seguridad que recibiría el paciente.
+categories: Sanidad

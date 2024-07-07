@@ -1,12 +1,13 @@
 id: 1afee91e-a5c3-4a30-ba73-e4f49358e2c7
 type: promise
-parent_statement: e7b19746-a91c-4acb-a71e-281489b5c0b3
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 95
-categories: Política internacional
+parent_statement: e7b19746-a91c-4acb-a71e-281489b5c0b3
+parent_chapter: c15d9dfd-af86-4bce-ae77-139268e953c4
 text: Promoveremos el papel de España como “hub” a la hora de promover inversiones a o desde África.
+categories: Política internacional

@@ -1,6 +1,6 @@
 id: 9a014128-6bc4-49f7-ba05-60da72c51a02
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,9 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 38
+parent_chapter: a7996477-1c14-4309-9aee-7b4b037eef4e
+text: La declaración de “emergencia climática”, ya aprobada por el Parlamento, se traducirá en medidas urgentes, así como en la propuesta de su consideración en un refuerzo del artículo 45 de la Constitución, que incorporará la consideración de los denominados “límites planetarios” como condición necesaria del progreso económico y social; y el acceso al agua y a la energía como servicios de interés general.
 categories: Medioambiente
 topics:
 - Cambio climático
 - Desarrollo sostenible
-text: La declaración de “emergencia climática”, ya aprobada por el Parlamento, se traducirá en medidas urgentes, así como en la propuesta de su consideración en un refuerzo del artículo 45 de la Constitución, que incorporará la consideración de los denominados “límites planetarios” como condición necesaria del progreso económico y social; y el acceso al agua y a la energía como servicios de interés general.

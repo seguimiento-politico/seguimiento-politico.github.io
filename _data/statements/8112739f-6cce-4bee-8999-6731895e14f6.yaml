@@ -1,6 +1,6 @@
 id: 8112739f-6cce-4bee-8999-6731895e14f6
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 119
+parent_chapter: b82b7f57-da6b-4fd4-8a55-f1773ebd9608
+children_promises:
+- 05b09b8c-4551-45f5-b701-4e180012729d
+- 39e7c0b3-fe52-48fb-8cb6-6a95b734d5d8
+- 87817992-68ce-47e4-bca8-f1f9222de625
+children_statements:
+- a620094d-1c0c-4675-8418-fdee6c884710
+title: 'Capacidad institucional: trabajar mejor y con más recursos'
 categories: Democracia
 topics: Administración pública
-title: 'Capacidad institucional: trabajar mejor y con más recursos'
-has_children: true

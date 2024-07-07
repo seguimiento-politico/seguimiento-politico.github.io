@@ -1,6 +1,6 @@
 id: ee37213b-c0f2-4cc7-ae0d-fb8532a95928
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 47
-categories: Sanidad
+parent_chapter: 5c8d94eb-aad0-4b93-8408-511875a0e54f
 text: REFORMAREMOS LOS PROCESOS DE INCORPORACIÓN DE LA INNOVACIÓN, especialmente en el ámbito de los medicamentos, avanzando en un procedimiento de autorización, financiación y compra de medicamentos más transparente en base a necesidad asistencial y resultados, tanto de eficacia, efectividad y seguridad como de experiencia del paciente, con el fin de acortar los elevados tiempos de autorización de la innovación terapéutica.
+categories: Sanidad

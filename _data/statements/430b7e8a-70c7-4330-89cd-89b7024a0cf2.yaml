@@ -1,6 +1,6 @@
 id: 430b7e8a-70c7-4330-89cd-89b7024a0cf2
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 90
-categories: Seguridad y defensa
+parent_chapter: d2165d9c-4ccd-4649-b6ee-393361a2d9bb
 text: La recuperación de competencias exige que las FFAA y todas las policías dependan en última instancia del Estado a través del Ministerio correspondiente. Hasta que sea efectivo, alcanzaremos la equiparación real en salario y la justa jubilación para las Fuerzas Armadas, Fuerzas y Cuerpos de Seguridad del Estado (Guardia Civil, Cuerpo Nacional de Policía), Servicio de Vigilancia Aduanera y policías autonómicas y locales. Dignificación del trabajo policial y aumento de las sanciones a la resistencia a la autoridad o a sus agentes en el ejercicio de sus funciones.
+categories: Seguridad y defensa

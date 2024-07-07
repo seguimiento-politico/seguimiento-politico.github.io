@@ -1,6 +1,6 @@
 id: 074a531d-e2a0-4afc-b49a-8ca2443d9420
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 139
-categories: Política internacional
+parent_chapter: 4d3afa99-1301-4519-a703-6dfe49d7e832
+children_promises:
+- 49d187a7-da91-4df6-88e9-df8574b56588
+- 687c945d-0703-4535-b8c8-7b0785555d9f
+children_statements: []
 title: España, referente en la mediación y resolución de conflictos
-has_children: true
+categories: Política internacional

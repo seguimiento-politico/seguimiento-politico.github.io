@@ -1,6 +1,6 @@
 id: 52a6c493-f764-4c3d-8c7d-13fe216c9dd4
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 69
-categories: Derechos y servicios sociales
+parent_chapter: b552572c-667b-4d97-90a1-8e5a8e0eb740
 text: Proposición no de Ley para garantizar la protección y el cuidado de los menores tutelados en los centros de protección de menores de todo el territorio español frente a los abusos y la explotación sexual que puedan haber ocurrido en centros de protección de menores en España y para asegurar el retorno de los MENA a sus países de origen (febrero 2022).
+categories: Derechos y servicios sociales

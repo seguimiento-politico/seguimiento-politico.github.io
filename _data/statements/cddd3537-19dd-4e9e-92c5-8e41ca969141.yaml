@@ -1,6 +1,6 @@
 id: cddd3537-19dd-4e9e-92c5-8e41ca969141
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 141
+parent_chapter: a7be9da6-1793-476b-983c-482bbf1df8f3
+text: Desarrollaremos un Plan de impulso para la incorporación y promoción de las mujeres en trabajos emergentes de la economía digital y verde. Para ello aprovecharemos el impulso, las herramientas y el presupuesto que para formación aparece en las nuevas directivas europeas de Chips, Industrias con emisiones netas, Materias primas críticas o Cibersolidaridad.
 categories: Trabajo
 topics: Igualdad
-text: Desarrollaremos un Plan de impulso para la incorporación y promoción de las mujeres en trabajos emergentes de la economía digital y verde. Para ello aprovecharemos el impulso, las herramientas y el presupuesto que para formación aparece en las nuevas directivas europeas de Chips, Industrias con emisiones netas, Materias primas críticas o Cibersolidaridad.

@@ -1,6 +1,6 @@
 id: 43dbf2f2-49a3-40ae-81c5-5ee138939abc
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 23
-categories: Impuestos y financiación pública
+parent_chapter: 59c49ab6-930e-4f5f-a508-14cb6d6a773b
 text: EQUILIBRAREMOS LA RELACIÓN ENTRE EL CONTRIBUYENTE Y LA ADMINISTRACIÓN TRIBUTARIA. ESTABLECEREMOS UN ESTATUTO DEL CONTRIBUYENTE. Incorporaremos el “derecho al error” en el ordenamiento tributario español, para minimizar las consecuencias de los errores que se puedan producir en las declaraciones de contribuyentes con un registro histórico de cumplimiento. Revitalizaremos el Consejo para la Defensa del Contribuyente, ampliando sus competencias y potenciando la independencia de sus integrantes. Reformaremos los Tribunales Económico-Administrativos, impulsaremos la transacción judicial y dotaremos de mayor seguridad jurídica a las operaciones tributarias.
+categories: Impuestos y financiación pública

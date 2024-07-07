@@ -1,6 +1,6 @@
 id: 38fdc59c-8830-405a-ac56-c611e37dab55
-type: declaration
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 68
-categories: Democracia
+parent_chapter: a6a343d5-df56-4658-85e8-614a6cb5a3f6
+children_promises: []
+children_statements:
+- 394bb6f2-0ebd-4789-908d-6a58293f2292
+- 2d55ce9e-2488-4c40-848d-c68305ac12e8
 title: UNA POLÍTICA ABIERTA, DIALOGANTE Y DE CONSENSO
-has_children: true
+categories: Democracia

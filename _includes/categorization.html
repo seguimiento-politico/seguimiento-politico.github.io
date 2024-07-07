@@ -1,7 +1,34 @@
-{% if track_data.scope == 'national' %}
-    {% assign categories_data = site.data.categorization.[track_data.config.categorization].categories | sort: 'name' %}
-    {% assign statuses_data = site.data.categorization.[track_data.config.categorization].statuses %}
-{% elsif track_data.scope == 'international' %}
-    {% assign categories_data = site.data.categorization.[track_data.config.organization].[track_data.config.categorization].categories | sort: 'name' %}
-    {% assign statuses_data = site.data.categorization.[track_data.config.organization].[track_data.config.categorization].statuses %}
+<!-- TODO: 
+- add "function" arguments filter1 (being current statuses) and filter2 (being current categories)
+- filter1 only show options if counter>0 else hide
+- adapt parties data to be able to use it as filter1
+-->
+
+{% assign categories_data = site.data.categorization.topics %}
+
+{% if include.type %}
+    {% assign statuses_data = site.data.categorization.statuses.[include.type] %}
+{% else %}
+    {% assign statuses_data = site.data.categorization.statuses %}
 {% endif %}
+
+{% if track_data %}
+    {% if track_data.scope == 'national' %}
+        {% assign categories_data = site.data.categorization.topics %} 
+        {% if include.type %}
+            {% assign statuses_data = site.data.categorization.statuses.[include.type] %}
+        {% else %}
+            {% assign statuses_data = site.data.categorization.statuses %}
+        {% endif %}
+    {% elsif track_data.scope == 'supranational' %}
+        {% assign organization = track_data.organization | slugify %}      
+        {% assign categories_data = site.data.categorization.topics %}
+        
+        {% if include.type %}
+            {% assign statuses_data = site.data.categorization.statuses.[include.type] %}    
+        {% else %}
+            {% assign statuses_data = site.data.categorization.statuses %}
+        {% endif %}
+    {% endif %}
+{% endif %}
+

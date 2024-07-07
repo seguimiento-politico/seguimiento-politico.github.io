@@ -1,6 +1,6 @@
 id: 24d2636c-996a-499f-ae0e-8ee1b11b5897
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 243
+parent_chapter: e5be3d56-d004-4484-b293-9d1f24b80d8c
+text: Continuaremos con las políticas de democratización en el acceso al empleo público, ampliando el programa de becas destinado a opositores, poniendo a su disposición materiales de apoyo gratuito a la preparación y consolidando el modelo de descentralización de celebración de las pruebas de acceso al empleo público en todo el territorio.
 categories: Trabajo
 topics: Empleo público
-text: Continuaremos con las políticas de democratización en el acceso al empleo público, ampliando el programa de becas destinado a opositores, poniendo a su disposición materiales de apoyo gratuito a la preparación y consolidando el modelo de descentralización de celebración de las pruebas de acceso al empleo público en todo el territorio.

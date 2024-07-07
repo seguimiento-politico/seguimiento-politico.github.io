@@ -1,6 +1,6 @@
 id: 85db1cca-ca19-4070-99b2-9ee190ffe63d
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 128
+parent_chapter: a7853898-5bb1-4a7c-8910-f570fc691c52
+text: Promoveremos las reformas legislativas necesarias para que Juzgados y Tribunales, en el ejercicio de sus funciones gubernativas, participen en la decisión de asignación y dotación de medios personales y materiales al servicio de la Administración de Justicia, para garantizar una verdadera independencia del Poder Judicial y que se mejoren y dignifiquen las retribuciones de jueces, magistrados, fiscales, letrados y demás profesionales de la Administración de Justicia.
 categories:
 - Justicia
-text: Promoveremos las reformas legislativas necesarias para que Juzgados y Tribunales, en el ejercicio de sus funciones gubernativas, participen en la decisión de asignación y dotación de medios personales y materiales al servicio de la Administración de Justicia, para garantizar una verdadera independencia del Poder Judicial y que se mejoren y dignifiquen las retribuciones de jueces, magistrados, fiscales, letrados y demás profesionales de la Administración de Justicia.

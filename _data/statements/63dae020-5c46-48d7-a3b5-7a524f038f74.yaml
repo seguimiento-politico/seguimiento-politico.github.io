@@ -1,7 +1,6 @@
 id: 63dae020-5c46-48d7-a3b5-7a524f038f74
 type: promise
-parent_statement: e7349a00-b099-4573-9dc4-bfb7debb30ca
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Sanidad
+parent_statement: e7349a00-b099-4573-9dc4-bfb7debb30ca
+parent_chapter: 17e4c412-8ac4-4992-848a-422903075ee3
 text: Se incrementará el número de profesionales de psicología clínica, enfermería especializada en salud mental, trabajo social y psiquiatría de la red sanitaria pública con el objetivo de crear una red de continuidad de cuidados basada en los centros de salud mental comunitarios y los centros de atención primaria.
+categories: Sanidad

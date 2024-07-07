@@ -1,0 +1,26 @@
+name: Eutanasia
+other:
+- &id001
+  id: e1ac72ba-5c7b-4bb8-abb2-e05ca2500b5e
+  parties:
+  - PSOE
+- &id002
+  id: 14294add-5cd3-43fc-8853-b8d936b17a5a
+  parties:
+  - PSOE
+  - UNIDAS PODEMOS
+other_count: 2
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- *id002
+statements_count: 2
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

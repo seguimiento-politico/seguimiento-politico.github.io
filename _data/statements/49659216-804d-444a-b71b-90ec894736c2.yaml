@@ -1,12 +1,13 @@
 id: 49659216-804d-444a-b71b-90ec894736c2
 type: promise
-parent_statement: d21326a7-b6b5-4c0b-80fe-c5752673dcf9
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 40
-categories: Sanidad
+parent_statement: d21326a7-b6b5-4c0b-80fe-c5752673dcf9
+parent_chapter: dcb6b10d-0b49-4143-9511-53be3f00f338
 text: Garantizaremos niveles de inversión pública que contemplen variables como el envejecimiento, la cronicidad, la dispersión o la insularidad.
+categories: Sanidad

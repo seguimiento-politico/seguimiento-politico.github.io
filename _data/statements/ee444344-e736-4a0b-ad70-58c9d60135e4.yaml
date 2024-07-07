@@ -1,6 +1,6 @@
 id: ee444344-e736-4a0b-ad70-58c9d60135e4
-type: declaration
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 27
+parent_chapter: 7692ac60-1e48-4282-9c1e-92dc2082a22c
+text: El sector primario es un elemento fundamental de la economía española, de la vertebración de nuestro territorio, de nuestra estructura social y de nuestra cultura. Es preciso reconocer y proteger el sistema agroalimentario, con medidas que aseguren su futuro, tanto en el seno de la Unión Europea, como en el escenario global, en el que las cadenas alimentarias están sufriendo fuertes tensiones.
 categories: Economía
 topics: Desarrollo sostenible
-text: El sector primario es un elemento fundamental de la economía española, de la vertebración de nuestro territorio, de nuestra estructura social y de nuestra cultura. Es preciso reconocer y proteger el sistema agroalimentario, con medidas que aseguren su futuro, tanto en el seno de la Unión Europea, como en el escenario global, en el que las cadenas alimentarias están sufriendo fuertes tensiones.

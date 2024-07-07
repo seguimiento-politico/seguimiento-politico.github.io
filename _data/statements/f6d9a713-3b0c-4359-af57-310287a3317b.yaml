@@ -1,6 +1,6 @@
 id: f6d9a713-3b0c-4359-af57-310287a3317b
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,16 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 141
-categories: Política internacional
+parent_chapter: 4d3afa99-1301-4519-a703-6dfe49d7e832
+children_promises:
+- 7e3710b4-e8d6-4e02-b560-03cf117f145f
+- 861b61b8-8f19-43c2-9f9c-41a7f5380041
+- 824b7a1d-557e-4b92-8323-589846dc2597
+- 34cb7356-f753-4977-947b-ddfc29175b3e
+- f900bc09-2a64-4e2a-9a8a-3751ab7166c3
+- c28e4e65-ffec-4449-ad35-b9a944668522
+- c07b8192-ba45-4fb4-bc15-79463f0bb1b2
+- d37683af-ce80-4658-882f-72ca7d307eaa
+children_statements: []
 title: ' Una solución justa para el Sáhara Occidental, Palestina y Ucrania'
-has_children: true
+categories: Política internacional

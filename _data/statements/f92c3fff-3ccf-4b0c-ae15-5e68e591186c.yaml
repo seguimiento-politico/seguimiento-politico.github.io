@@ -1,6 +1,6 @@
 id: f92c3fff-3ccf-4b0c-ae15-5e68e591186c
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,15 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 114
+parent_chapter: 579c674b-2384-4748-a93a-92ef43822f21
+children_promises:
+- 1eb6b2bd-a02e-4514-91d9-bc427a94e8eb
+- c7a70c32-7fc2-4f73-a4d5-b0b4cd0e4701
+- a4d0d457-9358-416c-b41b-591858f68862
+- 5550464c-dd55-4d14-a480-d0433e979757
+- c1a3af29-050a-4140-a396-62428fe3a255
+- 9f30565b-b109-4f56-84cd-871e1a67cd12
+children_statements: []
+text: Conversión de los centros de formación profesional en centros del siglo XXI, en línea con la creación de la red de centros de excelencia en Formación Profesional.
 categories: Derechos y servicios sociales
 topics: Formación profesional
-text: Conversión de los centros de formación profesional en centros del siglo XXI, en línea con la creación de la red de centros de excelencia en Formación Profesional.
-has_children: true

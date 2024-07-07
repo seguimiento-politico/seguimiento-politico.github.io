@@ -1,7 +1,6 @@
 id: b2a3ace7-5cf1-44b3-8f0a-f299d74f7c7c
 type: promise
-parent_statement: 703642ae-2d3d-4187-8196-5622645dec66
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Impuestos y financiación pública
+parent_statement: 703642ae-2d3d-4187-8196-5622645dec66
+parent_chapter: adffd871-b28d-4061-bc87-6b0d1ee98ead
 text: Seguiremos impulsando el afloramiento y regularización de la economía sumergida
+categories: Impuestos y financiación pública

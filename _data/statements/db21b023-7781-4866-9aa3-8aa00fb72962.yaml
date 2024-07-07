@@ -1,7 +1,6 @@
 id: db21b023-7781-4866-9aa3-8aa00fb72962
 type: promise
-parent_statement: 7d96d474-825a-4f6d-b12c-6e20ca88427c
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Política internacional
+parent_statement: 7d96d474-825a-4f6d-b12c-6e20ca88427c
+parent_chapter: 7d023909-0f5e-4683-b705-4b789e78ec33
 text: Lideraremos una coalición de países para avanzar hacia un nuevo pacto de migración y asilo de la unión europea que facilite el establecimiento de corredores humanitarios; concrete un mecanismo de reasentamiento vinculante y permanente, más generoso que el actual; aumente las cuotas de reasentamiento, fomentando el patrocinio público y privado, además de reforzar la gestión multinivel entre Gobiernos locales, regionales, los Estados miembros y la Unión Europea.
+categories: Política internacional

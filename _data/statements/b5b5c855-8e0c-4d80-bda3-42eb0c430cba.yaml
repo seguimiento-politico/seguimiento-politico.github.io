@@ -1,6 +1,6 @@
 id: b5b5c855-8e0c-4d80-bda3-42eb0c430cba
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 17
-categories: Administración pública
+parent_chapter: f4f32036-0cfd-4ca9-b6f3-5cfec1c58526
+children_promises:
+- a3eb133c-57a8-469d-9897-04735ad2b9cd
+- 6a84d2d9-3f36-4c9e-bf18-bc348df4aed9
+- 948291b6-6b7a-43fb-a4b9-117fc13f8e6a
+children_statements: []
 title: Refuerzo de las herramientas de cogobierno existentes.
-has_children: true
+categories: Administración pública

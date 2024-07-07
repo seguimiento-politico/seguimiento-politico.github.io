@@ -1,7 +1,6 @@
 id: d580903c-c922-4386-beea-2d81df532cb4
 type: promise
-parent_statement: 036cbf07-3dc4-4f5f-ad13-f314e2323cca
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 036cbf07-3dc4-4f5f-ad13-f314e2323cca
+parent_chapter: 2d517483-028c-490d-aca8-13a64ce818f1
+text: Incorporar medidas orientadas a cambiar las bases de la formación y del conocimiento con perspectiva de género.
 categories: Educación
 topics: Igualdad
-text: Incorporar medidas orientadas a cambiar las bases de la formación y del conocimiento con perspectiva de género.

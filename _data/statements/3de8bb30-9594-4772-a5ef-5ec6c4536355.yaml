@@ -1,7 +1,6 @@
 id: 3de8bb30-9594-4772-a5ef-5ec6c4536355
 type: promise
-parent_statement: 0e02581d-2341-4893-8e85-9e0387071c55
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,8 +8,10 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 0e02581d-2341-4893-8e85-9e0387071c55
+parent_chapter: 58627ca3-e6ae-47ce-bd7d-42455ec78c0a
+text: Para ello hay que desarrollar un nuevo marco de colaboración entre las diferentes instituciones del sistema español de ciencia y tecnología (SECTI), fundamentalmente el Consejo Superior de Investigaciones Científicas (CSIC), otros Organismos Públicos de Investigación (OPIs), universidades y hospitales-institutos de investigación sanitaria. La dispersión de competencias entre diferentes Administraciones dificulta la cohesión del sistema.
 categories: Ciencia y tecnología
 topics:
 - Financiación
 - Gobernanza y transparencia
-text: Para ello hay que desarrollar un nuevo marco de colaboración entre las diferentes instituciones del sistema español de ciencia y tecnología (SECTI), fundamentalmente el Consejo Superior de Investigaciones Científicas (CSIC), otros Organismos Públicos de Investigación (OPIs), universidades y hospitales-institutos de investigación sanitaria. La dispersión de competencias entre diferentes Administraciones dificulta la cohesión del sistema.

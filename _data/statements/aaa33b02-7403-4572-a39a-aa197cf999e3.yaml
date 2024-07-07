@@ -1,7 +1,6 @@
 id: aaa33b02-7403-4572-a39a-aa197cf999e3
 type: promise
-parent_statement: 63c7a791-9cc5-48c5-bfb5-228a31e67f25
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,8 +8,10 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 63c7a791-9cc5-48c5-bfb5-228a31e67f25
+parent_chapter: 1d2802d7-3c25-4a37-96cf-85b8e7ed4986
+text: Proteger las lenguas oficiales del Estado es necesario para potenciar la igualdad lingüística; el sistema educativo es el lugar para garantizar que se conozcan y estudien.
 categories: Educación
 topics:
 - Igualdad
 - Inclusión
-text: Proteger las lenguas oficiales del Estado es necesario para potenciar la igualdad lingüística; el sistema educativo es el lugar para garantizar que se conozcan y estudien.

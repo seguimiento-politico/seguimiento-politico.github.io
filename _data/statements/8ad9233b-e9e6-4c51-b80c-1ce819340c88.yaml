@@ -1,6 +1,6 @@
 id: 8ad9233b-e9e6-4c51-b80c-1ce819340c88
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 183
+parent_chapter: 7962022e-09ee-45ed-aa0c-ba04e29a3d30
+text: Poner en marcha un programa de becas para el aprendizaje de inglés para niños, niñas y adolescentes en hogares con pocos recursos económicos.
 categories: Educación
 topics:
 - Infancia
 - Incentivos, ayudas y subvenciones
-text: Poner en marcha un programa de becas para el aprendizaje de inglés para niños, niñas y adolescentes en hogares con pocos recursos económicos.

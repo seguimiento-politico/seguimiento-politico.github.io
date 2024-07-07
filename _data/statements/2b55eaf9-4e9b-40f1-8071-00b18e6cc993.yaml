@@ -1,6 +1,6 @@
 id: 2b55eaf9-4e9b-40f1-8071-00b18e6cc993
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 155
+parent_chapter: eb17c61b-9cf0-4c89-acae-f0811981ce18
+text: Pedro Sánchez ha ido consolidando una deriva autoritaria en su gobierno, especialmente a través de los estados de alarma inconstitucionales, pretendiendo controlar la información que reciben los españoles y las opiniones que expresan bajo el pretexto de “combatir los bulos”.
 categories: Derechos y servicios sociales
 topics: Libertad de expresión
-text: Pedro Sánchez ha ido consolidando una deriva autoritaria en su gobierno, especialmente a través de los estados de alarma inconstitucionales, pretendiendo controlar la información que reciben los españoles y las opiniones que expresan bajo el pretexto de “combatir los bulos”.

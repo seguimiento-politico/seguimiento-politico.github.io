@@ -1,6 +1,6 @@
 id: 5a938b87-7614-4d7e-9707-d67ff0672556
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 34
+parent_chapter: 34122573-31ef-498a-a75c-ec31076a25d2
+text: Impulsaremos un Pacto de Estado sobre inmigración que incluya la revisión de la vigente Ley de Extranjería 4/2000 y su reglamento, eliminando el principio de reciprocidad del derecho de sufragio en las elecciones municipales de los extranjeros residentes en España, y fomentando la plena integración y la igualdad de oportunidades de las llamadas segundas generaciones, dedicando especial atención al refuerzo de la formación educativa.
 categories: Migración
 topics: Inmigración
-text: Impulsaremos un Pacto de Estado sobre inmigración que incluya la revisión de la vigente Ley de Extranjería 4/2000 y su reglamento, eliminando el principio de reciprocidad del derecho de sufragio en las elecciones municipales de los extranjeros residentes en España, y fomentando la plena integración y la igualdad de oportunidades de las llamadas segundas generaciones, dedicando especial atención al refuerzo de la formación educativa.

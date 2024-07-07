@@ -1,6 +1,6 @@
 id: aed18b59-3fcb-40c2-830a-9fef3a7d5cea
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 11
-categories: Trabajo
+parent_chapter: 4e3dbdf1-46ac-4aae-800b-566235f4fd90
 text: Reduciremos la jornada laboral máxima legal sin reducción salarial para establecerla en 37 horas y media semanales. Su aplicación se producirá de forma progresiva reduciéndose hasta las 38,5 horas en 2024 y culminándose en 2025. A partir de entonces se constituirá una mesa con los interlocutores sociales que evalúe los resultados de la reducción y siga avanzando en la disminución de la jornada legal teniendo en cuenta las características de los distintos sectores de activ  idad, la evolución de la productiv  idad y las circunstancias económicas.
+categories: Trabajo

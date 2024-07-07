@@ -1,6 +1,6 @@
 id: 8d9039d5-0891-40cd-bb94-97423d06f95e
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,7 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 7
+parent_chapter: 298cb86d-a349-4888-aba4-5567f2db236a
+text: Sus ansias de poder y la complicidad del consenso partitocrático han permitido la entrada de agendas importadas que promueven ideologías disolventes que atentan contra el sentido común y que sólo pretenden deteriorar los vínculos entre españoles dividiéndonos y enfrentándonos.
 categories: Derechos y servicios sociales
 topics:
 - Igualdad
-text: Sus ansias de poder y la complicidad del consenso partitocrático han permitido la entrada de agendas importadas que promueven ideologías disolventes que atentan contra el sentido común y que sólo pretenden deteriorar los vínculos entre españoles dividiéndonos y enfrentándonos.

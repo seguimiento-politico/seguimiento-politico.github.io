@@ -1,6 +1,6 @@
 id: bd2cc39b-16d5-4dcf-9afc-2dc4aa085598
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 249
+parent_chapter: 6dc5250e-51d3-4aba-9bdc-2dbe32e1afb9
+text: Ampliaremos y consolidaremos el programa de becas del Ministerio de Justicia para el acceso a las carreras de los distintos operadores jurídicos, con el objetivo de garantizar la igualdad de oportunidades.
 categories: Justicia
 topics: Modernización
-text: Ampliaremos y consolidaremos el programa de becas del Ministerio de Justicia para el acceso a las carreras de los distintos operadores jurídicos, con el objetivo de garantizar la igualdad de oportunidades.

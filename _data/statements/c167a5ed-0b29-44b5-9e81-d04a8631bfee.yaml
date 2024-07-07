@@ -1,7 +1,6 @@
 id: c167a5ed-0b29-44b5-9e81-d04a8631bfee
 type: promise
-parent_statement: 339d30e5-a8ed-4fad-928f-eeca35929c03
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 339d30e5-a8ed-4fad-928f-eeca35929c03
+parent_chapter: 63ab839a-6275-4d54-bf9b-ec036a685a75
+text: La Agencia Pública para la Transición Digital que se propone podría ayudar, con el impulso del software libre, a promover entramados de proyectos digitales públicos.
 categories: Educación
 topics: Digitalización
-text: La Agencia Pública para la Transición Digital que se propone podría ayudar, con el impulso del software libre, a promover entramados de proyectos digitales públicos.

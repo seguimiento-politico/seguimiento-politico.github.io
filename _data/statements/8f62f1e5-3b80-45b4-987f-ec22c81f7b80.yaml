@@ -1,6 +1,6 @@
 id: 8f62f1e5-3b80-45b4-987f-ec22c81f7b80
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 176
+parent_chapter: 49910009-ba4c-43f1-989a-c8fe29e8fb41
+text: 'Seguir con la reforma del SAAD: nuevos servicios y prestaciones adaptados a las necesidades de cada persona, dispositivos que acaben con la lista de espera, reorganización y modernización de la atención a domicilio y ampliación de la teleasistencia, mejora de la calidad de los servicios y del empleo prestigiando a sus profesionales, fortalecimiento y mantenimiento del carácter público de los servicios, y clarificación de la participación del sector privado y el tercer sector social.'
 categories: Derechos y servicios sociales
 topics: Cuidados
-text: 'Seguir con la reforma del SAAD: nuevos servicios y prestaciones adaptados a las necesidades de cada persona, dispositivos que acaben con la lista de espera, reorganización y modernización de la atención a domicilio y ampliación de la teleasistencia, mejora de la calidad de los servicios y del empleo prestigiando a sus profesionales, fortalecimiento y mantenimiento del carácter público de los servicios, y clarificación de la participación del sector privado y el tercer sector social.'

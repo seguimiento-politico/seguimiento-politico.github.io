@@ -1,6 +1,6 @@
 id: 33e1ef45-8c09-4a25-ab7d-492e52920bf8
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 171
+parent_chapter: 1ba59a71-2649-49ec-b7ab-7b3f541edfea
+children_promises:
+- 40e13c7b-b00c-4664-8d76-02ed8761b818
+children_statements: []
+text: Culminaremos la regulación de la jubilación anticipada para actividades profesionales especialmente duras o penosas, con una especial atención a la dimensión de género.
 categories: Derechos y servicios sociales
 topics: Pensiones
-text: Culminaremos la regulación de la jubilación anticipada para actividades profesionales especialmente duras o penosas, con una especial atención a la dimensión de género.
-has_children: true

@@ -1,6 +1,6 @@
 id: 437c0ee4-2901-4106-b28a-94c5c6c97176
-type: declaration
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_chapter: 754946a2-5f02-4a15-929b-dc9e8a58fe80
+text: La protección y el bienestar de los animales es una prioridad para Sumar. Los animales conviven con las personas como parte de la familia, forman parte de nuestro entorno en el ámbito doméstico, en el medio rural y son parte de nuestro sistema productivo. Con los animales silvestres compartimos además el territorio, ya vivan en espacios naturales o en nuestras mismas ciudades. Todos merecen atención y respeto, y por eso Sumar propone una serie de medidas para garantizar su bienestar.
 categories: Civismo
 topics: Bienestar animal
-text: La protección y el bienestar de los animales es una prioridad para Sumar. Los animales conviven con las personas como parte de la familia, forman parte de nuestro entorno en el ámbito doméstico, en el medio rural y son parte de nuestro sistema productivo. Con los animales silvestres compartimos además el territorio, ya vivan en espacios naturales o en nuestras mismas ciudades. Todos merecen atención y respeto, y por eso Sumar propone una serie de medidas para garantizar su bienestar.

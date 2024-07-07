@@ -1,6 +1,6 @@
 id: 0d61b3f8-969e-4f94-b27c-3d627d25e7f5
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 21
+parent_chapter: b7666ade-9a66-49ca-9621-feeda6f1a0e3
+text: Mejoraremos los canales de comercialización, incluyendo los canales alternativos de proxim  idad y venta directa mediante el desarrollo del Real Decreto de primera venta y otros. Mejoraremos los mecanismos de la trazabil  idad y etiquetado de los productos pesqueros según las normativas vigentes.
 categories: Economía
 topics: Desarrollo sostenible
-text: Mejoraremos los canales de comercialización, incluyendo los canales alternativos de proxim  idad y venta directa mediante el desarrollo del Real Decreto de primera venta y otros. Mejoraremos los mecanismos de la trazabil  idad y etiquetado de los productos pesqueros según las normativas vigentes.

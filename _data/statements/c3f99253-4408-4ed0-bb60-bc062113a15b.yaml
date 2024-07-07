@@ -1,7 +1,6 @@
 id: c3f99253-4408-4ed0-bb60-bc062113a15b
 type: promise
-parent_statement: 1dabb1d0-98d5-4135-af04-6031967fef75
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Administración pública
+parent_statement: 1dabb1d0-98d5-4135-af04-6031967fef75
+parent_chapter: f4f32036-0cfd-4ca9-b6f3-5cfec1c58526
 text: a través de enfoques integrales y transversales, partir de la naturaleza de cada problema, en lugar de hacerlo a través de la actual lógica de fragmentación competencial;
+categories: Administración pública

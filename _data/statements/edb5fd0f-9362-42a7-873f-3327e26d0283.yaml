@@ -1,6 +1,6 @@
 id: edb5fd0f-9362-42a7-873f-3327e26d0283
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 148
-categories: Política internacional
+parent_chapter: db635e28-b5bf-4dba-aaf7-b48b45ca3061
+children_promises:
+- f2da0a64-fbe2-455b-811d-55f9c649e2e8
+- 17fa430d-cfd7-4bbe-9e89-331c69a01f63
+- ba1617c3-7381-4606-a8bc-c514d0a3e6ff
+- c0bd75c9-77e6-4783-a4f7-72bf7b815a30
+- 441ff6ec-a359-48e0-a2e4-14ab4c284095
+children_statements: []
 title: Una nueva arquitectura de cooperación a la altura del reto.
-has_children: true
+categories: Política internacional

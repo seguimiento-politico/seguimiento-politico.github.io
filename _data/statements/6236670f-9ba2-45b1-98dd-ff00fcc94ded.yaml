@@ -1,12 +1,13 @@
 id: 6236670f-9ba2-45b1-98dd-ff00fcc94ded
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 18
+parent_chapter: b019b40e-f2ac-4d25-bf11-14a963b4bdaf
+text: Promoveremos la claridad fiscal. La Agencia Tributaria remitirá a cada contribuyente de manera anual un Informe de Transparencia Fiscal que detalle las cantidades satisfechas el año anterior por cada contribuyente en concepto de IRPF, Cotizaciones –tanto por parte del empleador como del empleado en caso de trabajadores por cuenta ajena– IBI e IVTM.
 categories:
 - Impuestos y financiación pública
-text: Promoveremos la claridad fiscal. La Agencia Tributaria remitirá a cada contribuyente de manera anual un Informe de Transparencia Fiscal que detalle las cantidades satisfechas el año anterior por cada contribuyente en concepto de IRPF, Cotizaciones –tanto por parte del empleador como del empleado en caso de trabajadores por cuenta ajena– IBI e IVTM.

@@ -1,6 +1,6 @@
 id: 4f1a43c7-ee35-490f-80d8-b6094be78c32
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,7 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 118
+parent_chapter: 96823b0f-932d-41e1-a800-716933f427ff
+text: Las empresas españolas están sometidas a una normativa asfixiante que les hace competir en inferioridad de condiciones frente a las industrias de terceros países. La libre competencia está adulterada y es urgente compensar a nuestras empresas con la imposición de aranceles y barreras a la entrada de todo producto que no cumpla con las normas que asfixian a nuestros productores.
 categories:
 - Industria
 - Energía
-text: Las empresas españolas están sometidas a una normativa asfixiante que les hace competir en inferioridad de condiciones frente a las industrias de terceros países. La libre competencia está adulterada y es urgente compensar a nuestras empresas con la imposición de aranceles y barreras a la entrada de todo producto que no cumpla con las normas que asfixian a nuestros productores.

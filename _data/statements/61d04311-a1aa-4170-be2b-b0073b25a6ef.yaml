@@ -1,6 +1,6 @@
 id: 61d04311-a1aa-4170-be2b-b0073b25a6ef
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 68
-categories: Derechos y servicios sociales
+parent_chapter: d8e47013-d4f2-4ad6-a46d-2514ab7cb432
 text: Promoveremos un estilo de vida saludable, que proporcione a los miembros de las familias las herramientas necesarias para ser libres y no caer en adicciones, cuyas consecuencias para la persona y su familia pueden ser devastadoras.
+categories: Derechos y servicios sociales

@@ -1,6 +1,6 @@
 id: ff8cd012-73d4-459a-a04b-84b3bb53041a
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 150
-categories: Política internacional
+parent_chapter: 7d023909-0f5e-4683-b705-4b789e78ec33
+children_promises:
+- 0588ca62-474e-4737-bf9f-c0d43ff3026d
+- b9fd4c89-5ea1-43af-a584-0b6c2550096f
+- 813696af-749f-4f8f-b020-d6deab7c7e26
+- 0c224d7c-f5db-4b6f-8751-48e4090fd1aa
+children_statements: []
 title: Un acceso al asilo más sencillo, rápido y democrático.
-has_children: true
+categories: Política internacional

@@ -1,7 +1,6 @@
 id: dd9e0035-6123-4e66-ac98-3879f095ee2f
 type: promise
-parent_statement: fe6937a7-2798-4745-8b9a-41c2939598b4
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: fe6937a7-2798-4745-8b9a-41c2939598b4
+parent_chapter: c794cb24-1c55-422f-8b6d-1ff29ad1ed87
+text: Promoveremos una reforma integral de los tratados y de otros instrumentos comunitarios para profundizar la democracia en la Unión Europea y asegurar su funcionalidad en el caso de futuras ampliaciones.
 categories: Política internacional
 topics: Europa
-text: Promoveremos una reforma integral de los tratados y de otros instrumentos comunitarios para profundizar la democracia en la Unión Europea y asegurar su funcionalidad en el caso de futuras ampliaciones.

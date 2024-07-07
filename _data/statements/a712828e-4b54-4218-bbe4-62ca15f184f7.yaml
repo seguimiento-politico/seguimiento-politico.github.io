@@ -1,6 +1,6 @@
 id: a712828e-4b54-4218-bbe4-62ca15f184f7
-type: declaration
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,4 +8,5 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 6
+parent_chapter: d398e1b7-4bfc-46c4-ac88-5e95589750d5
 text: Hoy tenemos ante nosotros la posibilidad de pasar página de manera definitiva de la frivolidad, la división y el deterioro que hemos padecido en los años del sanchismo y abrir un tiempo en el que abordar la necesaria reconstrucción económica, social e institucional de nuestro país.

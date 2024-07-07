@@ -1,12 +1,13 @@
 id: f39c417e-61f4-4823-978c-ac7dcc8551ad
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 29
+parent_chapter: 4f4736d6-ca72-42e2-b85c-f0d1537c0682
+text: Mejoraremos las condiciones de la devolución del IVA a turistas extracomunitarios para promocionar a España como destino de compras y fomentar el gasto en el comercio nacional.
 categories:
 - Turismo
-text: Mejoraremos las condiciones de la devolución del IVA a turistas extracomunitarios para promocionar a España como destino de compras y fomentar el gasto en el comercio nacional.

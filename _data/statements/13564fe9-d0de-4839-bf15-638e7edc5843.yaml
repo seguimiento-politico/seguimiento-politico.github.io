@@ -1,6 +1,6 @@
 id: 13564fe9-d0de-4839-bf15-638e7edc5843
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 38
-categories: Impuestos y financiación pública
+parent_chapter: adffd871-b28d-4061-bc87-6b0d1ee98ead
+children_promises:
+- effc0aa6-2cef-4f16-82c9-0be5fbf8d021
+- a0e02fef-96f6-4d43-a259-03c02dbe1511
+children_statements: []
 title: Desarrollar una reforma fiscal orientada a las familias coordinada con la política de gasto social.
-has_children: true
+categories: Impuestos y financiación pública

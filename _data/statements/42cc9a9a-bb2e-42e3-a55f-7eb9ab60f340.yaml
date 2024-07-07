@@ -1,6 +1,6 @@
 id: 42cc9a9a-bb2e-42e3-a55f-7eb9ab60f340
-type: declaration
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+type: statement
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 25
-categories: Migración
+parent_chapter: 5f0d7f53-8d55-4de4-a19d-e4610d909ada
 text: Todo ser humano tiene derecho a no emigrar, derecho a vivir, crecer y desarrollarse como persona en su propia comunidad nacional contribuyendo a su prosperidad de acuerdo con la cultura que a cada uno le sea propia.
+categories: Migración

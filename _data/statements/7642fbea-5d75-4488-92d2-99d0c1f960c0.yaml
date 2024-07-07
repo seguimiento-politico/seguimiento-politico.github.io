@@ -1,6 +1,6 @@
 id: 7642fbea-5d75-4488-92d2-99d0c1f960c0
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 74
-categories: Urbanismo y ciudades
+parent_chapter: da4a5e62-c6b6-45b0-a08b-611f6d470a08
+children_promises:
+- 7d0e6ca3-e916-498f-ad4c-f52822a62366
+- 951a54e5-6535-4ad9-87c6-30a17a32ce1d
+- 012bd5c8-cb39-4e96-951b-911383784e6f
+children_statements: []
 title: Refuerzo de la capacidad administrativa y técnica de los ayuntamientos.
-has_children: true
+categories: Urbanismo y ciudades

@@ -1,6 +1,6 @@
 id: be57a85f-16a8-4241-b099-ad72c8423685
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 40
-categories: Territorio rural
+parent_chapter: 90804ea5-2719-41f9-84bf-75399d39ecce
 text: Impulsaremos un Plan Nacional de Desarrollo Rural para revitalizar la estructura social y económica del mundo rural, mediante el impulso de las infraestructuras, la localización prioritaria de proyectos productivos y la previsión de líneas de financiación prioritarias para los sectores productivos más relevantes.
+categories: Territorio rural

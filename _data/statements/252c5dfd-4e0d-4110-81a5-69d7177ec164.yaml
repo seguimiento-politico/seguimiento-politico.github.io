@@ -1,6 +1,6 @@
 id: 252c5dfd-4e0d-4110-81a5-69d7177ec164
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 10
-categories: Educación
+parent_chapter: 4cc9eb95-7c33-470b-bb2f-7ed39176baa9
 text: La asignatura de religión será de carácter voluntario para los estudiantes, sin que haya una asignatura alternativa ni la nota sea computable a efectos académicos.
+categories: Educación

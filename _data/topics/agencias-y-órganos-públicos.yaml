@@ -1,0 +1,20 @@
+name: Agencias y órganos públicos
+other:
+- &id001
+  id: a9206f63-bb45-4da4-9336-52cdec455c6e
+  parties:
+  - CIUDADANOS
+other_count: 1
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+statements_count: 1
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

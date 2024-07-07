@@ -1,7 +1,6 @@
 id: 226bfbf7-b267-4e3c-bf29-c110e2e65e2f
 type: promise
-parent_statement: 673dc200-c6f2-4603-9d75-2be81e61eae4
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 673dc200-c6f2-4603-9d75-2be81e61eae4
+parent_chapter: b5417c2b-2bd9-455f-a227-1ac572dbd434
+text: Además, instalaremos un centro de interpretación de última generación in situ, homologable a otros proyectos de Europa y América Latina.
 categories: Democracia
 topics: Memoria democrática
-text: Además, instalaremos un centro de interpretación de última generación in situ, homologable a otros proyectos de Europa y América Latina.

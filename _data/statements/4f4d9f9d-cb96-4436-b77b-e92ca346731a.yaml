@@ -1,6 +1,6 @@
 id: 4f4d9f9d-cb96-4436-b77b-e92ca346731a
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 247
+parent_chapter: 382dfb0f-961f-42b4-86f0-7e035346cd21
+text: Contribuiremos a la reforma del Reglamento del Congreso de los Diputados y del Senado, así como de los mecanismos internos de la Administración General del Estado, para asegurar la transparencia y publicidad de las relaciones con los grupos de interés y la incorporación de sistemas de huella legislativa para que la sociedad pueda conocer la influencia de cada entidad en las iniciativas normativas.
 categories: Democracia
 topics: Gobernanza y transparencia
-text: Contribuiremos a la reforma del Reglamento del Congreso de los Diputados y del Senado, así como de los mecanismos internos de la Administración General del Estado, para asegurar la transparencia y publicidad de las relaciones con los grupos de interés y la incorporación de sistemas de huella legislativa para que la sociedad pueda conocer la influencia de cada entidad en las iniciativas normativas.

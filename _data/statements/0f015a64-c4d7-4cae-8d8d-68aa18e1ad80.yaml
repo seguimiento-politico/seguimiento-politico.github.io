@@ -1,6 +1,6 @@
 id: 0f015a64-c4d7-4cae-8d8d-68aa18e1ad80
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 67
+parent_chapter: 4a4ec318-0db9-4da1-9515-2b36e808a75f
+children_promises:
+- ffeed4a8-6661-44a8-a7e6-532c6a6001ec
+- db549e61-304b-4ef8-b5ec-cbd4d2d6c90a
+- 45fec50b-a334-481c-b93c-81fbe72dc090
+- 208e2cf5-be2d-4e15-a0eb-56b2e2c671e3
+children_statements: []
+title: Creación de una red de espacios públicos comunitarios para facilitar el derecho a la alimentación saludable y sostenible a escala de barrio o municipal.
 categories: Consumo
 topics: Alimentación saludable
-title: Creación de una red de espacios públicos comunitarios para facilitar el derecho a la alimentación saludable y sostenible a escala de barrio o municipal.
-has_children: true

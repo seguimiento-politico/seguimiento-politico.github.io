@@ -1,6 +1,6 @@
 id: 74929ebc-220e-4269-ac9d-f4aee8e2ce82
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 155
+parent_chapter: b4d1ed09-83dc-408f-a777-fc5670b54d39
+children_promises:
+- c9daa085-904f-4848-aacd-fdcef4fff694
+- 686b8ad2-d745-4fb6-92c3-ca00cba233cc
+- 5d29d293-53fb-4288-9aa6-cd07fc93b4be
+children_statements: []
+text: 'En cuando a la violencia sexual:'
 categories: Seguridad y defensa
 topics: Violencia de género
-text: 'En cuando a la violencia sexual:'
-has_children: true

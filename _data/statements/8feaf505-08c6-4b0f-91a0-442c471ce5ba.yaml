@@ -1,6 +1,6 @@
 id: 8feaf505-08c6-4b0f-91a0-442c471ce5ba
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 117
+parent_chapter: 11de281a-d271-499b-955d-2771db4b467d
 text: 'Reformar el sistema de financiación autonómica para hacerlo más justo y que exista un suelo de ingresos efectivos para financiar servicios públicos dignos en toda España. El nuevo sistema de financiación autonómica se diseñará en diálogo con todas las comunidades autónomas, de manera vinculada a una reforma fiscal y a la solución del problema de las deudas autonómicas producidas por la infrafinanciación. Este nuevo sistema garantizará que se alcancen, al menos, tres condiciones: en lugar de estar basado en un «techo de gasto», que impide que los derechos de la ciudadanía sean efectivos por la vía de limitar los recursos de las Autonomías para prestar servicios públicos, se basará en un «suelo de ingresos», que permitirá financiar servicios públicos dignos en toda España; todas las comunidades autónomas recibirán más financiación que la que reciben en la actualidad, pues hay que tener en cuenta que, aparte de su tradicional infrafinanciación, los recortes posteriores a 2009 se hicieron recaer de manera desproporcionada sobre ellas; y se reducirá la desigualdad territorial en cuanto a financiación.'

@@ -1,7 +1,6 @@
 id: 3fa641d6-6021-42c6-ba94-12723fb4033a
-type: declaration
-parent_statement: be1fb8f0-f577-4d6c-a570-fc5ed97b97ff
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Justicia
+parent_statement: be1fb8f0-f577-4d6c-a570-fc5ed97b97ff
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
 text: Vivimos en un país profundamente desigual en el que diversas identidades (género, clase social, etnia, nacionalidad, edad, discapacidades, etcétera) interaccionan entre sí y crean situaciones de especial vulnerabilidad. Estas desigualdades podrían suponer un sesgo o un trato diferencial hacia la ciudadanía por parte de la justicia o afectar negativamente a la progresión profesional dentro del sistema de justicia.
+categories: Justicia

@@ -1,6 +1,6 @@
 id: 497aee1f-dc3f-4c51-95d8-a95112db42bb
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 170
+parent_chapter: e9f101d6-d6e2-4b1b-95f1-2c67fdd18515
+children_promises:
+- d6b0d1dc-1293-4147-97f6-bf36d3c74270
+- a5b276a6-ec11-49b2-a201-1528205304af
+children_statements: []
+title: Casilla cultural en el IRPF y Ley de mecenazgo
 categories: Cultura
 topics: Financiación
-title: Casilla cultural en el IRPF y Ley de mecenazgo
-has_children: true

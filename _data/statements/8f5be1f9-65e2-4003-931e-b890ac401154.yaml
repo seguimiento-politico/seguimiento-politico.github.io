@@ -1,10 +1,12 @@
 id: 8f5be1f9-65e2-4003-931e-b890ac401154
-type: declaration
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+type: statement
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 68
+parent_chapter: 1d6d3cb8-c342-45dc-bf81-5882a853c051
 text: Todos los ciudadanos, independientemente de donde residan, deben tener garantizada la igualdad de derechos, el acceso a servicios de calidad y oportunidades de desarrollo profesional. Hoy esto no sucede así y la España rural adolece de un déficit de inversiones que es necesario reconocer.
+topics: Desarrollo sostenible

@@ -1,6 +1,6 @@
 id: 19cd97bf-8507-4f74-8b28-64c708b9cd7e
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 34
-categories: Minorías
+parent_chapter: 2ae0c74d-ab67-4ac0-a7a2-2a333943bb75
 text: Adoptaremos políticas públicas orientadas a mejorar el acceso y la permanencia en la educación y en el empleo de la población gitana.
+categories: Minorías
+topics: Igualdad

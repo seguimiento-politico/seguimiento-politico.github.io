@@ -1,7 +1,6 @@
 id: 895f8913-65e4-41b0-9c98-184d8e59d02f
 type: promise
-parent_statement: a35e47ed-60b4-4213-8995-10182ca0027e
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: a35e47ed-60b4-4213-8995-10182ca0027e
+parent_chapter: a507bf09-1837-436d-9255-f7223e1c8c0f
+text: Reforzaremos e impulsaremos los instrumentos para la lucha contra el blanqueo de capitales y la financiación del terrorismo.
 categories: Política internacional
 topics: Europa
-text: Reforzaremos e impulsaremos los instrumentos para la lucha contra el blanqueo de capitales y la financiación del terrorismo.

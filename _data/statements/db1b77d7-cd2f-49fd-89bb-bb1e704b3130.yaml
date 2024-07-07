@@ -1,6 +1,6 @@
 id: db1b77d7-cd2f-49fd-89bb-bb1e704b3130
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 108
-categories: Cultura
+parent_chapter: 156e3030-bc67-4aa6-8243-9123dce112aa
 text: APOYAREMOS LAS NUEVAS EXPRESIONES ARTÍSTICAS, LAS VANGUARDIAS Y A LOS JÓVENES CREADORES. También reivindicaremos nuestros referentes culturales más reconocidos, en centenarios como los de Ana María Matute (2025), Gaudí (2026), Buero Vallejo (2026) y, de forma muy especial, el de la Generación del 27, un momento excepcional en nuestra cultura reciente.
+categories: Cultura

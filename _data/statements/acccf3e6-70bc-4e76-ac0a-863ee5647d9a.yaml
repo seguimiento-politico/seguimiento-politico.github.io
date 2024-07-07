@@ -1,11 +1,12 @@
 id: acccf3e6-70bc-4e76-ac0a-863ee5647d9a
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 53
-categories: Derechos y servicios sociales
+parent_chapter: bddbd6ad-f9fd-4a6b-b520-20fc50ae562e
 text: Aprobaremos el Reglamento de ejecución de la Ley de Voluntariado y una nueva Estrategia Estatal del Voluntariado que planifique la acción del Gobierno para los próximos años.
+categories: Derechos y servicios sociales

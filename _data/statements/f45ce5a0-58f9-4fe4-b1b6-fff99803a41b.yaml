@@ -1,6 +1,6 @@
 id: f45ce5a0-58f9-4fe4-b1b6-fff99803a41b
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 34
-categories: Democracia
+parent_chapter: 89375858-99fa-4877-97d3-a329719afd84
 text: Constituiremos consejos sectoriales de verificación en los que participará directamente la sociedad civil. Su misión será evaluar el cumplimiento, por parte del Gobierno, de los compromisos sociales del PSOE contenidos en este programa.
+categories: Democracia

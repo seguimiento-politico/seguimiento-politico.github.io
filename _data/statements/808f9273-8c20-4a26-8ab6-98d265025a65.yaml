@@ -1,6 +1,6 @@
 id: 808f9273-8c20-4a26-8ab6-98d265025a65
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 20
-categories: Vivienda
+parent_chapter: aa035e42-2283-410b-bd01-f26776238f1a
 text: Se aprobará una estrategia que aborde la problemática del sinhogarismo de forma integral desde el enfoque de derechos en colaboración con las comunidades autónomas y los ayuntamientos.
+categories: Vivienda

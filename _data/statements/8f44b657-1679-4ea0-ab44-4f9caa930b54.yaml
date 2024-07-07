@@ -1,11 +1,12 @@
 id: 8f44b657-1679-4ea0-ab44-4f9caa930b54
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 43
-categories: Consumo
+parent_chapter: 59b98746-2cf3-43c2-ad40-8063b926b2bb
 text: Promoveremos que de los contratos más habituales como los de luz, agua, telecomunicaciones, banca, gas y seguros, así como las hipotecas de primera residencia, existan modelos estandarizados, con cláusulas sencillas de entender y opciones claras para el solicitante de los servicios. Para ello trabajaremos con las asociaciones de consumidores, empresas, registradores y notarios.
+categories: Consumo

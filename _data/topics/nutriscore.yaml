@@ -1,0 +1,26 @@
+name: Nutriscore
+other:
+- &id002
+  id: 2ed91718-a78d-4e5c-bd6a-400cd785b9ef
+  parties:
+  - VOX
+other_count: 1
+position_negative:
+- &id001
+  id: db2d4bf3-d7d9-4dfb-9b43-9a0063c89037
+  parties:
+  - VOX
+position_negative_count: 1
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- *id002
+statements_count: 2
+status_quo_negative:
+- *id001
+status_quo_negative_count: 1
+status_quo_positive: []
+status_quo_positive_count: 0

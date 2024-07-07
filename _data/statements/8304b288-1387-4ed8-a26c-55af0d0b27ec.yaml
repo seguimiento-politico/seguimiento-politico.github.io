@@ -1,6 +1,6 @@
 id: 8304b288-1387-4ed8-a26c-55af0d0b27ec
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,15 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 95
+parent_chapter: b36e5d9e-ba98-45f0-8911-a0a18af0be33
+children_promises:
+- dbd034d4-d790-450f-80b2-dc9e960f58ea
+- f2f896f1-8e86-481a-acb1-1494f402bfd6
+- 7830fa8a-744a-4311-81fb-7e51c1223653
+- 4861a1a5-a290-40ef-9e33-f5c30e4ccf8c
+- 555fc88a-511b-4e34-bf62-0ee6620c512a
+- 25e813b6-e4ab-4654-b9e7-248e1a952c9f
+children_statements: []
+title: 'Protección derechos infancia y familias: Violencia, salud mental y atención temprana'
 categories: Familia
 topics: Incentivos, ayudas y subvenciones
-title: 'Protección derechos infancia y familias: Violencia, salud mental y atención temprana'
-has_children: true

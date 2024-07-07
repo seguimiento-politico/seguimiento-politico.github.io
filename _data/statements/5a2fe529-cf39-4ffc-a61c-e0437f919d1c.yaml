@@ -1,6 +1,6 @@
 id: 5a2fe529-cf39-4ffc-a61c-e0437f919d1c
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 151
+parent_chapter: 814800d1-d17a-4410-9eb1-114a76841345
+text: Fomentaremos los servicios de atención integral a las mujeres en los centros de salud, que deben de utilizarse como espacios de cribado universal para los casos de violencia de género.
 categories: Territorio rural
 topics: Igualdad
-text: Fomentaremos los servicios de atención integral a las mujeres en los centros de salud, que deben de utilizarse como espacios de cribado universal para los casos de violencia de género.

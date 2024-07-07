@@ -1,6 +1,6 @@
 id: f43b899f-3f63-4fa3-a516-e4f0669bfa48
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 19
+parent_chapter: 7ae97af0-2b46-4081-8273-1e68d732579c
+text: Retomaremos la Ley contra el Desperdicio Alimentario.
 categories: Economía
 topics: Desarrollo sostenible
-text: Retomaremos la Ley contra el Desperdicio Alimentario.

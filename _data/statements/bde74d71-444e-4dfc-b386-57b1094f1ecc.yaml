@@ -1,7 +1,6 @@
 id: bde74d71-444e-4dfc-b386-57b1094f1ecc
 type: promise
-parent_statement: 865d4965-d85a-4979-80bc-9d66414d3d65
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 865d4965-d85a-4979-80bc-9d66414d3d65
+parent_chapter: 2d06e79f-d667-441b-b7cf-513970c6ccde
+text: Se fomentará la reutilización de aguas depuradas o de escorrentía.
 categories: Medioambiente
 topics: Biodiversidad
-text: Se fomentará la reutilización de aguas depuradas o de escorrentía.

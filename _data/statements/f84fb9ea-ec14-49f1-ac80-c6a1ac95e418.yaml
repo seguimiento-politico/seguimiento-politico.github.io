@@ -1,7 +1,6 @@
 id: f84fb9ea-ec14-49f1-ac80-c6a1ac95e418
 type: promise
-parent_statement: 90552a2b-a645-4096-a6e4-88a6f2c53415
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Educación
+parent_statement: 90552a2b-a645-4096-a6e4-88a6f2c53415
+parent_chapter: 869a602d-b512-418c-a46e-5ebd811152f6
 text: Los centros deben converger en un proyecto común que refuerce la formación inicial y la permanente.
+categories: Educación

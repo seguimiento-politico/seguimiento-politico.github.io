@@ -1,7 +1,6 @@
 id: 8577e250-ef7d-42ec-a504-e9324a12bcfc
 type: promise
-parent_statement: 72ee0798-902c-4dd5-999e-09d15be54e5a
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Política internacional
+parent_statement: 72ee0798-902c-4dd5-999e-09d15be54e5a
+parent_chapter: 4d3afa99-1301-4519-a703-6dfe49d7e832
 text: Recuperaremos la jurisdicción universal para perseguir la vulneración de derechos humanos en todo el mundo y la ratificación de convenios internacionales, como la Convención sobre la Imprescriptibilidad de los Crímenes de Guerra y de los Crímenes de Lesa Humanidad.
+categories: Política internacional

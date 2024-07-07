@@ -1,7 +1,6 @@
 id: 1cafefcc-6466-488b-9179-1ce2cd9dfffd
 type: promise
-parent_statement: 83f1e403-c97c-4823-b2cd-e279a35bf9e8
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: 83f1e403-c97c-4823-b2cd-e279a35bf9e8
+parent_chapter: a032ad89-ff94-4e43-a3b0-dfbbc59e0d4a
+text: Estableceremos un marco regulatorio “Open Data” para que empresas y ciudadanía tengan acceso a los datos de las Administraciones Públicas.
 categories: Derechos y servicios sociales
 topics: Digitalización
-text: Estableceremos un marco regulatorio “Open Data” para que empresas y ciudadanía tengan acceso a los datos de las Administraciones Públicas.

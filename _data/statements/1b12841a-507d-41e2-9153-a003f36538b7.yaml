@@ -1,6 +1,6 @@
 id: 1b12841a-507d-41e2-9153-a003f36538b7
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 132
-categories: Seguridad y defensa
+parent_chapter: 66b190ef-617c-438a-adf3-a3c9f707719b
+children_promises:
+- 1e1a7750-9193-45c6-a975-f784650402ec
+- bc6d7672-98fe-49f1-8b7f-0775a081957e
+- 8e307a37-d839-4ec6-8c96-ffe0936af0f4
+children_statements: []
 title: Medidas para promocionar la I+D y el conocimiento público en materia de seguridad y convivencia.
-has_children: true
+categories: Seguridad y defensa

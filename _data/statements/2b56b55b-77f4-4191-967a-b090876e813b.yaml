@@ -1,7 +1,6 @@
 id: 2b56b55b-77f4-4191-967a-b090876e813b
 type: promise
-parent_statement: 37d8b8c1-6963-4111-af2a-4fa647650be6
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 37d8b8c1-6963-4111-af2a-4fa647650be6
+parent_chapter: c1d2932c-9fc8-4b60-9a6a-8398312cb597
+text: Desarrollar una ley de despilfarro alimentario con objetivos ambiciosos y con incidencia en todos los pasos de la cadena de producción alimentaria.
 categories: Economía
 topics: Economía circular
-text: Desarrollar una ley de despilfarro alimentario con objetivos ambiciosos y con incidencia en todos los pasos de la cadena de producción alimentaria.

@@ -1,6 +1,6 @@
 id: d0e0f9fd-6c8d-4f85-87db-98b208f22ef7
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 21
+parent_chapter: b7666ade-9a66-49ca-9621-feeda6f1a0e3
+text: Apoyaremos la descarbonización de la flota y la transición energética del sector pesquero y acuícola, y adoptaremos med  idas de mitigación del efecto del cambio climático y la contaminación en el mar.
 categories: Economía
 topics: Desarrollo sostenible
-text: Apoyaremos la descarbonización de la flota y la transición energética del sector pesquero y acuícola, y adoptaremos med  idas de mitigación del efecto del cambio climático y la contaminación en el mar.

@@ -1,6 +1,6 @@
 id: 3710d338-71e0-4e7f-9041-6b76a52a874a
-type: declaration
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+type: statement
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 11
-categories: Educación
+parent_chapter: 9c099206-10d7-4c4f-864e-cbe322afde2e
 text: Las diferentes agendas globalistas profundizan en los ataques a la libertad educativa que sufrimos en España.
+categories: Educación

@@ -1,6 +1,6 @@
 id: ac10c597-2f6c-41c9-88ae-99edcc252dec
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,9 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 67
+parent_chapter: 1d4a4787-163e-4649-b875-f97fd3780649
+children_promises:
+- 81ee21ff-266e-42b9-b3ba-0edf3aea7b0f
+children_statements: []
+title: Aseguraremos el cumplimiento de la nueva Ley de la Cadena Alimentaria
 categories:
 - Agricultura
 - Ganadaría
 topics: Desarrollo sostenible
-title: Aseguraremos el cumplimiento de la nueva Ley de la Cadena Alimentaria
-has_children: true

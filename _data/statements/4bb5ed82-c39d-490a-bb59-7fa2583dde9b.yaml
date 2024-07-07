@@ -1,7 +1,6 @@
 id: 4bb5ed82-c39d-490a-bb59-7fa2583dde9b
 type: promise
-parent_statement: dc8dee06-efe8-49ff-a266-013ca32ba653
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: dc8dee06-efe8-49ff-a266-013ca32ba653
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+text: 'Se establecerá un nuevo ámbito de competencias escolares vinculadas a la coeducación, que deberá formar parte formal de los currículos: educación en igualdad, educación antirracista, educación LGTBI+, educación contra las violencias machistas y educación sexoafectiva.'
 categories: Democracia
 topics: Igualdad
-text: 'Se establecerá un nuevo ámbito de competencias escolares vinculadas a la coeducación, que deberá formar parte formal de los currículos: educación en igualdad, educación antirracista, educación LGTBI+, educación contra las violencias machistas y educación sexoafectiva.'

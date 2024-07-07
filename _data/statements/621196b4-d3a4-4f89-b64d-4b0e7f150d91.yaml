@@ -1,6 +1,6 @@
 id: 621196b4-d3a4-4f89-b64d-4b0e7f150d91
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 75
-categories: Urbanismo y ciudades
+parent_chapter: da4a5e62-c6b6-45b0-a08b-611f6d470a08
+children_promises:
+- ac62e500-0dbd-45d5-a430-ac95d74cd114
+children_statements: []
 title: Situación específica de la Cañada Real en Madrid.
-has_children: true
+categories: Urbanismo y ciudades

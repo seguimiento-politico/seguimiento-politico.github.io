@@ -1,7 +1,6 @@
 id: 5cf5af4f-d574-40b8-9aca-3909ab41836a
 type: promise
-parent_statement: 3971384f-eb7a-4c6f-9b11-cc63fdb9164e
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,8 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 190
+parent_statement: 3971384f-eb7a-4c6f-9b11-cc63fdb9164e
+parent_chapter: fceaf9d6-d483-45fa-950a-983051a80ad3
+text: Esta novedosa medida es el resultado de haber evaluado políticas públicas en el ámbito social para los colectivos más vulnerables, escalando posteriormente las que mejor hayan funcionado.
 categories: Derechos y servicios sociales
 topics:
 - Desigualdad
 - Ingreso mínimo vital
-text: Esta novedosa medida es el resultado de haber evaluado políticas públicas en el ámbito social para los colectivos más vulnerables, escalando posteriormente las que mejor hayan funcionado.

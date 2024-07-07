@@ -1,6 +1,6 @@
 id: d7ea9494-aee6-437e-beb4-a796f81a37a8
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 254
-categories: Religión
+parent_chapter: 44755ca0-367e-43ea-97ca-74ced0d87d05
 text: Seguiremos trabajando con la Iglesia Católica en el marco del Acuerdo de Asuntos económicos, para avanzar en el compromiso asumido por la Iglesia de alcanzar por sí misma los recursos suficientes para la atención de sus necesidades
+categories: Religión

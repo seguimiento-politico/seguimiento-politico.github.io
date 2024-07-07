@@ -1,6 +1,6 @@
 id: 1ae61456-44d8-4131-a152-2caf637afd9f
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 28
+parent_chapter: d101bd02-236d-4098-bb87-89db05cd11c2
+text: Avanzaremos hacia una Administración más abierta. El sector público tiene muchos datos que pueden utilizarse para mejorar vidas, ofrecer servicios públicos eficientes y promover el crecimiento económico, protegiendo adecuadamente la privacidad y los derechos individuales y colectivos de los ciudadanos.
 categories: Administración pública
 topics: Digitalización
-text: Avanzaremos hacia una Administración más abierta. El sector público tiene muchos datos que pueden utilizarse para mejorar vidas, ofrecer servicios públicos eficientes y promover el crecimiento económico, protegiendo adecuadamente la privacidad y los derechos individuales y colectivos de los ciudadanos.

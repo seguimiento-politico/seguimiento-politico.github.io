@@ -1,6 +1,6 @@
 id: 90a660a0-4d5b-4490-8295-e6b8bb17ee6c
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 37
-categories: Impuestos y financiación pública
+parent_chapter: ea2982af-8671-4013-b30b-3217bd021e2a
+children_promises:
+- 678edb29-672d-4845-a7c8-8502aeec38f6
+- a2733e60-93f6-44ad-bba6-837f79a73944
+- 698ac8d9-5bab-42a9-b3cc-c7e36a2e1a58
+children_statements: []
 title: Una fiscalidad que ayude a la clase media y trabajadora
-has_children: true
+categories: Impuestos y financiación pública

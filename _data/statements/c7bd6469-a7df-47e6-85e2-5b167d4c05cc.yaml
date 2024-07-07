@@ -1,6 +1,6 @@
 id: c7bd6469-a7df-47e6-85e2-5b167d4c05cc
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_chapter: fd8400c3-3c3b-4802-92c3-a73e87bf26b5
+text: Tenemos un compromiso firme con el desarrollo de los corredores transeuropeos. Apostamos por corredores multimodales que integren la infraestructura ferroviaria con los otros modos de transporte, gracias a nodos y terminales. Esto mejorará no solo las líneas de alta velocidad, sino especialmente las líneas ferroviarias convencionales.
 categories: Transporte
 topics: Ferrocarril, Corredores
-text: Tenemos un compromiso firme con el desarrollo de los corredores transeuropeos. Apostamos por corredores multimodales que integren la infraestructura ferroviaria con los otros modos de transporte, gracias a nodos y terminales. Esto mejorará no solo las líneas de alta velocidad, sino especialmente las líneas ferroviarias convencionales.

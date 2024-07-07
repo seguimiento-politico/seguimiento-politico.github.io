@@ -1,6 +1,6 @@
 id: 234975db-c49e-4c61-8996-064a0eb4149d
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 42
+parent_chapter: c81b524a-7c17-4056-ad5e-56c01a72ec58
+text: Revisaremos la legislación de la cadena alimentaria para lograr un reparto más justo y equitativo del valor de los alimentos a lo largo de la cadena, de manera que todos los eslabones vean remunerado su trabajo y muy particularmente los productores.
 categories: Medioambiente
 topics: Desarrollo sostenible
-text: Revisaremos la legislación de la cadena alimentaria para lograr un reparto más justo y equitativo del valor de los alimentos a lo largo de la cadena, de manera que todos los eslabones vean remunerado su trabajo y muy particularmente los productores.

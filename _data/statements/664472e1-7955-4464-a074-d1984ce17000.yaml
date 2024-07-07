@@ -1,6 +1,6 @@
 id: 664472e1-7955-4464-a074-d1984ce17000
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 100
+parent_chapter: ad5e444e-8aeb-42e7-9daf-cb6565194cb9
+text: ESTRECHAREMOS LOS LAZOS CON LA COMUNIDAD IBEROAMERICANA DE NACIONES y apoyaremos los procesos regionales de integración. Reforzaremos las Cumbres Iberoamericanas y su Secretaría General como modo de potenciar la proyección internacional de la comunidad iberoamericana.
 categories: Política internacional
 topics: America latina
-text: ESTRECHAREMOS LOS LAZOS CON LA COMUNIDAD IBEROAMERICANA DE NACIONES y apoyaremos los procesos regionales de integración. Reforzaremos las Cumbres Iberoamericanas y su Secretaría General como modo de potenciar la proyección internacional de la comunidad iberoamericana.

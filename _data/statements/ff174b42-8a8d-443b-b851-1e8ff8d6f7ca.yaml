@@ -1,12 +1,13 @@
 id: ff174b42-8a8d-443b-b851-1e8ff8d6f7ca
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 17
+parent_chapter: b019b40e-f2ac-4d25-bf11-14a963b4bdaf
+text: Reduciremos las cotizaciones sociales, especialmente para la contra- tación de jóvenes y de parados de larga duración.
 categories:
 - Impuestos y financiación pública
-text: Reduciremos las cotizaciones sociales, especialmente para la contra- tación de jóvenes y de parados de larga duración.

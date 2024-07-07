@@ -1,6 +1,6 @@
 id: ba246cc9-fe4d-42df-a6e8-1b51cbc4a3c5
-type: declaration
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 85
-categories: Derechos y servicios sociales
+parent_chapter: bf2e9039-90a2-45d4-9adb-714dea29c151
+children_promises: []
+children_statements:
+- 40fcd13d-b0ab-4a7c-b186-3d8f3152a44f
+- 21229542-939e-47f4-94e3-0a4a6b833363
 title: REVERTIR EL DETERIORO EN LA CALIDAD DE LA ATENCIÓN A LOS CIUDADANOS
-has_children: true
+categories: Derechos y servicios sociales

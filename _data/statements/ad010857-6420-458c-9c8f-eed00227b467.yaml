@@ -1,7 +1,6 @@
 id: ad010857-6420-458c-9c8f-eed00227b467
 type: promise
-parent_statement: 00b05044-a434-4024-9f33-c090d0ddccf8
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 00b05044-a434-4024-9f33-c090d0ddccf8
+parent_chapter: c794cb24-1c55-422f-8b6d-1ff29ad1ed87
+text: Promoveremos medidas de apoyo a las medidas sociales de los Estados miembros, como la coordinación de las políticas tributarias, y avanzaremos hacia la creación de un seguro de desempleo europeo.
 categories: Política internacional
 topics: Europa
-text: Promoveremos medidas de apoyo a las medidas sociales de los Estados miembros, como la coordinación de las políticas tributarias, y avanzaremos hacia la creación de un seguro de desempleo europeo.

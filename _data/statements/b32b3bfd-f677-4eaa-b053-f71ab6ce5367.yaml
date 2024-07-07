@@ -1,6 +1,6 @@
 id: b32b3bfd-f677-4eaa-b053-f71ab6ce5367
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 118
+parent_chapter: 96e848d1-3015-443e-a16c-804978d00154
+text: Continuaremos desarrollando los programas ya lanzados de apoyo a las empresas innovadoras como las Misiones; la compra pública innovadora; la coinversión en empresas de base tecnológica; o el Plan de Transferencia y Colaboración para incentivar la colaboración público-privada en I+D+I e impulsar la capacidad innovadora de las empresas españolas.
 categories: Ciencia y tecnología
 topics: I+D+i
-text: Continuaremos desarrollando los programas ya lanzados de apoyo a las empresas innovadoras como las Misiones; la compra pública innovadora; la coinversión en empresas de base tecnológica; o el Plan de Transferencia y Colaboración para incentivar la colaboración público-privada en I+D+I e impulsar la capacidad innovadora de las empresas españolas.

@@ -1,0 +1,112 @@
+# variables depending on scope:
+# supranational -> organization + institution, 
+# national-> country + institution, 
+# regional-> country + region + institution  or 
+# local-> country + region + locality + institution
+
+draft: false 
+name: elecciones generales 2023
+group_by: legislature
+election_type: generales
+election_date: '2023-07-23'
+scope: national
+country: spain 
+institution: congreso
+nature: politics
+items_type: promise # statements (promises + statements), promise, statement
+items_by: party #party, politician
+lang: es
+
+context:
+    name: Elecciones generales 2023
+    description: Listado exhaustivo y análisis de las propuestas de los principales partidos políticos.
+    election_type: generales 
+    from: '2023-07-23'
+    goverment_type:
+    goverment_parties:
+    sources:
+        
+parties:
+    -
+        name: PSOE
+        seats: 120
+        program_doc: 
+            - psoe_2019_10N.pdf
+            - 2019-coalicion-progresista.pdf
+        position: government
+    -
+        name: PP
+        seats: 89
+        program_doc: pp_2019_10N.pdf
+        position: opposition
+    -
+        name: VOX
+        seats: 52
+        program_doc: vox_2019_10N.pdf
+        position: opposition
+    -
+        name: UNIDAS PODEMOS
+        aliance_of: [IU, Podemos]
+        seats: 26
+        program_doc: 
+            - podemos_2019_10N.pdf
+            - iu_2019_10N.
+            - Coalición-progresista.pdf
+        position: government
+    -
+        name: ERC
+        seats: 13
+        position: opposition
+    -
+        name: Cs
+        seats: 10
+        program_doc: ciudadanos_2019_10N.pdf
+        position: opposition
+    -
+        name: JxCat
+        seats: 8
+        position: opposition
+    -
+        name: En Comú Podem
+        seats: 7
+        position: government
+    -
+        name: PNV
+        seats: 6
+        position: opposition
+    -
+        name: Eh Bildu
+        seats: 5
+        position: opposition
+    -
+        name: MÁS PAÍS EQUO
+        seats: 2
+        position: opposition
+    -
+        name: CUP-PR
+        seats: 2
+        position: opposition
+    -
+        name: CC-NC
+        seats: 2
+        position: opposition
+    -
+        name: NA+
+        seats: 2
+        position: opposition
+    -
+        name: En Común Unidas Podemos
+        seats: 2
+        position: government
+    -
+        name: BNG
+        seats: 1
+        position: opposition
+    -
+        name: PRC
+        seats: 1
+        position: opposition
+    -
+        name: ¡TERUEL EXISTE!
+        seats: 1
+        position: opposition    

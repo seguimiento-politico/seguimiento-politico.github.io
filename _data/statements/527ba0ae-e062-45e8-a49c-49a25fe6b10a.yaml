@@ -1,6 +1,6 @@
 id: 527ba0ae-e062-45e8-a49c-49a25fe6b10a
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 111
+parent_chapter: f91bc08f-3d6b-4f78-a00a-810f7184cf6a
 text: Publicar, de manera inmediata, la lista de amnistiados fiscales de los Gobiernos anteriores. Asimismo, incluiremos la prohibición de decretar amnistías fiscales en la Constitución, ya que una simple previsión legal puede cambiarse con la siguiente mayoría parlamentaria

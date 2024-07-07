@@ -1,6 +1,6 @@
 id: fd0f57f1-bee8-4c5d-be18-2876d4239d7e
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 18
-categories: Sanidad
+parent_chapter: 76f5a4bd-043f-422d-98a0-fecfe8c46fdf
 text: Reducir las listas de espera. Ningún español debe esperar un tiempo abusivo para reunirse con el médico especialista en su dolencia.
+categories: Sanidad

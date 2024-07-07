@@ -1,6 +1,6 @@
 id: a83729be-82e3-43bf-b921-9a4f221ac986
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 60
+parent_chapter: 515b8d5e-bb59-4239-b0e5-1a45b7cb18f0
+children_promises:
+- 288afc25-8f98-46cf-8d65-1730d3f3fc1a
+children_statements: []
+title: Aceleraremos la puesta en marcha de un programa de cátedras y becas universidad-industria para potenciar el talento en España en sectores de alta tecnología (IA, semiconductores, etc.).
 categories:
 - Industria
 - Ciencia y tecnología
-title: Aceleraremos la puesta en marcha de un programa de cátedras y becas universidad-industria para potenciar el talento en España en sectores de alta tecnología (IA, semiconductores, etc.).
-has_children: true

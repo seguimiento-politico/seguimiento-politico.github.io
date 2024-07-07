@@ -1,0 +1,20 @@
+name: Servicios públicos
+other: []
+other_count: 0
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- &id001
+  id: f65a3147-b891-471f-af38-4c0f0bed1262
+  parties:
+  - VOX
+statements_count: 1
+status_quo_negative:
+- *id001
+status_quo_negative_count: 1
+status_quo_positive: []
+status_quo_positive_count: 0

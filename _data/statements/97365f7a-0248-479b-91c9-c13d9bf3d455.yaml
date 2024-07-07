@@ -1,6 +1,6 @@
 id: 97365f7a-0248-479b-91c9-c13d9bf3d455
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 20
+parent_chapter: 5ac453aa-319d-4ea3-b4b6-7a63e3dde3ff
+children_promises:
+- 4f3fc117-c1eb-4087-8158-41235ab8f270
+- 0cbd4884-769a-4eaf-a519-4040a081654f
+children_statements: []
+title: Aprobación de una nueva Ley de Condiciones Generales de la Contratación
 categories: Consumo
 topics: Consumo sostenible
-title: Aprobación de una nueva Ley de Condiciones Generales de la Contratación
-has_children: true

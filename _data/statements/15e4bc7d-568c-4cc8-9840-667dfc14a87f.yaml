@@ -1,6 +1,6 @@
 id: 15e4bc7d-568c-4cc8-9840-667dfc14a87f
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 246
+parent_chapter: 042ffd53-350e-453d-9537-b5b1b9ca5932
+text: Incorporaremos el programa Cumpliendo a la futura Ley de Transparencia y lo completaremos con nuevos desarrollos que permitan realizar un seguimiento real de la evolución de las distintas políticas públicas y de sus principales indicadores, a través de la actividad de la Agencia de Evaluación de Políticas Públicas.
 categories: Democracia
 topics: Gobernanza y transparencia
-text: Incorporaremos el programa Cumpliendo a la futura Ley de Transparencia y lo completaremos con nuevos desarrollos que permitan realizar un seguimiento real de la evolución de las distintas políticas públicas y de sus principales indicadores, a través de la actividad de la Agencia de Evaluación de Políticas Públicas.

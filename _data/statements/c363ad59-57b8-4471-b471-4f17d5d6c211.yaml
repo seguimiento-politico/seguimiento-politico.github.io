@@ -1,11 +1,12 @@
 id: c363ad59-57b8-4471-b471-4f17d5d6c211
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 99
-categories: Seguridad y defensa
+parent_chapter: ce32a1c3-f0ee-405f-bdb8-e85af6ed814a
 text: Fortaleceremos nuestros compromisos con los aliados en la OTAN y apoyaremos las misiones en el exterior que realizan las Fuerzas Armadas españolas de lucha contra el terrorismo y de garantía de la seguridad en Oriente Medio y África.
+categories: Seguridad y defensa

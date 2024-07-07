@@ -1,6 +1,6 @@
 id: 239e245b-e72a-4176-88eb-88d7290d9185
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 50
-categories: Comercio
+parent_chapter: 6f519b8a-1387-4b6d-9ac4-fa4d05568ba2
 text: Elaboraremos un Plan Nacional de Turismo que restablezca la posición de España como primera potencia turística mundial.
+categories: Comercio

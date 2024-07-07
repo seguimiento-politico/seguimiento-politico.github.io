@@ -1,6 +1,6 @@
 id: eec94925-9c1b-4da4-ada8-c6b21bdfde59
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 131
+parent_chapter: bbb648f8-b134-4f34-9db4-8a224126b93a
+text: Daremos continuidad al Bono Joven de Alquiler para que se convierta en una medida a largo plazo ampliando la financiación para llegar a toda la población joven.
 categories: Vivienda
 topics: Incentivos, ayudas y subvenciones
-text: Daremos continuidad al Bono Joven de Alquiler para que se convierta en una medida a largo plazo ampliando la financiación para llegar a toda la población joven.

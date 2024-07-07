@@ -1,6 +1,6 @@
 id: e49cf16a-6eed-4c5b-a762-0353cc1ff21e
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,15 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 92
-categories: Sanidad
+parent_chapter: 17e4c412-8ac4-4992-848a-422903075ee3
+children_promises:
+- f3af1da4-39f6-4efb-84f8-f0ee81cf0b44
+- fc063749-06b7-40c4-b69a-184da0b339b6
+- f9d03951-2857-462a-9cce-d5530236202e
+- 93ea86b1-dbc0-41be-862e-3d9d9518fb89
+- 6b42fba5-1272-485f-980a-7a9e9e565636
+- 85262a11-3a8f-452e-b6fc-fede7902d138
+- 287b1298-7f51-4c08-85ce-621824d6fb3c
+children_statements: []
 title: 'Derecho a la salud: Maternidad'
-has_children: true
+categories: Sanidad

@@ -1,6 +1,6 @@
 id: e6ef0832-b1f4-44b4-8cda-17dee44009b1
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 38
-categories: Impuestos y financiación pública
+parent_chapter: adffd871-b28d-4061-bc87-6b0d1ee98ead
+children_promises:
+- 1ebfb470-d006-4212-8c5c-70d7a572732c
+- 507d169f-112f-411b-9527-5df6c539b95b
+- 00a2dacd-a91b-4266-b1c3-a8d2827089e3
+children_statements: []
 title: Promover un Pacto de Estado contra el Fraude Fiscal
-has_children: true
+categories: Impuestos y financiación pública

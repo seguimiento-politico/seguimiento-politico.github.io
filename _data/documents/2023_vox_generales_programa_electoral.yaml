@@ -12,19 +12,20 @@ url: https://votaabascal.es/assets/pdf/Programa-VOX-2023.pdf
 web_history: https://web.archive.org/web/20230710213951/https://votaabascal.es/assets/pdf/Programa-VOX-2023.pdf
 content:
 - chapter:
+    id: 298cb86d-a349-4888-aba4-5567f2db236a
     title: Igualdad entre españoles
     categories: Derechos y servicios sociales
     topics: [Igualdad]
     children:
-    - declaration:
+    - statement:
         id: f0cfc90c-150a-4f97-b4f2-d9d9a633746b
         page: 7
         text: Pedro Sánchez será recordado como el presidente que fue duro e implacable con los españoles honrados y blando con los delincuentes, los enemigos de España y las élites extranjeras. Sus concesiones al separatismo y su apuesta por la España multinivel sólo ha beneficiado a las élites autonómicas y han permitido la consolidación de un modelo injusto que lastra la prosperidad y el bienestar de los españoles.
-    - declaration:
+    - statement:
         id: 49c2c354-b0fb-45ab-85cb-75b4b5428ad4
         page: 7
         text: Lejos de acercar las administraciones a los ciudadanos, el estado autonómico sólo ha servido para imponer nuevos cen tralismos que pretenden una homogeneización artificial y que atentan contra rica diversidad de España y su pluralidad provin cial, levantar barreras artificiales entre españoles e imponer un caos administrativo contrario a la solidaridad entre personas y territorios.
-    - declaration:
+    - statement:
         id: 8d9039d5-0891-40cd-bb94-97423d06f95e
         page: 7
         text: Sus ansias de poder y la complicidad del consenso partitocrático han permitido la entrada de agendas importadas que promueven ideologías disolventes que atentan contra el sentido común y que sólo pretenden deteriorar los vínculos entre españoles dividiéndonos y enfrentándonos.
@@ -101,37 +102,39 @@ content:
         page: 12
         text: Acabaremos con la forma actual de reparto de los fondos europeos, de espaldas a los verdaderos intereses de los españoles y condicionada a las imposiciones ideológicas globalistas.
     - chapter:
+        id: deb1407a-edfb-4a25-9c51-31c5687520e8
         title: Algunas de las acciones más destacadas de vox
         children:
-        - declaration:
+        - statement:
             id: 69f95d5f-6621-48a4-b91f-5b7ea0637a73
             page: 13
             text: Proposición no de Ley para la recentralización de las Instituciones con el fin de reducir el despilfarro provocado por la ineficiencia del “Estado autonómico” a través de la devolución al Estado de las competencias en materia de educación, sanidad, seguridad y justicia, así como de todas aquellas competencias que estén siendo utilizadas para menoscabar la unidad de la Nación e igualdad entre todos los españoles (marzo 2023).
-        - declaration:
+        - statement:
             id: ad9e713e-438c-48a9-a588-8dc9253bfa32
             page: 13
             text: Proposición no de Ley por la que se insta a establecer que el conocimiento de la lengua cooficial de la Administración regional no sea un impedimento para el acceso a la función pública ( junio 2021).
-        - declaration:
+        - statement:
             id: 8d77c568-f2fc-48e4-985d-98d10e7c074c
             page: 13
             text: PNL para el mantenimiento y refuerzo de la presencia y las competencias de la Guardia Civil en toda España con el fin de revertir el proceso de transferencia de competencias de competencias en materia de seguridad vial que han utilizado los gobiernos del Partido Popular y el Partido Socialista como moneda de cambio con los partidos separatistas durante las últimas décadas (marzo 2023).
-        - declaration:
+        - statement:
             id: d5bf2b81-1f8c-40b0-b919-2ed79d4017d8
             page: 13
             text: Durante toda la legislatura se han presentado enmiendas de totalidad y recursos de inconstitucionalidad contra las leyes liberticidas aprobadas por el Gobierno de Pedro Sánchez en materia de ideología de género, Ley del Aborto o como las leyes trans o la Ley del Sólo sí es sí.
 - chapter:
+    id: 84c94514-c06f-4ab9-ba28-01c06429b154
     title: Unidad de España
     categories: Nacionalismo y patriotismo
     children: 
-    - declaration:
+    - statement:
         id: d6320abb-8e58-4d10-bb35-ae425b1fa633
         page: 15
         text: España es una realidad que trasciende a los españoles de una determinada época y lugar; es una herencia recibida de nuestros antepasados que debemos cuidar y mejorar para legarla a las próximas generaciones. Nuestra patria es la garantía de los derechos y la igualdad, especialmente de los más vulnerables.
-    - declaration:
+    - statement:
         id: 494ef973-d2e4-4ff8-a331-420e8d1b1ee1
         page: 15
         text: Desde el inicio de su mandato, Pedro Sánchez ha entregado la dirección política de su gobierno a los protagonistas del golpe de Estado separatista y a los herederos de ETA; en definitiva, a los enemigos de España. Esta traición, que comenzó mintiendo a sus propios votantes, a los que aseguró que no pactaría con Bildu, se ha manifestado constantemente en acciones como el fin de la dispersión de presos terroristas, el indulto a los golpistas de Cataluña o la cesión de nuevas competencias a gobiernos separatistas a cambio de permanecer en la Moncloa. Del mismo modo, Sánchez no ha tenido escrúpulos para someter el interés nacional a la voluntad de organizaciones y fuerzas extranjeras, ajenas a las necesidades de los españoles.
-    - declaration:
+    - statement:
         id: 435a5ba8-74b4-4bba-b7ea-df22084cc7bd
         page: 15
         text: Es urgente recuperar para el proyecto común de España a esos miles de compatriotas que se han desvinculado sentimentalmente de la Nación, azuzados por el adoctrinamiento ideológico del separatismo y del globalismo.
@@ -183,44 +186,45 @@ content:
         id: 9fe396f4-4688-4c1d-8380-d7c76f06bf67
         page: 18
         text: Defenderemos nuestra soberanía ante injerencias extranjeras y recuperaremos una posición internacional que priorice la defensa de los intereses reales de los españoles y de la unidad nacional. Uno de los legados más siniestros de Sánchez es la sumisión constante del interés nacional a los planes de organizaciones y potencias extranjeras, ajenas a la realidad y necesidades de nuestros compatriotas.
-    - declaration:
+    - statement:
         id: 7714abfd-1573-4f69-a0f1-9587106d0951
         page: 19
         title: ALGUNAS ACCIONES DESTACADAS DE VOX SOBRE UNIDAD DE ESPAÑA
         children:
-        - declaration:
+        - statement:
             id: 1f27ff54-370b-4e6a-a20c-264f49a209a8
             page: 19
             text: Proposición de Ley Orgánica para exigir una respuesta penal contundente frente a los ataques contra la unidad nacional solicitando la modificación del Código Penal añadiendo la pena de pérdida de la nacionalidad española; incorporando los delitos contra la unidad de la Nación e incrementando las penas por los delitos de ultrajes a España (diciembre 2022).
-        - declaration:
+        - statement:
             id: 479d37bd-f8ce-4ab2-8fd0-4fb2864ed58d
             page: 19
             text: Proposición de Ley Orgánica para ilegalizar a los partidos políticos separatistas y terroristas (enero 2020). 
-        - declaration:
+        - statement:
             id: 836faa58-ca50-4e76-9296-2982ff9d6920
             page: 19
             text: PNL en Pleno para la tipificación del delito de convocatoria de referéndum ilegal (diciembre 2022). 
-        - declaration:
+        - statement:
             id: d7a8c482-5a04-472d-b5aa-3258d56d0249
             page: 19
             text: PNL en Comisión de Interior para la aplicación en Cataluña del artículo 155 de la Constitución por la dejación de la Generalidad (octubre 2022).
-        - declaration:
+        - statement:
             id: 0e2ce531-17a7-4851-ac2a-9ff0d89276ea
             page: 19
             text: Veto en el senado a la PL de sedición y malversación en oposición frontal a la reforma del Código Penal cuyo único objetivo es facilitar la perpetración en el futuro de nuevos Golpes de Estado, favorecer a los socios separatistas del PSOE y facilitar la corrupción de los socialistas y sus aliados (diciembre de 2022).
 - chapter:
+    id: 89a37952-7653-4d01-b826-60b84d3454b4
     title: Empleo y salarios dignos
     categories: Trabajo
     children:
-    - declaration:
+    - statement:
         id: af517eb5-a19a-40e5-8038-a48176ff78ee
         page: 21
         text: El empleo de los españoles es la base de su bienestar y libertad. Las familias de trabajadores y autónomos llevan años sufriendo las políticas de asfixia fiscal, la deslocalización de empresas y la bajada generalizada de salarios.
-    - declaration:
+    - statement:
         id: 09ad841f-6f6e-4838-847d-8252fbdfb287
         page: 21
         text: 'El gobierno de Sánchez ha agravado con sus políticas socialistas y globalistas el acceso y calidad de los empleos en España: destrucción de nuestra industria, ataque al campo, competencia desleal extranjera, inmigración descontrolada, cuotas de género y un ultimátum entre un sueldo digno o poder dedicar tiempo a una familia. Frente a esto, los sindicatos ultra subvencionados, en lugar de defender a los trabajadores, les han traicionado para conservar sus privilegios, convirtiéndose en lacayos del gobierno y blanqueando la precariedad que hoy padecen los españoles.'
-    - declaration:
+    - statement:
         id: 9765b9b4-dcf8-4424-988c-c0748fce11e5
         page: 21
         text: 'En VOX lo tenemos claro: todos los trabajos son esenciales porque detrás de cada trabajador hay un español con sus alegrías, angustias y preocupaciones. Por eso, protegeremos a los trabajadores españoles para brindarles oportunidades reales y condiciones materiales suficientes: estabilidad económica, sueldos dignos, horarios que faciliten la conciliación, trabajos no impersonales y la posibilidad de formar un hogar en su propia tierra.'
@@ -313,37 +317,39 @@ content:
         page: 26
         text: Fomentaremos y protegeremos el artesanado y los oficios tradicionales y con arraigo, herencia vigorosa de nuestros abuelos, mediante medidas fiscales y crediticias, así como reconocemos la tradición secular del cooperativismo y la economía social en nuestra nación, promoviendo la participación de los trabajadores en las empresas.
     - chapter:
+        id: 532dae6f-f92f-4960-90af-6b7b08fac3ae
         title: Algunas de las acciones más destacadas de vox
         children:
-        - declaration:
+        - statement:
             id: 70b54060-3acd-4c5f-9930-47f10f6ff107
             page: 27
             text: Proposición no de Ley para la protección de los trabajadores autónomos, revisando su marco fiscal, en particular de las retenciones por IRPF, así como potenciar la simplificación administrativa (febrero 2023). 
-        - declaration:
+        - statement:
             id: f66ac32b-e8ae-499d-a1f5-ba5f104f7cd2
             page: 27
             text: Proposición de Ley Orgánica para la protección de los derechos constitucionales de los trabajadores y reforzando las penas contempladas en el Código Penal para los hechos delictivos cometidos contra los trabajadores. Se incluía también la eliminación de los planes de igualdad en las empresas, el castigo de los piquetes de huelga, la reforma de los convenios colectivos de empresa o la protección del uso del español como lengua vehicular en todo el territorio nacional en el ámbito laboral (abril 2023).
-        - declaration:
+        - statement:
             id: 877e953b-63a2-47c2-95a7-d4dc459e2522
             page: 27
             text: Proposición no de Ley para la ampliación de los permisos por maternidad y las modificaciones de las coberturas de la Seguridad Social y para promover la posibilidad del abono de todas las horas retribuidas en un pago único, a fin de simplificar la gestión administrativa a estos efectos (diciembre 2022).
-        - declaration:
+        - statement:
             id: 9a462287-93c7-4f95-9d87-4513bafb210d
             page: 27
             text: Proposición no de Ley para la compensación total, por parte de los autónomos, de la base imponible general negativa con la base imponible del ahorro positiva del Impuesto de la Renta de las Personas Físicas, con motivo de la crisis económica derivada de la COVID-19 (mayo 2021).
-        - declaration:
+        - statement:
             id: b7072218-7766-4d58-8923-4ce42df922fe
             page: 28
             text: En el Gobierno de Castilla y León, VOX cumplió su compromiso electoral reduciendo en 20,5 millones de euros el dinero público que la Junta daba cada año a CCOO, UGT y CEOE. Esta medida ha supuesto un recorte de más del 50% de la asignación que recibían desde la Consejería de Industria, Comercio y Empleo ( junio 2022).
 - chapter:
+    id: 8dc56675-db4f-4450-b565-3d1b2de80c30
     title: Educación en libertad
     categories: Educación
     children:
-    - declaration:
+    - statement:
         id: 99b0d1b0-9086-4f16-9b65-7de4d18b71c6
         page: 31
         text: El Gobierno de Pedro Sánchez ha dado la puntilla a la degradación que lleva sufriendo la enseñanza en España en las últimas décadas a causa del estado autonómico, el adoctrinamiento ideológico en colegios y universidades, y las sucesivas leyes educativas, que han dejado de impulsar la excelencia y la calidad. La llamada ley Celaá ha profundizado en la desigualdad entre territorios, disgregando los contenidos que reciben los alumnos según su lugar de residencia, y ha supuesto un ataque directo a la libertad constitucional de los padres para educar a sus hijos según sus convicciones morales, hasta el punto de afirmar abiertamente que “los hijos no pertenecen a los padres”.
-    - declaration:
+    - statement:
         id: 9da66f70-d27f-43c7-a952-1a3862e9263f
         page: 31
         text: Además, Sánchez ha amparado que los gobiernos separatistas utilicen la educación para adoctrinar y excluir el español de las aulas, contraviniendo la voluntad de las familias y las decisiones de los tribunales. Es urgente devolver a los españoles una educación gratuita, exigente y de calidad, que sea un verdadero ascensor social para los jóvenes y un elemento de cohesión nacional.
@@ -424,34 +430,36 @@ content:
         page: 35
         text: Incluiremos en los currículos contenidos sobre la historia de España, la identidad nacional y la aportación de España a la civilización y a la historia universal, con especial atención a las gestas y hazañas de nuestros héroes nacionales, así como a los símbolos de la Nación, especialmente la Bandera, el Himno y la Corona. Se promoverá también el conocimiento de las manifestaciones culturales propias de nuestra Nación y de la Hispanidad.
     - chapter:
+        id: 93c0fe1a-af8e-40be-bc69-f2a4f720007f
         title: Algunas de las acciones más destacadas de vox
         children:
-        - declaration:
+        - statement:
             id: 65ec798a-f609-4709-8e78-d9bca61d8784
             page: 36
             text: PNL relativa a la adopción de medidas para la defensa del derecho a la educación en español en la que se pide la aplicación del artículo 155 de la Constitución para intervenir la Generalidad de Cataluña con el fin de detener la persecución del español en las aulas de los centros educativos (mayo 2022).
-        - declaration:
+        - statement:
             id: ab0612b1-6ce7-4e53-bae0-07a12a281bad
             page: 36
             text: PNL relativa al impulso de las Humanidades con el fin de transmitir la tradición cultural de España y el resto de Occidente, fortalecer los principios de esfuerzo, estudio, disciplina y excelencia, y suscitar el amor por la búsqueda del bien, la verdad y la belleza (mayo 2022).
-        - declaration:
+        - statement:
             id: 608e5c76-d742-4d74-b2bd-abfcd13fbc48
             page: 36
             text: PNL relativa al fomento y protección de los Centros de Educación Especial en la que se pide garantizar el derecho de los padres de hijos con discapacidad a escoger la escolarización de sus hijos en centros de educación ordinaria o especial (mayo 2021).
-        - declaration:
+        - statement:
             id: 91d5a734-c67c-4070-bceb-345c9cea2aea
             page: 36
             text: PNL relativa a garantizar el derecho que asiste a los padres para que sus hijos reciban la formación religiosa y moral que esté de acuerdo con sus propias convicciones, instando al Gobierno a asegurar la efectiva observancia y cumplimiento del principio de neutralidad ideológica en la enseñanza (marzo 2022).
 - chapter:
+    id: b958cf54-1e2a-46d1-94d9-83d7f5877612
     title: Acceso a la vivienda
     categories: Vivienda
     children:
-    - declaration:
+    - statement:
         id: ee0f2edb-0ee4-4331-929a-549685cb583a
         page: 39
         text: El hogar es el principal espacio de intimidad y desarrollo personal de las familias, por lo que garantizar un acceso asequible, unas condiciones decentes y la seguridad de todos los españoles en su vivienda debe ser una prioridad fundamental de cualquier gobierno. Sin embargo, las nefastas políticas de vivienda de las últimas décadas han truncado la aspiración de la mayoría de españoles a que su vivienda sea un lugar de tranquilidad, no una fuente de preocupaciones. La insuficiente oferta de vivienda social, la escasez artificial de suelo edificable, una excesiva burocracia en la tramitación de licencias, precios prohibitivos, la especulación y corrupción, o la impunidad ante la ocupación ilegal son problemas con los que conviven los españoles en su día a día. Lejos de remediar esta situación, Pedro Sánchez ha aprobado una nefasta Ley de vivienda que ignora los problemas reales en este ámbito y sus causas.
     
-    - declaration:
+    - statement:
         id: 14de2960-4d5c-4b82-b7ec-751fd6732ced
         page: 39
         text: Una de las grandes urgencias de los españoles es tener un gobierno que afronte con valentía el problema de la vivienda. La posibilidad de acceder a una vivienda no puede convertirse en un lujo que solo unos pocos pueden permitirse. Resulta fundamental garantizar el acceso a vivienda asequible, especialmente para los españoles que más lo necesitan, proteger el derecho a la propiedad y velar por que las viviendas tengan un espacio y unas condiciones de salubridad y suministros dignas.
@@ -521,41 +529,43 @@ content:
             page: 43
             text: Rechazamos por ello proyectos globalistas como la llamada Nueva Bauhaus europea que impulsan los burócratas de Bruselas, que, con la coartada del fanatismo climático y la eficiencia energética de los edificios pretende uniformizar la realidad de nuestras ciudades.
     - chapter: 
+        id: 7cfc87b2-226c-44ee-8071-6bdf306b36d3
         title: Algunas de las acciones más destacadas de vox
         children:
-        - declaration:
+        - statement:
             id: dfef1aad-d78d-4202-a55e-c0f1888a653e
             page: 44
             text: Proposición no de Ley relativa a combatir el fenómeno de la ocupación y de la “inquiocupación” a través de medidas como la reducción de los plazos en el procedimiento de desahucio, la creación de un registro de datos históricos de zonas afectadas por la ocupación y el incremento de las penas por el delito de usurpación (noviembre 2021).
-        - declaration:
+        - statement:
             id: 63603e5e-cc3a-4070-be58-9a049e82ba56
             page: 44
             text: Propuesta de veto en el Senado al Proyecto de Ley por el Derecho a la vivienda por sus nefastas consecuencias para el mercado de la vivienda, fruto de medidas como intervenir el mercado del alquiler, alterar el contenido esencial del derecho de propiedad consagrado en el artículo 33 de la Constitución y proteger la ocupación ilegal (mayo 2023).
-        - declaration:
+        - statement:
             id: 509e0158-0ea6-4929-8210-baa9eacac5e4
             page: 44
             text: Proposición de Ley instando a la modificación de la Ley del Impuesto sobre el Valor Añadido con el fin de aplicar un tipo superreducido del 4% a la adquisición de aquel inmueble destinado a ser la primera vivienda habitual (octubre 2022).
-        - declaration:
+        - statement:
             id: d7725602-e4d0-4d5f-8247-b20781a25cc1
             page: 44
             text: Proposición no de Ley relativa a la mejora del mercado inmobiliario español a través de medidas como la lucha contra la ocupación, la agilización de los trámites de licencia y obra, la liberación del suelo, incentivos al alquiler, rechazar el control de precios del alquiler y el incremento de vivienda pública (abril 2021).
-        - declaration:
+        - statement:
             id: bef12d24-7ec8-4620-8bd7-28871bb56ec3
             page: 45
             text: Proposición de Ley de modificación de la Ley de Bases del Régimen Local al objeto de evitar que tanto okupas como inmigrantes ilegales puedan inscribirse en el padrón municipal como residentes del inmueble usurpado y evitar así que accedan a los derechos que lleva aparejado el empadronamiento (octubre 2022).
 - chapter:
+    id: 6f519b8a-1387-4b6d-9ac4-fa4d05568ba2
     title: Producido en España 
     categories: Comercio
     children:
-    - declaration:
+    - statement:
         id: 18334e44-088f-49dc-821d-abde0fe76e1f
         page: 47
         text: Las élites globalistas están promoviendo tanto en Bruselas como en España y sus regiones unas normas y una burocracia ecologista implacables que asfixian a nuestros agricultores, ganaderos, pescadores e industrias. La consecuencia es la desaparición de determinados sectores productivos que llevaban sosteniendo a miles de familias españolas durante siglos, incluso en sectores en los que España destacaba a nivel internacional.
-    - declaration:
+    - statement:
         id: 690ab57c-3994-4fcc-ba40-6b7fd7d33cc6
         page: 47
         text: El gobierno de Sánchez ha sido un enemigo directo, como ningún otro gobierno antes, del producto español. Ministros del gobierno han hecho declaraciones en medios extranjeros contra la carne española, se han aceptado con resignación campañas internacionales contra productos nacionales como la fresa, e incluso se han transferido millones de euros al desarrollo de sectores que compiten deslealmente contra nuestro producto, como el regadío marroquí, que no está sujeto a las normas y prohibiciones que asfixian a nuestros agricultores, permitiendo que inunden el mercado español con precios irrisorios.
-    - declaration:
+    - statement:
         id: bc26b207-b2b1-4ffc-9894-947dffa461fa
         page: 47
         text: VOX va a defender y a cuidar a nuestros productores, industria y sus productos. Lo haremos como ya lo estamos cumpliendo en Castilla y León, defendiendo al sector ganadero tanto en Bruselas como frente a un gobierno nacional y unos sindicatos que han pretendido atacar directamente a nuestro campo.
@@ -644,41 +654,43 @@ content:
         page: 52
         text: Siempre que este gobierno ha tenido que tomar decisiones tanto en el interior como en el exterior ha acabado aliado con los enemigos de España produciendo un daño irreparable a las clases medias, al campo y las industrias. No vamos a permitir injerencias de países y lobbies verdes extranjeros que ataquen el producto español y a los españoles que trabajan duro para conseguirlo. 100. Garantizaremos la seguridad jurídica y la homogeneización del caos normativo entre regiones para que España y sus productos sean más competitivos y desplieguen su potencial de exportación a Europa y a todo el mundo.
     - chapter: 
+        id: 188819b7-9c37-4f05-8366-60b15394c8eb
         title: ALGUNAS ACCIONES DESTACADAS DE VOX SOBRE PRODUCTO NACIONAL
         children:
-        - declaration:
+        - statement:
             id: 11a72f4c-61b0-481b-8947-4d1d5ed5413f
             page: 53
             text: PNL relativa a la defensa de la producción agraria española, protegiendo la producción agroalimentaria y hortofrutícola española frente a la competencia desleal y el uso de productos prohibidos en Europa por parte de terceros países (noviembre 2020).
-        - declaration:
+        - statement:
             id: 344ba8de-90c3-4093-8d83-03b38032fdc1
             page: 53
             text: PNL contra las falsificaciones y fraudes en el marcado “CE”. Para la protección del consumidor y usuario, se debe impulsar el control en frontera para la prevención y sanción de las importaciones de falsificaciones y fraudes en el marcado CE (abril 2023).
-        - declaration:
+        - statement:
             id: cab0af39-4402-4340-b24f-f162a39a2cf3
             page: 53
             text: PNL relativa a impulsar la imagen turística de España incrementando las medidas de promoción turística de España tanto fuera como dentro de la nación ( junio 2021).
-        - declaration:
+        - statement:
             id: e2d2b3da-a86c-4e3c-9675-b9c958f10907
             page: 53
             text: PNL relativa a detener la implantación en España del sistema de etiquetado nutricional frontal Nutri-Score y defender al sector agroalimentario español (marzo 2021).
-        - declaration:
+        - statement:
             id: 49fc59e3-b657-4084-8045-01ae22392d3f
             page: 53
             text: PNL relativa a la relocalización de la industria manufacturera en territorio español, creando un marco normativo incentivador en los ámbitos tributario, administrativo, ambiental y laboral que genere la vuelta a España de plantas productivas nacionales (febrero 2021).
 - chapter:
+    id: befa4347-5ac5-4c3d-853b-7fc9b83921e6
     title: Salud
     categories: Sanidad
     children:
-    - declaration:
+    - statement:
         id: e513f79d-42ae-4f73-8abd-e7f3077c9ebe
         page: 55
         text: La existencia de diecisiete sistemas sanitarios ha provocado la desprotección de nuestros compatriotas, una pérdida de la calidad y accesibilidad, unas peores condiciones laborales para el personal y ha dificultado la atención sanitaria en momentos críticos como la pandemia de la COVID.
-    - declaration:
+    - statement:
         id: 36f90e6f-fba0-41b2-8d20-a07052c1eaa2
         page: 55
         text: El gobierno de Pedro Sánchez ha acentuado estos problemas estructurales de la Sanidad con una gestión de la crisis sanitaria del COVID-19 más centrada en la propia imagen y agenda ideológica del gobierno que en proteger a los españoles. La crisis derivada del coronavirus ha mostrado, de la manera más trágica posible, la imperiosa necesidad de que también en Sanidad, España precisa recuperar su soberanía en tecnología y en medicamentos.
-    - declaration:
+    - statement:
         id: 050b6d6d-96b6-4540-abc4-6d7ecf0eb8b1
         page: 55
         text: La vida y la salud física son bienes preciosos y deben ser cuidados racionalmente teniendo en cuenta las necesidades de nuestros compatriotas, la deontología profesional y el bien común. Priorizaremos la inversión y reordenación de los servicios de sanidad y salud pública con la misión de curar y cuidar, situando a las personas en el centro y atendiendo su dimensión física, psicológica, espiritual, familiar y social.
@@ -767,37 +779,39 @@ content:
         page: 59
         text: La Sanidad española debe dar preferencia sanitaria a todo español y residente legal y a los trabajadores españoles que regresen del extranjero, aunque sea temporalmente. En el caso de los inmigrantes en situación de ilegalidad, la atención abarcará las situaciones de urgencia vital y enfermedades infecto-contagiosas.
     - chapter: 
+        id: 3ab5bbca-77c8-4f46-8a7e-ea467a5bb101
         title: Algunas de las acciones más destacadas de vox
         children:
-        - declaration:
+        - statement:
             id: 8a2cd206-d1c8-4870-b8c2-35cc1dcbe918
             page: 61
             text: Proposición no de Ley relativa a promover un modelo común de Atención Temprana en toda España (abril 2021).
-        - declaration:
+        - statement:
             id: 8b7b8ed5-c3ea-4e62-ad39-c87dc3891a2f
             page: 61
             text: Proposición no de Ley relativa al reconocimiento del grado de discapacidad mínimo del 33% a los pacientes de enfermedades crónicas, autoinmunes y neurodegenerativas con independencia del estadio de la enfermedad ( junio 2020).
-        - declaration:
+        - statement:
             id: c061907c-a5ed-48dd-8469-a6736060f7c6
             page: 61
             text: Proposición no de Ley relativa a prevenir los trastornos de la conducta alimentaria en adolescentes (diciembre 2021). 
-        - declaration:
+        - statement:
             id: 0848b06e-14ce-4bc5-adff-ee3cb0ac7e0d
             page: 61
             text: Proposición no de Ley relativa a la promoción de los biomarcadores en el cáncer de mama en el Sistema Nacional de Salud (noviembre 2022).
-        - declaration:
+        - statement:
             id: 4faa8728-964b-4e50-bf19-ca49c13e30af
             page: 61
             text: Proposición de Ley Orgánica de cuidados paliativos en el proceso final de la vida (octubre 2022).
 - chapter:
+    id: d8e47013-d4f2-4ad6-a46d-2514ab7cb432
     title: Protección social de los españoles
     categories: Derechos y servicios sociales
     children:
-    - declaration:
+    - statement:
         id: 3d2065cb-8c0b-477d-a772-e934accac524
         page: 63
         text: Tanto el gobierno de Sánchez como las agendas globalistas que suscribe, como la Agenda 2030, están persistiendo en las mismas recetas fallidas para combatir la desigualdad social, provocando que la brecha entre los más necesitados y las élites se haga más profunda. Fomento de la inmigración ilegal, priorizar la promoción de ideologías sectarias sobre las necesidades materiales de los trabajadores, aumento de la presión fiscal y normativa vinculada al ecologismo radical son algunas de las políticas globalistas que Sánchez ha aplicado en esta legislatura.
-    - declaration:
+    - statement:
         id: 342a949f-2047-4d58-be6c-9612b2ed87c6
         page: 63
         text: 'En consecuencia, la brecha de la desigualdad social ha seguido ensanchándose sin control, dejando las víctimas de siempre: las familias españolas más humildes. En VOX rechazamos que los derechos y libertades sean sólo para las élites y sus colectivos privilegiados. Es necesario facilitar el acceso a los medios sociales y económicos para ejercerlos, empezando por la Sanidad, Educación, Dependencia, Pensiones e Infraestructuras para todos los españoles.'
@@ -890,37 +904,39 @@ content:
         page: 68
         text: Promoveremos un estilo de vida saludable, que proporcione a los miembros de las familias las herramientas necesarias para ser libres y no caer en adicciones, cuyas consecuencias para la persona y su familia pueden ser devastadoras.
     - chapter: 
+        id: b552572c-667b-4d97-90a1-8e5a8e0eb740
         title: Algunas de las acciones más destacadas de vox
         children:
-        - declaration:
+        - statement:
             id: 2a3e83c7-4690-4633-94a1-71736ed5b6a6
             page: 69
             text: Proposición no de Ley en el Congreso de los Diputados para la mejora del Sistema de autonomía personal y atención a las personas en situación de dependencia frente a las deficiencias del actual sistema SAAD (marzo 2021).
-        - declaration:
+        - statement:
             id: f03265e5-e0e7-48df-bf3d-7981622bc4df
             page: 69
             text: Moción en el Congreso de los Diputados para aprobar, de manera inmediata, un Plan integral de prevención y control frente a la COVID-19 en residencias de mayores y otros servicios sociales de carácter residencial frente a la crisis sociosanitaria desatada por la COVID-19 y la nefasta gestión pública de las residencias (marzo 2021).
-        - declaration:
+        - statement:
             id: ce9ac8be-ad68-4678-9160-6bff02f40a2e
             page: 69
             text: Proposición no de Ley en el Congreso de los Diputados para poner en marcha la Estrategia Nacional contra la soledad no deseada de las personas mayores y crear un sólido sistema de apoyo a la familia que agrupe medidas institucionales, tributarias, sociales, laborales, bioéticas y de concienciación social frente al modo de vida actual que dinamita las relaciones sociales y familiares (marzo 2022).
-        - declaration:
+        - statement:
             id: 66140a9c-7fd9-4660-bcfd-9ec9e5993878
             page: 69
             text: Proposición no de Ley en el Congreso de los Diputados para la promoción de la Terapia Ocupacional y para crear nuevos centros ocupacionales en España (noviembre 2020).
-        - declaration:
+        - statement:
             id: 52a6c493-f764-4c3d-8c7d-13fe216c9dd4
             page: 69
             text: Proposición no de Ley para garantizar la protección y el cuidado de los menores tutelados en los centros de protección de menores de todo el territorio español frente a los abusos y la explotación sexual que puedan haber ocurrido en centros de protección de menores en España y para asegurar el retorno de los MENA a sus países de origen (febrero 2022).
 - chapter:
+    id: ec3e397c-bf4a-4692-a06e-58f507cee1f8
     title: Fiscalidad para la prosperidad
     categories: Impuestos y financiación pública
     children:
-    - declaration:
+    - statement:
         id: 4f5705f2-bf41-4604-8632-ab4ed38d91ae
         page: 73
         text: En un momento de crisis económica y carestía nacional, el Gobierno de Sánchez bate récords en recaudación mientras los españoles baten récords en miseria. Nunca antes el abismo entre el estado de bienestar de las élites y la cruda realidad de los españoles ha sido mayor. Es indecente que los privilegios de los de siempre sean sostenidos a costa del esfuerzo de las clases medias y trabajadoras. Además, la asfixia y desigualdades fiscales provocadas por el estado autonómico están lastrando el desarrollo de nuestras empresas, el crecimiento de nuestra economía y la prosperidad de nuestros ho- gares.
-    - declaration:
+    - statement:
         id: 3f49d63d-e810-4067-a190-aacada067679
         page: 73
         text: En VOX pondremos fin al infierno fiscal y burocrático que sufren los españoles bajando radicalmente todos los impuestos y recortando drásticamente el gasto político innecesario para impulsar nuestra competitividad y reforzar nuestras infraestructuras y servicios públicos.
@@ -948,7 +964,7 @@ content:
         id: 99f0fa74-9aaa-40bb-8f03-4a8655d5b506
         page: 75
         text: Los tipos únicos del IRPF del 15% y del 25% se reducirán cuatro puntos por cada hijo, de modo que una familia con cuatro hijos no tributará en el IRPF si las rentas son inferiores a 70.000 euros y pagará solo un 9% si sus rentas son superiores a 70.000 euros.
-    - declaration:
+    - statement:
         id: fde70614-74ae-49eb-be41-c7c8cabd01ac
         page: 75
         text: 'Hasta la consecución del tipo único al 15%:'
@@ -1149,37 +1165,39 @@ content:
         page: 85
         text: Vigilaremos, como no se ha hecho jamás, el impacto económico y social para la economía española y para las familias, de cualquier Reglamento, Directiva o Decisión comunitaria, antes de su aprobación, para exigir en Bruselas su no aprobación o modificación antes de aprobarse, así como antes de la ratificación de cualquier Tratado Internacional.
     - chapter: 
+        id: fb49201f-46b6-4443-abac-a63d5804e668
         title: Algunas de las acciones más destacadas de vox
         children:
-        - declaration:
+        - statement:
             id: 93a336f7-2eeb-4b83-98e6-4d2edb34000b
             page: 86
             text: Proposición de Ley y Proposición No de Ley para suprimir el Impuesto sobre Sucesiones y Donaciones (noviembre 2020).
-        - declaration:
+        - statement:
             id: 4a13ea42-80ba-4c4a-903b-3aa59ff2919a
             page: 86
             text: Proposición no de Ley para la protección de las familias y mejorar la capacidad adquisitiva de las familias a través de reducciones en el IRPF, cotizaciones sociales, reducción de impuestos asociados a la adquisición de vivienda y la supresión del Impuesto sobre Sucesiones y Donaciones; frente al actual expolio fiscal (marzo 2023).
-        - declaration:
+        - statement:
             id: 7512532f-8811-445c-814e-5c1efe04bcab
             page: 86
             text: Proposición no de Ley para establecer medidas que protejan las empresas españolas e incentiven la inversión en España como reformas para reducir el esfuerzo fiscal, promoviendo un marco fiscal y laboral de simplificación normativa y de rebaja de impuestos que incentive la contratación, acompañado de una reducción del gasto político improductivo que reduzca el déficit público (marzo 2023).
-        - declaration:
+        - statement:
             id: 7603ba0c-fc55-4ecb-be18-17185ee1b084
             page: 86
             text: Proposición no de Ley para asegurar la coherencia de los Presupuestos Generales del Estado con las necesidades reales de los españoles y el alivio de la carga fiscal de las clases medias y populares mejorando la eficiencia del gasto público, estableciendo la metodología de base cero en la elaboración de los presupuestos y sometiendo a consulta pública las políticas llevadas a cabo con impacto presupuestario que han sido tomadas a espaldas de los españoles (noviembre 2022).
-        - declaration:
+        - statement:
             id: c05f67bc-9241-4190-a734-393bf2a5feea
             page: 87
             text: Proposición no de Ley exigiendo la auditoría y racionalización del gasto de las entidades pertenecientes al sector público institucional de la Administración General del Estado para identificar duplicidades y eliminarlas (mayo 2022).
 - chapter:
+    id: d2165d9c-4ccd-4649-b6ee-393361a2d9bb
     title: Seguridad y defensa
     categories: Seguridad y defensa
     children:
-    - declaration:
+    - statement:
         id: bac98aa2-9ec8-4791-b47b-abbc80ffa08a
         page: 89
         text: El gobierno de Sánchez y las entidades supranacionales están imponiendo un modelo de puertas abiertas que ha importado inseguridad y ha provocado ruina, dinamitando el vínculo social y privando a las nuevas generaciones de una infancia como la que tuvieron sus padres. Además, Sánchez y su gobierno han abandonado a nuestros policías y guardias civiles a su suerte, no proporcionándoles los suficientes medios humanos y materiales, ni el amparo legal necesario para defender España y los derechos y libertades de los españoles.
-    - declaration:
+    - statement:
         id: f006761a-25d4-4ddf-a457-841163b790ec
         page: 89
         text: En VOX queremos Instituciones de Seguridad y Defensa al servicio de los españoles y sus familias, con unas Fuerzas Armadas profesionales y unas Fuerzas y Cuerpos de Seguridad del Estado bien dimensionadas con todos los recursos necesarios para defender nuestra soberanía y garantizar nuestra seguridad y libertad.
@@ -1274,41 +1292,43 @@ content:
             page: 95
             text: Apoyaremos todas las medidas que tengan por finalidad aumentar la protección personal y seguridad y prevención de riesgos laborales de los Vigilantes de Seguridad a fin de que puedan desarrollar su principal actividad frente a los agresores, lucharemos contra el intrusismo y la mejora de sus condiciones laborales y de jubilación.
     - chapter: 
+        id: 25bf0f0c-1738-4a66-b726-df1563c619d0
         title: Algunas de las acciones más destacadas de vox
         children:
-        - declaration:
+        - statement:
             id: c112a8fb-2755-4057-88ab-c03068c48d1b
             page: 96
             text: Proposición de Ley Orgánica relativa a la modificación del Código Penal, en relación con los delitos de atentado, resistencia y desobediencia a la autoridad (octubre 2021).
-        - declaration:
+        - statement:
             id: 86506b75-f7c9-483b-b1bb-06e7f9152603
             page: 96
             text: Proposición no de Ley relativa a medidas en apoyo del colectivo de funcionarios de prisiones (febrero 2020). 
-        - declaration:
+        - statement:
             id: d5744a48-7398-46d0-9862-a34994f708e2
             page: 96
             text: Proposición de Ley para la igualdad y equiparación salarial de las Fuerzas y Cuerpos de Seguridad del Estado y la Proposición no de Ley relativa a la adopción de medidas para la adecuación salarial del personal de las Fuerzas Armadas (marzo 2020).
-        - declaration:
+        - statement:
             id: 3f27eb46-f0d6-4f0e-87b5-7e15baf500f7
             page: 96
             text: Proposición no de Ley relativa al refuerzo de medios de las Fuerzas y Cuerpos de Seguridad del Estado destinadas al control de fronteras en las ciudades de Ceuta y Melilla (julio 2021).
-        - declaration:
+        - statement:
             id: 2e523166-b125-49b5-abcb-14360a902148
             page: 96
             text: Proposición de Ley por la que se modifica la Ley 39/2007, de 19 de noviembre, de la carrera militar, con el fin de establecer un régimen profesional único para el personal militar profesional (abril 2021).
 - chapter:
+    id: f8348ef6-75be-45f5-9b64-97ad1de424bc
     title: Inmigración e identidad nacional
     categories: [Migración]
     children:
-    - declaration:
+    - statement:
         id: 7317eda9-773d-4828-820f-0a5026624e54
         page: 99
         text: Pedro Sánchez y su gobierno han sido aliados y promotores de todas las políticas globalistas y del multiculturalismo que apuestan por la llegada desordenada de millones de inmigrantes ilegales. Las consecuencias no las han sufrido quienes han impuesto estas políticas desde sus despachos y mansiones con seguridad privada, sino las familias españolas que sufren la inseguridad y la degradación en sus barrios.
-    - declaration:
+    - statement:
         id: 1b82c524-ba9b-4772-8587-b8ee0662c48b
         page: 99
         text: Aquellos inmigrantes que han llegado legalmente a España con la intención de trabajar, integrarse y contribuir al desarrollo de la nación que les acoge son también víctimas de esos políticos, asociaciones y organizaciones internacionales que están colaborando activamente con las mafias de tráfico de seres humanos, y que se lucran gracias al buenismo devastador de las élites.
-    - declaration:
+    - statement:
         id: 9d5f1889-63b1-4527-b44b-c8e686c087da
         page: 99
         text: España debe tomar inmediatamente las medidas necesarias para que nuestras ciudades no sigan el modelo de sociedades multiculturales que se ha demostrado fracasado en en países como Bélgica, Francia o Reino Unido, y que ya están sufriendo demasiadas ciudades y pueblos españoles. La inmigración debe ser legal, controlada, adaptada a las necesidades de España y con capacidad y voluntad de adaptación.
@@ -1393,37 +1413,39 @@ content:
         page: 103
         text: Revisaremos el derecho a la nacionalidad vinculada únicamente al hecho de haber nacido en territorio nacional. La concesión de la nacionalidad debe ser fruto del esfuerzo por integrarse en nuestra nación y las personas que logren adquirirla deben poder sentirse orgullosas.
     - chapter: 
+        id: 24d7cc93-c978-4128-b790-6d8561fcef9f
         title: Algunas de las acciones más destacadas de vox
         children:
-        - declaration:
+        - statement:
             id: cdaf2004-9996-4761-93e6-1a4b26f005ee
             page: 105
             text: Proposición de Ley relativa a la modificación del régimen jurídico de la nacionalidad en la que se pretendía la necesidad de carecer de antecedentes penales, la pérdida de la nacionalidad anterior de manera fehaciente para acceder a la nacionalidad española y la pérdida de nacionalidad en caso de delitos contra la Constitución, el orden público y contra la paz o la independencia del Estado (noviembre 2021).
-        - declaration:
+        - statement:
             id: 23486ed3-e43b-4a6f-874a-8669e3544d73
             page: 105
             text: Proposición no de Ley relativa al cierre de las mezquitas que promueven el yihadismo (enero 2023).
-        - declaration:
+        - statement:
             id: c13b9e04-317a-494d-af9e-ae9f2e77b742
             page: 105
             text: Proposición no de Ley para la protección de los españoles frente al yihadismo y la creciente islamización de España para que los agentes de las FCSE tengan que contar con los medios necesarios para la lucha contra el yihadismo. Pedimos la expulsión inmediata de los inmigrantes ilegales que se encuentren en España. También que no se destine ni un solo euro a inmigrantes ilegales (enero 2023).
-        - declaration:
+        - statement:
             id: 1be8d008-f794-4eae-86a6-f612fed10244
             page: 105
             text: Proposición no de Ley relativa a la exigencia de la residencia legal en España como requisito de inscripción en el padrón municipal (agosto 2021).
 - chapter:      
+    id: 8a474e92-a922-4e8e-9aca-16ac157ca40a
     title: España verde
     categories: [Medioambiente]
     children:
-    - declaration:
+    - statement:
         id: 98ae2c5e-d29e-4d26-963d-dce2d516e9a3
         page: 107
         text: España es una nación de una belleza sin igual, compuesta por una gran diversidad de climas y paisajes y rica en recursos naturales. VOX parte del principio de que la persona es el elemento más importante del medio ambiente, por lo que es necesario hacer compatible el cuidado de nuestro patrimonio natural con el desarrollo económico y el bienestar de los españoles.
-    - declaration:
+    - statement:
         id: f5ffda89-351f-4077-8a90-1420432a441a
         page: 107
         text: En medio de una crisis energética y varios períodos de sequía, el gobierno de Sánchez ha asumido la agenda ecologista radical, yendo incluso un paso más allá que cualquier otro gobierno u organización en el mundo. El gobierno socialista ha destruido en los últimos tres años más de 300 presas y azudes, además de centrales energéticas, cuando el precio de la luz era el más alto de la historia. Del mismo modo, ha restado libertad a las familias imponiendo restricciones a la movilidad en las ciudades y ha asfixiado a nuestro campo con impuestos verdes que han encarecido costes hasta hacer inviable que nuestros agricultores y ganaderos salgan adelante.
-    - declaration:
+    - statement:
         id: e45d4329-a0a9-42cd-a5a8-3ae63ea07f11
         page: 107
         text: 'Esta indolencia hacia las necesidades de los españoles contrasta con la docilidad hacia potencias contaminantes extranjeras: Sánchez ha mirado a otro lado cada vez que países como Marruecos o China abrían nuevas centrales térmicas o disparaban sus niveles de contaminación.'
@@ -1505,41 +1527,43 @@ content:
         page: 112
         text: Las costas y playas forman parte de la riqueza natural y paisajística de España. La necesaria protección de este patrimonio ha de hacerse compatible con el desarrollo de legítimas actividades económicas. Paralizaremos la reforma de la Ley de Costas, que pone en riesgo el empleo de decenas de miles de trabajadores y sus familias. Impulsaremos las necesarias reformas para asegurar la continuidad de estas actividades y el mantenimiento del empleo.
     - chapter: 
+        id: b3e714be-81e4-4ef4-95c9-b2ff181886db
         title: Algunas de las acciones más destacadas de vox
         children:
-        - declaration:
+        - statement:
             id: a095ea90-3c4a-4320-a013-ac667e49ed7a
             page: 113
             text: PNL para la adopción de un Plan Nacional del Agua que garantice el abastecimiento de agua a todos los rincones de España mediante la interconexión de cuencas (septiembre 2022).
-        - declaration:
+        - statement:
             id: 90607cca-70d4-4a78-937f-addd0bce74a9
             page: 113
             text: PNL exigiendo la revisión del sistema europeo de derechos de emisión de gases de efecto invernadero para acabar con la especulación y reducir el precio de la energía ( junio 2021).
-        - declaration:
+        - statement:
             id: ba48bfc4-3c72-4e82-83d7-81622d694cd6
             page: 113
             text: 'Moción del Senado para evitar el derribo de Valdecaballeros: Iniciativa para dejar sin efecto la resolución del Gobierno para la demolición del embalse de Valdecaballeros y la restitución a su estado original de los terrenos en los que se sitúa (abril 2023).'
-        - declaration:
+        - statement:
             id: 794a8e03-d91c-4328-aba5-c37530a23935
             page: 113
             text: Acción coordinada en parlamentos autonómicos y municipios para establecer los controles necesarios de preservación del medio ambiente y de usos del suelo previa a la instalación de los macroproyectos de energías renovables (abril 2023).
-        - declaration:
+        - statement:
             id: 1ccefb09-9325-4cf2-8928-392c7c63864f
             page: 113
             text: Recurso de inconstitucionalidad contra la Ley para el reconocimiento de personalidad jurídica a la laguna del Mar Menor y su cuenca, una norma vacía de medidas para cuidar nuestro mar, y que criminaliza al campo levantino (enero 2023).
 - chapter:
+    id: 96823b0f-932d-41e1-a800-716933f427ff
     title: Reindustrialización y soberanía energética
     categories: [Industria, Energía]
     children:
-    - declaration:
+    - statement:
         id: d506686e-f669-4cad-8283-90ae21be72e9
         page: 115
         text: El Gobierno de Sánchez ha aplicado de espaldas a los españoles las agendas globalistas que han debilitado nuestro tejido productivo, generando una pérdida progresiva de empresas y empleo, y una reducción generalizada de salarios.
-    - declaration:
+    - statement:
         id: 8bd4fd98-d0f3-4233-86a5-79ba39b643eb
         page: 115
         text: Este proceso se ha acelerado con leyes delirantes que socavan nuestra soberanía, con demoliciones de centrales energéticas y prohibiendo la exploración y el aprovechamiento de nuestros propios recursos naturales. Mientras se asfixia nuestra industria con estricta regulación nacional y europea, importamos productos y energía de países como China y Marruecos que se benefician de la deslocalización de fábricas y centrales energéticas.
-    - declaration:
+    - statement:
         id: 395907e5-81b2-4e76-8f2d-0c3649f14267
         page: 115
         text: Los españoles deben decidir si quieren un modelo que proteja a sus empresas nacionales y fomente la soberanía energética que nos permita el acceso a fuentes de energía baratas, sostenibles, eficientes y limpias con precios asequibles para familias y empresas, o si por el contrario prefieren un modelo ajeno al interés nacional diseñado para para contentar a las élites globalistas.
@@ -1644,41 +1668,43 @@ content:
         page: 120
         text:  Los españoles deben decidir. Las decisiones políticas de los gobiernos nacionales durante las últimas décadas han socavado nuestra soberanía energética. Su sumisión a las agendas globalistas y sus compromisos alcanzados de espaldas a los españoles han dejado nuestro futuro en manos de quienes pretenden imponer ideologías y de quienes son ajenos a los intereses de España. Por eso preguntaremos a los españoles sobre el futuro modelo energético de nuestro país, en virtud del artículo 92 de la Constitución.
     - chapter: 
+        id: 07354b8b-a545-4b5c-b496-6ba6dc394d93
         title: Algunas de las acciones más destacadas de vox
         children:
-        - declaration:
+        - statement:
             id: 85430e9e-eede-4363-b4ca-32f57a029a9d
             page: 121
             text: Proposición no de ley para la inclusión del concepto de soberanía energética y reversión de la prohibición de exploración, investigación y explotación de los recursos propios, minerales y energéticos de España. La delirante Ley de Cambio Climático que nos prohíbe el aprovechamiento de los recursos naturales propios que nos permitirían garantizar nuestra soberanía energética fue aprobada con el único voto contrario de VOX (septiembre 2022).
-    - declaration:
+    - statement:
         id: e41212d2-d360-43dd-8ef4-a8ea108559b7
         page: 121
         text: PNL dirigida a reducir la dependencia energética de España a través del impulso de las diferentes industrias energéticas existentes en el país que solicitaba paralizar el desmantelamiento de las centrales energéticas, térmicas o nucleares, e impulsar el desarrollo de las infraestructuras e instalaciones necesarias de todas las fuentes de energía posibles ( julio 2022).
-    - declaration:
+    - statement:
         id: 012ac29d-4880-47c4-8c2b-2b2929f3bf9c
         page: 121
         text: PNL para la puesta en marcha de un Plan de Reindustrialización en España con el objetivo de que el sector industrial supere con amplitud el 20% de nuestro PIB y mantenga los empleos estables y de calidad ligados a la industria mediante la simplificación administrativa, ayudas del Estado, inversión en I+D+i y la Formación Profesional (febrero 2020).
-    - declaration:
+    - statement:
         id: c67a6273-6e4a-4c57-83d8-77b401da4a73
         page: 121
         text: PNL para promover la implantación y desarrollo de una industria de fabricación de semiconductores en España (octubre 2021).
-    - declaration:
+    - statement:
         id: b329a947-2e69-44e1-ad65-9142a8b524bd
         page: 122
         text: Moción sobre medidas concretas para cambiar el rumbo de sus políticas energéticas y dirigirlas así a los intereses de los españoles. La soberanía energética de España representa un objetivo fundamental que alcanzar, a pesar de que el gobierno insiste en establecer un modelo energético a espaldas de los españoles, impidiendo aprovechar todas las tecnologías y recursos disponibles (ictubre 2022).
 - chapter:
+    id: a7853898-5bb1-4a7c-8910-f570fc691c52
     title: Despolitización de la Justicia
     categories: [Justicia]
     children:
-    - declaration:
+    - statement:
         id: 0be58d9c-a02d-43f3-b347-421e95de92e3
         page: 125
         text: Pedro Sánchez ha llevado a su máxima expresión la partitocracia que desde hace décadas trata de controlar al Poder Judicial en beneficio de los viejos partidos. Durante todo su mandato, este gobierno ha tratado de conculcar la independencia de los órganos del Estado, en especial del Poder Judicial, con una obscenidad sin precedentes, llegando incluso a indultar a quienes cometieron un golpe de Estado contra la unidad de España en 2017.
-    - declaration:
+    - statement:
         id: 9b1f0a8b-7064-40c5-9665-f7992b6cd6aa
         page: 125
         text: El gobierno ha sometido a la fiscalía, ha tratado de poner a la abogacía del Estado a su servicio particular y, con la colaboración del Partido Popular, ha tratado de repartirse los puestos del Consejo General del Poder Judicial, órgano de gobierno de los jueces.
-    - declaration:
+    - statement:
         id: 3dc95901-e46e-49a1-8999-ec816ced8b2f
         page: 125
         text: España necesita una justicia libre de cualquier presión o injerencia partidista, los jueces deben elegir a los jueces. Igualmente, quedan pendientes medidas urgentes para una justicia ágil, cercana al ciudadano y con los medios y condiciones suficientes para quienes ejercen una de las más altas funciones del Estado.
@@ -1755,41 +1781,43 @@ content:
         page: 129
         text: Impulsaremos un nuevo plan penitenciario y un aumento del personal de equipamiento de los funcionarios de prisiones. Eliminaremos los privilegios penitenciarios a los presos condenados por terrorismo. Además, prohibiremos la utilización de los centros penitenciarios para el intercambio de presos peligrosos a cambio del acercamiento de presos de ETA a las cárceles vascas.
     - chapter: 
+        id: a331cc9a-dc5a-4b54-92bd-4c6a4ac68e16
         title: Algunas de las acciones más destacadas de vox
         children:
-        - declaration:
+        - statement:
             id: fc583ded-14f1-4c80-ae41-33c9a0f8dfb3
             page: 130
             text: Proposición de Ley Orgánica para modificar el sistema de elección de los vocales del Consejo General del Poder Judicial. Se propone un sistema de nombramientos del CGPJ que se ajusta a la Constitución y salvaguarda el principio de independencia judicial (noviembre 2022).
-        - declaration:
+        - statement:
             id: 948d8e53-9579-4572-995f-9cfc0586004d
             page: 130
             text: Proposición no de Ley sobre el rechazo a la politización del Tribunal Constitucional por el actual Gobierno de España. Insta al Gobierno a detener el asalto ideológico y partidista a todas las instituciones de la Nación, y a actuar para corregir tal comportamiento en orden a la concordia nacional y al respeto del orden jurídico configurado en la norma fundamental (febrero 2023).
-        - declaration:
+        - statement:
             id: 1214f841-4aab-4b82-a701-4bfc57990c28
             page: 130
             text: Proposición no de Ley para que se garantice verdaderamente el principio de independencia del Poder Judicial, dotándolo de la necesaria autonomía económica. Desde abril de 2020, VOX lleva insistiendo en la necesaria mejora de las condiciones retributivas de los profesionales de la justicia (abril 2020).
-        - declaration:
+        - statement:
             id: f7bc894b-5664-46fd-9fc2-6019c5141634
             page: 130
             text: Proposición no de Ley para pedir que se refuerce la idoneidad, la imparcialidad, la competencia profesional y la independencia del Fiscal General del Estado, incrementando y objetivando los requisitos que se deben reunir para ostentar este cargo, clave en la garantía de la eficacia judicial ( junio 2020).
-        - declaration:
+        - statement:
             id: 1e84a4c1-3b41-4eb4-b7b6-6f5262ce08d1
             page: 131
             text: Recurso de inconstitucionalidad de VOX contra la Ley Orgánica 14/2022, de 22 de diciembre, por la que se procedió a la derogación del delito de sedición y al abaratamiento del delito de malversación de caudales públicos (marzo 2023).
 - chapter:
+    id: d5ff476e-21ed-4e90-9c4b-b4adb4a8f9a7
     title: Unión Europea  
     categories: [Política internacional]
     children:
-    - declaration:
+    - statement:
         id: 04eae96e-8470-42f0-9bdc-76a4c5435b0b
         page: 133
         text: Toda la dureza que el Gobierno de Sánchez ha demostrado contra los españoles honrados y trabajadores ha desaparecido cada vez que el presidente tenía que defender los intereses nacionales en Bruselas. Algunos ejemplos son su incapacidad de defender los intereses de nuestro sector primario e industria, el constante chantaje de Marruecos o el acceso a la condición de eurodiputados de separatistas prófugos de la justicia y su no extradición a España.
-    - declaration:
+    - statement:
         id: 7d29d044-2acc-49a6-a75f-400529b32a3c
         page: 133
         text: Las instituciones de la Unión Europea han tomado una derivada de disolución de la soberanía de los Estados miembros y de sumisión a los lobbies ecologistas e ideológicos radicales. Como consecuencia, una UE que debería estar al servicio de las naciones europeas y de sus ciudadanos, está constantemente excediendo sus competencias y tratando de legislar y sentenciar sobre asuntos de estricto carácter nacional, guiada por intereses ajenos a los de los europeos de a pie.
-    - declaration:
+    - statement:
         id: 8c6b1dea-a057-41e2-a1ad-e8d8c9b952e3
         page: 133
         text: España necesita un Gobierno fuerte que sea respetado entre sus socios europeos y lidere otra visión de Europa. Reivindicamos una Europa de naciones libres y soberanas que cooperen libremente entre ellas a través de las instituciones de una Unión Europea al servicio de la prosperidad y cooperación de los Estados miembros.
@@ -1866,37 +1894,39 @@ content:
         page: 137
         text: Impulsaremos desde el Consejo de la Unión Europea la suspensión inmediata y revisión de todo el Pacto Verde Europeo, eliminando cuanto perjudica a nuestros productores y economía.
     - chapter: 
+        id: 06f60321-d51f-4fe2-ab07-79be1c0a9b4e
         title: Algunas de las acciones más destacadas de vox
         children:
-        - declaration:
+        - statement:
             id: 10f75f5c-441f-4d65-b3ea-d566b3859eec
             page: 138
             text: Proposición no de Ley relativa a instar la adopción de medidas destinadas a aumentar la ciberseguridad de las redes e instituciones públicas de los Estados miembros frente a posibles ataques cibernéticos efectuados por parte de potencias o actores extranjeros (abril 2021).
-        - declaration:
+        - statement:
             id: a8b34754-b9cf-46aa-99da-5da363c32a00
             page: 138
             text: Proposición no de Ley por la que se insta al Gobierno a solicitar la suspensión inmediata del Acuerdo Agrícola entre Marruecos y la Unión Europea por su enorme perjuicio económico a la producción agroalimentaria española ( junio 2021).
-        - declaration:
+        - statement:
             id: 53d84906-7840-4670-a4dc-2ea2986ac0f6
             page: 138
             text: Proposición no de Ley relativa al desarrollo urgente de proyectos de conexión gasista de España con el resto de Europa, con el objeto de fortalecer la posición nacional como exportador de gas, reforzando asimismo la seguridad de suministro de España y de Europa (mayo 2022).
-        - declaration:
+        - statement:
             id: 57cf7558-cf6f-4173-8125-f72ad613e113
             page: 138
             text: Proposición no de Ley por la que se insta al Gobierno a que inicie un proceso de negociación bilateral con el Reino Unido al objeto de recuperar la soberanía española sobre el Peñón de Gibraltar (enero 2021).
-        - declaration:
+        - statement:
             id: c476c16d-2176-4432-9c84-a71606f4b3e3
             page: 138
             text: Desde el Gobierno de Castilla y León, VOX exigió en mayo de 2023 a la responsable de Sanidad Animal de la Comisión Europea flexibilizar el reglamento comunitario de saneamiento animal. En este sentido, Juan García-Gallardo presentó en Bruselas un paquete de medidas para flexibilizar los controles veterinarios sin comprometer las garantías sanitarias. Unas propuestas con las que se busca conseguir el aval comunitario ante las reivindicaciones más acuciantes del sector ganadero.
 - chapter:
+    id: 5732e731-e59a-4bf7-9c33-280819845d40
     title: Iberosfera
     categories: [Política internacional]
     children:
-    - declaration:
+    - statement:
         id: 64423416-074f-4324-89db-954f4f453a69
         page: 141
         text: Pedro Sánchez se ha mostrado complaciente con el retroceso de derechos y libertades en la Iberosfera. El avance de la agenda liberticida de la extrema izquierda encabezada por el Foro de Sao Paulo y el Grupo de Puebla, con los cuales se alinea el PSOE, socava las libertades civiles, erosiona la institucionalidad democrática y pone en jaque al Estado de Derecho. También promueve un indigenismo que falsea la Historia y vierte todo su rencor contra nuestra Patria.
-    - declaration:
+    - statement:
         id: 083ba015-2961-412c-9afc-1b6d3205fd9e
         page: 141
         text: España no puede renunciar a ser el epicentro de esta comunidad fraterna de naciones libres y soberanas que conforman la Iberosfera. Nada de lo que ocurra en sus países integrantes puede ser distante o extraño para España. Necesitamos un giro en la política exterior española que haga frente a este avance totalitario de la extrema izquierda y que lidere una respuesta internacional contundente.
@@ -1945,41 +1975,43 @@ content:
         page: 144
         text: Combatiremos los intentos de borrado del legado español en América. Los españoles no tenemos que pedir perdón por nuestro pasado. Impulsaremos iniciativas culturales y educativas, tanto dentro como fuera de nuestras fronteras, destinadas a combatir la “leyenda negra” y a dar a conocer la labor civilizadora de España en América. También se prestará especial atención a la preservación del legado español en Guinea Ecuatorial y Filipinas.
     - chapter: 
+        id: b02c7ae9-7dac-4eaa-9314-57d155a1078e
         title: Algunas de las acciones más destacadas de vox
         children:
-        - declaration:
+        - statement:
             id: e52e0351-883b-4a80-bfa7-3d9b02f55400
             page: 145
             text: Proposición no de Ley relativa a la condena de la ideología que representan el Foro de Sao Paulo y el Grupo de Puebla con ocasión de la visita a España de Gustavo Petro (mayo 2023).
-        - declaration:
+        - statement:
             id: 359f52c9-b007-4a8f-9010-12eae9351acf
             page: 145
             text: Proposición no de Ley relativa a condenar y denunciar la represión de las históricas protestas pacíficas del 11 de julio de 2021, la limitación de la libertad de expresión y la vulneración sistemática de los derechos humanos por parte del régimen comunista de Cuba (septiembre 2022).
-        - declaration:
+        - statement:
             id: 888caf81-0172-4576-9de8-5b5419b647c2
             page: 145
             text: Proposición no de Ley por la que se insta al Gobierno a promover la persecución de los crímenes de lesa humanidad cometidos por el régimen de Nicolás Maduro en Venezuela (septiembre 2021).
-        - declaration:
+        - statement:
             id: c4436f46-4ca1-40f7-9421-851bffebc0a1
             page: 145
             text: Proposición no de Ley relativa a exigir la liberación de los líderes opositores detenidos por el régimen sandinista de Nicaragua ( junio 2021).
-        - declaration:
+        - statement:
             id: 61fe704e-c751-47b1-9589-e71eaa5d4125
             page: 145
             text: Proposición no de Ley relativa a reconocer y promocionar el legado español en Iberoamérica (septiembre 2020).
 - chapter:
+    id: 5424254d-f35f-472e-b45f-7c57cb8123c8
     title: España rural
     categories: [Territorio rural]
     children:
-    - declaration:
+    - statement:
         id: 5ecc10cc-5336-477b-bd02-d7b28d4dc934
         page: 147
         text: No es casualidad que la España rural se esté convirtiendo en la España vaciada. Las políticas de Pedro Sánchez han ido encaminadas a demonizar el campo y su modo de vida. Sánchez ha utilizado el cambio climático como excusa para imponer unas trabas e impuestos verdes cada vez más duros al sector primario que lastran su actividad.
-    - declaration:
+    - statement:
         id: 31818488-faed-4383-97e4-7453d98a72bb
         page: 147
         text: Como consecuencia, a este sector, que nos da de comer y es origen de productos que son verdaderos emblemas nacionales, se le condena a la desaparición, las zonas rurales quedan abandonadas y España se ve, por un lado, abocada a la pérdida de su soberanía alimentaria y, por otro, condenada a la dependencia de terceros países para poder llenar nuestras despensas.
-    - declaration:
+    - statement:
         id: c16251e6-f398-4b3b-bc45-abd26fa83d20
         page: 147
         text: Hay que desterrar las políticas de Sánchez, abiertamente contrarias a nuestro campo, y proteger la España rural, sus habitantes, sus tradiciones, su estilo de vida y su economía.
@@ -2069,38 +2101,40 @@ content:
         page: 151
         text: Fortaleceremos el turismo rural.
     - chapter: 
+        id: a96bcd96-42a3-44fb-b7fb-d86c59c23d69
         title: Algunas de las acciones más destacadas de vox
         children:
-        - declaration:
+        - statement:
             id: 72740b80-24c3-4da6-b813-f4566f65d4ea
             page: 152
             text: PNL para la puesta en marcha de un Plan Nacional del Lobo que permita el control poblacional a través de la actividad cinegética para favorecer la ganadería y facilitar la vida de la población rural (mayo 2023).
-        - declaration:
+        - statement:
             id: 709e8f30-35fe-4b09-b54a-e47e7a8708c4
             page: 152
             text: PNL sobre eliminación de las desigualdades sociales que genera la despoblación de la España rural mediante oportunidades a los jóvenes en la España vaciada, fomento de la natalidad y apoyo decidido a las familias (marzo 2022).
-        - declaration:
+        - statement:
             id: c87a83ab-4bfe-4cc1-af08-98598fca7631
             page: 152
             text: PNL por la que se solicitan medidas de apoyo del sector cinegético en España (enero 2020).
-        - declaration:
+        - statement:
             id: 2f2e795e-3275-4f7a-9cee-4fd450abade3
             page: 152
             text: PNL de creación de un plan de promoción de la España rural como destino para el teletrabajo (septiembre 2021).
 - chapter:
+    id: eb17c61b-9cf0-4c89-acae-f0811981ce18
     title: Libertad de expresión
     categories: Derechos y servicios sociales
     topics: Libertad de expresión
     children:
-    - declaration:
+    - statement:
         id: 2b55eaf9-4e9b-40f1-8071-00b18e6cc993
         page: 155
         text: Pedro Sánchez ha ido consolidando una deriva autoritaria en su gobierno, especialmente a través de los estados de alarma inconstitucionales, pretendiendo controlar la información que reciben los españoles y las opiniones que expresan bajo el pretexto de “combatir los bulos”.
-    - declaration:
+    - statement:
         id: b0cab76a-767a-43cd-a75f-f4bceaba72f5
         page: 155
         text: En paralelo, el imparable desarrollo de las nuevas tecnologías ha tenido, entre otras consecuencias, el aumento de poder de empresas digitales, convertidas en auténticos gigantes que ejercen una presión nunca vista sobre los gobiernos nacionales, que tienen acceso a los datos más íntimos de los ciudadanos que utilizan en su propio beneficio, y que imponen la cultura de la cancelación que castiga a los que no siguen el consenso progre.
-    - declaration:
+    - statement:
         id: 0ad046ed-8c27-4b82-8de3-db38847570e6
         page: 155
         text: Sánchez, en lugar de proteger la libertad de expresión y los datos de los españoles, se pliega a los dictados de quienes promueven este totalitarismo global.
@@ -2157,37 +2191,39 @@ content:
         page: 158
         text: Aprobación de una Ley de Concordia que fomente el encuentro y la reconciliación y cuyo fin sea superar las divisiones y hostilidades entre españoles mediante la cooperación y la integración en este proyecto común de España.
     - chapter: 
+        id: bae32676-62e3-41fe-ad2f-7c223077ef62
         title: Algunas de las acciones más destacadas de vox
         children:
-        - declaration:
+        - statement:
             id: 9ed8952a-6c1a-4510-bfe1-b840c416b3fc
             page: 159
             text: PNL sobre la financiación pública de los medios de comunicación privados que denuncia las grandes cantidades de dinero que los medios de comunicación reciben del Estado a través de la publicidad y comunicación institucional, generando una falta de independencia periodística y una vulneración de los derechos a la libertad ideológica y de expresión (abril 2020).
-        - declaration:
+        - statement:
             id: cbcb98c6-fe91-4091-b703-fcf44e3c719a
             page: 159
             text: PNL para la derogación de la Ley de Memoria Histórica, ley que supone un ataque directo a la libertad individual, señalando buenos y malos en la historia de España y obligando a todos los españoles a comulgar con esa interpretación (enero 2020).
-        - declaration:
+        - statement:
             id: 0a3ceaba-b76b-4022-8093-4015d27c94f9
             page: 149
             text: Enmienda a la reforma del Código Penal que castiga el acoso a las mujeres que acuden a clínicas abortivas porque se vale del pretexto de un presunto acoso infligido en la puerta de las clínicas abortivas para restringir el derecho fundamental de reunión y las libertades fundamentales ideológica y de expresión (diciembre 2021).
-        - declaration:
+        - statement:
             id: f83d61da-52ab-4b37-81c0-036a25b41338
             page: 159
             text: PNL para el impulso de una mayor protección en el tratamiento de los datos personales de carácter financiero de los españoles para asegurar que las entidades financieras no utilicen datos personales de sus clientes para llevar a cabo acciones de carácter político o de adoctrinamiento ideológico o social (septiembre 2022).
 - chapter:
+    id: 1396ba16-84f5-4ba6-9717-58d5e5cedee0
     title: Perspectiva de familia
     categories: [Familia]
     children:
-    - declaration:
+    - statement:
         id: 0a785f49-07f4-43a3-86d7-37231fbb734e
         page: 161
         text: La familia es la institución básica de nuestra sociedad, anterior al estado, una comunidad de amor y libertad básica para el desarrollo de las personas. Por esta razón, el globalismo y las ideologías radicales han fijado como objetivo la destrucción de la familia, uno de sus grandes obstáculos para lograr el control social y económico de los individuos.
-    - declaration:
+    - statement:
         id: 2a3864f0-ce96-4a27-8753-70d414681cc9
         page: 161
         text: El Gobierno de Sánchez ha seguido esta senda de ataque a las familias españolas desprotegiéndolas económica y socialmente. Sus políticas de ruina han llevado al límite a miles de familias que se han visto asfixiadas a impuestos, arrastradas por el aumento del coste de la vida y maltratadas por los bajos salarios. Además, sus leyes divisivas y de desnaturalización de la familia han alentado el enfrentamiento entre hombres y mujeres, matrimonios, padres e hijos, etc.
-    - declaration:
+    - statement:
         id: 4cc1ffaa-7a37-4e82-8deb-99448183d95a
         page: 161
         text: Una nación fuerte está formada por familias fuertes. Por eso, VOX tendrá como prioridad la defensa de la familia en su acción política entodos los ámbitos.
@@ -2256,37 +2292,39 @@ content:
         page: 165
         text: Estableceremos un marco jurídico que impida que personas que actúan en legítima defensa para proteger su hogar y a su familia tengan que sufrir un infierno judicial hasta demostrar su inocencia.
     - chapter: 
+        id: 080f36b6-6257-48d3-91d8-72102e35357e
         title: Algunas de las acciones más destacadas de vox
         children:
-        - declaration:
+        - statement:
             id: a5dbc238-6f3f-49e6-95ce-4d4f75f63775
             page: 166
             text: Proposición no de Ley relativa al establecimiento del tipo superreducido del 4% del Impuesto sobre el Valor Añadido sobre determinados productos infantiles y geriátricos (marzo 2020).
-        - declaration:
+        - statement:
             id: 06cb7a01-4c33-408b-b463-3df8e406e02a
             page: 166
             text: Proposición de Ley para la incorporación de la perspectiva de familia a cualquier norma procedente del Gobierno (noviembre 2022).
-        - declaration:
+        - statement:
             id: a78b71fd-99ca-49a4-8303-c5e6f6bdd70d
             page: 166
             text: Proposición no de Ley relativa a la valoración social y a la protección de la libre dedicación al cuidado en el hogar de menores y personas con discapacidad o en situación de dependencia. Se insta a los poderes públicos a reconocer la labor social que realizan quienes se dedican a estas tareas de cuidado y, para ello, reducen su jornada laboral o renuncian a ella por un tiempo (septiembre 2021).
-        - declaration:
+        - statement:
             id: 9a3e11db-a27a-47de-8e0f-d990b5a5bd02
             page: 166
             text: Proposición no de Ley relativa al fomento de la guarda y custodia compartida, como mejor forma de proteger el interés del menor, al ser el sistema que más promueve la implicación activa del padre y de la madre en la vida del menor, y facilita la relación de este con la familia extensa de ambos progenitores ( julio 2022).
-        - declaration:
+        - statement:
             id: 750414c0-f345-43de-bda8-1838d3e3d430
             page: 166
             text: Proposición no de Ley relativa a la promoción de ayudas para mujeres embarazadas destinadas al fomento de la natalidad y protección del no nacido (febrero 2022).
 - chapter:
+    id: 5f57ba4e-d577-41a4-b2d9-7ff1612f735d
     title: Dignidad humana
     categories: Derechos y servicios sociales
     children:
-    - declaration:
+    - statement:
         id: 8a4d3de2-6d2b-446a-bd97-946714a01ca8
         page: 169
         text: El Gobierno de Pedro Sánchez ha impulsado en los últimos años la cultura de la muerte, atacando la vida y la dignidad de la persona con leyes nocivas, que perjudican precisamente a quienes dicen defender (aborto, eutanasia, mercantilización del cuerpo...). Este Gobierno destina treinta y cinco millones de euros al aborto mientras que dedica menos de tres a ayudas sociales.
-    - declaration:
+    - statement:
         id: a631aa39-760e-4ad3-97d7-4ab270ef2478
         page: 169
         text: VOX reconstruirá todo lo que este Gobierno ha destruido, comenzando por la derogación inmediata de las leyes que atentan contra el derecho a la vida, valor esencial que no se decide por consenso, y por el apoyo decidido y sin reservas a las mujeres, a la maternidad y paternidad y a la familia. El papel del Estado debe ser velar por la protección de toda vida humana y, especialmente, la de los más vulnerables. La acción política debe tener como razón última el bien común y estar inspirada en el respeto a la persona.
@@ -2398,21 +2436,22 @@ content:
         page: 174
         text: Ley de memoria, dignidad y justicia para las víctimas del terrorismo. Esta nueva norma impedirá de forma efectiva los homenajes a los terroristas, como medida de justicia y de pedagogía para que las nuevas generaciones desechen el recurso a la violencia como arma política.
     - chapter: 
+        id: c208ef1c-97fc-4757-9df3-ce1b7508a041
         title: Algunas de las acciones más destacadas de vox
         children:
-        - declaration:
+        - statement:
             id: 897f5ff7-a66e-40e3-abda-216511bfebd7
             page: 176
             text: Recurso de inconstitucionalidad contra la Ley Orgánica 1/2023, de 28 de febrero, por la que se modifica la Ley Orgánica 2/2010, de 3 de marzo, de salud sexual y reproductiva y de la interrupción voluntaria del embarazo, por vulneración de numerosos preceptos de la Constitución Española. Enmienda a la totalidad de Proyecto de Ley Orgánica por la que se modifica la Ley del aborto, y que mantiene básicamente su contenido, pero además lo flexibiliza al eliminar el plazo de reflexión y menguar las alternativas de la mujer, al permitir el aborto en menores de 16 y 17 años sin necesidad de consentimiento paterno ( septiembre 2022).
-        - declaration:
+        - statement:
             id: 9179f38b-4a75-4f9e-b6de-dd04523df099
             page: 176
             text: Proposición no de Ley para pedir la eliminación de la discapacidad como causa legal de interrupción voluntaria del embarazo y la creación de un protocolo sistemático de atención a las familias que van a tener un hijo con discapacidad (marzo 2021).
-        - declaration:
+        - statement:
             id: 5dc426e0-6b1c-41cb-9c9d-3013e5aead2d
             page: 176
             text: Proposición no de Ley para la prevención del suicidio. Pedimos que se elabore un informe sobre el suicidio para ahondar en sus causas, que se creen campañas de información para dar a conocer esta realidad y que el servicio de emergencias del 112 garantice una atención especializada del suicidio a nivel nacional (septiembre 2021).
-        - declaration:
+        - statement:
             id: ee285b9c-f32d-47a7-a45c-a6ef5ec10086
             page: 176
             text: Proposición no de Ley relativa al fomento de la vida y a la garantía del consentimiento informado como alternativa a la práctica del aborto. En tanto no se produzca la derogación de la ley del aborto, con el fin de proteger la vida, instamos a la mejora de la información que se proporciona a las mujeres embarazadas (febrero 2023).

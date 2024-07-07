@@ -1,6 +1,6 @@
 id: b86891e7-0858-4499-be40-7e7ea3adcd73
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 14
+parent_chapter: 25c761ac-89ea-4a48-aa96-21ab2cc69c63
+children_promises:
+- d9603c61-93e6-47e1-8347-e12fa7b1f0c3
+- ab5daa40-5612-43ca-ba6e-83a81e3c03b9
+children_statements: []
+title: Optimizar la eficiencia económica y medios sanitarios
 categories:
 - Sanidad
-title: Optimizar la eficiencia económica y medios sanitarios
-has_children: true

@@ -1,6 +1,6 @@
 id: c64db8b9-2de9-4730-83af-233f8be0da32
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,7 +8,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 16
-categories: Economía
-topics: Desarrollo sostenible
+parent_chapter: 48b6e85e-eb0a-40f5-9aa9-d85750a8402d
 title: CREAREMOS NUEVAS VÍAS PARA ATRAER INVESTIGADORES DE PRIMERA LÍNEA A NUESTRAS UNIVERSIDADES Y TRANSFERIR CONOCIMIENTO A LA SOCIEDAD.
 text: Desarrollaremos un nuevo programa que facilite la incorporación de personal docente e investigador de excelencia, mediante la convalidación automática de títulos y experiencias, la introducción de declaraciones juradas por parte de los candidatos, y una evaluación basada en estrictos indicadores de la calidad investigadora.
+categories: Economía
+topics: Desarrollo sostenible

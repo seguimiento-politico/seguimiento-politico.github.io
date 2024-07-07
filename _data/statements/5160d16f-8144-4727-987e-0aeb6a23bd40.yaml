@@ -1,6 +1,6 @@
 id: 5160d16f-8144-4727-987e-0aeb6a23bd40
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 118
+parent_chapter: b82b7f57-da6b-4fd4-8a55-f1773ebd9608
+children_promises:
+- 9084f7c2-39af-45d2-80d9-ea92e933b90b
+children_statements:
+- 59111986-9375-4a52-b7ab-bffcdcaf5030
+title: ' Un discurso, un plan, una política'
 categories: Democracia
 topics: Administración pública
-title: ' Un discurso, un plan, una política'
-has_children: true

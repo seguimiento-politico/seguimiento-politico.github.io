@@ -1,6 +1,6 @@
 id: aa1e2850-fffe-4c03-b0f2-b9dce9a9634b
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,8 +8,9 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_chapter: 8d16346d-a750-4f6d-b795-8e8d41f77c1d
+text: Queremos seguir avanzando en reforzar su bienestar, reparar el daño y garantizar igualdad de oportunidades. Las ayudas y recursos están establecidas hasta la mayoría de edad, pero a los 18 años no se tiene, en la mayor parte de los casos, una vida independiente con unos ingresos autónomos.
 categories: Derechos y servicios sociales
 topics:
 - Infancia
 - Orfandad
-text: Queremos seguir avanzando en reforzar su bienestar, reparar el daño y garantizar igualdad de oportunidades. Las ayudas y recursos están establecidas hasta la mayoría de edad, pero a los 18 años no se tiene, en la mayor parte de los casos, una vida independiente con unos ingresos autónomos.

@@ -1,6 +1,6 @@
 id: d75254e9-e6a8-45a8-bb88-ce725b8f0144
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 74
-categories: Impuestos y financiación pública
+parent_chapter: ec3e397c-bf4a-4692-a06e-58f507cee1f8
 text: 'IRPF: para implementar la perspectiva de familia, fortaleceremos la economía de las familias y protegeremos su capacidad de ahorro e inversión procediendo a la simplificación progresiva y continuada del IRPF a un tipo único reducido del 15% a aplicar sobre bases imponibles inferiores a 70.000 euros y un tipo ordinario del 25% a aplicar a bases imponibles superiores a dicha cantidad, aplicando la exención de 22.000€ anuales de rentas del trabajo con independencia de tener uno o dos pagadores.'
+categories: Impuestos y financiación pública

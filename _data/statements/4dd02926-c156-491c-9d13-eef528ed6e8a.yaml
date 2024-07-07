@@ -1,6 +1,6 @@
 id: 4dd02926-c156-491c-9d13-eef528ed6e8a
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 25
-categories: Educación
+parent_chapter: 1b166bbb-40b5-49ba-a4c8-75dad7a80fff
 text: Prestaremos una especial atención al profesorado y a su carrera docente, reforzaremos la formación inicial y la formación continua, el sistema de acceso a la carrera, y promoveremos la evaluación del desempeño docente de manera acordada con los representantes del sector.
+categories: Educación

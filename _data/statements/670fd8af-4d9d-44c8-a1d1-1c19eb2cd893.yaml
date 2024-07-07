@@ -1,6 +1,6 @@
 id: 670fd8af-4d9d-44c8-a1d1-1c19eb2cd893
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 249
+parent_chapter: 78357eae-f064-4648-9cf1-b5e149ae3feb
+text: Impulsaremos la regulación normativa del uso y aplicación de la IA centrada en la seguridad y los derechos fundamentales.
 categories: Justicia
 topics: Eficiencia
-text: Impulsaremos la regulación normativa del uso y aplicación de la IA centrada en la seguridad y los derechos fundamentales.

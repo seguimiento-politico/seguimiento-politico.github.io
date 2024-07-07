@@ -1,0 +1,25 @@
+id: 01a321ef-9cca-4253-879f-aa7002a19189
+type: promise
+parent_document: a613c4b6-f9dc-4926-8b9a-b87c233e5a75
+parties:
+- VOX
+election_type: europeas
+election_date: '2024-06-09'
+publication_date: '2024-05-30'
+page: 20
+text: Derogar el Pacto Verde Europeo y todas sus normas anejas, así como la orientación de todas las políticas europeas a la consecución de la Agenda 2030 y los nefastos Objetivos de Desarrollo Sostenible (ODS).
+categories:
+- Medioambiente
+topics:
+- name: ODS
+  position_negative: null
+  proposed_actions:
+  - Derogar la orientación de todas las políticas europeas hacia la consecución de los Objetivos de Desarrollo Sostenible
+- name: Agenda 2030
+  position_negative: null
+  proposed_actions:
+  - text: Derogar la orientación de todas las políticas europeas hacia la consecución de la Agenda 2030
+- name: Pacto verde europeo
+  position_negative: null
+  proposed_actions:
+  - text: Derogar el Pacto Verde Europeo y todas sus normas anejas

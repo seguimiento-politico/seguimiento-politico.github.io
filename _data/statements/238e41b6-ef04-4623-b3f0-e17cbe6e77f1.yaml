@@ -1,6 +1,6 @@
 id: 238e41b6-ef04-4623-b3f0-e17cbe6e77f1
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 71
+parent_chapter: 4a4ec318-0db9-4da1-9515-2b36e808a75f
+children_promises:
+- 8f69e96b-b6ae-476b-993d-cc05420bdbaa
+- 606351ba-f2f7-4a6a-bd5a-bfd317806da6
+- 356b689d-f4ad-4627-90ad-af7afc82715d
+children_statements:
+- d71e34b3-af7c-47b6-aa12-0de56793df9d
+title: Transversalización de la perspectiva de sistemas alimentarios sostenibles y saludables en las políticas de la escala estatal
 categories: Consumo
 topics: Alimentación saludable
-title: Transversalización de la perspectiva de sistemas alimentarios sostenibles y saludables en las políticas de la escala estatal
-has_children: true

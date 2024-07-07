@@ -1,6 +1,6 @@
 id: 74f62ff6-b435-4c4b-ba01-8b3cdd8878e4
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 132
+parent_chapter: d66ec3c3-1d2d-4a93-ac68-4f943f3e1dea
+text: Trabajaremos por mejorar la visibilidad del deporte juvenil femenino y la oferta en el ámbito extraescolar y municipal para las niñas
 categories: Derechos y servicios sociales
 topics: Igualdad
-text: Trabajaremos por mejorar la visibilidad del deporte juvenil femenino y la oferta en el ámbito extraescolar y municipal para las niñas

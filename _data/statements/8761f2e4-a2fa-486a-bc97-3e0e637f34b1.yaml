@@ -1,6 +1,6 @@
 id: 8761f2e4-a2fa-486a-bc97-3e0e637f34b1
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 39
-categories: Agua
+parent_chapter: 27c2e026-31b3-4fe9-873a-317121ffbe6c
 title: FOMENTAREMOS EL DESARROLLO DEL HIDRÓGENO VERDE COMO VECTOR ENERGÉTICO Y DE ALMACENAMIENTO.
 text: Utilizaremos nuestra ventaja competitiva en energías renovables para la producción de hidrógeno verde que fomente la reindustrialización española.
+categories: Agua

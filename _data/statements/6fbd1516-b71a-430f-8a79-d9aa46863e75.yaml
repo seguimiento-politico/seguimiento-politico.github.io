@@ -1,7 +1,6 @@
 id: 6fbd1516-b71a-430f-8a79-d9aa46863e75
 type: promise
-parent_statement: 06ee3772-ef75-47e4-b1e5-84609a110918
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 06ee3772-ef75-47e4-b1e5-84609a110918
+parent_chapter: 999e9dab-efca-4092-a144-a19ca4ee5302
+text: Derecho a la igualdad, la inclusión y la vida independiente. Nuestro compromiso es retomar de inmediato el proceso de reforma del artículo 49 de la Constitución española, ya iniciado por el Gobierno de España y por el Congreso de los Diputados (con el apoyo mayoritario de los grupos políticos) en 2018, pero sucesivamente frustrado por dos disoluciones anticipadas de las Cortes Generales. Hay que garantizar la igualdad y la inclusión como derecho fundamental siguiendo el enfoque, los contenidos y la terminología de la Convención Internacional de Naciones Unidas de 2006.
 categories: Derecuos y servicios sosciales
 topics: Discapacidad
-text: Derecho a la igualdad, la inclusión y la vida independiente. Nuestro compromiso es retomar de inmediato el proceso de reforma del artículo 49 de la Constitución española, ya iniciado por el Gobierno de España y por el Congreso de los Diputados (con el apoyo mayoritario de los grupos políticos) en 2018, pero sucesivamente frustrado por dos disoluciones anticipadas de las Cortes Generales. Hay que garantizar la igualdad y la inclusión como derecho fundamental siguiendo el enfoque, los contenidos y la terminología de la Convención Internacional de Naciones Unidas de 2006.

@@ -1,6 +1,6 @@
 id: d1049d7f-6306-4cae-8ec9-f3bc53543714
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 4
+parent_chapter: 0aeec4ec-9240-4040-ba6b-c7f21bee3fb4
+children_promises:
+- f9900fa0-f6de-43ab-a5e7-1e496a6dfc34
+children_statements: []
+title: Control de los cargos públicos
 categories:
 - Democracia
-title: Control de los cargos públicos
-has_children: true

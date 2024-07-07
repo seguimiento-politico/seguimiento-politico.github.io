@@ -1,7 +1,6 @@
 id: d5a53c6b-08d1-4c89-bf0c-4d5d0f778c6b
 type: promise
-parent_statement: 97cd6de2-90f1-4684-b646-78ac2f2edbd5
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
+parent_statement: 97cd6de2-90f1-4684-b646-78ac2f2edbd5
+parent_chapter: 06fd7e51-b8d5-491c-895a-9be06be8bef5
+text: Revisión de los tipos penales (y endurecimiento de sus penas) para combatir a las mafias de la inmigración ilegal, así como para quienes colaboren con ellas, ya sean ONGs, empresas o particulares.
 categories:
 - Migración
-text: Revisión de los tipos penales (y endurecimiento de sus penas) para combatir a las mafias de la inmigración ilegal, así como para quienes colaboren con ellas, ya sean ONGs, empresas o particulares.

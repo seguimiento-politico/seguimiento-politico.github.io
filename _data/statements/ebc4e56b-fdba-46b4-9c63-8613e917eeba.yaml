@@ -1,7 +1,6 @@
 id: ebc4e56b-fdba-46b4-9c63-8613e917eeba
 type: promise
-parent_statement: da5095ad-5ec9-44ef-bd2c-aefee0d0102d
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Trabajo
+parent_statement: da5095ad-5ec9-44ef-bd2c-aefee0d0102d
+parent_chapter: b3962e05-bd69-4c4c-a4f4-32760cf9c456
 text: Pondremos fin a la precariedad en el contrato a tiempo parcial. En los casos de jornada ordi naria marginal, la remuneración de la persona trabajadora será, al menos, un 10% superior a la que proporcionalmente le correspondería por tal jornada. Por otra parte, debe consolidarse la jornada realmente realizada, de tal forma que, salvo en caso de negativa expresa por parte de la persona trabajadora, esta tendrá derecho a consolidar como jornada ordinaria un porcentaje de las horas complementarias realizadas el año natural anterior.
+categories: Trabajo

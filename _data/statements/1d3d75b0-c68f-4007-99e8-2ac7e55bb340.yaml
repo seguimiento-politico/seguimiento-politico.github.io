@@ -1,6 +1,6 @@
 id: 1d3d75b0-c68f-4007-99e8-2ac7e55bb340
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 33
-categories: Trabajo
+parent_chapter: 8334330f-156c-4154-9c8c-27f20def2bb6
+children_promises:
+- 9259c4ce-976a-4a46-9b93-bf15610e3153
+children_statements: []
 title: Impulsaremos una adecuada regulación y supervisión del acceso de menores a las redes sociales para garantizar su protección.
-has_children: true
+categories: Trabajo

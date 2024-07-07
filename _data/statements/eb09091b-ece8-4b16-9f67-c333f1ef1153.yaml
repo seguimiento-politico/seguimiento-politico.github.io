@@ -1,7 +1,6 @@
 id: eb09091b-ece8-4b16-9f67-c333f1ef1153
 type: promise
-parent_statement: 13376ebb-bccf-4086-b126-12489b5cd6d4
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 13376ebb-bccf-4086-b126-12489b5cd6d4
+parent_chapter: 15d90699-c4aa-4c34-a1ae-8df09f3036ef
+text: Asegurar el protagonismo en las aulas y la difusión en la sociedad de una formación y unos saberes apoyados en los valores de la democratización y de la igualdad social y de género, de la transición social y ecológica justa y de la ciencia abierta y ciudadana.
 categories: Educación
 topics: Universidad
-text: Asegurar el protagonismo en las aulas y la difusión en la sociedad de una formación y unos saberes apoyados en los valores de la democratización y de la igualdad social y de género, de la transición social y ecológica justa y de la ciencia abierta y ciudadana.

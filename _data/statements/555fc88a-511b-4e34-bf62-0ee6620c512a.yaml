@@ -1,7 +1,6 @@
 id: 555fc88a-511b-4e34-bf62-0ee6620c512a
 type: promise
-parent_statement: 8304b288-1387-4ed8-a26c-55af0d0b27ec
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 8304b288-1387-4ed8-a26c-55af0d0b27ec
+parent_chapter: b36e5d9e-ba98-45f0-8911-a0a18af0be33
+text: Atención temprana. Se ha de reconocer y garantizar el derecho de todos los niños y las niñas a la atención temprana como un derecho subjetivo, universal, público y gratuito, incorporándose a la cartera básica común de servicios del Sistema Nacional de Salud y aprobando una ley de atención al desarrollo que lo reconozca y lo garantice.
 categories: Familia
 topics: Incentivos, ayudas y subvenciones
-text: Atención temprana. Se ha de reconocer y garantizar el derecho de todos los niños y las niñas a la atención temprana como un derecho subjetivo, universal, público y gratuito, incorporándose a la cartera básica común de servicios del Sistema Nacional de Salud y aprobando una ley de atención al desarrollo que lo reconozca y lo garantice.

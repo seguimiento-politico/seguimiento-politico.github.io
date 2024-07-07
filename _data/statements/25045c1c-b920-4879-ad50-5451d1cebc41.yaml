@@ -1,6 +1,6 @@
 id: 25045c1c-b920-4879-ad50-5451d1cebc41
-type: declaration
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+type: statement
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 39
+parent_chapter: 4e2b1d48-8b93-4e01-9b1d-fc397d079fd0
+text: Las sociedades occidentales están amenazadas por un totalitarismo global promocionado por grandes fortunas, el consenso progre de las élites; y apoyado por las fuerzas de choque de la extrema izquierda. El resultado es la indefensión de los españoles y sus familias ante el rodillo de una agenda totalitaria que amenaza gravemente las libertades.
 categories: Derechos y servicios sociales
 topics: Libertad de expresión
-text: Las sociedades occidentales están amenazadas por un totalitarismo global promocionado por grandes fortunas, el consenso progre de las élites; y apoyado por las fuerzas de choque de la extrema izquierda. El resultado es la indefensión de los españoles y sus familias ante el rodillo de una agenda totalitaria que amenaza gravemente las libertades.

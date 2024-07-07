@@ -1,6 +1,6 @@
 id: dc8dee06-efe8-49ff-a266-013ca32ba653
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 109
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+children_promises:
+- cc1e42d0-1c31-4e8e-9f26-6265c6aea095
+- 0a6244e7-0551-45e3-b0f7-f0b375791a25
+- 4bb5ed82-c39d-490a-bb59-7fa2583dde9b
+- 418a757d-07af-41a4-ac3b-9d460f10aa90
+children_statements:
+- 8fb6f3cb-57b8-40d5-943f-449c8086e152
+title: Educación e igualdad
 categories: Democracia
 topics: Igualdad
-title: Educación e igualdad
-has_children: true

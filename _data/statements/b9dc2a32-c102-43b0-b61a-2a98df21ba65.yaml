@@ -1,6 +1,6 @@
 id: b9dc2a32-c102-43b0-b61a-2a98df21ba65
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 150
+parent_chapter: 814800d1-d17a-4410-9eb1-114a76841345
+text: Impulsaremos la participación paritaria en los órganos de decisión, negociación y representación.
 categories: Territorio rural
 topics: Igualdad
-text: Impulsaremos la participación paritaria en los órganos de decisión, negociación y representación.

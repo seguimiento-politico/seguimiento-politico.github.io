@@ -1,0 +1,25 @@
+name: Combustibles fósiles
+other:
+- &id001
+  id: 17d36def-7688-412e-8a86-d7e964fb366e
+  parties:
+  - VOX
+- &id002
+  id: 9f6c7851-847d-4c47-89b0-f1fbcc665695
+  parties:
+  - VOX
+other_count: 2
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- *id002
+statements_count: 2
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

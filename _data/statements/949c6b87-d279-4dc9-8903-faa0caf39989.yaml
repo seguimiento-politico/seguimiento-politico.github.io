@@ -1,6 +1,6 @@
 id: 949c6b87-d279-4dc9-8903-faa0caf39989
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 27
+parent_chapter: ed0485f1-af5b-46e9-b050-c76fc5dc388f
+text: Plan para el despliegue de infraestructuras digitales. Completaremos el despliegue de redes liderando la implantación de la nueva tecnología móvil 5G, el desarrollo de aplicaciones en proyectos piloto y pre-comerciales, y la utilización en sectores tractores como salud, automoción, agroalimentario y turismo, “Smart Cities”, movilidad y transporte, procesos industriales, intervenciones quirúrgicas a distancia, salud interconectada, o videojuegos.
 categories: Economía
 topics: Digitalización
-text: Plan para el despliegue de infraestructuras digitales. Completaremos el despliegue de redes liderando la implantación de la nueva tecnología móvil 5G, el desarrollo de aplicaciones en proyectos piloto y pre-comerciales, y la utilización en sectores tractores como salud, automoción, agroalimentario y turismo, “Smart Cities”, movilidad y transporte, procesos industriales, intervenciones quirúrgicas a distancia, salud interconectada, o videojuegos.

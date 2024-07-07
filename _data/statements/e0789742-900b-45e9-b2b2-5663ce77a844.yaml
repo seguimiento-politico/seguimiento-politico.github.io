@@ -1,6 +1,6 @@
 id: e0789742-900b-45e9-b2b2-5663ce77a844
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 105
+parent_chapter: 75aca692-4866-4735-8d57-5ad9749e3a64
+text: LA COMUNIDAD DE DESCENDIENTES DE ESPAÑOLES MANTENDRÁ EL DERECHO DE OPCIÓN A LA NACIONALIDAD ESPAÑOLA, garantizado por una ley de Acceso a la Nacionalidad de los Nietos reformada. Para atender esta demanda también se hace necesario el refuerzo de los Consulados encargados de la tramitación de los expedientes de nacionalidad.
 categories: Política internacional
 topics: Consulados
-text: LA COMUNIDAD DE DESCENDIENTES DE ESPAÑOLES MANTENDRÁ EL DERECHO DE OPCIÓN A LA NACIONALIDAD ESPAÑOLA, garantizado por una ley de Acceso a la Nacionalidad de los Nietos reformada. Para atender esta demanda también se hace necesario el refuerzo de los Consulados encargados de la tramitación de los expedientes de nacionalidad.

@@ -1,6 +1,6 @@
 id: 00b05044-a434-4024-9f33-c090d0ddccf8
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 143
+parent_chapter: c794cb24-1c55-422f-8b6d-1ff29ad1ed87
+children_promises:
+- 60209c6c-6bb9-436e-8a09-b1c3088ff79d
+- ad010857-6420-458c-9c8f-eed00227b467
+children_statements: []
+title: Una Europa con una política social a escala continental
 categories: Política internacional
 topics: Europa
-title: Una Europa con una política social a escala continental
-has_children: true

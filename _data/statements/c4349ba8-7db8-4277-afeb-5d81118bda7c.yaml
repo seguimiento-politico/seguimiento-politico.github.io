@@ -1,6 +1,6 @@
 id: c4349ba8-7db8-4277-afeb-5d81118bda7c
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_chapter: 6dc5250e-51d3-4aba-9bdc-2dbe32e1afb9
+text: 'Para garantizar el derecho de acceso al servicio público de Justicia:'
 categories: Justicia
 topics: Modernización
-text: 'Para garantizar el derecho de acceso al servicio público de Justicia:'

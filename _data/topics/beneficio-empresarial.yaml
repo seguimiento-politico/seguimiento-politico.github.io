@@ -1,0 +1,20 @@
+name: Beneficio empresarial
+other:
+- &id001
+  id: 9cf9e90a-7818-4a2f-a7d5-992435ec6328
+  parties:
+  - VOX
+other_count: 1
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+statements_count: 1
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

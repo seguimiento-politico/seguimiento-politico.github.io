@@ -1,6 +1,6 @@
 id: 7de68aa2-adc3-4c7d-ae92-85ee2247b506
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 41
+parent_chapter: 27ff313e-64fe-41ca-bc72-c44fafac350d
+children_promises:
+- 9c9d14c0-1ac7-4532-8b07-5a232c565118
+- 5600f606-562f-4ed9-8b23-78136d70e73b
+- e262cb0d-11b9-4f25-a9c9-c9861e39a7d5
+- 99869aa2-8112-4db6-8f38-ca5d8f1f9c36
+children_statements:
+- 9d8f11fe-0375-4b71-ade9-a64ae0c2344c
 title: 'Avanzar en la descarbonización: Efidicios y viviendas'
-has_children: true
+topics: Cambio climático

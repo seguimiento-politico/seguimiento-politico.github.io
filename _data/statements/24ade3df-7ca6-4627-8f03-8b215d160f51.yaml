@@ -1,10 +1,12 @@
 id: 24ade3df-7ca6-4627-8f03-8b215d160f51
-type: declaration
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+type: statement
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 68
+parent_chapter: 1d6d3cb8-c342-45dc-bf81-5882a853c051
 text: Los españoles debemos dar la batalla por recuperar el futuro de la España rural, una España que se ha vaciado pero que la transformación tecnológica supone una oportunidad para recuperarla y volver a llenarla. Es necesario que todas las Administraciones tengan una perspectiva rural en sus políticas.
+topics: Desarrollo sostenible

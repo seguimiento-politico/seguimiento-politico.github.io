@@ -1,6 +1,6 @@
 id: c91ae3f9-05e3-43f2-9ce5-df876426f09d
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 69
+parent_chapter: 1d4a4787-163e-4649-b875-f97fd3780649
+text: Impulsaremos una Ley de Agricultura Familiar que favorezca y priorice este tipo de agricultura que genera mayor valor social y vinculación con el territorio. Pesca y acuicultura. Un país que cuida de los recursos del mar y a su sector
 categories:
 - Agricultura
 - Ganadaría
 topics: Desarrollo sostenible
-text: Impulsaremos una Ley de Agricultura Familiar que favorezca y priorice este tipo de agricultura que genera mayor valor social y vinculación con el territorio. Pesca y acuicultura. Un país que cuida de los recursos del mar y a su sector

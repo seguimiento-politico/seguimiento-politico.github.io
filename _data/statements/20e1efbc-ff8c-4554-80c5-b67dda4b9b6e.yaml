@@ -1,6 +1,6 @@
 id: 20e1efbc-ff8c-4554-80c5-b67dda4b9b6e
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 137
+parent_chapter: d5ff476e-21ed-4e90-9c4b-b4adb4a8f9a7
+text: Exigiremos a terceros países el cumplimiento de los tratados internacionales ratificados por ellos y por España.
 categories:
 - Política internacional
-text: Exigiremos a terceros países el cumplimiento de los tratados internacionales ratificados por ellos y por España.

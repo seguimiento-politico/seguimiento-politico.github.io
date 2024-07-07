@@ -1,7 +1,6 @@
 id: e7642661-95e4-43d6-a22f-48b862930231
 type: promise
-parent_statement: 54ca38f8-3040-4914-9716-78245274d882
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +8,10 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: 54ca38f8-3040-4914-9716-78245274d882
+parent_chapter: 96f08000-98a6-4e52-8e39-fe555ca37269
+text: Seguiremos impulsando el aprendizaje del español en España y en el ámbito internacional
 categories: Economía
 topics:
 - Digitalización
 - Lenguas
-text: Seguiremos impulsando el aprendizaje del español en España y en el ámbito internacional

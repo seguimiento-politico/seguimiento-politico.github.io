@@ -1,7 +1,6 @@
 id: c56e4aaa-9de6-482c-bbfd-810c3509a649
 type: promise
-parent_statement: 4b37e9ba-afc2-42c3-96f3-e68b7bd90825
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +8,10 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: 4b37e9ba-afc2-42c3-96f3-e68b7bd90825
+parent_chapter: 1d4a4787-163e-4649-b875-f97fd3780649
+text: Impulsaremos una ganadería diversa, equilibrada y sostenible, apoyando especialmente la ganadería extensiva por sus beneficios sociales y ambientales.
 categories:
 - Agricultura
 - Ganadaría
 topics: Desarrollo sostenible
-text: Impulsaremos una ganadería diversa, equilibrada y sostenible, apoyando especialmente la ganadería extensiva por sus beneficios sociales y ambientales.

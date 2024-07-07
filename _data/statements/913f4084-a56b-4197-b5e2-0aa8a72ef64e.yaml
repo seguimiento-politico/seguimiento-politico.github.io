@@ -1,6 +1,6 @@
 id: 913f4084-a56b-4197-b5e2-0aa8a72ef64e
-type: declaration
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 101
-categories: Política internacional
+parent_chapter: 6c487e14-3e0d-4200-bdc9-70b5eb4d801e
 text: España debe recuperar una política exterior que haga compatible una relación de vecindad profunda y sólida con Marruecos y con Argelia, así lo han conseguido todos los Gobiernos de la democracia hasta esta legislatura. Para ello debemos tener una política fiable, estable y predecible. Una política de Estado que cuente con el mayor consenso parlamentario posible y, especialmente, una interlocución fluida y permanente con quien lidere la oposición. España debe cumplir con sus responsabilidades históricas, tener una política Mediterránea que afronte los problemas de la frontera sur de Europa.
+categories: Política internacional

@@ -1,0 +1,29 @@
+# variables depending on scope:
+# supranational -> organization + institution, 
+# national-> country + institution, 
+# regional-> country + region + institution  or 
+# local-> country + region + locality + institution
+
+draft: false 
+name: elecciones europeas 2019
+group_by: legislature
+election_type: europeas
+election_date: '2019-07-02'
+scope: supranational 
+organization: union europea
+institution: parliament
+nature: politics
+items_type: promise # statements (promises + statements), promise, statement
+items_by: party #party, politician
+lang: es
+
+context:
+    name: "Europa: Legislatura IX (2019-2024)"
+    description: Seguimiento de las políticas y actividad legislativa de la Unión Europea.
+    elections: europeas
+    from: "2019-07-02" 
+    goverment_type: coalition
+    goverment_parties: [PSOE, UNIDAS PODEMOS]
+    sources:
+        - https://www.lamoncloa.gob.es/gobierno/gobiernosporlegislaturas/Paginas/xiv_legislatura.aspx
+        - https://www.congreso.es/indice-de-iniciativas

@@ -1,7 +1,6 @@
 id: aabf0b46-5ec4-4df9-b188-2681811ed0f1
 type: promise
-parent_statement: ed96138d-ee97-4798-acd1-c8d818ac9a77
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: ed96138d-ee97-4798-acd1-c8d818ac9a77
+parent_chapter: 49057808-0482-45cd-aac1-350b0a2d33e6
+text: Es necesario contar con la participación activa del conjunto de la sociedad, más allá de las personas expertas. Y ello no solo en las tareas de difusión, sino también en las de producción y formación, mediante proyectos colaborativos, de cocreación u otros, y en un contexto abierto y transversal.
 categories: Ciencia y tecnología
 topics: I+D+i
-text: Es necesario contar con la participación activa del conjunto de la sociedad, más allá de las personas expertas. Y ello no solo en las tareas de difusión, sino también en las de producción y formación, mediante proyectos colaborativos, de cocreación u otros, y en un contexto abierto y transversal.

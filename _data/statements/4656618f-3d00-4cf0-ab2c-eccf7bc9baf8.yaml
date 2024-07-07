@@ -1,6 +1,6 @@
 id: 4656618f-3d00-4cf0-ab2c-eccf7bc9baf8
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 8
-categories: Nacionalismo y patriotismo
+parent_chapter: a8e5bc4c-5dd0-43ee-95f8-225717b7f81b
 title: Derogar todas las leyes que alienten el enfrentamiento y la división entre españoles, como las llamadas leyes de “memoria democrática” o “memoria histórica”.
+categories: Nacionalismo y patriotismo

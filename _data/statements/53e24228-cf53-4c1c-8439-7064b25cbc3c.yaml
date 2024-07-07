@@ -1,7 +1,6 @@
 id: 53e24228-cf53-4c1c-8439-7064b25cbc3c
 type: promise
-parent_statement: 8292e29b-ade0-4af1-9514-e0d6dfb34433
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Justicia
+parent_statement: 8292e29b-ade0-4af1-9514-e0d6dfb34433
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
 text: Por otra parte, se impulsará la lucha contra la violencia de género, con una mayor coordinación entre las oficinas de víctimas del delito y el resto de recursos de la Administración de Justicia y la recuperación de los juzgados de violencia de género.
+categories: Justicia

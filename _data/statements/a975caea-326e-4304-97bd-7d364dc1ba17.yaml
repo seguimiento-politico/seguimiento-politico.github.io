@@ -1,13 +1,14 @@
 id: a975caea-326e-4304-97bd-7d364dc1ba17
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 22
+parent_chapter: d5cfbe7c-009c-4b4c-9963-9a6488479d1f
+text: Desarrollaremos la nueva Estrategia Española de Ciencia, Tecnología y de Innovación 2021-2027 en coordinación con el nuevo programa europeo Horizonte Europa 2021-2027 y las comunidades autónomas y sus Estrategias de Especialización Inteligente.
 categories:
 - Ciencia y tecnología
 topics: I+D+i
-text: Desarrollaremos la nueva Estrategia Española de Ciencia, Tecnología y de Innovación 2021-2027 en coordinación con el nuevo programa europeo Horizonte Europa 2021-2027 y las comunidades autónomas y sus Estrategias de Especialización Inteligente.

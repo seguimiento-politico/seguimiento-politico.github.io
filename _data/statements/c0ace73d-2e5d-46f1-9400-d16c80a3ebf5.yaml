@@ -1,6 +1,6 @@
 id: c0ace73d-2e5d-46f1-9400-d16c80a3ebf5
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 79
+parent_chapter: ef0bb89b-1b90-4682-a618-d8eea7201020
 title: Reconocer los derechos sindicales y civiles negados a los y las guardias civiles.
 text: Reconoceremos la condición de sindicatos de las distintas asociaciones de la Guardia Civil y derogaremos las normas que prohíban a sus miembros la participación en la vida sindical Al mismo tiempo, garantizaremos sus derechos laborales y la capacidad de organización para defenderlos, con lo que se mejorará el servicio que prestan a toda la ciudadanía Por otro lado, suprimiremos la aplicación del Código Penal Militar a la Guardia Civil, con el fin de separarla del ámbito militar y constituirla como una verdadera fuerza civil de seguridad pública

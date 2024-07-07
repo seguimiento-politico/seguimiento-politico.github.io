@@ -1,6 +1,6 @@
 id: 30b8f88c-2f46-402a-bba3-17c012165ad5
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 134
+parent_chapter: d5ff476e-21ed-4e90-9c4b-b4adb4a8f9a7
+text: Defenderemos la primacía de la Constitución sobre el Derecho europeo y, en general, del Derecho nacional en cuestiones que afecten el Bien Común de España y los intereses generales del Estado.
 categories:
 - Política internacional
-text: Defenderemos la primacía de la Constitución sobre el Derecho europeo y, en general, del Derecho nacional en cuestiones que afecten el Bien Común de España y los intereses generales del Estado.

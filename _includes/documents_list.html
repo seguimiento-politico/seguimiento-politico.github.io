@@ -1,24 +1,32 @@
 <div class="container-fluid">
-    <div class="row row-cols-auto">
-        {% for doc in documents %}
+    <div class="row row-cols-auto g-2">
+        {% for doc in documents reversed %}
             {% if doc.publication_date %}
                 {% assign date = doc.publication_date %}
             {% else %}
                 {% assign date = doc.election_date %}
             {% endif %}
-        <div class="col card me-2" style="width: 18rem;">
-            <div class="card-body">
-                <h5 class="card-title">{{ doc.parties }} - {{ date | date: "%Y"}}
-                </h5>
-                <h6 class="card-subtitle mb-2 text-muted">{{ doc.type }} - elecciones {{ doc.election_type }} {{ doc.election_location }} {{ doc.election_date | date: "%-d %B %Y" }}</h6>
-                <p class="card-text">{{ doc.title }}</p>
-                {% for page in site.docs %}
-                    {% if page.uid == doc.id %}
-                        <a href="/docs/{{page.doc_name}}" class="card-link">ver contenido</a>
-                        {% break %}
-                    {% endif %}
-                {% endfor %}
-            </div>
+        <div class="col card me-2">
+        {% for page in site.docs %}
+            {% if page.uid == doc.id %}
+                <div class="card-header">
+                    <p class="card-text text-muted small">{{ doc.election_type }} {{ doc.election.date | date: '%Y'}}</p>
+                </div> 
+                <div class="card-body">
+                    <a href="/docs/{{page.doc_name}}" class="card-link">
+                        <img src="/assets/images/documents/{{ doc.id }}.png" class="" alt="{{ doc.parties }} - {{ date | date: '%Y'}}">
+                    </a>   
+                </div>   
+                <div class="card-footer">
+                    <p class="card-text text-muted small">
+                        <a href="/docs/{{page.doc_name}}"><i class="fa-brands fa-readme"></i></a> | 
+                        <a href="{{doc.url}}"><i class="fa-regular fa-file-pdf"></i></a> |
+                        <a href="{{doc.web_history}}"><i class="fa-solid fa-file-pdf"></i></a>
+                    </p>
+                </div>              
+                {% break %}
+            {% endif %}
+        {% endfor %}
         </div> 
         {% endfor %}
     </div> 

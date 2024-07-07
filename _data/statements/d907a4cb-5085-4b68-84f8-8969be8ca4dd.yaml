@@ -1,6 +1,6 @@
 id: d907a4cb-5085-4b68-84f8-8969be8ca4dd
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 225
-categories: Vivienda
+parent_chapter: e1fc2815-0232-44d2-a5f3-1d7d25b6f2b0
 text: Impulsaremos herramientas de colaboración público-privada, a través de créditos ICO, disposición de suelo público en cesión y subvenciones, entre otros, para impulsar estos nuevos modelos.
+categories: Vivienda

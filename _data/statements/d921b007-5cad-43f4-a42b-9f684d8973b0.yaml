@@ -1,6 +1,6 @@
 id: d921b007-5cad-43f4-a42b-9f684d8973b0
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 56
+parent_chapter: 754946a2-5f02-4a15-929b-dc9e8a58fe80
+children_promises:
+- 3d768304-9cc9-45fc-92ab-b72f912ab70d
+children_statements: []
+title: Desarrollo de la legislación de grandes simios, ampliando su protección y derechos.
 categories: Civismo
 topics: Bienestar animal
-title: Desarrollo de la legislación de grandes simios, ampliando su protección y derechos.
-has_children: true

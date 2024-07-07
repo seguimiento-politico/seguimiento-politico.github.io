@@ -1,6 +1,6 @@
 id: 6759d38b-86aa-4e4f-85f7-e49ae0943d9f
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 37
-categories: Impuestos y financiación pública
+parent_chapter: ea2982af-8671-4013-b30b-3217bd021e2a
+children_promises:
+- bc13447c-18c3-48c4-9b6d-2038feaa031f
+- 5a7a34fc-0e21-47b2-bb8a-92bdc8454900
+children_statements: []
 title: Un sistema fiscal que incentive las grandes transformaciones de nuestro modelo productivo
-has_children: true
+categories: Impuestos y financiación pública

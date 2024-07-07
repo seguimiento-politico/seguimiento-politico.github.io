@@ -1,6 +1,6 @@
 id: ef4c8f50-2705-402a-b7cd-8f6bf7f91085
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,9 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 68
+parent_chapter: 1d4a4787-163e-4649-b875-f97fd3780649
+children_promises:
+- 9ff82469-8daf-4505-9cc7-1a8b91301629
+- b4692f58-ce55-4191-bb91-c0ab57c9c5d0
+children_statements: []
+title: Elaboraremos e impulsaremos un Plan Estratégico de la Producción Ecológica.
 categories:
 - Agricultura
 - Ganadaría
 topics: Desarrollo sostenible
-title: Elaboraremos e impulsaremos un Plan Estratégico de la Producción Ecológica.
-has_children: true

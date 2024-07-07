@@ -1,7 +1,6 @@
 id: ff8c425b-c18c-4d76-829a-748a29f873af
-type: declaration
-parent_statement: 65c56d24-b246-481b-8229-08b03b6958bf
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 65c56d24-b246-481b-8229-08b03b6958bf
+parent_chapter: 5a78c83a-e028-4353-b943-e627cc312cee
+text: La Ley y el Reglamento de Extranjería generan alta inseguridad jurídica, además de mantener procedimientos extremadamente complejos para la población.
 categories: Migración
 topics: Racismo
-text: La Ley y el Reglamento de Extranjería generan alta inseguridad jurídica, además de mantener procedimientos extremadamente complejos para la población.

@@ -1,7 +1,6 @@
 id: fb892cf6-1885-434d-9ee9-a7937a533ddf
 type: promise
-parent_statement: de21114e-9aae-4578-ac50-9b2f97ddf120
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: de21114e-9aae-4578-ac50-9b2f97ddf120
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+text: Además, se ampliarán los servicios del teléfono de información sobre derechos de las mujeres, orientándolo a la información sobre recursos, servicios y derechos para la conciliación corresponsable.
 categories: Democracia
 topics: Igualdad
-text: Además, se ampliarán los servicios del teléfono de información sobre derechos de las mujeres, orientándolo a la información sobre recursos, servicios y derechos para la conciliación corresponsable.

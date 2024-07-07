@@ -1,6 +1,6 @@
 id: 0ce026f5-6ab4-4cad-b578-09d7251dc1a2
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 69
-categories: Pesca y acuicultura
+parent_chapter: 170df7e0-fd2d-4dc3-a5e5-b9c8392e94de
 text: Apoyaremos la descarbonización de la flota y la transición energética del sector pesquero y acuícola.
+categories: Pesca y acuicultura

@@ -1,6 +1,6 @@
 id: 34622922-0506-421e-b2a8-20b66e1c5716
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 239
-categories: Transporte
+parent_chapter: d5cb3a5b-22ac-4fcc-aee5-243a8200e0de
 text: Reforzaremos las medidas para reducir la mortalidad en carretera, hasta alcanzar las cero víctimas mortales.
+categories: Transporte

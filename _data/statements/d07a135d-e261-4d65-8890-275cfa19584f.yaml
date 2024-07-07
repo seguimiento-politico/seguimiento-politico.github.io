@@ -1,6 +1,6 @@
 id: d07a135d-e261-4d65-8890-275cfa19584f
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 15
+parent_chapter: 8ebfb644-aef8-4936-8572-2bf4d581e4b5
+text: Actualizaremos las pensiones conforme al IPC real mediante ley de forma permanente, y aumentaremos el poder adquisitivo de las pensiones mínimas y las no contributivas.
 categories: Derechos y servicios sociales
 topics: Pensiones
-text: Actualizaremos las pensiones conforme al IPC real mediante ley de forma permanente, y aumentaremos el poder adquisitivo de las pensiones mínimas y las no contributivas.

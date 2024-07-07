@@ -1,6 +1,6 @@
 id: 44780196-04e6-4a67-898d-4a7627ed2803
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 18
-categories: Sanidad
+parent_chapter: 76f5a4bd-043f-422d-98a0-fecfe8c46fdf
 text: Refuerzo de las inversiones y del gasto sanitario. Hay que abrir nuevos centros de atención primaria y ambulatorios en la España interior y en los barrios más desfavorecidos de las grandes ciudades. Además, se debe revisar la suficiencia de medios en nuestros hospitales y establecer un número mínimo de centros de atención primaria por habitante para garantizar que todo español es atendido cuando lo necesita y en condiciones de igualdad.
+categories: Sanidad

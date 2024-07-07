@@ -1,7 +1,6 @@
 id: d2209c90-0979-47df-a40c-4db25c04e9ac
 type: promise
-parent_statement: 0e390d77-c32b-42ca-b174-f37b7bff6b62
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Trabajo
+parent_statement: 0e390d77-c32b-42ca-b174-f37b7bff6b62
+parent_chapter: 8334330f-156c-4154-9c8c-27f20def2bb6
 text: Seguiremos ampliando el sistema público de escolaridad de 0 a 3 años
+categories: Trabajo

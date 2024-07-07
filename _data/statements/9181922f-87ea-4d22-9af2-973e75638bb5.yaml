@@ -1,7 +1,6 @@
 id: 9181922f-87ea-4d22-9af2-973e75638bb5
 type: promise
-parent_statement: a9a821be-0550-4a59-b184-7d2173fccc42
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Justicia
+parent_statement: a9a821be-0550-4a59-b184-7d2173fccc42
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
 text: En general, se trata de articular fórmulas para lograr la «motivación» como servidores públicos y para conseguir que el trabajo, cuidadoso en el trato ciudadano, de calidad y en tiempo adecuado, sea reconocido a efectos retributivos y de promoción
+categories: Justicia

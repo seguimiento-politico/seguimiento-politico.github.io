@@ -1,6 +1,6 @@
 id: c92e3852-49be-4046-86f7-024ad4cfa44a
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 250
+parent_chapter: 78357eae-f064-4648-9cf1-b5e149ae3feb
+text: Se aplicará un Plan de actuación específico sobre la conciliación familiar, personal y laboral, con base en el teletrabajo.
 categories: Justicia
 topics: Eficiencia
-text: Se aplicará un Plan de actuación específico sobre la conciliación familiar, personal y laboral, con base en el teletrabajo.

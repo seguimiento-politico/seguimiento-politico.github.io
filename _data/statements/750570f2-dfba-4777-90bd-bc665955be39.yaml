@@ -1,6 +1,6 @@
 id: 750570f2-dfba-4777-90bd-bc665955be39
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 43
+parent_chapter: 493fd51c-7cfd-4b5e-bc63-efcefe3f24e6
 title: Conquistar la soberanía tecnológica, la privacidad y el control de nuestros datos en la red.
 text: Estableceremos las protecciones necesarias para blindar el derecho a la privacidad en la red, de manera que las grandes corporaciones tecnológicas no puedan hacer negocio a partir de la apropiación indebida de nuestros datos Para ello, es necesario conquistar el control sobre estos y poder aprovecharlos como un bien común, e impulsar el sector del software y, en particular, de las comunidades y empresas dedicadas al software libre, una arquitectura del internet de las cosas abierta, neutral e interoperable, y una red de infraestructuras de comunicaciones de nueva generación, como el 5G, orientándola hacia una red compartida por las diferentes operadoras y los usuarios públicos y privados, más eficiente y con menos espacio privatizado Además, impulsaremos la elaboración de una Carta de Derechos del Mundo Digital mediante un gran proceso participativo en el que la ciudadanía pueda ser protagonista del diseño de su futuro

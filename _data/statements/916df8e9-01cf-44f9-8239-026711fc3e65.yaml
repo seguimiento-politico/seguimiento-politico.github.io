@@ -1,6 +1,6 @@
 id: 916df8e9-01cf-44f9-8239-026711fc3e65
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 19
+parent_chapter: 70e896cb-cc2e-4700-a649-38c82b332b6c
+children_promises:
+- 4e5109bb-0ff9-40a8-9ff3-8cc75726a0e3
+children_statements: []
+title: Prohibición de los vientres de alquiler
 categories:
 - Familia
-title: Prohibición de los vientres de alquiler
-has_children: true

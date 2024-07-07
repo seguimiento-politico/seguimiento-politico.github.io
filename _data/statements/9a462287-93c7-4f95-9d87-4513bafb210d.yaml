@@ -1,6 +1,6 @@
 id: 9a462287-93c7-4f95-9d87-4513bafb210d
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 27
-categories: Trabajo
+parent_chapter: 532dae6f-f92f-4960-90af-6b7b08fac3ae
 text: Proposición no de Ley para la compensación total, por parte de los autónomos, de la base imponible general negativa con la base imponible del ahorro positiva del Impuesto de la Renta de las Personas Físicas, con motivo de la crisis económica derivada de la COVID-19 (mayo 2021).
+categories: Trabajo

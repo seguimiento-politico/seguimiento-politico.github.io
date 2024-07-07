@@ -1,7 +1,6 @@
 id: 6b8d35e6-6c58-4303-a8e2-4875e833453f
 type: promise
-parent_statement: 31fe3ffb-3138-45f7-991a-b2b016873cec
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Sanidad
+parent_statement: 31fe3ffb-3138-45f7-991a-b2b016873cec
+parent_chapter: 17e4c412-8ac4-4992-848a-422903075ee3
 text: Regulación íntegra del cannabis y el modelo de asociaciones cannábicas basadas en el autoconsumo y sin ánimo de lucro. Se legislará para acabar con el vacío legal existente, despenalizando la producción y el consumo propio y sin ánimo de lucro para no favorecer a las mafias que se enriquecen con el tráfico ilegal, y se fomentará la información sobre los efectos del consumo de drogas para un consumo responsable y libre.
+categories: Sanidad

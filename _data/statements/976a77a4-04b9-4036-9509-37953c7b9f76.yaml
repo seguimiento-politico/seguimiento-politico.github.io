@@ -1,6 +1,6 @@
 id: 976a77a4-04b9-4036-9509-37953c7b9f76
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 173
+parent_chapter: 3c3b6e77-c208-4e24-b285-18f9fd80d11c
+children_promises:
+- 503b2561-1a1d-4aab-bf16-0ac291322df6
+- 2253d6f7-7894-414d-8d9b-cffca49dd9d2
+children_statements: []
+title: Aprobación de un Estatuto de la Información y el Consejo Estatal de los Medios Audiovisuales (CEMA)
 categories: Cultura
 topics: Desarrollo sostenible
-title: Aprobación de un Estatuto de la Información y el Consejo Estatal de los Medios Audiovisuales (CEMA)
-has_children: true

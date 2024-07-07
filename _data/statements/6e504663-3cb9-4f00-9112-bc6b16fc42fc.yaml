@@ -1,0 +1,20 @@
+id: 6e504663-3cb9-4f00-9112-bc6b16fc42fc
+type: statement
+parent_document: a613c4b6-f9dc-4926-8b9a-b87c233e5a75
+parties:
+- VOX
+election_type: europeas
+election_date: '2024-06-09'
+publication_date: '2024-05-30'
+page: 13
+text: La presión migratoria se ha vuelto absolutamente insostenible. Europa no puede seguir basando su política migratoria en políticas de puertas abiertas, papeles para todos o parches que no funcionan. No nos cansaremos de recordar el deber de las instituciones europeas para garantizar la materia de seguridad, control de las fronteras exteriores, inmigración y lucha contra la delincuencia de los Estados miembro. En ese sentido, es muy preocupante que la Conferencia sobre el futuro de Europa haya excluido todo debate relacionado con problemas e inquietudes reales de los europeos, como la inmigración y la seguridad, replicando así los dogmas ideológicos de la izquierda. En VOX no vamos a olvidarnos de los españoles y el grave problema de seguridad que padecen y que es compartido por muchos europeos.
+categories:
+- Migración
+- Seguridad y defensa
+topics:
+- name: Control fronteras
+- name: Inmigración ilegal
+  position_negative: null
+  status_quo_negative:
+  - text: es insostenible
+- name: Delincuencia

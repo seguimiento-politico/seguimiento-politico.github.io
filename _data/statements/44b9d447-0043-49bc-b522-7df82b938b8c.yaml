@@ -1,6 +1,6 @@
 id: 44b9d447-0043-49bc-b522-7df82b938b8c
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 53
+parent_chapter: 2d06e79f-d667-441b-b7cf-513970c6ccde
+children_promises:
+- 568576f0-4281-4a84-a364-634523d5645b
+children_statements: []
+title: Plan de Acción Nacional para la Conservación de Polinizadores
 categories: Medioambiente
 topics: Biodiversidad
-title: Plan de Acción Nacional para la Conservación de Polinizadores
-has_children: true

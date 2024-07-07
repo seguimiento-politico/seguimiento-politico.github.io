@@ -1,6 +1,6 @@
 id: 2ce9da99-6cbb-4086-9566-267e2a68a937
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,8 +9,12 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 16
+parent_chapter: ab7164cc-742b-48cf-adce-57d74cf0621d
+children_promises:
+- 65969357-57b1-4194-aa2f-50fcb441d530
+- 97afafc5-7703-499b-accd-c5ae4f132112
+children_statements: []
+title: Protección de la caza
 categories:
 - Educación
 - Cultura
-title: Protección de la caza
-has_children: true

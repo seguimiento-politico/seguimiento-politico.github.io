@@ -1,6 +1,6 @@
 id: 31d44281-8368-419f-938b-7d587ff8400d
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 163
+parent_chapter: 85064199-a50f-4c6d-a819-6336cf24a3e1
+children_promises:
+- 6a8cb92c-ba15-4e41-b842-fad647966f26
+children_statements: []
+title: Revisión y actualización del papel y funcionamiento de las agencias de evaluación académica y científica, como ANECA y la AEI, y de su relación con las actividades, fines y autonomía del conjunto del sistema universitario.
 categories: Educación
 topics: Universidad
-title: Revisión y actualización del papel y funcionamiento de las agencias de evaluación académica y científica, como ANECA y la AEI, y de su relación con las actividades, fines y autonomía del conjunto del sistema universitario.
-has_children: true

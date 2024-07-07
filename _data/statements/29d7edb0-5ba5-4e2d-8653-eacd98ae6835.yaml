@@ -1,7 +1,6 @@
 id: 29d7edb0-5ba5-4e2d-8653-eacd98ae6835
 type: promise
-parent_statement: a8a21a80-2789-4b45-9f48-dcfd2b1e1e89
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: a8a21a80-2789-4b45-9f48-dcfd2b1e1e89
+parent_chapter: 5ac453aa-319d-4ea3-b4b6-7a63e3dde3ff
+text: Se hace necesario garantizar a diversos públicos el acceso a la formación sobre el impacto social y medioambiental del modelo de producción y consumo actual, así como las alternativas de producción y consumo sostenibles existentes.
 categories: Consumo
 topics: Consumo sostenible
-text: Se hace necesario garantizar a diversos públicos el acceso a la formación sobre el impacto social y medioambiental del modelo de producción y consumo actual, así como las alternativas de producción y consumo sostenibles existentes.

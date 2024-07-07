@@ -1,6 +1,6 @@
 id: 46bba733-a892-4c50-a146-6d267a2343af
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 44
+parent_chapter: 8b3b4090-2613-4308-b395-3a2c5b3078b6
+text: Crearemos una entidad pública de financiación de la innovación, el emprendimiento, la transformación digital y la transición ecológica, que integre los programas y entidades públicas de crédito existentes.
 categories: Ciencia y tecnología
 topics: Digitalización
-text: Crearemos una entidad pública de financiación de la innovación, el emprendimiento, la transformación digital y la transición ecológica, que integre los programas y entidades públicas de crédito existentes.

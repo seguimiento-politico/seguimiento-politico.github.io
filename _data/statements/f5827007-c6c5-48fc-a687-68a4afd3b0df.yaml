@@ -1,6 +1,6 @@
 id: f5827007-c6c5-48fc-a687-68a4afd3b0df
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 39
+parent_chapter: 1e1d9fec-722c-4fe5-83c8-753b161e1073
+children_promises: []
+children_statements:
+- 611d66cd-3f45-4480-a6f1-90e26678b94d
+- 9da3750a-6d2c-472d-81a3-94389fb1159d
+- 57f1b4bf-43f0-487a-8a1f-6e73c447ed31
+- fdd1bc40-ee12-4c44-b39a-29c12389ac4a
+- 1dffa947-da48-4e22-bcf5-7cca3e63c3e9
+text: En esta dirección, desde el PSOE tenemos como objetivo transformar el modelo turístico en base a la desestacionalización, la desconcentración y la diversificación, empleando la digitalización, el uso inteligente de datos y la sostenibilidad como palancas.
 categories: Turismo
 topics: Desarrollo sostenible
-text: En esta dirección, desde el PSOE tenemos como objetivo transformar el modelo turístico en base a la desestacionalización, la desconcentración y la diversificación, empleando la digitalización, el uso inteligente de datos y la sostenibilidad como palancas.
-has_children: true

@@ -1,6 +1,6 @@
 id: 75a38f59-ba1c-4ebe-969d-795af31daaf7
-type: declaration
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 82
-categories: Vivienda
+parent_chapter: 8985c580-4c31-46ce-a971-1555e0dfd3a7
 text: El derecho de propiedad es uno de los pilares de la comunidad política y social. Reforzaremos la defensa de la propiedad privada reconocida en el artículo 33 de la Constitución Española, a través de normas que garanticen la seguridad jurídica de los propietarios y la convivencia vecinal frente al creciente fenómeno de la okupación ilegal, que se ha disparado en los últimos años.
+categories: Vivienda

@@ -1,11 +1,12 @@
 id: 8c8cdcb2-4420-47b3-87ce-5f76d5482b8c
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 62
-categories: Infraestructuras
+parent_chapter: e7e32caa-a667-406f-a8b0-882e269ca655
 text: 'Aprobaremos un Plan Nacional de Infraestructuras y Transportes Prioritarios 2020-2030 con el fin de alcanzar los objetivos de cohesión territorial, digitalización, competitividad y movilidad ciudadana de una manera eficiente y equilibrada, impulsando la multimodalidad y la sincromodalidad, garantizando la seguridad, optimizando la utilización de las capacidades existentes y mediante la selección rigurosa de las inversiones y su adecuación a las necesidades reales de los ciudadanos.<br>El Plan Nacional de Infraestructuras y Transportes Prioritarios 2020 y 2030 se sustentará sobre dos ejes fundamentales: convertir a España en el principal Punto Internacional de Intercambio y Centro de Distribución de pasajeros y mercancías; prestar servicios de proximidad, calidad y seguridad al ciudadano.'
+categories: Infraestructuras

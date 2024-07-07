@@ -5,7 +5,7 @@ permalink: /docs/
 ---
 
 <!-- Programas electorales (manifestos) -->
-{% assign documents = site.data.documents | where: 'type', "manifesto" | sort: "publication_date" %}
+{% assign documents = site.data.documents | where: 'type', "manifesto" | sort: "name" %}
 
 <h6 class="border-bottom pb-2">Programas electorales</h6>
 <div class="row pt-2">
@@ -14,7 +14,7 @@ permalink: /docs/
 
 <br>
 <!-- Acuerdos de gobierno (goverment agreements) -->
-{% assign documents = site.data.documents | where: 'type', "goverment_agreement" | sort: "publication_date" %}
+{% assign documents = site.data.documents | where: 'type', "goverment_agreement" | sort: "name" %}
 
 <h6 class="border-bottom pb-2">Acuerdos de Gobierno</h6>
 <div class="row pt-2">
@@ -23,7 +23,7 @@ permalink: /docs/
 
 <br>
 <!-- Acuerdos de investidura (investiture agreements) -->
-{% assign documents = site.data.documents | where: 'type', "investiture_agreement" | sort: "publication_date" %}
+{% assign documents = site.data.documents | where: 'type', "investiture_agreement" | sort: "name" %}
 
 <h6 class="border-bottom pb-2">Acuerdos de Investidura</h6>
 <div class="row pt-2">

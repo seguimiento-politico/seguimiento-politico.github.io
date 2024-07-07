@@ -1,7 +1,6 @@
 id: bc29534b-6023-4019-802d-bab4cccec4d8
 type: promise
-parent_statement: 683073e6-0746-482e-87d7-8d5e5c4251f6
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Educación
+parent_statement: 683073e6-0746-482e-87d7-8d5e5c4251f6
+parent_chapter: c1ead426-cec8-44d6-a73a-d98f9059e1db
 text: Universalización de la cobertura pública gratuita de la etapa educativa de cero a tres años y su inclusión plena en el sistema educativo
+categories: Educación

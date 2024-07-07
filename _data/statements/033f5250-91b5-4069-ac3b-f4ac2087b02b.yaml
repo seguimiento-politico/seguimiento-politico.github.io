@@ -1,7 +1,6 @@
 id: 033f5250-91b5-4069-ac3b-f4ac2087b02b
 type: promise
-parent_statement: 036cbf07-3dc4-4f5f-ad13-f314e2323cca
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 036cbf07-3dc4-4f5f-ad13-f314e2323cca
+parent_chapter: 2d517483-028c-490d-aca8-13a64ce818f1
+text: Se prevendrán y erradicarán los distintos tipos de violencias y acoso en el medio universitario, contemplados, entre otras fuentes, en el Convenio 190 de la OIT.
 categories: Educación
 topics: Igualdad
-text: Se prevendrán y erradicarán los distintos tipos de violencias y acoso en el medio universitario, contemplados, entre otras fuentes, en el Convenio 190 de la OIT.

@@ -1,7 +1,6 @@
 id: dc0f5762-f2a2-45f0-8e12-be9fd5c4307b
 type: promise
-parent_statement: 6a2aaa5f-afd0-4d49-aeb3-7729cac3859b
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Cultura
+parent_statement: 6a2aaa5f-afd0-4d49-aeb3-7729cac3859b
+parent_chapter: 7350357f-215c-4adf-8549-2205377e11a9
 text: perspectiva de género, igualdad y diversidad en los sistemas de acceso, acción pública subvencional y diseño de las programaciones;
+categories: Cultura

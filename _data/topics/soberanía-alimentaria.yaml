@@ -1,0 +1,25 @@
+name: Soberanía alimentaria
+other:
+- &id001
+  id: 24753f7f-9403-4d86-89c9-4624667c5888
+  parties:
+  - VOX
+- &id002
+  id: f92e0932-b360-4fb8-8610-3e5481b1f38c
+  parties:
+  - VOX
+other_count: 2
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- *id002
+statements_count: 2
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

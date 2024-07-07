@@ -10,53 +10,145 @@
 {% for item in include.position %}
     
     {% for element in item %}
-        {% if element[0] == "declaration" %}
-            <p> 
-                {% if element[1].title %}
-                    <b>{{ element[1].title | capitalize }}</b><br>
+        {% if element[0] == "statement" and include.view contains 'statements' %}
+            <p class="text-justify"> 
+                {% if include.view contains 'short' and element[1].arguments or element[1].prescriptions %}
+                    {% for argument in element[1].arguments %}
+                        {% if argument.text %}
+                            {% if argument.literal %} {{"}} {% endif %}
+                            {{ argument.text }}
+                            {% if argument.literal %} {{"}} {% endif %}
+
+                            {% if forloop.last == false %}
+                                <br>
+                            {% endif %}
+                        {% else %}
+                            {% if element[1].title %}
+                                <b>{{ element[1].title | capitalize }}</b><br>
+                            {% endif %}
+        
+                            {% if element[1].text %}
+                                {{ element[1].text }}
+                            {% endif %}
+
+                            {% break %}
+                        {% endif %}
+                    {% endfor %}
+
+                    {% for prescription in element[1].prescriptions %}
+                        {% if prescription.text %}
+                            {% if prescription.literal %} {{"}} {% endif %}
+                            {{ prescription.text }}
+                            {% if prescription.literal %} {{"}} {% endif %}
+
+                            {% if forloop.last == false %}
+                                <br>
+                            {% endif %}
+                        {% else %}
+                            {% if element[1].title %}
+                                <b>{{ element[1].title | capitalize }}</b><br>
+                            {% endif %}
+        
+                            {% if element[1].text %}
+                                {{ element[1].text }}
+                            {% endif %}
+
+                            {% break %}
+                        {% endif %}
+                    {% endfor %}
+
+                {% else %}
+                    {% if element[1].title %}
+                        <b>{{ element[1].title | capitalize }}</b><br>
+                    {% endif %}
+
+                    {% if element[1].text %}
+                        {{ element[1].text }}
+                    {% endif %}
+
                 {% endif %}
-                {% if element[1].text %}
-                    {{ element[1].text }}
+
+                {% if include.topics %}
+                    <br>
+                    {% include topics_show.html %}
+                {% endif %}
+
+                {% if include.analysis %}
+                    <br>
+                    {% include analysis_show.html %}
                 {% endif %}
             </p>
 
             {% if element[1].children %}
                 {% assign content = element[1].children %}
-                {% include document_content_loop.html position=content %} 
+                {% include document_content_loop.html position=content view=include.view topics=include.topics analysis=include.analysis %} 
             {% endif %}
-        {% elsif element[0] == "promise" %}
+
+        {% elsif element[0] == "promise" and include.view contains 'promises' %}
             {% assign promise_page = site.statements | where: "uid", element[1].id | first %}
             <ul>
                 <li>
-                    <!-- promise title -->
-                    {% if element[1].title %}
-                        {% if promise_page.url %}
-                            <a href="{{ promise_page.url }}" target="_blank"><b>{{ element[1].title | capitalize }}</b></a> <br>
-                        {% else %}
-                            <b>{{ element[1].title | capitalize }}</b> <br>
+                    {% if include.view contains 'short' and element[1].actions %}
+                        {% for action in element[1].actions %}
+                            {% if action.text %}
+                                {% if action.literal %} {{"}} {% endif %}
+                                {{ action.text }}
+                                {% if action.literal %} {{"}} {% endif %}
+
+                                {% if forloop.last == false %}
+                                    <br>
+                                {% endif %}
+                            {% else %}
+                                {% if element[1].title %}
+                                    <b>{{ element[1].title | capitalize }}</b><br>
+                                {% endif %}
+            
+                                {% if element[1].text %}
+                                    {{ element[1].text }}
+                                {% endif %}
+
+                                {% break %}
+                            {% endif %}
+                        {% endfor %}
+                    {% else %}
+                        <!-- promise title -->
+                        {% if element[1].title %}
+                            {% if promise_page.url %}
+                                <a href="{{ promise_page.url }}" target="_blank"><b>{{ element[1].title | capitalize }}</b></a> <br>
+                            {% else %}
+                                <b>{{ element[1].title | capitalize }}</b> <br>
+                            {% endif %}                            
                         {% endif %}
 
                         {% if element[1].text %}
-                            {{ element[1].text }}
-                        {% endif %}
-                    {% elsif element[1].text %}
-                        {% assign text = element[1].text | split: " " %}
-                        {% assign size = text.size %}
-                        <!-- extract n words as title -->
-                        {% assign n = 12 %}
-                        {% if promise_page.url %}
-                            <a href="{{ promise_page.url }}" target="_blank"><b>{{ text | slice: 0, n | join: " " | capitalize }}</b></a>
-                        {% else %}
-                            <b>{{ text | slice: 0, n | join: " " | capitalize }}</b>
+                            {% assign text = element[1].text | split: " " %}
+                            {% assign size = text.size %}
+                            <!-- extract n words as title -->
+                            {% assign n = 12 %}
+                            {% if promise_page.url %}
+                                <a href="{{ promise_page.url }}" target="_blank"><b>{{ text | slice: 0, n | join: " " | capitalize }}</b></a>
+                            {% else %}
+                                <b>{{ text | slice: 0, n | join: " " | capitalize }}</b>
+                            {% endif %}
+
+                            {{ text | slice: n, size | join: " " }}
                         {% endif %}
 
-                        {{ text | slice: n, size | join: " " }}
+                    {% endif %}
 
+                    {% if include.topics %}
+                        <br>
+                        {% include topics_show.html %}
+                    {% endif %}
+
+                    {% if include.analysis %}
+                        <br>
+                        {% include analysis_show.html %}
                     {% endif %}
 
                     {% if element[1].children %}
                         {% assign content = element[1].children %}
-                        {% include document_content_loop.html position=content %} 
+                        {% include document_content_loop.html position=content view=include.view topics=include.topics analysis=include.analysis %} 
                     {% endif %}
                 </li>
             </ul>
@@ -81,7 +173,7 @@
                 {% else %}
                     {% assign current = index %}
                 {% endif %}
-                {% include document_content_loop.html level=level prev_index=index current_index=current position=content %} 
+                {% include document_content_loop.html level=level prev_index=index current_index=current position=content view=include.view topics=include.topics analysis=include.analysis %} 
             {% endif %}   
         {% endif %}
     {% endfor %}

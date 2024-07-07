@@ -1,7 +1,6 @@
 id: 65f139ce-0231-468f-91c4-5aac91cc38a4
 type: promise
-parent_statement: 8f70a390-8063-41f0-9a11-aa6b66ce0cc4
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 8f70a390-8063-41f0-9a11-aa6b66ce0cc4
+parent_chapter: b5417c2b-2bd9-455f-a227-1ac572dbd434
+text: Avanzaremos en la creación del Inventario Estatal de Lugares de Memoria Democrática, en coordinación con las comunidades autónomas, para la selección de lugares de memoria emblemáticos para su desarrollo como centros de interpretación con su correspondiente función conmemorativa, de homenaje, didáctica y reparadora.
 categories: Democracia
 topics: Memoria democrática
-text: Avanzaremos en la creación del Inventario Estatal de Lugares de Memoria Democrática, en coordinación con las comunidades autónomas, para la selección de lugares de memoria emblemáticos para su desarrollo como centros de interpretación con su correspondiente función conmemorativa, de homenaje, didáctica y reparadora.

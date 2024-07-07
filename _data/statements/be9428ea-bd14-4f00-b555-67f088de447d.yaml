@@ -1,6 +1,6 @@
 id: be9428ea-bd14-4f00-b555-67f088de447d
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 67
+parent_chapter: 4a4ec318-0db9-4da1-9515-2b36e808a75f
+children_promises:
+- 3297572d-bbca-4e01-9f1c-e87d87808fb6
+- ee2f0c12-c2b5-42fd-8f1c-e2e5d69b85f4
+- 08016a10-5e45-4fc9-91f1-dbe49e6ae624
+- 0350b114-71f2-4ecd-a37e-c3e5c2e84ae7
+children_statements: []
+title: Freno a la exposición a contaminantes químicos de origen alimentario
 categories: Consumo
 topics: Alimentación saludable
-title: Freno a la exposición a contaminantes químicos de origen alimentario
-has_children: true

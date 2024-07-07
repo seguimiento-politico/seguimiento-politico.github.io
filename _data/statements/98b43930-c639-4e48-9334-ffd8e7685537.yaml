@@ -1,6 +1,6 @@
 id: 98b43930-c639-4e48-9334-ffd8e7685537
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 233
+parent_chapter: 4eb5ed6c-df01-46f9-8d86-d9bb5c21b974
+text: Seguir trabajando en el proceso de modernización y digitalización de las administraciones locales para que incrementen y mejoren los servicios públicos electrónicos a disposición de la ciudadanía, prestando especial atención a las zonas rurales y despobladas.
 categories: Derechos y servicios sociales
 topics: Municipalismo
-text: Seguir trabajando en el proceso de modernización y digitalización de las administraciones locales para que incrementen y mejoren los servicios públicos electrónicos a disposición de la ciudadanía, prestando especial atención a las zonas rurales y despobladas.

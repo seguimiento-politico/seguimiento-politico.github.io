@@ -1,7 +1,6 @@
 id: 1634af91-095a-4a4c-bbec-7b25cb0c3d5d
 type: promise
-parent_statement: 39dab68c-dbb5-4f13-90ad-8f7cdea764d3
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Organización territorial
+parent_statement: 39dab68c-dbb5-4f13-90ad-8f7cdea764d3
+parent_chapter: 3985eb27-2ecc-4f17-a504-3aa15c5697d4
 text: El Gobierno debe velar por la garantía de los derechos de todos y todas las hablantes, asegurando el uso efectivo de las lenguas cooficiales, como se señala en los Informes del Consejo de Europa sobre el cumplimiento en España de la Carta Europea de las Lenguas Regionales o Minoritarias, con especial atención a su cumplimiento en la AGE y la Administración de justicia
+categories: Organización territorial

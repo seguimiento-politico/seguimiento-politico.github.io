@@ -1,6 +1,6 @@
 id: c2ef6d6b-ad34-41dd-823d-ec02337cc942
-type: declaration
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 27
+parent_chapter: 7692ac60-1e48-4282-9c1e-92dc2082a22c
+text: La sostenibilidad ambiental y la lucha contra el cambio climático se encuentran entre los principales retos que tenemos como sociedad. Un desafío que afecta a todos, y que debemos abordar desde todos los niveles políticos. Vamos a ser muy ambiciosos en lo que se refiere a economía circular, a la mitigación de emisiones y a la preservación de la biodiversidad, pero queremos hacerlo bajo la premisa de una transición ecológica justa, haciendo partícipes a la sociedad civil, a los agentes económicos y a las administraciones.
 categories: Economía
 topics: Desarrollo sostenible
-text: La sostenibilidad ambiental y la lucha contra el cambio climático se encuentran entre los principales retos que tenemos como sociedad. Un desafío que afecta a todos, y que debemos abordar desde todos los niveles políticos. Vamos a ser muy ambiciosos en lo que se refiere a economía circular, a la mitigación de emisiones y a la preservación de la biodiversidad, pero queremos hacerlo bajo la premisa de una transición ecológica justa, haciendo partícipes a la sociedad civil, a los agentes económicos y a las administraciones.

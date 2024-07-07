@@ -1,7 +1,6 @@
 id: 0f1fbdc4-1425-4d0f-9cfb-ebb2d4f01d6f
 type: promise
-parent_statement: 464aa0d3-92c5-424a-bca5-8ce58e0b8598
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 464aa0d3-92c5-424a-bca5-8ce58e0b8598
+parent_chapter: 4a4ec318-0db9-4da1-9515-2b36e808a75f
+text: Impulso y dotación de más competencias y medios al Observatorio de la Nutrición y de Lucha contra la Obesidad.
 categories: Consumo
 topics: Alimentación saludable
-text: Impulso y dotación de más competencias y medios al Observatorio de la Nutrición y de Lucha contra la Obesidad.

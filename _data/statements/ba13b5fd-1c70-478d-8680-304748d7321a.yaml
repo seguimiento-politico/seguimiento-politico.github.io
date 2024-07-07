@@ -1,6 +1,6 @@
 id: ba13b5fd-1c70-478d-8680-304748d7321a
-type: declaration
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 95
-categories: Política internacional
+parent_chapter: 65567664-6676-4d53-b234-fd4300e68287
+children_promises: []
+children_statements:
+- 739f138e-44a1-477b-ae3a-52ed233fe6a1
+- 0e8934d3-ab8c-4633-b96c-aac3bbeac683
 title: LA VOCACIÓN EXTERIOR DE ESPAÑA
-has_children: true
+categories: Política internacional

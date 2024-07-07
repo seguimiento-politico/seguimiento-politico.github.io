@@ -1,6 +1,6 @@
 id: 8f9b4ab0-be68-4707-a7c1-443728f65355
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 75
+parent_chapter: ef0bb89b-1b90-4682-a618-d8eea7201020
 title: Convertir el trabajo a tiempo parcial en una opción digna.
 text: Adoptaremos una serie de protecciones de estos trabajadores y de estas trabajadoras —la mayoría, mujeres—, que aproxime este tipo de contrato a una forma moderna de combinar el trabajo con la vida, como sucede en muchos Estados de nuestro entorno. En particular, exigiremos definir el horario en el contrato, con una distribución regular, de manera que los trabajadores y las trabajadoras puedan organizar su vida Además, y según la regulación actual, las horas realizadas más allá del contrato de trabajo no se consideran horas extras Eliminaremos esto y haremos que todas aquellas se consideren horas extras y se paguen como tal Respecto a este y otros supuestos laborales, es urgente reforzar el rol de la Inspección de Trabajo y Seguridad Social para hacer cumplir la ley

@@ -1,7 +1,6 @@
 id: 51aaa1ba-caf9-4127-8ee2-218e5674fa0a
 type: promise
-parent_statement: 514c8ee4-7c0a-469d-be1c-14d339315680
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Trabajo
+parent_statement: 514c8ee4-7c0a-469d-be1c-14d339315680
+parent_chapter: 064fdf66-6754-4979-b8ea-d7f30ac31767
 text: Subiremos el salario mínimo interprofesional por encima del IPC anual para mantener la ga- nancia de poder adquisitivo de las personas que lo cobran. La subida del SMI llevada a cabo por el Ministerio de Trabajo en el marco del diálogo social en los últimos cuatro años ha demostrado ser el mejor instrumento para combatir la pobreza laboral, la desigualdad y la brecha de género. Ahora, además, los incrementos del SMI deben servir para impulsar el crecimiento salarial general de nuestro país.
+categories: Trabajo

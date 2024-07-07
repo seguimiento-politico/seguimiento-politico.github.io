@@ -1,6 +1,6 @@
 id: 30fe6a2e-f9b1-4afd-a9db-8a3ad1c13b5d
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 38
+parent_chapter: eafb5f3a-18c5-49d4-af67-5a250182a9b7
+text: Proteger y conservar el patrimonio histórico-artístico tradicional como garante de nuestra identidad nacional y motor económico y turístico, mediante un plan nacional de catalogación, restauración, conservación y difusión del mismo, con el apoyo de una nueva ley de mecenazgo.
 categories:
 - Territorio rural
-text: Proteger y conservar el patrimonio histórico-artístico tradicional como garante de nuestra identidad nacional y motor económico y turístico, mediante un plan nacional de catalogación, restauración, conservación y difusión del mismo, con el apoyo de una nueva ley de mecenazgo.

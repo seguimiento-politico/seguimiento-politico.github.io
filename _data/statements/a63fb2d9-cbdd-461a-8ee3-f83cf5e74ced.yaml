@@ -1,6 +1,6 @@
 id: a63fb2d9-cbdd-461a-8ee3-f83cf5e74ced
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 110
+parent_chapter: 8a474e92-a922-4e8e-9aca-16ac157ca40a
+text: 'Entre las medidas que impulsaremos con el objetivo de prevenir incendios y facilitar su extinción se encuentran: facilitar el pastoreo de ganadería extensiva, realización de cortafuegos, limpieza de montes, desbroce y recogida de leña y dotar de material y equipos suficientes a los bomberos y demás servicios de emergencia. También incrementaremos las penas a los pirómanos y autores de incendios.'
 categories:
 - Medioambiente
-text: 'Entre las medidas que impulsaremos con el objetivo de prevenir incendios y facilitar su extinción se encuentran: facilitar el pastoreo de ganadería extensiva, realización de cortafuegos, limpieza de montes, desbroce y recogida de leña y dotar de material y equipos suficientes a los bomberos y demás servicios de emergencia. También incrementaremos las penas a los pirómanos y autores de incendios.'

@@ -1,7 +1,6 @@
 id: bd5725f7-d803-4650-a3e8-3e98e7d959ba
 type: promise
-parent_statement: 50d0d5bd-7313-40a5-80cd-9a52a7b0f2a0
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Trabajo
+parent_statement: 50d0d5bd-7313-40a5-80cd-9a52a7b0f2a0
+parent_chapter: e9e1334a-785f-47ff-a9d1-05e1b24e1b85
 text: Mejora de ajuste oferta-demanda de trabajo mediante un sistema integrado de información de los sistemas de gestión del SEPE y de la Seguridad Social. De esta forma, mejoraremos el mecanismo de ajuste de oferta y demanda de trabajo (matching), con la integración de los sistemas de gestión de los Servicios Públicos de Empleo y la Tesorería General de la Seguridad Social, la creación de un sistema integrado de información sobre vacantes, demandantes de empleo y perfiles formativos y la introducción de herramientas de inteligencia artificial para alinear las vacantes con los perfiles de las personas desempleadas.
+categories: Trabajo

@@ -1,6 +1,6 @@
 id: e3f9eebe-6b93-4046-b527-cd602ebd15e1
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 181
+parent_chapter: 63ab839a-6275-4d54-bf9b-ec036a685a75
+children_promises:
+- bce71b3f-d002-4a8e-b544-537d28a16b02
+- 133aa2b4-2edb-4575-beda-773a6aca8c7a
+- 767d6084-73be-4446-be48-10cb0dadcf9e
+children_statements: []
+title: Red de equipamientos para la inclusión digital
 categories: Educación
 topics: Digitalización
-title: Red de equipamientos para la inclusión digital
-has_children: true

@@ -1,6 +1,6 @@
 id: 7c5df6a3-60f1-4e46-a0c6-0334a7cbf095
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 6
+parent_chapter: 73e0eb17-ca17-45e8-a4bd-217e9f7fe4bf
+text: Promoveremos que la tanto la transición digital como la transición energética se llevan a cabo aprovechando la potencial  idad de nuestro tej  ido productivo, de forma que se despliegue una política industrial que favorezca la mayor participación posible de las empresas radicadas en España en la producción de los componentes necesarios para estos procesos de modernización económica.
 categories: Economía
 topics: Desarrollo sostenible
-text: Promoveremos que la tanto la transición digital como la transición energética se llevan a cabo aprovechando la potencial  idad de nuestro tej  ido productivo, de forma que se despliegue una política industrial que favorezca la mayor participación posible de las empresas radicadas en España en la producción de los componentes necesarios para estos procesos de modernización económica.

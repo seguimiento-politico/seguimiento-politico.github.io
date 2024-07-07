@@ -1,6 +1,6 @@
 id: 009e9a08-b749-4c6f-8c87-1f2f72c3162d
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 54
+parent_chapter: d6814cd3-b2e5-4b90-a62f-2c3e6434b1be
+children_promises:
+- 98e97175-24d5-4a0a-bcef-b886327b39d8
+- 49bd11a1-48a9-432b-b97a-07b858b0b5a1
+children_statements: []
+title: Crearemos el Consejo Digital Joven, con el fin de contar con un órgano consultivo para articular las contribuciones y propuestas de las generaciones más jóvenes en la definición y ejecución de las políticas públicas en el ámbito digital.
 categories: Derechos y servicios sociales
 topics: Derechos digitales
-title: Crearemos el Consejo Digital Joven, con el fin de contar con un órgano consultivo para articular las contribuciones y propuestas de las generaciones más jóvenes en la definición y ejecución de las políticas públicas en el ámbito digital.
-has_children: true

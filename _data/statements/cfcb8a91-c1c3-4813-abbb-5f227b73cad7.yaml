@@ -1,6 +1,6 @@
 id: cfcb8a91-c1c3-4813-abbb-5f227b73cad7
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 74
+parent_chapter: ef0bb89b-1b90-4682-a618-d8eea7201020
 title: Poner coto a las trampas para mantener una temporalidad fraudulenta.
 text: En primer lugar, si se despide a un trabajador o a una trabajadora con un contrato temporal fraudulento conforme a estas reglas, ese despido será nulo y se deberá readmitir al trabajador o a la trabajadora con un contrato indefinido. Con esta medida, evitaremos que los infractores o las infractoras opten por despedir a sus trabajadores y trabajadoras temporales antes de que sus contratos se conviertan en indefinidos. En segundo lugar, penalizaremos a las empresas que hagan un uso excesivo de la contratación temporal con una cuota empresarial a la Seguridad Social más alta e implementaremos programas específicos de inspección en sectores que se encuentren en una especial situación de precariedad, como ocurre con muchos de los empleos feminizados

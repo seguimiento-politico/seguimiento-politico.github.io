@@ -1,6 +1,6 @@
 id: 56508e08-ed11-4a63-8002-dca780bb6c82
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 193
-categories: Derechos y servicios sociales
-topics: Discapacidad
+parent_chapter: f4d30405-da8f-4647-bc30-ce8a01fe2c1a
 title: Vida Independiente.
 text: La ley 39/2006 de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia aborda el derecho a la autonomía personal de las personas con discapacidad física, sensorial, sicosocial o intelectual. Daremos más protagonismo a la asistencia personal para el desarrollo de una vida autónoma, y mejoraremos la teleasistencia avanzada y accesible.
+categories: Derechos y servicios sociales
+topics: Discapacidad

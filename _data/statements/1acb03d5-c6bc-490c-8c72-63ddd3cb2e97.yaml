@@ -1,6 +1,6 @@
 id: 1acb03d5-c6bc-490c-8c72-63ddd3cb2e97
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 35
+parent_chapter: a507bf09-1837-436d-9255-f7223e1c8c0f
+children_promises:
+- 46374f54-6905-45b7-b8ea-5674d835d5ea
+children_statements: []
+title: Impulsaremos la competitividad de las empresas europeas y la autonomía estratégica
 categories: Política internacional
 topics: Europa
-title: Impulsaremos la competitividad de las empresas europeas y la autonomía estratégica
-has_children: true

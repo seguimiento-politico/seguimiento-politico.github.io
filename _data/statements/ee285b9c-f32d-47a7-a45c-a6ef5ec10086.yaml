@@ -1,6 +1,6 @@
 id: ee285b9c-f32d-47a7-a45c-a6ef5ec10086
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 176
-categories: Derechos y servicios sociales
+parent_chapter: c208ef1c-97fc-4757-9df3-ce1b7508a041
 text: Proposición no de Ley relativa al fomento de la vida y a la garantía del consentimiento informado como alternativa a la práctica del aborto. En tanto no se produzca la derogación de la ley del aborto, con el fin de proteger la vida, instamos a la mejora de la información que se proporciona a las mujeres embarazadas (febrero 2023).
+categories: Derechos y servicios sociales

@@ -1,6 +1,6 @@
 id: 2da88433-3a08-49e5-9e94-8ea265a208f3
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 67
+parent_chapter: 4a4ec318-0db9-4da1-9515-2b36e808a75f
+children_promises:
+- bcacbc10-d48e-47c5-8bc1-fededd24b240
+children_statements:
+- 260c1886-3737-4659-bcda-f4ecf48513c5
+title: Política fiscal para incentivar el consumo de alimentos saludables y sostenibles y reducir el de alimentos no saludables ni sostenibles.
 categories: Consumo
 topics: Alimentación saludable
-title: Política fiscal para incentivar el consumo de alimentos saludables y sostenibles y reducir el de alimentos no saludables ni sostenibles.
-has_children: true

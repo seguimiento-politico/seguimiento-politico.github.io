@@ -1,7 +1,6 @@
 id: 0e31dfe3-4e26-458e-9e31-88478c310ef9
 type: promise
-parent_statement: 3223e108-7398-465d-840e-d960053e65e9
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 3223e108-7398-465d-840e-d960053e65e9
+parent_chapter: d59fe7bc-7318-4c18-a232-113ef256f4dd
+text: En este sentido, proponemos una regulación soft; es decir, promover un debate público que culmine en códigos de buenas prácticas y compromisos de las partes.
 categories: Democracia
 topics: Participación ciudadana
-text: En este sentido, proponemos una regulación soft; es decir, promover un debate público que culmine en códigos de buenas prácticas y compromisos de las partes.

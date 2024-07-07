@@ -1,6 +1,6 @@
 id: 56482b31-a768-42c2-8a4b-81016e7824f4
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 64
+parent_chapter: de18231f-ea27-483e-81a9-f51977d7f26c
 title: Cerrar los centros de internamiento de extranjeros (CIE).
 text: Ningún modelo de privación de la libertad de las personas según su situación administrativa es adecuado para la recepción y acogida de personas migrantes Es una excepción jurídica y democrática a la que se debe poner fin.

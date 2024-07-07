@@ -1,13 +1,16 @@
 id: acb25f82-8605-4fa7-b6b7-34b1330a9420
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 96
+parent_chapter: 0529bbb5-e109-4263-9f25-88381fa42e25
+children_promises:
+- 2b6b5f25-82a5-4b83-9b52-4b9f13467724
+children_statements: []
+text: Daremos un nuevo impulso al Espacio Europeo de Seguridad y Justicia para reforzar la colaboración judicial y policial y los mecanismos de intercambio de información ante los nuevos desafíos.
 categories: Política Internacional
 topics: Europa
-text: Daremos un nuevo impulso al Espacio Europeo de Seguridad y Justicia para reforzar la colaboración judicial y policial y los mecanismos de intercambio de información ante los nuevos desafíos.
-has_children: true

@@ -1,6 +1,6 @@
 id: 50e6b605-3ece-4c8b-8ce4-5f91ffb4e173
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 42
-categories: Vivienda
+parent_chapter: b958cf54-1e2a-46d1-94d9-83d7f5877612
 text: Promoveremos el incremento de los medios técnicos y personales de los Ayuntamientos encargados de la redacción de los informes técnicos pertinentes para la concesión de licencias, así como la agilización burocrática. Promoveremos entre las regiones y las Entidades Locales la implantación de sistemas por los que se digitalice el proceso de tramitación de licencias.
+categories: Vivienda

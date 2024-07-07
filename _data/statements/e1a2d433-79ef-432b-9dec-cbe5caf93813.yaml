@@ -1,6 +1,6 @@
 id: e1a2d433-79ef-432b-9dec-cbe5caf93813
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 92
+parent_chapter: a6b0904c-226b-4036-b418-18f80e2f7fbb
+text: Otro de los factores decisivos para la transición ecológica ligada a la calidad de vida de las personas es conseguir un sistema que garantice una movilidad sostenible de cercanía y baja en emisiones.
 categories: Derechos y servicios sociales
 topics: Medioambiente saludable, Contaminación
-text: Otro de los factores decisivos para la transición ecológica ligada a la calidad de vida de las personas es conseguir un sistema que garantice una movilidad sostenible de cercanía y baja en emisiones.

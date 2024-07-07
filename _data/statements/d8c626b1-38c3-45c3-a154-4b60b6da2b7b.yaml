@@ -1,7 +1,6 @@
 id: d8c626b1-38c3-45c3-a154-4b60b6da2b7b
 type: promise
-parent_statement: 2daed85c-595d-4151-b9fc-b084ebb1124e
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 2daed85c-595d-4151-b9fc-b084ebb1124e
+parent_chapter: c794cb24-1c55-422f-8b6d-1ff29ad1ed87
+text: Trabajaremos por un mayor pluralismo en el pensamiento económico dentro de las instituciones de la Unión Europea, impulsando un enfoque de elaboración de políticas que se base en indicadores que midan el progreso más allá del PIB y apostando por avanzar hacia un modelo más allá del crecimiento.
 categories: Política internacional
 topics: Europa
-text: Trabajaremos por un mayor pluralismo en el pensamiento económico dentro de las instituciones de la Unión Europea, impulsando un enfoque de elaboración de políticas que se base en indicadores que midan el progreso más allá del PIB y apostando por avanzar hacia un modelo más allá del crecimiento.

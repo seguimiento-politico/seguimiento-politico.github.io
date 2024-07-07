@@ -1,6 +1,6 @@
 id: e47d4a41-aa4c-4784-a482-af2ce7147265
-type: declaration
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 77
-categories: Administración pública
+parent_chapter: b3f3a427-7acf-443a-9179-5ef199e2ef15
 text: La experiencia de las últimas décadas y muy en particular las crisis financiera y sanitaria demuestran que es necesario reforzar los mecanismos de cooperación entre administraciones, empezando por la Conferencia de presidentes.
+categories: Administración pública

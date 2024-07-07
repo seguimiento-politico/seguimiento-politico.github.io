@@ -1,6 +1,6 @@
 id: 9e93e20a-c53f-4c73-87de-fccf6cee3ac9
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 32
-categories: Educación
+parent_chapter: 8dc56675-db4f-4450-b565-3d1b2de80c30
 text: Aprobaremos una Ley Nacional de Educación duradera que establezca unos contenidos comunes y cuya máxima sea la de hacer de la educación un motor de desarrollo personal de nuestra juventud y elemento de cohesión nacional, lejos del sectarismo y la imposición ideológica radical que han permitido y promovido los partidos del consenso progre.
+categories: Educación

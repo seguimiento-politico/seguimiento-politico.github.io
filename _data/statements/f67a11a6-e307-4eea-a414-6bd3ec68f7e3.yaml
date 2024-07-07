@@ -1,6 +1,6 @@
 id: f67a11a6-e307-4eea-a414-6bd3ec68f7e3
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 127
+parent_chapter: a7853898-5bb1-4a7c-8910-f570fc691c52
+text: Pondremos sentido común a la nefasta técnica legislativa de los últimos gobiernos, que han abusado del Real Decreto Ley, y de la voracidad normativa, derogando normas para simplificar las leyes y reglamentos.
 categories:
 - Justicia
-text: Pondremos sentido común a la nefasta técnica legislativa de los últimos gobiernos, que han abusado del Real Decreto Ley, y de la voracidad normativa, derogando normas para simplificar las leyes y reglamentos.

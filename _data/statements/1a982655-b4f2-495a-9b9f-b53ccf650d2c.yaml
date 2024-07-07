@@ -1,6 +1,6 @@
 id: 1a982655-b4f2-495a-9b9f-b53ccf650d2c
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 35
-categories: Turismo
+parent_chapter: e3e569f4-831c-4c4a-a8aa-6f7cb6b0ef93
 text: POSICIONAREMOS ESPAÑA COMO REFERENTE MUNDIAL EN DESTINO DE CONTRIBUCIÓN MEDIOAMBIENTAL, fomentando la sostenibilidad de las empresas del sector. También como referente mundial del talento especialista en el sector turístico, impulsando la creación de centros de excelencia en formación de turismo a nivel internacional. Formularemos el Plan Nacional de Formación y Reciclaje Profesional de calidad en el ámbito turístico.
+categories: Turismo

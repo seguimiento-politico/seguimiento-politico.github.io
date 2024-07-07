@@ -1,6 +1,6 @@
 id: 6550aea5-c484-4766-95c9-ef178d452578
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,6 +9,9 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 3
-categories: Nacionalismo y patriotismo
+parent_chapter: 0c19cae3-98a2-45ba-a607-41aadce4ec63
+children_promises:
+- c847a31e-2a45-4209-8922-bb42d95b7234
+children_statements: []
 title: Identidad nacional
-has_children: true
+categories: Nacionalismo y patriotismo

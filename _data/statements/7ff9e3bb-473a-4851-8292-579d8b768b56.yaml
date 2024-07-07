@@ -1,6 +1,6 @@
 id: 7ff9e3bb-473a-4851-8292-579d8b768b56
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 103
-categories: Seguridad y defensa
+parent_chapter: 8111ba6c-3b65-4860-b688-9b9d2c1dc86c
 text: ELEVAREMOS EL NÚMERO DE EFECTIVOS DE LAS FUERZAS ARMADAS durante dos legislaturas hasta alcanzar los 140.000 previstos por la ley y mejoraremos sus condiciones sociolaborales resolviendo años de injusticia, de acuerdo con los parámetros del Observatorio de la Vida Militar y con los principios de mérito y capacidad. Se computarán los años de servicio en las Fuerzas Armadas para todas las ofertas públicas de empleo, en especial para aquellos cuerpos y funciones relacionadoscon la seguridad del Estado, incluidas las policías autonómicas y locales respetando los marcos competenciales. Invertiremos en recursos y medios, especialmente tecnológicos y digitales, para responder a los riesgos que puedan presentarse.
+categories: Seguridad y defensa

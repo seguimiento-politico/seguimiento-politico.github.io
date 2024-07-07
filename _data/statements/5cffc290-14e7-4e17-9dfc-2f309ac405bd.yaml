@@ -1,6 +1,6 @@
 id: 5cffc290-14e7-4e17-9dfc-2f309ac405bd
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 49
-categories: Industria
+parent_chapter: 52ae8dc4-28e9-4398-8226-2aed999f465f
+children_promises:
+- 89eff9c4-d7f6-40a1-8d08-f7daa5b64391
+- c5654eaa-37ee-4fee-8bf7-08ded2f0e1d8
+children_statements: []
 title: Vamos a apoyar a los sectores intensivos en energía, para que puedan reducir el coste de la electricidad y el gas
-has_children: true
+categories: Industria

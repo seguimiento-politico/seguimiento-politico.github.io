@@ -1,7 +1,6 @@
 id: e2869ec7-3f6e-46c0-9453-01ba3be37899
 type: promise
-parent_statement: 3ac7c77d-f36f-46ea-bef8-6385640ad89e
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 3ac7c77d-f36f-46ea-bef8-6385640ad89e
+parent_chapter: c2c75a7e-7842-4287-9086-d85c4a8cebaa
+text: Abordaremos normativas, herramientas y recursos para garantizar la igualdad y la diversidad tanto en el acceso y disfrute de la cultura como en todas las capas de las industrias y sectores culturales y creativos y de los poderes e instituciones públicas culturales, de todas aquellas personas y colectivos cuya presencia y participación viene condicionada por divisiones de clase, renta y capital cultural; diversidad sexual y de género; diversidad étnico-racial o personas con discapacidad.
 categories: Cultura
 topics: Igualdad
-text: Abordaremos normativas, herramientas y recursos para garantizar la igualdad y la diversidad tanto en el acceso y disfrute de la cultura como en todas las capas de las industrias y sectores culturales y creativos y de los poderes e instituciones públicas culturales, de todas aquellas personas y colectivos cuya presencia y participación viene condicionada por divisiones de clase, renta y capital cultural; diversidad sexual y de género; diversidad étnico-racial o personas con discapacidad.

@@ -1,6 +1,6 @@
 id: 03f43e72-bf17-4cd1-9a67-1e5cf408f5a5
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 23
-categories: Trabajo
+parent_chapter: 80d48e2e-109f-4d20-9b2c-09d128e89470
+children_promises:
+- ea1ee84d-910b-40d8-8c08-8216fe61566b
+children_statements: []
 title: Reforzaremos la obligación de la empresa de informar a las personas trabajadoras y dar participación a la representación de las trabajadoras en todos los aspectos relacionados con el tiempo de trabajo
-has_children: true
+categories: Trabajo

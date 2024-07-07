@@ -1,6 +1,6 @@
 id: bda7bc9b-f6a4-4598-89bf-53c0279fb729
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 19
-categories: Trabajo
+parent_chapter: 2817bce5-ff8f-4e37-968e-c4f707d06358
 text: INCREMENTAREMOS LA RELACIÓN DE LOS SERVICIOS PÚBLICOS DE EMPLEO CON LAS EMPRESAS, mediante unidades de atención especializadas, de potenciación de la prospección de necesidades formativas y de nuevas profesiones, de adopción de modelos de competencias y de renovación de los contenidos formativos. Implementaremos programas de formación que adapten las capacidades de los demandantes de empleo a los puestos de trabajo ofertados, con especial atención a los jóvenes, a los mayores de 50 años y a los desempleados de larga duración.
+categories: Trabajo

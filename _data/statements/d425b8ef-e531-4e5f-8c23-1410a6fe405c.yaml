@@ -1,6 +1,6 @@
 id: d425b8ef-e531-4e5f-8c23-1410a6fe405c
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 124
-categories: Justicia
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
+children_promises:
+- d89ea132-1484-4de1-9db3-bcadbf0990fe
+- 3e05c0eb-b85f-44ad-9648-bdee474eb393
+- e4b2b54e-ae6a-4b3f-a174-f2aec14609cf
+children_statements:
+- 84b95ce8-e319-43c4-9ae8-73a94d5b991d
 title: Avanzaremos hacia la digitalización de la justicia
-has_children: true
+categories: Justicia

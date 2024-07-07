@@ -1,6 +1,6 @@
 id: fe4a5456-5475-418b-b1de-440ff0fd14a6
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 170
-categories: Cultura
+parent_chapter: 320426aa-1c78-4932-bac1-68bc3278a847
+children_promises:
+- e2ca8101-6026-4f87-9c64-4b12a852977c
+- f0bb2445-bbae-4190-9944-c557f7f4abdc
+- 8a44f471-7a35-419e-bb16-2b3d04b39d5a
+- 49803b61-e50a-4774-a615-4eea5ef4bb71
+children_statements: []
 title: Derechos para la cultura digital
-has_children: true
+categories: Cultura

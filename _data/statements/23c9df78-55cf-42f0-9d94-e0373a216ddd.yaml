@@ -1,6 +1,6 @@
 id: 23c9df78-55cf-42f0-9d94-e0373a216ddd
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,15 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 146
+parent_chapter: 8e1e3920-c101-4470-95ce-14d3cac3fb58
+children_promises:
+- 99e5524d-1490-4a3a-bb3f-dc2c0977ff76
+- 6659f2e6-bb68-4734-b178-4f98885b39db
+- dc93e7fd-b670-4505-a55d-f389741d212d
+- b04b1c5d-4bb8-4d2b-9308-e5e4cd4d999d
+- 9fab98a2-b716-440e-8293-3a6e5df86dbe
+- b03b7180-3d36-4e80-b641-1f207ba82c1f
+children_statements: []
+text: Impulsaremos la aprobación de la Ley Orgánica de Representación Paritaria de Mujeres y Hombres en los Órganos de Decisión, que garantizará la igualdad efectiva en la toma de decisiones política, de la administración y de las empresas.
 categories: Democracia
 topics: Igualdad
-text: Impulsaremos la aprobación de la Ley Orgánica de Representación Paritaria de Mujeres y Hombres en los Órganos de Decisión, que garantizará la igualdad efectiva en la toma de decisiones política, de la administración y de las empresas.
-has_children: true

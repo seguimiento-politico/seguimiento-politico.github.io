@@ -1,6 +1,6 @@
 id: 452938aa-d020-411b-b6a0-77278f48e431
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 96
-categories: Territorio rural
+parent_chapter: a3a2bcef-639e-4ece-9019-54155677f95a
 text: Vamos a seguir reforzando las capacidades de la AGE en el territorio.
+categories: Territorio rural

@@ -1,6 +1,6 @@
 id: 7e5c326d-9686-424e-8e39-7b2a7559ff66
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 261
+parent_chapter: 38288eee-22f8-4b04-9cc2-75e049f829d0
+text: Seguiremos impulsando el refuerzo presupuestario y caminando hacia el objetivo el 0,7% de la Renta Nacional Bruta en Ayuda Oficial al Desarrollo en 2030, destinando el 10% a Ayuda Humanitaria.
 categories: Política internacional
 topics: Cooperación internacional
-text: Seguiremos impulsando el refuerzo presupuestario y caminando hacia el objetivo el 0,7% de la Renta Nacional Bruta en Ayuda Oficial al Desarrollo en 2030, destinando el 10% a Ayuda Humanitaria.

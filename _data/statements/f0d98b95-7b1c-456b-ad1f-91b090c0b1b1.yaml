@@ -1,6 +1,6 @@
 id: f0d98b95-7b1c-456b-ad1f-91b090c0b1b1
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 32
-categories: Trabajo
+parent_chapter: 8334330f-156c-4154-9c8c-27f20def2bb6
+children_promises:
+- bbf8c21f-a980-4351-ae69-feb81b4e583f
+children_statements: []
 title: Apoyaremos la aplicación del Acuerdo para el Empleo y la Negociación Colectiva para que los salarios ganen poder adquisitivo
-has_children: true
+categories: Trabajo

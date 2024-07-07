@@ -1,6 +1,6 @@
 id: da5095ad-5ec9-44ef-bd2c-aefee0d0102d
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 28
-categories: Trabajo
+parent_chapter: b3962e05-bd69-4c4c-a4f4-32760cf9c456
+children_promises:
+- ebc4e56b-fdba-46b4-9c63-8613e917eeba
+- fcc49374-35b1-4b12-a0f7-f6947087880b
+children_statements: []
 title: Ni precariedad, ni discriminación
-has_children: true
+categories: Trabajo

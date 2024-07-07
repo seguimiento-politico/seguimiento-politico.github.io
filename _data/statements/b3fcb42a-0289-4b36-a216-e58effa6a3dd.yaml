@@ -1,7 +1,6 @@
 id: b3fcb42a-0289-4b36-a216-e58effa6a3dd
 type: promise
-parent_statement: 707805fc-6e9c-401d-ab43-1c5386e50ca7
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Deporte
+parent_statement: 707805fc-6e9c-401d-ab43-1c5386e50ca7
+parent_chapter: 7cb07f90-2b71-46f2-af0b-2684ec9ab916
 text: Es necesario dotar de los medios necesarios para la modernización de las federaciones y los clubes deportivos en nuestro país, con el propósito de convertirlas en entidades más eficientes y solventes.
+categories: Deporte

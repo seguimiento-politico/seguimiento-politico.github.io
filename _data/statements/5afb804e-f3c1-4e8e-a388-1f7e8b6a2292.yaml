@@ -1,7 +1,6 @@
 id: 5afb804e-f3c1-4e8e-a388-1f7e8b6a2292
 type: promise
-parent_statement: c71437f8-a584-4ede-b166-27710efbb186
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: c71437f8-a584-4ede-b166-27710efbb186
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+text: Será una prioridad garantizar el acceso efectivo al derecho al aborto desde los servicios públicos de salud en todo el territorio y en condiciones de igualdad.
 categories: Democracia
 topics: Igualdad
-text: Será una prioridad garantizar el acceso efectivo al derecho al aborto desde los servicios públicos de salud en todo el territorio y en condiciones de igualdad.

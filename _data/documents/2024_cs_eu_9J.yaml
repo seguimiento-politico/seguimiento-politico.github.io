@@ -1,0 +1,456 @@
+id: 693bf5fb-8a86-4b44-a837-5610afe44da3
+version: 2
+type: 'manifesto'
+parties: CIUDADANOS
+election_type: 'europeas'
+election_date: '2024-06-09'
+publication_date: '2024-05-27'
+url: 'https://www.ciudadanos-cs.org/var/public/documentos/2024-05/programa-electoral-9j-europeas.pdf'
+web_history: 'https://web.archive.org/web/20240531064113/https://www.ciudadanos-cs.org/var/public/documentos/2024-05/programa-electoral-9j-europeas.pdf'
+title: 'Elecciones europeas 2024'
+description: '70 compromisos del “Equipo España” para construir una Europa al servicio de gente como tú'
+content:
+- statement:
+    id: bf7230c8-a79a-4109-ae28-2e83826b7a48
+    page: 2
+    text: Comprendemos que, después de tantas elecciones en los últimos meses, estés cansado y tengas pocas ganas de participar en las próximas elecciones europeas. También comprendemos que estés saturado de que el bipartidismo, el nacionalismo y el populismo estén convirtiendo la política española en un espectáculo bochornoso. Sabemos que estás hastiado de que representantes políticos actuales prioricen en la agenda política sus intereses personales, generando una tensión y conflictos políticos innecesarios para la sociedad. Todo ello supone un coste de oportunidad, el de no priorizar los problemas reales a los nos enfrentamos a diario los ciudadanos y ciudadanas. Las dificultades para encontrar un trabajo o acceder a una vivienda, para poner en marcha ideas de negocio, para mantener nuestros campos productivos, la posibilidad de formar una familia, la educación, la atención sanitaria, la ineficiente burocracia administrativa, la financiación de las pensiones del mañana y nuestro futuro en su conjunto, son retos que no podemos posponer.
+- statement:
+    id: 8b32067f-c224-4f3c-a296-507bf327c7a3
+    page: 2
+    text: El hecho de que estés leyendo estas líneas significa que hay esperanza, que todavía hay personas que, como nosotros, creen que las cosas se pueden hacer mejor. Por eso, te presentamos 69 compromisos preliminares +1 propuesta en firme para construir en equipo una Europa cada vez más integrada que nos beneficie a todos. Nuestro principio de actuación será siempre el de alinear los derechos de los españoles y españolas a los estándares europeos.
+- statement:
+    id: 34231f4b-9e7a-43a7-9eb9-c2607b4294c6
+    page: 2
+    text: Si no quieres una política de bandos, te invitamos a sumarte al Equipo España. Te aseguramos que no te vamos a fallar y que tu voto servirá para que en el Parlamento
+- statement:
+    id: 12edc544-c0c9-4602-b287-799a91a80832
+    page: 2
+    text: Europeo se defiendan tus derechos e intereses, garantizando tus libertades, sin retrocesos.
+- statement:
+    id: e5843fa1-0133-4197-acf6-76433207ac0e
+    page: 2
+    text: ¡Nos vemos en las urnas el 9 de junio!
+- statement:
+    id: 4748291f-2f89-487a-bb42-bd585325f1ac
+    page: 2
+    text: ¡Contamos contigo!
+- chapter:
+    title: Una europa para gente trabajadora y emprendedora 
+    children:
+    - promise:
+        id: 70ecb04b-9550-4fcb-a23b-77861e03459e
+        page: 3
+        text: Impulsaremos fondos y programas para emprendedores, especialmente en áreas estratégicas y en el ámbito de la economía social.
+        categories: [Política comunitaria, Empresas y autónomos]
+        topics: Economía social
+    - promise:
+        id: c11f6a86-a99c-4c54-af11-2cb544c05113
+        page: 3
+        text: Apoyaremos la creación de un fondo de inversión para la reindustrialización y la transición ecológica y digital.
+        categories: [Política comunitaria, Economía, Industria, Medioambiente]
+        topics: [Reindustrialización, Economía verde, Digitalización]
+    - promise:
+        id: 95281b31-1a6f-4a74-a60e-57786e78e9c3
+        page: 3
+        text: Promoveremos procesos administrativos más eficaces para que los autónomos y las pequeñas y medianas empresas (PYMEs) accedan a ayudas y programas europeos.
+        categories: [Política comunitaria, Empresas y autónomos]
+        topics: Ayudas y subvenciones
+    - promise:
+        id: 5669076f-8ca4-4a01-8338-a4137d21727e
+        page: 3
+        text: Potenciaremos los parques tecnológicos y viveros de empresas, también en zonas transfronterizas.
+        categories: [Política comunitaria, Economía, Industria, Empresas y autónomos, Ciencia y tecnología]
+    - promise:
+        id: a8ae8a6a-ddda-4e3a-9b08-6964db9f19ea
+        page: 3
+        text: Situaremos la Economía Social española, referente a nivel internacional, en el centro de la agenda política incorporándola de manera transversal en las políticas, industriales, económicas, sociales y de cooperación internacional.
+        categories: [Política comunitaria, Economía, Cooperación internacional]
+        topics: [Economía social]
+    - promise:
+        id: e0dede8c-485c-41ca-9442-9e60c8c2f0f2
+        page: 3
+        text: Promoveremos planes comunitarios transfronterizos de infraestructuras, reindustrialización, digitalización e innovación, que tengan un impacto directo en la generación de empleo y oportunidades de emprendimiento.
+        categories: [Política comunitaria, Economía, Industria, Infraestructuras]
+        topics: [Digitalización, Reindustrialización, Innovación]
+    - promise:
+        id: ebfb52fc-7623-4c8e-8dc0-7c80ca396e75
+        page: 3
+        text: Fomentaremos la eliminación de todas las trabas existentes para la comercialización intracomunitaria, no sólo de productos, sino también de servicios, y garantizaremos que los emprendedores puedan acceder al capital riesgo y a los fondos de inversión en toda Europa.
+        categories: [Política comunitaria, Empresas y autónomos, Comercio, Banca]
+    - promise:
+        id: 3d9091e8-1306-4cc0-b9ec-a71c26872167
+        page: 3
+        text: Trabajaremos para agilizar, estandarizar y regular los traslados de expedientes profesionales de un Colegio/Cámara profesional de un país miembro a otro, reduciendo papeleos y trámites para el reconocimiento de títulos y de antigüedad laboral.
+        categories: [Política comunitaria, Trabajo]
+        topics: [Burocracia, Homologación educativa, Homologación laboral]
+    - promise:
+        id: 38e216a6-1c43-4891-ab59-7d59b0dd3e78
+        page: 3
+        text: Impulsaremos que, en cualquier prueba de oposiciones, trámite u homologación laboral, se contabilice con las mismas ratios la experiencia ejercida en otro país miembro de la UE, haya sido ésta en centros públicos o privados. Asimismo, seguiremos denunciando la situación de abuso a los interinos de la administración.
+        categories: [Política comunitaria, Trabajo]
+        topics: [Homologación laboral, Empleo público]
+    - promise:
+        id: 4b2651c4-b275-4195-aa37-a77a7d18f7cd
+        page: 3
+        text: Impulsaremos programas de formación y desarrollo en inteligencia artificial para emprendedores y PYMEs, con el objetivo de mejorar la competitividad y eficiencia de las empresas europeas.  
+        categories: [Política comunitaria, Empresas y autónomos, Educación, Ciencia y tecnología, Economía]
+        topics: Inteligencia artificial
+    - promise:
+        id: 9b9570b3-7a4a-4bda-b7a5-006b33b020c7
+        page: 3
+        text: Promoveremos la investigación y el desarrollo en inteligencia artificial y sus aplicaciones dentro de la UE, con el objetivo de posicionar a Europa como líder global en tecnologías emergentes.
+        categories: [Política comunitaria, Economía, Ciencia y tecnología]
+        topics: Inteligencia artificial
+    - promise:
+        id: 60c9d35c-1568-4b97-94de-17ab31dbdf1b
+        page: 3
+        text: Trabajaremos por la armonización de normas en los distintos Estados miembros de la UE, de forma que se faciliten los procesos para nuestras empresas a la hora de exportar.
+        categories: [Política comunitaria, Comercio, Justicia]
+        topics: Homologación normativa
+    - promise:
+        id: 25bc1533-0887-4100-98fc-90abee99d8b8
+        page: 3
+        text: Plantearemos la creación de un sistema de Impuesto de Sociedades uniforme, más justo y sencillo en toda Europa.
+        categories: [Política comunitaria, Impuestos y financiación pública]
+        topics: [Impuesto de sociedades, Homologación fiscal]
+    - promise:
+        id: b3a7e7cb-ba5d-4f68-9dfc-ddff1e5faf6f
+        page: 3
+        text: Trabajaremos por la estandarización de los requisitos y criterios laborales para el acceso al mercado laboral de personas extracomunitarias, con el fin de atraer talento.
+        categories: [Política comunitaria, Trabajo, Migración]
+    - promise:
+        id: 25006495-a615-4418-9e31-24ee7c1091c8
+        page: 3
+        text: Exigiremos estudios de impacto sectorial de todas las políticas que se aprueben.
+- chapter:
+    title: Una europa para los jóvenes, las familias y los mayores 
+    children:
+    - promise:
+        id: f552f9c4-a120-41b0-a771-51d3b5649b2f
+        page: 4
+        text: Nuestro principal objetivo será que los jóvenes españoles disfruten de los mismos derechos que el resto de los jóvenes europeos y dejen de estar en el vagón de cola en indicadores de empleo o acceso a la vivienda.
+        categories: [Política comunitaria, Derechos y servicios sociales, Vivienda, Trabajo]
+    - promise:
+        id: 8d111a3a-4c20-4cdb-a0f1-028a80f6900f
+        page: 4
+        text: Fortaleceremos el programa Erasmus+ y los programas de cooperación entre universidades, centros educativos y centros de investigación.
+        categories: [Política comunitaria, Educación, Ciencia y tecnología]
+        topics: Erasmus
+    - promise:
+        id: 86bc56be-4d07-4e7d-b15a-68439f76b596
+        page: 4
+        text: Promoveremos la FP dual en sectores estratégicos y la movilidad para el desarrollo formativo y profesional.
+        categories: [Política comunitaria, Educación]
+        topics: Formación profesional
+    - promise:
+        id: 0937122b-4412-4e92-96f9-5785bd85adc1
+        page: 4
+        text: Enfocaremos los fondos y programas europeos en la creación de empleo juvenil de calidad.
+        categories: [Política comunitaria, Trabajo] 
+        topics: Empleo juvenil
+    - promise:
+        id: 3b7e6615-87fc-4296-a5b2-b2ca553229a5
+        page: 4
+        text: Impulsaremos la inclusión de la inteligencia artificial en los currículos educativos y programas de formación profesional para preparar a los jóvenes para los trabajos del futuro. 
+        categories: [Política comunitaria, Educación] 
+        topics: Inteligencia artificial
+    - promise:
+        id: 22d58ea5-dcb9-400a-8716-77ab292ed52b
+        page: 4
+        text: Reforzaremos el reconocimiento de todos los tipos de familias y sus derechos en todos los países comunitarios.
+        categories: [Política comunitaria, Familia] 
+        topics: Tipos de familia
+    - promise:
+        id: ed493846-fa2a-4412-94ff-0e3d99c64b88
+        page: 4
+        text: Trabajaremos por una tarjeta de familia numerosa común.
+        categories: [Política comunitaria, Familia] 
+        topics: Familias numerosas
+    - promise:
+        id: c12382f8-28a4-4225-a95d-34a8eba948ec
+        page: 4
+        text: Impulsaremos programas europeos integrales de fomento de la natalidad, que superen las simples ayudas por nacimiento.
+        categories: [Política comunitaria, Familia] 
+        topics: [Natalidad, Ayudas y subvenciones]
+    - promise:
+        id: ecaf93ed-1e2b-4043-9f7c-1d177b89d024
+        page: 4
+        text: Promoveremos un marco europeo para la conciliación de la vida laboral y profesional.
+        categories: [Política comunitaria, Trabajo] 
+        topics: Conciliación
+    - promise:
+        id: 4b842136-d3bb-4a67-aa13-58f8eb29c7fc
+        page: 4
+        text: Incluiremos en los programas europeos las necesidades de las personas con discapacidad y sus familias.
+        categories: [Política comunitaria, Derechos y servicios sociales] 
+        topics: Discapacidad
+    - promise:
+        id: ea73f0df-d387-4f0f-9ca2-e7b7d52dbf24
+        page: 4
+        text: Propondremos la creación de un plan de choque contra el abandono escolar a nivel europeo.
+        categories: [Política comunitaria, Educación] 
+        topics: Abandono escolar
+    - promise:
+        id: afcc55ea-9a32-47ce-a3f6-d37f3ee63e39
+        page: 4
+        text: Defenderemos la libre elección de centro educativo y la enseñanza en la lengua materna en todos los países y regiones de la Unión.
+        categories: [Política comunitaria, Educación, Lenguas]
+        topics: [Libre elección centro educativo, Libre elección lengua de enseñanza]
+    - promise:
+        id: 7b47375e-43ce-4117-889e-1f6d63fb0a97
+        page: 4
+        text: Apoyaremos una política sanitaria común en cuestiones básicas de salud (vacunas, medicamentos, pandemias, urgencias) y una tarjeta sanitaria comunitaria.
+        categories: [Política comunitaria, Sanidad, Derechos y servicios sociales]
+        topics: Homologación sanidad
+    - promise:
+        id: ffd2e561-a9b8-4755-bf56-4a88c950a42e
+        page: 4
+        text: Apoyaremos políticas comunitarias para la protección de los menores en el uso de internet y hacer frente al aumento del ciberacoso.
+        categories: Ciencia y tecnología
+        topics: [Ciberdelitos, Ciberacoso]
+    - promise:
+        id: 015178b0-168d-4511-a23b-786015a47cdd
+        page: 4
+        text: Impulsaremos una política común de envejecimiento activo.
+        categories: [Política comunitaria, Sanidad, Derechos y servicios sociales]
+        topics: Envejecimiento activo
+    - promise:
+        id: c79389ec-6e68-4122-850f-a3eb65ab679a
+        page: 4
+        text: Trabajaremos para fortalecer el sistema de atención a la dependencia, para que la calidad de vida de nuestros mayores sea una prioridad. 
+        categories: [Política comunitaria, Derechos y servicios sociales] 
+        topics: [Discapacidad, Dependencia]
+    - promise:
+        id: 5d95cc64-c5b6-4ce8-820a-ffcd451ccb0a
+        page: 4
+        text: Promoveremos un programa de turismo europeo para personas mayores, con el objetivo de lograr un mayor intercambio cultural y social.
+        categories: [Política comunitaria, Derechos y servicios sociales, Turismo]
+    - promise:
+        id: ff8dd887-b9df-425b-9788-35f336be9a09
+        page: 4
+        text: Propondremos la creación de una red europea de residencias de personas mayores con protocolos comunes y acceso comunitario.
+        categories: [Política comunitaria, Derechos y servicios sociales] 
+        topics: Residencias de mayores
+- chapter:
+    title: Una europa para los agricultores, los ganaderos, los pescadores y las personas que viven en el medio rural
+    children:
+    - promise:
+        id: ac60d6fd-0f56-4bb3-88c1-e42f9f2bb225
+        page: 5
+        text: Defenderemos los intereses de nuestros ganaderos, agricultores y pescadores, escuchando, respetando y apoyando sus justas reivindicaciones, así como los de todos los ciudadanos y ciudadanas del medio rural.
+        categories: [Política comunitaria, Agricultura, Ganadería, Pesca y acuicultura, Territorio rural]
+    - promise:
+        id: 7111cc2d-8dac-491f-93b7-3f4f09117b3d
+        page: 5
+        text: Exigiremos que la entrada de productos extracomunitarios no suponga, en ningún caso, competencia desleal para nuestras empresas.
+        categories: [Política comunitaria, Comercio]
+    - promise:
+        id: 2d410aaf-a3c1-4bb6-8ba1-dd07b2655d46
+        page: 5
+        text: Trabajaremos por la modernización del mundo rural a través de una mejora de la Política Agraria Común (PAC) y de los fondos y programas enfocados al mundo rural.
+        categories: [Política comunitaria, Agricultura, Ganadería, Territorio rural]
+        topics: PAC
+    - promise:
+        id: 1c639350-e080-44af-b695-6cf55822922d
+        page: 5
+        text: Haremos que el mundo rural se beneficie de políticas de reordenamiento territorial, que garanticen una administración eficaz y eficiente en la prestación de servicios y en la garantía de derechos de las personas residentes en zonas rurales.
+        categories: [Política comunitaria, Derechos y servicios sociales, Territorio rural]
+    - promise:
+        id: daae28f5-46df-40f2-a942-df15824c9d31
+        page: 5
+        text: Impulsaremos programas europeos de protección de ríos, bosques, espacios naturales y patrimonio histórico y cultural, que generen empleo y proyectos de I+D+i. 
+        categories: [Política comunitaria, Medioambiente, Cultura, Trabajo]
+        topics: [Investigación, Innovación]
+    - promise:
+        id: 60732032-15fb-4487-a796-5c4a3466c1d9
+        page: 5
+        text: Participaremos en la creación de una política de aranceles a las importaciones extracomunitarias de productos de agricultura y ganadería, y ampliaremos las ayudas directas a agricultores y ganaderos europeos. El objetivo es que nuestros agricultores y ganaderos compitan en igualdad de condiciones.
+        categories: [Política comunitaria, Agricultura, Ganadería, Pesca y acuicultura, Comercio]
+        topics: [Aranceles, Comercio exterior]
+    - promise:
+        id: 5b525ae9-903e-4642-a439-aa9b3ced1c7d
+        page: 5
+        text: Propondremos acelerar el despliegue de redes seguras, resistentes y de muy alta capacidad utilizando fondos ya asignados para atajar el déficit de conectividad en las pequeñas ciudades rurales y remotas, agilizando los procesos de aprobación y reforzando las asociaciones público-privadas. 
+        categories: [Política comunitaria, Territorio rural, Ciencia y tecnología]
+        topics: Internet
+    - promise:
+        id: 550019fa-6473-4afa-8f6a-fd863ea33bbc
+        page: 5
+        text: Propondremos la creación de planes e investigación para la lucha contra la sequía, la desertización, así como contra los incendios que tanto afectan a nuestros bosques y al entorno rural.
+        categories: [Política comunitaria, Medioambiente, Agua]
+        topics: [Sequía, Desertización, Incendios]
+- chapter:
+    title: Una europa para los que abogamos por una transición ecológica justa y responsable 
+    children:
+    - promise:
+        id: 786d6f24-f73b-4fb6-adfb-82623d6d6c8d
+        page: 5
+        text: Seguiremos impulsando la transición ecológica, de manera que no genere conflictos, sino que abra nuevas oportunidades y que nos sitúe en la vanguardia del mundo, liderando la protección de la biodiversidad y los ecosistemas, haciéndola a su vez compatible con la agricultura, pesca y con un turismo sostenible.
+        categories: [Política comunitaria, Medioambiente, Economía, Agricultura, Pesca y acuicultura, Turismo]
+        topics: [Biodiversidad]
+    - promise:
+        id: 2ca6fcc1-2e4b-4cee-b0ed-7cae323f0182
+        page: 5
+        text: Impulsaremos los programas necesarios para avanzar en la soberanía energética de la Unión Europea y de cada uno de sus miembros. No nos dejaremos llevar por los discursos populistas, por lo que analizaremos en cada contexto las diferentes alternativas, apostando por las que sean más limpias, sostenibles y al mismo tiempo, económicas.
+        categories: [Política comunitaria, Energía, Medioambiente]
+        topics: [Soberanía energética]
+    - promise:
+        id: f9005536-0140-4f6c-ab8f-ab0096e377e0
+        page: 5
+        text: Propondremos el uso de la inteligencia artificial en la gestión de recursos y la optimización de procesos para avanzar en la transición ecológica de manera más eficiente.
+        categories: [Política comunitaria, Medioambiente, Ciencia y tecnología]
+        topics: Inteligencia artificial
+    - promise:
+        id: 943bd5e2-48b1-4be1-b65b-cbb85b3156fe
+        page: 5
+        text: Fomentaremos la I+D+i, para que Europa lidere los sectores estratégicos en materia de transición ecológica y los convierta en una fuente de empleo y oportunidades.
+        categories: [Política comunitaria, Medioambiente, Ciencia y tecnología]
+        topics: [Investigación, Innovación]
+- chapter:
+    title: Una europa para los que velamos por una seguridad y defensa común 
+    children:
+    - promise:
+        id: 5b0f672d-8c48-4417-9c45-7d67b36fb26f
+        page: 6
+        text: Trabajaremos en la construcción de una política común de defensa. Puede ser una verdad incómoda, pero la mejor forma de defender la paz es estar preparados para defendernos.
+        categories: [Política comunitaria, Seguridad y defensa]
+    - promise:
+        id: 2eb94561-d13e-4884-9c60-95fbf9c9e7a0
+        page: 6
+        text: Apoyaremos a los ciudadanos de Ucrania, Moldavia, Georgia y a todos los aliados de la Unión Europea que vean amenazada su seguridad. En este sentido, plantearemos que la “cláusula de defensa mutua” (art. 42, TUE) se extienda también a los candidatos a ingresar en la UE que así lo soliciten.
+        categories: [Política comunitaria, Seguridad y defensa]
+        topics: Guerras
+    - promise:
+        id: 3b65bf7d-4259-498c-9368-521ac7f2d25c
+        page: 6
+        text: Promoveremos una política de flujos migratorios ordenada, segura, regulada, común, clara y estable, en colaboración con los países de origen y tránsito.
+        categories: Migración
+    - promise:
+        id: 65aad920-be68-442d-9b4c-643d692ae504
+        page: 6
+        text: Fomentaremos la creación de un Ejército Europeo, en el marco de la OTAN, que se encargue, principalmente, de zonas fronterizas en conflicto.
+        categories: [Política comunitaria, Seguridad y defensa]
+        topics: [Ejército europeo, OTAN]
+    - promise:
+        id: 3734ab0c-ded0-4070-b864-a35a351d768a
+        page: 6
+        text: Propondremos la creación, de manera paulatina, de una Policía Europea, especializada y conectada en materia de terrorismo, trata de mujeres, tráfico y flujos de inmigración y tráfico de drogas. En este sentido, potenciaremos los recursos y competencias de la Agencia Europea de la Guardia de Fronteras y Costas (Frontex).
+        categories: [Política comunitaria, Seguridad y defensa, Migración]
+        topics: [Policía europea, Terrorismo, Tráfico de drogas, Trata de personas, Frontex]
+    - promise:
+        id: 47ca6940-4d20-4421-9e4a-602f061af6de
+        page: 6
+        text: Impulsaremos las medidas necesarias para garantizar la seguridad y la prosperidad de las regiones ultraperiféricas de la Unión Europea, lo que incluye a las Islas Canarias. Trabajaremos por la inclusión de Ceuta y Melilla en esta categoría.
+        categories: [Política comunitaria, Seguridad y defensa]
+        topics: [Regiones ultraperiféricas, Canarias, Ceuta y Melilla]
+    - promise:
+        id: 508618a5-fcbd-491a-bbe4-6885d0465fbc
+        page: 6
+        text: Nos preocuparemos de la seguridad física, pero también de la cibernética. Proponemos avanzar en el marco regulatorio común de la Inteligencia Artificial y una política común sobre ciberseguridad, así como de un Cuerpo Europeo de Hackers Éticos que protejan los datos privados y ofrezcan seguridad cibernética a ciudadanos, empresas e instituciones europeas.
+        categories: [Política comunitaria, Seguridad y defensa]
+        topics: [Ciberseguridad, Inteligencia Artificial]
+    - promise:
+        id: 25486d6c-9a80-4525-9b9b-2cb6bd51f4f9
+        page: 6
+        text: Impulsaremos la seguridad online en los aspectos referentes a la desinformación e injerencias de gobiernos extranjeros.
+        categories: [Política comunitaria, Seguridad y defensa]
+        topics: [Ciberseguridad, Desinformación]
+- chapter:
+    title: Una europa para los que no damos la democracia por sentada
+    children:
+    - promise:
+        id: 182bb34e-6ddb-4c22-9b1e-d7a5ec9ec121
+        page: 6
+        text: Seguiremos promocionando la igualdad y la libertad, como pilares de la Unión Europea.
+        categories: [Política comunitaria, Democracia, Derechos y servicios sociales]
+    - promise:
+        id: 11899f3a-7cde-4304-9eea-ac5d7f91733a
+        page: 6
+        text: Combatiremos los populismos y nacionalismos.
+        categories: [Política comunitaria, Democracia, Nacionalismo y patriostismo]
+        topics: [Populismo, Nacionalismo, Igualdad, Libertad]
+    - promise:
+        id: 58103fb1-b433-4e5e-bafd-f263af9c5915
+        page: 6
+        text: Impulsaremos la suspensión de relaciones comerciales y el acceso a fondos europeos a los gobiernos que no cumplan con el Estado de Derecho.
+        categories: [Política comunitaria, Democracia, Comercio, Justicia]
+    - promise:
+        id: 92403c57-6ac4-4c09-ad8f-7aa93fb39c0c
+        page: 6
+        text: Apoyaremos la creación de un Tribunal Constitucional Europeo.
+        categories: [Política comunitaria, Justicia, Democracia, Agencias y órganos públicos]
+        topics: Tribunal Constitucional Europeo
+- chapter:
+    title: Una europa para los que creemos que la integración es el futuro 
+    children:
+    - promise:
+        id: e9e72bd1-199f-4852-8ae2-cf139e9c853a
+        page: 7
+        text: Apoyaremos la construcción de posturas estratégicas comunes en la Unión Europea, entendiendo que esta es la verdadera función de la misma, más allá del reparto de fondos.
+        categories: [Política comunitaria]
+        topics: Política estratégica
+    - promise:
+        id: 324d883c-5797-4f94-b38d-22d8200ac15a
+        page: 7
+        text: Siguiendo los lineamientos europeos, trabajaremos para articular áreas metropolitanas y comarcales, que garanticen derechos y servicios para sus habitantes, bajo criterios de sostenibilidad, eficiencia y eficacia.
+        categories: [Política comunitaria, Urbanismo y ciudades]
+    - promise:
+        id: b54b82ed-4793-45a0-86ed-66f1b503e00e
+        page: 7
+        text: Promoveremos la construcción de infraestructuras vertebradoras en materia de energía, transporte, industria, investigación, defensa y otros sectores estratégicos.
+        categories: [Política comunitaria, Infraestructuras]
+    - promise:
+        id: 7842db58-671c-4259-849c-7f5a1451fbf0
+        page: 7
+        text: Consolidaremos a España como la principal conexión de Europa con Iberoamérica.
+        categories: Política internacional
+        topics: América latina
+    - promise:
+        id: 4a2b8ccd-0f60-4849-80ea-98cce81e5505
+        page: 7
+        text: Trabajaremos en la revisión y unificación de criterios y protocolos en la integración social y profesional de inmigrantes y refugiados dentro de la UE, para construir una sociedad más cohesionada dentro de los valores comunitarios, así como reforzar los protocolos de expulsión en caso de delito en cualquier país comunitario.
+        categories: Migración
+    - promise:
+        id: 57eb3911-f506-4d39-9fd4-a1a35f0be120
+        page: 7
+        text: Fomentaremos la integración europea en materia de prevención e intervención ante desastres naturales.
+        categories: [Política comunitaria]
+        topics: [Gestión de riesgos, Desastres naturales]
+    - promise:
+        id: cd409d08-2634-4650-8fa8-6432abe15225
+        page: 7
+        text: Impulsaremos políticas de identidad para educar en valores y principios europeístas.
+        categories: [Política comunitaria, Educación]
+        topics: [Educación en valores]
+    - promise:
+        id: d21f7ec9-0af9-4b82-a9bb-e50619b54b46
+        page: 7
+        text: Propondremos la creación de la Cátedra Europa, como asignatura obligatoria en los planes de estudio de educación secundaria y universitaria, para fomentar los valores de la Unión.
+        categories: [Política comunitaria, Educación]
+        topics: [Educación en valores]
+    - promise:
+        id: a9206f63-bb45-4da4-9336-52cdec455c6e
+        page: 7
+        text: Apoyaremos la reforma de la Comisión Europea, para que se convierta en un verdadero Gobierno de Europa.
+        categories: [Política comunitaria, Democracia]
+        topics: Agencias y órganos públicos
+    - promise:
+        id: 438457ea-523d-46c4-b7a4-d785d8a1a9bd
+        page: 7
+        text: Como venimos haciendo desde nuestra creación, enmarcaremos nuestras actuaciones y propuestas en la idea de crear los Estados Unidos de Europa.
+        categories: [Política comunitaria, Democracia]
+        topics: Estados Unidos de Europa
+    - promise:
+        id: c6398a23-e1c4-40ac-8651-5fd794580886
+        page: 7
+        text: Trabajaremos por mejorar y reformar la UE, con el fin de hacer sus instituciones más cercanas a sus ciudadanos y ciudadanas y ponerlas a su servicio, no al de los partidos y los grupos de presión.
+        categories: [Política comunitaria, Democracia]
+    - promise:
+        id: 2966ff21-bb64-4e32-a679-8f937225d3d5
+        page: 7
+        text: Centraremos los debates en las necesidades y los derechos de las personas, no en las estériles rencillas políticas del bipartidismo y sus aliados populistas.
+        categories: [Política comunitaria, Democracia]
+    - statement:
+        id: 6bc8fdb8-8cab-42f4-bda4-a8066cd9e741
+        page: 7
+        text: 'Un compromiso en el que culminan los preliminares anteriores: no se trata de 69 meros puntos de un programa electoral, sino de un contrato que las personas que lideramos la lista de Ciudadanos queremos firmar contigo para alcanzar, en equipo, un bienestar del que todos podamos disfrutar. Con tu voto, nos comprometemos a ser el “Equipo España”, tu voz en Europa.'

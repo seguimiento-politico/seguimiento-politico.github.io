@@ -1,6 +1,6 @@
 id: 82dc6f93-1e91-4314-bb36-49b01243ef4d
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 43
+parent_chapter: 1e1d9fec-722c-4fe5-83c8-753b161e1073
+text: De acuerdo con estos objetivos promoveremos las siguientes medidas:'
 categories: Turismo
 topics: Desarrollo sostenible
-text: De acuerdo con estos objetivos promoveremos las siguientes medidas:'

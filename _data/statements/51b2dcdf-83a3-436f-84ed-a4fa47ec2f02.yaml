@@ -1,7 +1,6 @@
 id: 51b2dcdf-83a3-436f-84ed-a4fa47ec2f02
 type: promise
-parent_statement: ec02c96a-4901-41ed-b1b9-dd027c7b45de
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: ec02c96a-4901-41ed-b1b9-dd027c7b45de
+parent_chapter: 63ab839a-6275-4d54-bf9b-ec036a685a75
+text: También es importante impulsar alianzas entre los países del sur de Europa para eliminar todas las cláusulas de los tratados comerciales que imponen el libre flujo de datos y evitar que fluyan hacia los imperios tecnológicos, lo que permitiría que los centros locales puedan aprovecharlos. De esta manera, se promoverá la transferencia de tecnología y se reducirá la dependencia de las grandes empresas tecnológicas.
 categories: Educación
 topics: Digitalización
-text: También es importante impulsar alianzas entre los países del sur de Europa para eliminar todas las cláusulas de los tratados comerciales que imponen el libre flujo de datos y evitar que fluyan hacia los imperios tecnológicos, lo que permitiría que los centros locales puedan aprovecharlos. De esta manera, se promoverá la transferencia de tecnología y se reducirá la dependencia de las grandes empresas tecnológicas.

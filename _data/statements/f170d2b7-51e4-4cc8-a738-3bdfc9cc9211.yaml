@@ -1,6 +1,6 @@
 id: f170d2b7-51e4-4cc8-a738-3bdfc9cc9211
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 132
+parent_chapter: a6f69436-abc0-4e1b-bbac-a22624f69fc8
+text: Fomentaremos la participación juvenil en el diseño de políticas públicas a través de laboratorios de innovación pública.
 categories: Democracia
 topics: Participación ciudadana
-text: Fomentaremos la participación juvenil en el diseño de políticas públicas a través de laboratorios de innovación pública.

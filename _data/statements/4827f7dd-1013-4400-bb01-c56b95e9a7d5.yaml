@@ -1,6 +1,6 @@
 id: 4827f7dd-1013-4400-bb01-c56b95e9a7d5
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 235
+parent_chapter: e4c7fee4-41ed-4186-b98d-379ee7a978af
+text: Conquistaremos la igualdad efectiva en los ámbitos de decisión de la vida política, social y económica mediante la aprobación de la ley de representación paritaria de mujeres y hombres.
 categories: Derechos y servicios sociales
 topics: Igualdad
-text: Conquistaremos la igualdad efectiva en los ámbitos de decisión de la vida política, social y económica mediante la aprobación de la ley de representación paritaria de mujeres y hombres.

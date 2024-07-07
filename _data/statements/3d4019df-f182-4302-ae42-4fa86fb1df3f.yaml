@@ -1,7 +1,6 @@
 id: 3d4019df-f182-4302-ae42-4fa86fb1df3f
 type: promise
-parent_statement: 3792598b-6653-4eda-921a-c6bb886e7012
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 3792598b-6653-4eda-921a-c6bb886e7012
+parent_chapter: c794cb24-1c55-422f-8b6d-1ff29ad1ed87
+text: Impulsaremos una planificación industrial verde que corrija las desigualdades territoriales en el seno de la Unión, promueva la creación de empleo verde en toda Europa y desarrolle una base industrial propia en el sector de las energías renovables, profundizando así en la autonomía estratégica de la UE.
 categories: Política internacional
 topics: Europa
-text: Impulsaremos una planificación industrial verde que corrija las desigualdades territoriales en el seno de la Unión, promueva la creación de empleo verde en toda Europa y desarrolle una base industrial propia en el sector de las energías renovables, profundizando así en la autonomía estratégica de la UE.

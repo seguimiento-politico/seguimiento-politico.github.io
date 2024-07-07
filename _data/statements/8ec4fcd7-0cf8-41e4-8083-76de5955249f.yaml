@@ -1,6 +1,6 @@
 id: 8ec4fcd7-0cf8-41e4-8083-76de5955249f
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 10
+parent_chapter: 80f33f13-c365-4098-ac18-6210795cdb15
+children_promises:
+- 3791a8d3-a954-499b-900a-91e5bb2a0c85
+children_statements: []
+title: Reducción de impuesto sociedades al 20%
 categories:
 - Economía
-title: Reducción de impuesto sociedades al 20%
-has_children: true

@@ -1,7 +1,6 @@
 id: 9af14c05-9251-4a1b-a283-89dc3b28c0cb
-type: declaration
-parent_statement: 561f5a77-1519-4443-a408-93e07f318efe
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 561f5a77-1519-4443-a408-93e07f318efe
+parent_chapter: 63ab839a-6275-4d54-bf9b-ec036a685a75
+text: La digitalización imperante está reproduciendo, cuando no agudizando, la desigualdad de género. La digitalización está incrementando de manera específica las diversas formas de violencia machista, como ha ocurrido con la emergencia y proliferación de las violencias digitales. Las mujeres ven así mermadas sus posibilidades de participar en el espacio público digital en libertad. Al tiempo, el modelo de digitalización actual, y particularmente las nuevas formas organizativas mediadas por plataformas digitales, violan las políticas de igualdad.
 categories: Educación
 topics: Digitalización
-text: La digitalización imperante está reproduciendo, cuando no agudizando, la desigualdad de género. La digitalización está incrementando de manera específica las diversas formas de violencia machista, como ha ocurrido con la emergencia y proliferación de las violencias digitales. Las mujeres ven así mermadas sus posibilidades de participar en el espacio público digital en libertad. Al tiempo, el modelo de digitalización actual, y particularmente las nuevas formas organizativas mediadas por plataformas digitales, violan las políticas de igualdad.

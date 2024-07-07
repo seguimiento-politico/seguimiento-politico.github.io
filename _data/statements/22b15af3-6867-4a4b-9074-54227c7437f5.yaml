@@ -1,7 +1,6 @@
 id: 22b15af3-6867-4a4b-9074-54227c7437f5
 type: promise
-parent_statement: 4d6a2f91-f634-4396-a0d6-b2f2688c3c65
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 4d6a2f91-f634-4396-a0d6-b2f2688c3c65
+parent_chapter: 517dbc45-7fcb-4ab4-bd14-948f8a770923
+text: Reforzaremos el compromiso presupuestario con el Estado del bienestar en todos sus ámbitos de actuación, en línea con los principios del Pilar Europeo de Derechos Sociales. El objetivo debe ser llevarlo a niveles similares al de los países más desarrollados de nuestro entorno, en especial en ámbitos como la vivienda, la familia y la infancia o la atención a la dependencia. Las políticas sociales son un pilar fundamental del bienestar de la ciudadanía y un elemento central de la sostenibilidad del modelo económico de mercado, cuya presencia evita problemas de inseguridad económica, desigualdad y exclusión.
 categories: Economía
 topics: Igualdad
-text: Reforzaremos el compromiso presupuestario con el Estado del bienestar en todos sus ámbitos de actuación, en línea con los principios del Pilar Europeo de Derechos Sociales. El objetivo debe ser llevarlo a niveles similares al de los países más desarrollados de nuestro entorno, en especial en ámbitos como la vivienda, la familia y la infancia o la atención a la dependencia. Las políticas sociales son un pilar fundamental del bienestar de la ciudadanía y un elemento central de la sostenibilidad del modelo económico de mercado, cuya presencia evita problemas de inseguridad económica, desigualdad y exclusión.

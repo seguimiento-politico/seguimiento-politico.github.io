@@ -1,6 +1,6 @@
 id: 7a396122-3ca7-49fd-8cf7-366608021151
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 11
-categories: Educación
+parent_chapter: 4cc9eb95-7c33-470b-bb2f-7ed39176baa9
 text: Universalización del acceso a la Educación Infantil 0-3 años a través de la red pública en condiciones de equidad. Elaboraremos, conjuntamente con las comunidades autónomas y en el seno de la Conferencia Sectorial, un plan de extensión de la Educación Infantil, con una red pública e integrada de recursos que garantice una oferta suficiente de plazas públicas para todos los niños y niñas menores de 3 años. Esta es una medida que no solo contribuye a reducir la desigualdad y a mejorar la conciliación de la vida laboral y familiar, sino que constituye un potente factor para combatir el fracaso escolar, impulsando el desarrollo personal desde las primeras etapas de la vida.
+categories: Educación

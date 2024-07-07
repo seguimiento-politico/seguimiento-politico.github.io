@@ -1,6 +1,6 @@
 id: e58b9a51-eddb-448a-a55b-bdcb82b5a40f
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 28
-categories: Sanidad
+parent_chapter: 75517e5c-2334-421b-8769-dbe823cce614
 text: Se avanzará en la implementación del Marco Estratégico de Actualización de la Atención Primaria, diseñado durante la última legislatura con el concurso de las CCAA y las sociedades médicas y científicas y de pacientes. Entre las medidas a corto plazo, se incluirán actuaciones para resolver el déficit de planificación en materia de profesionales, especialmente por lo que se refiere al ámbito rural.
+categories: Sanidad

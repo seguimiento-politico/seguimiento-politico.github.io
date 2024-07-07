@@ -1,12 +1,13 @@
 id: ad0463b6-eda3-4476-b86e-6fde9a3dd2ef
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 100
+parent_chapter: a14d9e07-0f76-434f-adc5-3af5b5819c36
+text: Dirigiremos preferentemente los fondos de cooperación españoles a los países de origen de los inmigrantes que residen en España.
 categories: Política internacional
 topics: Cooperación internacional
-text: Dirigiremos preferentemente los fondos de cooperación españoles a los países de origen de los inmigrantes que residen en España.

@@ -1,13 +1,14 @@
 id: dfbcd6fa-df70-4d82-bbc6-34d2ea6ce3cc
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 24
+parent_chapter: d5cfbe7c-009c-4b4c-9963-9a6488479d1f
+text: Impulsaremos el Plan Nacional de Transformación Digital 2030 con el objetivo de acelerar el proceso de digitalización en la sociedad, las empresas y la administración, elevando el índice de conectividad a las aplicaciones digitales, favoreciendo su acceso en zonas despobladas.
 categories:
 - Ciencia y tecnología
 topics: I+D+i
-text: Impulsaremos el Plan Nacional de Transformación Digital 2030 con el objetivo de acelerar el proceso de digitalización en la sociedad, las empresas y la administración, elevando el índice de conectividad a las aplicaciones digitales, favoreciendo su acceso en zonas despobladas.

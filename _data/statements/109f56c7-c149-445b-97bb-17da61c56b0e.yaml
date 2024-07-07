@@ -1,7 +1,6 @@
 id: 109f56c7-c149-445b-97bb-17da61c56b0e
 type: promise
-parent_statement: 917d4e20-884c-401b-95f8-8b7ac33945cd
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Política internacional
+parent_statement: 917d4e20-884c-401b-95f8-8b7ac33945cd
+parent_chapter: 4d3afa99-1301-4519-a703-6dfe49d7e832
 text: Apostaremos por implementar en las instituciones globales enfoques más amplios de seguridad humana que prioricen la protección del medioambiente, los derechos humanos y el bienestar de las personas.
+categories: Política internacional

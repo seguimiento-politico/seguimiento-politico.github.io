@@ -1,7 +1,6 @@
 id: e5db3a22-3041-4a0f-9870-ca1d072e3c9e
 type: promise
-parent_statement: 72ee0798-902c-4dd5-999e-09d15be54e5a
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Política internacional
+parent_statement: 72ee0798-902c-4dd5-999e-09d15be54e5a
+parent_chapter: 4d3afa99-1301-4519-a703-6dfe49d7e832
 text: Impulsaremos una Carta Global de Derechos Laborales, con objeto de blindar los derechos de las personas trabajadoras a nivel internacional, especialmente las más vulnerables, y promoveremos la integración de los principios fundamentales de la Organización Internacional del Trabajo en los acuerdos comerciales globales.
+categories: Política internacional

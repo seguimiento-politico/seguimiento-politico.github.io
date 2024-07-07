@@ -1,6 +1,6 @@
 id: 8c024ccd-33a1-4b46-a1e5-9c4b5d525482
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 26
-categories: Educación
+parent_chapter: b29ce8bc-cfe8-451c-8ff8-2716eb87c909
 text: Universalizaremos la educación de 0 a 3 años promoviendo su inclusión plena en el sistema educativo, así como el aumento progresivo de la oferta de escuelas infantiles públicas. Al final de la legislatura el acceso a la educación pública para niñas y niños de 2 años será universal.
+categories: Educación

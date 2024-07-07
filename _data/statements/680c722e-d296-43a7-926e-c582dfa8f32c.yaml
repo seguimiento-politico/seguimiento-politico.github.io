@@ -1,6 +1,6 @@
 id: 680c722e-d296-43a7-926e-c582dfa8f32c
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 33
-categories: Democracia
+parent_chapter: 89375858-99fa-4877-97d3-a329719afd84
 text: Eliminaremos el voto rogado en las elecciones autonómicas, generales y europeas, suprimiendo las barreras administrativas hoy existentes para garantizar los derechos y facilitar la participación de la ciudadanía española en el exterior, y promoveremos el voto en urna en los lugares donde el número de residentes españoles sea significativo.
+categories: Democracia

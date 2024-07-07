@@ -1,6 +1,6 @@
 id: 9adabb37-2af0-4f29-86a6-c61fb37e2a83
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,28 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 80
+parent_chapter: 66cf6219-da39-4941-aa1a-c1b88e89ed00
+children_promises:
+- 92fa28f3-b1e0-44ac-bcc9-b7f9adb99dc5
+- aa1366d7-9579-40e1-8317-ccf83e3d19e8
+- aeea8489-8683-4304-bcf7-1cdb4bcfafb1
+- d3ca0738-4f09-4613-a1fa-cbc3cbcbd2b1
+- 88c04eae-8408-49ef-b0d1-a9d2f499b044
+- dc59bac2-5beb-4358-8153-d73f922343be
+- aa83b8e0-8fac-48aa-b8d4-ec19e8104b54
+- 055cb8ac-0f86-4f6a-9c9c-5032042a32b0
+- f0d90cc7-b28c-4d55-8bbf-a8e68034a4a6
+- 962a9176-3d94-4856-a255-bbaa69696ce8
+- ab52b17d-2eb8-457a-8629-ae8630efa965
+- 5c4fad9e-96bc-4182-afb3-0f980871a6f6
+- a5c8830b-b013-4a40-b578-40a2bf741e83
+- b210513f-1c2a-40fb-9a1b-03c53d319597
+- e2778ced-07ed-49e0-a036-aa36350f4912
+- b078f732-9555-48ec-889a-4a438a7cfa8c
+- aadd03dd-275a-4a25-b45e-5c89c9318e6f
+- 10fe1012-6983-41a0-b508-6c36ac38f6e5
+children_statements:
+- a8cc76e2-4598-417f-9805-2e8c5aee8baa
+title: Nuevo derecho y financiación
 categories: Transporte
 topics: Movilidad sostenible
-title: Nuevo derecho y financiación
-has_children: true

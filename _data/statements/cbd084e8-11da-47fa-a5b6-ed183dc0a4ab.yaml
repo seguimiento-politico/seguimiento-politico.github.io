@@ -1,6 +1,6 @@
 id: cbd084e8-11da-47fa-a5b6-ed183dc0a4ab
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,6 +8,10 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Impuestos y financiación pública
+parent_chapter: 9541bf1a-337b-46af-897e-74b015fabf16
+children_promises:
+- 0ff97f42-85fd-479c-a8db-00fba19cf18d
+children_statements: []
 title: Seguiremos en la senda de consolidación fiscal y sostenibilidad de las cuentas públicas reduciendo el déficit estructural y luchando contra el fraude y la economía sumergida para incrementar los ingresos sin aumentar, con carácter general, los impuestos y permitir así financiar de forma eficiente y justa las políticas públicas, la inversión y el refuerzo del estado de bienestar.
-has_children: true
+categories: Impuestos y financiación pública
+topics: Desarrollo sostenible

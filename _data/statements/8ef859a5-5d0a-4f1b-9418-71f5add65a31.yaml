@@ -1,6 +1,6 @@
 id: 8ef859a5-5d0a-4f1b-9418-71f5add65a31
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,7 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 120
+parent_chapter: 96823b0f-932d-41e1-a800-716933f427ff
+text: Se aplicarán bonificaciones a la construcción y reorganizarán y armonizarán los incentivos a la seguridad y eficiencia energética en edificios públicos y privados. No se impondrá ninguna obligación de eficiencia energética en los edificios de titularidad privada que no se cumplan en primer lugar por todos los inmuebles públicos.
 categories:
 - Industria
 - Energía
-text: Se aplicarán bonificaciones a la construcción y reorganizarán y armonizarán los incentivos a la seguridad y eficiencia energética en edificios públicos y privados. No se impondrá ninguna obligación de eficiencia energética en los edificios de titularidad privada que no se cumplan en primer lugar por todos los inmuebles públicos.

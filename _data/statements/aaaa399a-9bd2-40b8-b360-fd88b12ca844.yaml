@@ -1,6 +1,6 @@
 id: aaaa399a-9bd2-40b8-b360-fd88b12ca844
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 167
+parent_chapter: e207a6bf-9c54-4399-a574-f130ae590b63
+text: Como primer gran hito, se ha recuperado el derecho a la revalorización de las pensiones para garantizar el mantenimiento de su poder adquisitivo. Se ofrece así certidumbre al colectivo de pensionistas en un contexto extraordinariamente complicado, pese al cual la revalorización en 2023 ha supuesto una subida del 8,5%.
 categories: Derechos y servicios sociales
 topics: Pensiones
-text: Como primer gran hito, se ha recuperado el derecho a la revalorización de las pensiones para garantizar el mantenimiento de su poder adquisitivo. Se ofrece así certidumbre al colectivo de pensionistas en un contexto extraordinariamente complicado, pese al cual la revalorización en 2023 ha supuesto una subida del 8,5%.

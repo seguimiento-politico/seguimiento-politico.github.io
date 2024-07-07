@@ -1,7 +1,6 @@
 id: cab54d08-5024-45b0-8b53-3b0a7cf18cd1
 type: promise
-parent_statement: 7b4b266a-181e-4220-b177-bdb135324c5b
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Política internacional
+parent_statement: 7b4b266a-181e-4220-b177-bdb135324c5b
+parent_chapter: 7d023909-0f5e-4683-b705-4b789e78ec33
 text: Fortaleceremos y garantizaremos los instrumentos para la acogida y defensa de las personas en necesidad de protección internacional, así como las vías de acceso al asilo.
+categories: Política internacional

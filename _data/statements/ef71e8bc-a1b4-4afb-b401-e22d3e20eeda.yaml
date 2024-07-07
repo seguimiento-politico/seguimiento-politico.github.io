@@ -1,6 +1,6 @@
 id: ef71e8bc-a1b4-4afb-b401-e22d3e20eeda
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 28
+parent_chapter: de85e0ef-5ecc-4ca0-89b4-a741503b7353
+children_promises:
+- 30d418d0-d6e7-47c9-976a-5ea12d897459
+- 0dfed1ce-6049-4e67-9138-3a3acddff5e7
+children_statements: []
+title: Apoyaremos a nivel global un marco adecuado de regulación y supervisión de la inteligencia artificial
 categories: Economía
 topics: Digitalización
-title: Apoyaremos a nivel global un marco adecuado de regulación y supervisión de la inteligencia artificial
-has_children: true

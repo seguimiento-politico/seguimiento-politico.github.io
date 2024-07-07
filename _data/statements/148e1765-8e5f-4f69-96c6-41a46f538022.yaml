@@ -1,6 +1,6 @@
 id: 148e1765-8e5f-4f69-96c6-41a46f538022
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 45
-categories: Cultura
+parent_chapter: da886195-4ba1-49d8-aec1-945b64d704c6
 text: Igualmente, impulsaremos nuevamente la Ley por la que se regulan las enseñanzas artísticas superiores y se establece la organización y equivalencias de las enseñanzas artísticas profesionales, y la Ley de creación de la Oficina Española de Derechos de Autor y Conexos.
+categories: Cultura

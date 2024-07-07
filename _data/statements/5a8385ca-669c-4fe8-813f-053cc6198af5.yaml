@@ -1,12 +1,13 @@
 id: 5a8385ca-669c-4fe8-813f-053cc6198af5
-type: declaration
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+type: statement
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 20
+parent_chapter: 9d4d8c82-d88b-49c6-8b4b-2154a888ebc8
+text: Otra de las grandes fortalezas de España es el turismo, una industria que se ha modernizado y que es un referente mundial pero mantener esta competitividad exige un claro compromiso con la sostenibilidad social, económica y medioambiental, la innovación y la colaboración público-privada, además de eliminar cargas impositivas y gravámenes que limitan su capacidad inversora.
 categories:
 - Economía
-text: Otra de las grandes fortalezas de España es el turismo, una industria que se ha modernizado y que es un referente mundial pero mantener esta competitividad exige un claro compromiso con la sostenibilidad social, económica y medioambiental, la innovación y la colaboración público-privada, además de eliminar cargas impositivas y gravámenes que limitan su capacidad inversora.

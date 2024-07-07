@@ -1,7 +1,6 @@
 id: 92685980-d862-400e-9783-01a37011a3b2
 type: promise
-parent_statement: e6b9cc4f-1ca5-4583-87d8-9f9096276a25
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,6 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 113
+parent_statement: e6b9cc4f-1ca5-4583-87d8-9f9096276a25
+parent_chapter: 579c674b-2384-4748-a93a-92ef43822f21
+text: Aumento de plazas públicas para estudiantes de Formación Profesional, garantizando la diversificación de la oferta pública y el ajuste con las demandas del mercado laboral.
 categories: Derechos y servicios sociales
 topics: Formación profesional
-text: Aumento de plazas públicas para estudiantes de Formación Profesional, garantizando la diversificación de la oferta pública y el ajuste con las demandas del mercado laboral.

@@ -1,6 +1,6 @@
 id: 2fa01307-c902-4450-96e1-f34d7536f318
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,7 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 118
+parent_chapter: 96823b0f-932d-41e1-a800-716933f427ff
+text: Garantizaremos las vías de recepción de gas procedente del norte de África, revirtiendo a tal efecto las recientes acciones en política exterior del Gobierno que perjudican el interés nacional en materia energética.
 categories:
 - Industria
 - Energía
-text: Garantizaremos las vías de recepción de gas procedente del norte de África, revirtiendo a tal efecto las recientes acciones en política exterior del Gobierno que perjudican el interés nacional en materia energética.

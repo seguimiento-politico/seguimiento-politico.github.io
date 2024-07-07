@@ -1,6 +1,6 @@
 id: ab12b48d-1671-4d3a-aae9-7985d8155ef4
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 248
+parent_chapter: 457e4b72-749a-45c4-89c2-5a8567249561
+text: Además, facilitamos el acceso democratizador a las profesiones jurídicas, lo que hace que nuestra Justicia sea más parecida a la sociedad diversa y plural de nuestro país.
 categories: Justicia
 topics: Modernización
-text: Además, facilitamos el acceso democratizador a las profesiones jurídicas, lo que hace que nuestra Justicia sea más parecida a la sociedad diversa y plural de nuestro país.

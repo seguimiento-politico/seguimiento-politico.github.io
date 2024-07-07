@@ -1,6 +1,6 @@
 id: 1a1d674e-a82e-4f13-91ee-4c73d0cd066a
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 173
+parent_chapter: 3c3b6e77-c208-4e24-b285-18f9fd80d11c
+children_promises:
+- 81da2aee-ac81-4f0c-9e30-82201d4d9386
+- b92d315a-e399-4f8e-aabf-a7cf6498b2a8
+- ab0eae59-7659-402c-879a-a7af6b7adab5
+children_statements: []
+title: Apoyo a los creadores guionistas y a la distribución y exhibición independientes
 categories: Cultura
 topics: Desarrollo sostenible
-title: Apoyo a los creadores guionistas y a la distribución y exhibición independientes
-has_children: true

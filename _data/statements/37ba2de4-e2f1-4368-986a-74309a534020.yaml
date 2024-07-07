@@ -1,6 +1,6 @@
 id: 37ba2de4-e2f1-4368-986a-74309a534020
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 242
+parent_chapter: e5be3d56-d004-4484-b293-9d1f24b80d8c
+text: Garantizaremos la existencia de unidades de discapacidad en todos los ministerios para velar por la integración de las personas con discapacidad en la Administración y su acompañamiento a lo largo de toda la vida profesional. Y elevaremos al 10% el cupo de reserva de plazas para personas con discapacidad en el ámbito del empleo público, mediante la regulación de adaptaciones de tiempos y medios que garanticen una mayor igualdad en el acceso al empleo público.
 categories: Trabajo
 topics: Empleo público
-text: Garantizaremos la existencia de unidades de discapacidad en todos los ministerios para velar por la integración de las personas con discapacidad en la Administración y su acompañamiento a lo largo de toda la vida profesional. Y elevaremos al 10% el cupo de reserva de plazas para personas con discapacidad en el ámbito del empleo público, mediante la regulación de adaptaciones de tiempos y medios que garanticen una mayor igualdad en el acceso al empleo público.

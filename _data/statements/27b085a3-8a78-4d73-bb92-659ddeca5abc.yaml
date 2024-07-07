@@ -1,6 +1,6 @@
 id: 27b085a3-8a78-4d73-bb92-659ddeca5abc
-type: declaration
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 72
-categories: Democracia
+parent_chapter: 180fad9e-d9cc-4888-b890-b4bc54ee910c
 text: Creemos que los poderes públicos deben promover la convivencia entre los españoles, en lugar de ahondar en sus diferencias. No podemos acostumbrarnos al enfrentamiento entre administraciones ni al señalamiento de ciudadanos particulares ni empresas privadas desde los cargos públicos. La política debe unir, no dividir, y mucho menos polarizar a la sociedad.
+categories: Democracia

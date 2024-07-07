@@ -1,6 +1,6 @@
 id: 888e6898-f38c-4272-811c-690f00dba852
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 129
-categories: Justicia
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
+children_promises:
+- 8a64d80c-2860-4bd9-83f6-eb2dcb573977
+- b1f4a305-35cc-4cf5-b1db-461ff0583a9a
+- 61d7deac-6dda-4743-ba7f-d6c428d5e9c1
+- 8e2f49de-cbbd-4542-b705-d9cc5825d09d
+- cddb6e29-328b-4c36-9cdf-8dadfb608349
+children_statements:
+- d07cfcb6-8b3d-4ff8-af8a-0b5308ad9294
 title: Renovación del Consejo General del Poder Judicial
-has_children: true
+categories: Justicia

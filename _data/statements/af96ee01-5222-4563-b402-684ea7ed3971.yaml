@@ -1,7 +1,6 @@
 id: af96ee01-5222-4563-b402-684ea7ed3971
 type: promise
-parent_statement: 319ffd55-6ed8-4868-829e-91c1db019b69
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 319ffd55-6ed8-4868-829e-91c1db019b69
+parent_chapter: b36e5d9e-ba98-45f0-8911-a0a18af0be33
+text: Mejora de las reducciones de jornada por cuidados familiares. La reducción de jornada por cuidados familiares es un derecho que implica una merma en los ingresos percibidos, de ahí que la mayoría de los padres y, especialmente, las madres, no puedan siquiera plantearse ejercerlo. Estableceremos una prestación económica, condicionada al tipo de familia y a la renta, para fomentar que las personas trabajadoras con menores salarios y las familias monoparentales puedan optar a la reducción de jornada para el cuidado de niños y niñas o personas dependientes.
 categories: Familia
 topics: Incentivos, ayudas y subvenciones
-text: Mejora de las reducciones de jornada por cuidados familiares. La reducción de jornada por cuidados familiares es un derecho que implica una merma en los ingresos percibidos, de ahí que la mayoría de los padres y, especialmente, las madres, no puedan siquiera plantearse ejercerlo. Estableceremos una prestación económica, condicionada al tipo de familia y a la renta, para fomentar que las personas trabajadoras con menores salarios y las familias monoparentales puedan optar a la reducción de jornada para el cuidado de niños y niñas o personas dependientes.

@@ -1,6 +1,6 @@
 id: 81a1c996-fc1d-403c-af27-bd48075c8a11
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 43
-categories: Vivienda
+parent_chapter: b958cf54-1e2a-46d1-94d9-83d7f5877612
 text: Derogaremos la Ley por el derecho a la vivienda aprobada por el gobierno de Sánchez, la cual no contribuirá a conseguir vivienda más asequible, hundirá el mercado del alquiler, altera el contenido esencial del derecho de propiedad consagrado en el artículo 33 de la Constitución y ampara la ocupación ilegal.
+categories: Vivienda

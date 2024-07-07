@@ -1,6 +1,6 @@
 id: 6e6d5819-d8f0-4fe7-834c-b711e87b175c
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,25 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 29
+parent_chapter: 477927b2-ab8b-4a05-8cc0-962c0cbbb883
+children_promises:
+- f62554be-2522-4670-8a77-0c7a07bb0a8b
+- cbb1634e-d904-4e75-ba7e-4dbfbf1f8fe9
+- bb46097a-2a19-4ee2-9e5d-c09630feca44
+- aea95985-8a2a-4b02-8ef2-d8c6f50250f5
+- 96b568eb-fc43-4fb2-aa90-755b32fd8cb4
+- 06f5eb41-857f-40af-9419-bcb85782cd39
+- da8bb1f3-3ce0-48a7-b0f6-f86715becb81
+- 22d9a8f2-46bd-408d-baf1-c7bd2c28505d
+- 4ca43f2e-eeea-4ef8-aa88-60b340a22e7d
+- 3cd02315-11e8-4205-aff0-39e0627827c3
+- fd89e44e-0d8b-4485-8fb2-2514fcd6e037
+- b52ebfe3-32fe-4410-a57f-cf021c95d024
+- c2d541e8-caf3-4de3-a5f3-d4b3ab3a85ce
+- 85c63958-05e1-4da9-a90e-31078b7523be
+- a50cfcc1-bdc2-4ae0-a5c9-aaad2107f520
+- 479fbbdb-278e-4be9-9da2-e1acb4eead5d
+children_statements: []
+title: Economía social
 categories: Trabajo
 topics: Economía social
-title: Economía social
-has_children: true

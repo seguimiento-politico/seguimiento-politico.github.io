@@ -1,13 +1,14 @@
 id: bbdc306b-2c14-441e-9979-b097bf365584
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 22
+parent_chapter: d5cfbe7c-009c-4b4c-9963-9a6488479d1f
+text: Pondremos en marcha el “Plan +Tech” de atracción de empresas con alto contenido tecnológico para su radicación en España. Favoreceremos su implantación mediante medidas de simplificación administrativa, un sistema de visados flexible para profesionales altamente cualificados, incentivos fiscales e infraestructuras adecuadas
 categories:
 - Ciencia y tecnología
 topics: I+D+i
-text: Pondremos en marcha el “Plan +Tech” de atracción de empresas con alto contenido tecnológico para su radicación en España. Favoreceremos su implantación mediante medidas de simplificación administrativa, un sistema de visados flexible para profesionales altamente cualificados, incentivos fiscales e infraestructuras adecuadas

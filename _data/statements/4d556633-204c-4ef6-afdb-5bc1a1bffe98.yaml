@@ -1,6 +1,6 @@
 id: 4d556633-204c-4ef6-afdb-5bc1a1bffe98
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 171
-categories: Cultura
+parent_chapter: d83fae97-6483-46e8-ac0d-9980e0838a11
+children_promises:
+- 1c9434bf-4d53-4c21-9c12-dc61ef5abe9e
+- 8d4e89fb-33ed-4dd2-adbd-a38b504fb7b3
+- 5c2ad2c1-9dc8-476f-8fc8-86ac0134204e
+- 174d6c70-fffd-46ff-b89e-c4243b4f88fa
+- d1c3d313-567d-4715-8c36-5fa225ad100c
+- 5b0860e6-3fb8-4d0a-a350-3da3b4da9cea
+children_statements: []
 title: Pluralidad lingüística como patrimonio cultural común y política plurilingüística
-has_children: true
+categories: Cultura

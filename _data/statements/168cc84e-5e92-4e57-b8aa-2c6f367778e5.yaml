@@ -1,6 +1,6 @@
 id: 168cc84e-5e92-4e57-b8aa-2c6f367778e5
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 14
-categories: Vivienda
+parent_chapter: 0b5e6425-7b00-4911-86d2-9b06e2441b9b
 text: Construcción de viviendas sociales públicas en régimen de propiedad o arrendamiento con opción a compra para garantizar que los jóvenes y familias puedan adquirir un hogar, especialmente aquellos con menos recursos.
+categories: Vivienda

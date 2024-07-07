@@ -1,6 +1,6 @@
 id: eea5cffb-fec2-402c-a1ee-ae1c757be838
-type: declaration
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_chapter: b5417c2b-2bd9-455f-a227-1ac572dbd434
+text: La aprobación de la Ley de Memoria Democrática de 2022 ha supuesto un avance significativo de las políticas de memoria y derechos humanos en el Estado español. Sin embargo, la garantía efectiva de los derechos a la verdad, justicia, reparación y no repetición del franquismo exige todavía mayor atención por parte de las Administraciones públicas. A tal efecto, urge desarrollar políticas estatales que, con enfoque de género, interseccional y desde los derechos humanos, recuperen la memoria democrática y reivindiquen la lucha por la democracia, la libertad y la igualdad que se desempeñó contra la dictadura y durante los años de la transición a la democracia. Preservar y transmitir la memoria colectiva ha de formar parte del discurso propio de una ciudadanía democrática.
 categories: Democracia
 topics: Memoria democrática
-text: La aprobación de la Ley de Memoria Democrática de 2022 ha supuesto un avance significativo de las políticas de memoria y derechos humanos en el Estado español. Sin embargo, la garantía efectiva de los derechos a la verdad, justicia, reparación y no repetición del franquismo exige todavía mayor atención por parte de las Administraciones públicas. A tal efecto, urge desarrollar políticas estatales que, con enfoque de género, interseccional y desde los derechos humanos, recuperen la memoria democrática y reivindiquen la lucha por la democracia, la libertad y la igualdad que se desempeñó contra la dictadura y durante los años de la transición a la democracia. Preservar y transmitir la memoria colectiva ha de formar parte del discurso propio de una ciudadanía democrática.

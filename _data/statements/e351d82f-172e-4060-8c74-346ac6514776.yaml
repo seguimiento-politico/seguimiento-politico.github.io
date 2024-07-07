@@ -1,6 +1,6 @@
 id: e351d82f-172e-4060-8c74-346ac6514776
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,13 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 51
-categories: Política internacional
+parent_chapter: 06572758-339c-4185-bcc1-2905946110b7
+children_promises:
+- 2f56606f-25a5-48a0-ac86-7bbc05b10813
+- 44d9fdfc-2aab-4b6e-8e5b-299ebc73629d
+- 30f1b3e2-9f8e-44eb-b729-489116753909
+- d3c83196-11ec-48f4-832b-e177aaf2917f
+- 2dbf7ec1-ad29-4634-b4be-253d06a0b225
+children_statements: []
 text: 'La Unión Europea debe comprometerse con la reducción de las desigualdades, la precariedad y la pobreza, que se han agravado durante los últimos diez años, como consecuencia de las medidas adoptadas frente a la crisis. El PSOE impulsará:'
-has_children: true
+categories: Política internacional

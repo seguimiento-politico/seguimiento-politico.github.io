@@ -1,6 +1,6 @@
 id: b7ec8e20-2e1c-4055-ad34-1c6dfc538251
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 205
+parent_chapter: 18793eaf-9982-4484-bf17-851021820012
+text: Mejorar la prevención de los accidentes de trabajo, profundizando en la investigación de las causas que provocan accidentes de trabajo mortales debido a patologías no traumáticas, los cuales representan el 40% de los accidentes letales.
 categories: Sanidad
 topics: Salud en el Trabajo
-text: Mejorar la prevención de los accidentes de trabajo, profundizando en la investigación de las causas que provocan accidentes de trabajo mortales debido a patologías no traumáticas, los cuales representan el 40% de los accidentes letales.

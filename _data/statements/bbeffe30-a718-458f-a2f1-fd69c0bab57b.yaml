@@ -1,7 +1,6 @@
 id: bbeffe30-a718-458f-a2f1-fd69c0bab57b
-type: declaration
-parent_statement: 36cc3e97-235e-4305-bec8-4ed8d225c79e
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Justicia
+parent_statement: 36cc3e97-235e-4305-bec8-4ed8d225c79e
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
 text: 'Los principios centrales de nuestra democracia dependen en gran medida de la justicia: su actuación garantiza la efectividad real de estos valores o la frustra de facto. La Administración de justicia es un poder del Estado encargado de aplicar la ley, además de un servicio público que provee a la ciudadanía, a las empresas, a las asociaciones y a los colectivos de un bien esencial: la resolución de disputas y la atribución y efectividad de los derechos.'
+categories: Justicia

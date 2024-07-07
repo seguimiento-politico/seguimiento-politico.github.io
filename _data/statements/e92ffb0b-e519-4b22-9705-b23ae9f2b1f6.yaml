@@ -1,6 +1,6 @@
 id: e92ffb0b-e519-4b22-9705-b23ae9f2b1f6
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 191
+parent_chapter: c522da89-5c36-4166-ae3f-6fd1f38abe58
+text: Ampliar la red de atención temporal a personas sin hogar, desde un modelo housing first, housing led o a través de alojamientos de emergencia temporal.
 categories: Derechos y servicios sociales
 topics: Personas sin hogar
-text: Ampliar la red de atención temporal a personas sin hogar, desde un modelo housing first, housing led o a través de alojamientos de emergencia temporal.

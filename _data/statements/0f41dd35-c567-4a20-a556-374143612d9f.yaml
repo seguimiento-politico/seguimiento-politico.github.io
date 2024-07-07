@@ -1,6 +1,6 @@
 id: 0f41dd35-c567-4a20-a556-374143612d9f
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 12
+parent_chapter: 4181ab92-8085-4f51-a752-c0c9e8136bab
+text: Avanzaremos en la reducción de la precariedad y en la progresiva estabilización del profesorado universitario.
 categories: Educación
 topics: Universidad
-text: Avanzaremos en la reducción de la precariedad y en la progresiva estabilización del profesorado universitario.

@@ -1,6 +1,6 @@
 id: 24cf181a-53aa-4230-ab64-031dcfc07888
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 66
+parent_chapter: dc33f933-12a0-4325-b761-1f9bf8c3ad0d
+children_promises:
+- 46bc2a72-0b4c-4668-9c4c-e8a302e9d9ad
+- b4c861f7-9363-4d47-beb2-c4d517b78914
+- 1410c70b-ecd4-4628-9b89-aef4df20e072
+children_statements: []
+title: Coherencia y simplificación normativa en el acceso a la profesión y el funcionamiento de las empresas pesqueras
 categories: Pesca y acuicultura
 topics: Desarrollo sostenible
-title: Coherencia y simplificación normativa en el acceso a la profesión y el funcionamiento de las empresas pesqueras
-has_children: true

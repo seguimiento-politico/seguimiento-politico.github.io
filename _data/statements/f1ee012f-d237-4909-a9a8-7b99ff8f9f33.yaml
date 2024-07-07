@@ -1,6 +1,6 @@
 id: f1ee012f-d237-4909-a9a8-7b99ff8f9f33
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 112
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+children_promises:
+- 9afe25f1-9e55-4636-9848-2fdbc3a5ddb4
+- 5396388b-9b6b-46de-bcc7-d46554f3f4b4
+- 84d53ceb-8ec7-4610-9f3b-8d8438ac3720
+children_statements:
+- 1682811b-3652-4f0c-9c23-6fe74ac7ca97
+title: Mujeres rurales
 categories: Democracia
 topics: Igualdad
-title: Mujeres rurales
-has_children: true

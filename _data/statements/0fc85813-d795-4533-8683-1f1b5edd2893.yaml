@@ -1,6 +1,6 @@
 id: 0fc85813-d795-4533-8683-1f1b5edd2893
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 58
+parent_chapter: fe1ddaf6-59e0-47ee-bda3-193d9d6d6150
+text: FAVORECEREMOS LA CREACIÓN DE MÁS RECURSOS RESIDENCIALES PARA LAS PERSONAS MAYORES, como las viviendas compartidas, las viviendas con servicios comunes y otras modalidades de habitabilidad que incorporen servicios de apoyo y cuidado a quien lo necesite.
 categories: Derechos y servicios sociales
 topics: Ciudados y dependencia
-text: FAVORECEREMOS LA CREACIÓN DE MÁS RECURSOS RESIDENCIALES PARA LAS PERSONAS MAYORES, como las viviendas compartidas, las viviendas con servicios comunes y otras modalidades de habitabilidad que incorporen servicios de apoyo y cuidado a quien lo necesite.

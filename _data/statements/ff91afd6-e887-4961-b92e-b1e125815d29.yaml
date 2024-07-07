@@ -1,6 +1,6 @@
 id: ff91afd6-e887-4961-b92e-b1e125815d29
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 100
+parent_chapter: f8348ef6-75be-45f5-9b64-97ad1de424bc
+text: Expulsaremos de forma inmediata a los inmigrantes legales que cometan delitos graves o hagan del delito leve su forma de vida, procurando que cumplan las penas en sus países de origen.
 categories:
 - Migración
-text: Expulsaremos de forma inmediata a los inmigrantes legales que cometan delitos graves o hagan del delito leve su forma de vida, procurando que cumplan las penas en sus países de origen.

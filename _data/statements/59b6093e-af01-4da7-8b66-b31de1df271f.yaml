@@ -1,6 +1,6 @@
 id: 59b6093e-af01-4da7-8b66-b31de1df271f
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 38
+parent_chapter: a8d92f12-ec43-40d7-a048-97faa73e2d17
+text: Garantizaremos la intimidad de las mujeres que acuden a las clínicas IVE, su integridad física y moral, así como su derecho a la libre circulación.
 categories: Derechos y servicios sociales
 topics: Derechos sexuales y reproductivos
-text: Garantizaremos la intimidad de las mujeres que acuden a las clínicas IVE, su integridad física y moral, así como su derecho a la libre circulación.

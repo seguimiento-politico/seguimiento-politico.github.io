@@ -1,7 +1,6 @@
 id: 9a48f626-5c1b-4e25-bc41-d532c85aa18a
 type: promise
-parent_statement: bac7bb3e-7afd-4f8a-a860-8330b1eb4a2f
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Justicia
+parent_statement: bac7bb3e-7afd-4f8a-a860-8330b1eb4a2f
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
 text: Igualmente, hay que asegurar también la protección de los derechos lingüísticos y promover el uso de las lenguas cooficiales en la Administración de Justicia.
+categories: Justicia

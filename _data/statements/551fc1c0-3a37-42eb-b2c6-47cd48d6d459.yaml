@@ -1,7 +1,6 @@
 id: 551fc1c0-3a37-42eb-b2c6-47cd48d6d459
 type: promise
-parent_statement: eb88c663-c086-48c8-8bc5-a3b76a062e44
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: eb88c663-c086-48c8-8bc5-a3b76a062e44
+parent_chapter: 2d8f8a77-d340-4d0b-800e-27e24210ed8a
+text: Implicaremos a los centros universitarios en la recuperación y puesta en valor del patrimonio ambiental y cultural de las ciudades y localidades en que se asientan; en la gestión de los sectores económicos, ambientales y socioculturales vinculados a dicho patrimonio; y en el desarrollo local, en sus vertientes urbanísticas, ecológicas, culturales y científicas.
 categories: Educación
 topics: Universidad
-text: Implicaremos a los centros universitarios en la recuperación y puesta en valor del patrimonio ambiental y cultural de las ciudades y localidades en que se asientan; en la gestión de los sectores económicos, ambientales y socioculturales vinculados a dicho patrimonio; y en el desarrollo local, en sus vertientes urbanísticas, ecológicas, culturales y científicas.

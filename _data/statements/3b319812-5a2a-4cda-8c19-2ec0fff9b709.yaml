@@ -1,6 +1,6 @@
 id: 3b319812-5a2a-4cda-8c19-2ec0fff9b709
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 56
+parent_chapter: de18231f-ea27-483e-81a9-f51977d7f26c
 title: Prohibir las puertas giratorias.
 text: Como se sabe, la promesa de ocupar puestos en los consejos de administración de grandes empresas o de beneficiarse de sus altas retribuciones tras salir del servicio público conlleva la predisposición, por parte de las personas que hasta entonces desempeñaban una función dentro de las instituciones del Estado, a actuar contra el pueblo y a favor de unos pocos Estas personas se llevan consigo información muy valiosa, lo que deja las ventanas abiertas a las peores formas de corrupción y despilfarro Por eso, hay que prohibir que miembros del Consejo de Ministros, secretarios y secretarias de Estado, presidentes y miembros de los Consejos de Gobierno de las CC AA , miembros del Congreso y del Senado, así como del Tribunal Supremo, del Consejo General del Poder Judicial y del Tribunal Constitucional, puedan trabajar, directamente o bajo cualquier fórmula de prestación de servicios remunerados, para empresas que cotizan en bolsa (en cualquier caso) y para empresas con más de 50 millones de euros de facturación (coticen o no en bolsa) cuando hayan tomado decisiones sobre su área de actividad. Tipificaremos además como delito los casos graves de puertas giratorias y estableceremos una regulación para impedir que responsables técnicos de alto nivel (por ejemplo, técnicos de Hacienda) puedan favorecer después, con información obtenida en su paso por el servicio público, a grandes empresas que operan en la que ha sido su área de intervención o regulación

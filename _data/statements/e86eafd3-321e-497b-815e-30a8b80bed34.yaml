@@ -1,7 +1,6 @@
 id: e86eafd3-321e-497b-815e-30a8b80bed34
 type: promise
-parent_statement: a766f3d9-7ddc-4a82-8adc-1b071c121879
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Justicia
+parent_statement: a766f3d9-7ddc-4a82-8adc-1b071c121879
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
 text: Por tanto, facilitaremos el acceso a la mediación, a la conciliación y a otras formas alternativas de resolución de conflictos (Alternative Dispute Resolution [ADR]) con respeto a los derechos de la parte más débil, así como con mediadores y facilitadores públicos profesionales a los que pueda acceder toda la ciudadanía, construyendo en el proceso una justicia que cuente con la participación ciudadana, propicie la resolución pactada de sus propios conflictos y establezca las salvaguardias convenientes en función de su naturaleza
+categories: Justicia

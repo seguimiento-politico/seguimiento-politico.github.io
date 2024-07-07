@@ -1,7 +1,6 @@
 id: 5237f2b5-aaa3-40ca-82e4-5325101c3c0b
 type: promise
-parent_statement: 9ee370ee-9dbd-448d-a5b0-ef5db0b7e4c6
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Trabajo
+parent_statement: 9ee370ee-9dbd-448d-a5b0-ef5db0b7e4c6
+parent_chapter: 89ad30e0-548c-47cd-a92a-62d44e2dbb0f
 text: Protección a las personas empleadas del hogar. Los avances decisivos que en esta legislatura se han producido en la protección de las personas empleadas del hogar deben continuar a través del desarrollo reglamentario de su derecho a la prevención de riesgos laborales y abordando otras cuestiones que no pudieron incluirse por motivos formales en el RDL 16/2022, especialmente el su puesto de las internas. Es preciso, también, avanzar en sistemas que permitan a la ITSS ser más efi caz en este ámbito y abordar la cuestión de las personas empleadas del hogar migrantes carentes de autorización, así como la de aquellas que prestan sus servicios en situaciones transfronterizas.
+categories: Trabajo

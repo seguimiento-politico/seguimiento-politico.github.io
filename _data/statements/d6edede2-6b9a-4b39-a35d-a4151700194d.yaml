@@ -1,7 +1,6 @@
 id: d6edede2-6b9a-4b39-a35d-a4151700194d
 type: promise
-parent_statement: b73ea7eb-1cc9-4548-92a3-45262ce313ea
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Urbanismo y ciudades
+parent_statement: b73ea7eb-1cc9-4548-92a3-45262ce313ea
+parent_chapter: da4a5e62-c6b6-45b0-a08b-611f6d470a08
 text: Creemos necesario generar un marco legal, en cooperación con las comunidades autónomas y los entes locales, para el impulso de proyectos de rehabilitación y recuperación de pueblos abandonados o en vías de abandono.
+categories: Urbanismo y ciudades

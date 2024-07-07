@@ -1,6 +1,6 @@
 id: 07fa573d-9e94-43d2-b93f-23aa03266436
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 36
-categories: Política internacional
+parent_chapter: 7c3ce181-3fa0-4eb6-86d9-6ef9ed0c64d6
+children_promises:
+- 9442126e-9724-419e-bdab-56a55b063dab
+children_statements: []
 title: Impulsaremos la reforma de la Organización Mundial del Comercio (OMC)
-has_children: true
+categories: Política internacional

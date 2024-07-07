@@ -1,6 +1,6 @@
 id: b3d218a1-ca48-45fd-84b9-802dcadbd1be
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 259
+parent_chapter: 82bbf2d2-ddcc-4c0a-9b0c-5bac5677e936
+text: Seguiremos apoyando a Ucrania en su defensa de la paz, la libertad, su soberanía e integridad territorial y trabajaremos para lograr la paz. Seguiremos acompañándola en su camino hacia la integración europea.
 categories: Política internacional
 topics: Europa
-text: Seguiremos apoyando a Ucrania en su defensa de la paz, la libertad, su soberanía e integridad territorial y trabajaremos para lograr la paz. Seguiremos acompañándola en su camino hacia la integración europea.

@@ -1,0 +1,37 @@
+name: Energía nuclear
+other:
+- &id003
+  id: f8aa3f51-0887-4808-826a-152ca751bf78
+  parties:
+  - PSOE
+other_count: 1
+position_negative: []
+position_negative_count: 0
+position_positive:
+- &id004
+  id: f11ea89f-bcc7-4bb9-882e-0346405764f5
+  parties:
+  - VOX
+- &id001
+  id: 7fdad29b-f21a-43b0-a35b-ad7bda21eeb2
+  parties:
+  - VOX
+- &id002
+  id: 07333bd0-387e-4bc5-bd60-54dc46113c7f
+  parties:
+  - VOX
+position_positive_count: 3
+proposed_actions:
+- *id001
+- *id002
+proposed_actions_count: 2
+statements:
+- *id003
+- *id004
+- *id001
+- *id002
+statements_count: 4
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

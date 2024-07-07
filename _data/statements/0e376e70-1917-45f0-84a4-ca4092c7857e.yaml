@@ -1,7 +1,6 @@
 id: 0e376e70-1917-45f0-84a4-ca4092c7857e
 type: promise
-parent_statement: 2b9cc243-0593-4b41-8921-d27688f34089
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,8 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 189
+parent_statement: 2b9cc243-0593-4b41-8921-d27688f34089
+parent_chapter: fceaf9d6-d483-45fa-950a-983051a80ad3
+text: Este nuevo esquema y gestión integrada de prestaciones supone la consolidación del sistema no contributivo, asegurando continuidad en la cobertura de rentas de los hogares más vulnerables.
 categories: Derechos y servicios sociales
 topics:
 - Desigualdad
 - Ingreso mínimo vital
-text: Este nuevo esquema y gestión integrada de prestaciones supone la consolidación del sistema no contributivo, asegurando continuidad en la cobertura de rentas de los hogares más vulnerables.

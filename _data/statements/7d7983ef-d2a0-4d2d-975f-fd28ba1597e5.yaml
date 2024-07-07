@@ -1,7 +1,6 @@
 id: 7d7983ef-d2a0-4d2d-975f-fd28ba1597e5
 type: promise
-parent_statement: 80901419-9d89-4505-8196-1170c8cf516a
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: 80901419-9d89-4505-8196-1170c8cf516a
+parent_chapter: 5d726eb0-d9d8-487a-b54a-76273c1b0a4a
+text: Impulsaremos un desarrollo medioambientalmente sostenible de la inteligencia artificial
 categories: Economía
 topics: Digitalización
-text: Impulsaremos un desarrollo medioambientalmente sostenible de la inteligencia artificial

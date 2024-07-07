@@ -1,7 +1,6 @@
 id: eceb26db-b893-4168-b8c1-fb816e40fd28
 type: promise
-parent_statement: d1aefdf4-e1c3-4b94-95f5-d38a214f4e33
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Cultura
+parent_statement: d1aefdf4-e1c3-4b94-95f5-d38a214f4e33
+parent_chapter: 3c3b6e77-c208-4e24-b285-18f9fd80d11c
 text: En tercer lugar, garantizar que en el uso de las TIC se proteja el derecho a la intimidad y el derecho a saber quién tiene nuestros datos personales, cómo se ha accedido, para qué se utilizan y posibilitar su control y cancelación. La gestión del tratamiento de datos masivos (conocido en el entorno profesional como big data) obtenidos por los servicios de las Administraciones públicas, en especial las referidas a la salud de las personas, debe estar bajo el liderazgo exclusivo de la Administración pública y siempre para proyectos de investigación encargados por ésta y con claros objetivos de interés público.
+categories: Cultura

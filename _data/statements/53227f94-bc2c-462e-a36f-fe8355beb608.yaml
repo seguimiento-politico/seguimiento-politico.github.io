@@ -1,7 +1,6 @@
 id: 53227f94-bc2c-462e-a36f-fe8355beb608
 type: promise
-parent_statement: ec02c96a-4901-41ed-b1b9-dd027c7b45de
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: ec02c96a-4901-41ed-b1b9-dd027c7b45de
+parent_chapter: 63ab839a-6275-4d54-bf9b-ec036a685a75
+text: Esto se sumará a los esfuerzos actuales para repensar las políticas de protocolos, patentes y propiedad intelectual desde un esquema multilateral, lo que debería resultar en la desmercantilización de la creatividad.
 categories: Educación
 topics: Digitalización
-text: Esto se sumará a los esfuerzos actuales para repensar las políticas de protocolos, patentes y propiedad intelectual desde un esquema multilateral, lo que debería resultar en la desmercantilización de la creatividad.

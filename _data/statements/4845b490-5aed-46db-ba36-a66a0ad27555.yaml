@@ -1,11 +1,12 @@
 id: 4845b490-5aed-46db-ba36-a66a0ad27555
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 25
-categories: Empresas y autónomos
+parent_chapter: 48becc18-f66a-4328-a1ba-aa36f9f454e2
 text: Facilitaremos la conciliación de la vida laboral y familiar, con medidas que actúen en diversos ámbitos removiendo diferentes obstáculos.
+categories: Empresas y autónomos

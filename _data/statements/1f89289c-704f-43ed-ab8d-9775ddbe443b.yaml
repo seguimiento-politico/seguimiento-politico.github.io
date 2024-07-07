@@ -1,6 +1,6 @@
 id: 1f89289c-704f-43ed-ab8d-9775ddbe443b
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 245
+parent_chapter: d05356ab-7241-4db3-b89b-606c6702afe6
+text: Culminaremos la reforma de la Ley de Transparencia para incorporar las bases acordadas entre la sociedad civil y las tres administraciones, lo que nos convertirá en un país referente de las mejores prácticas en materia internacional.
 categories: Democracia
 topics: Gobernanza y transparencia
-text: Culminaremos la reforma de la Ley de Transparencia para incorporar las bases acordadas entre la sociedad civil y las tres administraciones, lo que nos convertirá en un país referente de las mejores prácticas en materia internacional.

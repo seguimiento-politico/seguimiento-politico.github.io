@@ -1,12 +1,13 @@
 id: 02bc6935-b147-470d-a5ed-300c420c391e
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 27
+parent_chapter: a376d79e-bd30-4273-bfd7-dcba6c72b615
+text: Mejoraremos la regulación del actual contrato para la formación y el aprendizaje, ampliando la formación asociada a dichos contratos a las necesidades que se puedan detectar en los distintos sectores y empresas a través del proceso de negociación colectiva.
 categories:
 - Trabajo
-text: Mejoraremos la regulación del actual contrato para la formación y el aprendizaje, ampliando la formación asociada a dichos contratos a las necesidades que se puedan detectar en los distintos sectores y empresas a través del proceso de negociación colectiva.

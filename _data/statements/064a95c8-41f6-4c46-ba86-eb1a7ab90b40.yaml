@@ -1,7 +1,6 @@
 id: 064a95c8-41f6-4c46-ba86-eb1a7ab90b40
 type: promise
-parent_statement: 4d6a2f91-f634-4396-a0d6-b2f2688c3c65
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 4d6a2f91-f634-4396-a0d6-b2f2688c3c65
+parent_chapter: 517dbc45-7fcb-4ab4-bd14-948f8a770923
+text: Facilitaremos y agilizaremos las transferencias sociales de carácter monetario, estableciendo mecanismos que permitan su automatización y su rápida distribución a las personas beneficiarias, con lo que se evitarán trámites burocráticos innecesarios. Se estudiará la forma de hacerlo a través de la Agencia Tributaria, lo que requeriría que todas las personas que perciban ingresos presenten una declaración. En cualquier caso, esto se hará sin que la medida suponga un aumento de la carga tributaria para las personas con ingresos más bajos. También se establecerán los mecanismos necesarios para que todas las personas tengan acceso a una cuenta bancaria donde recibir las ayudas a las que tienen derecho.
 categories: Economía
 topics: Igualdad
-text: Facilitaremos y agilizaremos las transferencias sociales de carácter monetario, estableciendo mecanismos que permitan su automatización y su rápida distribución a las personas beneficiarias, con lo que se evitarán trámites burocráticos innecesarios. Se estudiará la forma de hacerlo a través de la Agencia Tributaria, lo que requeriría que todas las personas que perciban ingresos presenten una declaración. En cualquier caso, esto se hará sin que la medida suponga un aumento de la carga tributaria para las personas con ingresos más bajos. También se establecerán los mecanismos necesarios para que todas las personas tengan acceso a una cuenta bancaria donde recibir las ayudas a las que tienen derecho.

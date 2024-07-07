@@ -1,6 +1,6 @@
 id: c8bdbce4-ab49-4d82-8417-e69c7a5d068d
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 148
+parent_chapter: 5424254d-f35f-472e-b45f-7c57cb8123c8
+text: La repoblación de la España rural es crucial para garantizar la prosperidad y la vertebración de todas las regiones de la nación. Se impulsará la creación y crecimiento de empresas en la economía rural concediendo incentivos fiscales que permitan desarrollar empresas viables, rentables y atractivas a la inversión.
 categories:
 - Territorio rural
-text: La repoblación de la España rural es crucial para garantizar la prosperidad y la vertebración de todas las regiones de la nación. Se impulsará la creación y crecimiento de empresas en la economía rural concediendo incentivos fiscales que permitan desarrollar empresas viables, rentables y atractivas a la inversión.

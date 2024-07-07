@@ -1,6 +1,6 @@
 id: a76f80ef-b452-4c76-904e-74c1350a29c1
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 33
-categories: Infraestructuras
+parent_chapter: d5897736-0845-447a-b84c-5b5e89bb1649
 text: SEGUIREMOS IMPULSANDO EL DESARROLLO DE LOS CORREDORES FERROVIARIOS –Mediterráneo, Atlántico y Central– cuya importancia resulta estratégica en el desarrollo y la conectividad de nuestro país. Nos comprometemos a impulsar la modernización y mejora de las infraestructuras ferroviarias clave, de forma especial la conexión con Extremadura. Apoyaremos todas las actuaciones en territorio español recogidas en la Red Transeuropea de Transporte tras su reciente revisión por el Parlamento Europeo.
+categories: Infraestructuras

@@ -1,7 +1,6 @@
 id: e0e39e98-f3fd-4cb2-81d2-b54dd9cb02f7
 type: promise
-parent_statement: 70ef0584-dae0-4007-963e-6f24323a0d0d
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Derechos y servicios sociales
+parent_statement: 70ef0584-dae0-4007-963e-6f24323a0d0d
+parent_chapter: 6bea7d15-32ea-402e-8fad-42663ddea615
 text: Es necesario llevar a cabo una reorganización drástica del sistema de cuidados para construir una democracia cuidadora en todas sus dimensiones. Esto implica una transformación económica y social que debe venir acompañada también de un Pacto de Estado por los Cuidados. Nuestro país necesita un cambio urgente y profundo que priorice los derechos y condiciones de vida de las personas que necesitan de cuidados y también el reconocimiento y dignificación de las condiciones laborales vinculadas a las tareas de cuidado realizadas mayormente por mujeres.
+categories: Derechos y servicios sociales

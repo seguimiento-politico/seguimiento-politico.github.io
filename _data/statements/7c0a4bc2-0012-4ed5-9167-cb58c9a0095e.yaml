@@ -1,6 +1,6 @@
 id: 7c0a4bc2-0012-4ed5-9167-cb58c9a0095e
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 26
-categories: Trabajo
+parent_chapter: 89a37952-7653-4d01-b826-60b84d3454b4
 text: Fomentaremos y protegeremos el artesanado y los oficios tradicionales y con arraigo, herencia vigorosa de nuestros abuelos, mediante medidas fiscales y crediticias, así como reconocemos la tradición secular del cooperativismo y la economía social en nuestra nación, promoviendo la participación de los trabajadores en las empresas.
+categories: Trabajo

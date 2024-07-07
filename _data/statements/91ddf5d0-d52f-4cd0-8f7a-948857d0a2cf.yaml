@@ -1,6 +1,6 @@
 id: 91ddf5d0-d52f-4cd0-8f7a-948857d0a2cf
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_chapter: a507bf09-1837-436d-9255-f7223e1c8c0f
+text: 'Durante estos cinco años, España se ha consolidado como un país central en la Unión Europea, liderando los principales debates y apoyando las iniciativas dirigidas a reforzar la integración económica y social, la autonomía estratégica de la UE y la construcción de un espacio de valores y libertad. Para seguir avanzando en esta dirección:'
 categories: Política internacional
 topics: Europa
-text: 'Durante estos cinco años, España se ha consolidado como un país central en la Unión Europea, liderando los principales debates y apoyando las iniciativas dirigidas a reforzar la integración económica y social, la autonomía estratégica de la UE y la construcción de un espacio de valores y libertad. Para seguir avanzando en esta dirección:'

@@ -1,6 +1,6 @@
 id: 0ca32fa9-4290-4bc6-8e96-c6cbd259f334
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 45
+parent_chapter: 7c812468-b672-4621-98aa-f7bc0b37c5af
+text: Ejerceremos un mayor control sobre las SICAV. Otorgaremos a los órganos de inspección de la Agencia Tributaria la competencia para declarar a efectos exclusivamente tributarios el incumplimiento de los requisitos establecidos para las SICAV en la normativa financiera. Igualmente se establecerán requisitos adicionales para la aplicación por las SICAV del tipo impositivo reducido tendentes a asegurar su carácter de instrumento de inversión colectiva, por ejemplo, estableciendo un tope de concentración de capital en manos de un mismo inversor (incluyendo la participación de personas físicas o jurídicas vinculadas).
 categories: Impuestos y financiación fiscal
 topics: Fraude fiscal
-text: Ejerceremos un mayor control sobre las SICAV. Otorgaremos a los órganos de inspección de la Agencia Tributaria la competencia para declarar a efectos exclusivamente tributarios el incumplimiento de los requisitos establecidos para las SICAV en la normativa financiera. Igualmente se establecerán requisitos adicionales para la aplicación por las SICAV del tipo impositivo reducido tendentes a asegurar su carácter de instrumento de inversión colectiva, por ejemplo, estableciendo un tope de concentración de capital en manos de un mismo inversor (incluyendo la participación de personas físicas o jurídicas vinculadas).

@@ -1,6 +1,6 @@
 id: aee89a82-2753-411c-84d6-37858b9952ca
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,9 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 156
+parent_chapter: 1d2802d7-3c25-4a37-96cf-85b8e7ed4986
+children_promises:
+- 95a62e9b-594d-4498-b005-979eb7b87db0
+- 90f8e661-b74f-4fa4-8d6d-48cd0e3559df
+children_statements: []
+title: Coeducación como elemento fundamental de la escuela inclusiva.
 categories: Educación
 topics:
 - Igualdad
 - Inclusión
-title: Coeducación como elemento fundamental de la escuela inclusiva.
-has_children: true

@@ -1,6 +1,6 @@
 id: 31fe3ffb-3138-45f7-991a-b2b016873cec
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 92
-categories: Sanidad
+parent_chapter: 17e4c412-8ac4-4992-848a-422903075ee3
+children_promises:
+- 6b8d35e6-6c58-4303-a8e2-4875e833453f
+- 11f160cb-1cd7-47ed-87a5-5ccd6dd9ab36
+- ac4fd1b2-87d4-401e-bc11-7c7ac3e71810
+children_statements: []
 title: Regulación íntegra del cannabis
-has_children: true
+categories: Sanidad

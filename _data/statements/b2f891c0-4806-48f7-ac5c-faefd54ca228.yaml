@@ -1,7 +1,6 @@
 id: b2f891c0-4806-48f7-ac5c-faefd54ca228
 type: promise
-parent_statement: c28c6f4d-6529-439c-a0d4-86f15b66f309
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Justicia
+parent_statement: c28c6f4d-6529-439c-a0d4-86f15b66f309
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
 text: Reduciremos las competencias de la Audiencia Nacional (AN) al mínimo en las distintas materias (especialmente las penales) y suprimiremos sus competencias relativas a menores y vigilancia penitenciaria, que regresarían a sus órganos naturales, para evitar la merma de las competencias constitucionales de los TSJ y la conversión práctica del TS en un órgano de segunda instancia.
+categories: Justicia

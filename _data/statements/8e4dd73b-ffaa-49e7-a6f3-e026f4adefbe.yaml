@@ -1,7 +1,6 @@
 id: 8e4dd73b-ffaa-49e7-a6f3-e026f4adefbe
 type: promise
-parent_statement: 68cb038f-9b10-4c13-8bc9-6802c15d2445
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,6 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 171
+parent_statement: 68cb038f-9b10-4c13-8bc9-6802c15d2445
+parent_chapter: 1ba59a71-2649-49ec-b7ab-7b3f541edfea
+text: En esta legislatura se ha puesto en marcha el complemento para la reducción de la brecha de género, así como la mejora de la cobertura de lagunas en las cotizaciones de las mujeres.
 categories: Derechos y servicios sociales
 topics: Pensiones
-text: En esta legislatura se ha puesto en marcha el complemento para la reducción de la brecha de género, así como la mejora de la cobertura de lagunas en las cotizaciones de las mujeres.

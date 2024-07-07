@@ -1,6 +1,6 @@
 id: 1351a29a-f778-4e40-8c41-dee7a4dd06bb
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 50
-categories: Industria
+parent_chapter: 52ae8dc4-28e9-4398-8226-2aed999f465f
+children_promises:
+- fd954474-afce-438c-8306-80014ed9420d
+- 8a7b11ee-59e5-427b-bcff-7058b7bf0baa
+children_statements: []
 title: Mantendremos una apuesta firme por garantizar la protección de nuestros productos industriales y artesanales, apostando por la preservación de las identidades locales, tradiciones y cultura.
-has_children: true
+categories: Industria

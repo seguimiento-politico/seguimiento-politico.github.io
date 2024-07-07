@@ -1,7 +1,6 @@
 id: 1dc9337d-4500-4b5c-8b6c-1a44ba6c094e
 type: promise
-parent_statement: 8ffbcfd5-47e2-4a95-bfd7-42cc69630bb9
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Trabajo
+parent_statement: 8ffbcfd5-47e2-4a95-bfd7-42cc69630bb9
+parent_chapter: e9e1334a-785f-47ff-a9d1-05e1b24e1b85
 text: Crearemos el Consejo Nacional por la Productividad para profundizar en el análisis y estimación del impacto sobre la productividad y contribuir así a la evaluación de las reformas de forma coordinada con los distintos organismos de evaluación de políticas públicas.
+categories: Trabajo

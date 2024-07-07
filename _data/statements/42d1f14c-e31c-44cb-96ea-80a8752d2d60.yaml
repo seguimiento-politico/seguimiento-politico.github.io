@@ -1,6 +1,6 @@
 id: 42d1f14c-e31c-44cb-96ea-80a8752d2d60
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 119
+parent_chapter: 96e848d1-3015-443e-a16c-804978d00154
+text: Dentro del PERTE de la Nueva Economía de la Lengua, impulsaremos la ciencia en español, apoyando los repositorios existentes y desarrollando nuevos mecanismos para reforzar la presencia de los investigadores e investigadoras y de científicas y científicos españoles en las publicaciones de referencia a nivel internacional
 categories: Ciencia y tecnología
 topics: I+D+i
-text: Dentro del PERTE de la Nueva Economía de la Lengua, impulsaremos la ciencia en español, apoyando los repositorios existentes y desarrollando nuevos mecanismos para reforzar la presencia de los investigadores e investigadoras y de científicas y científicos españoles en las publicaciones de referencia a nivel internacional

@@ -1,6 +1,6 @@
 id: 37db2969-20ce-4bbd-a261-7571740ef14f
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 97
+parent_chapter: 4b1a1fd6-83f2-4e8c-a775-7e65f72f50be
 title: Derogar la LOMCE e impulsar una nueva ley de educación.
 text: La nueva ley será el instrumento fundamental para revertir los procesos de privatización y segregación de la última década, que impiden que la educación cumpla su función de igualador social Incorporará también los acuerdos alcanzados por la comunidad educativa durante estos años y blindará la escuela pública como eje vertebrador del sistema educativo Asimismo, la religión no formará parte del horario escolar obligatorio y no se tendrá en cuenta para la media en ningún nivel educativo

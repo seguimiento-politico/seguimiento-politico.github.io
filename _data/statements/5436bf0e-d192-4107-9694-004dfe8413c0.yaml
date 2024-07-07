@@ -1,6 +1,6 @@
 id: 5436bf0e-d192-4107-9694-004dfe8413c0
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 82
+parent_chapter: 2e906499-7672-4105-aaf5-f66b64b6b883
+text: 'Desarrollaremos en un plan destinado a reducir el impacto de las infraestructuras en el medio natural y en la biodiversidad. Entre las mejoras estará, por ejemplo, la mejora de la integración de la red existente: pantallas sonoras, pasos de fauna, permeabilización transversal con nuevas pasarelas, etc.'
 categories: Infraestructuras, Transporte
 topics: Carreteras
-text: 'Desarrollaremos en un plan destinado a reducir el impacto de las infraestructuras en el medio natural y en la biodiversidad. Entre las mejoras estará, por ejemplo, la mejora de la integración de la red existente: pantallas sonoras, pasos de fauna, permeabilización transversal con nuevas pasarelas, etc.'

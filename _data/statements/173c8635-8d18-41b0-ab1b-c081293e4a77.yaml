@@ -1,6 +1,6 @@
 id: 173c8635-8d18-41b0-ab1b-c081293e4a77
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 265
+parent_chapter: 2c0cbfe5-1ea8-4d91-9e0d-86e01b93d0ba
+text: Seguiremos acompañando los esfuerzos de estabilidad en el Sahel y en África Occidental. Para ello, adoptaremos una estrategia específica para promover la estabilidad y el desarrollo del Sahel y seguiremos colaborando estrechamente con los países de la región en la lucha contra el terrorismo y fomentando la cooperación institucional.
 categories: Política internacional
 topics: África
-text: Seguiremos acompañando los esfuerzos de estabilidad en el Sahel y en África Occidental. Para ello, adoptaremos una estrategia específica para promover la estabilidad y el desarrollo del Sahel y seguiremos colaborando estrechamente con los países de la región en la lucha contra el terrorismo y fomentando la cooperación institucional.

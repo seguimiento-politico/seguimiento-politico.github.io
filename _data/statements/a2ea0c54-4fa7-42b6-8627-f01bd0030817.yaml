@@ -1,7 +1,6 @@
 id: a2ea0c54-4fa7-42b6-8627-f01bd0030817
 type: promise
-parent_statement: d3e40b38-d4b7-4e17-a10f-4a2a38dbae76
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,4 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: d3e40b38-d4b7-4e17-a10f-4a2a38dbae76
+parent_chapter: 27ff313e-64fe-41ca-bc72-c44fafac350d
 text: Estableceremos una hoja de ruta con objetivos concretos para el despliegue de combustibles renovables de cero emisiones, como el hidrógeno 100% renovable, para uso prioritario de la aviación y el transporte marítimo, que vaya más allá de los mínimos exigidos por la UE, aprovechando así el elevado potencial de generación de hidrógeno renovable del que dispone España.
+topics: Cambio climático

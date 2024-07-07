@@ -1,6 +1,6 @@
 id: 98837a69-725c-45c4-a78e-4369ab08c777
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 98
+parent_chapter: 4b1a1fd6-83f2-4e8c-a775-7e65f72f50be
 text: Garantizar al personal docente interino las mismas condiciones laborales que al resto del personal docente. Asimismo, se establecerá un proceso extraordinario de consolidación de empleo que en ningún caso suponga la pérdida del puesto de trabajo para el personal docente interino, de manera que, en el plazo de cuatro años, se reduzca la tasa de interinidad al 7 %. También se instaurará, de acuerdo con las comunidades autónomas, la prohibición de un esquema de contratación que permita contratar cada curso y despedir en verano

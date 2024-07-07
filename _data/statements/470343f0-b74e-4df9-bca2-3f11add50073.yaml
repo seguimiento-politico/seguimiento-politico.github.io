@@ -1,7 +1,6 @@
 id: 470343f0-b74e-4df9-bca2-3f11add50073
 type: promise
-parent_statement: a30b4b72-c1ed-43b0-ab55-ca58393aa140
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Educación
+parent_statement: a30b4b72-c1ed-43b0-ab55-ca58393aa140
+parent_chapter: c1ead426-cec8-44d6-a73a-d98f9059e1db
 text: Asimismo, es importante promover la permeabilidad entre itinerarios durante la educación secundaria superior no obligatoria, que facilite la permanencia en el sistema educativo y la continuidad de las trayectorias
+categories: Educación

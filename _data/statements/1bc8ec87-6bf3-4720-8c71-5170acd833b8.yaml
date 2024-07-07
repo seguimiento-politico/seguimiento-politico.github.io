@@ -1,6 +1,6 @@
 id: 1bc8ec87-6bf3-4720-8c71-5170acd833b8
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 81
-categories: Impuestos y financiación pública
+parent_chapter: ec3e397c-bf4a-4692-a06e-58f507cee1f8
 text: Promoveremos iniciativas regulatorias y de impulso de la transparencia para aquellas empresas que ostentan una posición de dominio de mercado; en especial, si se trata de un sector estratégico (como el energético o de telefonía).
+categories: Impuestos y financiación pública

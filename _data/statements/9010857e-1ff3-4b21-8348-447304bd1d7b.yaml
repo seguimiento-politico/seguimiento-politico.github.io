@@ -1,6 +1,6 @@
 id: 9010857e-1ff3-4b21-8348-447304bd1d7b
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 158
-categories: Educación
+parent_chapter: 4f44b60a-d630-48f6-91cf-914cb0392db6
+children_promises:
+- f41690ef-e5ea-4093-8b13-04a6a9f7353b
+- 36784923-e19e-4199-8f1c-73407e604300
+children_statements: []
 title: 'Plan contra el calor: «Centros educativos contra la crisis climática»'
-has_children: true
+categories: Educación

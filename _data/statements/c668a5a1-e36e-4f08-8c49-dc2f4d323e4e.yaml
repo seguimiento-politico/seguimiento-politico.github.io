@@ -1,6 +1,6 @@
 id: c668a5a1-e36e-4f08-8c49-dc2f4d323e4e
-type: declaration
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Educación
+parent_chapter: 1c0fa930-4dab-46e3-a651-6022b8a0201f
 text: 'La educación es la base y motor de nuestra sociedad. Su finalidad es desarrollar las potencialidades de todo ser humano. La educación nos hace mejores. Un proyecto de país avanzado necesita de un modelo educativo público que asegure el bienestar de la población y una democracia de calidad. Necesitamos un nuevo contrato social para la educación que se base en dos principios fundamentales: el derecho universal a la educación y el compromiso con su carácter público, en tanto que bien común esencial, y que garantice el ejercicio de ese derecho en condiciones de igualdad. Nuestro Proyecto de Educación Democrática puede convertirse en uno de los instrumentos de mayor capacidad transformadora para combatir las desigualdades y conseguir una sociedad más justa y equitativa. Ello requiere que la sociedad, en su conjunto, asuma la responsabilidad de la educación como un derecho fundamental y un bien común. Es la forma de dar esperanza de futuro a nuestras niñas, niños, jóvenes y a todas las personas a lo largo de su vida.'
+categories: Educación

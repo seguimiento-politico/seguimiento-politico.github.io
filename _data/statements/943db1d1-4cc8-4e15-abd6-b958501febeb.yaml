@@ -1,7 +1,6 @@
 id: 943db1d1-4cc8-4e15-abd6-b958501febeb
 type: promise
-parent_statement: ba7874b0-0dff-40c0-ab89-aaaa6e7bf8e0
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Seguridad y defensa
+parent_statement: ba7874b0-0dff-40c0-ab89-aaaa6e7bf8e0
+parent_chapter: 66b190ef-617c-438a-adf3-a3c9f707719b
 text: Esta normativa facilitará la incorporación de medidas desde la óptica de las políticas sociales, con incidencia directa en la reducción de la delincuencia y en el aumento de la percepción de seguridad.
+categories: Seguridad y defensa

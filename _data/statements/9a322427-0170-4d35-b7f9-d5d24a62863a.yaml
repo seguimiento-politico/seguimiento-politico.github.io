@@ -1,6 +1,6 @@
 id: 9a322427-0170-4d35-b7f9-d5d24a62863a
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 19
-categories: Vivienda
+parent_chapter: 76e1c51f-5c84-4bf0-9fab-26b71a97cfdc
 text: Se fomentará el alquiler social para las personas que, tras haber cedido o perdido en ejecución hipotecaria su vivienda única y habitual, no dispongan de alternativa habitacional. Se estudiarán obligaciones adicionales para los grandes tenedores de vivienda. <br>Se establecerá un informe obligatorio a los servicios de bienestar social en caso de desahucio para que las administraciones puedan ayudar a las familias afectadas con el fin de garantizar una alternativa habitacional.
+categories: Vivienda

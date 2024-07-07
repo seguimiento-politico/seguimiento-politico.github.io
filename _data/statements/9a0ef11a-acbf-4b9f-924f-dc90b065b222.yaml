@@ -1,11 +1,12 @@
 id: 9a0ef11a-acbf-4b9f-924f-dc90b065b222
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 15
-categories: Nacionalismo y patriotismo
+parent_chapter: 1d70d4de-8db8-40af-98f3-72921bc2f7ab
 text: Aprobaremos una Ley de Concordia que derogará la Ley de Memoria Histórica. Una ley que incluya a todas las víctimas y que haga del recuerdo de los hechos históricos un alegato en favor de la libertad y la paz, la tolerancia y la convivencia, para que nunca más, por ningún motivo y bajo ninguna circunstancia, vuelva el odio y la violencia entre españoles.
+categories: Nacionalismo y patriotismo

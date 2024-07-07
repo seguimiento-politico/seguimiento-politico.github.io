@@ -1,6 +1,6 @@
 id: 9dec1ee2-7177-49b8-a9c3-2e8d419f6d21
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 36
-categories: Turismo
+parent_chapter: e3e569f4-831c-4c4a-a8aa-6f7cb6b0ef93
 text: PROMOVEREMOS LA COLABORACIÓN PÚBLICO-PRIVADA PARA LA FORMACIÓN EN HOSTELERÍA, facilitando la creación de alianzas entre empresas, instituciones educativas y organismos públicos, y desarrollaremos un sistema de reconocimiento y certificación de competencias para los profesionales de la hostelería, que valore y acredite sus habilidades y conocimientos adquiridos a lo largo de su trayectoria laboral.
+categories: Turismo

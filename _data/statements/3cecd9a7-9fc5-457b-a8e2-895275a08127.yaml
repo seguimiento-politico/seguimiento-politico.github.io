@@ -1,6 +1,6 @@
 id: 3cecd9a7-9fc5-457b-a8e2-895275a08127
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 210
-categories: Consumo
+parent_chapter: d389f23d-8889-42f7-bf07-5877db4fb159
 text: Aprobaremos definitivamente la ley de creación de la Autoridad de Protección del Cliente Financiero, también decaída como consecuencia del adelanto electoral, cuyas resoluciones serán de obligado cumplimiento para las entidades financieras, y que garantizará la inclusión financiera a través de la atención personalizada especialmente a personas mayores, personas con discapacidad y colectivos vulnerables que deseen presentar reclamaciones.
+categories: Consumo

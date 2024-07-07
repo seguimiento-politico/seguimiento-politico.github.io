@@ -1,6 +1,6 @@
 id: 444c6b8e-e40c-4dc9-9067-52768bd11a42
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 43
+parent_chapter: 9b9406d4-64ea-4dc6-9ef5-d29e2f089e3e
+text: Continuaremos eliminando las trabas burocráticas que lastran los proyectos de investigación; aumentaremos la inversión para proyectos de investigación y las facilidades para contratar investigadores a cargo de ellos; estableceremos incentivos para que la investigación académica, la transferencia de conocimiento y la innovación se conviertan en auténticos motores del progreso de nuestra sociedad; continuaremos con la política de atracción del personal docente e investigador, especialmente de las y los españoles que tuvieron que marcharse al extranjero en busca de oportunidades.
 categories: Ciencia y tecnología
 topics: I+D+i
-text: Continuaremos eliminando las trabas burocráticas que lastran los proyectos de investigación; aumentaremos la inversión para proyectos de investigación y las facilidades para contratar investigadores a cargo de ellos; estableceremos incentivos para que la investigación académica, la transferencia de conocimiento y la innovación se conviertan en auténticos motores del progreso de nuestra sociedad; continuaremos con la política de atracción del personal docente e investigador, especialmente de las y los españoles que tuvieron que marcharse al extranjero en busca de oportunidades.

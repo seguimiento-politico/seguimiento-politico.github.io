@@ -1,6 +1,6 @@
 id: 2e888a46-4e46-4f13-854a-085e3f418733
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 44
+parent_chapter: 1e1d9fec-722c-4fe5-83c8-753b161e1073
+children_promises:
+- 912bb42c-7341-44b5-8ad5-f691bfb31a29
+- 9a076d9c-6193-4d15-b678-e097b62f62ce
+children_statements: []
+title: Reforzaremos los programas de turismo y de termalismo del Instituto de Mayores y Servicios Sociales (IMSERSO)
 categories: Turismo
 topics: Desarrollo sostenible
-title: Reforzaremos los programas de turismo y de termalismo del Instituto de Mayores y Servicios Sociales (IMSERSO)
-has_children: true

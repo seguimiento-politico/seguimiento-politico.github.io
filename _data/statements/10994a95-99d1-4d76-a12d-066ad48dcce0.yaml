@@ -1,6 +1,6 @@
 id: 10994a95-99d1-4d76-a12d-066ad48dcce0
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 99
+parent_chapter: c425d082-cd3e-4480-b652-21a0048e281d
+text: ABORDAREMOS LA REFORMA INSTITUCIONAL PENDIENTE DE LA UE como un requisito necesario para que las próximas ampliaciones puedan tener lugar con garantías, manteniendo la capacidad de desarrollar el acervo comunitario y el correcto funcionamiento de las instituciones.
 categories: Política internacional
 topics: Europa
-text: ABORDAREMOS LA REFORMA INSTITUCIONAL PENDIENTE DE LA UE como un requisito necesario para que las próximas ampliaciones puedan tener lugar con garantías, manteniendo la capacidad de desarrollar el acervo comunitario y el correcto funcionamiento de las instituciones.

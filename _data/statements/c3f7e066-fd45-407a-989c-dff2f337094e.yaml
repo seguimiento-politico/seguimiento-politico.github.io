@@ -1,7 +1,6 @@
 id: c3f7e066-fd45-407a-989c-dff2f337094e
 type: promise
-parent_statement: f2f81ff0-a80d-4224-ae7d-ac4819fc56d4
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: f2f81ff0-a80d-4224-ae7d-ac4819fc56d4
+parent_chapter: 5ac453aa-319d-4ea3-b4b6-7a63e3dde3ff
+text: Es fundamental proporcionar información exacta, verificable y clara que sea suficiente para tomar decisiones de compra con conocimiento de causa. Para hacer efectivo este derecho, pondremos en marcha una normativa dirigida a las empresas que asegure la transparencia y la trazabilidad de la elaboración de sus productos de forma comprensible y fácilmente accesible.
 categories: Consumo
 topics: Consumo sostenible
-text: Es fundamental proporcionar información exacta, verificable y clara que sea suficiente para tomar decisiones de compra con conocimiento de causa. Para hacer efectivo este derecho, pondremos en marcha una normativa dirigida a las empresas que asegure la transparencia y la trazabilidad de la elaboración de sus productos de forma comprensible y fácilmente accesible.

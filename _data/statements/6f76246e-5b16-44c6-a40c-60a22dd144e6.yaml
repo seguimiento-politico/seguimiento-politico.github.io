@@ -1,7 +1,6 @@
 id: 6f76246e-5b16-44c6-a40c-60a22dd144e6
 type: promise
-parent_statement: b6128a26-8a41-4736-92c1-c17d090a78da
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Industria
+parent_statement: b6128a26-8a41-4736-92c1-c17d090a78da
+parent_chapter: 52ae8dc4-28e9-4398-8226-2aed999f465f
 text: Treinta años son demasiados para un sector en constante modernización. Aceleraremos una propuesta para reformar y aprobar en el parlamento cuanto antes la Ley de Industria, ya que la actual data de 1992, diseñada con todo el sector, los agentes sociales y todas las profesiones implicadas.
+categories: Industria

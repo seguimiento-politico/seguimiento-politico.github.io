@@ -1,6 +1,6 @@
 id: 222e507a-28a8-42b1-b075-a703c92c93f0
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 162
+parent_chapter: dc078108-a453-4049-8b39-4e59ff459082
+children_promises:
+- 99cdeb39-8a63-4cdc-9a3a-6f3afe32ab07
+- cb32c175-b078-4c35-87a9-df10cf0469f7
+children_statements: []
+title: Potenciación de la ciencia y los datos abiertos recogidos en repositorios públicos y apoyadospor las instituciones universitarias y científicas responsables.
 categories: Educación
 topics: Universidad
-title: Potenciación de la ciencia y los datos abiertos recogidos en repositorios públicos y apoyadospor las instituciones universitarias y científicas responsables.
-has_children: true

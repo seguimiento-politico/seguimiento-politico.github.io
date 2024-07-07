@@ -1,6 +1,6 @@
 id: 6daf0d71-f685-47a5-9355-11417756d51a
-type: declaration
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+type: statement
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,4 +10,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 10
+parent_chapter: aa9c0a48-0b3d-434c-8c5a-a6a7ab8007ce
 text: 'Trabajar por la regeneración y luchar contra la corrupción. Proteger los servicios públicos, especialmente la educación –incluyendo el impulso a las escuelas infantiles de cero a tres años–, la sanidad pública y la atención a la dependencia. Blindaje de las pensiones de nuestros mayores: asegurar la sostenibilidad del sistema público de pensiones y su revalorización conforme al coste de la vida. La vivienda como derecho y no como mera mercancía. Apostar por la ciencia como motor de innovación económica y dignificar las condiciones de trabajo del sector. Recuperar talento emigrado. Controlar la extensión de las casas de apuestas.'

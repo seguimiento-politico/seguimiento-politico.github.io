@@ -1,7 +1,6 @@
 id: b5f19ab8-51fd-43f1-b7cc-fe1e8837dd4c
 type: promise
-parent_statement: 330cd312-f02a-4adc-a3a7-7e907d7c62a5
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +8,10 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: 330cd312-f02a-4adc-a3a7-7e907d7c62a5
+parent_chapter: 1d4a4787-163e-4649-b875-f97fd3780649
+text: Destinaremos más presupuesto para innovación, formación y asesoramiento en el sector agroalimentario para que los avances en el conocimiento y la tecnología lleguen también a las pequeñas y medianas explotaciones familiares, que tienen más dificultades para acceder a ello.
 categories:
 - Agricultura
 - Ganadaría
 topics: Desarrollo sostenible
-text: Destinaremos más presupuesto para innovación, formación y asesoramiento en el sector agroalimentario para que los avances en el conocimiento y la tecnología lleguen también a las pequeñas y medianas explotaciones familiares, que tienen más dificultades para acceder a ello.

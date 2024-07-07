@@ -1,6 +1,6 @@
 id: 3f49d63d-e810-4067-a190-aacada067679
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 73
-categories: Impuestos y financiación pública
+parent_chapter: ec3e397c-bf4a-4692-a06e-58f507cee1f8
 text: En VOX pondremos fin al infierno fiscal y burocrático que sufren los españoles bajando radicalmente todos los impuestos y recortando drásticamente el gasto político innecesario para impulsar nuestra competitividad y reforzar nuestras infraestructuras y servicios públicos.
+categories: Impuestos y financiación pública

@@ -1,6 +1,6 @@
 id: ddc56b7f-a603-419f-b20c-fd440ca7413a
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 38
-categories: Agua
+parent_chapter: 27c2e026-31b3-4fe9-873a-317121ffbe6c
 text: IMPULSAREMOSS LA PROTECCIÓN DE LOS ESPACIOS NATURALES Y LA BIODIVERSIDAD, ESPECIALMENTE EN LOS ECOSISTEMAS ACUÁTICOS Y HUMEDALES, como el Mar Menor, Doñana o las Tablas de Daimiel, buscando y aplicando las soluciones técnicas viables, eficaces y eficientes. Contaremos con la participación y colaboración de las administraciones públicas competentes, y desde el consenso científico y social. Acometeremos las inversiones necesarias para cumplir con la normativa comunitaria en materia ambiental, como el Plan Vertido Cero del Mar Menor.
+categories: Agua

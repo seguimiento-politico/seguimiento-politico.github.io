@@ -1,6 +1,6 @@
 id: cd57ca05-2d57-41ba-9ad7-bec4e0be11c2
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 126
-categories: Cultura
+parent_chapter: ef655d4e-aabd-4367-b039-db13bf06547d
 text: Fortaleceremos el Instituto Nacional de la Cinematografía y el Audiovisual (ICAA) dotándolo de mayor autonomía y competencias en materia audiovisual y cinematográfica.
+categories: Cultura

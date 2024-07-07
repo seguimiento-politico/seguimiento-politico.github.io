@@ -1,7 +1,6 @@
 id: abe3f0f9-75bd-4b61-b228-f7a5bfc15a1e
 type: promise
-parent_statement: 766857ec-adf3-4be8-a72d-1e3a09ccfac9
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 766857ec-adf3-4be8-a72d-1e3a09ccfac9
+parent_chapter: 49057808-0482-45cd-aac1-350b0a2d33e6
+text: Del mismo modo, se profundizará en el papel del sistema educativo a la hora de despertar la curiosidad científica entre el estudiantado de los niveles no universitarios y la aproximación a un aprendizaje en el que la formulación de problemas sea tan importante como la búsqueda de soluciones y su contraste colectivo.
 categories: Ciencia y tecnología
 topics: I+D+i
-text: Del mismo modo, se profundizará en el papel del sistema educativo a la hora de despertar la curiosidad científica entre el estudiantado de los niveles no universitarios y la aproximación a un aprendizaje en el que la formulación de problemas sea tan importante como la búsqueda de soluciones y su contraste colectivo.

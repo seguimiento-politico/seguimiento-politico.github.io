@@ -1,6 +1,6 @@
 id: c5b48665-e6f9-4383-89c2-d2f8e803cf70
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 28
-categories: Sanidad
+parent_chapter: 75517e5c-2334-421b-8769-dbe823cce614
 text: Actualizaremos la Estrategia de Salud Mental, con el objetivo de construir un verdadero sistema de atención, con un enfoque de género y derechos humanos, que atienda a los pacientes crónicos, y que incluya un protocolo especial para prevenir la conducta suicida, que prevea la puesta en marcha de un teléfono de atención oficial, entre otras medidas.
+categories: Sanidad

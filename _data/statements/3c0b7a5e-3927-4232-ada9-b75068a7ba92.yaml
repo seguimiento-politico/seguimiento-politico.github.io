@@ -1,11 +1,12 @@
 id: 3c0b7a5e-3927-4232-ada9-b75068a7ba92
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 34
-categories: Educación
+parent_chapter: d01d08b0-ad16-47ca-a6fa-7d638f061cfa
 text: Pondremos en marcha planes especiales de educación e infraestructuras educativas para Ceuta y Melilla.
+categories: Educación

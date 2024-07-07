@@ -1,7 +1,6 @@
 id: 8a373adb-d365-41ae-bd53-03d2bbe6cd62
 type: promise
-parent_statement: bb6b9752-9845-47e3-b224-11ccdcb91051
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: bb6b9752-9845-47e3-b224-11ccdcb91051
+parent_chapter: ad039df8-ee0b-45eb-922e-f9f457f1a005
+text: Protección especial de la ganadería extensiva. La ganadería extensiva es una de las actividades agrarias más fragilizadas hoy en día. Se promoverá un intenso debate protagonizado por los propios ganaderos y ganaderas, y se pondrán en marcha los apoyos suplementarios que necesitan para poder seguir existiendo.
 categories: Agricultura
 topics: Desarrollo sostenible
-text: Protección especial de la ganadería extensiva. La ganadería extensiva es una de las actividades agrarias más fragilizadas hoy en día. Se promoverá un intenso debate protagonizado por los propios ganaderos y ganaderas, y se pondrán en marcha los apoyos suplementarios que necesitan para poder seguir existiendo.

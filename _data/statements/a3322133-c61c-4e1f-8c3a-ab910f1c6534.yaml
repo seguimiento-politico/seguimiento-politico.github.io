@@ -1,7 +1,6 @@
 id: a3322133-c61c-4e1f-8c3a-ab910f1c6534
 type: promise
-parent_statement: a86cbc6b-b38c-4432-b4a0-026d49d404d2
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: a86cbc6b-b38c-4432-b4a0-026d49d404d2
+parent_chapter: b5417c2b-2bd9-455f-a227-1ac572dbd434
+text: Se procederá a la actualización de los contenidos curriculares en las distintas etapas educativas y se impulsará la incorporación en los libros de texto y materiales curriculares del estudio de la represión y las luchas por la democracia en España con el objetivo de garantizar el conocimiento ciudadano crítico sobre lo sucedido, así como el derecho a la verdad, con especial atención a la etapa escolar.
 categories: Democracia
 topics: Memoria democrática
-text: Se procederá a la actualización de los contenidos curriculares en las distintas etapas educativas y se impulsará la incorporación en los libros de texto y materiales curriculares del estudio de la represión y las luchas por la democracia en España con el objetivo de garantizar el conocimiento ciudadano crítico sobre lo sucedido, así como el derecho a la verdad, con especial atención a la etapa escolar.

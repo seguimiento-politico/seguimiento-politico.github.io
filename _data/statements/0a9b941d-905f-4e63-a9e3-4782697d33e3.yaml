@@ -1,6 +1,6 @@
 id: 0a9b941d-905f-4e63-a9e3-4782697d33e3
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 264
+parent_chapter: 0631ffc9-f685-4c80-b532-d54fe56904f9
+text: Impulsaremos la firma del acuerdo de asociación UE-Andorra que proteja los derechos de las personas trabajadoras transfronterizas.
 categories: Política internacional
 topics: Andorra
-text: Impulsaremos la firma del acuerdo de asociación UE-Andorra que proteja los derechos de las personas trabajadoras transfronterizas.

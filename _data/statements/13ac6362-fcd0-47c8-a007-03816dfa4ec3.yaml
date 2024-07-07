@@ -1,6 +1,6 @@
 id: 13ac6362-fcd0-47c8-a007-03816dfa4ec3
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 167
-categories: Cultura
+parent_chapter: 7350357f-215c-4adf-8549-2205377e11a9
+children_promises:
+- fce91329-ae3b-432c-a6af-6060b8fbfd24
+- 5759daf4-262d-4f7f-937c-1186c4cf02d0
+- b4497a4a-ac2f-4d6e-bbff-e5ab4038d625
+- 694af089-5554-4db8-bd36-88ef76572b32
+children_statements: []
 title: Garantizaremos el derecho a la cultura de todas las personas y en todos los territorios a través de una ley de derechos culturales
-has_children: true
+categories: Cultura

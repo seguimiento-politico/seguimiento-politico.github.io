@@ -1,6 +1,6 @@
 id: 9eb6956c-d6e0-406a-bad9-4a9a124835e7
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 215
+parent_chapter: 7e954430-f78f-4ba9-8bbd-bd41156adc9d
+text: En el marco del quinto pilar de la Estrategia Europea LGTBI 2020-2025, promoveremos el derecho a la libre circulación de las familias LGTBI dentro de la Unión.
 categories: Derechos y servicios sociales
 topics:
 - Igualdad
 - LGTBI
-text: En el marco del quinto pilar de la Estrategia Europea LGTBI 2020-2025, promoveremos el derecho a la libre circulación de las familias LGTBI dentro de la Unión.

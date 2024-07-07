@@ -1,7 +1,6 @@
 id: 787a24f6-9b0e-44af-937e-8b0e6fbee4bb
 type: promise
-parent_statement: bb6b9752-9845-47e3-b224-11ccdcb91051
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: bb6b9752-9845-47e3-b224-11ccdcb91051
+parent_chapter: ad039df8-ee0b-45eb-922e-f9f457f1a005
+text: Apoyo efectivo a explotaciones y empresas agroecológicas. Reforzaremos el apoyo a todo el entramado de empresas agrarias y agroalimentarias que ya han emprendido el camino de la transición agroecológica.
 categories: Agricultura
 topics: Desarrollo sostenible
-text: Apoyo efectivo a explotaciones y empresas agroecológicas. Reforzaremos el apoyo a todo el entramado de empresas agrarias y agroalimentarias que ya han emprendido el camino de la transición agroecológica.

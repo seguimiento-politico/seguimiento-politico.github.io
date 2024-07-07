@@ -1,0 +1,20 @@
+id: 4e608a47-0b9c-454c-b112-e1745bb15232
+type: promise
+parent_document: a613c4b6-f9dc-4926-8b9a-b87c233e5a75
+parties:
+- VOX
+election_type: europeas
+election_date: '2024-06-09'
+publication_date: '2024-05-30'
+page: 24
+text: Impulsar un Plan Nacional de Soberanía Energética y defender en Bruselas este plan sin complejos, cesiones a intereses externos ni injerencias ideológicas. Sólo así se podrá asegurar que los recursos energéticos de que dispone España sean aprovechados para la generación energética y reducir la dependencia del exterior al máximo.
+categories:
+- Energía
+topics:
+- name: Soberanía energética
+  position_positive: null
+  proposed_actions:
+  - text: Impulsar un Plan Nacional de Soberanía Energética
+  - text: Defender en Bruselas el Plan Nacional de Soberanía Energética sin cesiones a intereses externos ni injerencias ideológicas
+  - text: Explotación de recursos energéticos propios
+  - text: Reducir la dependencia del exterior al máximo

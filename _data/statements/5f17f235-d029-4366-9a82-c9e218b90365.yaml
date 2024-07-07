@@ -1,6 +1,6 @@
 id: 5f17f235-d029-4366-9a82-c9e218b90365
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 110
-categories: Educación
+parent_chapter: 36fd6124-6838-4148-89e5-0907ad9fec89
 text: Apoyaremos programas intergeneracionales centrados en la convivencia y valores cívicos, en colaboración con los ayuntamientos.
+categories: Educación

@@ -1,6 +1,6 @@
 id: 6325b707-5408-47b3-b732-91bdbc10060e
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Comercio
+parent_chapter: 81738100-166b-4a15-8460-e2dbccc1f94d
 text: El comercio es un sector estratégico para nuestro país, que representa el 13% del valor añadido bruto de nuestra economía, correspondiendo el 5,2% al comercio minorista. Pero, además, es un elemento clave para la revitalización en nuestros pueblos y ciudades, porque donde hay comercio hay activación de la vida social, generando un efecto arrastre sobre otras actividades económicas, culturales, deportivas y lúdicas.
+categories: Comercio

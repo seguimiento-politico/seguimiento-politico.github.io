@@ -1,6 +1,6 @@
 id: d208a03d-bce6-456d-bcdd-a0a56431b3ed
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 22
+parent_chapter: d3d26d0a-0ea8-4348-8556-ce6fd7e0688d
+text: ESTABLECEREMOS UN FORO DE ALTO NIVEL EUROPEO SOBRE IA como marco de cogobernanza y en coordinación con las Comunidades Autónomas. Conjugando las iniciativas europeas con las nacionales asegurando que todas las CCAA participen de las nuevas iniciativas en IA.
 categories: Ciencia y tecnología
 topics: Inteligencia artificial
-text: ESTABLECEREMOS UN FORO DE ALTO NIVEL EUROPEO SOBRE IA como marco de cogobernanza y en coordinación con las Comunidades Autónomas. Conjugando las iniciativas europeas con las nacionales asegurando que todas las CCAA participen de las nuevas iniciativas en IA.

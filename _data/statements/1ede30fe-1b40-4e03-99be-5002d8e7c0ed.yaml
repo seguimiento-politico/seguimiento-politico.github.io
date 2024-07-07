@@ -1,7 +1,6 @@
 id: 1ede30fe-1b40-4e03-99be-5002d8e7c0ed
 type: promise
-parent_statement: 6e194a32-5196-47b8-8b43-577a0e2ffd1b
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Seguridad y defensa
+parent_statement: 6e194a32-5196-47b8-8b43-577a0e2ffd1b
+parent_chapter: 66b190ef-617c-438a-adf3-a3c9f707719b
 text: La legitimidad policial deriva del respeto y la confianza ciudadana, frente a soluciones propias de otro tipo de regímenes que ponen el acento en el principio de autoridad, proponemos un modelo policial construido sobre la cercanía y el respeto a la ciudadanía.
+categories: Seguridad y defensa

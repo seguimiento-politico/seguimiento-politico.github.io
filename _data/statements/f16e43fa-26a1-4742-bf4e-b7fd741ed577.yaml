@@ -1,6 +1,6 @@
 id: f16e43fa-26a1-4742-bf4e-b7fd741ed577
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 21
+parent_chapter: 5ac453aa-319d-4ea3-b4b6-7a63e3dde3ff
+children_promises:
+- da96f651-3823-4b65-8518-719ca4217494
+- f11d4d3c-d4f0-4bff-a5c0-26a00aa2b447
+children_statements: []
+title: Impulso de la compra pública responsable
 categories: Consumo
 topics: Consumo sostenible
-title: Impulso de la compra pública responsable
-has_children: true

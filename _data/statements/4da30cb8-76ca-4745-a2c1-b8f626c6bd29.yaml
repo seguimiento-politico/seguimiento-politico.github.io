@@ -1,7 +1,6 @@
 id: 4da30cb8-76ca-4745-a2c1-b8f626c6bd29
-type: declaration
-parent_statement: 02cfc0b8-1e56-40eb-9e85-72fef4f224db
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 02cfc0b8-1e56-40eb-9e85-72fef4f224db
+parent_chapter: 2f237cb0-ae0e-4a8f-a830-d1d1992f2a0f
+text: Ninguna política deportiva será efectiva y útil sin recursos suficientes asignados en los presupuestos del Estado, en los de las comunidades autónomas y en los de los ayuntamientos. Desde la convicción de la utilidad social del deporte, de su importancia capital en la conformación de la personalidad de los individuos y, con ello, de nuestra sociedad, la salud y el bienestar físico, psíquico y social, se necesita garantizar una financiación adecuada para la política deportiva. Invertir en deporte es ahorrar en sanidad.
 categories: Deporte
 topics: Financiación
-text: Ninguna política deportiva será efectiva y útil sin recursos suficientes asignados en los presupuestos del Estado, en los de las comunidades autónomas y en los de los ayuntamientos. Desde la convicción de la utilidad social del deporte, de su importancia capital en la conformación de la personalidad de los individuos y, con ello, de nuestra sociedad, la salud y el bienestar físico, psíquico y social, se necesita garantizar una financiación adecuada para la política deportiva. Invertir en deporte es ahorrar en sanidad.

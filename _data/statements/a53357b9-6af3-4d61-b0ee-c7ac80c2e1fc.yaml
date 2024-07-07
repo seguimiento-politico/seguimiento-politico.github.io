@@ -1,7 +1,6 @@
 id: a53357b9-6af3-4d61-b0ee-c7ac80c2e1fc
 type: promise
-parent_statement: 2fba56d9-7834-444b-8a9c-583e2135f7ff
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +8,10 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: 2fba56d9-7834-444b-8a9c-583e2135f7ff
+parent_chapter: 1d4a4787-163e-4649-b875-f97fd3780649
+text: Apoyaremos y fomentaremos los canales cortos de comercialización de productos agrarios, con disposiciones normativas que faciliten la venta directa en condiciones de seguridad e higiene.
 categories:
 - Agricultura
 - Ganadaría
 topics: Desarrollo sostenible
-text: Apoyaremos y fomentaremos los canales cortos de comercialización de productos agrarios, con disposiciones normativas que faciliten la venta directa en condiciones de seguridad e higiene.

@@ -1,6 +1,6 @@
 id: 1700b5be-2763-4c91-8732-c972901c20c2
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 33
-categories: Trabajo
+parent_chapter: 2e87f7f8-d5a3-47a6-82d5-b25f36e88929
+children_promises:
+- aaf27c7a-5eec-4d8a-9665-950faffde8c4
+- cb1240b4-0730-412b-bb4b-16c329e5eb31
+- 20c9291a-c9b3-4932-a665-f73db3689841
+children_statements:
+- 2c872081-e37e-4f62-802a-85d3b5efcc1b
 title: Reforma del sistema de mutuas colaboradoras de la Seguridad Social (MATPSS).
-has_children: true
+categories: Trabajo

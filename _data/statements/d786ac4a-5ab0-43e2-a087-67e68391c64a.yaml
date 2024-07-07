@@ -1,7 +1,6 @@
 id: d786ac4a-5ab0-43e2-a087-67e68391c64a
 type: promise
-parent_statement: 4b62334f-635f-4b02-949f-24c399b1507f
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Política internacional
+parent_statement: 4b62334f-635f-4b02-949f-24c399b1507f
+parent_chapter: 7c3ce181-3fa0-4eb6-86d9-6ef9ed0c64d6
 text: Promoveremos las innovaciones regulatorias y tecnológicas en el ámbito verde y digital como bienes públicos globales, garantizando, por tanto, su provisión y acceso para toda la sociedad en todo el mundo, sin exclusión.
+categories: Política internacional

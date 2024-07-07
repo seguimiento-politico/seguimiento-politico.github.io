@@ -1,0 +1,26 @@
+id: bf01f1b3-2ed1-4ef6-a780-e7ededcbeb84
+type: statement
+parent_document: a613c4b6-f9dc-4926-8b9a-b87c233e5a75
+parties:
+- VOX
+election_type: europeas
+election_date: '2024-06-09'
+publication_date: '2024-05-30'
+page: 13
+text: 'Son los europeos, especialmente los que viven en los barrios más empobrecidos, los que sufren las consecuencias de estas políticas, que se han traducido en una auténtica invasión migratoria de peligrosas consecuencias: la creciente ola de violencia en las calles, el miedo a que sus hijas paseen solas por la noche, se sienten extraños en su propios barrios, ven cómo se depauperan los salarios y observan con horror la extensión de delitos e ideas que eran anecdóticos antes en países como España. El multiculturalismo promovido por los burócratas de Bruselas ha resultado ser en realidad fuente de multiconflictividad para las clases medias y trabajadoras, mientras sus impulsores viven completamente ajenos a esta realidad, a salvo en sus mansiones bien protegidas.'
+categories:
+- Migración
+- Seguridad y defensa
+topics:
+- name: Inmigración ilegal
+  position_negative:
+  - text: es una invasión migratoria de peligrosas consecuencias
+  - text: es la causa de la creciente ola de violencia en las calles
+  - text: los vecinos se sienten extraños en sus propios barrios
+  - text: afecta negativamente a los salarios
+  - text: importan ideas que antes eran anecdóticas en España
+  - text: promueve el multiculturalismo
+- name: Multiculturalismo
+  position_negative:
+  - text: resulta en multiconflictividad
+- name: Delincuencia

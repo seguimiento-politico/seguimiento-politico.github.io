@@ -1,7 +1,6 @@
 id: 278042db-2908-4ec5-93e8-cdaa88161333
 type: promise
-parent_statement: be633563-ef70-41c5-8d55-6f433fb3b294
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Cultura
+parent_statement: be633563-ef70-41c5-8d55-6f433fb3b294
+parent_chapter: d83fae97-6483-46e8-ac0d-9980e0838a11
 text: Potenciaremos las convocatorias existentes y nuevas líneas de subvención para creaciones o proyectos de investigación en residencia (destinadas tanto a personas físicas como a las diversas estructuras y formas jurídicas de trabajo) en espacios e instituciones tanto de titularidad pública como privada;
+categories: Cultura

@@ -1,6 +1,6 @@
 id: a7d60e3d-af5f-4a7d-9baa-8f147b55c92f
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 142
-categories: Política internacional
+parent_chapter: 4d3afa99-1301-4519-a703-6dfe49d7e832
+children_promises:
+- 6d36a782-d6ac-4591-babd-1c6c0f95e208
+- 40710d7a-d7b5-48b8-a02a-364c8f708cfb
+- a9839d3f-4701-47b0-b390-bff230831f40
+- 31ae6588-a3fa-419b-a23b-929b69492c22
+children_statements: []
 title: Un servicio exterior moderno y democrático
-has_children: true
+categories: Política internacional

@@ -1,6 +1,6 @@
 id: dd167496-b7fb-4fbb-9575-d28cd1be9021
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 157
+parent_chapter: eb17c61b-9cf0-4c89-acae-f0811981ce18
+text: Es urgente librar a Radio Televisión Española de la politización a la que se ha sometido a la Corporación, con el consiguiente desafecto por parte de los espectadores, la pérdida de calidad de sus programas y el hundimiento de las audiencias.
 categories: Derechos y servicios sociales
 topics: Libertad de expresión
-text: Es urgente librar a Radio Televisión Española de la politización a la que se ha sometido a la Corporación, con el consiguiente desafecto por parte de los espectadores, la pérdida de calidad de sus programas y el hundimiento de las audiencias.

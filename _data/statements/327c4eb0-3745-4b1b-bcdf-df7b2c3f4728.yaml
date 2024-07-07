@@ -1,6 +1,6 @@
 id: 327c4eb0-3745-4b1b-bcdf-df7b2c3f4728
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,8 +9,12 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 16
+parent_chapter: ab7164cc-742b-48cf-adce-57d74cf0621d
+children_promises:
+- a3db0b7b-4759-495a-9604-81f7358ab6ac
+- 9dd3f63f-f854-4a39-b922-da51e1603a99
+children_statements: []
+title: ley de mecenazgo
 categories:
 - Educación
 - Cultura
-title: ley de mecenazgo
-has_children: true

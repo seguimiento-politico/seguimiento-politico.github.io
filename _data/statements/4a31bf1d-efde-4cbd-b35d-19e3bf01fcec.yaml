@@ -1,6 +1,6 @@
 id: 4a31bf1d-efde-4cbd-b35d-19e3bf01fcec
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 44
+parent_chapter: 1e1d9fec-722c-4fe5-83c8-753b161e1073
+children_promises:
+- 7fc0b4c6-7d1f-4f35-a8e4-198820e9f602
+children_statements: []
+title: Apoyaremos la búsqueda de nuevos mercados emisores de turistas
 categories: Turismo
 topics: Desarrollo sostenible
-title: Apoyaremos la búsqueda de nuevos mercados emisores de turistas
-has_children: true

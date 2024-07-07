@@ -1,7 +1,6 @@
 id: bceb83c1-61ac-4eaf-97df-532a442996d6
 type: promise
-parent_statement: d66728ba-f11b-481f-9372-28d34c6b4a5a
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Cultura
+parent_statement: d66728ba-f11b-481f-9372-28d34c6b4a5a
+parent_chapter: 1b4d5a8a-94bc-43e6-a463-c865f0d6ae63
 text: Reforzaremos la legislación relativa a la lucha contra el tráfico ilícito de bienes culturales y crearemos un programa de promoción y sensibilización contra la detección ilegal de metales y el expolio, integrando así la coeducación ciudadana sobre la importancia de su cuidado.
+categories: Cultura

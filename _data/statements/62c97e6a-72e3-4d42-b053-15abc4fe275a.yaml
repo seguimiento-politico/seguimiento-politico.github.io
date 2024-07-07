@@ -1,6 +1,6 @@
 id: 62c97e6a-72e3-4d42-b053-15abc4fe275a
-type: declaration
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+type: statement
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 19
-categories: Derechos y servicios sociales
+parent_chapter: b56c35d8-c066-45e2-8c61-4c2f3c0b80a9
 text: 'Las diferentes agendas globalistas perseveran en las mismas recetas fallidas de siempre para combatir la desigualdad social: fomento de la inmigración ilegal, aumento de la presión fiscal e incremento del gasto político (fundamentalmente relacionado con la ideología de género, el multiculturalismo o la nueva religión climática).'
+categories: Derechos y servicios sociales

@@ -1,6 +1,6 @@
 id: 9764a121-4337-4845-aa0a-785dcbdfb6a9
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 178
+parent_chapter: afca3e4a-d9b5-41f5-8544-5899bb9425e5
+text: Impulsar un Pacto de Estado para la defensa y promoción de los derechos de las personas mayores.
 categories: Derechos y servicios sociales
 topics: Mayores
-text: Impulsar un Pacto de Estado para la defensa y promoción de los derechos de las personas mayores.

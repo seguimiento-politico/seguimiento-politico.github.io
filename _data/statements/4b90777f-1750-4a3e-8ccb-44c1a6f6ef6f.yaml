@@ -1,7 +1,6 @@
 id: 4b90777f-1750-4a3e-8ccb-44c1a6f6ef6f
 type: promise
-parent_statement: 86f609e2-c504-445c-9f44-4d62455d0e57
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 86f609e2-c504-445c-9f44-4d62455d0e57
+parent_chapter: b82b7f57-da6b-4fd4-8a55-f1773ebd9608
+text: Articular estas redes implica un cambio en las formas de conformar las políticas públicas.
 categories: Democracia
 topics: Administración pública
-text: Articular estas redes implica un cambio en las formas de conformar las políticas públicas.

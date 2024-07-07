@@ -1,6 +1,6 @@
 id: 6ea436de-50ff-4abb-8083-048b581f4926
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 27
-categories: Trabajo
+parent_chapter: e9e1334a-785f-47ff-a9d1-05e1b24e1b85
+children_promises:
+- 9266fc03-ed0f-4c98-ab75-f53cd9db2acf
+children_statements: []
 title: Modernizaremos la administración pública
-has_children: true
+categories: Trabajo

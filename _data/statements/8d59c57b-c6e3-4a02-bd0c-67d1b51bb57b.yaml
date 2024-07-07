@@ -1,6 +1,6 @@
 id: 8d59c57b-c6e3-4a02-bd0c-67d1b51bb57b
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 71
+parent_chapter: 4a4ec318-0db9-4da1-9515-2b36e808a75f
+children_promises:
+- 27257d96-0b0c-4159-bec2-dd8fa58e5320
+children_statements: []
+title: Creación de una estructura de gobernanza multiactor anidada en las distintas escalas administrativas
 categories: Consumo
 topics: Alimentación saludable
-title: Creación de una estructura de gobernanza multiactor anidada en las distintas escalas administrativas
-has_children: true

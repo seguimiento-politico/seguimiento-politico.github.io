@@ -1,6 +1,6 @@
 id: 58c71335-371e-4851-a3c5-04dbeffc9001
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 56
+parent_chapter: 754946a2-5f02-4a15-929b-dc9e8a58fe80
+children_promises:
+- 859da787-3980-44f7-ab4f-8877eb87829b
+- b03fd7ad-4796-40e6-a167-6a7433dd26e0
+children_statements: []
+title: Avanzar en la transformación de los espacios zoológicos
 categories: Civismo
 topics: Bienestar animal
-title: Avanzar en la transformación de los espacios zoológicos
-has_children: true

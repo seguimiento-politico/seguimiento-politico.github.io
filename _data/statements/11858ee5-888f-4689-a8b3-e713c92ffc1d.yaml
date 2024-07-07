@@ -1,6 +1,6 @@
 id: 11858ee5-888f-4689-a8b3-e713c92ffc1d
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 44
+parent_chapter: 3ad176d1-1f6b-4cbb-aea4-e397f16166d6
+children_promises:
+- df3853cf-ecb6-4048-be15-5d20df0175ae
+- 20aac890-a660-457a-bcd8-2f63ff2911d9
+children_statements: []
+title: Atracción de industria a zonas de producción renovable.
 categories: Industria
 topics: Desarrollo sostenible
-title: Atracción de industria a zonas de producción renovable.
-has_children: true

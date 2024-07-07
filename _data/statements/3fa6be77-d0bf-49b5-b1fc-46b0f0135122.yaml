@@ -1,6 +1,6 @@
 id: 3fa6be77-d0bf-49b5-b1fc-46b0f0135122
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 12
-categories: Educación
+parent_chapter: 9c099206-10d7-4c4f-864e-cbe322afde2e
 text: Blindar la libre elección de centro educativo en todos los niveles a través del cheque escolar para que las familias elijan libremente el modelo educativo que desean, sin que su situación económica o social sea un impedimento para ello.
+categories: Educación

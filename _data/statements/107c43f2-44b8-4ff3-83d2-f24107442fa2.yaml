@@ -1,7 +1,6 @@
 id: 107c43f2-44b8-4ff3-83d2-f24107442fa2
 type: promise
-parent_statement: 43d23c4e-9508-4b5c-9d74-f7d0c7d08026
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Derechos y servicios sociales
+parent_statement: 43d23c4e-9508-4b5c-9d74-f7d0c7d08026
+parent_chapter: 6bea7d15-32ea-402e-8fad-42663ddea615
 text: La emergencia social exige respuestas rápidas y eficaces por parte de la Administración. Por ello, sacaremos estas ayudas del obsoleto marco de la Ley de Subvenciones y generaremos normativa que en ese tipo de situaciones priorice un vínculo basado en la confianza -vía declaración responsable o similar- y no en la sospecha, algo desafortunadamente tan habitual con personas socialmente vulnerables.
+categories: Derechos y servicios sociales

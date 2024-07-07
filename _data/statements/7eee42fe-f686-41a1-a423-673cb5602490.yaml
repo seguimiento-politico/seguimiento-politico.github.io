@@ -1,7 +1,6 @@
 id: 7eee42fe-f686-41a1-a423-673cb5602490
 type: promise
-parent_statement: cb11794e-ca85-4bda-b28f-549abaf48480
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: cb11794e-ca85-4bda-b28f-549abaf48480
+parent_chapter: de85e0ef-5ecc-4ca0-89b4-a741503b7353
+text: Reforzaremos la ciberseguridad en el ámbito público y privado con el fin de proporcionar un entorno fiable y de confianza para el desarrollo de las nuevas tecnologías.
 categories: Economía
 topics: Digitalización
-text: Reforzaremos la ciberseguridad en el ámbito público y privado con el fin de proporcionar un entorno fiable y de confianza para el desarrollo de las nuevas tecnologías.

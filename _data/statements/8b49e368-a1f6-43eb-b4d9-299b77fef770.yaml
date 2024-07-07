@@ -1,7 +1,6 @@
 id: 8b49e368-a1f6-43eb-b4d9-299b77fef770
 type: promise
-parent_statement: c2823be2-3d6e-492e-8bf1-b4a8305de687
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: c2823be2-3d6e-492e-8bf1-b4a8305de687
+parent_chapter: 7d3df58a-3293-4f26-b114-1a8c3838af87
+text: Se diseñarán programas específicos de alimentación y nutrición relacionados con la salud y el bienestar para la formación del personal docente.
 categories: Consumo
 topics: Alimentación saludable
-text: Se diseñarán programas específicos de alimentación y nutrición relacionados con la salud y el bienestar para la formación del personal docente.

@@ -1,7 +1,6 @@
 id: a9d9b8d7-f29e-4197-b716-ba081e2df625
 type: promise
-parent_statement: 51bc55b8-26b3-4f43-a60e-19dfb8d6bc7c
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,4 +8,6 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 51bc55b8-26b3-4f43-a60e-19dfb8d6bc7c
+parent_chapter: 234f712b-aaa0-45c7-92d9-e5641ca46ec2
 text: Mantenimiento de una Vicepresidencia del Gobierno de Transición Ecológica para coordinar, con la necesaria autoridad ante el resto de los ministerios, y realizar una verdadera política transversal de lucha contra la emergencia climática. La Vicepresidencia de Transición Ecológica debe preservar las competencias directas en cambio climático - mitigación y adaptación a este.

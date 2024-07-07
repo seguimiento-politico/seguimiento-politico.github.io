@@ -1,6 +1,6 @@
 id: 18abb5d3-7b46-47cc-9473-16a8543d9992
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 104
+parent_chapter: 5a78c83a-e028-4353-b943-e627cc312cee
+children_promises:
+- 352d46b1-a746-4d06-a717-4f25c3950384
+- f934feb2-91ca-495f-a0ad-9721a6142c6f
+children_statements: []
+title: Impulsaremos la administración digital en todos los organismos vinculados a la movilidad internacional
 categories: Migración
 topics: Racismo
-title: Impulsaremos la administración digital en todos los organismos vinculados a la movilidad internacional
-has_children: true

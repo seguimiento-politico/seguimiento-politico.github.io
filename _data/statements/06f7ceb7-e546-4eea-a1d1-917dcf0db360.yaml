@@ -1,6 +1,6 @@
 id: 06f7ceb7-e546-4eea-a1d1-917dcf0db360
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 81
-categories: Transporte
+parent_chapter: 7638e388-36e3-4949-b677-234300ec8565
 text: Aseguraremos la conectividad en toda la red, haciéndola apta para la circulación del vehículo autónomo y conectado.
+categories: Transporte

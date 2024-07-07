@@ -1,7 +1,6 @@
 id: 99b8c7a1-435e-48e8-8f40-6e80920f95af
 type: promise
-parent_statement: 3d7cff4f-33e5-4e26-ae03-c71b3cece070
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 3d7cff4f-33e5-4e26-ae03-c71b3cece070
+parent_chapter: 8c9deee8-b4c2-4027-80d6-2a7c7cb91f0b
+text: Garantizaremos una eficaz protección de la salud y la seguridad de las personas trabajadoras en las empresas con una plantilla inferior a cincuenta personas. El 97% de las empresas españo las tiene menos de cincuenta personas trabajadoras, siendo en este tipo de empresas donde se aprecia un menor cumplimiento de la normativa de prevención de riesgos. El 60% de los accidentes mortales se producen en empresas con menos de veinticinco personas trabajadoras. Es urgente hacer un esfuerzo especial para garantizar la protección eficaz de la salud y la seguridad de las per sonas trabajadoras en estas empresas; para ello, se creará la figura del delegado sindical territorial de seguridad. Es bien sabido, por otra parte, que en empresas de pequeño tamaño la representa ción sindical es mucho más débil que en las grandes, en las que el número de accidentes de trabajo y enfermedades profesionales es precisamente mucho menor, no solo por su mayor capacidad para actuar en esta materia, sino también por la mayor vigilancia que la representación sindical de las personas trabajadoras ejerce sobre ellas.
 categories: Trabajo
 topics: Riesgos laborales
-text: Garantizaremos una eficaz protección de la salud y la seguridad de las personas trabajadoras en las empresas con una plantilla inferior a cincuenta personas. El 97% de las empresas españo las tiene menos de cincuenta personas trabajadoras, siendo en este tipo de empresas donde se aprecia un menor cumplimiento de la normativa de prevención de riesgos. El 60% de los accidentes mortales se producen en empresas con menos de veinticinco personas trabajadoras. Es urgente hacer un esfuerzo especial para garantizar la protección eficaz de la salud y la seguridad de las per sonas trabajadoras en estas empresas; para ello, se creará la figura del delegado sindical territorial de seguridad. Es bien sabido, por otra parte, que en empresas de pequeño tamaño la representa ción sindical es mucho más débil que en las grandes, en las que el número de accidentes de trabajo y enfermedades profesionales es precisamente mucho menor, no solo por su mayor capacidad para actuar en esta materia, sino también por la mayor vigilancia que la representación sindical de las personas trabajadoras ejerce sobre ellas.

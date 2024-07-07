@@ -1,7 +1,6 @@
 id: 7605dd35-2d09-4990-8bd0-399309895e2a
 type: promise
-parent_statement: f784008c-166f-4160-a68d-3473f02c1848
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
+parent_statement: f784008c-166f-4160-a68d-3473f02c1848
+parent_chapter: d5bc3185-7cac-4cbc-9ca4-df232e4c8a2f
+text: Tipificación del despilfarro público en el Código Penal.
 categories:
 - Justicia
-text: Tipificación del despilfarro público en el Código Penal.

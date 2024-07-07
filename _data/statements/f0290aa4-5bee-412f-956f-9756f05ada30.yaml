@@ -1,7 +1,6 @@
 id: f0290aa4-5bee-412f-956f-9756f05ada30
 type: promise
-parent_statement: fcd8e445-053e-4f37-87ab-45878d0ade1d
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Cultura
+parent_statement: fcd8e445-053e-4f37-87ab-45878d0ade1d
+parent_chapter: d83fae97-6483-46e8-ac0d-9980e0838a11
 text: Se garantizará el ejercicio efectivo de los derechos culturales y los Objetivos de Desarrollo Sostenible (ODS), según los indicadores temáticos de la UNESCO para el ámbito de la cultura en la Agenda 2030.
+categories: Cultura

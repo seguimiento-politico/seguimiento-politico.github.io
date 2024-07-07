@@ -1,6 +1,6 @@
 id: c2f7a7a2-7a72-4471-a49a-ee47aa5a6821
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 23
-categories: Trabajo
+parent_chapter: 80d48e2e-109f-4d20-9b2c-09d128e89470
+children_promises:
+- e5684bb2-a9a3-4a7d-88a0-ee652da90a10
+children_statements: []
 title: Reconoceremos el derecho a sustituir tiempo de trabajo efectivo en la empresa por tiempo dedicado al ejercicio de funciones de representación colectiva
-has_children: true
+categories: Trabajo

@@ -1,7 +1,6 @@
 id: 13b2fe4c-6c54-4028-bb3e-ffd1ee48edc7
 type: promise
-parent_statement: a2a4e947-8df4-49df-b49d-e1927ee9f036
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Industria
+parent_statement: a2a4e947-8df4-49df-b49d-e1927ee9f036
+parent_chapter: bdc3bec8-826b-4422-99f9-ce6bb7d37ec5
 text: Industrializaremos la transición verde y digital. Junto a los objetivos de descarbonizar la economía, de producir energía limpia y barata y de asegurar las ventajas de la digitalización justa, la política industrial tiene que asegurar también la mayor participación posible de las empresas radicadas en España en la producción de los componentes necesarios para que la transición digital y verde se produzcan.
+categories: Industria

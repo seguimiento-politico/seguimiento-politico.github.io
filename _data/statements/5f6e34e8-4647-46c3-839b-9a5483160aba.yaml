@@ -1,6 +1,6 @@
 id: 5f6e34e8-4647-46c3-839b-9a5483160aba
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,10 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 75
+parent_chapter: 361dd186-a1f2-4f3b-ae13-0ff44f00ef4d
+text: Aseguraremos la generación de más de 700.000 empleos asociados a la transición verde, fortaleciendo las titulaciones de FP y grado, así como la recapacitación de la fuerza laboral y la modernización de los servicios públicos de empleo para mejorar la empleabilidad de personas en situación de desempleo.
 categories:
 - Energía
 topics:
 - Energías renovables
 - Reindustrialización
 - Desarrollo sostenible
-text: Aseguraremos la generación de más de 700.000 empleos asociados a la transición verde, fortaleciendo las titulaciones de FP y grado, así como la recapacitación de la fuerza laboral y la modernización de los servicios públicos de empleo para mejorar la empleabilidad de personas en situación de desempleo.

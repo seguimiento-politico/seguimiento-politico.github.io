@@ -1,7 +1,6 @@
 id: e843e444-f260-4691-8772-83f63f48b99e
 type: promise
-parent_statement: d286e6b9-97bd-4c09-990d-7a4ee7607a34
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Educación
+parent_statement: d286e6b9-97bd-4c09-990d-7a4ee7607a34
+parent_chapter: c1ead426-cec8-44d6-a73a-d98f9059e1db
 text: Y, con el objetivo de corregir la segregación escolar, se establecerá también por ley el incremento progresivo del porcentaje de los fondos públicos destinados a la red pública.
+categories: Educación

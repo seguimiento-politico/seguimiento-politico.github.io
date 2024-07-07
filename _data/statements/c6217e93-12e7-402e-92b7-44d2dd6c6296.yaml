@@ -1,6 +1,6 @@
 id: c6217e93-12e7-402e-92b7-44d2dd6c6296
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 177
-categories: Deporte
+parent_chapter: 7cb07f90-2b71-46f2-af0b-2684ec9ab916
+children_promises:
+- 45cfaf55-8957-4bb5-ad9b-e681e211f821
+- 7aa45c57-2ff7-4065-9cda-c292a65c3fbf
+children_statements: []
 title: Coordinación interadministrativa de la política deportiva
-has_children: true
+categories: Deporte

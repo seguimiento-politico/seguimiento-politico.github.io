@@ -1,6 +1,6 @@
 id: ca3f5239-bc7f-4ce3-9ada-b9927b379f04
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 184
+parent_chapter: f8881bdb-e806-4cc5-84a7-408729dd6fd8
+text: Habilitar un programa nacional de ayudas y subvenciones para la mejora de la accesibilidad, habitabilidad y eficiencia energética de las viviendas que priorice a aquellas familias con hijos e hijas a cargo con menos ingresos.
 categories: Vivienda
 topics: Infancia
-text: Habilitar un programa nacional de ayudas y subvenciones para la mejora de la accesibilidad, habitabilidad y eficiencia energética de las viviendas que priorice a aquellas familias con hijos e hijas a cargo con menos ingresos.

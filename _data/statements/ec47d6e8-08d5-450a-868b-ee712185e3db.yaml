@@ -1,11 +1,12 @@
 id: ec47d6e8-08d5-450a-868b-ee712185e3db
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 64
-categories: Vivienda
+parent_chapter: d9d84c98-285a-49cd-b89e-217bb56082bd
 text: Favoreceremos el desarrollo de seguros de arrendamiento que cubran el impago de los alquileres y los daños que pueda causar el inquilino, especialmente para facilitar el alquiler de los jóvenes.
+categories: Vivienda

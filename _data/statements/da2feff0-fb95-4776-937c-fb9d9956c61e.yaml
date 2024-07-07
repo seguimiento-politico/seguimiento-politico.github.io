@@ -1,7 +1,6 @@
 id: da2feff0-fb95-4776-937c-fb9d9956c61e
 type: promise
-parent_statement: fd3b7222-af87-4d55-8f33-2b0db29c1a51
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,4 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: fd3b7222-af87-4d55-8f33-2b0db29c1a51
+parent_chapter: 27ff313e-64fe-41ca-bc72-c44fafac350d
 text: Reforma de la Ley de Costas y gestión de inundaciones. Reformaremos la Ley de Costas ampliando la zona de servidumbre de protección y, en aquellas comunidades autónomas en las que no se haya transferido la competencia de gestión de costas, reorientaremos las políticas urbanísticas no autorizando nuevas construcciones en zonas de riesgo por inundaciones o por aumento del nivel del mar. Se fomentará una política rigurosa de gestión de inundaciones basada en el respeto a las llanuras de inundación y a los sistemas de drenaje sostenible e inversiones para la mejora de las infraestructuras de las estaciones depuradoras de agua, con el objetivo de retener el agua torrencial y evitar así desbordamientos que contaminen los ríos y las playas. Efectuaremos un plan de inversiones contra la regresión de las costas y llevaremos a cabo la revisión de todos los impactos de las infraestructuras en la pérdida de playas.
+topics: Cambio climático

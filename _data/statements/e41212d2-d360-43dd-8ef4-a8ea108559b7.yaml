@@ -1,6 +1,6 @@
 id: e41212d2-d360-43dd-8ef4-a8ea108559b7
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,7 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 121
+parent_chapter: 07354b8b-a545-4b5c-b496-6ba6dc394d93
+text: PNL dirigida a reducir la dependencia energética de España a través del impulso de las diferentes industrias energéticas existentes en el país que solicitaba paralizar el desmantelamiento de las centrales energéticas, térmicas o nucleares, e impulsar el desarrollo de las infraestructuras e instalaciones necesarias de todas las fuentes de energía posibles ( julio 2022).
 categories:
 - Industria
 - Energía
-text: PNL dirigida a reducir la dependencia energética de España a través del impulso de las diferentes industrias energéticas existentes en el país que solicitaba paralizar el desmantelamiento de las centrales energéticas, térmicas o nucleares, e impulsar el desarrollo de las infraestructuras e instalaciones necesarias de todas las fuentes de energía posibles ( julio 2022).

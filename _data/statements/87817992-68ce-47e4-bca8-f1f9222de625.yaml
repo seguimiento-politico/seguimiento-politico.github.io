@@ -1,7 +1,6 @@
 id: 87817992-68ce-47e4-bca8-f1f9222de625
 type: promise
-parent_statement: 8112739f-6cce-4bee-8999-6731895e14f6
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 8112739f-6cce-4bee-8999-6731895e14f6
+parent_chapter: b82b7f57-da6b-4fd4-8a55-f1773ebd9608
+text: Proponemos derogar la Ley de Racionalización de la Administración Pública y, de esta forma, suprimir la prioridad que hoy se otorga al pago de la deuda pública.
 categories: Democracia
 topics: Administración pública
-text: Proponemos derogar la Ley de Racionalización de la Administración Pública y, de esta forma, suprimir la prioridad que hoy se otorga al pago de la deuda pública.

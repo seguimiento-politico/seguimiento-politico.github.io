@@ -1,6 +1,6 @@
 id: 0950a4ee-a20d-4017-8b58-e1d10aa198a1
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 123
-categories: Cultura
+parent_chapter: ef655d4e-aabd-4367-b039-db13bf06547d
 text: Modernizaremos las instituciones culturales de titularidad del Ministerio de Cultura y Deporte (museos, archivos y bibliotecas) para reforzar así el servicio público para la ciudadanía y la vertebraciónn del territorio a través de la cultura, a través de su digitalización y transición ecológica.
+categories: Cultura

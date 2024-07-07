@@ -1,7 +1,6 @@
 id: 0861b2b1-208e-4234-a4ff-1de046929df1
 type: promise
-parent_statement: 93dfe100-5605-4243-ba18-19ef653e383e
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 93dfe100-5605-4243-ba18-19ef653e383e
+parent_chapter: 5fd4a85c-c23d-41fa-af6d-e3a00b507ee7
+text: Se impulsarán planes de prevención del suicidio en los centros educativos, que contarán con personal especializado y recursos suficientes para desarrollarlos.
 categories: Derechos y servicios sociales
 topics: Juventud
-text: Se impulsarán planes de prevención del suicidio en los centros educativos, que contarán con personal especializado y recursos suficientes para desarrollarlos.

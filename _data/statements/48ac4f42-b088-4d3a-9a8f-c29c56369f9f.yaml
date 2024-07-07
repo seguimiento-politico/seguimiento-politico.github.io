@@ -1,7 +1,6 @@
 id: 48ac4f42-b088-4d3a-9a8f-c29c56369f9f
 type: promise
-parent_statement: 8361f3e0-420d-4fa7-8179-f1e95cf34257
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +8,10 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: 8361f3e0-420d-4fa7-8179-f1e95cf34257
+parent_chapter: 96f08000-98a6-4e52-8e39-fe555ca37269
+text: Apoyaremos y promoveremos la generación de conocimiento y consolidación del patrimonio técnico-científico hispanohablante, mediante actuaciones de apoyo al mantenimiento y conservación de los diccionarios digitales de las reales academias. Estas actuaciones contribuirán a la indización automática de textos biomédicos a través de sistemas de IA y al fomento de inversiones en el ámbito universitario.
 categories: Economía
 topics:
 - Digitalización
 - Lenguas
-text: Apoyaremos y promoveremos la generación de conocimiento y consolidación del patrimonio técnico-científico hispanohablante, mediante actuaciones de apoyo al mantenimiento y conservación de los diccionarios digitales de las reales academias. Estas actuaciones contribuirán a la indización automática de textos biomédicos a través de sistemas de IA y al fomento de inversiones en el ámbito universitario.

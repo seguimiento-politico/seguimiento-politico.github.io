@@ -1,6 +1,6 @@
 id: 04bcabaf-e559-4986-9123-b8141910a8da
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_chapter: de85e0ef-5ecc-4ca0-89b4-a741503b7353
+text: 'La transformación digital se ha acelerado exponencialmente y presenta importantes oportunidades y también retos que hemos de abordar. Es fundamental encauzar el proceso para garantizar una digitalización que proteja nuestros valores y derechos, que impulse el empleo de calidad y permita mejorar la vida de las personas. Para ello:'
 categories: Economía
 topics: Digitalización
-text: 'La transformación digital se ha acelerado exponencialmente y presenta importantes oportunidades y también retos que hemos de abordar. Es fundamental encauzar el proceso para garantizar una digitalización que proteja nuestros valores y derechos, que impulse el empleo de calidad y permita mejorar la vida de las personas. Para ello:'

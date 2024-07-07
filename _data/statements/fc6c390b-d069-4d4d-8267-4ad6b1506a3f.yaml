@@ -1,7 +1,6 @@
 id: fc6c390b-d069-4d4d-8267-4ad6b1506a3f
 type: promise
-parent_statement: f3c88e80-f9ee-4416-b36b-bbb2f7f6489c
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: f3c88e80-f9ee-4416-b36b-bbb2f7f6489c
+parent_chapter: 6fa4a5cf-07ee-4bc7-9747-5ca7f92803fb
+text: Facilitar una inserción sociolaboral digna, en un empleo decente y con derechos, generalizando las acciones en esta dirección para hacer frente al empleo precario.
 categories: Educación
 topics: Universidad
-text: Facilitar una inserción sociolaboral digna, en un empleo decente y con derechos, generalizando las acciones en esta dirección para hacer frente al empleo precario.

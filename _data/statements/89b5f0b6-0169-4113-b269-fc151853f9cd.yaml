@@ -1,6 +1,6 @@
 id: 89b5f0b6-0169-4113-b269-fc151853f9cd
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 177
-categories: Deporte
+parent_chapter: 7cb07f90-2b71-46f2-af0b-2684ec9ab916
+children_promises:
+- 8552f197-3e0a-431d-b238-3426c23bd397
+- e17991e2-613a-4008-b2ec-efd634203153
+- 74744835-c0aa-47b1-a4c3-a1ad898d5aae
+- e429b2a2-528b-4ec9-b46c-69f80219a398
+- 1ae50131-bc89-44cf-8b04-205324e4f3e4
+children_statements: []
 title: Garantizar la adecuada regulación profesional y las salidas laborales de deportistas de alto rendimiento en España
-has_children: true
+categories: Deporte

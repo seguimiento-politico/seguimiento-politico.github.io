@@ -1,11 +1,12 @@
 id: 3bfc3f7d-f905-4e54-b013-bd4e58d42e84
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 71
-categories: Medioambiente
+parent_chapter: a0c8a60f-23cb-436e-b629-c54923dd079a
 text: Armonizaremos los criterios, a nivel nacional, del impuesto/tasa para evitar el “turismo de los residuos” entre comunidades autónomas.
+categories: Medioambiente

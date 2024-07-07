@@ -1,7 +1,6 @@
 id: 56595d55-d960-4bc3-a70a-6f9e6b0879fb
 type: promise
-parent_statement: 72f62379-9e9a-45af-88d9-52d51e21dfa1
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,4 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 72f62379-9e9a-45af-88d9-52d51e21dfa1
+parent_chapter: 27ff313e-64fe-41ca-bc72-c44fafac350d
 text: Elaborar una hoja de ruta de demanda del hidrógeno específicamente para la industria española que ayude a planificar las inversiones de manera eficiente y realista.
+topics: Cambio climático

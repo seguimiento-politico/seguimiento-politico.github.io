@@ -1,6 +1,6 @@
 id: 68eacef1-99b2-42ca-bf0f-29acfa610648
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 240
-categories: Administración pública
+parent_chapter: 251474fc-1fa6-4749-85be-3ba457500342
 text: Pondremos en marcha la agenda ciudadana individualizada, donde cada ciudadano encontrará sus trámites, con los preavisos y la información necesaria previa a su tramitación.
+categories: Administración pública

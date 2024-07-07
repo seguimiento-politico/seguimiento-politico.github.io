@@ -1,6 +1,6 @@
 id: e8057be9-c6a8-4d01-8736-9fa3ce0ea01c
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 193
-categories: Derechos y servicios sociales
-topics: Discapacidad
+parent_chapter: f4d30405-da8f-4647-bc30-ce8a01fe2c1a
 title: Inclusión Laboral.
 text: La inactividad forzosa y el desempleo siguen siendo muy elevados entre las personas con discapacidad, lo que genera pobreza, exclusión social y falta de autonomía económica. El modelo legal actual de impulso al empleo tiene más de 30 años y ha quedado obsoleto en buena parte. Llevaremos a cabo un nuevo marco legal de inclusión laboral de personas con discapacidad basado en la activación, los apoyos, la acción positiva para las discapacidades más excluidas y con más dificultades de inserción laboral, teniendo siempre presente la perspectiva de género.
+categories: Derechos y servicios sociales
+topics: Discapacidad

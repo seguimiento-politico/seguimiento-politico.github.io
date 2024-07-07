@@ -1,6 +1,6 @@
 id: 71a8b561-bbc7-4d9b-a4fe-ed7bb9e3a566
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,8 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 170
+parent_chapter: f99aec7f-6270-4d16-9f10-e35f68d38940
+children_promises:
+- f92b9cd5-a53c-4c96-8d13-596980a82fec
+children_statements: []
+title: Avance en la agenda legislativa del Estatuto del Artista
 categories:
 - Cultura
 - Trabajo
-title: Avance en la agenda legislativa del Estatuto del Artista
-has_children: true

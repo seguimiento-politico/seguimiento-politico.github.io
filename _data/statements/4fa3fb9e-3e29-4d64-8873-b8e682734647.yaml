@@ -1,7 +1,6 @@
 id: 4fa3fb9e-3e29-4d64-8873-b8e682734647
 type: promise
-parent_statement: 3a63d4d6-4a78-43b0-a3a5-69a30889bfce
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,8 +8,10 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 3a63d4d6-4a78-43b0-a3a5-69a30889bfce
+parent_chapter: 58627ca3-e6ae-47ce-bd7d-42455ec78c0a
+text: Se consolidará un sistema sólido, consistente y actualizado de información sobre resultados de las políticas científicas que permita monitorizar los resultados y facilitar la adopción de correcciones en aquellos parámetros que deban ser mejorados.
 categories: Ciencia y tecnología
 topics:
 - Financiación
 - Gobernanza y transparencia
-text: Se consolidará un sistema sólido, consistente y actualizado de información sobre resultados de las políticas científicas que permita monitorizar los resultados y facilitar la adopción de correcciones en aquellos parámetros que deban ser mejorados.

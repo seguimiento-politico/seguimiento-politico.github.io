@@ -1,6 +1,6 @@
 id: efc5eee5-51cf-4426-b3af-88251cdbe67d
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 68
+parent_chapter: 1d4a4787-163e-4649-b875-f97fd3780649
+text: Retomaremos la Ley contra el Desperdicio Alimentario, tal y como se encontraba en las Cortes Generales.
 categories:
 - Agricultura
 - Ganadaría
 topics: Desarrollo sostenible
-text: Retomaremos la Ley contra el Desperdicio Alimentario, tal y como se encontraba en las Cortes Generales.

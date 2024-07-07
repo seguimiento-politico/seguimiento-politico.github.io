@@ -1,6 +1,6 @@
 {
-    "frontMatter.content.defaultFileType": "yaml",
     "[markdown]": {
     },
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "cSpell.language": "es,en"
 }

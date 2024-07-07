@@ -1,7 +1,6 @@
 id: f952d697-0c45-4c8e-bb12-91e23ee608e4
 type: promise
-parent_statement: 8a90648e-b288-410f-8b47-155e346168cb
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 8a90648e-b288-410f-8b47-155e346168cb
+parent_chapter: c794cb24-1c55-422f-8b6d-1ff29ad1ed87
+text: Profundizaremos en el diálogo social europeo, con más y mejores acuerdos de diálogo social en el seno de la Unión para proteger a las personas trabajadoras en el marco de las transiciones ecológica y digital, promoviendo la introducción de convenios colectivos europeos y de una nueva negociación colectiva verde y reforzando el papel de la Autoridad Laboral Europea para avanzar en la convergencia en materia laboral y de seguridad social.
 categories: Política internacional
 topics: Europa
-text: Profundizaremos en el diálogo social europeo, con más y mejores acuerdos de diálogo social en el seno de la Unión para proteger a las personas trabajadoras en el marco de las transiciones ecológica y digital, promoviendo la introducción de convenios colectivos europeos y de una nueva negociación colectiva verde y reforzando el papel de la Autoridad Laboral Europea para avanzar en la convergencia en materia laboral y de seguridad social.

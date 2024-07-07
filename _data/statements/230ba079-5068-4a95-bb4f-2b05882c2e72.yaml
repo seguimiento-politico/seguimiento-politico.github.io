@@ -1,7 +1,6 @@
 id: 230ba079-5068-4a95-bb4f-2b05882c2e72
 type: promise
-parent_statement: bf819295-36f6-41b3-8e07-ac48be5f2d81
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: bf819295-36f6-41b3-8e07-ac48be5f2d81
+parent_chapter: 63ab839a-6275-4d54-bf9b-ec036a685a75
+text: Finalmente, se impulsarán proyectos piloto de innovación ciudadana y social en los que la tecnología pueda ayudar a resolver problemas específicos del Estado en áreas como la gobernanza, la movilidad, la salud, la energía, la vivienda, el género, los residuos, la inclusión social, la gestión ética de datos y la educación. Estos proyectos se llevarán a cabo con la participación y colaboración de la ciudadanía.
 categories: Educación
 topics: Digitalización
-text: Finalmente, se impulsarán proyectos piloto de innovación ciudadana y social en los que la tecnología pueda ayudar a resolver problemas específicos del Estado en áreas como la gobernanza, la movilidad, la salud, la energía, la vivienda, el género, los residuos, la inclusión social, la gestión ética de datos y la educación. Estos proyectos se llevarán a cabo con la participación y colaboración de la ciudadanía.

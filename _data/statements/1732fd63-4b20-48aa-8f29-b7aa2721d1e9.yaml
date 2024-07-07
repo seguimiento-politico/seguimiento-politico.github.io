@@ -1,6 +1,6 @@
 id: 1732fd63-4b20-48aa-8f29-b7aa2721d1e9
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 178
+parent_chapter: afca3e4a-d9b5-41f5-8544-5899bb9425e5
+text: Apoyar la creación de una Convención sobre los Derechos de las Personas Mayores en el seno de Naciones Unidas que promueva, proteja y asegure el ejercicio de los derechos humanos de las personas mayores en todo el mundo.
 categories: Derechos y servicios sociales
 topics: Mayores
-text: Apoyar la creación de una Convención sobre los Derechos de las Personas Mayores en el seno de Naciones Unidas que promueva, proteja y asegure el ejercicio de los derechos humanos de las personas mayores en todo el mundo.

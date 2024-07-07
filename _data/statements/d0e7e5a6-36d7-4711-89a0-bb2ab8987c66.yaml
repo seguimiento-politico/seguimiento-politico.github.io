@@ -1,7 +1,6 @@
 id: d0e7e5a6-36d7-4711-89a0-bb2ab8987c66
 type: promise
-parent_statement: a6cbb3a2-1cc4-4fbf-81f4-69aed121831e
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: a6cbb3a2-1cc4-4fbf-81f4-69aed121831e
+parent_chapter: a032ad89-ff94-4e43-a3b0-dfbbc59e0d4a
+text: Avanzaremos en la economía y gobierno del dato para usar tecnologías disruptivas como la inteligencia artificial para abordar los desafíos ambientales, sociales y de salud.
 categories: Derechos y servicios sociales
 topics: Digitalización
-text: Avanzaremos en la economía y gobierno del dato para usar tecnologías disruptivas como la inteligencia artificial para abordar los desafíos ambientales, sociales y de salud.

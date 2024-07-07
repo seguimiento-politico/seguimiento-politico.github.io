@@ -1,7 +1,6 @@
 id: 52a77d7b-4075-4061-b2b1-3394180b1643
 type: promise
-parent_statement: 5e84174d-d7ea-4882-ab0b-afd309bbc496
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 5e84174d-d7ea-4882-ab0b-afd309bbc496
+parent_chapter: dc33f933-12a0-4325-b761-1f9bf8c3ad0d
+text: Fomento de la compra pública de productos frescos de la pesca artesanal en instituciones públicas (hospitales, residencias, colegios...) mediante su inclusión en los pliegos de contratación.
 categories: Pesca y acuicultura
 topics: Desarrollo sostenible
-text: Fomento de la compra pública de productos frescos de la pesca artesanal en instituciones públicas (hospitales, residencias, colegios...) mediante su inclusión en los pliegos de contratación.

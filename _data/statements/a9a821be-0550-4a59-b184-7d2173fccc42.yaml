@@ -1,6 +1,6 @@
 id: a9a821be-0550-4a59-b184-7d2173fccc42
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 127
-categories: Justicia
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
+children_promises:
+- 99b74e96-d102-4e8b-8243-4fc4c3dd9d4a
+- 9181922f-87ea-4d22-9af2-973e75638bb5
+- 77a90e8b-0b2e-477b-aef6-7a07d9b9b0b5
+- 35fa0cff-ca7b-4249-b70f-48df3c797331
+- da6c024d-84e9-4445-8706-f47cb569c0be
+- 7263ae1c-f629-451c-860d-3439d77b5e70
+children_statements: []
 title: Negociaremos con los agentes sociales la situación laboral y profesional de quienes trabajan en la administración de justicia en orden a mejorar sus condiciones y ordenación.
-has_children: true
+categories: Justicia

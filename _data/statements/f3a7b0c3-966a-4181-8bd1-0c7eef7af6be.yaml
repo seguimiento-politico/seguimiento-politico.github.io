@@ -1,7 +1,6 @@
 id: f3a7b0c3-966a-4181-8bd1-0c7eef7af6be
 type: promise
-parent_statement: 79e46564-8c3d-4af8-8f68-d9ffdce88568
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 79e46564-8c3d-4af8-8f68-d9ffdce88568
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+text: Se tramitará una ley integral contra la trata de personas que cubra todas y cada una de las distintas formas de trata, con especial atención a las que afectan desproporcionadamente a las mujeres y que constituyen formas de violencia machista. Se buscará también consolidar el Plan de Inserción sociolaboral dirigido a mujeres víctimas de trata y de explotación sexual y a mujeres en situación de prostitución.
 categories: Democracia
 topics: Igualdad
-text: Se tramitará una ley integral contra la trata de personas que cubra todas y cada una de las distintas formas de trata, con especial atención a las que afectan desproporcionadamente a las mujeres y que constituyen formas de violencia machista. Se buscará también consolidar el Plan de Inserción sociolaboral dirigido a mujeres víctimas de trata y de explotación sexual y a mujeres en situación de prostitución.

@@ -1,6 +1,6 @@
 id: 4196ec8f-40e0-4919-be5e-0a23d2ddcf04
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 178
+parent_chapter: afca3e4a-d9b5-41f5-8544-5899bb9425e5
+text: Promover entornos y ciudades amigables, inclusivas y cuidadoras, donde las personas mayores puedan sentirse seguras, favoreciendo lugares de encuentro entre las generaciones.
 categories: Derechos y servicios sociales
 topics: Mayores
-text: Promover entornos y ciudades amigables, inclusivas y cuidadoras, donde las personas mayores puedan sentirse seguras, favoreciendo lugares de encuentro entre las generaciones.

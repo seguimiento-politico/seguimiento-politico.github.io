@@ -1,6 +1,6 @@
 id: c0fbe173-9683-4781-ba3d-190435fec1c7
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 56
+parent_chapter: 754946a2-5f02-4a15-929b-dc9e8a58fe80
+children_promises:
+- 23dad863-281a-4a4c-9370-14880f98b500
+- 75dd3c96-dc8c-417e-9b92-b4af8b30dea5
+children_statements: []
+title: Reconocimiento de las clínicas veterinarias como centros sanitarios y reducción del IVA
 categories: Civismo
 topics: Bienestar animal
-title: Reconocimiento de las clínicas veterinarias como centros sanitarios y reducción del IVA
-has_children: true

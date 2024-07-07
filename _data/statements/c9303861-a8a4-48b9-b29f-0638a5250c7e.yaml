@@ -1,6 +1,6 @@
 id: c9303861-a8a4-48b9-b29f-0638a5250c7e
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 219
+parent_chapter: 8feb5548-d68b-40a0-8193-f19c63384da0
+text: Desarrollar e impulsar las medidas incorporadas en el Pacto de Estado contra el Antigitanismo y la Inclusión del Pueblo Gitano, en coordinación con la implementación de la Estrategia Nacional para la igualdad, inclusión y participación del pueblo gitano 2020-2030, con especial atención a las iniciativas relacionadas con la lucha y prevención del antigitanismo.
 categories: Minorías
 topics: Gitanos
-text: Desarrollar e impulsar las medidas incorporadas en el Pacto de Estado contra el Antigitanismo y la Inclusión del Pueblo Gitano, en coordinación con la implementación de la Estrategia Nacional para la igualdad, inclusión y participación del pueblo gitano 2020-2030, con especial atención a las iniciativas relacionadas con la lucha y prevención del antigitanismo.

@@ -1,6 +1,6 @@
 id: 95ee1715-1777-488d-9524-d8bf3c27b4c0
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 37
-categories: Impuestos y financiación pública
+parent_chapter: e8d5c618-2425-492e-9784-205fd8c32426
 text: Esto permitirá desarrollar una política fiscal justa e inteligente, capaz de hacer frente a los retos de una economía globalizada, marcada por la digitalización, la transición verde y la lucha contra el fraude. Una fiscal  idad eficaz que permita financiar servicios públicos y prestaciones sociales de cal  idad para el conjunto de la ciudadanía, que reduzca la desigualdad y la pobreza, que ayude a los colectivos vulnerables y a la clase media y trabajadora, que incentive las grandes transformaciones del modelo productivo, y que avance en progresiv  idad, tal y como establece la Constitución.
+categories: Impuestos y financiación pública

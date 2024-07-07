@@ -1,10 +1,12 @@
 id: 933233b4-70fa-483e-9e45-cb4f1d3bbb94
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 57
+parent_chapter: 5fc11c4e-9db8-4c9e-9643-4790f6b860a4
 text: Apoyaremos a la juventud del medio rural mediante la modernización de las explotaciones, incentivos para emprendedores y puesta en marcha de negocios en el ámbito rural.
+topics: Infancia y juventud

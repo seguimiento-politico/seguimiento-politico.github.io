@@ -1,11 +1,12 @@
 id: ddb3c93c-e069-42e3-bf15-57af9cf812d4
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 99
-categories: Seguridad y defensa
+parent_chapter: ce32a1c3-f0ee-405f-bdb8-e85af6ed814a
 text: Mejorar la formación, equivalencia de titulación, adecuación de planes de estudio, oportunidades y condiciones de vuelta de los militares a la vida civil y potenciar el aprovechamiento de las capacidades militares en el sector público y privado, con especial énfasis en los pertenecientes a la escala de tropa y marinería.
+categories: Seguridad y defensa

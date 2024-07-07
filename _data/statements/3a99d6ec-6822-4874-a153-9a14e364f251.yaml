@@ -1,6 +1,6 @@
 id: 3a99d6ec-6822-4874-a153-9a14e364f251
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 162
+parent_chapter: 1396ba16-84f5-4ba6-9717-58d5e5cedee0
+text: Incluiremos bonificaciones fiscales para familias numerosas, préstamos sin intereses o avales bancarios para parejas jóvenes con hijos, becas escolares al comedor y transporte, ayudas deportivas y beneficios en el acceso a servicios públicos en colaboración con el resto de administraciones.
 categories:
 - Familia
-text: Incluiremos bonificaciones fiscales para familias numerosas, préstamos sin intereses o avales bancarios para parejas jóvenes con hijos, becas escolares al comedor y transporte, ayudas deportivas y beneficios en el acceso a servicios públicos en colaboración con el resto de administraciones.

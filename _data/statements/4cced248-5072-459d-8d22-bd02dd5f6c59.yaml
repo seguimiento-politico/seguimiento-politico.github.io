@@ -1,6 +1,6 @@
 id: 4cced248-5072-459d-8d22-bd02dd5f6c59
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 250
+parent_chapter: f1be8d2c-f0e9-4ba2-bc9b-fd12069bfd39
+text: Pondremos en marcha un Plan de prevención y actuación contra los delitos de odio, especialmente los cometidos en Internet.
 categories: Justicia
 topics: Modernización
-text: Pondremos en marcha un Plan de prevención y actuación contra los delitos de odio, especialmente los cometidos en Internet.

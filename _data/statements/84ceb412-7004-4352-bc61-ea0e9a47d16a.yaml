@@ -1,7 +1,6 @@
 id: 84ceb412-7004-4352-bc61-ea0e9a47d16a
 type: promise
-parent_statement: 94939f56-8a17-46ed-9294-fb8590efaa8d
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -10,5 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 24
-categories: Educación
+parent_statement: 94939f56-8a17-46ed-9294-fb8590efaa8d
+parent_chapter: 1b166bbb-40b5-49ba-a4c8-75dad7a80fff
 text: Transformaremos los espacios de acuerdo con el aprendizaje cooperativo adecuado para la incorporación de la digitalización en los centros.
+categories: Educación

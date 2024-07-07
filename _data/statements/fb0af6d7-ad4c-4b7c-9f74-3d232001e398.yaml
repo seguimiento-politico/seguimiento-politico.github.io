@@ -1,7 +1,6 @@
 id: fb0af6d7-ad4c-4b7c-9f74-3d232001e398
 type: promise
-parent_statement: 09154c6e-d12f-4e42-9467-4af0644ac479
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +8,9 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 09154c6e-d12f-4e42-9467-4af0644ac479
+parent_chapter: f9ecf2a6-febf-46fc-a961-5572a6563078
+text: se reforzarán los cuerpos específicos de cátedras y de profesorado de enseñanzas artísticas superiores, diferenciados de los correspondientes a las enseñanzas profesionales, y asimilados en cuanto al tiempo de dedicación, remuneración y niveles a los universitarios;
 categories:
 - Cultura
 - Educación
-text: se reforzarán los cuerpos específicos de cátedras y de profesorado de enseñanzas artísticas superiores, diferenciados de los correspondientes a las enseñanzas profesionales, y asimilados en cuanto al tiempo de dedicación, remuneración y niveles a los universitarios;

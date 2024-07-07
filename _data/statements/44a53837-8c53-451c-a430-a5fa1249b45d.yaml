@@ -1,6 +1,6 @@
 id: 44a53837-8c53-451c-a430-a5fa1249b45d
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 27
-categories: Cultura
+parent_chapter: 2151d415-90ce-4872-a454-e7bc580c7a54
 text: Impulsaremos una Ley de mecenazgo que mejore las deducciones y sus límites, incluyendo los servicios profesionales y no sólo las donaciones patrimoniales, contemplando la regulación del mecenazgo y patrocinio de las actividades deportivas, científicas e investigadoras.
+categories: Cultura

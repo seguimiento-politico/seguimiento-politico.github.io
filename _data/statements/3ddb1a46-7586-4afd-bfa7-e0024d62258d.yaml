@@ -1,6 +1,6 @@
 id: 3ddb1a46-7586-4afd-bfa7-e0024d62258d
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,16 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 169
+parent_chapter: e9f101d6-d6e2-4b1b-95f1-2c67fdd18515
+children_promises:
+- 0d053e53-8ee4-4e64-81e0-ce218eb16269
+- fa0ea9a0-7cec-423b-a9a1-1388612a3f20
+- 5d722578-bf5f-4b2b-8b06-e09a6df975cc
+- 2a2540da-6f99-4333-9015-c52c2d1f1601
+- 902b3afb-1fb2-498b-9dd8-97ba853034b3
+- 5fab08b3-06a3-48a6-836a-a4e5720d1d51
+- 3188214c-cbe9-476a-b5a1-a31ccd6e8bfc
+children_statements: []
+title: Reforma del sistema de subvenciones culturales
 categories: Cultura
 topics: Financiación
-title: Reforma del sistema de subvenciones culturales
-has_children: true

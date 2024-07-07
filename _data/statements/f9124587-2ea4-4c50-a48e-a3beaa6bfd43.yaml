@@ -1,6 +1,6 @@
 id: f9124587-2ea4-4c50-a48e-a3beaa6bfd43
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 40
-categories: Territorio rural
+parent_chapter: 99cdd206-1c9e-4ad4-b1db-c1d0f646f51a
 text: Creación de oficinas de despoblación en al menos 20 comarcas rurales que requieran una intervención urgente. Su función será acompañar a las personas o empresas que quieran instalarse en la zona, facilitándoles todos los contactos y la mediación en el proceso; impulsar “Espacios de Innovación Rural” así como el emprendimiento, formación y asistencia para la mujer en el medio rural, que faciliten su incorporación al mercado laboral, tanto por cuenta ajena como por cuenta propia, y su capacitación en la creación de empresas.
+categories: Territorio rural

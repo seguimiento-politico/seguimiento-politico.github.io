@@ -1,6 +1,6 @@
 id: 673dc200-c6f2-4603-9d75-2be81e61eae4
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 135
+parent_chapter: b5417c2b-2bd9-455f-a227-1ac572dbd434
+children_promises:
+- b71a7107-7d21-4b01-8f01-539ed6204e65
+- 226bfbf7-b267-4e3c-bf29-c110e2e65e2f
+- 002234e2-1156-4f56-bcc1-ca7875069b79
+children_statements: []
+title: 'Resignificación profunda del Valle de Cuelgamuros [valle de los caídos] como lugar de reinterpretación crítica de la guerra y la dictadura. '
 categories: Democracia
 topics: Memoria democrática
-title: 'Resignificación profunda del Valle de Cuelgamuros [valle de los caídos] como lugar de reinterpretación crítica de la guerra y la dictadura. '
-has_children: true

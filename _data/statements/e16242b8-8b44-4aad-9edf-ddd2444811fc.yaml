@@ -1,7 +1,6 @@
 id: e16242b8-8b44-4aad-9edf-ddd2444811fc
 type: promise
-parent_statement: b882a8f9-ca6f-4db1-ad4d-8568dbeaab6b
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -10,5 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 174
-categories: Derechos y servicios sociales
+parent_statement: b882a8f9-ca6f-4db1-ad4d-8568dbeaab6b
+parent_chapter: 5f57ba4e-d577-41a4-b2d9-7ff1612f735d
 text: Los hijos de una mujer asesinada no se verán discriminados en las ayudas a recibir por causa del sexo (o género con el que se autoperciba) del asesino/a.
+categories: Derechos y servicios sociales

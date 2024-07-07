@@ -1,7 +1,6 @@
 id: f4725b3c-1abe-40e7-8fae-d0394195e1f0
 type: promise
-parent_statement: 8292e29b-ade0-4af1-9514-e0d6dfb34433
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Justicia
+parent_statement: 8292e29b-ade0-4af1-9514-e0d6dfb34433
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
 text: En el orden social se promoverá la especialización de juzgados en materia de seguridad y salud en el trabajo y se propondrá ante los organismos competentes la creación de un tribunal social internacional.
+categories: Justicia

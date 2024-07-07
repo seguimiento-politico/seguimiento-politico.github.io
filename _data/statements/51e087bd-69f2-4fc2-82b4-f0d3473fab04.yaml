@@ -1,7 +1,6 @@
 id: 51e087bd-69f2-4fc2-82b4-f0d3473fab04
 type: promise
-parent_statement: e348a13f-26f6-441f-bc05-10d3cf0d450e
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -10,5 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 81
-categories: Impuestos y financiación pública
+parent_statement: e348a13f-26f6-441f-bc05-10d3cf0d450e
+parent_chapter: ec3e397c-bf4a-4692-a06e-58f507cee1f8
 text: Crearemos una pasarela de datos de obligado peaje para las grandes tecnológicas extranjeras que quieran sacar a sedes extranjeras datos obtenidos en territorio nacional. Este mecanismo implicará el pago de un porcentaje al particular del que se obtengan los datos, además de la correspondiente tributación.
+categories: Impuestos y financiación pública

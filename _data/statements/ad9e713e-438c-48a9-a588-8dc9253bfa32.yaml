@@ -1,6 +1,6 @@
 id: ad9e713e-438c-48a9-a588-8dc9253bfa32
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,7 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 13
+parent_chapter: deb1407a-edfb-4a25-9c51-31c5687520e8
+text: Proposición no de Ley por la que se insta a establecer que el conocimiento de la lengua cooficial de la Administración regional no sea un impedimento para el acceso a la función pública ( junio 2021).
 categories: Derechos y servicios sociales
 topics:
 - Igualdad
-text: Proposición no de Ley por la que se insta a establecer que el conocimiento de la lengua cooficial de la Administración regional no sea un impedimento para el acceso a la función pública ( junio 2021).

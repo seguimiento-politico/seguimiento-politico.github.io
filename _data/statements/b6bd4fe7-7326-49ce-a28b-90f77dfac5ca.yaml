@@ -1,6 +1,6 @@
 id: b6bd4fe7-7326-49ce-a28b-90f77dfac5ca
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 20
+parent_chapter: cae5d808-1ce9-4168-a268-4ea405606db1
+text: Desarrollaremos el Estatuto Básico del Empleado Público, fomentando la evaluación del desempeño, la carrera profesional... y se evitará el uso abusivo de la interinidad.
 categories: Trabajo
 topics: Empleo público
-text: Desarrollaremos el Estatuto Básico del Empleado Público, fomentando la evaluación del desempeño, la carrera profesional... y se evitará el uso abusivo de la interinidad.

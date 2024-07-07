@@ -1,11 +1,12 @@
 id: 0375ce58-b4ed-47fe-99b6-aff876c4dba0
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 80
-categories: Justicia
+parent_chapter: 93f894f4-fa7e-477f-b933-b4f068b0d41e
 text: Impulsaremos un Plan especial para abordar la situación de Jueces y Fiscales en Cataluña y otras comunidades autónomas donde resulte necesario, tanto en lo referente a su situación profesional como a su seguridad.
+categories: Justicia

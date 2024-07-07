@@ -1,6 +1,6 @@
 id: aa2b5166-22de-45ab-9a7b-933509fe1fa2
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,7 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 11
+parent_chapter: 298cb86d-a349-4888-aba4-5567f2db236a
+text: En el acceso a la función pública, con especial atención a los puestos donde se priman las condiciones físicas, así como en los deportes, se vigilará que no se discrimine a ninguna mujer ante hombres que se autoperciban mujeres y pretendan ocupar espacios reservados para ellas.
 categories: Derechos y servicios sociales
 topics:
 - Igualdad
-text: En el acceso a la función pública, con especial atención a los puestos donde se priman las condiciones físicas, así como en los deportes, se vigilará que no se discrimine a ninguna mujer ante hombres que se autoperciban mujeres y pretendan ocupar espacios reservados para ellas.

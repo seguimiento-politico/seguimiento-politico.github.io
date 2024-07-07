@@ -1,0 +1,30 @@
+name: Energía
+other:
+- &id001
+  id: c98415d3-520c-402c-9b30-3770c34d8a08
+  parties:
+  - VOX
+- &id002
+  id: 28d71fb9-8a78-412c-8991-5ca4d9f26899
+  parties:
+  - VOX
+- &id003
+  id: 9f6c7851-847d-4c47-89b0-f1fbcc665695
+  parties:
+  - VOX
+other_count: 3
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- *id002
+- *id003
+statements_count: 3
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

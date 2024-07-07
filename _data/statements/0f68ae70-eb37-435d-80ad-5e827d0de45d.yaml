@@ -1,11 +1,12 @@
 id: 0f68ae70-eb37-435d-80ad-5e827d0de45d
-type: declaration
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+type: statement
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 79
-categories: Democracia
+parent_chapter: fba892fd-d41d-42e2-ba2b-5a598a075f0d
 text: Simplificaremos la burocracia innecesaria que dificulta el emprendimiento y los servicios públicos, apostando por la digitalización y la desintermediación. Pondremos el acento en lograr unas Administraciones Públicas cohesionadas y coordinadas, que compartan información y recursos para reforzar la coordinación y cooperación entre ellas.
+categories: Democracia

@@ -1,6 +1,6 @@
 id: be633563-ef70-41c5-8d55-6f433fb3b294
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 170
-categories: Cultura
+parent_chapter: d83fae97-6483-46e8-ac0d-9980e0838a11
+children_promises:
+- 25218bb4-cd1f-43d7-b930-2a4ceb9de491
+- 6bf5d7dc-4c0b-4f4b-9395-0ebde6002ed7
+- 278042db-2908-4ec5-93e8-cdaa88161333
+- 9fac7a94-f816-4d90-8257-aecc74aa1f8a
+children_statements: []
 title: Programa estatal de impulso a la creación e investigación cultural
-has_children: true
+categories: Cultura

@@ -1,6 +1,6 @@
 id: 5f4f7f94-ab71-4b35-a112-26fa30aa3e7d
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 133
+parent_chapter: a6f69436-abc0-4e1b-bbac-a22624f69fc8
+text: Promoveremos y ayudaremos a la implicación de jóvenes en la participación en la sociedad civil, la cooperación internacional y el voluntariado, buscando que este sea compatible con estudios y trabajo.
 categories: Democracia
 topics: Participación ciudadana
-text: Promoveremos y ayudaremos a la implicación de jóvenes en la participación en la sociedad civil, la cooperación internacional y el voluntariado, buscando que este sea compatible con estudios y trabajo.

@@ -1,7 +1,6 @@
 id: d1cc9fd3-57a4-4ad2-8e80-e6d5d764c5eb
-type: declaration
-parent_statement: 059cec59-f659-408b-a55e-4a9b764eb782
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -9,4 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 8
+parent_statement: 059cec59-f659-408b-a55e-4a9b764eb782
+parent_chapter: d398e1b7-4bfc-46c4-ac88-5e95589750d5
 text: Es el momento de cuidar y prosperar. Queremos que España sea el mejor país del mundo para nacer. Nuestra intención es que las personas desarrollen sus vidas de forma libre y plena, tengan la edad que tengan. Seremos, como siempre, el soporte de las familias y lideraremos el Gobierno de la conciliación. Recuperaremos la calidad, la equidad y el mérito como principios rectores de nuestra Educación en todos los niveles y afrontaremos los retos de presente y futuro de nuestro sistema sanitario. Impulsaremos la atención a la dependencia, haremos frente a la soledad no deseada como uno de los principales males de nuestro tiempo y lucharemos con todos los mecanismos a nuestro alcance contra la violencia machista.

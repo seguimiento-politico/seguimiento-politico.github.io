@@ -1,7 +1,6 @@
 id: 4ac8e8e1-ac70-490b-995e-06341e0b3b4e
 type: promise
-parent_statement: 833c79ca-5e02-47e3-93f8-be20429318fc
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Trabajo
+parent_statement: 833c79ca-5e02-47e3-93f8-be20429318fc
+parent_chapter: c22a6b36-a06c-43e3-ae12-f9b87ce394c7
 text: Reforzaremos la participación sindical en el diseño, la regulación y la evaluación de los algoritmos en el ámbito laboral para prevenir y eliminar los sesgos discriminatorios o, en cualquier caso, contrarios a la dignidad de las personas.
+categories: Trabajo

@@ -1,7 +1,6 @@
 id: 0bb5529a-3864-4679-a4cd-09df0c947525
 type: promise
-parent_statement: 46f231b3-22b5-484f-a7d9-40dbde976c2c
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 46f231b3-22b5-484f-a7d9-40dbde976c2c
+parent_chapter: b3f71622-6590-4ea3-b839-4254df880fe7
+text: Aplicar la gratuidad al transporte público de viajeros rurales de lunes a viernes para facilitar su acceso a centros hospitalarios, universitarios y administrativos, con el objetivo de ir alcanzando la igualdad entre el medio rural y urbano.
 categories: Territorio rural
 topics: Igualdad
-text: Aplicar la gratuidad al transporte público de viajeros rurales de lunes a viernes para facilitar su acceso a centros hospitalarios, universitarios y administrativos, con el objetivo de ir alcanzando la igualdad entre el medio rural y urbano.

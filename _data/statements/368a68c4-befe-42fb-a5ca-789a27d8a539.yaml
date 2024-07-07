@@ -1,6 +1,6 @@
 id: 368a68c4-befe-42fb-a5ca-789a27d8a539
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 31
-categories: Impuestos y financiación pública
+parent_chapter: 973680ce-e0de-4a19-97fc-c89b80dc0b61
 text: La reforma de la fiscalidad permitirá superar en España la anomalía de la escasa tributación de las grandes corporaciones, así como del sector financiero y de las grandes empresas tecnológicas, y la insuficiente e ineficaz fiscalidad ambiental, para alinearnos con las medidas ya adoptadas o en trance de adoptarse en el ámbito de los países de la OCDE; pero no conllevará ningún perjuicio para las familias de ingresos medios y bajos, y permitirá reducir la carga fiscal de las pymes.
+categories: Impuestos y financiación pública

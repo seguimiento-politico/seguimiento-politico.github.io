@@ -1,6 +1,6 @@
 id: ffad6ce6-e9c9-4ae3-837f-f3c26bb6622e
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 111
+parent_chapter: 8a474e92-a922-4e8e-9aca-16ac157ca40a
+text: Incorporaremos a los pescadores a los proyectos de desarrollo de eólica marina que sean susceptibles de afectar a los recursos pesqueros y a la situación de los caladeros, teniéndose en cuenta sus puntos de vista, actividad económica y necesidades.
 categories:
 - Medioambiente
-text: Incorporaremos a los pescadores a los proyectos de desarrollo de eólica marina que sean susceptibles de afectar a los recursos pesqueros y a la situación de los caladeros, teniéndose en cuenta sus puntos de vista, actividad económica y necesidades.

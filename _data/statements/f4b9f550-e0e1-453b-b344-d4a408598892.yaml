@@ -1,6 +1,6 @@
 id: f4b9f550-e0e1-453b-b344-d4a408598892
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,15 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 109
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+children_promises:
+- b9826641-1f54-4435-a199-b886237966d9
+- 6bfe0fea-83ac-4c4e-9104-5c772fd53882
+- 235dcaff-3cfa-4901-a124-2033d1d36983
+- 5212c5a3-430f-401e-873f-5ca0d79e561f
+- ec88a4df-2822-4fc4-b011-4e9ef7125736
+- be3a9aef-b8fd-41de-95e6-a4db1bba976d
+children_statements: []
+title: 'Igualdad y feminismo: Políticas de salud para las mujeres'
 categories: Democracia
 topics: Igualdad
-title: 'Igualdad y feminismo: Políticas de salud para las mujeres'
-has_children: true

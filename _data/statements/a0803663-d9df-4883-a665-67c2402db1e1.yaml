@@ -1,6 +1,6 @@
 id: a0803663-d9df-4883-a665-67c2402db1e1
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,7 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 117
+parent_chapter: 96823b0f-932d-41e1-a800-716933f427ff
+text: Fomentaremos la inversión y actualización del parque de generación nuclear y promoveremos la extensión de la vida útil de las centrales nucleares existentes.
 categories:
 - Industria
 - Energía
-text: Fomentaremos la inversión y actualización del parque de generación nuclear y promoveremos la extensión de la vida útil de las centrales nucleares existentes.

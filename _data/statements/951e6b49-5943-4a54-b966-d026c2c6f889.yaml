@@ -1,6 +1,6 @@
 id: 951e6b49-5943-4a54-b966-d026c2c6f889
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 99
+parent_chapter: 4b1a1fd6-83f2-4e8c-a775-7e65f72f50be
 text: Promover las lenguas cooficiales y propias en el sistema educativo. La adecuada vitalidad de las lenguas cooficiales y propias de los distintos pueblos requiere una acción pública, acorde con su situación específica, que las potencie, como parte de la identidad y riqueza cultural de nuestro país Para ello, necesitamos que exista una oferta educativa suficiente para permitir que en los centros educativos de toda España se puedan estudiar todos los idiomas oficiales y propios de cada territorio

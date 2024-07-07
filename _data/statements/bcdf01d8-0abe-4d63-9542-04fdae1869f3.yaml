@@ -1,7 +1,6 @@
 id: bcdf01d8-0abe-4d63-9542-04fdae1869f3
 type: promise
-parent_statement: 0b822bee-46ce-402d-bc3f-c3f5ae4017ed
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +8,10 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: 0b822bee-46ce-402d-bc3f-c3f5ae4017ed
+parent_chapter: 1d4a4787-163e-4649-b875-f97fd3780649
+text: Fomentaremos la innovación y el emprendimiento digital en el sector agroalimentario con el desarrollo de las actuaciones del Hub de Innovación Digital en la Escuela de San Fernando de Henares
 categories:
 - Agricultura
 - Ganadaría
 topics: Desarrollo sostenible
-text: Fomentaremos la innovación y el emprendimiento digital en el sector agroalimentario con el desarrollo de las actuaciones del Hub de Innovación Digital en la Escuela de San Fernando de Henares

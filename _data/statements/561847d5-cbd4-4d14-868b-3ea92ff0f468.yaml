@@ -1,6 +1,6 @@
 id: 561847d5-cbd4-4d14-868b-3ea92ff0f468
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_chapter: 2e906499-7672-4105-aaf5-f66b64b6b883
+text: La Red de Carreteras del Estado es uno de los grandes garantes de la cohesión territorial de nuestro país y uno de los instrumentos más importantes para asegurar la movilidad y la igualdad de oportunidades. Por ello, continuaremos trabajando en la ampliación de los diferentes ejes y en la mejora de los existentes basándonos en criterios de seguridad, mejora de la funcionalidad y conectividad.
 categories: Infraestructuras, Transporte
 topics: Carreteras
-text: La Red de Carreteras del Estado es uno de los grandes garantes de la cohesión territorial de nuestro país y uno de los instrumentos más importantes para asegurar la movilidad y la igualdad de oportunidades. Por ello, continuaremos trabajando en la ampliación de los diferentes ejes y en la mejora de los existentes basándonos en criterios de seguridad, mejora de la funcionalidad y conectividad.

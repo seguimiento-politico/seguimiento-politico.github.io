@@ -1,6 +1,6 @@
 id: f4745530-d9ca-4ea2-acb1-fec55662fd15
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 244
+parent_chapter: 9f2d2447-2cb2-4988-b21c-3f826f18fd98
+text: Desarrollaremos las ofertas de empleo de forma territorializada para que las personas que superen las pruebas selectivas no tengan que desplazarse desde su residencia de origen a plazas de fuera de su comunidad autónoma o provincia.
 categories: Administración pública
 topics: Modernización
-text: Desarrollaremos las ofertas de empleo de forma territorializada para que las personas que superen las pruebas selectivas no tengan que desplazarse desde su residencia de origen a plazas de fuera de su comunidad autónoma o provincia.

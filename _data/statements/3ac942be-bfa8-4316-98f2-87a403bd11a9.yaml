@@ -1,6 +1,6 @@
 id: 3ac942be-bfa8-4316-98f2-87a403bd11a9
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 55
+parent_chapter: f4a5d1b6-d10d-41c8-af19-09947c6b9033
+children_promises:
+- 52110895-35f2-4b95-9195-947d343d5b4d
+children_statements: []
+title: Estrategia nacional de lucha contra la mortalidad prematura provocada por la contaminación
 categories: Medioambiente
 topics: Contaminación
-title: Estrategia nacional de lucha contra la mortalidad prematura provocada por la contaminación
-has_children: true

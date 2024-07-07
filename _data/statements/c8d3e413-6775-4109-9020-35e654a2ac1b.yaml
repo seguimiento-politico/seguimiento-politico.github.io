@@ -1,7 +1,6 @@
 id: c8d3e413-6775-4109-9020-35e654a2ac1b
 type: promise
-parent_statement: f68f67ed-27e4-483d-94b9-7831785feb59
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: f68f67ed-27e4-483d-94b9-7831785feb59
+parent_chapter: c794cb24-1c55-422f-8b6d-1ff29ad1ed87
+text: Impulsaremos que la Unión Europea asuma la coordinación de los sistemas tributarios de los Estados miembros, en especial de los impuestos directos, para que los individuos y las empresas tributen de forma equitativa y de acuerdo con el principio de progresividad, evitando la competencia entre Estados y el dumping fiscal, a través de una ampliación sostenida y gradual de los criterios fijados en el G7 de Cornualles de 2021, que establecieron un mínimo global de tributación del 15% en el impuesto de sociedades.
 categories: Política internacional
 topics: Europa
-text: Impulsaremos que la Unión Europea asuma la coordinación de los sistemas tributarios de los Estados miembros, en especial de los impuestos directos, para que los individuos y las empresas tributen de forma equitativa y de acuerdo con el principio de progresividad, evitando la competencia entre Estados y el dumping fiscal, a través de una ampliación sostenida y gradual de los criterios fijados en el G7 de Cornualles de 2021, que establecieron un mínimo global de tributación del 15% en el impuesto de sociedades.

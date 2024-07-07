@@ -1,6 +1,6 @@
 id: 042744d5-8492-4125-a503-f7ff828b7758
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 6
+parent_chapter: 11befd65-ee33-41f0-9452-e91d2cec32fe
+text: Supresión de privilegios legales amparados en supuestos “derechos históricos” que provocan desigualdad entre territorios
 categories: Derechos y servicios sociales
 topics: Igualdad
-text: Supresión de privilegios legales amparados en supuestos “derechos históricos” que provocan desigualdad entre territorios

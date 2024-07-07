@@ -1,6 +1,6 @@
 id: 4abe5b04-d6b9-4700-b5ae-9fd0f314c649
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 18
-categories: Administración pública
+parent_chapter: f4f32036-0cfd-4ca9-b6f3-5cfec1c58526
+children_promises:
+- 7378d821-1c12-4388-82bf-282c9c192eaf
+- b89d5acf-6e11-42e7-80ba-03dbe7bc4734
+- 362faa67-b9e6-4969-b38f-b254158631b9
+children_statements:
+- 2767b4da-8c6d-4bbd-8175-2b86b1c2634a
 title: Impulsaremos la reforma inmediata de los sistemas de financiación de las comunidades autónomas y de las corporaciones locales.
-has_children: true
+categories: Administración pública

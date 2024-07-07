@@ -1,7 +1,6 @@
 id: 3cc76def-b8fd-48f1-bb5d-d4b6dcbf44e6
 type: promise
-parent_statement: 818b128d-b25a-4be3-9178-bb23a10841c2
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Economía
+parent_statement: 818b128d-b25a-4be3-9178-bb23a10841c2
+parent_chapter: 5ae877b3-1389-490f-b5f8-bb2c2704b535
 text: Utilizar adecuadamente la información del Observatorio de los Márgenes de Beneficio de las empresas (OMB), para conocer con detalle cómo se distribuye la renta y los canales de trasmisión de los aumentos de costes a precios. La información recogida por distintos entes oficiales (INE, AEAT, Banco de España, TGSS y Ministerio de Trabajo y Economía Social) hace posible su agrupamiento en aras de ayudar a la toma de decisiones y para conocer la evolución de los márgenes empresariales, de igual modo que otras fuentes permiten conocer la de los salarios. El OMB debe permitir, asimismo, reducir la asimetría de información existente y mejorar el conocimiento de los procesos de trasmisión de costes a precios, convirtiéndose en una herramienta central de la política de lucha contra la inflación. Igualmente, el OMB debe facilitar que los agentes sociales adapten sus reivindicaciones laborales en la negociación colectiva y el reparto de dividendos a la situación de cada empresa; para ellos, se reforzarán la coordinación macroeconómica y la defensa de la competencia.
+categories: Economía

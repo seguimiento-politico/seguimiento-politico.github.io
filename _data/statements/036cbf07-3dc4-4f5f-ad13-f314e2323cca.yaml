@@ -1,6 +1,6 @@
 id: 036cbf07-3dc4-4f5f-ad13-f314e2323cca
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 162
+parent_chapter: 2d517483-028c-490d-aca8-13a64ce818f1
+children_promises:
+- 9a5fb628-9eb4-43a2-8d08-38a582fb274c
+- d580903c-c922-4386-beea-2d81df532cb4
+- e71041c4-dc66-4153-9655-30897d013192
+- 0715e2c2-06bc-4ba6-a2fa-f0d8bee30abb
+- 033f5250-91b5-4069-ac3b-f4ac2087b02b
+children_statements: []
+title: Incorporación de las Unidades de Igualdad en los estatutos de las universidades y dotación de recursos económicos, materiales y humanos y del poder de decisión y actuación requeridos.
 categories: Educación
 topics: Igualdad
-title: Incorporación de las Unidades de Igualdad en los estatutos de las universidades y dotación de recursos económicos, materiales y humanos y del poder de decisión y actuación requeridos.
-has_children: true

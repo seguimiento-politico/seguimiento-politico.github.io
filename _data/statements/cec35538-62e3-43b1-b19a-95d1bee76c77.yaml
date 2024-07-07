@@ -1,7 +1,6 @@
 id: cec35538-62e3-43b1-b19a-95d1bee76c77
 type: promise
-parent_statement: 1b9aaf6a-2bba-49e4-a2fc-e94db790ae90
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 1b9aaf6a-2bba-49e4-a2fc-e94db790ae90
+parent_chapter: c31b1fcd-80d0-4ca3-b06a-863fa279380c
+text: Promoveremos nuevos modelos de gestión, basados en la transparencia y la participación ciudadana en la gestión del agua como un bien público.
 categories: Medioambiente
 topics: Desertificación
-text: Promoveremos nuevos modelos de gestión, basados en la transparencia y la participación ciudadana en la gestión del agua como un bien público.

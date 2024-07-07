@@ -1,6 +1,6 @@
 id: 9cf02b12-420e-4943-b41e-7402716f1edf
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 49
-categories: Territorio rural
+parent_chapter: bfeb74d8-c8b3-47b4-b73b-61f1aaaf5305
 text: Impulsaremos la realización de un Inventario de los bienes inmuebles y rústicos en manos muertas (sin aprovechamiento económico), con el fin de dinamizar el mercado inmobiliario y de tierras y favorecer el desarrollo de nuevas actividades económicas y la fijación de población.
+categories: Territorio rural

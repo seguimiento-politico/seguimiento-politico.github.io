@@ -1,6 +1,6 @@
 id: 2f39d9b8-e86f-406d-8999-66cd88aeca14
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 256
+parent_chapter: 20facdab-4731-44c4-b5bb-91fdf8fba805
+text: Mejoraremos el sistema de gestión de la política migratoria, simplificando los procedimientos y acelerando el cambio de modelo de las oficinas de extranjería.
 categories: Migración
 topics: Integración
-text: Mejoraremos el sistema de gestión de la política migratoria, simplificando los procedimientos y acelerando el cambio de modelo de las oficinas de extranjería.

@@ -1,6 +1,6 @@
 id: ec801bb1-4f2a-4101-8a87-b39fdc8656ce
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 212
-categories: Derechos y servicios sociales
+parent_chapter: e4a4af12-2c6e-4e27-8a79-debda171ff8b
 text: Desarrollar acciones y habilitar recursos específicos para las mujeres con discapacidad en cuanto a la salud sexual y reproductiva, facilitando los apoyos necesarios a su capacidad de decidir y obrar, para que disfruten de una salud sexual óptima y obtengan los apoyos que precisen en el desarrollo de la maternidad.
+categories: Derechos y servicios sociales

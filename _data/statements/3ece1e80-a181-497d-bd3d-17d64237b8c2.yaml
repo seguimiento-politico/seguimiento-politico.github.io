@@ -1,6 +1,6 @@
 id: 3ece1e80-a181-497d-bd3d-17d64237b8c2
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 74
-categories: Impuestos y financiación pública
+parent_chapter: ec3e397c-bf4a-4692-a06e-58f507cee1f8
 text: Llevaremos a cabo una reforma total del sistema fiscal en España para proteger a los españoles del infierno fiscal y burocrático al que han sido sometidos en las últimas décadas bajo gobiernos nacionales y autonómicos de cualquier signo. Ello permitirá a los españoles cumplir mejor sus obligaciones y reducirá los costes de recaudación vinculados a la AEAT. La cita previa será potestativa del ciudadano y el trabajo remoto se establecerá en unidades administrativas que acrediten, objetivamente, un alto grado de satisfacción ciudadana.
+categories: Impuestos y financiación pública

@@ -1,6 +1,6 @@
 id: f619d6ee-1d8c-4758-a2e8-bfb7dc1c47e0
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 52
-categories: Educación
+parent_chapter: a9015bc2-6b3d-40b7-bf93-f53764c97c24
 text: IMPLANTAREMOS UNA PRUEBA DE ACCESO A LA UNIVERSIDAD (EBAU) COMÚN para todo el territorio nacional, cuyas condiciones básicas, incluyendo su evaluación, deberán ser fijadas por el Gobierno, previa consulta a las Comunidades Autónomas y a los órganos de representación de las universidades, con el fin de garantizar la igualdad de oportunidades.
+categories: Educación

@@ -1,6 +1,6 @@
 id: 9e6099fc-076f-42ac-98af-bf5922591874
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 130
+parent_chapter: 36d24e1d-5fdd-486e-90c6-db666440d304
+text: Crearemos programas de ayuda desde el Ministerio para promover y ayudar aquellas iniciativas de creación, promoción cultural, ocio y socialización en torno a la cultura de jóvenes
 categories: Derechos y servicios sociales
 topics: Infancia y juventud
-text: Crearemos programas de ayuda desde el Ministerio para promover y ayudar aquellas iniciativas de creación, promoción cultural, ocio y socialización en torno a la cultura de jóvenes

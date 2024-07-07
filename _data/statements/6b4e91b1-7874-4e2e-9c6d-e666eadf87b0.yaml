@@ -1,7 +1,6 @@
 id: 6b4e91b1-7874-4e2e-9c6d-e666eadf87b0
 type: promise
-parent_statement: 365742db-4554-4649-b1ac-bb17b9fa9990
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Empresas y autónomos
+parent_statement: 365742db-4554-4649-b1ac-bb17b9fa9990
+parent_chapter: 9084fb76-14d5-4f08-b13b-74bd606de716
 text: Seguiremos trabajando para reducir la morosidad en las operaciones comerciales, como una necesidad para incrementar la competitividad y viabilidad de nuestras pymes y autónomos.
+categories: Empresas y autónomos

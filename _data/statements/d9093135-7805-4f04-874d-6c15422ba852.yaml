@@ -1,7 +1,6 @@
 id: d9093135-7805-4f04-874d-6c15422ba852
 type: promise
-parent_statement: 13376ebb-bccf-4086-b126-12489b5cd6d4
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 13376ebb-bccf-4086-b126-12489b5cd6d4
+parent_chapter: 15d90699-c4aa-4c34-a1ae-8df09f3036ef
+text: Garantizar la estabilidad y mejora de las trayectorias personales. Reforzar el carácter innovador, abierto y de calidad de todas sus actividades, desde la docencia hasta la investigación o la transferencia, y el intercambio de conocimiento con la sociedad, evaluando dicha calidad con una nueva aproximación.
 categories: Educación
 topics: Universidad
-text: Garantizar la estabilidad y mejora de las trayectorias personales. Reforzar el carácter innovador, abierto y de calidad de todas sus actividades, desde la docencia hasta la investigación o la transferencia, y el intercambio de conocimiento con la sociedad, evaluando dicha calidad con una nueva aproximación.

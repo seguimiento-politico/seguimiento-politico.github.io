@@ -1,6 +1,6 @@
 id: d66728ba-f11b-481f-9372-28d34c6b4a5a
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 168
-categories: Cultura
+parent_chapter: 1b4d5a8a-94bc-43e6-a463-c865f0d6ae63
+children_promises:
+- 44d6d2e3-a031-4719-9ae6-ee04edd84a4e
+- bceb83c1-61ac-4eaf-97df-532a442996d6
+- 25ec429c-05e8-49d8-b813-455569a31a8b
+- 2bd6c25e-8f87-463a-8d04-40e8ed1415b9
+children_statements: []
 title: Nueva Ley de Patrimonio
-has_children: true
+categories: Cultura

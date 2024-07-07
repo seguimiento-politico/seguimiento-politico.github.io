@@ -1,11 +1,12 @@
 id: a5d294e0-a537-4384-8b31-ee9010a7fecd
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 80
-categories: Justicia
+parent_chapter: 93f894f4-fa7e-477f-b933-b4f068b0d41e
 text: Reforzaremos las herramientas penales en la lucha contra el terrorismo internacional.
+categories: Justicia

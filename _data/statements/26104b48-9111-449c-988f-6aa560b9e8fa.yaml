@@ -1,6 +1,6 @@
 id: 26104b48-9111-449c-988f-6aa560b9e8fa
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 79
-categories: Vivienda
+parent_chapter: 10dbdb5a-3231-46ed-86c9-0dc18f77040e
+children_promises:
+- d75e1763-041e-492a-a63f-d7e81f98a3cd
+- 5ef08f57-0ebe-4590-ae9d-c3ef7ff1eec3
+- 6aeeb7f9-6adc-456c-8f54-94910596397c
+- 84b71a14-5ac7-444a-a5f7-05c1e27de9a5
+- 3dacec29-05de-4d1a-ac0d-24fecb506200
+children_statements:
+- 3eba2ae1-fa13-4553-9d0f-e0653fa75029
 title: Reserva de suelo para vivienda protegida (hipotecas, alquiler y construccion)
-has_children: true
+categories: Vivienda

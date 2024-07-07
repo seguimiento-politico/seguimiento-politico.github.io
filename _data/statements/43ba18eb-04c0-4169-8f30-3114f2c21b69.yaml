@@ -1,11 +1,12 @@
 id: 43ba18eb-04c0-4169-8f30-3114f2c21b69
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 32
-categories: Educación
+parent_chapter: d01d08b0-ad16-47ca-a6fa-7d638f061cfa
 text: Aprobaremos una Ley nacional del 0-3, que aborde de forma integral el cuidado y la educación de los menores de estas edades y las necesidades de sus familias. Se buscará un marco regulatorio flexible que otorgue la mayor libertad de elección a las familias y facilite la conciliación laboral.<br> Además, mantendremos el “cheque 0-3” de 1.000 euros al año para compensar a las familias con hijos menores de 3 años tanto por gastos de guardería y colegio como de cuidadores profesionales.
+categories: Educación

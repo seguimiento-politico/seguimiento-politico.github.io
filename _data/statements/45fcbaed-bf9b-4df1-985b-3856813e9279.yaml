@@ -1,7 +1,6 @@
 id: 45fcbaed-bf9b-4df1-985b-3856813e9279
 type: promise
-parent_statement: 5180defd-80d8-4de0-a834-93cae16a1ff8
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Educación
+parent_statement: 5180defd-80d8-4de0-a834-93cae16a1ff8
+parent_chapter: 4f44b60a-d630-48f6-91cf-914cb0392db6
 text: Gratuidad, especialmente, como se ha señalado, en la Educación Infantil de cero a tres años, en Formación Profesional y también en los ecocomedores escolares de gestión directa en los centros públicos durante toda la etapa obligatoria.
+categories: Educación

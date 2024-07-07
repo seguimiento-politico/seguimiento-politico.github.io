@@ -1,6 +1,6 @@
 id: 48bccfa3-7a22-46c6-a2a6-7544f12ca30b
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 106
-categories: Educación
+parent_chapter: d74bc2c5-b632-425b-ae29-fb826a1b8e06
 text: Crearemos premios nacionales de Educación ambiental y para la sostenibilidad (EAS), fomentando la participación del alumnado y el profesorado en proyectos medioambientales, de lucha contra el cambio climático y que aborden situaciones de aprendizaje ecosocial.
+categories: Educación

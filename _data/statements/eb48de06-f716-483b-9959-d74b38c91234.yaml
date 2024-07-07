@@ -1,7 +1,6 @@
 id: eb48de06-f716-483b-9959-d74b38c91234
 type: promise
-parent_statement: 086296fe-78bd-46f5-89fb-c083f107d703
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 086296fe-78bd-46f5-89fb-c083f107d703
+parent_chapter: 12295f44-3ae3-43bd-8758-0026574e6662
+text: Autonomía al final de la vida. Un aspecto que no puede dejarse de lado al abordar políticas dirigidas al cuidado de las personas mayores es el del final de la vida, garantizando que puedan suministrarse cuidados paliativos en los domicilios cuando así se desee y reconociendo la necesidad de tener una muerte digna, en coherencia con lo establecido en la Ley de Regulación de la Eutanasia.
 categories: Derechos y servicios sociales
 topics: Tercera edad
-text: Autonomía al final de la vida. Un aspecto que no puede dejarse de lado al abordar políticas dirigidas al cuidado de las personas mayores es el del final de la vida, garantizando que puedan suministrarse cuidados paliativos en los domicilios cuando así se desee y reconociendo la necesidad de tener una muerte digna, en coherencia con lo establecido en la Ley de Regulación de la Eutanasia.

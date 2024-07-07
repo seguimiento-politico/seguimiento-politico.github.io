@@ -1,0 +1,26 @@
+id: 1d2e274a-7053-474c-b482-90291c176818
+type: statement
+parent_document: a613c4b6-f9dc-4926-8b9a-b87c233e5a75
+parties:
+- VOX
+election_type: europeas
+election_date: '2024-06-09'
+publication_date: '2024-05-30'
+page: 9
+text: Las limitaciones al uso de fitosanitarios, fertilizantes y antibióticos del Pacto Verde impiden a los agricultores y ganaderos europeos garantizar la salud y productividad de los animales, los cultivos y los consumidores. Se produce así una regresión en la seguridad alimentaria y el abastecimiento seguro de los europeos.
+categories:
+- Agricultura
+- Ganadería
+- Medioambiente
+topics:
+- name: Seguridad alimentaria
+  position_positive: null
+- name: Uso de fitosanitarios
+  position_positive:
+  - text: permite a los agricultores y ganaderos europeos garantizar la salud y productividad
+- name: Agricultura ecológica
+  position_negative:
+  - text: regresión en la seguridad alimentaria porque la limitación de fitosanitarios (químicos pesticidas) y fertilizantes impiden garantizar la productividad de los cultivos; y la salud de cultivos y consumidores
+- name: Ganadería ecológica
+  position_negative:
+  - text: regresión en la seguridad alimentaria porque la limitación de fitosanitarios (químicos pesticidas),  fertilizantes y antibióticos impiden garantizar la productividad de los animales; y la salud de los animales y consumidores

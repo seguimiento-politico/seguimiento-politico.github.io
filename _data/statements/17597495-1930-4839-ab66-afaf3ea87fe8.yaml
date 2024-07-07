@@ -1,6 +1,6 @@
 id: 17597495-1930-4839-ab66-afaf3ea87fe8
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 268
+parent_chapter: 7260ed69-d02c-48a2-8712-ed039ccddea7
+text: 'En cuanto a la mejora de los servicios consulares en el exterior, además del incremento presupuestario ya realizado, en la próxima legislatura:'
 categories: Política internacional
 topics:
 - Expatriados
 - Consulados
-text: 'En cuanto a la mejora de los servicios consulares en el exterior, además del incremento presupuestario ya realizado, en la próxima legislatura:'

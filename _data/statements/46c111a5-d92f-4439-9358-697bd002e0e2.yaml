@@ -1,6 +1,6 @@
 id: 46c111a5-d92f-4439-9358-697bd002e0e2
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 46
+parent_chapter: 0de871a0-5319-40e9-8662-5ef7c35d2626
+text: Apostamos por la nueva fiscalidad verde como mecanismo para desincentivar comportamientos nocivos para el medioambiente, evitando siempre que cualquier modificación recaiga sobre las clases medias y trabajadoras o sobre autónomos y PYMES. Promoveremos a nivel europeo el establecimiento de un mecanismo de compensación del CO 2 en frontera para las importaciones.
 categories: Impuestos y financiación fiscal
 topics: Distribución fiscal
-text: Apostamos por la nueva fiscalidad verde como mecanismo para desincentivar comportamientos nocivos para el medioambiente, evitando siempre que cualquier modificación recaiga sobre las clases medias y trabajadoras o sobre autónomos y PYMES. Promoveremos a nivel europeo el establecimiento de un mecanismo de compensación del CO 2 en frontera para las importaciones.

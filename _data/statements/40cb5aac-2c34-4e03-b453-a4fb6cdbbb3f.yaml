@@ -1,7 +1,6 @@
 id: 40cb5aac-2c34-4e03-b453-a4fb6cdbbb3f
 type: promise
-parent_statement: aaa7cea1-e383-432f-a3fa-b3871b2a0ecb
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Educación
+parent_statement: aaa7cea1-e383-432f-a3fa-b3871b2a0ecb
+parent_chapter: c1ead426-cec8-44d6-a73a-d98f9059e1db
 text: y también deben servir para incorporar de manera efectiva la educación en una alimentación saludable y sostenible y para la minimización de la precariedad vital de este colectivo.
+categories: Educación

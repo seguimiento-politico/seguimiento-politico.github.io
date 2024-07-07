@@ -1,6 +1,6 @@
 id: ece2815d-26fc-40c2-bf9c-950e80fd4f13
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 203
+parent_chapter: 9df1cf73-adc1-4910-a99e-228a64a24049
+text: Reforzaremos la línea 024, incrementando el número de profesionales.
 categories: Sanidad
 topics: Salud mental
-text: Reforzaremos la línea 024, incrementando el número de profesionales.

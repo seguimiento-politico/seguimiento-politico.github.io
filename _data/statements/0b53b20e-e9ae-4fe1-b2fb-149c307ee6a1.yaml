@@ -1,7 +1,6 @@
 id: 0b53b20e-e9ae-4fe1-b2fb-149c307ee6a1
-type: declaration
-parent_statement: 609ff093-3fee-47ec-b36b-574150de3b3d
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Administración pública
+parent_statement: 609ff093-3fee-47ec-b36b-574150de3b3d
+parent_chapter: f4f32036-0cfd-4ca9-b6f3-5cfec1c58526
 text: La Administración pública necesita un amplio proceso de reformas para conseguir mejorar la atención y los servicios que presta a la ciudadanía española.
+categories: Administración pública

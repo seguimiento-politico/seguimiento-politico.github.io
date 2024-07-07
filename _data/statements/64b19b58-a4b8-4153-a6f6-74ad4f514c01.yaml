@@ -1,7 +1,6 @@
 id: 64b19b58-a4b8-4153-a6f6-74ad4f514c01
 type: promise
-parent_statement: 10114bea-5e0a-4660-9454-b8daa63df9f6
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: 10114bea-5e0a-4660-9454-b8daa63df9f6
+parent_chapter: 0a1e6e60-ac39-48f2-8625-e9e72733c9da
+text: Vamos a continuar apoyando a las empresas españolas en su proceso de internacionalización, para afrontar las dificultades que plantea un contexto económico internacional tan incierto. Para hacer frente a estos retos, las empresas españolas podrán apoyarse en una economía más abierta, competitiva y diversificada que en el pasado.
 categories: Comercio
 topics: comercio exterior
-text: Vamos a continuar apoyando a las empresas españolas en su proceso de internacionalización, para afrontar las dificultades que plantea un contexto económico internacional tan incierto. Para hacer frente a estos retos, las empresas españolas podrán apoyarse en una economía más abierta, competitiva y diversificada que en el pasado.

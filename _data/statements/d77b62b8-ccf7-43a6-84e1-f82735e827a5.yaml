@@ -1,7 +1,6 @@
 id: d77b62b8-ccf7-43a6-84e1-f82735e827a5
 type: promise
-parent_statement: 9f52139c-df60-4280-b7d4-8484d3dd77ba
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: 9f52139c-df60-4280-b7d4-8484d3dd77ba
+parent_chapter: 67d02a39-a3aa-4e05-9637-8576421fb382
+text: Aprobaremos la Ley Integral de Impulso de la Economía Social, a través del dialogo con las entidades representativas de las familias de la economía social, para la modernización y adecuación de las leyes 5/2011 de economía social, 27/1999 de cooperativas, 44/2007 de empresas de inserción y 44/2015, de Sociedades Laborales y Participadas.
 categories: Economía
 topics: Economía social
-text: Aprobaremos la Ley Integral de Impulso de la Economía Social, a través del dialogo con las entidades representativas de las familias de la economía social, para la modernización y adecuación de las leyes 5/2011 de economía social, 27/1999 de cooperativas, 44/2007 de empresas de inserción y 44/2015, de Sociedades Laborales y Participadas.

@@ -1,6 +1,6 @@
 id: 3d2065cb-8c0b-477d-a772-e934accac524
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 63
-categories: Derechos y servicios sociales
+parent_chapter: d8e47013-d4f2-4ad6-a46d-2514ab7cb432
 text: Tanto el gobierno de Sánchez como las agendas globalistas que suscribe, como la Agenda 2030, están persistiendo en las mismas recetas fallidas para combatir la desigualdad social, provocando que la brecha entre los más necesitados y las élites se haga más profunda. Fomento de la inmigración ilegal, priorizar la promoción de ideologías sectarias sobre las necesidades materiales de los trabajadores, aumento de la presión fiscal y normativa vinculada al ecologismo radical son algunas de las políticas globalistas que Sánchez ha aplicado en esta legislatura.
+categories: Derechos y servicios sociales

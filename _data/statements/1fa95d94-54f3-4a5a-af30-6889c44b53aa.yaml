@@ -1,6 +1,6 @@
 id: 1fa95d94-54f3-4a5a-af30-6889c44b53aa
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 184
+parent_chapter: ac9d21f1-b8e9-4bce-b522-29f0547c27c8
+text: Reforzar la participación infantil mediante el impulso y apoyo de consejos de participación locales y autonómicos.
 categories: Democracia
 topics:
 - Infancia
 - Participación ciudadana
-text: Reforzar la participación infantil mediante el impulso y apoyo de consejos de participación locales y autonómicos.

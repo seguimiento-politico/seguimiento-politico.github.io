@@ -1,6 +1,6 @@
 id: fd6a61e2-a8c5-4518-a658-d72284dd176e
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 119
+parent_chapter: b82b7f57-da6b-4fd4-8a55-f1773ebd9608
+children_promises:
+- 35352f2c-84bd-46f8-aac8-a9b9ed57e86e
+- 8675b3a3-094b-4c49-8d17-5219f9e0403d
+- dfad515e-0bf5-4413-a8c6-339b04bf4003
+- 5235c283-9d61-4ebd-b5d6-e2ccedb9e123
+children_statements: []
+title: Personas, personas y más personas.
 categories: Democracia
 topics: Administración pública
-title: Personas, personas y más personas.
-has_children: true

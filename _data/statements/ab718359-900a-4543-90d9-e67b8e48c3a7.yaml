@@ -1,6 +1,6 @@
 id: ab718359-900a-4543-90d9-e67b8e48c3a7
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 109
-categories: Educación
+parent_chapter: f8b8dc7c-a875-4b6c-b014-8ecfbc567fb4
 text: Crearemos el Observatorio de la Equidad Educativa con el objetivo de dotar al sistema educativo de un instrumento de análisis, seguimiento y evaluación de la equidad educativa a fin de medir y conocer el estado de la equidad en cada una de las enseñanzas, así como el impacto que para conseguir dicho objetivo tienen las becas y ayudas al estudio y los programas de las administraciones educativas que favorecen la equidad y la escolarización equilibrada.
+categories: Educación

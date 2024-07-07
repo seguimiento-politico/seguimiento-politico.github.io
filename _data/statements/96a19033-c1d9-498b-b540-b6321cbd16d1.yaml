@@ -1,7 +1,6 @@
 id: 96a19033-c1d9-498b-b540-b6321cbd16d1
 type: promise
-parent_statement: b125844d-628d-4c8c-97f4-014012d07e4f
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,8 +8,10 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: b125844d-628d-4c8c-97f4-014012d07e4f
+parent_chapter: 1d2802d7-3c25-4a37-96cf-85b8e7ed4986
+text: Para ello, todos los sectores de la comunidad educativa deben participar de manera equilibrada en la elección y composición de los órganos de gobierno de los centros.
 categories: Educación
 topics:
 - Igualdad
 - Inclusión
-text: Para ello, todos los sectores de la comunidad educativa deben participar de manera equilibrada en la elección y composición de los órganos de gobierno de los centros.

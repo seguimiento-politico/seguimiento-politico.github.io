@@ -1,6 +1,6 @@
 id: 4c50bb92-b069-4db3-b065-69d8ab454720
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,7 +10,8 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 38
-categories: Derechos y servicios sociales
-topics: Igualdad
+parent_chapter: a8d92f12-ec43-40d7-a048-97faa73e2d17
 title: Pornografía
 text: Perseguiremos la trata y explotación sexual, especialmente de menores y los protegeremos de la creación, difusión y exposición de pornografía. Asimismo, impulsaremos una protección reforzada de los menores para evitar el acceso a la pornografía, sujeta a las medidas más estrictas en línea con la nueva normativa audiovisual del Parlamento Europeo.
+categories: Derechos y servicios sociales
+topics: Igualdad

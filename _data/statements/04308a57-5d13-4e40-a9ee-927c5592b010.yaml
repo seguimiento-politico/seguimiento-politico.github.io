@@ -1,6 +1,6 @@
 id: 04308a57-5d13-4e40-a9ee-927c5592b010
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 33
-categories: Democracia
+parent_chapter: 89375858-99fa-4877-97d3-a329719afd84
 text: Promoveremos acuerdos parlamentarios que permitan la elección y renovación de los órganos constitucionales y organismos independientes, como en el caso del Consejo General del Poder Judicial, el Defensor del Pueblo, la Presidencia del Consejo de Transparencia y Buen Gobierno y el Consejo de Administración de Radiotelevisión Española. Primaremos en la búsqueda de dichos acuerdos la efectividad de los principios de igualdad, paridad de género, mérito, capacidad y prestigio profesional.
+categories: Democracia

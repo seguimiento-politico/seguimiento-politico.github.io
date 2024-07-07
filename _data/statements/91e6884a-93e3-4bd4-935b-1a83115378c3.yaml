@@ -1,6 +1,6 @@
 id: 91e6884a-93e3-4bd4-935b-1a83115378c3
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 47
-categories: Industria
+parent_chapter: 7c79fe71-f119-4b1d-a348-2b181c21b108
+children_promises:
+- 3f343bf2-7a42-477a-b9f3-ecc713d0cf4c
+- 6729523f-07e7-4c76-b3ea-256096fa076e
+- 6d0f8b5d-70ef-4700-aa5f-384077c254bf
+- a2b32134-ca00-4883-85e3-45015aae45cf
+- f11cf01d-af50-4482-88dd-46c26e7c5130
+children_statements: []
 title: Reforma de la Ley del Sector Eléctrico
-has_children: true
+categories: Industria

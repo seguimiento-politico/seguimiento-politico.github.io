@@ -1,7 +1,6 @@
 id: c52f7af4-06ff-4ece-badb-abda4b8158cb
 type: promise
-parent_statement: eab8fcdb-5776-4b26-9493-7e0a8b67bfda
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: eab8fcdb-5776-4b26-9493-7e0a8b67bfda
+parent_chapter: b36e5d9e-ba98-45f0-8911-a0a18af0be33
+text: Una prestación universal por hijo e hija de 200€ al mes. Las prestaciones familiares son uno de los elementos más débiles del Estado del bienestar en España; como consecuencia de ello, padecemos unos índices de pobreza infantil mucho mayores que los de otros países de nuestro entorno. Proponemos unificar las actuales prestaciones por hijo a cargo de la Seguridad Social (a extinguir), el complemento por ayuda a la infancia del IMV y la deducción fiscal por madre trabajadora en una nueva prestación universal por cada hijo e hija menores de 18 años que será de 200€ al mes, en forma de una deducción fiscal o de una prestación que puedan percibir mensualmente todas las familias que cumplan esas condiciones.
 categories: Familia
 topics: Incentivos, ayudas y subvenciones
-text: Una prestación universal por hijo e hija de 200€ al mes. Las prestaciones familiares son uno de los elementos más débiles del Estado del bienestar en España; como consecuencia de ello, padecemos unos índices de pobreza infantil mucho mayores que los de otros países de nuestro entorno. Proponemos unificar las actuales prestaciones por hijo a cargo de la Seguridad Social (a extinguir), el complemento por ayuda a la infancia del IMV y la deducción fiscal por madre trabajadora en una nueva prestación universal por cada hijo e hija menores de 18 años que será de 200€ al mes, en forma de una deducción fiscal o de una prestación que puedan percibir mensualmente todas las familias que cumplan esas condiciones.

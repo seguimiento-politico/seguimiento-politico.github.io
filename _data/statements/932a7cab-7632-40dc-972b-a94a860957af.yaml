@@ -1,6 +1,6 @@
 id: 932a7cab-7632-40dc-972b-a94a860957af
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 195
+parent_chapter: ced8d977-d434-49b6-87c4-034c15ed9756
+text: Poner en marcha servicios de capacitación digital para colectivos en riesgo de exclusión digital, en colaboración con las administraciones autonómicas, locales y el tercer sector de acción social.
 categories: Derechos y servicios sociales
 topics: Digitalización
-text: Poner en marcha servicios de capacitación digital para colectivos en riesgo de exclusión digital, en colaboración con las administraciones autonómicas, locales y el tercer sector de acción social.

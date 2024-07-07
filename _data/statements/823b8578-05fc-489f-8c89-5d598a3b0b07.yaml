@@ -1,7 +1,6 @@
 id: 823b8578-05fc-489f-8c89-5d598a3b0b07
 type: promise
-parent_statement: 4e8104d3-8cc0-4cb0-8514-5100db0efe2f
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,5 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 270
-categories: Seguridad y Defensa
+parent_statement: 4e8104d3-8cc0-4cb0-8514-5100db0efe2f
+parent_chapter: ff200f89-fcf9-409d-908e-4ca3fd75edb8
 text: Impulsaremos la Base Conde de Gazola (León), dotándola de medios e instalaciones para la recién creada Unidad de Drones de la UME (UDRUME). Vamos a realizar una inversión total de unos 40 M€ para drones de altas prestaciones, de equipos de apoyo, mando y control, vehículos y materiales necesarios.
+categories: Seguridad y Defensa

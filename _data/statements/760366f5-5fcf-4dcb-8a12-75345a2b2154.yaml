@@ -1,6 +1,6 @@
 id: 760366f5-5fcf-4dcb-8a12-75345a2b2154
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 47
+parent_chapter: 3ad176d1-1f6b-4cbb-aea4-e397f16166d6
+children_promises:
+- 74d5fcb3-e00e-407a-a730-7ed8d7b9f018
+- b85050d1-1ac0-42ad-8dcc-daecdd1d6bdc
+- cdb47ec4-417e-4495-a920-d4c2657d5d02
+- 002aa679-bf54-4a30-ae58-7de26a2f65f4
+children_statements: []
+title: Estrategia España Potencia Industrial Verde
 categories: Industria
 topics: Desarrollo sostenible
-title: Estrategia España Potencia Industrial Verde
-has_children: true

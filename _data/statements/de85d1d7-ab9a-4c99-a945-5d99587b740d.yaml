@@ -1,7 +1,6 @@
 id: de85d1d7-ab9a-4c99-a945-5d99587b740d
 type: promise
-parent_statement: e9468691-04a5-4199-8581-8118a40bff78
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,8 +8,10 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: e9468691-04a5-4199-8581-8118a40bff78
+parent_chapter: da8738cc-6b40-4ce6-8871-e59f681bc6df
+text: Conseguiremos la plena eliminación de las barreras y de la discriminación que sufren las personas con discapacidad tanto en el acceso a la universidad como en su permanencia en ella, en las transiciones a otras modalidades educativas o en la salida al mercado laboral.
 categories: Educación
 topics:
 - Igualdad
 - Inclusión
-text: Conseguiremos la plena eliminación de las barreras y de la discriminación que sufren las personas con discapacidad tanto en el acceso a la universidad como en su permanencia en ella, en las transiciones a otras modalidades educativas o en la salida al mercado laboral.

@@ -1,7 +1,6 @@
 id: fd7f5c94-23c9-4f90-8983-a47699263bb1
 type: promise
-parent_statement: 93dfe100-5605-4243-ba18-19ef653e383e
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 93dfe100-5605-4243-ba18-19ef653e383e
+parent_chapter: 5fd4a85c-c23d-41fa-af6d-e3a00b507ee7
+text: Coordinación efectiva de las políticas de juventud. Impulsaremos el INJUVE como organismo para el intercambio y fomento de las buenas prácticas en materia de juventud y la Comisión  Interministerial de la Juventud.
 categories: Derechos y servicios sociales
 topics: Juventud
-text: Coordinación efectiva de las políticas de juventud. Impulsaremos el INJUVE como organismo para el intercambio y fomento de las buenas prácticas en materia de juventud y la Comisión  Interministerial de la Juventud.

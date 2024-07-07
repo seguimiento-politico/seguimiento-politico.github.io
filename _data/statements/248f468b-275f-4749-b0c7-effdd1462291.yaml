@@ -1,6 +1,6 @@
 id: 248f468b-275f-4749-b0c7-effdd1462291
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 109
-categories: Educación
+parent_chapter: f8b8dc7c-a875-4b6c-b014-8ecfbc567fb4
 text: Seguiremos reforzando el sistema de becas para que ningún alumno o alumna se vea forzado a renunciar por falta de medios económicos. Aumentaremos la dotación de las becas en algunos conceptos e incorporaremos nuevas becas para colectivos con necesidades específicas, alumnado de centros de 2a oportunidad, alumnado que realice las pruebas de acceso a la universidad (exención de las tasas), y regulación de las cuantías de los distintos componentes de la beca (eliminación de la cuantía variable).
+categories: Educación

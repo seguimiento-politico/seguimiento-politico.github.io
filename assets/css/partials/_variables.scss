@@ -1,3 +1,137 @@
 
 $layout-breakpoint-min: 768px;
 $layout-breakpoint-max: 991.98px;
+
+$white:    #fff;
+$gray-100: #f8f9fa;
+$gray-200: #e9ecef;
+$gray-300: #dee2e6;
+$gray-400: #ced4da;
+$gray-500: #adb5bd;
+$gray-600: #6c757d;
+$gray-700: #495057;
+$gray-800: #343a40;
+$gray-900: #212529;
+$black:    #000;
+
+$blue-100: #a8cbfe; 
+$blue-200: #81b4fe; 
+$blue-300: #5a9cfe; 
+$blue-400: #3485fd; 
+$blue-500: #0d6efd; 
+$blue-600: #0b5cd5; 
+$blue-700: #094bac; 
+$blue-800: #073984; 
+$blue-900: #05285b; 
+
+$indigo-100: #c8a9fa; 
+$indigo-200: #af83f8; 
+$indigo-300: #975cf6; 
+$indigo-400: #7e36f4; 
+$indigo-500: #6610f2; 
+$indigo-600: #560dcb; 
+$indigo-700: #450ba5; 
+$indigo-800: #35087e; 
+$indigo-900: #250657; 
+
+$purple-100: #cbbbe9; 
+$purple-200: #b49ddf; 
+$purple-300: #9d7ed5; 
+$purple-400: #8660cb; 
+$purple-500: #6f42c1; 
+$purple-600: #5d37a2; 
+$purple-700: #4b2d83; 
+$purple-800: #3a2264; 
+$purple-900: #281845; 
+
+$pink-100: #f0b6d3; 
+$pink-200: #ea95bf; 
+$pink-300: #e374ab; 
+$pink-400: #dd5498; 
+$pink-500: #d63384; 
+$pink-600: #b42b6f; 
+$pink-700: #92235a; 
+$pink-800: #6f1b45; 
+$pink-900: #4d1230; 
+
+$red-100: #f2b6bc; 
+$red-200: #ed969e; 
+$red-300: #e77681; 
+$red-400: #e25563; 
+$red-500: #dc3545; 
+$red-600: #b92d3a; 
+$red-700: #96242f; 
+$red-800: #721c24; 
+$red-900: #4f1319; 
+
+$orange-100: #fed1aa; 
+$orange-200: #febc85; 
+$orange-300: #fea75f; 
+$orange-400: #fd933a; 
+$orange-500: #fd7e14; 
+$orange-600: #d56a11; 
+$orange-700: #ac560e; 
+$orange-800: #84420a; 
+$orange-900: #5b2d07; 
+
+$yellow-100: #ffe9a6; 
+$yellow-200: #ffdf7e; 
+$yellow-300: #ffd556; 
+$yellow-400: #ffcb2f; 
+$yellow-500: #ffc107; 
+$yellow-600: #d6a206; 
+$yellow-700: #ad8305; 
+$yellow-800: #856404; 
+$yellow-900: #5c4503; 
+
+$green-100: #b2dfbc; 
+$green-200: #8fd19e; 
+$green-300: #6dc381; 
+$green-400: #4ab563;
+$green-500: #28a745;
+$green-600: #228c3a;
+$green-700: #1b722f;
+$green-800: #155724;
+$green-900: #0e3c19;
+
+$teal-100: #afecda;
+$teal-200: #8be3c9;
+$teal-300: #67dab8;
+$teal-400: #44d2a8;
+$teal-500: #20c997;
+$teal-600: #1ba97f;
+$teal-700: #168967;
+$teal-800: #11694f;
+$teal-900: #0c4836;
+
+$cyan-100: #abdee5;
+$cyan-200: #86cfda;
+$cyan-300: #61c0cf;
+$cyan-400: #3cb1c3;
+$cyan-500: #17a2b8;
+$cyan-600: #13889b;
+$cyan-700: #106e7d;
+$cyan-800: #0c5460;
+$cyan-900: #083a42;
+
+$blue:    $blue-500;
+$indigo:  $indigo-500;
+$purple:  $purple-500;
+$pink:    $pink-500;
+$red:     $red-500;
+$orange:  $orange-500;
+$yellow:  $yellow-500;
+$green:   $green-500;
+$teal:    $teal-500;
+$cyan:    $cyan-500;
+
+$primary:       $blue;
+$secondary:     $gray-600;
+$success:       $green;
+$info:          $cyan;
+$warning:       $yellow;
+$danger:        $red;
+$light:         $gray-100;
+$dark:          $gray-900;
+
+

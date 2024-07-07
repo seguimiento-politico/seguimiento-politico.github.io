@@ -1,6 +1,6 @@
 id: 99a2d065-4563-4750-8a9b-d45517c108d7
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 46
-categories: Sanidad
+parent_chapter: 5c8d94eb-aad0-4b93-8408-511875a0e54f
 text: IMPULSAREMOS UNA LEY DE PUBLICIDAD DE PRESTACIONES Y ACTIVIDADES SANITARIAS destinada tanto al conjunto de los ciudadanos como a los profesionales sanitarios, para garantizar que la objetividad, la veracidad y la base científica están presentes en toda comunicación que se realice en nuestro país para propiciar la contratación de cualquier actividad y prestación sanitaria.
+categories: Sanidad

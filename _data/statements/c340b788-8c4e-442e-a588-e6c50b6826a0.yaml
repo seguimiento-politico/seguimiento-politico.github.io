@@ -1,7 +1,6 @@
 id: c340b788-8c4e-442e-a588-e6c50b6826a0
-type: declaration
-parent_statement: 3d80162d-d05b-4081-89a2-ec70a36d561d
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Derechos y servicios sociales
+parent_statement: 3d80162d-d05b-4081-89a2-ec70a36d561d
+parent_chapter: 6bea7d15-32ea-402e-8fad-42663ddea615
 text: El Ingreso Mínimo Vital (IMV) ha sido un avance muy importante y vamos a conseguir que sea una verdadera garantía de ingreso para toda la ciudadanía.
+categories: Derechos y servicios sociales

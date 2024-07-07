@@ -1,6 +1,6 @@
 id: e1cf2b7b-6469-4835-901c-dd31a53f469f
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 248
+parent_chapter: 6dc5250e-51d3-4aba-9bdc-2dbe32e1afb9
+text: Promoveremos la aprobación inmediata de la Ley de Derecho de Defensa.
 categories: Justicia
 topics: Modernización
-text: Promoveremos la aprobación inmediata de la Ley de Derecho de Defensa.

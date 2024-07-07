@@ -1,7 +1,6 @@
 id: 76779397-f752-4d39-9388-7d85210688cf
 type: promise
-parent_statement: 6efba56c-e45e-4525-a7ad-be20f700bc95
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: 6efba56c-e45e-4525-a7ad-be20f700bc95
+parent_chapter: a032ad89-ff94-4e43-a3b0-dfbbc59e0d4a
+text: Pondremos en marcha medidas de acompañamiento a los trabajadores y las trabajadoras que puedan verse afectados por el desarrollo de la inteligencia artificial, para la adopción de competencias digitales de reconversión digital y adaptación a las nuevas realidades laborales.
 categories: Derechos y servicios sociales
 topics: Digitalización
-text: Pondremos en marcha medidas de acompañamiento a los trabajadores y las trabajadoras que puedan verse afectados por el desarrollo de la inteligencia artificial, para la adopción de competencias digitales de reconversión digital y adaptación a las nuevas realidades laborales.

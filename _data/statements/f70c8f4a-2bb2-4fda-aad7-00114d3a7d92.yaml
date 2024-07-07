@@ -1,6 +1,6 @@
 id: f70c8f4a-2bb2-4fda-aad7-00114d3a7d92
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 178
+parent_chapter: afca3e4a-d9b5-41f5-8544-5899bb9425e5
+text: Fomentar el voluntariado para y entre las personas mayores.
 categories: Derechos y servicios sociales
 topics: Mayores
-text: Fomentar el voluntariado para y entre las personas mayores.

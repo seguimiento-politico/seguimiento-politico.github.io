@@ -1,6 +1,6 @@
 id: 8b328a61-9fec-4f90-a86c-4f56e9cf2c1e
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 18
-categories: Vivienda
+parent_chapter: 76e1c51f-5c84-4bf0-9fab-26b71a97cfdc
 title: Frenaremos las subidas abusivas del alquiler. <br>Para ello:<br> -Se impulsarán las medidas normativas necesarias para poner techo a las subidas abusivas de precios de alquiler en determinadas zonas de mercado tensionado. Se habilitará a las comunidades autónomas y/o ayuntamientos para que a partir del Sistema Estatal de Índices de Referencia de Precios del Alquiler de Vivienda que está  desarrollando el Ministerio de Fomento puedan establecer su índice de precios de acuerdo a una metodología objetiva y sujeto a revisión periódica. Se tomarán en cuenta los avances de aquellas comunidades autónomas que tengan definido un sistema Referencia de Precios del Alquiler, agilizando los mecanismos que hagan posible su puesta en marcha. <br> -Los ayuntamientos que así lo consideren podrán declarar de forma objetiva y fundamentada en criterios técnicos, con carácter temporal y excepcionalmente, una zona urbana de mercado tensionado cuando se haya producido un incremento abusivo y sostenido de las rentas de alquiler de vivienda habitual, que obstaculice a sus habitantes el acceso y el disfrute de una vivienda a un precio razonable, y, con ello, el ejercicio del derecho a una vivienda. <br> -El objetivo de los índices de referencia mencionado en los párrafos anteriores es que los ayuntamientos y/o comunidades autónomas que así lo consideren puedan regular las subidas abusivas del precio del alquiler en las zonas previamente declaradas tensionadas y a la vez evitar posibles efectos de contracción de la oferta de vivienda en alquiler.
+categories: Vivienda

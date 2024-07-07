@@ -1,6 +1,6 @@
 id: 785a2bc9-75e9-4956-b7c0-60aca57b708d
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 10
-categories: Educación
+parent_chapter: 4cc9eb95-7c33-470b-bb2f-7ed39176baa9
 text: La educación y la formación, las instituciones educativas y sus actores se insertarán activamente en la agenda de digitalización que promoverá el Gobierno. Para ello vamos a desarrollar en estos próximos años una Estrategia de Digitalización en Educación y Formación Profesional ambiciosa.
+categories: Educación

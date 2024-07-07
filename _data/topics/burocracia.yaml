@@ -1,0 +1,51 @@
+name: Burocracia
+other:
+- &id001
+  id: 3d9091e8-1306-4cc0-b9ec-a71c26872167
+  parties:
+  - CIUDADANOS
+- &id004
+  id: 470d7ed9-d739-4f08-8563-ee7883a350ba
+  parties:
+  - VOX
+- &id005
+  id: db2d4bf3-d7d9-4dfb-9b43-9a0063c89037
+  parties:
+  - VOX
+- &id006
+  id: b189caa3-2294-4546-826d-a7e2eb489226
+  parties:
+  - VOX
+- &id007
+  id: 29a170e0-86bf-4e43-b41f-ff90dc291bc5
+  parties:
+  - VOX
+other_count: 5
+position_negative:
+- &id002
+  id: f65a3147-b891-471f-af38-4c0f0bed1262
+  parties:
+  - VOX
+- &id003
+  id: 6e2ca434-d940-4345-8ff2-2ce6fd032a77
+  parties:
+  - VOX
+position_negative_count: 2
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+statements_count: 7
+status_quo_negative:
+- *id002
+status_quo_negative_count: 1
+status_quo_positive: []
+status_quo_positive_count: 0

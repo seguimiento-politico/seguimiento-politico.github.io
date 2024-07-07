@@ -1,6 +1,6 @@
 id: ea151025-9b1a-4140-b787-479ff3b35d90
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 128
+parent_chapter: a7853898-5bb1-4a7c-8910-f570fc691c52
+text: Firmaremos acuerdos bilaterales con terceros países para que los presos extranjeros cumplan las penas que les han sido impuestas en sus estados de origen.
 categories:
 - Justicia
-text: Firmaremos acuerdos bilaterales con terceros países para que los presos extranjeros cumplan las penas que les han sido impuestas en sus estados de origen.

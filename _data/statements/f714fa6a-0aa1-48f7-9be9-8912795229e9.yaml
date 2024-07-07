@@ -1,6 +1,6 @@
 id: f714fa6a-0aa1-48f7-9be9-8912795229e9
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,9 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 89
+parent_chapter: a166d84d-0ba4-4fa2-9e47-69b6c7805f22
+text: Es necesario continuar desarrollando e integrando en las políticas ambientales medidas de protección y adaptación frente a los riesgos derivados del cambio climático, paliando sus consecuencias y aumentando nuestra prevención y preparación ante fenómenos extremos, como sequías, inundaciones o incendios.
 categories: Medioambiente
 topics:
 - Cambio climático
 - Gestión de riesgos
 - Incendios
-text: Es necesario continuar desarrollando e integrando en las políticas ambientales medidas de protección y adaptación frente a los riesgos derivados del cambio climático, paliando sus consecuencias y aumentando nuestra prevención y preparación ante fenómenos extremos, como sequías, inundaciones o incendios.

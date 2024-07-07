@@ -1,7 +1,6 @@
 id: 18e3c44c-7909-4276-bbd9-a9414b9e4881
 type: promise
-parent_statement: 9ee370ee-9dbd-448d-a5b0-ef5db0b7e4c6
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Trabajo
+parent_statement: 9ee370ee-9dbd-448d-a5b0-ef5db0b7e4c6
+parent_chapter: 89ad30e0-548c-47cd-a92a-62d44e2dbb0f
 text: Reforzaremos las garantías de las personas trabajadoras en las modificaciones sustanciales de las condiciones de trabajo y en los descuelgues. Revisaremos las causas para que solo en situacio nes que afecten a la viabilidad de la empresa se pueda recurrir a estos procedimientos, que deberán ser negociados, dando prioridad a la negociación con las organizaciones sindicales y garantizando el carácter reversible de las medidas adoptadas.
+categories: Trabajo

@@ -1,6 +1,6 @@
 id: b577e81d-9b9b-49f2-b59e-94158864a74c
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 145
+parent_chapter: 46f86e67-8c84-4e9a-b4fc-edce6fe582f3
+text: Plantearemos medidas para familias monoparentales, encabezadas en más de un 82% por mujeres, como la consideración de familia numerosa.
 categories: Derechos y servicios sociales
 topics: Cuidados
-text: Plantearemos medidas para familias monoparentales, encabezadas en más de un 82% por mujeres, como la consideración de familia numerosa.

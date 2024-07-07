@@ -1,6 +1,6 @@
 id: a9922dd3-a75b-419e-9c93-5ff31d81893d
-type: declaration
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,7 +8,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 11
+parent_chapter: 49a1f009-be5a-4a44-ac48-45c1f040a528
+children_promises: []
+children_statements:
+- cad2d375-e7fb-4199-b975-da41f7663ca0
+- 2282a5e3-bbeb-45a4-bdb1-9876a673ad41
+- f02d5cb9-0cde-4a63-9317-0737e1e32b41
+title: CRECER PARA CREAR EMPLEO Y OPORTUNIDADES PARA TODOS
 categories: Economía
 topics: Desarrollo sostenible
-title: CRECER PARA CREAR EMPLEO Y OPORTUNIDADES PARA TODOS
-has_children: true

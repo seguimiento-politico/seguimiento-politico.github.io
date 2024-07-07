@@ -1,6 +1,6 @@
 id: 936bee3f-45c4-498b-b473-667f70859841
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 231
-categories: Democracia
+parent_chapter: dbcc7ee6-627f-4108-bcf4-9b0b69036063
 text: Estableceremos un sistema de interrelación de la Conferencia de Presidentes con las Conferencias Sectoriales. Se trata de configurar un ecosistema de relaciones de colaboración donde todas las piezas se articulen y retroalimenten.<br>Esta vinculación podrá llevarse a cabo a través de diferentes instrumentos, como planes estratégicos a aprobar en el seno de las Conferencias Sectoriales y un plan general y global aprobado por la Conferencia de Presidentes.
+categories: Democracia

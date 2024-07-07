@@ -1,12 +1,13 @@
 id: 7b7771eb-4ff6-488c-b224-4de7760f5096
 type: promise
-parent_statement: d21326a7-b6b5-4c0b-80fe-c5752673dcf9
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 40
-categories: Sanidad
+parent_statement: d21326a7-b6b5-4c0b-80fe-c5752673dcf9
+parent_chapter: dcb6b10d-0b49-4143-9511-53be3f00f338
 text: Coordinados con los colegios profesionales, desarrollaremos planes para la mejora de la seguridad de los profesionales en las consultas, para prevenir y evitar agresiones, agilizar la respuesta de las Fuerzas y Cuerpos de Seguridad del Estado y sensibilizar a la sociedad sobre esta materia.
+categories: Sanidad

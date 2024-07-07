@@ -1,7 +1,6 @@
 id: 4dc31c3e-77a1-4ad8-8ab5-7b5ba23e7704
 type: promise
-parent_statement: 6220a3c1-aeb2-4b95-b270-cdb2f7e0985f
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Industria
+parent_statement: 6220a3c1-aeb2-4b95-b270-cdb2f7e0985f
+parent_chapter: 52ae8dc4-28e9-4398-8226-2aed999f465f
 text: 'Estas pasan por nuestro enorme potencial en el ámbito energético, con el despliegue de energías renovables, así como por la ubicación estratégica de nuestro país: entre la UE y el Norte de África y entre el Atlántico y el Mediterráneo. Porque, al mismo tiempo que modernizamos nuestra industria convencional, estamos impulsando la nueva industria del futuro.'
+categories: Industria

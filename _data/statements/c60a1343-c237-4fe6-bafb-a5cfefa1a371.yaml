@@ -1,6 +1,6 @@
 id: c60a1343-c237-4fe6-bafb-a5cfefa1a371
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 95
+parent_chapter: 4b1a1fd6-83f2-4e8c-a775-7e65f72f50be
 title: Tomar en serio la salud mental.
 text: Nuestro sistema ha desatendido casi por completo la salud mental y ha trasladado la responsabilidad de la atención y la prevención a las familias y personas allegadas Es el momento de construir un verdadero sistema de atención a la salud mental con financiación suficiente, tal como diseñamos en nuestra proposición de ley en el Congreso, con un enfoque de género y derechos humanos, y iycon un protocolo especial para prevenir el suicidio entre los y las pacientes

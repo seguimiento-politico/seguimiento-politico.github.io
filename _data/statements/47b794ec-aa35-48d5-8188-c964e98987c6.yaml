@@ -1,6 +1,6 @@
 id: 47b794ec-aa35-48d5-8188-c964e98987c6
-type: declaration
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+type: statement
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 16
+parent_chapter: b8550311-badb-44f7-aafe-46f10435e0b1
 text: 'Ahora es la hora de la verdad. Ahora es el momento de analizar las propuestas de cada partido y de responder a las preguntas que se plantean: qué partido puede contribuir mejor a unir España en un proyecto de progreso y qué presidente puede liderar esas transformaciones.'

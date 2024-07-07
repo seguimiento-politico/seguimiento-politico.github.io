@@ -1,0 +1,45 @@
+name: Uso de fitosanitarios
+other:
+- &id002
+  id: e6c2c1f9-7b27-4e4f-aec8-4b33b4c37c00
+  parties:
+  - VOX
+- &id003
+  id: 6e2ca434-d940-4345-8ff2-2ce6fd032a77
+  parties:
+  - VOX
+- &id004
+  id: c5037752-555c-4e4c-86ae-57a00f2380a8
+  parties:
+  - VOX
+- &id006
+  id: 61eee15c-ce26-4f1c-b1e2-53a7290020ef
+  parties:
+  - VOX
+other_count: 4
+position_negative: []
+position_negative_count: 0
+position_positive:
+- &id001
+  id: 1d2e274a-7053-474c-b482-90291c176818
+  parties:
+  - VOX
+position_positive_count: 1
+proposed_actions:
+- &id005
+  id: 2ed91718-a78d-4e5c-bd6a-400cd785b9ef
+  parties:
+  - VOX
+proposed_actions_count: 1
+statements:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+statements_count: 6
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

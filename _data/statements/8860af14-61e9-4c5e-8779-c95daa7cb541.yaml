@@ -1,6 +1,6 @@
 id: 8860af14-61e9-4c5e-8779-c95daa7cb541
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 97
+parent_chapter: 4fe46944-0f46-4f98-9104-263df3e50fda
+text: Fomentaremos los laboratorios de innovación rural para promover la participación de jóvenes del sector agroalimentario y el medio rural en iniciativas innovadoras.
 categories: Territorio rural
 topics: Juventud
-text: Fomentaremos los laboratorios de innovación rural para promover la participación de jóvenes del sector agroalimentario y el medio rural en iniciativas innovadoras.

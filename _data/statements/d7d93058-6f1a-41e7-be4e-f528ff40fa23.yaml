@@ -1,6 +1,6 @@
 id: d7d93058-6f1a-41e7-be4e-f528ff40fa23
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 117
+parent_chapter: d59fe7bc-7318-4c18-a232-113ef256f4dd
+children_promises:
+- a16b5ae9-551e-4b68-928c-3caf690cdc12
+- 4e6bfdb0-1e16-4033-9fa9-b168c41e2115
+children_statements:
+- 8d2c1dab-a4b0-42d4-8063-ca627a47a58e
+title: 'La ciudadanía es el pilar de la democracia: educación, educación y educación.'
 categories: Democracia
 topics: Participación ciudadana
-title: 'La ciudadanía es el pilar de la democracia: educación, educación y educación.'
-has_children: true

@@ -1,6 +1,6 @@
 id: ab387a87-ac25-45e9-9fbd-1c4263b84b4c
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 55
+parent_chapter: a1dfe650-2088-4c4e-94c1-8c745c016ac2
+text: PRESTAREMOS ESPECIAL ATENCIÓN a la escolarización de niños y adolescentes de etnia gitana, así como a su abandono temprano de los estudios. Promoveremos la integración plena de la comunidad gitana mediante programas de eliminación de estereotipos, la plena integración social y la inclusión sociolaboral.
 categories: Derechos y servicios sociales
 topics: Infancia y juventud
-text: PRESTAREMOS ESPECIAL ATENCIÓN a la escolarización de niños y adolescentes de etnia gitana, así como a su abandono temprano de los estudios. Promoveremos la integración plena de la comunidad gitana mediante programas de eliminación de estereotipos, la plena integración social y la inclusión sociolaboral.

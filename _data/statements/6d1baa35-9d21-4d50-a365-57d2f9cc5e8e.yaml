@@ -1,6 +1,6 @@
 id: 6d1baa35-9d21-4d50-a365-57d2f9cc5e8e
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 14
+parent_chapter: 25c761ac-89ea-4a48-aa96-21ab2cc69c63
+children_promises:
+- 1240eaf0-ba32-4a66-8868-b6667b306ec8
+- 1ccc64f2-5a3d-482c-8a33-9a7c65d11644
+- b5af72d1-89ec-4bd5-afd9-892a08170dab
+children_statements: []
+title: Una concepción integral de la Sanidad.
 categories:
 - Sanidad
-title: Una concepción integral de la Sanidad.
-has_children: true

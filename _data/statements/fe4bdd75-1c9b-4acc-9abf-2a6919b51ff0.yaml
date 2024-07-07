@@ -1,6 +1,6 @@
 id: fe4bdd75-1c9b-4acc-9abf-2a6919b51ff0
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 79
-categories: Impuestos y financiación pública
+parent_chapter: ec3e397c-bf4a-4692-a06e-58f507cee1f8
 text: Promocionaremos el sector primario y la actividad económica propia de las zonas rurales mediante la rebaja acelerada de impuestos para las nuevas explotaciones agrarias y las heredadas.
+categories: Impuestos y financiación pública

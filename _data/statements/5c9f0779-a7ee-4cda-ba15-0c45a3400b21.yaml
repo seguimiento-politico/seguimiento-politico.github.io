@@ -1,6 +1,6 @@
 id: 5c9f0779-a7ee-4cda-ba15-0c45a3400b21
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,8 +9,17 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 165
+parent_chapter: 74598371-68ef-4270-bd2d-a2eb641d0378
+children_promises:
+- b0bcf03e-0ebe-4972-8804-d9aec775e5b4
+- 2bf0923b-eaf7-459a-b29f-3c18654c0b5e
+- d3100d13-7714-47ab-9eda-2e697d6aa50e
+- b4bd8725-2c8d-4887-8bd5-92d078f8d83d
+- 936771b5-0a1f-4479-b9fb-c77c472cb12a
+- e88fd4a3-7581-4b14-b9c7-33295474ff4c
+- 2427ebee-5bdd-4fdf-841d-76376ec30779
+children_statements: []
+title: Cuidado de las personas dedicadas a la ciencia a través de un estatuto del personal de investigación
 categories:
 - Ciencia y tecnología
 - Trabajo
-title: Cuidado de las personas dedicadas a la ciencia a través de un estatuto del personal de investigación
-has_children: true

@@ -1,6 +1,6 @@
 id: 863b9ed8-d0a7-4d07-87dd-03f8f0784bc8
-type: declaration
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 85
-categories: Derechos y servicios sociales
+parent_chapter: bf2e9039-90a2-45d4-9adb-714dea29c151
 title: UNOS SERVICIOS PÚBLICOS AL SERVICIO DE LOS ESPAÑOLES
 text: Los españoles necesitan una Administración moderna, accesible, ágil y eficaz, al servicio del bienestar de los españoles y que incremente la calidad de nuestra democracia. Los recursos públicos deben estar a disposición de los ciudadanos, no para uso exclusivo del Gobierno. En el Partido Popular tenemos claro que el dinero público sí tiene dueño, los contribuyentes. Es imprescindible pues poner al ciudadano en el centro de las preocupaciones de la Administración. Es necesario que sus derechos reconocidos se materialicen. Y con este Gobierno no ha sido así.
+categories: Derechos y servicios sociales

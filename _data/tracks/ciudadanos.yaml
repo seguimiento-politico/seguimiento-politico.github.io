@@ -1,0 +1,30 @@
+# variables depending on scope:
+# supranational -> organization + institution, 
+# national-> country + institution, 
+# regional-> country + region + institution  or 
+# local-> country + region + locality + institution
+
+draft: false 
+name: ciudadanos
+group_by: party
+party: CIUDADANOS
+from: '2019-11-10'
+scope: national
+country: spain 
+institution: congreso
+nature: politics
+items_type: promise # statements (promises + statements), promise, statement
+items_by: party #party, politician
+lang: es
+
+context:
+    name: Historico de propuestas
+    description: Control sobre el grado de cumplimiento de los compromisos electorales de los partidos políticos y congresistas.
+    election_type: generales 
+    from: "2019-11-10"
+    to: "2023-07-22"
+    goverment_type: coalition
+    goverment_parties: [VOX]
+    sources:
+        - https://www.lamoncloa.gob.es/gobierno/gobiernosporlegislaturas/Paginas/xiv_legislatura.aspx
+        - https://www.congreso.es/indice-de-iniciativas

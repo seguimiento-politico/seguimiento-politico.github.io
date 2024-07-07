@@ -1,6 +1,6 @@
 id: 0991b4b1-5ed3-41bd-8921-d4e0ded614a9
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 18
-categories: Sanidad
+parent_chapter: 76f5a4bd-043f-422d-98a0-fecfe8c46fdf
 text: Exigir la reforma en profundidad de la OMS para que sea realmente un mecanismo de coordinación y apoyo científico a los Estados miembros y deje de actuar según las órdenes de la dictadura China, como ha ocurrido en la investigación del origen del virus de Wuhan.
+categories: Sanidad

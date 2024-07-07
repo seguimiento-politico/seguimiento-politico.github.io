@@ -1,6 +1,6 @@
 id: e827259d-5606-47a8-a54c-81f9337b0b6e
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 111
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+children_promises:
+- 8c949ad1-12ce-465f-9ec5-8b2002aacb98
+- 06b0b142-a2dc-4412-85d6-d30515b9225e
+- af8dea9f-46ab-4595-8a13-dbe608aca02e
+children_statements:
+- a033d2ec-85ea-41bc-aead-237d3929df3e
+title: Digitalización, igualdad y violencia.
 categories: Democracia
 topics: Igualdad
-title: Digitalización, igualdad y violencia.
-has_children: true

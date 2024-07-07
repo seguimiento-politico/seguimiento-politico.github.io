@@ -1,7 +1,6 @@
 id: 59dc1f29-0c22-48c2-9c9d-e15b4f96b73e
 type: promise
-parent_statement: 43e86874-d67e-42fb-be09-96d5e0669640
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 43e86874-d67e-42fb-be09-96d5e0669640
+parent_chapter: 63ab839a-6275-4d54-bf9b-ec036a685a75
+text: Además, se promoverá el desarrollo de tecnología basada en software libre y soluciones de servicios para el interés general y común, así como la inversión en empresas tecnológicas (especialmente PYMES) que trabajen en soluciones para mejorar la calidad de vida de la ciudadanía. Esto facilitará, además, un ecosistema de empresas locales que escapen del modelo actual de consultoría y productos cerrados.
 categories: Educación
 topics: Digitalización
-text: Además, se promoverá el desarrollo de tecnología basada en software libre y soluciones de servicios para el interés general y común, así como la inversión en empresas tecnológicas (especialmente PYMES) que trabajen en soluciones para mejorar la calidad de vida de la ciudadanía. Esto facilitará, además, un ecosistema de empresas locales que escapen del modelo actual de consultoría y productos cerrados.

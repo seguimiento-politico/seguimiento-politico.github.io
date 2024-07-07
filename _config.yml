@@ -32,7 +32,7 @@ socials:
   twitter: https://twitter.com/seg_politico
   email: seguimiento-politico@protonmail.com
 
-lang: "es"
+lang: es
 
 repository-source: https://github.com
 raw-repository-source: https://github.com/seguimiento-politico/seguimiento-politico.github.io/blob/master/
@@ -105,11 +105,14 @@ compress_html:
 collections:
   tracks:
     output: true
-    permalink: /:path
+    permalink: /:collection/:path
   statements:
     output: true
     permalink: /:collection/:path
   docs:
+    output: true
+    permalink: /:collection/:path
+  topics:
     output: true
     permalink: /:collection/:path
 
@@ -127,11 +130,18 @@ defaults:
     values:
       layout: document
       comments: false
+      toc_levels: 2
 
   - scope:
       path: "_statements"
     values:
       layout: promise
+      comments: true
+
+  - scope:
+      path: "_topics"
+    values:
+      layout: topic
       comments: true
 
   - scope:

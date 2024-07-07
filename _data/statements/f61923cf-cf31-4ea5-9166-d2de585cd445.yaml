@@ -1,6 +1,6 @@
 id: f61923cf-cf31-4ea5-9166-d2de585cd445
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 35
+parent_chapter: 34122573-31ef-498a-a75c-ec31076a25d2
+text: Mejoraremos procedimientos administrativos que permitan agilizar las concesiones y renovaciones de autorizaciones, especialmente las de arraigo y reagrupación familiar.
 categories: Migración
 topics: Inmigración
-text: Mejoraremos procedimientos administrativos que permitan agilizar las concesiones y renovaciones de autorizaciones, especialmente las de arraigo y reagrupación familiar.

@@ -1,7 +1,6 @@
 id: 00ef3e99-108d-48f2-ac58-3ca549a9c047
 type: promise
-parent_statement: 610bb7ad-277d-453e-bd23-f6f66ce91419
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -10,5 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 78
-categories: Impuestos y financiación pública
+parent_statement: 610bb7ad-277d-453e-bd23-f6f66ce91419
+parent_chapter: ec3e397c-bf4a-4692-a06e-58f507cee1f8
 text: y reactivando la actividad económica de un sector que consideramos locomotora económica; y bonificaremos el ITP en cuota del 100% para compra de vivienda habitual, cuyo precio sea inferior o igual a 300.000 euros, reduciéndolo en otro caso al 6% y al 3% para familias numerosas.
+categories: Impuestos y financiación pública

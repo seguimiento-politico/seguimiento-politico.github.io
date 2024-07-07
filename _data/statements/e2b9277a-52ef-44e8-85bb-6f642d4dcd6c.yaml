@@ -1,6 +1,6 @@
 id: e2b9277a-52ef-44e8-85bb-6f642d4dcd6c
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 28
-categories: Trabajo
+parent_chapter: e9e1334a-785f-47ff-a9d1-05e1b24e1b85
+children_promises:
+- c11f1536-180f-40b2-bd6f-0e3fb8522641
+- 5b414eac-16dd-42ef-9a1a-87d4bf853671
+children_statements: []
 title: Aseguraremos un proceso de transición justa en el ámbito verde y digital.
-has_children: true
+categories: Trabajo

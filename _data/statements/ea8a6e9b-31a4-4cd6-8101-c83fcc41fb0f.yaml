@@ -1,6 +1,6 @@
 id: ea8a6e9b-31a4-4cd6-8101-c83fcc41fb0f
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 34
+parent_chapter: ad5a3370-9a59-4310-96e4-a5294325d5fe
+text: Asegurar el respeto a las decisiones de los jueces españoles y reformar la euroorden para eliminar la posibilidad de que individuos con causas penales pendientes en España se beneficien del amparo de organismos europeos, como ha sucedido hasta ahora.
 categories:
 - Política internacional
-text: Asegurar el respeto a las decisiones de los jueces españoles y reformar la euroorden para eliminar la posibilidad de que individuos con causas penales pendientes en España se beneficien del amparo de organismos europeos, como ha sucedido hasta ahora.

@@ -1,6 +1,6 @@
 id: 81ac96ff-2856-48b5-a3e3-c0579c9a9bfc
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 32
+parent_chapter: f6b1da17-dc9f-4173-bb8d-5c472a4a169a
+text: Se trabajará para conseguir un amplio consenso que permita modificar la fórmula electoral para mejorar la proporcionalidad del sistema.
 categories: Democracia
 topics: Sistema electoral
-text: Se trabajará para conseguir un amplio consenso que permita modificar la fórmula electoral para mejorar la proporcionalidad del sistema.

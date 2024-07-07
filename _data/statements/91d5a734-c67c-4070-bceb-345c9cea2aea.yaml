@@ -1,6 +1,6 @@
 id: 91d5a734-c67c-4070-bceb-345c9cea2aea
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 36
-categories: Educación
+parent_chapter: 93c0fe1a-af8e-40be-bc69-f2a4f720007f
 text: PNL relativa a garantizar el derecho que asiste a los padres para que sus hijos reciban la formación religiosa y moral que esté de acuerdo con sus propias convicciones, instando al Gobierno a asegurar la efectiva observancia y cumplimiento del principio de neutralidad ideológica en la enseñanza (marzo 2022).
+categories: Educación

@@ -1,0 +1,46 @@
+name: Mercado eléctrico
+other:
+- &id001
+  id: 0a2182d5-60c8-4732-8c52-d162e8d67dcb
+  parties:
+  - VOX
+- &id002
+  id: 9cf9e90a-7818-4a2f-a7d5-992435ec6328
+  parties:
+  - VOX
+- &id003
+  id: 472db57a-6630-4f76-b08f-6ecf22bd8296
+  parties:
+  - VOX
+- &id004
+  id: 072dd59b-4b76-4b25-8a7d-d0c5fc8d4950
+  parties:
+  - VOX
+other_count: 4
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions:
+- &id005
+  id: ccce62bb-2cc8-4f0a-8ca1-badd6032d906
+  parties:
+  - VOX
+- &id006
+  id: df9ece36-d26f-44b8-8937-d6f74be8b8ac
+  parties:
+  - VOX
+proposed_actions_count: 2
+statements:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+statements_count: 6
+status_quo_negative:
+- *id005
+status_quo_negative_count: 1
+status_quo_positive: []
+status_quo_positive_count: 0

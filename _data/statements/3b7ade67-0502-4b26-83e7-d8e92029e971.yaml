@@ -1,6 +1,6 @@
 id: 3b7ade67-0502-4b26-83e7-d8e92029e971
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 47
+parent_chapter: 493fd51c-7cfd-4b5e-bc63-efcefe3f24e6
 title: Libertad de creación en internet y gestión transparente y limpia de los derechos de autor.
 text: Devolveremos al Poder Judicial la competencia exclusiva de decidir qué páginas web y servicios de la sociedad de la información infringen la normativa sobre propiedad intelectual, así como sus consecuencias Al mismo tiempo, es necesario iniciar un diálogo social para reformar la propiedad intelectual actualizándola a los nuevos hábitos culturales, posibilidades tecnológicas y necesidades de sostenibilidad del sector Hay que proteger a los autores y autoras, a los intérpretes y al resto de titulares de derechos y, al mismo tiempo, fomentar la flexibilidad en los modelos de difusión de la cultura, la autonomía de los creadores y creadoras, y la necesidad de hacer posibles nuevos usos legales y gratuitos de obras protegidas en el ámbito de la enseñanza, la investigación y la creación Debe ampliarse el reconocimiento como autores y autoras de periodistas, directores y directoras de escena y diseñadoras y diseñadores escénicos y audiovisuales, entre otras figuras, así como derogarse el artículo 71 de la Ley de Propiedad Intelectual, que obliga a los autores y las autoras musicales a ceder el 50 % de sus derechos a perpetuidad al editor musical En cuanto a la gestión de los derechos, se establecerán unas posibilidades de creación más abiertas y se garantizará una gestión responsable, transparente y democrática de las sociedades de derechos de autor, como la SGAE, para alejar toda sospecha de corrupción, con tarifas justas y un funcionamiento que facilite el acceso a la cultura

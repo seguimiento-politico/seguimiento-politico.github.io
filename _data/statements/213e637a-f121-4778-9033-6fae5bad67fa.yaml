@@ -1,6 +1,6 @@
 id: 213e637a-f121-4778-9033-6fae5bad67fa
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 103
+parent_chapter: 4b1a1fd6-83f2-4e8c-a775-7e65f72f50be
 text: Implementar la Agenda 2030 y sus Objetivos de Desarrollo Sostenible (ODS) a través de una estrategia que apueste por su vertiente internacional y que esté centrada en la lucha contra la pobreza, las desigualdades y la sostenibilidad ambiental. Los problemas a los que se refiere la Agenda 2030 y los ODS son demasiado serios y afectan de manera demasiado directa a la vida de las personas como para dejarlos en palabras bonitas y colores en los avatares de Twitter de representantes públicos y partidos políticos Para implementar la Agenda 2030 y los ODS, estableceremos un plan de desarrollo sostenible con marcos de acción concretos, en el que se incorporen mecanismos de seguimiento, evaluación y auditoría social para su correcto cumplimiento Este plan incluirá un mecanismo específico de Coherencia de Políticas para el Desarrollo (CPD), con el fin de evitar los impactos negativos que cualquier política pública pudiera tener en la contribución de España a los ODS

@@ -1,11 +1,12 @@
 id: c46fb367-c57d-46ee-9b24-21f4b15e07c7
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 72
-categories: Economía
+parent_chapter: 930edcb6-d23f-4673-af50-fcc5f7634f84
 text: Por su singularidad, importancia territorial e impacto económico y social, elaboraremos un Programa Estratégico para el Desarrollo de los Secanos Tradicionales que ofrezca a los productores nuevas opciones para su puesta en valor y desarrollo económico. Se promoverán medidas que mejoren su competitividad, faciliten su adaptación al previsto impacto del cambio climático y les posicione en condiciones de competir en los mercados, contribuyendo con ello al mantenimiento de la actividad económica y de la población en el medio rural.
+categories: Economía

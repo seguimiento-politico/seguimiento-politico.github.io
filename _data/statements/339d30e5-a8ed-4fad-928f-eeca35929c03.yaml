@@ -1,6 +1,6 @@
 id: 339d30e5-a8ed-4fad-928f-eeca35929c03
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,18 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 179
+parent_chapter: 63ab839a-6275-4d54-bf9b-ec036a685a75
+children_promises:
+- 634f2e54-f45e-4307-b660-c9927511c1c2
+- f86f24e3-06c4-4dfa-a764-e443a903100c
+- c167a5ed-0b29-44b5-9e81-d04a8631bfee
+- 028c4dde-ea38-4599-8072-03f9c2b0b357
+- 5e0d641e-82b8-4a81-9914-bd40e66ddaed
+- 3a84b0d8-164a-4b01-8290-70aaa9577e71
+- 40831dc9-29e9-40f9-98af-ed43cf11bd66
+- df99f4ed-e2db-4ac2-bbb1-f809487a1bb8
+children_statements:
+- 127c60eb-7907-4892-afb7-d563f0e877b6
+title: Uso social y cooperativo del software libre de código abierto y de la gestión de datos abiertos y un ecosistema de plataformas público-comunitarias
 categories: Educación
 topics: Digitalización
-title: Uso social y cooperativo del software libre de código abierto y de la gestión de datos abiertos y un ecosistema de plataformas público-comunitarias
-has_children: true

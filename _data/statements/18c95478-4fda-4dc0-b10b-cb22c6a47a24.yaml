@@ -1,6 +1,6 @@
 id: 18c95478-4fda-4dc0-b10b-cb22c6a47a24
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 27
+parent_chapter: b8a5aa3d-8c58-4fdb-8ce8-c6eb037312b4
 title: Protocolos obligatorios contra las violencias machistas y la LGTBIfobia.
 text: Se implementarán estos protocolos para prevenir tanto las violencias machistas como la LGTBIfobia en las Administraciones Públicas y en los centros de trabajo de más de 50 trabajadores

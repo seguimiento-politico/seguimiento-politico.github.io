@@ -1,0 +1,51 @@
+name: Grupos de presión
+other:
+- &id002
+  id: 0f550384-c30d-4289-b963-89ac3b4d58ba
+  parties:
+  - VOX
+- &id005
+  id: 8f802f48-f8be-4a01-b2ed-8fd5e40b5f02
+  parties:
+  - VOX
+- &id006
+  id: b189caa3-2294-4546-826d-a7e2eb489226
+  parties:
+  - VOX
+other_count: 3
+position_negative:
+- &id001
+  id: 25384583-ff36-4896-8e48-540b4200a231
+  parties:
+  - VOX
+- &id003
+  id: 0f550384-c30d-4289-b963-89ac3b4d58ba
+  parties:
+  - VOX
+- &id004
+  id: 6e40c2e9-1737-449a-b34b-b58ee5d220ac
+  parties:
+  - VOX
+position_negative_count: 3
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- &id007
+  id: 4ee82bf6-1f17-48db-856d-d7f90c0c1b3e
+  parties:
+  - VOX
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+statements_count: 7
+status_quo_negative:
+- *id001
+- *id007
+status_quo_negative_count: 2
+status_quo_positive: []
+status_quo_positive_count: 0

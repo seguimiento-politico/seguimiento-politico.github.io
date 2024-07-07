@@ -1,6 +1,6 @@
 id: 91745025-2a61-47d2-9a8a-c24f635420b6
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 85
-categories: Impuestos y financiación pública
+parent_chapter: ec3e397c-bf4a-4692-a06e-58f507cee1f8
 text: Unificaremos la legislación que afecta al suelo, tramitación de permisos, comercio, exigencias de calidad, requisitos lingüísticos, estrategias de atracción de la inversión etc. Sólo así podremos trasladar a las empresas e inversores un plan claro y determinado como nación sin inseguridad jurídica.
+categories: Impuestos y financiación pública

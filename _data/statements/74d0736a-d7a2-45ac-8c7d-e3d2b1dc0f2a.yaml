@@ -1,11 +1,12 @@
 id: 74d0736a-d7a2-45ac-8c7d-e3d2b1dc0f2a
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 99
-categories: Seguridad y defensa
+parent_chapter: ce32a1c3-f0ee-405f-bdb8-e85af6ed814a
 text: Dotaremos a los miembros de las Fuerzas de los mejores medios materiales y económicos posibles. Incrementaremos de forma sostenible las retribuciones en función de las conclusiones del estudio para la equiparación salarial de los miembros de las Fuerzas Armadas.
+categories: Seguridad y defensa

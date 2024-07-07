@@ -1,6 +1,6 @@
 id: 11c2e30c-8ff0-4cb6-b4c5-35f12cc8259e
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,26 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 82
+parent_chapter: 66cf6219-da39-4941-aa1a-c1b88e89ed00
+children_promises:
+- ba60e983-55e7-46ba-899e-4fa2392c76f3
+- 3af6fa9b-8d38-4a63-b0f1-374dec7bdcbc
+- 00347362-c51d-4cde-9539-0007ca874e4e
+- 3bdb37cd-c694-43bc-bf56-d8e63d5442f8
+- d944d04f-5302-450e-a0c7-0624d509982b
+- a85cb426-bc26-4fe0-85f9-d189cb18925c
+- 93ba46fd-612b-4216-9c5e-a4d33c4f6e32
+- 01d411af-a409-42e6-a226-dc096466c547
+- 3c43ad5a-4d6f-4c87-9fa5-332adc1d61f6
+- 5e9331fc-3039-48d9-960f-8a55ded00d8b
+- 983c4ba1-2b70-4492-85e9-5042c42eb035
+- 76daff9f-4abb-4f83-9918-f968d53bfb0f
+- ac638e91-b61f-45e6-b2b9-24cd0d9f3f9f
+- 3d240c58-6712-46a7-a485-cdd0a2f4eeb1
+- 62b15abf-b0cb-4001-8e11-ec31e2147c9e
+- 4b173110-1e07-4668-8f5d-7a2a4a22b708
+- d0f951bc-f738-4810-8b8a-a80f3f85923a
+children_statements: []
+title: Mercancías, transporte aéreo, marítimo y ferrovial
 categories: Transporte
 topics: Movilidad sostenible
-title: Mercancías, transporte aéreo, marítimo y ferrovial
-has_children: true

@@ -1,6 +1,6 @@
 id: b6f31bf0-f227-46b5-abf8-b980fd58a4bd
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 10
-categories: Trabajo
+parent_chapter: a34fa567-045d-4af8-adb5-b2a7ec58bb17
 text: Cuidar el Medio Ambiente desde el sentido común, la responsabilidad y la protección de nuestra economía, acompasado a las necesidades reales de España. Rechazar las imposiciones globalistas que ignoran a los verdaderos responsables de la contaminación en el mundo y provocan el cierre de nuestras industrias y la destrucción de miles de empleos en España.
+categories: Trabajo

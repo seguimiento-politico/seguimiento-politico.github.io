@@ -1,6 +1,6 @@
 id: b83af88d-1cef-4e65-b057-7d9bc65d0c2c
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 22
-categories: Impuestos y financiación pública
+parent_chapter: cc54c662-37b4-4dac-bee3-d45df9edf41e
 text: Ampliación del sistema de beneficios fiscales para las familias, en especial para las numerosas. Aquellas personas que se dediquen al cuidado de los hijos o de personas dependientes nunca deben ser penalizadas fiscalmente.
+categories: Impuestos y financiación pública

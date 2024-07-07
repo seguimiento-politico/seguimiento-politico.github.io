@@ -1,6 +1,6 @@
 id: f36ef303-462b-4da3-afb9-31495a12585f
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 95
-categories: Territorio rural
+parent_chapter: 1daddb0f-4f41-47c9-af55-541bc1296211
 text: Extenderemos los programas de arraigo para el asentamiento de nuevas familias en pequeños municipios.
+categories: Territorio rural

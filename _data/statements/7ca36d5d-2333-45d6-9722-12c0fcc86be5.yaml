@@ -1,6 +1,6 @@
 id: 7ca36d5d-2333-45d6-9722-12c0fcc86be5
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 162
+parent_chapter: dc078108-a453-4049-8b39-4e59ff459082
+children_promises:
+- b6704122-048a-4dc0-a6d4-cba1388acd9b
+- ab9f0111-f5be-43a4-8f55-a5883d6c96ef
+- 5214ecdd-b31f-434a-a15e-3696c8253807
+children_statements: []
+title: Consideración, de manera integrada, del conjunto de las actividades desempeñadas por el PDI de modo que concuerde con el número máximo de horas de dedicación
 categories: Educación
 topics: Universidad
-title: Consideración, de manera integrada, del conjunto de las actividades desempeñadas por el PDI de modo que concuerde con el número máximo de horas de dedicación
-has_children: true

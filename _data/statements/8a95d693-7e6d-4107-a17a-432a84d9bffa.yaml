@@ -1,6 +1,6 @@
 id: 8a95d693-7e6d-4107-a17a-432a84d9bffa
-type: declaration
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_chapter: 12295f44-3ae3-43bd-8758-0026574e6662
+text: El incremento de la esperanza de vida ha hecho aumentar significativamente el porcentaje de personas mayores de 65 años en el conjunto de la población. A pesar de los avances sanitarios y la mejora de sus condiciones de vida, más de la mitad de esas personas tienen problemas de salud, un fenómeno que se intensifica a partir de los 75 años. La atención a esas dificultades de enfermedad y dependencia la asumen mayoritariamente las familias y, dentro de ellas, las mujeres, con el enorme esfuerzo económico y personal que ello supone.<br> Somos ya un país de personas mayores y necesitamos que las políticas públicas garanticen la corresponsabilidad de los cuidados desde las instituciones y posibiliten que se afronte esa etapa de la vida con autonomía y con seguridad, desempeñando un papel activo en todos los ámbitos de la sociedad. El envejecimiento no debería significar nunca más un déficit de nuestra libertad o de nuestra actividad ciudadana ni una carga insoportable para nuestras personas allegadas.
 categories: Derechos y servicios sociales
 topics: Tercera edad
-text: El incremento de la esperanza de vida ha hecho aumentar significativamente el porcentaje de personas mayores de 65 años en el conjunto de la población. A pesar de los avances sanitarios y la mejora de sus condiciones de vida, más de la mitad de esas personas tienen problemas de salud, un fenómeno que se intensifica a partir de los 75 años. La atención a esas dificultades de enfermedad y dependencia la asumen mayoritariamente las familias y, dentro de ellas, las mujeres, con el enorme esfuerzo económico y personal que ello supone.<br> Somos ya un país de personas mayores y necesitamos que las políticas públicas garanticen la corresponsabilidad de los cuidados desde las instituciones y posibiliten que se afronte esa etapa de la vida con autonomía y con seguridad, desempeñando un papel activo en todos los ámbitos de la sociedad. El envejecimiento no debería significar nunca más un déficit de nuestra libertad o de nuestra actividad ciudadana ni una carga insoportable para nuestras personas allegadas.

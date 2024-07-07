@@ -1,6 +1,6 @@
 id: 7a830522-7b59-4632-9e20-73d8db436aa3
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 74
-categories: Urbanismo y ciudades
+parent_chapter: da4a5e62-c6b6-45b0-a08b-611f6d470a08
+children_promises:
+- 1063663d-94eb-43f0-ad4f-51a89530b813
+- d582d01e-6496-4259-8516-2a358e6241fa
+- 796a08ef-33d8-467b-b155-e726f22bc521
+children_statements: []
 title: Creación de una red estatal sobre urbanismo y cambio climático.
-has_children: true
+categories: Urbanismo y ciudades

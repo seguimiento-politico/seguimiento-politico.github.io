@@ -1,7 +1,6 @@
 id: 13574f06-9373-47cf-a132-bf72af625269
 type: promise
-parent_statement: b2f07381-08db-4982-9780-84ae80e0ebf6
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,4 +8,6 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: b2f07381-08db-4982-9780-84ae80e0ebf6
+parent_chapter: 234f712b-aaa0-45c7-92d9-e5641ca46ec2
 text: Tasa al plástico para desincentivar su uso en toda la cadena de valor y destinar la recaudación a objetivos estratégicos de la economía circular.

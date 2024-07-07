@@ -1,7 +1,6 @@
 id: 1c937b41-9812-4cf8-b75a-b351f867bb74
 type: promise
-parent_statement: 4f7e9a88-da4a-4fa6-9bc2-1384118b379b
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 4f7e9a88-da4a-4fa6-9bc2-1384118b379b
+parent_chapter: dc33f933-12a0-4325-b761-1f9bf8c3ad0d
+text: Se mejorará el nivel de conocimiento científico en las dinámicas entre especies y en los stocks pesqueros, equilibrando la toma de decisiones en ausencia de datos, estudiando las fórmulas que no impliquen necesariamente una reducción de cuotas.
 categories: Pesca y acuicultura
 topics: Desarrollo sostenible
-text: Se mejorará el nivel de conocimiento científico en las dinámicas entre especies y en los stocks pesqueros, equilibrando la toma de decisiones en ausencia de datos, estudiando las fórmulas que no impliquen necesariamente una reducción de cuotas.

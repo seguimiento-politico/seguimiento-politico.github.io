@@ -1,7 +1,6 @@
 id: af8f6c4a-2115-4037-ba9a-3dd1c5350992
-type: declaration
-parent_statement: 0d095a86-28cb-466a-8979-606fadc1afd2
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Derechos y servicios sociales
+parent_statement: 0d095a86-28cb-466a-8979-606fadc1afd2
+parent_chapter: 6bea7d15-32ea-402e-8fad-42663ddea615
 text: El bajo nivel de desarrollo de las políticas sociales en nuestro país es particularmente grave en el medio rural. Cuando una persona necesita la ayuda de servicios sociales especializados a menudo tiene que trasladarse muchos kilómetros, en zonas con un transporte público insuficiente y fragmentario.
+categories: Derechos y servicios sociales

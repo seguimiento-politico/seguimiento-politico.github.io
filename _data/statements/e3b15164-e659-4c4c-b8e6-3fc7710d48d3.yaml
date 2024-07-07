@@ -1,6 +1,6 @@
 id: e3b15164-e659-4c4c-b8e6-3fc7710d48d3
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,8 +8,9 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_chapter: 50ccf55c-06d9-4d67-b7df-7b241b8adc09
+text: 'Para combatir el racismo no solo basta con ser no racista: hay que ser antirracista, en compromiso activo con las personas que sufren estigmas y discriminación por su condición étnica, por su color de piel o por su origen nacional. Por tanto, identificar las causas que provocan la discriminación racial y trabajar por una educación en valores se hace cada vez más imprescindible.<br><br> España ha sido y es un país de acogida y solidario, en el que tenemos que seguir trabajando para fomentar la interculturalidad y combatir la discriminación, el racismo y a xenofobia. La experiencia ha demostrado que la potenciación de las diferentes culturas enriquece nuestra sociedad, cohesiona a los diferentes y favorece la integración y la vida en una coexistencia positiva basada en la igualdad de derechos, deberes y oportunidades sociales; en la construcción de un discurso en positivo de la diversidad; y, sobre todo, en el fomento de la interacción social positiva entre el conjunto de la población, luchando contra la discriminación y la exclusión de personas y colectivos.<br><br> Cuando hablamos de inclusión, ésta es sin asimilación; debe ser bidireccional. Hay que fomentar que la participación ciudadana de las personas migrantes sea fluida, y que a su vez éstas aporten su riqueza cultural, para que la población de acogida entienda los valores que aporta la interculturalidad al desarrollo de las sociedades.<br><br> El PSOE se compromete a:'
 categories: Derechos y servicios sociales
 topics:
 - Discriminación
 - Racismo
-text: 'Para combatir el racismo no solo basta con ser no racista: hay que ser antirracista, en compromiso activo con las personas que sufren estigmas y discriminación por su condición étnica, por su color de piel o por su origen nacional. Por tanto, identificar las causas que provocan la discriminación racial y trabajar por una educación en valores se hace cada vez más imprescindible.<br><br> España ha sido y es un país de acogida y solidario, en el que tenemos que seguir trabajando para fomentar la interculturalidad y combatir la discriminación, el racismo y a xenofobia. La experiencia ha demostrado que la potenciación de las diferentes culturas enriquece nuestra sociedad, cohesiona a los diferentes y favorece la integración y la vida en una coexistencia positiva basada en la igualdad de derechos, deberes y oportunidades sociales; en la construcción de un discurso en positivo de la diversidad; y, sobre todo, en el fomento de la interacción social positiva entre el conjunto de la población, luchando contra la discriminación y la exclusión de personas y colectivos.<br><br> Cuando hablamos de inclusión, ésta es sin asimilación; debe ser bidireccional. Hay que fomentar que la participación ciudadana de las personas migrantes sea fluida, y que a su vez éstas aporten su riqueza cultural, para que la población de acogida entienda los valores que aporta la interculturalidad al desarrollo de las sociedades.<br><br> El PSOE se compromete a:'

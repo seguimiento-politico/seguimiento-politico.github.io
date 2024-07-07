@@ -1,6 +1,6 @@
 id: a7e4255a-9aa8-4899-91e6-e9da0d112c2e
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 105
-categories: Educación
+parent_chapter: d74bc2c5-b632-425b-ae29-fb826a1b8e06
 text: 'Impulsaremos una bajada de ratio en aquellos centros que presenten un proyecto de mejora. El objetivo es que los alumnos aprendan más y en mejores condiciones, escalonando la bajada de ratios con criterios de equidad y de innovación transformadora del propio centro. Con el objetivo de: facilitar las transiciones entre etapas y elevar el éxito escolar, y promover desdobles de refuerzo en Primaria y ESO hacia la excelencia y el alto rendimiento educativo.'
+categories: Educación

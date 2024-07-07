@@ -1,6 +1,6 @@
 id: 12ee7d5c-220a-4e22-9cb2-07c1bdf6ff9a
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 40
+parent_chapter: 67d02a39-a3aa-4e05-9637-8576421fb382
+children_promises:
+- fd4ccef2-ce04-42cc-8ca6-3ed5affc57ce
+children_statements: []
+title: Concretaremos la creación del hub de vanguardia de la economía social como instrumento tanto nacional como internacional.
 categories: Economía
 topics: Economía social
-title: Concretaremos la creación del hub de vanguardia de la economía social como instrumento tanto nacional como internacional.
-has_children: true

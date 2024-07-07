@@ -1,6 +1,6 @@
 id: 0c6006e4-508b-47c1-aa95-a8116758a3d4
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 168
-categories: Cultura
+parent_chapter: 7350357f-215c-4adf-8549-2205377e11a9
+children_promises:
+- 2cf25da5-bcce-4cb9-8a59-088a5b06f7aa
+- 7abe4f20-5640-4e80-834a-ae39b6e33dcb
+- bb9cf13f-dd7c-4f94-8401-949804e8279c
+- 8c4470e2-cd87-429f-8554-7ee1436192e7
+- 85cb6214-a9f1-49b4-b665-bec1a6ad1845
+children_statements: []
 title: Refuerzo institucional de la cultura y de nuevos ámbitos de actuación.
-has_children: true
+categories: Cultura

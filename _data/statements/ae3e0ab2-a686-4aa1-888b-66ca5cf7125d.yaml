@@ -1,7 +1,6 @@
 id: ae3e0ab2-a686-4aa1-888b-66ca5cf7125d
 type: promise
-parent_statement: c30ba9e7-98d4-4a8c-8ce8-b60a027ca716
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
+parent_statement: c30ba9e7-98d4-4a8c-8ce8-b60a027ca716
+parent_chapter: 70e896cb-cc2e-4700-a649-38c82b332b6c
+text: Desarrollo de un plan integración de las personas con síndrome de Down. Tratadas como una condición personal, no una discapacidad, y amparándoles ante la persecución que sufren por parte de quienes se han propuesto exterminarles.
 categories:
 - Familia
-text: Desarrollo de un plan integración de las personas con síndrome de Down. Tratadas como una condición personal, no una discapacidad, y amparándoles ante la persecución que sufren por parte de quienes se han propuesto exterminarles.

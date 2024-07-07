@@ -1,6 +1,6 @@
 id: 359f52c9-b007-4a8f-9010-12eae9351acf
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 145
+parent_chapter: b02c7ae9-7dac-4eaa-9314-57d155a1078e
+text: Proposición no de Ley relativa a condenar y denunciar la represión de las históricas protestas pacíficas del 11 de julio de 2021, la limitación de la libertad de expresión y la vulneración sistemática de los derechos humanos por parte del régimen comunista de Cuba (septiembre 2022).
 categories:
 - Política internacional
-text: Proposición no de Ley relativa a condenar y denunciar la represión de las históricas protestas pacíficas del 11 de julio de 2021, la limitación de la libertad de expresión y la vulneración sistemática de los derechos humanos por parte del régimen comunista de Cuba (septiembre 2022).

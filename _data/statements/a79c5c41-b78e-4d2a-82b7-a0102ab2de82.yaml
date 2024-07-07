@@ -1,7 +1,6 @@
 id: a79c5c41-b78e-4d2a-82b7-a0102ab2de82
 type: promise
-parent_statement: 6a7d3c86-a948-4ba4-8dd4-50f947e67771
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 6a7d3c86-a948-4ba4-8dd4-50f947e67771
+parent_chapter: 2d06e79f-d667-441b-b7cf-513970c6ccde
+text: Estableceremos normas de importación en las que se limite y eventualmente prohíba la importación de productos agroganaderos, mineros o basados en petróleo y energías fósiles que provengan de bosques, selvas, áreas marinas u otros espacios protegidos de alto interés ambiental, donde se practiquen políticas insostenibles de incendios o deforestación, como es el caso de la soja en grandes partes de Sudamérica, el aceite de palma del sudeste asiático o las maderas y minerales preciosos procedentes de la explotación ilegal de selvas tropicales.
 categories: Medioambiente
 topics: Biodiversidad
-text: Estableceremos normas de importación en las que se limite y eventualmente prohíba la importación de productos agroganaderos, mineros o basados en petróleo y energías fósiles que provengan de bosques, selvas, áreas marinas u otros espacios protegidos de alto interés ambiental, donde se practiquen políticas insostenibles de incendios o deforestación, como es el caso de la soja en grandes partes de Sudamérica, el aceite de palma del sudeste asiático o las maderas y minerales preciosos procedentes de la explotación ilegal de selvas tropicales.

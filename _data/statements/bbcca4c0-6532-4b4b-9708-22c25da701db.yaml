@@ -1,12 +1,13 @@
 id: bbcca4c0-6532-4b4b-9708-22c25da701db
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 29
+parent_chapter: 4f4736d6-ca72-42e2-b85c-f0d1537c0682
+text: Impulsaremos una Ley de Turismo que armonice las normas que afectan al sector y sea capaz de vertebrar su crecimiento en un escenario competitivo y cambiante.
 categories:
 - Turismo
-text: Impulsaremos una Ley de Turismo que armonice las normas que afectan al sector y sea capaz de vertebrar su crecimiento en un escenario competitivo y cambiante.

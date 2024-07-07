@@ -1,11 +1,12 @@
 id: f88423c3-8fe0-4d7c-9707-54da2961dcdc
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 53
-categories: Derechos y servicios sociales
+parent_chapter: bddbd6ad-f9fd-4a6b-b520-20fc50ae562e
 text: Pondremos en marcha una nueva Estrategia Nacional de Lucha contra la Pobreza y la Exclusión Social con especial atención a los jóvenes y a los casos crónicos. Estableceremos mecanismos de colaboración para la atención específica y el apoyo a niños escolarizados procedentes de familias en situación de riesgo o de vulnerabilidad.<br>Desarrollaremos medidas específicas de acompañamiento social dirigidas a personas en situación de exclusión social para la adquisición de habilidades residenciales y de convivencia en el acceso a una vivienda normalizada.
+categories: Derechos y servicios sociales

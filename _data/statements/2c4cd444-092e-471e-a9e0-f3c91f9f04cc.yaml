@@ -1,6 +1,6 @@
 id: 2c4cd444-092e-471e-a9e0-f3c91f9f04cc
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 72
-categories: Medioambiente
+parent_chapter: 85ba981f-5588-4f5a-bd23-87684187301f
 text: Que la transición energética sea una manera de entender el uso de los recursos para preservar su disponibilidad para el futuro y que genere valor añadido en el modo en que producimos. Por eso, es tan importante el impulso de la economía circular y el ecodiseño, la capacidad de recuperar y reutilizar minerales, textiles, metales o baterías, de evitar el desperdicio alimentario, de mejorar el rendimiento de lo que utilizamos y de buscar nuevos materiales que desplacen a los que resulte más difícil obtener o reciclar.
+categories: Medioambiente

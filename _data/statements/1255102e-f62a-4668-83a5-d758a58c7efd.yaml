@@ -1,7 +1,6 @@
 id: 1255102e-f62a-4668-83a5-d758a58c7efd
 type: promise
-parent_statement: e6b9cc4f-1ca5-4583-87d8-9f9096276a25
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,6 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 113
+parent_statement: e6b9cc4f-1ca5-4583-87d8-9f9096276a25
+parent_chapter: 579c674b-2384-4748-a93a-92ef43822f21
+text: Formación gratuita y permanente en digitalización a todos los niveles y para todas las personas.
 categories: Derechos y servicios sociales
 topics: Formación profesional
-text: Formación gratuita y permanente en digitalización a todos los niveles y para todas las personas.

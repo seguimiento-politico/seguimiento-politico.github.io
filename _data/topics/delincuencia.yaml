@@ -1,0 +1,70 @@
+name: Delincuencia
+other:
+- &id001
+  id: 0524b46a-ac45-4c24-8089-5d84a6956aa4
+  parties:
+  - VOX
+- &id002
+  id: b752685b-133e-4306-8a61-9f34b19230e5
+  parties:
+  - VOX
+- &id003
+  id: bf01f1b3-2ed1-4ef6-a780-e7ededcbeb84
+  parties:
+  - VOX
+- &id004
+  id: 189b2560-a820-49c1-8cd1-7a8712fe8afd
+  parties:
+  - VOX
+- &id005
+  id: 6e504663-3cb9-4f00-9112-bc6b16fc42fc
+  parties:
+  - VOX
+- &id006
+  id: a7f055af-c539-41a1-ac2f-3a679c263d5d
+  parties:
+  - VOX
+- &id007
+  id: 844809b6-d827-414d-9440-29114276cbbb
+  parties:
+  - VOX
+- &id008
+  id: 5fb97e80-94c1-4754-bb02-610dae6b0bb4
+  parties:
+  - VOX
+- &id009
+  id: a798616d-b7b5-46ed-8207-4933c080a95f
+  parties:
+  - VOX
+- &id010
+  id: cc61afce-2824-41a7-8311-e11ec62afb22
+  parties:
+  - VOX
+other_count: 10
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- &id011
+  id: bf58e2ba-94e7-43b2-95b5-4e8b28b37f58
+  parties:
+  - VOX
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+statements_count: 11
+status_quo_negative:
+- *id011
+status_quo_negative_count: 1
+status_quo_positive: []
+status_quo_positive_count: 0

@@ -1,13 +1,14 @@
 id: d4a9171a-49fb-4fd0-8e3f-f88b88e24e79
 type: promise
-parent_statement: 585bada0-8f30-4626-bb7b-fd0be8a4fada
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 55
+parent_statement: 585bada0-8f30-4626-bb7b-fd0be8a4fada
+parent_chapter: 3e3d9e00-f82c-4af6-a3f8-4dc153933036
+text: Aprobaremos protocolos coordinados y homogéneos entre el Estado y las comunidades autónomas para la detección y actuación contra la violencia de género desde los centros educativos.
 categories: Seguridad y defensa
 topics: Violencia de género
-text: Aprobaremos protocolos coordinados y homogéneos entre el Estado y las comunidades autónomas para la detección y actuación contra la violencia de género desde los centros educativos.

@@ -1,0 +1,25 @@
+name: Energía limpia
+other: []
+other_count: 0
+position_negative:
+- &id001
+  id: 072dd59b-4b76-4b25-8a7d-d0c5fc8d4950
+  parties:
+  - VOX
+position_negative_count: 1
+position_positive:
+- &id002
+  id: c98415d3-520c-402c-9b30-3770c34d8a08
+  parties:
+  - VOX
+position_positive_count: 1
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- *id002
+statements_count: 2
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

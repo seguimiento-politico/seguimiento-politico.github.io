@@ -1,6 +1,6 @@
 id: b07a9129-a3fd-4930-83eb-eaf59327fed9
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 52
-categories: Política internacional
+parent_chapter: 06572758-339c-4185-bcc1-2905946110b7
 text: Es urgente la formulación de una auténtica política europea de inmigración, así como la modificación del Sistema de Acogida e Integración de refugiados, para hacer efectivo el derecho internacional sobre asilo y la gestión de los flujos migratorios, respetando los derechos humanos. Trabajaremos con los países de origen y de tránsito, para facilitar una inmigración ordenada, así como el desarrollo sostenible de dichos países. España promoverá el cumplimiento de los Acuerdos de Marrakech.
+categories: Política internacional

@@ -1,6 +1,6 @@
 id: ee3bf11f-ca5c-42c1-b4aa-7da4d2514b16
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,9 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 66
+parent_chapter: 1d4a4787-163e-4649-b875-f97fd3780649
+children_promises:
+- 304763ab-d56d-454c-81a4-db463ad38679
+- fc24219a-ef81-41a3-a72d-e8b93f1fb170
+children_statements: []
+title: Impulsaremos la integración de cooperativas, apoyando inversiones en Entidades Asociativas Prioritarias
 categories:
 - Agricultura
 - Ganadaría
 topics: Desarrollo sostenible
-title: Impulsaremos la integración de cooperativas, apoyando inversiones en Entidades Asociativas Prioritarias
-has_children: true

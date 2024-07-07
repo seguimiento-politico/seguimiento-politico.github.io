@@ -1,7 +1,6 @@
 id: cc862703-85d5-4d5f-a5a3-4e73647e1f95
 type: promise
-parent_statement: 7ddfede1-c3bf-4444-a8da-f2559f5a5b5e
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Seguridad y defensa
+parent_statement: 7ddfede1-c3bf-4444-a8da-f2559f5a5b5e
+parent_chapter: 66b190ef-617c-438a-adf3-a3c9f707719b
 text: Una regulación que sea flexible pero vigilante con el uso de mecanismos menos lesivos; que adecue los protocolos a la jurisprudencia del Tribunal Europeo de Derechos Humanos y otras recomendaciones de organizaciones internacionales; que permita la participación ciudadana o de organismos independientes en el desarrollo de protocolos de actuación (que han de ser públicos) que supongan un uso de la fuerza, y que articule mecanismos de reparación ágiles y adecuados en caso de uso impropio de la fuerza.
+categories: Seguridad y defensa

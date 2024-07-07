@@ -1,6 +1,6 @@
 id: 553e2225-7920-4069-b158-01ae5c792b31
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 69
-categories: Pesca y acuicultura
+parent_chapter: 170df7e0-fd2d-4dc3-a5e5-b9c8392e94de
 text: Defenderemos el papel del sector pesquero y la acuicultura en Economía Azul, como usos sostenibles y un sector estratégico que contribuye a la autonomía alimentaria en la Unión Europea.
+categories: Pesca y acuicultura

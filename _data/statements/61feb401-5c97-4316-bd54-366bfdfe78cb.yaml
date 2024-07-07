@@ -1,6 +1,6 @@
 id: 61feb401-5c97-4316-bd54-366bfdfe78cb
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 38
-categories: Agua
+parent_chapter: 27c2e026-31b3-4fe9-873a-317121ffbe6c
 title: MEJORAREMOS LA PROTECCIÓN DE LOS CONSUMIDORES VULNERABLES.
 text: Crearemos un Bono Social Único (BSU), como un pago directo al consumidor, que sustituirá y mejorará los actuales bonos eléctrico y térmico y será compatible con cualquier tipo de contrato de electricidad y gas. Obligaremos a las comercializadoras a estandarizar una amplia oferta de productos en el mercado libre (con precio estable, discriminación horaria, cuotas fijas, cuotas planas) para todos los clientes en baja tensión.
+categories: Agua

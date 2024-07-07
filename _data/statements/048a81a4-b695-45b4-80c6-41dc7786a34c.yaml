@@ -1,6 +1,6 @@
 id: 048a81a4-b695-45b4-80c6-41dc7786a34c
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 5
+parent_chapter: 06fd7e51-b8d5-491c-895a-9be06be8bef5
+children_promises:
+- aea4946f-a8f0-4bfc-bf70-fcded25bc021
+children_statements: []
+title: Deportación de los inmigrantes reincidentes delitos
 categories:
 - Migración
-title: Deportación de los inmigrantes reincidentes delitos
-has_children: true

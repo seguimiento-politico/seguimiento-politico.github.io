@@ -1,7 +1,6 @@
 id: cbb1634e-d904-4e75-ba7e-4dbfbf1f8fe9
 type: promise
-parent_statement: 6e6d5819-d8f0-4fe7-834c-b711e87b175c
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 6e6d5819-d8f0-4fe7-834c-b711e87b175c
+parent_chapter: 477927b2-ab8b-4a05-8cc0-962c0cbbb883
+text: Apoyo a las empresas de economía social que incorporen a nuevas socias y a las personas que decidan adherirse a proyectos en marcha. Las personas más jóvenes comparten los valores propios de la economía social; trabajo activista para vivir mejor. Por ello, vamos a desarrollar una tecnología que automatice la detección de necesidades de empleo en las empresas de economía social para garantizar puestos de trabajo y el mantenimiento de empresas arraigadas en el territorio y sosteni bles en el tiempo, garantizando el relevo generacional; introduciendo reformas legales que garanti cen un desembolso gradual y adaptado a las capacidades económicas de las personas que quieren realizar la aportación inicial para ser socias de entidades ya constituidas; incentivando económica mente, y a través de cláusulas sociales en la contratación pública, a las empresas que incorporen nuevas socias, especialmente jóvenes y mujeres; apoyando, con el kit formación-aportación social, a las personas que elijan adherirse a proyectos de economía social.
 categories: Trabajo
 topics: Economía social
-text: Apoyo a las empresas de economía social que incorporen a nuevas socias y a las personas que decidan adherirse a proyectos en marcha. Las personas más jóvenes comparten los valores propios de la economía social; trabajo activista para vivir mejor. Por ello, vamos a desarrollar una tecnología que automatice la detección de necesidades de empleo en las empresas de economía social para garantizar puestos de trabajo y el mantenimiento de empresas arraigadas en el territorio y sosteni bles en el tiempo, garantizando el relevo generacional; introduciendo reformas legales que garanti cen un desembolso gradual y adaptado a las capacidades económicas de las personas que quieren realizar la aportación inicial para ser socias de entidades ya constituidas; incentivando económica mente, y a través de cláusulas sociales en la contratación pública, a las empresas que incorporen nuevas socias, especialmente jóvenes y mujeres; apoyando, con el kit formación-aportación social, a las personas que elijan adherirse a proyectos de economía social.

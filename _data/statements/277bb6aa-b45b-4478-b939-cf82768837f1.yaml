@@ -1,7 +1,6 @@
 id: 277bb6aa-b45b-4478-b939-cf82768837f1
 type: promise
-parent_statement: 8f5b2fb1-0313-42a4-a537-5902e79b60ea
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 8f5b2fb1-0313-42a4-a537-5902e79b60ea
+parent_chapter: 63ab839a-6275-4d54-bf9b-ec036a685a75
+text: También es esencial asegurar que la extracción de los materiales necesarios para la fabricación de los dispositivos se realice en condiciones justas y respetuosas con los derechos humanos y el medio ambiente.
 categories: Educación
 topics: Digitalización
-text: También es esencial asegurar que la extracción de los materiales necesarios para la fabricación de los dispositivos se realice en condiciones justas y respetuosas con los derechos humanos y el medio ambiente.

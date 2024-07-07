@@ -1,6 +1,6 @@
 id: 065759ab-2455-488a-8ee6-2a658200a209
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,7 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 9
+parent_chapter: 298cb86d-a349-4888-aba4-5567f2db236a
+text: Recuperaremos la vitalidad y autonomía de los municipios. Para ello, se les debe liberar de la ineficiente estructura autonómica y del ejercicio de competencias innecesarias para que se concentre toda su fuerza en promover lugares seguros de convivencia entre vecinos, creación de empleo e iniciativas vecinales.
 categories: Derechos y servicios sociales
 topics:
 - Igualdad
-text: Recuperaremos la vitalidad y autonomía de los municipios. Para ello, se les debe liberar de la ineficiente estructura autonómica y del ejercicio de competencias innecesarias para que se concentre toda su fuerza en promover lugares seguros de convivencia entre vecinos, creación de empleo e iniciativas vecinales.

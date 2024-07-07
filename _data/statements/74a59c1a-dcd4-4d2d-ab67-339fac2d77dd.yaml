@@ -1,6 +1,6 @@
 id: 74a59c1a-dcd4-4d2d-ab67-339fac2d77dd
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 25
-categories: Educación
+parent_chapter: 1b166bbb-40b5-49ba-a4c8-75dad7a80fff
 text: Para terminar con el fracaso escolar y el abandono escolar prematuro desarrollaremos un plan de medidas sistémicas a lo largo de toda la escolarización obligatoria, acordado y coordinado entre todas las administraciones implicadas, con el objetivo de asegurar que, al finalizar la legislatura, al menos el 90% de los jóvenes cuente con estudios postobligatorios.
+categories: Educación

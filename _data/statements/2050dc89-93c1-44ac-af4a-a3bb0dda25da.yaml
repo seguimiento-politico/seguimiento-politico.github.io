@@ -1,6 +1,6 @@
 id: 2050dc89-93c1-44ac-af4a-a3bb0dda25da
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 9
+parent_chapter: 80f33f13-c365-4098-ac18-6210795cdb15
+children_promises:
+- 2bfc8da8-88fb-4b33-9e63-8fd8f3b0d767
+- 9456a873-b89e-4a85-9882-f26d271765cf
+children_statements: []
+title: Fusión ayuntamientos y reducción asesores en las AAPP
 categories:
 - Economía
-title: Fusión ayuntamientos y reducción asesores en las AAPP
-has_children: true

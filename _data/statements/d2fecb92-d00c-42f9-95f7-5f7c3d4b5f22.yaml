@@ -1,6 +1,6 @@
 id: d2fecb92-d00c-42f9-95f7-5f7c3d4b5f22
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 90
-categories: Sanidad
+parent_chapter: 17e4c412-8ac4-4992-848a-422903075ee3
+children_promises:
+- 6a8ad681-ee5d-42c1-8216-fdb47a9042eb
+- 341301b7-bb62-4520-89e6-b5f28bda0aa2
+- 1e9526c3-9343-4ff7-8562-a022545ed029
+- 6ecf16c2-f9e2-4c2a-ba92-1eda8a9d71e7
+- 9f3e9d32-74d9-44f2-9252-ed306843dab8
+- 24edcfd6-8f8a-4b7e-9179-ddf281bd4550
+children_statements: []
 title: 'Fin de la precariedad del personal sanitario: mejora de sus condiciones laborales.'
-has_children: true
+categories: Sanidad

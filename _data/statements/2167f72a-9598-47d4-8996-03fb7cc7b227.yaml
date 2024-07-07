@@ -1,6 +1,6 @@
 id: 2167f72a-9598-47d4-8996-03fb7cc7b227
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 31
+parent_chapter: 17196e02-8167-47c1-85ab-7e5f65277435
+text: Desarrollaremos la Ley 27/2007 por la que se reconocen las lenguas de signos españolas y se regulan los medios de apoyo a la comunicación oral de las personas sordas, con discapacidad visual y sordociegas, a fin de garantizar de manera efectiva sus derechos.
 categories: Derechos y servicios sociales
 topics: Discapacidad
-text: Desarrollaremos la Ley 27/2007 por la que se reconocen las lenguas de signos españolas y se regulan los medios de apoyo a la comunicación oral de las personas sordas, con discapacidad visual y sordociegas, a fin de garantizar de manera efectiva sus derechos.

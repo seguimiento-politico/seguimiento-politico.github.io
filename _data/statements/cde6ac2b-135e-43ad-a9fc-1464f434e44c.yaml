@@ -1,6 +1,6 @@
 id: cde6ac2b-135e-43ad-a9fc-1464f434e44c
-type: declaration
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_chapter: 999e9dab-efca-4092-a144-a19ca4ee5302
+text: Uno de los objetivos más importantes de las políticas de bienestar es asegurar la autonomía y la libertad de toda la ciudadanía. En nuestro país, las personas con discapacidad han padecido tradicionalmente un menoscabo de su derecho a llevar una vida independiente y tomar sus propias decisiones sobre cómo desean vivirla. Vamos a garantizar que todas las personas con discapacidad puedan desarrollar un proyecto vital propio sin barreras sociales que limiten sus opciones.
 categories: Derecuos y servicios sosciales
 topics: Discapacidad
-text: Uno de los objetivos más importantes de las políticas de bienestar es asegurar la autonomía y la libertad de toda la ciudadanía. En nuestro país, las personas con discapacidad han padecido tradicionalmente un menoscabo de su derecho a llevar una vida independiente y tomar sus propias decisiones sobre cómo desean vivirla. Vamos a garantizar que todas las personas con discapacidad puedan desarrollar un proyecto vital propio sin barreras sociales que limiten sus opciones.

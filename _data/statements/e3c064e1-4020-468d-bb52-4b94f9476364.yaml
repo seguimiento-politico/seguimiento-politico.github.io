@@ -1,7 +1,6 @@
 id: e3c064e1-4020-468d-bb52-4b94f9476364
 type: promise
-parent_statement: dcae6b18-3248-4abf-90d9-65bcb4522bf9
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Educación
+parent_statement: dcae6b18-3248-4abf-90d9-65bcb4522bf9
+parent_chapter: 4f44b60a-d630-48f6-91cf-914cb0392db6
 text: El mantenimiento y mejora de los centros públicos requiere una mayor inversión en sus infraestructuras y equipamientos, con dotación de espacios de uso múltiple, talleres, bibliotecas, aulas de música, gimnasios, comedores escolares, etcétera.
+categories: Educación

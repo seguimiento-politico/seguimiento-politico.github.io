@@ -1,6 +1,6 @@
 id: 5513906a-ad83-403f-be5f-56f8325010c0
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 44
-categories: Derechos y servicios sociales
+parent_chapter: a4517fe7-5755-4c05-a541-7d42b42f6bb3
 text: Acabar con la promoción del suicidio llevada a cabo a través de los organismos nacionales e internacionales camuflado como muerte digna.
+categories: Derechos y servicios sociales

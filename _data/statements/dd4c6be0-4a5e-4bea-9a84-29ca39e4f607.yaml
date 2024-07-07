@@ -1,6 +1,6 @@
 id: dd4c6be0-4a5e-4bea-9a84-29ca39e4f607
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 203
+parent_chapter: 9df1cf73-adc1-4910-a99e-228a64a24049
+text: Continuaremos incrementando hasta el 30% las plazas de Formación Sanitaria Especializada en todas las especialidades de Salud Mental.
 categories: Sanidad
 topics: Salud mental
-text: Continuaremos incrementando hasta el 30% las plazas de Formación Sanitaria Especializada en todas las especialidades de Salud Mental.

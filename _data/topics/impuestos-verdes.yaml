@@ -1,0 +1,26 @@
+name: Impuestos verdes
+other: []
+other_count: 0
+position_negative:
+- &id002
+  id: 072dd59b-4b76-4b25-8a7d-d0c5fc8d4950
+  parties:
+  - VOX
+- &id001
+  id: ece6ba07-cf63-414d-a430-2f0d8c9b2be1
+  parties:
+  - VOX
+position_negative_count: 2
+position_positive: []
+position_positive_count: 0
+proposed_actions:
+- *id001
+proposed_actions_count: 1
+statements:
+- *id002
+- *id001
+statements_count: 2
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

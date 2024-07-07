@@ -1,7 +1,6 @@
 id: c43a7004-0271-47d5-9a42-9cc40e4ce40d
 type: promise
-parent_statement: 319ffd55-6ed8-4868-829e-91c1db019b69
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 319ffd55-6ed8-4868-829e-91c1db019b69
+parent_chapter: b36e5d9e-ba98-45f0-8911-a0a18af0be33
+text: Permiso de cuidados para enfermedades comunes. Cualquiera que tenga a cargo hijos o hijas menores de edad, o familiares en situación de dependencia, sabe hasta qué punto las enfermedades de diferente gravedad y las urgencias quiebran los arreglos de conciliación cotidianos. Nos comprometemos a hacer efectivo el recién aprobado permiso de cinco días (al igual que el permiso de cuatro días por razones de fuerza mayor), cumpliendo con la directiva europea de conciliación que introdujo el permiso para cuidadores de cinco días, con el objetivo de ampliarlo, al menos, a siete días.
 categories: Familia
 topics: Incentivos, ayudas y subvenciones
-text: Permiso de cuidados para enfermedades comunes. Cualquiera que tenga a cargo hijos o hijas menores de edad, o familiares en situación de dependencia, sabe hasta qué punto las enfermedades de diferente gravedad y las urgencias quiebran los arreglos de conciliación cotidianos. Nos comprometemos a hacer efectivo el recién aprobado permiso de cinco días (al igual que el permiso de cuatro días por razones de fuerza mayor), cumpliendo con la directiva europea de conciliación que introdujo el permiso para cuidadores de cinco días, con el objetivo de ampliarlo, al menos, a siete días.

@@ -1,6 +1,6 @@
 id: 1a9db4b9-00d6-4c45-89a0-ca43a34b9571
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 249
+parent_chapter: 78357eae-f064-4648-9cf1-b5e149ae3feb
+text: 'Mejoraremos la inversión en la conexión digital de todos los órganos judiciales para permitir a la ciudadanía una tramitación más próxima, rápida, eficiente y sencilla de sus expedientes. Antes de finalizar la legislatura, todos y cada uno de los órganos judiciales de España estarán conectados: el movimiento de expedientes será inmediato, reduciendo los tiempos y el papel (“papel 0”) y los juicios telemáticos. Las declaraciones a distancia serán posibles desde cada municipio con plenas garantías de seguridad.'
 categories: Justicia
 topics: Eficiencia
-text: 'Mejoraremos la inversión en la conexión digital de todos los órganos judiciales para permitir a la ciudadanía una tramitación más próxima, rápida, eficiente y sencilla de sus expedientes. Antes de finalizar la legislatura, todos y cada uno de los órganos judiciales de España estarán conectados: el movimiento de expedientes será inmediato, reduciendo los tiempos y el papel (“papel 0”) y los juicios telemáticos. Las declaraciones a distancia serán posibles desde cada municipio con plenas garantías de seguridad.'

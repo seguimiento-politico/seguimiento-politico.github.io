@@ -1,7 +1,6 @@
 id: 8675b3a3-094b-4c49-8d17-5219f9e0403d
 type: promise
-parent_statement: fd6a61e2-a8c5-4518-a658-d72284dd176e
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: fd6a61e2-a8c5-4518-a658-d72284dd176e
+parent_chapter: b82b7f57-da6b-4fd4-8a55-f1773ebd9608
+text: Nuestra guía debe ser una Administración centrada en las personas y, por lo tanto, que garantice tanto el respeto a su diversidad como la inclusión de todas sus situaciones y todas sus voces.
 categories: Democracia
 topics: Administración pública
-text: Nuestra guía debe ser una Administración centrada en las personas y, por lo tanto, que garantice tanto el respeto a su diversidad como la inclusión de todas sus situaciones y todas sus voces.

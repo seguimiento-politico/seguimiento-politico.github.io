@@ -1,11 +1,12 @@
 id: 1ce832ec-bb19-4642-885b-3e4ad5bbe1be
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 61
-categories: Transporte
+parent_chapter: 03e3df18-a4c8-4daa-9c15-51db75987db3
 text: Derogaremos el Decreto Ábalos en los sectores del taxi y de los VTC, garantizando la libertad de elección del usuario y que incremente las oportunidades del taxi para adaptarse a las nuevas formas de movilidad. La regulación pondrá al ciudadano y su libertad de elección como eje.
+categories: Transporte

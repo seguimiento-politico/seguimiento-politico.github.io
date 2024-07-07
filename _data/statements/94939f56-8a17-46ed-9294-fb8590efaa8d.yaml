@@ -1,6 +1,6 @@
 id: 94939f56-8a17-46ed-9294-fb8590efaa8d
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,12 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 24
-categories: Educación
+parent_chapter: 1b166bbb-40b5-49ba-a4c8-75dad7a80fff
+children_promises:
+- de0e448c-7d2a-4d5c-944f-e5d197362aee
+- f19f012b-bd54-4118-ad44-273cda18983a
+- 39cff8a3-3e96-44de-a1d2-9c7e98104e37
+- 84ceb412-7004-4352-bc61-ea0e9a47d16a
+children_statements: []
 text: 'La digitalización implica una nueva forma de construir conocimiento que supondrá transformaciones organizativas y pedagógicas para incorporar la educación digital desde la educación infantil hasta el bachillerato, la FP y la formación a lo largo de la vida. El sistema educativo se insertará activamente en la agenda de digitalización que promoverá el Gobierno, desarrollando una ambiciosa Estrategia de Digitalización de la Educación a partir de cuatro vectores:'
-has_children: true
+categories: Educación

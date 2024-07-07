@@ -1,6 +1,6 @@
 id: 5eae35b3-7b94-4c9b-8f2d-07f11580d0c0
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 124
-categories: Cultura
+parent_chapter: ef655d4e-aabd-4367-b039-db13bf06547d
 text: Reforzaremos el Programa Estatal de Circulación de Espectáculos de Artes Escénicas en Espacios de las Entidades Locales (PLATEA), prestando especial atención a los municipios pequeños.
+categories: Cultura

@@ -1,7 +1,6 @@
 id: f33cc773-7cf2-4956-9b6a-a3c4b0a561a6
-type: declaration
-parent_statement: 44671aff-fae8-4f46-83a0-4558d2377a59
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Administración pública
+parent_statement: 44671aff-fae8-4f46-83a0-4558d2377a59
+parent_chapter: f4f32036-0cfd-4ca9-b6f3-5cfec1c58526
 text: La reducción de las plantillas de trabajadores del sector público, como resultado de los recortes aplicados por Gobiernos anteriores, así como la eliminación de la atención presencial exigida por la política de distanciamiento social para luchar contra el COVID-19, han limitado el acceso a la atención presencial en la Administración pública para muchas personas, sin haber ido acompañada de una mejora suficiente del acceso por medios digitales. Esto provoca un peor servicio público.
+categories: Administración pública

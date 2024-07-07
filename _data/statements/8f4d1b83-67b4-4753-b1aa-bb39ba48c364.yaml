@@ -1,6 +1,6 @@
 id: 8f4d1b83-67b4-4753-b1aa-bb39ba48c364
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 216
+parent_chapter: 37ccd35a-fe53-4de6-9cb4-dcc2c03bbd66
+text: Durante los próximos cuatro años seguiremos combatiendo la discriminación el Pacto Social por la no Discriminación y la Igualdad de Trato Asociada al VIH, del mismo modo seguiremos impulsando todas las medidas de diagnóstico temprano para poder llegar a los objetivos 95-95-95.
 categories: Derechos y servicios sociales
 topics: VIH
-text: Durante los próximos cuatro años seguiremos combatiendo la discriminación el Pacto Social por la no Discriminación y la Igualdad de Trato Asociada al VIH, del mismo modo seguiremos impulsando todas las medidas de diagnóstico temprano para poder llegar a los objetivos 95-95-95.

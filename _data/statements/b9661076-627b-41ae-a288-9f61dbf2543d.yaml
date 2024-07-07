@@ -1,11 +1,12 @@
 id: b9661076-627b-41ae-a288-9f61dbf2543d
-type: declaration
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+type: statement
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 87
-categories: Seguridad y defensa
+parent_chapter: adfdbb68-8e6d-41fa-b953-fcd2789530ea
 text: Queremos ciudades seguras, en las que en las calles no existan formas de explotación como es el comercio ilegal y en las que las viviendas privadas no sean ocupadas. Es imprescindible volver a las políticas responsables de inmigración, que debe ser legal, ordenada, vinculada a un contrato de trabajo y con la voluntad de integración y respeto a las costumbres de la nación que les acoge
+categories: Seguridad y defensa

@@ -1,12 +1,13 @@
 id: 5a245bf6-ce96-4520-bc70-83238892b972
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 17
+parent_chapter: b019b40e-f2ac-4d25-bf11-14a963b4bdaf
+text: Aprobaremos una rebaja fiscal del IRPF que afectará todos los contribuyentes. El tipo máximo se situará por debajo del 40%.
 categories:
 - Impuestos y financiación pública
-text: Aprobaremos una rebaja fiscal del IRPF que afectará todos los contribuyentes. El tipo máximo se situará por debajo del 40%.

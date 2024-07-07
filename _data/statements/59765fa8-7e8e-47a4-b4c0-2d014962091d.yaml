@@ -1,7 +1,6 @@
 id: 59765fa8-7e8e-47a4-b4c0-2d014962091d
 type: promise
-parent_statement: cf2f9434-e1b5-4c80-aba5-17b44ae0096c
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: cf2f9434-e1b5-4c80-aba5-17b44ae0096c
+parent_chapter: 63ab839a-6275-4d54-bf9b-ec036a685a75
+text: Se podría contemplar la creación de un Fondo público estatal para la digitalización.
 categories: Educación
 topics: Digitalización
-text: Se podría contemplar la creación de un Fondo público estatal para la digitalización.

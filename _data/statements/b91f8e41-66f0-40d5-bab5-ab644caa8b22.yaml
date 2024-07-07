@@ -1,7 +1,6 @@
 id: b91f8e41-66f0-40d5-bab5-ab644caa8b22
 type: promise
-parent_statement: 5d16ce48-af05-4300-a35b-6b57ed169458
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 5d16ce48-af05-4300-a35b-6b57ed169458
+parent_chapter: 7d3df58a-3293-4f26-b114-1a8c3838af87
+text: Garantizaremos el derecho de la infancia a una alimentación saludable. Se regulará por ley la publicidad en las comunicaciones comerciales de alimentos y bebidas dirigida al público infantil y juvenil.
 categories: Consumo
 topics: Alimentación saludable
-text: Garantizaremos el derecho de la infancia a una alimentación saludable. Se regulará por ley la publicidad en las comunicaciones comerciales de alimentos y bebidas dirigida al público infantil y juvenil.

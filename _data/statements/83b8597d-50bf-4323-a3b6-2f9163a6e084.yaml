@@ -1,6 +1,6 @@
 id: 83b8597d-50bf-4323-a3b6-2f9163a6e084
-type: declaration
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 22
+parent_chapter: d3d26d0a-0ea8-4348-8556-ce6fd7e0688d
+text: La inteligencia artificial representa una de las grandes transformaciones de la era digital que estamos viviendo. Tal y como ha señalado la Unión Europea, de cómo abordemos su regulación dependerá en gran medida nuestro futuro. En este sentido, queremos participar activamente en el proceso legislativo de la UE, señalando las prioridades de la autonomía estratégica abierta y planteando para nuestro país una Estrategia Nacional de Inteligencia Artificial que aproveche todo su potencial, poniendo siempre a la persona en el centro. Tenemos la ambición de hacer de nuestro país uno de los protagonistas del mundo que viene.
 categories: Ciencia y tecnología
 topics: Inteligencia artificial
-text: La inteligencia artificial representa una de las grandes transformaciones de la era digital que estamos viviendo. Tal y como ha señalado la Unión Europea, de cómo abordemos su regulación dependerá en gran medida nuestro futuro. En este sentido, queremos participar activamente en el proceso legislativo de la UE, señalando las prioridades de la autonomía estratégica abierta y planteando para nuestro país una Estrategia Nacional de Inteligencia Artificial que aproveche todo su potencial, poniendo siempre a la persona en el centro. Tenemos la ambición de hacer de nuestro país uno de los protagonistas del mundo que viene.

@@ -1,6 +1,6 @@
 id: 0c3957f7-7588-4d2e-8acc-bd72225a191f
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 167
+parent_chapter: e207a6bf-9c54-4399-a574-f130ae590b63
+text: También hemos cumplido con nuestro compromiso de dignificar las pensiones más bajas, y por ello hemos establecido una senda de subida para las pensiones mínimas y no contributivas por encima de la revalorización de las pensiones contributivas, con la intención de evitar así situaciones de exclusión social derivadas de la falta de recursos en la tercera edad.
 categories: Derechos y servicios sociales
 topics: Pensiones
-text: También hemos cumplido con nuestro compromiso de dignificar las pensiones más bajas, y por ello hemos establecido una senda de subida para las pensiones mínimas y no contributivas por encima de la revalorización de las pensiones contributivas, con la intención de evitar así situaciones de exclusión social derivadas de la falta de recursos en la tercera edad.

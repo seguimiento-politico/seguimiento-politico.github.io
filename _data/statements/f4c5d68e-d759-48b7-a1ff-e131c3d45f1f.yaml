@@ -1,7 +1,6 @@
 id: f4c5d68e-d759-48b7-a1ff-e131c3d45f1f
 type: promise
-parent_statement: 8292e29b-ade0-4af1-9514-e0d6dfb34433
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Justicia
+parent_statement: 8292e29b-ade0-4af1-9514-e0d6dfb34433
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
 text: En la justicia penal hay que llevar a cabo un adecuado control de las conformidades que evite la vulneración de los derechos de igualdad y de defensa, especialmente en el caso de personas extranjeras. Promulgaremos una nueva ley de indultos ajustada a la realidad social actual y que refuerce la exigencia del interés público en su concesión.
+categories: Justicia

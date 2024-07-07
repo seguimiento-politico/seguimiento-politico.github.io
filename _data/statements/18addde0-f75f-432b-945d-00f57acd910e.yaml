@@ -1,6 +1,6 @@
 id: 18addde0-f75f-432b-945d-00f57acd910e
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 16
+parent_chapter: 48b6e85e-eb0a-40f5-9aa9-d85750a8402d
+text: CREAREMOS EL PLAN NEXT35, con apoyo individualizado a las “scale ups” llamadas a convertirse en las grandes creadoras de empleo del futuro. Facilitaremos el desarrollo de la industria de capital riesgo nacional y promoveremos instrumentos que faciliten la transferencia de conocimiento desde la Universidad y los centros de investigación a las empresas.
 categories: Economía
 topics: Desarrollo sostenible
-text: CREAREMOS EL PLAN NEXT35, con apoyo individualizado a las “scale ups” llamadas a convertirse en las grandes creadoras de empleo del futuro. Facilitaremos el desarrollo de la industria de capital riesgo nacional y promoveremos instrumentos que faciliten la transferencia de conocimiento desde la Universidad y los centros de investigación a las empresas.

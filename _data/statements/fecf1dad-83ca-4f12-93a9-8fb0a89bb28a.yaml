@@ -1,7 +1,6 @@
 id: fecf1dad-83ca-4f12-93a9-8fb0a89bb28a
 type: promise
-parent_statement: 79b36441-816a-4d21-be49-cb3564d9fba1
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 79b36441-816a-4d21-be49-cb3564d9fba1
+parent_chapter: dc33f933-12a0-4325-b761-1f9bf8c3ad0d
+text: Colaboración entre científicos y pescadores, con programas de trabajo conjunto, participación del pescador en la toma de decisiones y flotas de referencia para colaborar en la recogida de información." Implantación de sistemas de automuestreo, con metodologías estandarizadas por los científicos para un conocimiento del estado de los stocks, contribuyendo con ello a una gestión más adaptada a los cambios biológicos."
 categories: Pesca y acuicultura
 topics: Desarrollo sostenible
-text: Colaboración entre científicos y pescadores, con programas de trabajo conjunto, participación del pescador en la toma de decisiones y flotas de referencia para colaborar en la recogida de información." Implantación de sistemas de automuestreo, con metodologías estandarizadas por los científicos para un conocimiento del estado de los stocks, contribuyendo con ello a una gestión más adaptada a los cambios biológicos."

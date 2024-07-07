@@ -1,6 +1,6 @@
 id: 186b6a90-c659-47ae-841d-9cf6a27d7a47
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 36
+parent_chapter: 12158988-3018-46c1-a0c0-5e4fe59ae11e
+text: Para velar por el cumplimiento de estas medidas, se potenciarán las inspecciones laborales, se incrementará el régimen sancionador y crearemos la Oficina Estatal de lucha contra la discriminación en la Inspección de Trabajo, con especial atención a las que sufren las mujeres, integrada en el Organismo Estatal de Inspección de Trabajo y de Seguridad Social, para supervisar la igualdad en el acceso al empleo, en la promoción profesional, en las condiciones de trabajo, especialmente las retributivas y en el acceso a la formación profesional, tanto del sistema educativo como para el empleo.
 categories: Derechos y servicios sociales
 topics: Igualdad
-text: Para velar por el cumplimiento de estas medidas, se potenciarán las inspecciones laborales, se incrementará el régimen sancionador y crearemos la Oficina Estatal de lucha contra la discriminación en la Inspección de Trabajo, con especial atención a las que sufren las mujeres, integrada en el Organismo Estatal de Inspección de Trabajo y de Seguridad Social, para supervisar la igualdad en el acceso al empleo, en la promoción profesional, en las condiciones de trabajo, especialmente las retributivas y en el acceso a la formación profesional, tanto del sistema educativo como para el empleo.

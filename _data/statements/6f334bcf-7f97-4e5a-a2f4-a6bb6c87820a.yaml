@@ -1,6 +1,6 @@
 id: 6f334bcf-7f97-4e5a-a2f4-a6bb6c87820a
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 25
-categories: Trabajo
+parent_chapter: 89a37952-7653-4d01-b826-60b84d3454b4
+children_promises:
+- ee8d56b3-7064-4df6-8961-078743e7d8bb
+children_statements: []
 text: A nuestros mayores se les ha chantajeado con sus pensiones, y se sigue haciendo, con fines partidistas mientras sentencian el futuro de nuestros hijos. La solución estructural a largo plazo debe ser el incremento de la natalidad frente al invierno demográfico que asola nuestra nación.
-has_children: true
+categories: Trabajo

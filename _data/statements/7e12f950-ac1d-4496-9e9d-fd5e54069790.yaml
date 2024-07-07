@@ -1,7 +1,6 @@
 id: 7e12f950-ac1d-4496-9e9d-fd5e54069790
 type: promise
-parent_statement: 88875a2e-d176-435f-8ea7-0735797d30db
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 88875a2e-d176-435f-8ea7-0735797d30db
+parent_chapter: 5ac453aa-319d-4ea3-b4b6-7a63e3dde3ff
+text: por medio de una transposición rápida y efectiva de la normativa europea y de la monitorización de las buenas y malas prácticas de las empresas (en materias como el etiquetado, las garantías de durabilidad o la disponibilidad de piezas), así como con campañas de divulgación y sensibilización que incentiven la reparación frente a la sustitución.
 categories: Consumo
 topics: Consumo sostenible
-text: por medio de una transposición rápida y efectiva de la normativa europea y de la monitorización de las buenas y malas prácticas de las empresas (en materias como el etiquetado, las garantías de durabilidad o la disponibilidad de piezas), así como con campañas de divulgación y sensibilización que incentiven la reparación frente a la sustitución.

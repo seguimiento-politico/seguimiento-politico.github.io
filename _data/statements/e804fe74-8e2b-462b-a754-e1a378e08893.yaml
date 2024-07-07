@@ -1,7 +1,6 @@
 id: e804fe74-8e2b-462b-a754-e1a378e08893
 type: promise
-parent_statement: 231feeea-b594-4111-b7c6-6c510b7e420f
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Vivienda
+parent_statement: 231feeea-b594-4111-b7c6-6c510b7e420f
+parent_chapter: 10dbdb5a-3231-46ed-86c9-0dc18f77040e
 text: Crearemos un banco público para que contrarreste el oligopolio bancario y se pueda rebajar el coste de las hipotecas. Crearlo a partir del ICO y de la red de oficinas de Correos. Un banco que también lleve los servicios financieros a la España vaciada.
+categories: Vivienda

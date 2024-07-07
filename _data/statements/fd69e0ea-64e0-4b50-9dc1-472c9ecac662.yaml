@@ -1,6 +1,6 @@
 id: fd69e0ea-64e0-4b50-9dc1-472c9ecac662
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 96
+parent_chapter: 1acd9b9e-b384-4d0b-bbc8-26a101a0abb1
+text: Desarrollaremos de forma completa la titularidad compartida de las explotaciones agrarias que permita visibilizar y reforzar el papel de las mujeres en la gestión y el trabajo de las explotaciones agrarias.
 categories: Territorio rural
 topics: Igualdad, Feminismo
-text: Desarrollaremos de forma completa la titularidad compartida de las explotaciones agrarias que permita visibilizar y reforzar el papel de las mujeres en la gestión y el trabajo de las explotaciones agrarias.

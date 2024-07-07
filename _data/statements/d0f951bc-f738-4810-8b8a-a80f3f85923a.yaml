@@ -1,7 +1,6 @@
 id: d0f951bc-f738-4810-8b8a-a80f3f85923a
 type: promise
-parent_statement: 11c2e30c-8ff0-4cb6-b4c5-35f12cc8259e
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 11c2e30c-8ff0-4cb6-b4c5-35f12cc8259e
+parent_chapter: 66cf6219-da39-4941-aa1a-c1b88e89ed00
+text: Transferiremos las competencias de gestión de puertos y aeropuertos de los diferentes territorios del Estado, para que la gestión sea conjunta con las ciudades en las que se encuentran y cuente con financiación y una actualización de las inversiones.
 categories: Transporte
 topics: Movilidad sostenible
-text: Transferiremos las competencias de gestión de puertos y aeropuertos de los diferentes territorios del Estado, para que la gestión sea conjunta con las ciudades en las que se encuentran y cuente con financiación y una actualización de las inversiones.

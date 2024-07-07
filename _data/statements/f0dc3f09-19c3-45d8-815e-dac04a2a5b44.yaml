@@ -1,7 +1,6 @@
 id: f0dc3f09-19c3-45d8-815e-dac04a2a5b44
 type: promise
-parent_statement: d3fe492e-4670-4ee2-8e75-672e0f30be5f
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Seguridad y defensa
+parent_statement: d3fe492e-4670-4ee2-8e75-672e0f30be5f
+parent_chapter: 66b190ef-617c-438a-adf3-a3c9f707719b
 text: Se fomentarán redes de mediación en barrios y pueblos, así como espacios comunitarios de reflexión y participación cívica desde una perspectiva de educación para la igualdad, la diversidad, la paz, la no violencia y la no polarización.
+categories: Seguridad y defensa

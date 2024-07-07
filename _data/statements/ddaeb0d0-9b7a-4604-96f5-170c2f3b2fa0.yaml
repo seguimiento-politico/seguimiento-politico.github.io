@@ -1,6 +1,6 @@
 id: ddaeb0d0-9b7a-4604-96f5-170c2f3b2fa0
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,15 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 169
-categories: Cultura
+parent_chapter: 1b4d5a8a-94bc-43e6-a463-c865f0d6ae63
+children_promises:
+- 1d00949e-d796-4bf9-926d-e850c4dfcaac
+- d5ef3be8-632b-487f-8382-8c23643eb76e
+- 03a5dd52-a37c-4e8f-9184-f736edbd261c
+- f1d8788c-cb88-4575-8cbb-6faa64f3fbb2
+- 33acfc63-e6d8-41d7-947d-67f59526be59
+- 1924bb2f-d3df-403e-9729-99b627d07695
+- 98cab62e-b584-4148-a6ad-5d7996674eea
+children_statements: []
 title: Medidas en materia de contratación pública
-has_children: true
+categories: Cultura

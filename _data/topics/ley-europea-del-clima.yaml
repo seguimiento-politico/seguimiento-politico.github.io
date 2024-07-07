@@ -1,0 +1,25 @@
+name: Ley Europea del Clima
+other: []
+other_count: 0
+position_negative:
+- &id001
+  id: 47981e9d-1330-44f9-abdd-3c054b10a812
+  parties:
+  - VOX
+- &id002
+  id: 072dd59b-4b76-4b25-8a7d-d0c5fc8d4950
+  parties:
+  - VOX
+position_negative_count: 2
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- *id002
+statements_count: 2
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

@@ -1,7 +1,6 @@
 id: 9390ea9e-1350-45c1-988a-48e575ab648b
 type: promise
-parent_statement: 2e55fff1-192d-4058-9c94-916d551dc61a
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Deporte
+parent_statement: 2e55fff1-192d-4058-9c94-916d551dc61a
+parent_chapter: 1f3cf0db-d571-4433-a626-3036186931e1
 text: Modificar el Real Decreto 1006/1985 de 26 de junio, por el que se regula la relación laboral especial de los deportistas profesionales, para adaptarla a los tiempos presentes y que las mujeres puedan mejorar su relación laboral en el mundo del deporte.
+categories: Deporte

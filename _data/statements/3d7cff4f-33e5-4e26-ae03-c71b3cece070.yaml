@@ -1,6 +1,6 @@
 id: 3d7cff4f-33e5-4e26-ae03-c71b3cece070
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,16 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 32
+parent_chapter: 8c9deee8-b4c2-4027-80d6-2a7c7cb91f0b
+children_promises:
+- 26cf1f42-e910-45f7-8363-2fee82311868
+- aba9fc90-3a8e-4dcf-ba8b-52dcf4ea7f61
+- 7164f740-a953-4b9a-bfd8-b4b46fdb1f06
+- 3243c064-d6ed-41db-b6de-6e9817818cde
+- 99b8c7a1-435e-48e8-8f40-6e80920f95af
+- 19154085-f53f-496c-9605-12efc8b66e80
+- ed7ad612-0239-4dcb-a741-fa3efb4b8653
+children_statements: []
+title: Entornos laborales seguros y saludables
 categories: Trabajo
 topics: Riesgos laborales
-title: Entornos laborales seguros y saludables
-has_children: true

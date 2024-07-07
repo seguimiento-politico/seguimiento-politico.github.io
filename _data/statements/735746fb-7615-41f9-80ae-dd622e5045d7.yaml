@@ -1,6 +1,6 @@
 id: 735746fb-7615-41f9-80ae-dd622e5045d7
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 15
+parent_chapter: 14cfe70b-f6b5-4003-88f7-02a877dec28f
 title: Hacer del tren el sistema prioritario en la vertebración del territorio.
 text: (Véase el apartado «Garantías de Justicia Territorial»)

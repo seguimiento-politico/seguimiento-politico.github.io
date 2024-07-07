@@ -1,6 +1,6 @@
 id: 091b8695-035b-4b29-99b8-2d19d98ad628
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 98
+parent_chapter: cd71fb88-1658-464b-8b3b-71c7ee02927f
+text: Protegeremos la economía y el empleo del sector mar, ya que el borde litoral es muy vulnerable a los impactos del cambio climático, afectando especialmente a las actividades que se desarrollan sobre el mismo.
 categories: Medioambiente
 topics:
 - Cambio climático
 - Gestión de riesgos
-text: Protegeremos la economía y el empleo del sector mar, ya que el borde litoral es muy vulnerable a los impactos del cambio climático, afectando especialmente a las actividades que se desarrollan sobre el mismo.

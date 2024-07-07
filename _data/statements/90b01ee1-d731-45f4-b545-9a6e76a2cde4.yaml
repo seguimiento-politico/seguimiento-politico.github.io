@@ -1,7 +1,6 @@
 id: 90b01ee1-d731-45f4-b545-9a6e76a2cde4
 type: promise
-parent_statement: b575e686-abfa-40f6-9be1-756f74b87156
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: b575e686-abfa-40f6-9be1-756f74b87156
+parent_chapter: 5a78c83a-e028-4353-b943-e627cc312cee
+text: Para promover la inclusión financiera de las personas migrantes en España, podrá expandirse la oferta de productos financieros adaptados a las necesidades de esta población, y reformar, simplificar y digitalizar el sistema de homologación de títulos y experiencia profesional, promoviendo el sistema de cualificación profesional para mejorar la empleabilidad
 categories: Migración
 topics: Racismo
-text: Para promover la inclusión financiera de las personas migrantes en España, podrá expandirse la oferta de productos financieros adaptados a las necesidades de esta población, y reformar, simplificar y digitalizar el sistema de homologación de títulos y experiencia profesional, promoviendo el sistema de cualificación profesional para mejorar la empleabilidad

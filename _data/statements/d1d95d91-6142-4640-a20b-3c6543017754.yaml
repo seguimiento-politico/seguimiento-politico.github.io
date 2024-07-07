@@ -1,6 +1,6 @@
 id: d1d95d91-6142-4640-a20b-3c6543017754
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 210
-categories: Consumo
+parent_chapter: d389f23d-8889-42f7-bf07-5877db4fb159
 text: Continuaremos reforzando la seguridad alimentaria sobre la mejor evidencia científica, como aspecto fundamental de la salud pública, para ofrecer garantías e información objetiva a las personas consumidoras y agentes económicos del sector agroalimentario español. Dotaremos de un reforzado impulso a las estrategias de promoción de la salud en el ámbito de la nutrición, la actividad física y la prevención de la obesidad. Promoveremos dietas saludables y sostenibles, especialmente la dieta mediterránea; mejoraremos el etiquetado nutricional de los productos alimenticios, y trabajaremos para recuperar modelos de producción agroalimentaria y consumo que favorezcan el consumo de cercanía.
+categories: Consumo

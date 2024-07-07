@@ -1,6 +1,6 @@
 id: 22ca0775-fdc9-4020-8752-67862cb9f22f
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 31
-categories: Derechos y servicios sociales
+parent_chapter: 17196e02-8167-47c1-85ab-7e5f65277435
 text: Reconocimiento y protección de la diversidad familiar. Elaboraremos una Ley que responda y proteja a las diferentes estructuras familiares. En concreto, se protegerá las familias monomarentales y monoparentales (encabezadas en más de un 82% por mujeres), las familias numerosas, las de partos múltiples y las familias acogedoras, adecuando las ayudas y prestaciones a la situación de necesidad según tamaño, características y rentas familiares. De esta manera, garantizaremos la protección efectiva de las distintas realidades familiares elegidas con libertad, con medidas de apoyo a la adopción a familias LGTBI, reconocimiento de la filiación de las parejas de mujeres lesbianas y protección jurídica de las nuevas formas de convivencia estables sin ser pareja.
+categories: Derechos y servicios sociales

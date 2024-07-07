@@ -1,6 +1,6 @@
 id: 7ab5623f-8a9f-48b1-bf0b-3a18b79db232
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 47
-categories: Sanidad
+parent_chapter: 5c8d94eb-aad0-4b93-8408-511875a0e54f
 text: RETOMAREMOS LA CREACIÓN DE LA AGENCIA ESTATAL DE SALUD PÚBLICA, garantizando la participación de las Comunidades Autónomas en la gobernanza de la misma y la fijación de sus prioridades. Desplegaremos de forma efectiva la Red Estatal de Vigilancia en Salud Pública y todos los sistemas de vigilancia derivados de la misma, en el marco de una nueva Ley de Pandemias. Priorizaremos en nuestra política sanitaria la coordinación con Europa para la respuesta ante crisis sanitarias.
+categories: Sanidad

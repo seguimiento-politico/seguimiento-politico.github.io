@@ -1,7 +1,6 @@
 id: 9ee3d780-9ed2-43d7-998a-e5f19327e7cc
 type: promise
-parent_statement: 7edfaa52-05b7-473a-9deb-b99519a4db16
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 7edfaa52-05b7-473a-9deb-b99519a4db16
+parent_chapter: 0954599d-af78-4370-9f76-a716d889661d
+text: Favoreceremos el aumento del tamaño medio de las empresas. El crecimiento de las empresas medianas se encuentra muchas veces limitado por el excesivo poder de mercado de las grandes, lo que dificulta a las más pequeñas el acceso a redes más extensas y el aprovechamiento de sinergias. Por eso, hay que actuar con determinación para impulsar la competencia e introducir nuevos procedimientos que permitan a las pequeñas empresas acceder en mayor medida y en mejores condiciones a la licitación pública, por ejemplo incorporando cláusulas sociales que favorezcan a autónomos y pymes, o reduciendo la subcontratación a una parte residual de la licitación. También debe replantearse el papel de las sociedades de garantía recíproca para impulsar este crecimiento y crear un fondo de capitalización público orientado precisamente a tal objetivo, así como impulsar los servicios de apoyo a startups y scaleups.
 categories: Economía
 topics: Productividad
-text: Favoreceremos el aumento del tamaño medio de las empresas. El crecimiento de las empresas medianas se encuentra muchas veces limitado por el excesivo poder de mercado de las grandes, lo que dificulta a las más pequeñas el acceso a redes más extensas y el aprovechamiento de sinergias. Por eso, hay que actuar con determinación para impulsar la competencia e introducir nuevos procedimientos que permitan a las pequeñas empresas acceder en mayor medida y en mejores condiciones a la licitación pública, por ejemplo incorporando cláusulas sociales que favorezcan a autónomos y pymes, o reduciendo la subcontratación a una parte residual de la licitación. También debe replantearse el papel de las sociedades de garantía recíproca para impulsar este crecimiento y crear un fondo de capitalización público orientado precisamente a tal objetivo, así como impulsar los servicios de apoyo a startups y scaleups.

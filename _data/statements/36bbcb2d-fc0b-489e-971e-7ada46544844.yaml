@@ -1,6 +1,6 @@
 id: 36bbcb2d-fc0b-489e-971e-7ada46544844
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 102
+parent_chapter: f8348ef6-75be-45f5-9b64-97ad1de424bc
+text: Impulsaremos junto a las regiones y ayuntamientos una red de alerta en tiempo real que ponga en conocimiento de las Fuerzas y Cuerpos de seguridad del Estado cualquier caso de inmigración ilegal en territorio nacional de la que tengan conocimiento las distintas administraciones.
 categories:
 - Migración
-text: Impulsaremos junto a las regiones y ayuntamientos una red de alerta en tiempo real que ponga en conocimiento de las Fuerzas y Cuerpos de seguridad del Estado cualquier caso de inmigración ilegal en territorio nacional de la que tengan conocimiento las distintas administraciones.

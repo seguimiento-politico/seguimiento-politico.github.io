@@ -1,6 +1,6 @@
 id: df818399-e432-45ed-96aa-fcaef6b2b069
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 115
+parent_chapter: 13181c54-a102-4634-92ba-c7fdefe1ff22
+text: Dedicación horaria del profesorado para proyectos de innovación e investigación aplicada, y el diseño y participación en proyectos con empresas.
 categories: Derechos y servicios sociales
 topics: Profesorado
-text: Dedicación horaria del profesorado para proyectos de innovación e investigación aplicada, y el diseño y participación en proyectos con empresas.

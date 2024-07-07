@@ -1,6 +1,6 @@
 id: 36cc3e97-235e-4305-bec8-4ed8d225c79e
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 123
-categories: Justicia
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
+children_promises:
+- 6dbcb12f-e62b-42d9-b969-ebfd33e39f04
+- 98d7503a-4fd7-4a28-8df6-8f4e59764374
+- a8e1b1e8-2225-4132-b676-8ab5cf49b644
+- 852a2ac2-e9c8-404f-af67-6b27716e4b32
+children_statements:
+- bbeffe30-a718-458f-a2f1-fd69c0bab57b
 title: Desarrollo de forma dialogada un plan de choque inmediato en la Administración de justicia para eliminar sus graves deficiencias.
-has_children: true
+categories: Justicia

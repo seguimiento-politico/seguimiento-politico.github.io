@@ -1,7 +1,6 @@
 id: 5a6a5a50-bc65-4ef4-b0f8-5769b03e45a6
 type: promise
-parent_statement: b0b59cca-80d8-44d8-9502-02fea3c0e80c
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: b0b59cca-80d8-44d8-9502-02fea3c0e80c
+parent_chapter: 67d02a39-a3aa-4e05-9637-8576421fb382
+text: Lanzaremos una segunda convocatoria en el marco del Plan Integral de Impulso de la Economía Social, financiado por el PERTE de Economía Social y de los Cuidados, para favorecer inversiones estratégicas en proyectos altamente innovadores de la economía social, con el objetivo de alcanzar el 11% del PIB en 2030 desde el 10% en 2022.
 categories: Economía
 topics: Economía social
-text: Lanzaremos una segunda convocatoria en el marco del Plan Integral de Impulso de la Economía Social, financiado por el PERTE de Economía Social y de los Cuidados, para favorecer inversiones estratégicas en proyectos altamente innovadores de la economía social, con el objetivo de alcanzar el 11% del PIB en 2030 desde el 10% en 2022.

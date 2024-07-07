@@ -1,6 +1,6 @@
 id: 62eeb6e5-aa1a-45a8-b3e8-2b6d22c62586
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 53
-categories: Política internacional
+parent_chapter: 06572758-339c-4185-bcc1-2905946110b7
 text: 'África debe convertirse en una prioridad de la política exterior europea. Plantearemos en la UE iniciativas que contribuyan al desarrollo sostenible del continente, en línea con las medidas ya contempladas en nuestro Plan África III: avance en igualdad de género, en educación y en sanidad, reforzamiento de las instituciones democráticas, la incorporación de nuevas tecnologías, acceso al agua y a la energía, y mayor capacidad de prevención y adaptación a los fenómenos meteorológicos extremos, consecuencia del calentamiento global.'
+categories: Política internacional

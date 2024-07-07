@@ -1,6 +1,6 @@
 id: 6e41ab23-ebda-4c94-9b9f-656e6956ed07
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 149
+parent_chapter: d67fae0f-7c10-4cec-b6bc-44741cc9c03e
+text: Seguiremos impulsando la perspectiva de género en la IA a través del PERTE de la Nueva Economía de la Lengua.
 categories: Derechos y servicios sociales
 topics: Inteligfencia artificial, Igualdad
-text: Seguiremos impulsando la perspectiva de género en la IA a través del PERTE de la Nueva Economía de la Lengua.

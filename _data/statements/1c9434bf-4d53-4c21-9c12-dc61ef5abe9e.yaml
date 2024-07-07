@@ -1,7 +1,6 @@
 id: 1c9434bf-4d53-4c21-9c12-dc61ef5abe9e
 type: promise
-parent_statement: 4d556633-204c-4ef6-afdb-5bc1a1bffe98
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Cultura
+parent_statement: 4d556633-204c-4ef6-afdb-5bc1a1bffe98
+parent_chapter: d83fae97-6483-46e8-ac0d-9980e0838a11
 text: Nuestras lenguas son materia constitutiva de buena parte de la cultura y de la articulación de las comunidades culturales. Dando cumplimiento al reconocimiento constitucional de la pluralidad lingüística como «un patrimonio cultural que será objeto de especial respeto y protección», desde las instituciones culturales públicas alentaremos la libertad cultural para que todas las personas puedan desarrollarse en la lengua que deseen.
+categories: Cultura

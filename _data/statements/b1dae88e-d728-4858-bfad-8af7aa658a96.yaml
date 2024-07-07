@@ -1,6 +1,6 @@
 id: b1dae88e-d728-4858-bfad-8af7aa658a96
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_chapter: 5de10e2b-1c16-4e44-a4d0-14d9dbb345a6
+text: 'Las administraciones públicas tienen que avanzar en eficiencia administrativa aprovechando una gestión del conocimiento basada en datos. Para ello:'
 categories: Administración pública
 topics: Eficiencia
-text: 'Las administraciones públicas tienen que avanzar en eficiencia administrativa aprovechando una gestión del conocimiento basada en datos. Para ello:'

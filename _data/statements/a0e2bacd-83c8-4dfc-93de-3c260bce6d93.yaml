@@ -1,6 +1,6 @@
 id: a0e2bacd-83c8-4dfc-93de-3c260bce6d93
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 10
+parent_chapter: 14cfe70b-f6b5-4003-88f7-02a877dec28f
 text: Reducir la producción energética primaria basada en combustibles fósiles a la mitad en una década y alcanzar el 100 % de la producción de fuentes renovables en 2040. Se garantizará por ley que, antes de que se pierda un empleo del sector de los combustibles fósiles, se crearán dos empleos con condiciones laborales idénticas o mejores en la misma comarca y que tendrán prioridad absoluta de acceso a ellos las personas afectadas La transición energética que planteamos será justa o no será

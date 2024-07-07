@@ -11,89 +11,92 @@ url: https://www.pp.es/sites/default/files/documentos/programa-electoral-eleccio
 web_history: https://www.pp.es/sites/default/files/documentos/programa-electoral-elecciones-generales-2019.pdf
 content:
 - chapter: 
+    id: 837e463a-8623-483e-9a15-69bf3dc872f4
     title: NUESTRO CONTRATO CON LOS ESPAÑOLES
     children:
-    - declaration:
+    - statement:
         id: c595a00d-5a79-4ce9-99a7-6508482e5473
         page: 6
         text: Las próximas elecciones van a ser decisivas para España. La moción de censura contra el Gobierno del PP provocó un cambio haciendo Presidente a quien ha demostrado no tener más proyecto que el de pactar con populistas y secesionistas poniendo en riesgo la unidad y la igualdad de todos los españoles solo por garantizarse el ejercicio del poder.
-    - declaration:
+    - statement:
         id: 60003871-d79f-40ca-afed-a55af266c1d4
         page: 6
         text: Desde el Partido Popular hemos denunciado con determinación su política de cesiones humillantes, como fue el aceptar un relator y hemos presentado nuestra alternativa a través del Congreso y del Senado demostrando que estamos preparados para gobernar. Además, hemos liderado una oposi- ción responsable, cercana al ciudadano y basada en continuar planteando propuestas para mejorar el bienestar de los españoles.
-    - declaration:
+    - statement:
         id: 0d14c50f-7aab-4398-90d5-c0e412fc1773
         page: 6
         text: Concurrimos a estas elecciones asumiendo plenamente el mandato que dio la “España de los balcones”. Por eso presentamos un programa que manifiesta que frente al secesionismo solo cabe la apli- cación de la ley, la fortaleza del Estado de Derecho y la utilización de los mecanismos constitucionales que nos dimos entre todos.
-    - declaration:
+    - statement:
         id: b58c32e9-8f56-4687-9a39-49e87666ad46
         page: 6
         text: Defendemos que para crear empleo, la primera preocupación de los ciudadanos, hay que bajar impuestos, no subirlos como ha querido hacer la izquierda. Que a quien pretende crear empleo hay que darle facilidades y no complicaciones, porque la mejor manera de garantizar una sanidad, una dependencia y unos servicios públicos de la máxima calidad es que haya más españoles trabajando. Sabemos que el futuro de las pensiones solo estará despejado si afrontamos el desafío demográfico y para ello las familias deben tener la libertad y la posibilidad de tener los hijos que desean, sin que esto suponga un freno en las carreras profesionales.
-    - declaration:
+    - statement:
         id: e7b4849e-8fd7-4624-8621-6bfa0dbbcd90
         page: 6
         text: Las familias tienen el derecho de elegir qué educación quieren para sus hijos y que esta sea de calidad. Creemos en una sociedad en la que todos los españoles sean iguales independientemente si residen en un entorno rural o urbano. Donde la transformación digital no sea una opción sino una revolución de la que España debe ser una nación líder. Una nación que afronte el desafío de la inmigración no mediante un buenismo vacío de contenido, sino por medio de la legalidad y con fronteras seguras.
-    - declaration:
+    - statement:
         id: be4280ea-a062-412b-bf4d-7cf9ba5d175a
         page: 7
         text: No podemos olvidar que vivimos en un mundo con amenazas globales a las que hay que combatir, ni tampoco que España tiene el deber y la obligación de denunciar a los dictadores y apoyar a los demócratas en Venezuela, Cuba y Nicaragua, ayudándoles a tener una voz potente en Europa. Nuestro compromiso va más allá y defendemos la libertad en cuantas naciones alrededor del mundo sufren un régimen opresor y totalitario. Queremos una España fuerte también para contar en Europa en un momento en el que el proyecto de la Unión vive una etapa decisiva. Se necesitan, más que nunca, europeístas convencidos para hacer frente a los populismos y nacionalismos de todo tipo que tratan de poner en riesgo la estabilidad de Europa y el futuro de nuestras democracias.
-    - declaration:
+    - statement:
         id: e436e5d7-e53c-4587-b3ae-e1c63e6774d7
         page: 7
         text: Son retos muy claros en un momento en el que acabamos de conmemorar el 40ª aniversario de la Constitución. Nuestra Carta Magna, que nos hizo ciudadanos libres e iguales, ha sido el elemento vertebrador que ha permitido que estas cuatro décadas hayan sido los mejores años de nuestra historia reciente. Eso se ha logrado, en primer lugar, porque el espíritu que la animó fue el espíritu de la concordia y la reconciliación. Todos cedieron para conseguir que todos cupiesen en una misma nación. Hoy, lo conseguido entonces, está en riesgo cuando el Gobierno ha renunciado a la concordia para imponer una visión falseada de la historia, tratando de mostrar a España como una democracia imperfecta. Un Gobierno que ha optado por abrir viejos debates para provocar nuevas divisiones.
-    - declaration:
+    - statement:
         id: 8f8c33b4-18be-469b-9d00-5bc0f46a1d5d
         page: 7
         text: Uno de los pilares del consenso fue la configuración de un modelo autonómico y local que se ha demostrado todo un acierto. Pero la deslealtad de unos y la inacción de otros nos obliga a impulsar una ambiciosa reforma. Si en 1978 la modernización del país pasaba por la descentralización, hoy, en 2019, el principal reto que tenemos es el de fortalecer la capacidad vertebradora del Estado para garantizar la libertad y la igualdad de todos los españoles. Más España no es menos descentralización sino una descentralización mejor. Centrarse en lo que es de todos no es descuidar lo local o lo autonómico sino consolidarlo.
-    - declaration:
+    - statement:
         id: c29b19a6-de10-48b6-9f46-5bbd4b84ad06
         page: 7
         text: El Partido Popular desea convocar a una sólida y amplia mayoría de españoles en torno a una propuesta de cambio, modernización, reformas y regeneración. Un programa que no pretende decir a los españoles qué tienen que hacer con sus vidas sino que desea acompañarles en sus proyectos. Un programa hecho desde unos valores que rompen con el pesimismo de la izquierda y permiten recuperar la confianza en que las nuevas generaciones vivirán mejor que quienes las precedieron.
-    - declaration:
+    - statement:
         id: 1dbbb983-ed14-4aae-89cb-adaac271d2c3
         page: 7
         text: Esta propuesta sustenta sus principios en las raíces de nuestro partido, en su razón de ser como organización política, pero que se abre al conjunto de la sociedad con la clara convicción de que donde gobernamos a los ciudadanos les va bien y siempre hemos garantizado y fortalecido la unidad de la nación, ampliado la libertad y multiplicado el bienestar y las oportunidades de todos los españoles.
-    - declaration:
+    - statement:
         id: 2404de26-3ddf-42f7-8770-6aaf50a6ea8a
         page: 7
         text: Ante el desafío que suponen las próximas elecciones generales, municipales y autonómicas, presentamos un Contrato con los españoles. Un contrato que se asienta en cinco principios irrenunciables que serán la guía de nuestra acción política.
 - chapter: 
+    id: c698a6b4-5494-48cf-9557-74506cf99d3e
     title: NUESTROS PRINCIPIOS
     children:
-    - declaration:
+    - statement:
         id: 8c8b8601-6d85-4fd4-9fc3-4525b7bee800
         page: 9
         title: España es una Nación de ciudadanos libres e iguales
         text: Una nación que debemos preservar y fortalecer ante el desafío contra la unidad que se mantienen vivo en Cataluña pero que se alienta también en otras partes de España. La Constitución y la democracia nunca han dejado de estar amenazadas por sus enemigos. Hoy estos son el nacionalismo y el populismo. Sólo desde una decidida acción política a través de todas las instituciones podremos derrotarles del mismo modo que en el pasado lo hicimos con otras grandes amenazas. La España de los balcones lanzó un mandato claro. Un mandato basado en la necesidad de reforzar y hacer respetar los elementos que configuran nuestra identidad nacional, especialmente los símbolos –la bandera y la corona– y la lengua común a todos, el español.
-    - declaration:
+    - statement:
         id: 45f8b681-fe57-4149-b969-c8aed6c8a12a
         page: 9
         title: Defendemos la libertad individual
         text: La libertad emancipa a las personas del afán colectivista de la izquierda que pretende dividir a los individuos en función de nuestro género, edad, raza, religión u orientación sexual. Somos ciudadanos de una nación, no una suma de minorías desvertebradas ni un catálogo de etiquetas. La familia es el ámbito natural en el que crecen y se desarrollan los individuos. No hay nada más importante para nosotros que respaldar el futuro de la sociedad que son nuestras familias. Por eso, queremos contar con ellas para devolver el dinamismo a la sociedad, para mejorar la educación, la cohesión social y transmitir valores a nuestros hijos. Estamos plenamente comprometidos con la igualdad de oportunidades y la responsabilidad personal.
-    - declaration:
+    - statement:
         id: 37a69220-7b18-467c-98ec-308848787b93
         page: 10
         title: Creemos en la economía de libre mercado
         text: Defendemos el liderazgo y el protagonismo de la sociedad, de los individuos, las familias y las empresas que la conforman. Sus decisiones libres son el mejor mecanismo de creación de riqueza y crecimiento económico. Queremos más sociedad y menos impuestos. El libre comercio y la globalización han sido los instrumentos más eficaces a la hora de promover el desarrollo de las sociedades. Las Administraciones deben fijar normas estables que garanticen la libertad, la seguridad y la competencia evitando cualquier tipo de situación de monopolio o de trabas, especialmente a la transformación digital de la economía o a la unidad de mercado en el conjunto del territorio nacional. La actividad de los servicios públicos –que son un importante elemento de cohesión de social– se debe guiar por los principios de calidad y eficiencia y asumiendo siempre que la iniciativa privada no está subordinada sino que es legítimamente complementaria. Ningún servicio público es gratis, todo se financia mediante impuestos, tasas o deuda.
-    - declaration:
+    - statement:
         id: a14ed492-45ba-4aeb-b8d3-e2d5d9e33366
         page: 10
         title: El Estado de Derecho es la garantía de todos los ciudadanos
         text: La ley consagra derechos, responsabilidades y deberes. Los poderes públicos están sometidos al imperio de la ley. La ley es la expresión de la voluntad de los ciudadanos, por lo que rechazamos cualquier forma de contraposición entre ley y democracia o entre ley y buenos sentimientos. No cabe ninguna forma de diálogo con quien no tiene más objetivo que incumplir la ley. La responsabilidad de las distintas Administraciones –local, autonómica y nacional– debe estar guiada por el principio de subsidiariedad, es decir, en la primacía de la más próxima al ciudadano a la hora de resolver sus necesidades. Creemos imprescindible reivindicar el valor de la política y del servicio público, el buen Gobierno y el deber de ejemplaridad de quien decide dedicarse a trabajar por el bien común desde la acción política.
-    - declaration:
+    - statement:
         id: c7b18ff5-97da-4567-800d-468d6aaa179b
         page: 11
         title: Una nación segura y con vocación de liderazgo internacional
         text: Somos una nación abierta que necesita impulsar una acción decidida en la Unión Europea porque es Europa nuestro principal ámbito de acción exterior. Para poner freno a la inmigración ilegal hay que enviar mensajes claros de que España solo aceptará a quienes vengan de forma legal, ordenada, vinculada a un contrato de trabajo y respetando nuestras costumbres. Garantizar la seguridad también es combatir al terrorismo con la acción de las Fuerzas y Cuerpos de Seguridad del Estado pero, al mismo tiempo, protegernos con leyes como la Prisión Permanente Revisable. A nivel global, tenemos responsabilidades históricas, especialmente en Iberoamérica donde debemos liderar el apoyo a los demócratas de Venezuela, Cuba y Nicaragua. Pero los desafíos no terminan ahí. Tenemos un compromiso ineludible con aquellas naciones donde aún anhelan la libertad de la que disfrutamos en las democracias consolidadas.
 - chapter:
+    id: 1d70d4de-8db8-40af-98f3-72921bc2f7ab
     title: Comprometidos con el fortalecimiento de la Nación 
     categories: Nacionalismo y patriotismo
     children:
-    - declaration:
+    - statement:
         id: 5f62ea7d-0c31-4661-9660-b7f0408630d0
         page: 13
         text: La mejor manera de fortalecer el pacto constitucional es cumplir con la Constitución y garantizar la lealtad institucional. El golpe al Estado del 1 de octubre fue también un golpe al modelo autonómico. Por eso es necesario recuperar la legalidad, la convivencia y la prosperidad en Cataluña y pre- venir que desde otras comunidades o ayuntamientos se ponga en jaque la unidad de España o la vigencia de la Constitución.
-    - declaration:
+    - statement:
         id: a8316e4e-318a-4383-9ce8-1d9d8918ef9b
         page: 13
         text: Los símbolos del Estado deben ser respetados, siendo necesario reforzar los elementos comunes que vertebran la nación, especialmente la lengua de todos, el español. Frente a la división que ha generado la Ley de Memoria Histórica pretendemos recuperar el espíritu de la Transición con una Ley de Concordia.
@@ -166,14 +169,15 @@ content:
         page: 15
         text: Promoveremos la Fiesta Nacional del 12 de octubre en el conjunto de la sociedad española e impulsaremos actividades en torno a ella en todos los centros escolares españoles.
 - chapter:
+    id: b019b40e-f2ac-4d25-bf11-14a963b4bdaf
     title: Una revolución fiscal para el crecimiento económico y la competitividad 
     categories: [Impuestos y financiación pública]
     children:
-    - declaration:
+    - statement:
         id: e80005f9-0dd0-468d-be43-3879057dddec
         page: 17
         text: La política fiscal debe estar guiada por el criterio de que el dinero, donde mejor está es en el bolsillo de los ciudadanos. Sostener el Estado de Bienestar no exige gastar más sino gastar mejor. La voracidad recaudatoria de los gobiernos de izquierda desincentiva la inversión y el empleo. Esto, sumado a la proliferación de nuevas figuras tributarias, rompe con la unidad de mercado y la igualdad entre los ciudadanos.
-    - declaration:
+    - statement:
         id: 88d7ba38-63f1-4737-9e34-2ba4aee76000
         page: 17
         text: Los presupuestos deben responder a criterios de estabilidad y de reducción del peso de la deuda. La regla de gasto se ha demostrado como un acierto para conseguir la solidez financiera del conjunto de Administraciones. Frente a la manirrota política de despilfarro, desde el Partido Popular nos comprometemos a cumplir la senda de déficit.
@@ -286,26 +290,27 @@ content:
         page: 18
         text: Impulsaremos la colaboración público-privada en la provisión de los servicios públicos como instrumentos compatibles y complementarios, tomando siempre como objetivo la calidad, la transparencia y la eficiencia del servicio que se presta en ámbitos como el energético.
 - chapter:
+    id: 9d4d8c82-d88b-49c6-8b4b-2154a888ebc8
     title: Por una economía moderna y avanzada 
     categories: [Economía]
     children:
-    - declaration:
+    - statement:
         id: ba3f5b81-5484-4980-8e48-420b71fe0397
         page: 20
         text: El empleo es la principal preocupación de los españoles. España puede convertirse en un enclave estratégico en esta cuarta revolución industrial, para lo cual debemos atraer talento a través de un plan fiscal, educativo y regulatorio que compita con los principales núcleos de innovación. Desde las Administraciones se puede colaborar decisivamente con el sector privado, que es quien debe ser el motor de la economía. Por ello, debemos adaptar nuestro marco de relaciones laborales y políticas activas y pasivas de empleo al presente y futuro del mercado de trabajo, caracterizado por la transformación digital, la intensificación de la globalización, el aumento de la competencia en los mercados internacionales y el reto demográfico.
-    - declaration:
+    - statement:
         id: 59637ca5-b833-4fcc-b63d-44db7f68832d
         page: 20
         text: Estamos en plena transformación digital, una oportunidad para remover obstáculos y apoyar todas las iniciativas que se impulsen desde la sociedad para que España sea una de las naciones más competitivas. España es una sociedad de servicios moderna y avanzada, pero necesita fortalecer el sector industrial, en primer lugar, apoyando la unidad de mercado y eliminando las trabas internas que aún existen. Además, debemos abaratar los costes de producción. Es necesario que las empresas dispongan de una energía barata, sostenible y segura y avanzar en la producción de energías renovables y en la descarbonización, un ámbito que España está llamada a estar en la vanguardia.
-    - declaration:
+    - statement:
         id: e7b929a2-a535-43ac-b6fc-fc586008dd0e
         page: 20
         text: Uno de los sectores en los que España es líder de exportaciones es el automóvil, una industria que requiere de un entorno regulatorio seguro y que se eliminen las trabas que se están imponiendo. Esto dificulta su competitividad y la renovación de un parque móvil envejecido y contaminante.
-    - declaration:
+    - statement:
         id: 5a8385ca-669c-4fe8-813f-053cc6198af5
         page: 20
         text: Otra de las grandes fortalezas de España es el turismo, una industria que se ha modernizado y que es un referente mundial pero mantener esta competitividad exige un claro compromiso con la sostenibilidad social, económica y medioambiental, la innovación y la colaboración público-privada, además de eliminar cargas impositivas y gravámenes que limitan su capacidad inversora.
-    - declaration:
+    - statement:
         id: 5392bb9a-107f-4f6d-b1f3-99553d737b9b
         page: 20
         text: La cultura, el patrimonio histórico y la gastronomía son elementos esenciales no sólo en la configuración de nuestra identidad sino también para el progreso económico de nuestro país.
@@ -321,7 +326,7 @@ content:
         id: 70a95599-2ef6-4d53-a35e-648db54b9570
         page: 20
         text: Impulsaremos una amplia reforma fiscal para dinamizar la inversión de capital privado y favorecer el acceso a financiación de emprendedores que incluirá reformas para el “carried interest”, los Fondos de Capital Riesgo, el venture capital, la “exit tax” o la inversión privada individual en start-ups.
-    - declaration:
+    - statement:
         id: 86de14bf-e1a7-4a4b-9b19-50e558ab0d55
         page: 20
         text: Para dotar de certidumbre a los contribuyentes promoveremos la máxima seguridad jurídica en la tributación de las empresas radicadas en España, desarrollando y extendiendo la figura de los acuerdos previos.
@@ -354,6 +359,7 @@ content:
         page: 21
         text:  Garantizaremos un marco jurídico estable al conjunto de la cadena de valor del sector de la automoción.
     - chapter:
+        id: d5cfbe7c-009c-4b4c-9963-9a6488479d1f
         title: I+D+i 
         categories: [Ciencia y tecnología]
         topics: 'I+D+i'
@@ -503,6 +509,7 @@ content:
             page: 24
             text: Adaptaremos el marco del sector asegurador a la transformación digital.
     - chapter:
+        id: 48becc18-f66a-4328-a1ba-aa36f9f454e2
         title: Autónomos 
         categories: Empresas y autónomos
         children:
@@ -527,6 +534,7 @@ content:
             page: 25
             text: Facilitaremos la conciliación de la vida laboral y familiar, con medidas que actúen en diversos ámbitos removiendo diferentes obstáculos.
     - chapter:
+        id: a376d79e-bd30-4273-bfd7-dcba6c72b615
         title: Empleo 
         categories: [Trabajo]
         children:
@@ -599,6 +607,7 @@ content:
             page: 27
             text: Favoreceremos el envejecimiento activo y la prolongación voluntaria de la vida laboral más allá de la edad ordinaria de jubilación, revisando los incentivos para fomentar la permanencia de los trabajadores en activo y promover una mayor compatibilidad entre percepción de la pensión y percepción del salario por actividad laboral. En particular estableceremos, entre otras medidas, un régimen por el cual los trabajadores que alcancen la edad legal de jubilación puedan aplicar una exención en el pago del IRPF cuando se continúe la actividad profesional sin cobrar la pensión de jubilación.
     - chapter:
+        id: fc1c7709-bffb-4d70-964b-fb1c882def4b
         title: Comercio 
         categories: [Comercio]
         children:
@@ -627,6 +636,7 @@ content:
             page: 28
             text: Coordinaremos la acción de las políticas de internacionalización de las comunidades autónomas con las de la Administración General del Estado, procurando la completa integración de las oficinas de las comunidades autónomas en las Oficinas Económicas y Comerciales del Estado.
     - chapter:
+        id: 4f4736d6-ca72-42e2-b85c-f0d1537c0682
         title: Turismo 
         categories: [Turismo]
         children:
@@ -679,10 +689,11 @@ content:
             page: 20
             text: Apoyaremos a Paradores como referencia de turismo de calidad que lo convierta en sostenible y motor para el desarrollo de nuevos destinos. Apoyaremos su transformación digital.
 - chapter:
+    id: d01d08b0-ad16-47ca-a6fa-7d638f061cfa
     title: Por una educación de calidad y en libertad 
     categories: Educación
     children:  
-    - declaration:
+    - statement:
         id: fbe842a0-328d-42a4-bffb-49f205097379
         page: 32
         text: El derecho a la educación pertenece a las familias y las Administraciones tienen una función de colaboración con ellas. El Estado tiene el derecho y la obligación de vertebrar y cohesionar los elementos comunes. El sistema educativo debe dejar de ser un instrumento de experimentación e ideologización de la izquierda y constituirse en un ámbito donde se garantice la libertad de las familias, el desempeño profesional de los docentes y la convivencia de los modelos público, concertado y privado. La educación debe responder a los desafíos de una sociedad global y digital en el que los alumnos van a competir con compañeros de cinco continentes y trabajarán en empleos que aún no existen. Es imprescindible adaptar la Formación Profesional a la nueva realidad laboral. La Universidad debe disponer de los instrumentos de financiación y gobernanza que le permitan responder a los desafíos de un mundo en transformación.  
@@ -763,6 +774,7 @@ content:
         page: 34
         text: Elaboraremos un plan nacional para garantizar el honor y la intimidad personal de los estudiantes en los centros escolares y proteger a los estudiantes del ciberacoso. Los centros educativos, a su vez, elaborarán planes para la formación de los escolares en ciberseguridad.
     - chapter:
+        id: bf3435f7-cf81-48d5-8a9c-30b550267d95
         title: Universidades 
         topics: Universidad
         children:
@@ -819,6 +831,7 @@ content:
             page: 35
             text: Promoveremos el uso de nuevas herramientas informáticas colaborativas para la totalidad del sistema universitario español, incluyendo la Compra Pública Innovadora.
     - chapter:
+        id: 600905ec-cddc-48bb-ac75-e797f671a827
         title: Deporte 
         categories: Deporte
         children:
@@ -851,26 +864,28 @@ content:
             page: 36
             text: Promoveremos iniciativas para facilitar la apertura de los centros educativos para el uso de sus instalaciones deportivas y actividades complementarias.
 - chapter:
+    id: 6a763ac9-30d2-4480-b268-99b5f0150506
     title: Más y mejor sociedad del bienestar 
     categories: Derechos y servicios sociales
     children:    
-    - declaration:
+    - statement:
         id: 6a3c4834-8284-45f4-9bbc-1f6548e83e03
         page: 38
         text: El Partido Popular está comprometido con el actual modelo sanitario y donde gobierna este ha alcanzado las máximas cotas de excelencia. La sobresaliente cualificación del personal sanitario y la descentralización administrativa han sido elementos importantes para situar al español entre los mejores sistemas de salud del mundo pero es necesario vertebrar y cohesionar el modelo sanitario para garantizar el acceso al mismo de todos los españoles en cualquier parte del territorio nacional. En no pocas ocasiones se topan con barreras administrativas simplemente por su lugar de residencia.
-    - declaration:
+    - statement:
         id: aed1d717-3581-468c-be3e-5261993e1f8a
         page: 38
         text: En la actualidad el sistema sanitario sufre enormes tensiones que es necesario abordar y un deterioro que se reconoce en diversos estudios internacionales. Un sistema en el que la iniciativa privada tiene una aportación esencial, también a la hora de garantizar la universalidad. Además, las condiciones laborales de médicos y del resto del personal sanitario nos obliga a prestarles una especial atención. Junto a ello, la longevidad, la cronicidad de los tratamientos y la baja natalidad hacen imprescindible impulsar medidas que aseguren su sostenibilidad y promuevan hábitos saludables para el conjunto de la población.
-    - declaration:
+    - statement:
         id: 390f7f66-e0d3-4a70-8ad0-2ba42e8a941e
         page: 38
         text: España disfruta de una de las mayores tasas de longevidad del mundo occidental. Los mayores han sido las generaciones que con más generosidad han contribuido a la prosperidad de nuestro país, con sacrificio, esfuerzo y trabajo. Fueron la red de seguridad para muchas familias en los momentos más duros de la crisis.
-    - declaration:
+    - statement:
         id: 2b10c39d-bcb8-4860-9709-36fb1f1cd0d9
         page: 28
         text: El fomento de la autonomía personal, el envejecimiento activo, la solidaridad intergeneracional, la promoción de una vida saludable y la atención integral a las personas en situación de dependencia es una prioridad en toda sociedad moderna y avanzada y requiere de estabilidad financiera en los recursos que aportan las administraciones y desarrollar políticas de colaboración público-privada. Somos el partido que siempre ha garantizado las pensiones de nuestros mayores. Estamos comprometidos con el Pacto de Toledo y creemos que la sostenibilidad del sistema de pensiones es una cuestión que nos incumbe a todos.
     - chapter:
+        id: dcb6b10d-0b49-4143-9511-53be3f00f338
         title: Sanidad 
         categories: Sanidad  
         children: 
@@ -1062,6 +1077,7 @@ content:
             page: 42
             text: La única lengua cuyo conocimiento será un requisito indispensable para el acceso a un empleo público como el sanitario será el castellano. Las lenguas cooficiales pondrán considerarse un mérito, nunca un requisito excluyente. 
     - chapter:
+        id: 59b98746-2cf3-43c2-ad40-8063b926b2bb
         title: Consumo 
         categories: Consumo
         children:
@@ -1086,6 +1102,7 @@ content:
             page: 43
             text: Protegeremos al consumidor de la obsolescencia programada, es decir, la reducción deliberada de la vida útil de cualquier producto, en especial del ámbito tecnológico y electrodoméstico.
     - chapter:
+        id: 968ec39a-ec7e-4378-9475-713cf4c2eb4c
         title: Dependencia 
         topics: Dependencia y cuidados
         children:
@@ -1110,6 +1127,7 @@ content:
             page: 44
             text: Mejoraremos la cobertura de los servicios de teleasistencia y ayuda a domicilio para mayores y dependientes, asegurando una adecuada atención profesional para que puedan continuar viviendo en su propio domicilio y en su entorno social y familiar.
     - chapter:
+        id: 7912f1e6-3978-4bc6-be94-d39bcf061efb
         title: Mayores 
         topics: Tercera edad
         children:
@@ -1158,6 +1176,7 @@ content:
             page: 45
             text: Desarrollaremos proyectos tecnológicos de inteligencia artificial para ayudar a nuestros mayores en las rutinas diarias, el control de su salud y la posibilidad de realizar gestiones bancarias y administrativas sin necesidad de esperar grandes colas ni desplazarse.
     - chapter:
+        id: 87f0eabc-9591-41d9-80b3-b67df63d3a1f
         title: Pensiones 
         topics: Pensiones
         children:
@@ -1191,37 +1210,39 @@ content:
             page: 46
             text: Reduciremos la brecha por la maternidad en pensiones ampliando el Complemento de Maternidad a todas las madres e incrementándolo a aquellas que ya lo disfrutaban, reconociendo así la aportación demográfica de las trabajadoras a la sociedad y ampliando el complemento en la pensión de jubilación a las mujeres trabajadoras con un hijo situándolo en un 2%.
 - chapter:
+    id: c0906988-e1c3-4b50-93db-bd09f5d848b8
     title: Familia. Políticas sociales para la igualdad de oportunidades 
     children:  
-    - declaration:
+    - statement:
         id: 7f62a0ba-3154-4553-830b-5ef99e1abbbf
         page: 48
         text: Las sociedades más libres son las más desarrolladas, las más equitativas y las más justas. Donde hay libertad, la pobreza disminuye y la desigualdad se reduce. El principal riesgo de pobreza es la falta de libertad. Compartimos que desde las Administraciones públicas se trabaje para que nadie –especialmente aquellos más vulnerables– se quede atrás, asegurando la igualdad de oportunidades de todos los españoles.
-    - declaration:
+    - statement:
         id: 5a2a25c4-969e-4eb1-a96f-9dbd0e3ef22c
         page: 48
         text: La familia es el eje de la sociedad, que cumple una función irremplazable de cohesión social y solidaridad intergeneracional. Para el PP la familia es el eje vertebrador de todas sus políticas. La familia representa el auténtico pilar del Estado del Bienestar. Sólo una ambiciosa política puede hacer sostenible la dependencia, las pensiones, la sanidad y la educación. Para esto se requiere hacer política pensando en la próxima generación y así lograr que el Estado pueda servir al bienestar de la sociedad.
-    - declaration:
+    - statement:
         id: e3ebd33f-79db-42b2-8a80-521585da8149
         page: 48
         text: Uno de los desafíos más importantes a los que se enfrenta nuestro país es el Reto Demográfico, originado por el descenso de la natalidad –1,3 hijos por mujer– junto al incremento de la esperanza de vida y el progresivo envejecimiento de la población. En el ámbito rural la situación demográfica es de emergencia. Un país o una región despoblada y envejecida es menos dinámica y menos competitiva. Esta pirámide demográfica hace inviable, en su actual configuración, a nuestro Estado de Bienestar. Es necesario que todas las Administraciones se impliquen en apoyar a las familias y la natalidad, para favorecer que la decisión de tener hijos no se convierta en un camino de obstáculos.
-    - declaration:
+    - statement:
         id: f5bc5990-352b-4caf-a6db-99191d27c1fe
         page: 48
         text: Una sociedad libre es aquella en la que los jóvenes pueden desarrollar sus proyectos de vida, acceder a una vivienda, formar sus propias familias y tener los hijos que desean. Tampoco podemos permitir que la opción de ser madre implique una desigualdad añadida para la mujer, o que tenga que elegir entre la maternidad y su desarrollo profesional. Es necesario hacer compatible trabajo y familia. La estabilidad en el empleo, el acceso a la vivienda, junto con la falta de medidas de conciliación y corresponsabilidad son las principales causas de la tasa de natalidad. Desde las Administraciones hay que seguir trabajando para que ser mujer no sea una barrera para el acceso a un puesto de trabajo o para la promoción profesional. Administraciones y empresas deben trabajar juntas para acabar con la brecha laboral.
-    - declaration:
+    - statement:
         id: 5261c2a1-36cb-4ea0-8400-56933801e2df
         page: 48
         text: La violencia de género es una de las lacras que tienen las sociedades de hoy en día. La lucha contra la violencia de género es un compromiso irrenunciable para el PP, siendo el Pacto de Estado la hoja de ruta que nos compromete, a todos, para seguir hacia delante en su erradicación.
-    - declaration:
+    - statement:
         id: dbba11e1-389d-486c-9c8f-3c6446fad877
         page: 48
         text: Rechazamos toda forma de violencia que se pueda dar en el ámbito de la familia, especialmente la que sufren los más vulnerables, menores, personas mayores y dependientes. Es necesario seguir avanzando en la lucha contra toda forma de odio por causa de la orientación sexual o los sentimientos religiosos.
-    - declaration:
+    - statement:
         id: 03cd76d6-8158-4291-82aa-bcab7ef8f745
         page: 48
         text: En nuestro compromiso con la familia, no podemos olvidar la protección de la infancia. Este es uno de los objetivos prioritarios para el PP. Tenemos la obligación, como sociedad, de garantizar a la infancia su desarrollo, su participación y su protección frente a cualquier tipo de abuso o violencia. También asegurando que en su custodia sea prioritario el interés superior del menor. Debemos seguir avanzando para que las personas con discapacidad tengan los derechos y las oportunidades que merecen. Queremos una sociedad comprometida para derribar las barreras visibles e invisibles que aún les limitan la vida. Sin olvidar la protección del menor respecto a las redes sociales y al ciberacoso.
     - chapter:
+        id: 6c19598f-1602-41cd-a604-79735c83a992
         title:  Familia 
         categories: Familia
         topics:  'Incentivos, ayudas y subvenciones'
@@ -1304,6 +1325,7 @@ content:
             page: 50
             text: Garantizaremos el derecho al honor y la intimidad personal de los menores en los centros escolares y los protegeremos del ciberacoso. Orientaremos a las familias para que los menores hagan un uso adecuado de Internet y las redes sociales.
     - chapter:
+        id: b2d30d31-839e-4c79-b8e2-fe59d97d9e6d
         title:  Discapacidad 
         topics: Discapacidad
         children:
@@ -1377,6 +1399,7 @@ content:
         page: 52
         text: Aprobaremos el Plan de Prevención de Deficiencias y de Intensificación de Discapacidades. Este plan diseñará un marco general que permita el desarrollo progresivo de intervenciones dirigidas a la promoción de la autonomía personal y a prevenir la discapacidad que generan las enfermedades y las lesiones.
     - chapter:
+        id: bddbd6ad-f9fd-4a6b-b520-20fc50ae562e
         title:  Servicios sociales 
         categories: Derechos y servicios sociales 
         children:
@@ -1413,6 +1436,7 @@ content:
             page: 53
             text: Renovaremos la Estrategia Nacional para la Inclusión Social de la Población Gitana en España 2012-2020 a través de planes operativos en colaboración estrecha con las comunidades autónomas, la FEMP y las entidades sociales del movimiento asociativo gitano, principalmente las que integran el Consejo Estatal del Pueblo Gitano.
     - chapter:
+        id: bf9c2926-1f4c-42d6-a09c-857017f0085c
         title:  Igualdad 
         categories: Derechos y servicios sociales
         topics: Igualdad
@@ -1450,6 +1474,7 @@ content:
             page: 54
             text: Apoyaremos a las Mujeres Rurales, mejorando su formación en el ámbito digital, acceso a las nuevas tecnologías y uso de las redes sociales. Fomentaremos el uso de la Titularidad Compartida de explotaciones agrarias y los convenios con cooperativas agrícolas y ganaderas.
     - chapter:
+        id: 3e3d9e00-f82c-4af6-a3f8-4dc153933036
         title:  Violencia de género 
         categories: Seguridad y defensa
         topics: Violencia de género
@@ -1598,6 +1623,7 @@ content:
             page: 56
             text: Elaboraremos desde Ayuntamientos y comunidades autónomas Protocolos específicos para la prevención, información y actuación contra el acoso callejero y la violencia sexual en las fiestas populares.
     - chapter:
+        id: 5fc11c4e-9db8-4c9e-9643-4790f6b860a4
         title:  Infancia y juventud 
         topics: Infancia y juventud 
         children:
@@ -1642,6 +1668,7 @@ content:
             page: 57
             text: Aprobaremos el III Plan Estratégico Nacional de Infancia y Adolescencia.
     - chapter:
+        id: 8c365d05-567b-45fa-b1f7-a94d4a466684
         title:  Animales de compañía
         categories: Civismo
         children:
@@ -1655,25 +1682,27 @@ content:
             page: 58
             text: Pondremos en marcha iniciativas contra el incivismo de los propietarios de animales que afectan a la convivencia, la seguridad y la salubridad del espacio público.
 - chapter:
+    id: 14927b0e-b4f2-4704-96d8-9e70364818f5
     title: Más oportunidades para las personas  
     children:   
-    - declaration:
+    - statement:
         id: 586de1d3-ec33-4cb2-9125-62409209dc0e
         page: 60
         text: Las sociedades más libres son también las que tienen una mayor preocupación medioambiental. El cambio climático es uno de los grandes desafíos que afrontan nuestras sociedades. Los ciudadanos tienen derecho a disfrutar de un entorno –aire, agua y suelo– saludables. Avanzamos hacia una economía reducida en carbono que hará de nuestras ciudades unos espacios más sanos.
-    - declaration:
+    - statement:
         id: 22904ed0-74db-47f6-9878-4bb17472d8ec
         page: 60
         text: Desde las Administraciones es mucho lo que se puede hacer para promover las formas de economía circular que contribuyen a disminuir residuos. El autoconsumo eficiente de energía y la movilidad con cero emisiones son iniciativas que hacen más habitables nuestros municipios.
-    - declaration:
+    - statement:
         id: e9d9fb94-dadc-4910-9e8e-3b03201fbdbb
         page: 60
         text: La política de transporte es una política nacional porque la movilidad es una de las formas en las que se articula la nación. El Partido Popular apoya la libertad de los ciudadanos, libertad en el acceso a todos los espacios urbanos y libertad en el modo de llegar a los mismos, tanto si lo desean hacer con vehículo privado como si lo hacen en transporte público o en una de las nuevas formas de transporte compartido. Los diferentes servicios públicos –autobús, taxi, metro– y plataformas digitales de movilidad deben convivir con una regulación que aliente la libre competencia entre los distintos modos de transporte. Es el ciudadano quien elige el medio de transporte y debe tener libertad de acceso a la oferta más amplia posible. La transformación digital es el signo de nuestro tiempo y los servicios públicos deben adaptarse a ella.
-    - declaration:
+    - statement:
         id: 49be7386-e7cd-4729-867f-3e4b621becf9
         page: 60
         text: Hay que seguir potenciando las infraestructuras que vertebran la nación, impulsan el desarrollo económico y el comercio y comunican a los ciudadanos. La vivienda, que es un derecho constitucional, es un sector que genera empleo, cada vez de mayor calidad y que ha llevado a cabo un intenso proceso de modernización en muchos ámbitos, entre otros en los de su eficiencia energética. 
     - chapter:
+        id: 03e3df18-a4c8-4daa-9c15-51db75987db3
         title:  Movilidad 
         categories: Transporte
         children:
@@ -1707,6 +1736,7 @@ content:
                 page: 61
                 text: Impulsaremos la promoción de la movilidad eléctrica desde la Administración Pública y dentro de la propia Administración.
     - chapter:
+        id: e7e32caa-a667-406f-a8b0-882e269ca655
         title:  Infraestructuras 
         categories: Infraestructuras
         children:
@@ -1775,6 +1805,7 @@ content:
             page: 63
             text: Potenciaremos el desarrollo portuario y conectaremos intermodalmente para potenciar el transporte de mercancías con el fin de hacer de nuestros puertos la vía de entrada en Europa de los grandes productores mundiales y seguir siendo un país de referencia para el turismo de cruceros.
     - chapter:
+        id: d9d84c98-285a-49cd-b89e-217bb56082bd
         title:  Vivienda y urbanismo 
         categories: Urbanismo y ciudades
         children:
@@ -1815,6 +1846,7 @@ content:
             page: 64
             text: Seguiremos impulsando la conversión en ciudades inteligentes de todas las localidades de más de 50.000 habitantes, así como las islas inteligentes de Baleares y Canarias, para mejorar los servicios prestados a los usuarios, facilitar la movilidad urbana, contribuir a un turismo de más calidad y mejorar el respeto al medio ambiente.
     - chapter:
+        id: 214f04bb-9ba4-4cc0-bfd1-0d934bbded7f
         title:  Cultura 
         categories: Cultura
         children:
@@ -1879,34 +1911,36 @@ content:
             page: 66
             text: Apoyaremos a la industria de la moda visibilizando a los creadores nacionales y fomentando la colaboración público-privada.
 - chapter:
+    id: 1d6d3cb8-c342-45dc-bf81-5882a853c051
     title: Una España sostenible con futuro 
     topics: Desarrollo sostenible
     children:    
-    - declaration:
+    - statement:
         id: d9f8615f-4bb1-4061-9bfe-babccc76b603
         page: 68
         text: Debemos impulsar la vertebración territorial de España frente a egoísmos identitarios y desigualdades competenciales. Las autonomías existen para que España, como sociedad de bienestar, se haga realidad en cada pueblo de nuestro territorio, para servir mejor a lo común, a lo que es de todos y de cada uno, no para descomponer lo común para que sólo sea de unos cuantos.
-    - declaration:
+    - statement:
         id: 8f5be1f9-65e2-4003-931e-b890ac401154
         page: 68
         text: Todos los ciudadanos, independientemente de donde residan, deben tener garantizada la igualdad de derechos, el acceso a servicios de calidad y oportunidades de desarrollo profesional. Hoy esto no sucede así y la España rural adolece de un déficit de inversiones que es necesario reconocer.
-    - declaration:
+    - statement:
         id: 24ade3df-7ca6-4627-8f03-8b215d160f51
         page: 68
         text: Los españoles debemos dar la batalla por recuperar el futuro de la España rural, una España que se ha vaciado pero que la transformación tecnológica supone una oportunidad para recuperarla y volver a llenarla. Es necesario que todas las Administraciones tengan una perspectiva rural en sus políticas.
-    - declaration:
+    - statement:
         id: bbadcbba-2ee3-4ee8-be82-e654f2cce3e6
         page: 68
         text: El futuro de la España rural y pesquera se juega, en primer lugar, en Europa. En este sentido, es imprescindible una política exterior sólida, que conozca cómo se debate en Bruselas, y sepa configurar una PAC y unas Perspectivas Económicas alineada con nuestros intereses.
-    - declaration:
+    - statement:
         id: c7a2b49c-0b95-42e5-9fd8-cdaf2f0ca4df
         page: 68
         text: El primer paso para afrontar el grave problema demográfico de la España rural como consecuencia de la despoblación y el envejecimiento se debe hacer aportando oportunidades para sus habitantes. Es nuestra obligación seguir promoviendo una potente industria agroalimentaria desde el origen hasta su internacionalización. Del mismo modo, debemos impulsar una producción agraria y pesquera profesional, tecnificada, innovadora, competitiva, sostenible y exportadora con instrumentos que permita afrontar situaciones de incertidumbre. España debe aprovechar todas las oportunidades que aporta la denominada como economía azul. Esto debe ir de la mano del impulso de medidas que incentiven una política de servicios que permita atraer y arraigar a la población.
-    - declaration:
+    - statement:
         id: e46624ed-7c39-4c81-b10c-e58ba75f7811
         page: 68
         text: No podemos olvidar que uno de los recursos esenciales para la España rural es el agua. Desde el Partido Popular proponemos un sistema del agua que tenga en cuenta la gestión integrada de los recursos hídricos, convencionales y no convencionales, y su uso eficiente y sostenible como pieza fundamental para la atención del déficit hídrico estructural que se produce en algunos territorios de España. Un sistema que tendrá en cuenta todas las infraestructuras hídricas necesarias en el territorio nacional para facilitar el acceso al agua de todos los españoles, desde el respeto a los criterios de unidad de cuenca, sostenibilidad medioambiental, prioridad de uso de la cuenca cedente, garantía de las necesidades presentes y futuras de la misma, y la solidaridad territorial.
     - chapter:
+        id: ca959df7-900b-4214-bd99-9431d6240a39
         title:  Energía y cambio climático 
         categories: Energía
         children:
@@ -1963,6 +1997,7 @@ content:
             page: 70
             text: Impulsaremos un Plan Talento Energía y Clima potenciando la financiación de la I+D+i en transición a una economía verde y adaptación al cambio climático, para promover la competitividad de la economía española, el empleo de calidad y el retorno y arraigamiento de talento.
     - chapter:
+        id: a0c8a60f-23cb-436e-b629-c54923dd079a
         title:  Medio ambiente 
         categories: Medioambiente
         children:
@@ -1991,6 +2026,7 @@ content:
             page: 71
             text: Promoveremos una Estrategia integral para las zonas verdes y bosques periurbanos que faciliten su accesibilidad y disfrute y favorezcan las actividades vinculadas al medioambiente para todos.
     - chapter:
+        id: 930edcb6-d23f-4673-af50-fcc5f7634f84
         title:  Agricultura, ganadería y pesca 
         categories: Economía
         children:
@@ -2079,6 +2115,7 @@ content:
             page: 74
             text: Defenderemos los intereses de la flota española ante cualquier esce- nario de salida del Reino Unido de la Unión Europea.
     - chapter:
+        id: 4a9e3cbd-f363-42a8-a5b1-9b48928e8bae
         title:  Agua 
         categories: Agua
         children:
@@ -2103,6 +2140,7 @@ content:
             page: 75
             text: Proponemos la creación de un sistema nacional de agua como un conjunto de infraestructuras, sistemas de información, planes y procedimientos que tienen por objeto optimizar la gestión del recurso hídrico en España respetando al medio ambiente. Mantener y mejorar la seguridad hídrica de todos los territorios es uno de los objetivos. El sistema nacional del agua permitirá gestionar las interconexiones entre cuencas de forma transparente impulsando, en los casos que fuese necesario, la aprobación de normas objetivas para su funcionamiento.
     - chapter:
+        id: 793ce6d6-8948-47f1-8eca-22cf3aed3a0e
         title:  Medio rural 
         categories: Territorio rural
         children:
@@ -2172,34 +2210,36 @@ content:
                 page: 77
                 text: Introduciremos la “perspectiva rural” a la hora de legislar para reflejar las condiciones diferentes de cada territorio.
 - chapter:
+    id: fba892fd-d41d-42e2-ba2b-5a598a075f0d
     title: Una Mejor Democracia 
     categories: Democracia
     children:    
-    - declaration:
+    - statement:
         id: 37b843e3-63b4-4627-ae88-32c43ac6905b
         page: 79
         text: La Justicia es la garantía de los derechos y libertades de los ciudadanos. Es necesario reforzar la independencia de los jueces y magistrados, mejorar la eficiencia de nuestra organización judicial y atender a la especial situación que existe en Cataluña. La Administración pública es uno de los elementos que vertebra al Estado. Es necesario que la Administración del Estado tenga presencia y capacidad de actuación en el conjunto de la nación.
-    - declaration:
+    - statement:
         id: f2496205-242d-426b-a80d-17fd0c94abfb
         page: 79
         text: Al mismo tiempo, queremos una Administración más eficiente y transparente, respetando los derechos y deberes de quien ha conseguido en justa competición su plaza pública, pero favoreciendo la evaluación del desempeño, la remuneración adicional por el mismo y el acceso sin discriminación por lengua.
-    - declaration:
+    - statement:
         id: f51d7e87-c20f-4f11-95a6-a179373147b3
         page: 79
         text: No queremos el repliegue del Estado, queremos el despliegue de la sociedad. Porque no es la sociedad la que debe adaptarse al Estado, es el Estado el que debe adaptarse a la sociedad.
-    - declaration:
+    - statement:
         id: 0f68ae70-eb37-435d-80ad-5e827d0de45d
         page: 79
         text: Simplificaremos la burocracia innecesaria que dificulta el emprendimiento y los servicios públicos, apostando por la digitalización y la desintermediación. Pondremos el acento en lograr unas Administraciones Públicas cohesionadas y coordinadas, que compartan información y recursos para reforzar la coordinación y cooperación entre ellas.
-    - declaration:
+    - statement:
         id: 36d0aed2-54ff-48db-aba0-794da79b311f
         page: 79
         text: En definitiva, apostaremos por una transformación de la Administración que lidere y sea capaz de catalizar los cambios, que atraiga talento de todo tipo, que elimine las trabas burocráticas, que busque espacios de apertura a la sociedad y las empresas, que se coordine con otras instituciones públicas, acorte el ciclo de las innovaciones, dé ejemplo en la digitalización y decida y actúe basándose en datos, en la medición y la evaluación.
-    - declaration:
+    - statement:
         id: babb5020-da98-47d7-87ca-bb9678865495
         page: 79
         text: La mejor respuesta a quienes amenazan nuestra democracia es fortaleciendo nuestras instituciones. Merecemos un Gobierno que sea referente de ejemplaridad y que respete la separación de poderes, por ello, es necesario potenciar los mecanismos de transparencia y dotar de nuevos instrumentos de control al Parlamento para evitar la degradación institucional de nuestra democracia provocada por las decisiones del actual Gobierno.
     - chapter:
+        id: 93f894f4-fa7e-477f-b933-b4f068b0d41e
         title:  Justicia 
         categories: Justicia
         children:
@@ -2285,6 +2325,7 @@ content:
             page: 81
             text: Reformaremos la legislación mercantil para actualizar el Código de Comercio a la realidad de la transformación tecnológica, la empresa y los negocios de tal modo que se facilite la actividad económica y sea un factor dinamizador del crecimiento y la creación de empleo.
     - chapter:
+        id: 7ee2a71d-a39c-43cb-9c87-e45a32abe0b8
         title:  Función pública 
         categories: Administración pública
         children:
@@ -2317,6 +2358,7 @@ content:
             page: 83
             text: Modernizaremos las pruebas selectivas de acceso a la Función Pública, incorporando, junto con las tradicionales pruebas, otras que permitan garantizar que los candidatos se adaptan a las necesidades de una administración moderna.<br> Diseñaremos nuevos modelos de evaluación objetivos y transparentes del desempeño como instrumento de medición del rendimiento. Estas evaluaciones tendrán impacto en la carrera profesional y en las retribuciones de los empleados públicos.<br> Se promoverán sistemas de reclutamiento y formación directivos del sector público empresarial que favorezcan la estabilidad, la experiencia y la profesionalidad.
     - chapter:
+        id: d1de57bf-12c9-4ee3-a261-eeb154aba200
         title:  Transparencia y regeneración 
         categories: Democracia
         topics: Gobernanza y transparencia
@@ -2387,34 +2429,35 @@ content:
             page: 85
             text: Los medios de comunicación públicos estarán guiados por criterios de profesionalidad, transparencia, pluralidad y racionalidad económica. Terminaremos con el modelo de Administrador único de la corporación de RTVE e impulsaremos un Gobierno corporativo guiado por los principios de profesionalidad, mérito y capacidad.
 - chapter:
+    id: adfdbb68-8e6d-41fa-b953-fcd2789530ea
     title: Retos globales de una Sociedad Abierta 
     categories: Seguridad y defensa
     children:    
-    - declaration:
+    - statement:
         id: 9f923d32-779a-4307-9bc9-3b5ced883860
         page: 87
         text: La principal función del Estado es la de garantizar la seguridad de los ciudadanos y proteger sus bienes. El terrorismo existe, el tráfico de seres humanos existe, el crimen existe y tenemos que defendernos frente a ellos.
-    - declaration:
+    - statement:
         id: 166764b3-38d2-4b86-a279-0e91e3ddff9f
         page: 87
         text: En materia de seguridad hay que tener una política realista por eso la Prisión Permanente Revisable es un instrumento necesario. El terrorismo islamista no se ha acabado y las ciudades se han convertido en un objetivo prioritario como se demostró en Barcelona en agosto de 2017 o en otras ciudades europeas en los últimos años. Es importante que los grandes municipios no bajen la guardia en materia de seguridad. Necesitamos fortalecer nuestras capacidades en Seguridad en un mundo con amenazas crecientes y erradicar la radicalización en nuestro país.
-    - declaration:
+    - statement:
         id: b9661076-627b-41ae-a288-9f61dbf2543d
         page: 87
         text: Queremos ciudades seguras, en las que en las calles no existan formas de explotación como es el comercio ilegal y en las que las viviendas privadas no sean ocupadas. Es imprescindible volver a las políticas responsables de inmigración, que debe ser legal, ordenada, vinculada a un contrato de trabajo y con la voluntad de integración y respeto a las costumbres de la nación que les acoge
-    - declaration:
+    - statement:
         id: afbcbaa0-eda8-43bc-9c24-03d9c1164ede
         page: 87
         text: El PP cree en la integración y en el valor del respeto, no en políticas de guetos que comienzan con comunidades separadas y que terminan en realidades enfrentadas. Hay que prestar especial atención a la situación de las segundas generaciones de inmigrantes para promover su integración total. Es necesario afrontar la situación de los Menores No Acompañados desde el principio de que donde mejor están es con su familia.
-    - declaration:
+    - statement:
         id: 4debaf91-9751-469b-b968-d5e9066fe920
         page: 87
         text: Hay que seguir apoyando a quienes velan por nuestra seguridad, exigiendo la equiparación salarial que dejamos ya acordada para las fuerzas y cuerpos de seguridad del Estado. Además, se deben impulsar cambios legislativos para garantizar la coordinación de las diferentes policías. Exigiremos Memoria, Dignidad y Justicia para las víctimas de ETA y el fin del humillante acercamiento de presos a las cárceles vascas. Legislaremos contra los homenajes a terroristas etarras y el acceso a beneficios penitenciarios sin su colaboración efectiva en el esclarecimiento de los crímenes impunes. No les dimos nada por matar, y nada les daremos por haber sido derrotados. Nos oponemos a la trasferencia de la competencia de prisiones al País Vasco y recuperaremos la cedida a Cataluña.
-    - declaration:
+    - statement:
         id: a3b9d4ea-71e7-4681-a0c6-96f4cdc7dab4
         page: 87
         text: Necesitamos una política exterior que responda a la magnitud real de nuestro país. La Unión Europea está en una encrucijada difícil. El Brexit es una decisión que nos gustaría que nunca se hubiese producido y que a día de hoy presenta más incertidumbres que certezas. Debemos fortalecer nuestro vínculo atlántico, en especial con Iberoamérica y exigir con firmeza la democracia en Nicaragua, Venezuela y Cuba. Es necesario impulsar el apoyo a la transición política en Venezuela para pasar página a la etapa socialista bolivariana. La política de defensa debe ser una apuesta decidida en un mundo en el que los riesgos y las amenazas son globales. La OTAN debe seguir siendo el principal instrumento de participación de España en la defensa de occidente y el cumplimiento de nuestros compromisos en su seno una exigencia ineludible.
-    - declaration:
+    - statement:
         id: 0dce780f-07ba-4242-8f2b-d3f18936fae3
         page: 87
         text: Los Objetivos de Desarrollo Sostenible son, sin duda, un desafío para el conjunto de la comunidad internacional con los que España está comprometida. Los nuevos tiempos requieren de nuevas políticas de cooperación que hagan efectiva la voluntad de solidaridad de la sociedad española. Una sociedad que tiene muy presente a sus compatriotas que están en el exterior y a los que quiere amparar, reconocer y apoyar tanto en la tierra que les acogió como a la hora de facilitar el retorno a su patria de origen.
@@ -2475,6 +2518,7 @@ content:
         page: 89
         text: Reforzaremos a los empleados públicos de Instituciones Penitenciarias en las funciones esenciales que realizan en desarrollo de su labor constitucional. El reconocimiento de los funcionaros de prisiones como agentes de la autoridad impulsado por el Partido Popular debe ser el fundamento de la seguridad laboral de éstos y la dignificación de su trabajo. Por ello, acometeremos la mejora integral de sus retribuciones económicas en tramos de incremento que serán progresivas durante los años 2019, 2020 y 2021 en su Complemento Específico. Todas estas medidas tienen carácter consolidable y se extienden a todos los puestos de trabajo adscritos a Instituciones Penitenciarias incluido el personal laboral.
     - chapter:
+        id: fe3cc116-0401-4e46-adee-1667e3538386
         title:  Terrorismo
         categories: Seguridad y defensa
         topics: Terrorismo
@@ -2520,6 +2564,7 @@ content:
             page: 90
             text: Reforzaremos la persecución contra las conductas de odio, racismo, xenofobia, antisemitismo o cualquier otra actividad violenta, sean en el espacio que sean.
     - chapter:
+        id: 8ad64579-192d-4408-ab5e-dd2a67a74227
         title:  Inmigración 
         categories: Migración
         topics: Inmigración 
@@ -2578,6 +2623,7 @@ content:
             page: 91
             text: Aprobaremos la creación de un Estatuto de protección temporal para venezolanos. El Estatuto les concederá, entre otras cuestiones, un permiso de residencia temporal, desplazamiento libre por el territorio y un permiso de trabajo.
     - chapter:
+        id: 6e973242-6d41-499e-94de-956afd2800b4
         title:  Lucha contra la ocupación de viviendas 
         categories: Vivienda
         children:
@@ -2619,6 +2665,7 @@ content:
             page: 92
             text: Impulsaremos una Estrategia de Seguridad contra el vandalismo urbano por el daño que causa en comercios, el patrimonio histórico, los medios de transporte e infraestructuras.
     - chapter:
+        id: 4915f6f2-c36c-4f78-8473-6b2ba7f73ac7
         title:  Lucha contra el comercio ilegal 
         categories: Comercio
         children:
@@ -2636,6 +2683,7 @@ content:
                 page: 93
                 text: Todos los municipios de más de 5.000 habitantes deberán contar con un Plan de prevención y lucha contra el comercio ilegal.
     - chapter:
+        id: dd0d4db9-aadc-4c8a-9257-70615a65efb2
         title:  Lucha contra la explotación sexual 
         categories: Derechos y servicios sociales
         children:
@@ -2648,6 +2696,7 @@ content:
             page: 94
             text: Apoyaremos la cooperación con las entidades que ayudan a rescatar personas de la explotación sexual.
     - chapter:
+        id: 5cbae91c-29ad-40f3-a8e7-37d1949d8167
         title:  Seguridad vial 
         categories: Transporte
         children:
@@ -2664,6 +2713,7 @@ content:
             page: 94
             text: Promoveremos una Estrategia específica orientada a evaluar y mejorar la seguridad en los nuevos vehículos de transporte de las ciudades (patinetes etc...).
     - chapter:
+        id: a0dfa1eb-d727-4385-bc22-6a7a7ca56097
         title:  Seguridad y emergencias 
         categories: Seguridad y defensa
         children:
@@ -2698,6 +2748,7 @@ content:
             page: 94
             text: Revisaremos la existencia de construcciones ilegales en zonas de peligro, pozos ilegales y obstrucciones en cauces de ríos que puedan suponer un riesgo para la seguridad de los ciudadanos.
     - chapter:
+        id: c15d9dfd-af86-4bce-ae77-139268e953c4
         title:  Acción exterior 
         categories: Política internacional
         children:
@@ -2764,6 +2815,7 @@ content:
             page: 95
             text: Apoyaremos la conmemoración del V Centenario de la expedición Magallanes-Elcano, primera circunnavegación del mundo. También impulsaremos la celebración del V Centenario de la llegada de Hernán Cortés a México, poniendo en valor el cambio en la historia de occidente que supuso esa hazaña.
     - chapter:
+        id: 0529bbb5-e109-4263-9f25-88381fa42e25
         title:  Unión Europea 
         categories: Política Internacional
         topics: Europa
@@ -2826,6 +2878,7 @@ content:
             page: 98
             text: Impulsaremos el uso de los recursos europeos a disposición de las pymes, Start Ups y los emprendedores y autónomos españoles, particularmente del programa StartUp Europe, EASME, EUREKA, el buen uso de los Fondos del Banco Europeo de Inversión y del Fondo de Inversiones estratégicas para pymes, COSME y otros. En este sentido promoveremos la creación de clusters empresariales y viveros de empresas con fondos europeos para fomentar la innovación, el emprendimiento y el crecimiento del I+D+i en nuestro país.
     - chapter:
+        id: ce32a1c3-f0ee-405f-bdb8-e85af6ed814a
         title:  Defensa 
         categories: Seguridad y defensa
         children:
@@ -2882,6 +2935,7 @@ content:
             page: 99
             text: Reforzaremos la Conciencia de Defensa y la imagen de las Fuerzas Armadas en la sociedad como garantes de la libertad y la seguridad de todos los españoles.
     - chapter:
+        id: a14d9e07-0f76-434f-adc5-3af5b5819c36
         title:  Cooperación 
         categories: Política internacional
         topics: Cooperación internacional
@@ -2916,6 +2970,7 @@ content:
                 page: 100
                 text: Apostaremos por la transparencia como factor elemental para una cooperación más eficiente y comprometida y respetuosa con criterios objetivos y públicos. Incluiremos mecanismos claros de rendición de cuentas y evaluación vinculados a todas las acciones de cooperación.
     - chapter:
+        id: f39b74e4-c1d1-474e-a7aa-45bb700435ed
         title:  Emigración 
         categories: Migración
         topics: Emigración

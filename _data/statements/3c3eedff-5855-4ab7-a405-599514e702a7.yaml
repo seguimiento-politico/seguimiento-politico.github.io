@@ -1,6 +1,6 @@
 id: 3c3eedff-5855-4ab7-a405-599514e702a7
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 78
-categories: Transporte
+parent_chapter: a97d33b8-5d0d-4f18-ae40-4a52b218e524
+children_promises:
+- 81062666-733b-4dca-a14a-8bfc3d9651af
+- feea4ced-cac8-4a06-913c-49d6d67f17ec
+- f21ea7e5-1918-4e30-bee4-feb2c1994f65
+- 9e30238c-5999-4ed0-9c84-42b8f10b8fdd
+children_statements: []
 text: Impulsaremos y priorizaremos el uso del transporte público, garantizando que sea asequible para las personas que más lo necesitan, como es el caso de los jóvenes, losla juventud, trabajadores de bajos ingresos o los pensionistas.
-has_children: true
+categories: Transporte

@@ -1,6 +1,6 @@
 id: ca78fda2-b855-43ff-bd9a-5c4f184a6cba
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 99
+parent_chapter: c425d082-cd3e-4480-b652-21a0048e281d
+text: DEFENDEREMOS EL REFUERZO DE LAS POLÍTICAS DE COHESIÓN económica, social y territorial a través del presupuesto comunitario.
 categories: Política internacional
 topics: Europa
-text: DEFENDEREMOS EL REFUERZO DE LAS POLÍTICAS DE COHESIÓN económica, social y territorial a través del presupuesto comunitario.

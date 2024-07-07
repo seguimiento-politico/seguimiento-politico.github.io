@@ -1,6 +1,6 @@
 id: 040893e4-3c44-430e-b89b-70a743795415
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 26
-categories: Trabajo
+parent_chapter: c22a6b36-a06c-43e3-ae12-f9b87ce394c7
+children_promises:
+- b48905e3-5ec3-4736-b9a5-b176549a9ac0
+children_statements: []
 title: Estableceremos limitaciones estrictas al poder de dirección y control de la actividad laboral
-has_children: true
+categories: Trabajo

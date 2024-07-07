@@ -1,7 +1,6 @@
 id: 0d251e0c-d01b-4ef2-baae-e211261699bd
 type: promise
-parent_statement: 13376ebb-bccf-4086-b126-12489b5cd6d4
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 13376ebb-bccf-4086-b126-12489b5cd6d4
+parent_chapter: 15d90699-c4aa-4c34-a1ae-8df09f3036ef
+text: Y, muy especialmente, garantizar una financiación adecuada y en progresivo crecimiento que asegure la consecución de todos estos objetivos con la calidad exigible.
 categories: Educación
 topics: Universidad
-text: Y, muy especialmente, garantizar una financiación adecuada y en progresivo crecimiento que asegure la consecución de todos estos objetivos con la calidad exigible.

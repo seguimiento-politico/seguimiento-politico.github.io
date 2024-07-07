@@ -1,6 +1,6 @@
 id: 592241d0-82e5-4eff-b2a0-e9462b43636c
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 155
+parent_chapter: b4d1ed09-83dc-408f-a777-fc5670b54d39
+text: Seguiremos poniendo recursos y desarrollando medidas de empleabilidad e inserción laboral de mujeres víctimas de violencia de género en los entornos rurales y urbanos.
 categories: Seguridad y defensa
 topics: Violencia de género
-text: Seguiremos poniendo recursos y desarrollando medidas de empleabilidad e inserción laboral de mujeres víctimas de violencia de género en los entornos rurales y urbanos.

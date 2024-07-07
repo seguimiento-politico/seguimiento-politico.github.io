@@ -1,11 +1,12 @@
 id: 635bde59-5b71-4a58-927b-257bb759bb20
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 14
-categories: Nacionalismo y patriotismo
+parent_chapter: 1d70d4de-8db8-40af-98f3-72921bc2f7ab
 text: Durante la próxima legislatura aprobaremos una moratoria que paralizará la cesión de nuevas transferencias a las comunidades autónomas. En ese tiempo se realizará una completa evaluación del funcionamiento del Estado Autonómico desde una perspectiva de eficiencia y equidad, de tal manera que se garantice un sector público más racional y viable y se dé plena vigencia al principio constitucional de solidaridad.<br>Estableceremos los cauces necesarios para que aquellas comunidades autónomas que así lo deseen encomienden a la Administración del Estado el ejercicio de aquellas competencias que puedan ser administradas de manera más eficaz desde el Gobierno de la Nación.
+categories: Nacionalismo y patriotismo

@@ -1,7 +1,6 @@
 id: 84293443-a58c-488e-87b3-4b62029d192d
 type: promise
-parent_statement: c915e760-d9b2-411d-b211-4a2c504f2748
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: c915e760-d9b2-411d-b211-4a2c504f2748
+parent_chapter: 63ab839a-6275-4d54-bf9b-ec036a685a75
+text: Será garantía de que estas infraestructuras son de propiedad pública y ofrecen un servicio público. Por lo tanto, hay que favorecer el uso compartido de infraestructuras entre operadores y operadoras, estableciendo sistemas de contraprestación y exigiendo inversiones reales a los operadores y operadoras que quieran actuar en el mercado de las telecomunicaciones.
 categories: Educación
 topics: Digitalización
-text: Será garantía de que estas infraestructuras son de propiedad pública y ofrecen un servicio público. Por lo tanto, hay que favorecer el uso compartido de infraestructuras entre operadores y operadoras, estableciendo sistemas de contraprestación y exigiendo inversiones reales a los operadores y operadoras que quieran actuar en el mercado de las telecomunicaciones.

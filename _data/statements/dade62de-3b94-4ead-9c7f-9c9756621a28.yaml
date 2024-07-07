@@ -1,7 +1,6 @@
 id: dade62de-3b94-4ead-9c7f-9c9756621a28
 type: promise
-parent_statement: 173c4e20-5ce6-4ca9-89bc-b9bdd8983749
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,8 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 215
+parent_statement: 173c4e20-5ce6-4ca9-89bc-b9bdd8983749
+parent_chapter: 7e954430-f78f-4ba9-8bbd-bd41156adc9d
+text: intensificando la firma de tratados de adopción internacional con aquellos países que permiten la adopción a las parejas del mismo sexo y con laso que nuestro país aún no cuenta con acuerdos.
 categories: Derechos y servicios sociales
 topics:
 - Igualdad
 - LGTBI
-text: intensificando la firma de tratados de adopción internacional con aquellos países que permiten la adopción a las parejas del mismo sexo y con laso que nuestro país aún no cuenta con acuerdos.

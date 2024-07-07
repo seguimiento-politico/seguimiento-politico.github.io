@@ -1,7 +1,6 @@
 id: 49d2a467-78b3-4168-87af-ec4aa1cc06be
-type: declaration
-parent_statement: 1108f4dd-3aa3-4bfb-a233-6449383c4d28
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,6 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 169
+parent_statement: 1108f4dd-3aa3-4bfb-a233-6449383c4d28
+parent_chapter: e207a6bf-9c54-4399-a574-f130ae590b63
+text: 'El social: todas las reformas han sido discutidas y enriquecidas en el marco del diálogo social con las organizaciones sindicales y empresariales, siendo las más importantes el producto de grandes acuerdos tripartitos.'
 categories: Derechos y servicios sociales
 topics: Pensiones
-text: 'El social: todas las reformas han sido discutidas y enriquecidas en el marco del diálogo social con las organizaciones sindicales y empresariales, siendo las más importantes el producto de grandes acuerdos tripartitos.'

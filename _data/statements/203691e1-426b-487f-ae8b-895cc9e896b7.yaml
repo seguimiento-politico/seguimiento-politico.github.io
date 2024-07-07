@@ -1,6 +1,6 @@
 id: 203691e1-426b-487f-ae8b-895cc9e896b7
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 59
+parent_chapter: ad039df8-ee0b-45eb-922e-f9f457f1a005
+children_promises:
+- 8a65373f-7270-49dd-a10c-b88bc1e5bf8f
+- c654fb50-7b85-4b62-a16c-d08b4527b180
+- 11b15ecd-3fd4-486d-844d-43087704772d
+children_statements: []
+title: Intervención en el mercado de tierras agrarias para favorecer la integración de jóvenes y mujeres
 categories: Agricultura
 topics: Desarrollo sostenible
-title: Intervención en el mercado de tierras agrarias para favorecer la integración de jóvenes y mujeres
-has_children: true

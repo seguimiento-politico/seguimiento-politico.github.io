@@ -1,6 +1,6 @@
 id: 35245f8b-8cf2-47fc-bbd7-38519c7756ef
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 56
+parent_chapter: 5d726eb0-d9d8-487a-b54a-76273c1b0a4a
+children_promises:
+- 449b36c1-073d-40e8-96c4-4455ef0c795a
+- fdf9d7e3-d4db-444d-aad0-3fa4b233eb10
+- e20d7605-5c8a-4ea1-922c-a4dbb0f4beeb
+children_statements: []
+title: Pondremos en marcha medidas que favorezcan la instalación de centros de datos de manera sostenible
 categories: Economía
 topics: Digitalización
-title: Pondremos en marcha medidas que favorezcan la instalación de centros de datos de manera sostenible
-has_children: true

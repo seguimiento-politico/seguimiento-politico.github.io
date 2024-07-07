@@ -1,11 +1,12 @@
 id: b07f50e1-4b00-4dba-98e7-8e8fb384dc01
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 69
-categories: Energía
+parent_chapter: ca959df7-900b-4214-bd99-9431d6240a39
 text: Impulsaremos una reducción de emisiones que cumpla los objetivos comprometidos por España para 2030, teniendo en cuenta las circunstancias económicas, industriales y de aislamiento energético de España.<br>Daremos prioridad a las opciones energéticas que cumplan con los objetivos de reducción de emisiones al menor coste posible, para asegurar que la energía de hogares y empresas es la más asequible en cada momento.
+categories: Energía

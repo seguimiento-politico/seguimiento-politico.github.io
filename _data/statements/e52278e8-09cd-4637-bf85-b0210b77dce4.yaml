@@ -1,6 +1,6 @@
 id: e52278e8-09cd-4637-bf85-b0210b77dce4
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 35
+parent_chapter: 34122573-31ef-498a-a75c-ec31076a25d2
+text: Impulsaremos acciones positivas en relación con las mujeres inmigrantes y refugiadas en situación de especial vulnerabilidad, como las mujeres solas con cargas familiares.
 categories: Migración
 topics: Inmigración
-text: Impulsaremos acciones positivas en relación con las mujeres inmigrantes y refugiadas en situación de especial vulnerabilidad, como las mujeres solas con cargas familiares.

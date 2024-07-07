@@ -1,6 +1,6 @@
 id: 425f7270-51f2-4060-a546-34ec74dceafe
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 168
-categories: Cultura
+parent_chapter: 7350357f-215c-4adf-8549-2205377e11a9
+children_promises:
+- 06b97d4d-1cbd-482e-9432-70e39423a2cb
+- f67f1976-ac58-44e3-8ef6-59fab48f0094
+- b465ae4b-de3c-4657-a8c5-4e59a59e5734
+- 41026907-1b4d-4888-8342-a6610e86909d
+children_statements: []
 title: 'Escucha permanente para democratizar la cultura: Plan estatal de cultura e impulso de los órganos de coordinación territorial y sectorial.'
-has_children: true
+categories: Cultura

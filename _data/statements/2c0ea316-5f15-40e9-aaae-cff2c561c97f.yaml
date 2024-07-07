@@ -1,6 +1,6 @@
 id: 2c0ea316-5f15-40e9-aaae-cff2c561c97f
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 96
+parent_chapter: 4b1a1fd6-83f2-4e8c-a775-7e65f72f50be
 title: Promulgar la Ley Celiaca.
 text: Las personas celiacas padecen dificultades y sobrecostes para acceder a alimentos básicos, de modo que es necesario garantizar una acción pública y un marco normativo que las apoye y que compense esta situación Se impedirá la discriminación laboral y escolar de personas con enfermedades como la celiaquía o la diabetes Se impulsarán la investigación, la prevención, la promoción y el tratamiento eficaz, así como la creación y publicación de un listado de alimentos sin gluten, de gestión pública, para evitar clientelismos y dudas Se mejorarán, junto con las comunidades autónomas, las estrategias de diagnóstico precoz y la participación de las asociaciones de afectados y afectadas en las labores de planificación y seguimiento de la seguridad y calidad alimentarias Se incentivará que establecimientos, productores y productoras incluyan opciones sin gluten, y se estudiarán ayudas directas y fiscales para las familias afectadas Esta regulación se actualizará al ritmo de los avances médicos y científicos.

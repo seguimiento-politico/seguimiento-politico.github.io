@@ -1,6 +1,6 @@
 id: e9468691-04a5-4199-8581-8118a40bff78
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,9 +9,16 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 162
+parent_chapter: da8738cc-6b40-4ce6-8871-e59f681bc6df
+children_promises:
+- bfe4e26b-7b41-4f1f-8b37-809080020b23
+- 2f89dd75-e992-4824-b432-fb24a1da51dd
+- de85d1d7-ab9a-4c99-a945-5d99587b740d
+- 31f186dd-8feb-45fe-ab3c-abd85c759e2c
+- b8e7698b-bda2-4aa6-8ae7-55c170301738
+children_statements: []
+title: ' Incorporación de oficinas o unidades de atención a la discapacidad y a las distintas diversidades en los estatutos de todas las universidades.'
 categories: Educación
 topics:
 - Igualdad
 - Inclusión
-title: ' Incorporación de oficinas o unidades de atención a la discapacidad y a las distintas diversidades en los estatutos de todas las universidades.'
-has_children: true

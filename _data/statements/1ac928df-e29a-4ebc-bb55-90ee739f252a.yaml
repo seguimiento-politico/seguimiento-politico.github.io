@@ -1,6 +1,6 @@
 id: 1ac928df-e29a-4ebc-bb55-90ee739f252a
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Seguridad y Defensa
+parent_chapter: ff200f89-fcf9-409d-908e-4ca3fd75edb8
 text: 'Cuando en junio de 2018 el PSOE asumió el Gobierno de España, tuvo que hacer frente a las consecuencias de años de desinversión en Defensa de los gobiernos del Partido Popular. Desde entonces, hemos trabajado sin descanso para revertir la situación. Actualmente, hemos doblado el presupuesto que la derecha destinaba a la Defensa, con el objetivo de lograr unas Fuerzas Armadas modernas y adaptabas a los retos del siglo XXI.<br><br> Creemos que nuestras Fuerzas Armadas cumplen con el importante deber, plasmado en nuestra Constitución, de garantizar la seguridad de España y con ella, los derechos, libertades y bienestar que nuestra sociedad disfruta. <br><br> Las necesidades que nuestras Fuerzas Armadas tienen para cumplir su papel han llevado a desbloquear e impulsar un importante número programas de adquisición y actualización de sus capacidades. Con ello, hemos impulsado, y continuaremos impulsando el desarrollo de la industria española de Defensa, asegurando así nuestra autonomía estratégica, en ámbitos innovadores, en el I+D+i, cada vez con un carácter más dual, y en la generación de productos con alto valor añadido y empleo cualificado. Para continuar con esta importante labor:'
+categories: Seguridad y Defensa

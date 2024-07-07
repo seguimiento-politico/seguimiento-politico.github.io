@@ -1,6 +1,6 @@
 id: 7ddfede1-c3bf-4444-a8da-f2559f5a5b5e
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 132
-categories: Seguridad y defensa
+parent_chapter: 66b190ef-617c-438a-adf3-a3c9f707719b
+children_promises:
+- fce53838-ac28-4ac7-93b6-645253615877
+- cc862703-85d5-4d5f-a5a3-4e73647e1f95
+- 31bd19c4-00ff-4c8e-b05f-ac41bc2dbb43
+- c6aa6274-4ab9-4c76-9ea4-673e41a943d7
+- f313ba07-d7e0-4dc9-b9a4-95c9a423bc0b
+children_statements:
+- a9911aad-2081-4a10-b3a4-b623b5664449
 title: Propondremos una regulación completa del uso de la fuerza policial que incluirá la prohibición del uso de pelotas de goma y otros materiales antidisturbios altamente lesivos.
-has_children: true
+categories: Seguridad y defensa

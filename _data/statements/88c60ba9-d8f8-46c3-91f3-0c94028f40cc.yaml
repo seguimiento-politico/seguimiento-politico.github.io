@@ -1,6 +1,6 @@
 id: 88c60ba9-d8f8-46c3-91f3-0c94028f40cc
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 101
+parent_chapter: 4b1a1fd6-83f2-4e8c-a775-7e65f72f50be
 title: Garantizar el derecho a una indemnización añadida automática para las personas consumidoras en caso de fraude.
 text: En todos los casos en que se haya padecido una contratación irregular, conforme a la normativa de consumo aplicable, la persona consumidora no solo tendrá derecho a la devolución de lo cobrado indebidamente o del daño causado, sino a una indemnización añadida por las molestias, que opere también como un desincentivo contundente al fraude

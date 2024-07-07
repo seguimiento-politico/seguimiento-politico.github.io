@@ -1,6 +1,6 @@
 id: 022a8ba1-fdab-4b99-92e3-635432f31870
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 53
+parent_chapter: 2d06e79f-d667-441b-b7cf-513970c6ccde
+children_promises:
+- b61d0c3c-e898-4212-8e3a-1f4aa88b80c5
+children_statements: []
+title: Plan nacional de conservación de los humedales
 categories: Medioambiente
 topics: Biodiversidad
-title: Plan nacional de conservación de los humedales
-has_children: true

@@ -1,6 +1,6 @@
 id: e6b9cc4f-1ca5-4583-87d8-9f9096276a25
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,15 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 113
+parent_chapter: 579c674b-2384-4748-a93a-92ef43822f21
+children_promises:
+- 92685980-d862-400e-9783-01a37011a3b2
+- 253db718-b128-4a93-9874-4771b78ea722
+- 1255102e-f62a-4668-83a5-d758a58c7efd
+- 677d46ca-34fe-4c24-a539-4b662e6f5a37
+- 0996fcfb-6e83-4141-ac6d-4ff0767d8cc2
+- 55c5fc6d-de1f-4682-ac03-08464264fa8a
+children_statements: []
+text: Formación para 3 millones de personas en formación profesional cada año, de los cuales 1.400.000 serán jóvenes matriculados en formación profesional del sistema educativo, y 1.600.000 trabajadoras y trabajadores ocupados o desempleados.
 categories: Derechos y servicios sociales
 topics: Formación profesional
-text: Formación para 3 millones de personas en formación profesional cada año, de los cuales 1.400.000 serán jóvenes matriculados en formación profesional del sistema educativo, y 1.600.000 trabajadoras y trabajadores ocupados o desempleados.
-has_children: true

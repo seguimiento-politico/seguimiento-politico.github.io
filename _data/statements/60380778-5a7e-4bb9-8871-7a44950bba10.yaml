@@ -1,6 +1,6 @@
 id: 60380778-5a7e-4bb9-8871-7a44950bba10
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 143
+parent_chapter: 46f86e67-8c84-4e9a-b4fc-edce6fe582f3
+text: Fomentaremos la corresponsabilidad en las primeras etapas de la crianza incentivando prácticas beneficiosas como la adopción consecutiva de los permisos de nacimiento.
 categories: Derechos y servicios sociales
 topics: Cuidados
-text: Fomentaremos la corresponsabilidad en las primeras etapas de la crianza incentivando prácticas beneficiosas como la adopción consecutiva de los permisos de nacimiento.

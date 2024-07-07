@@ -1,6 +1,6 @@
 id: a30b4b72-c1ed-43b0-ab55-ca58393aa140
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 154
-categories: Educación
+parent_chapter: c1ead426-cec8-44d6-a73a-d98f9059e1db
+children_promises:
+- 154fc155-b717-4a35-b745-7f8102399492
+- c5611ff2-90d3-4c6f-afc4-8d00ad72fe66
+- 82a942c3-c478-42d1-bf17-830477cbc106
+- 97a59e87-ea31-4002-865f-f1a5edcb82ce
+- 470343f0-b74e-4df9-bca2-3f11add50073
+children_statements:
+- b84df106-2ebc-44d8-9f2d-d7a3cdc13efb
 title: Red pública suficiente de centros de Formación Profesional que garantice la cobertura de estos estudios, comprometida con el trabajo decente, y que consiga revertir el peso actual de la oferta privada en estas enseñanzas y facilitar la permeabilidad entre itinerarios diferentes.
-has_children: true
+categories: Educación

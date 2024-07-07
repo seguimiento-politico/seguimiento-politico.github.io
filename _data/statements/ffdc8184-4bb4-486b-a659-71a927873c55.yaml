@@ -1,6 +1,6 @@
 id: ffdc8184-4bb4-486b-a659-71a927873c55
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 130
+parent_chapter: 36d24e1d-5fdd-486e-90c6-db666440d304
+text: Crearemos un Consejo Juvenil en el Ministerio de Cultura para que los programas de creación, producción y programación de giras puedan acercarse a los jóvenes y niños, creando nuevos públicos con actividades de contextualización. Crearemos un Consejo Juvenil en el Ministerio de Cultura.
 categories: Derechos y servicios sociales
 topics: Infancia y juventud
-text: Crearemos un Consejo Juvenil en el Ministerio de Cultura para que los programas de creación, producción y programación de giras puedan acercarse a los jóvenes y niños, creando nuevos públicos con actividades de contextualización. Crearemos un Consejo Juvenil en el Ministerio de Cultura.

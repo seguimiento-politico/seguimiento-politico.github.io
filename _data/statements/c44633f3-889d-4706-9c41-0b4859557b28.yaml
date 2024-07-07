@@ -1,7 +1,6 @@
 id: c44633f3-889d-4706-9c41-0b4859557b28
 type: promise
-parent_statement: 0226232d-63bc-49f0-98c0-ed9785a03e63
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 0226232d-63bc-49f0-98c0-ed9785a03e63
+parent_chapter: 4a4ec318-0db9-4da1-9515-2b36e808a75f
+text: Desarrollo de un informe periódico anual que genere recomendaciones de mejora para todas las políticas públicas mediante datos adecuados y desagregados en función de territorio (rural/urbano; centro/periferia), renta, edad, género, origen geográfico y cultura, entre otros, como los recogidos actualmente por el Observatorio por el Derecho de la Alimentación.
 categories: Consumo
 topics: Alimentación saludable
-text: Desarrollo de un informe periódico anual que genere recomendaciones de mejora para todas las políticas públicas mediante datos adecuados y desagregados en función de territorio (rural/urbano; centro/periferia), renta, edad, género, origen geográfico y cultura, entre otros, como los recogidos actualmente por el Observatorio por el Derecho de la Alimentación.

@@ -1,0 +1,30 @@
+name: Seguridad y defensa
+other:
+- &id001
+  id: 5e01ecde-164a-4901-a71c-f1f1b21c6b5c
+  parties:
+  - VOX
+- &id003
+  id: 9a078652-96bd-4b55-8394-fd7b705a2660
+  parties:
+  - VOX
+other_count: 2
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions:
+- &id002
+  id: cc61afce-2824-41a7-8311-e11ec62afb22
+  parties:
+  - VOX
+proposed_actions_count: 1
+statements:
+- *id001
+- *id002
+- *id003
+statements_count: 3
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

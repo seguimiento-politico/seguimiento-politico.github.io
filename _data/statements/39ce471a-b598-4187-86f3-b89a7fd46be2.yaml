@@ -1,6 +1,6 @@
 id: 39ce471a-b598-4187-86f3-b89a7fd46be2
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 21
+parent_chapter: 4b1683fc-d7a0-48bb-aee9-80fe2e0346f6
+text: DISEÑAREMOS UN PLAN CONTRA EL DESEMPLEO FEMENINO, QUE REDUZCA A LA MITAD EN ESTA LEGISLATURA LA BRECHA DE PARTICIPACIÓN EN EL MERCADO LABORAL de hombres y mujeres. Incorporará acciones específicas para las mujeres con discapacidad o con mayores dificultades para acceder al empleo, luchando contra las discriminaciones dobles o múltiples que sufren muchas mujeres. Incluiremos programas de reinserción en el mercado laboral y bonificaciones de las cotizaciones en sectores masculinizados, tras el cuidado de menores o personas dependientes, así como medidas para la inserción y la reinserción posterior a la maternidad en el mercado laboral.
 categories: Derechos y servicios sociales
 topics: Igualdad
-text: DISEÑAREMOS UN PLAN CONTRA EL DESEMPLEO FEMENINO, QUE REDUZCA A LA MITAD EN ESTA LEGISLATURA LA BRECHA DE PARTICIPACIÓN EN EL MERCADO LABORAL de hombres y mujeres. Incorporará acciones específicas para las mujeres con discapacidad o con mayores dificultades para acceder al empleo, luchando contra las discriminaciones dobles o múltiples que sufren muchas mujeres. Incluiremos programas de reinserción en el mercado laboral y bonificaciones de las cotizaciones en sectores masculinizados, tras el cuidado de menores o personas dependientes, así como medidas para la inserción y la reinserción posterior a la maternidad en el mercado laboral.

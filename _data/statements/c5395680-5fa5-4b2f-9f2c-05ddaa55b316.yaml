@@ -1,6 +1,6 @@
 id: c5395680-5fa5-4b2f-9f2c-05ddaa55b316
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 55
+parent_chapter: 9aeb9012-3576-4df8-8b63-fc5f5db91a07
+children_promises:
+- 310563ad-6a4d-45ab-ab38-e59d9b4c522e
+children_statements: []
+title: Impulsaremos proyectos asociados a la ciberseguridad de manera que nos mantengan en la vanguardia de la seguridad, asegurando la garantía de soberanía tecnológica y desarrollo avanzado.
 categories: Ciencia y tecnología
 topics: Ciberseguridad
-title: Impulsaremos proyectos asociados a la ciberseguridad de manera que nos mantengan en la vanguardia de la seguridad, asegurando la garantía de soberanía tecnológica y desarrollo avanzado.
-has_children: true

@@ -1,6 +1,6 @@
 id: e64d437e-d935-4765-a245-7d4db387d30f
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 152
+parent_chapter: 3fad71c1-ef43-4174-89f5-52e6265e7163
+children_promises:
+- 90fcfdae-3b98-4f27-b8a8-123d136dc475
+- 145ea63c-07dd-48b1-8414-709d5552f20e
+children_statements: []
+text: 'Evaluaremos la aplicación del Pacto y continuaremos implementando las medidas pendientes. Con especial atención a:'
 categories: Democracia
 topics: Violencia de género
-text: 'Evaluaremos la aplicación del Pacto y continuaremos implementando las medidas pendientes. Con especial atención a:'
-has_children: true

@@ -1,6 +1,6 @@
 id: 0f924222-11ee-4e60-9697-401c43ff1af5
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 140
+parent_chapter: 84d959e0-5276-4fd9-803a-4db1814ea88a
+text: Pondremos en marcha la Oficina Estatal de lucha contra discriminación en la Inspección de Trabajo.
 categories: Trabajo
 topics: Igualdad
-text: Pondremos en marcha la Oficina Estatal de lucha contra discriminación en la Inspección de Trabajo.

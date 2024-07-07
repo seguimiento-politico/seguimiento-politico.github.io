@@ -1,7 +1,6 @@
 id: 64195808-aaf5-48bc-b505-0fae229a1b4e
 type: promise
-parent_statement: 514c8ee4-7c0a-469d-be1c-14d339315680
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Trabajo
+parent_statement: 514c8ee4-7c0a-469d-be1c-14d339315680
+parent_chapter: 064fdf66-6754-4979-b8ea-d7f30ac31767
 text: Reordenaremos el tiempo de trabajo, incluyendo la reducción y la distribución de la jornada la- boral, pero sin reducción de salario. En 2024 se establecerá por ley una jornada laboral máxima de 37,5 horas y se abrirá un proceso de diálogo social para seguir reduciendo la jornada hasta alcanzar las 32 horas semanales. Con ello, mejorará la compatibilidad del tiempo de trabajo con el resto de los usos del tiempo, desde un reparto equilibrado de las tareas de cuidados y autocuidado al tiem- po destinado a la formación, al ocio o a la participación social. Además, se debe controlar mejor las horas extras y compensarlas con tiempo libre, eliminar los horarios variables sin control, regular los horarios de los servicios públicos y procurar una gestión más flexible de la distribución de la jornada anual o del tiempo a lo largo de la carrera profesional de las personas, incluyendo el contrato de re- levo. Se procurará trasladar el mayor número de días no laborables a los lunes, tanto para facilitar un mejor disfrute del ocio como por razones de organización de la producción.
+categories: Trabajo

@@ -1,6 +1,6 @@
 id: a2973d58-1759-48fa-8a6e-2ddd1e4e9dac
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,16 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 125
-categories: Justicia
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
+children_promises:
+- f633131e-d6b1-4d47-85e3-3ffcc9d5f4d9
+- f385e52e-b919-42e3-a7b1-5964536a7586
+- e0a2c4ce-3d8e-4004-8205-d6cfa704b178
+- d496ee86-f0d8-4eeb-91d4-b9794fbe2f51
+- 8b8cf5fb-6528-4e34-a319-3ae955b9c136
+- 1764cd85-ed41-45b0-a546-5186c9d1af14
+- 22ef8f5d-8bef-4b9e-b69b-049640122085
+children_statements:
+- a609c875-e26b-418b-a626-aecfe160b3d3
 title: Refuerzo de la justicia gratuita y el turno de oficio como servicios públicos esenciales
-has_children: true
+categories: Justicia

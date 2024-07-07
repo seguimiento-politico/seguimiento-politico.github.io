@@ -1,6 +1,6 @@
 id: b5b66a95-8d79-4a7c-8376-44d8deb910a1
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,7 +8,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 15
-categories: Economía
-topics: Desarrollo sostenible
+parent_chapter: 48b6e85e-eb0a-40f5-9aa9-d85750a8402d
 title: FRENAREMOS EL EXCESO DE REGULACIÓN.
 text: Nos comprometemos a implementar el principio de “una nueva norma, tres eliminadas”, asegurando que cada nueva ley o norma reemplace a varias existentes. Exigiremos que cada nuevo proyecto de ley que se tramite en el Parlamento incluya una memoria de impacto económico sobre terceros, con el fin de identificar qué nuevos costes se estiman en cada nueva ley sectorial para las empresas. Aprobaremos cada año un decreto de simplificación administrativa y mejora de la calidad regulatoria.
+categories: Economía
+topics: Desarrollo sostenible

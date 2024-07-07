@@ -1,7 +1,6 @@
 id: 0dfb42f4-7bb2-49f6-a54d-314fcd6cee34
 type: promise
-parent_statement: 11e5889d-4879-491b-800a-f41b584a4bcd
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Banca
+parent_statement: 11e5889d-4879-491b-800a-f41b584a4bcd
+parent_chapter: 1fb125f8-bab0-49cf-a4a8-7924f09dfad1
 text: Garantizaremos la prestación de servicios públicos en un clic mediante el impulso de la Carpeta Ciudadana
+categories: Banca

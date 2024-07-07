@@ -1,6 +1,6 @@
 id: 1de1049b-5c36-49b5-8bf9-4e57c6ff45e3
-type: declaration
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Justicia
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
 text: La justicia es un servicio público esencial para hacer efectivas la libertad y la igualdad de la ciudadanía. Un servicio mediante el que nuestros tribunales no solo cumplen un mandato constitucional, sino que también dan la medida de su valor para generar cohesión social, crear comunidad en torno a los valores democráticos y para apelar a la ciudadanía —desde esa comunidad compartida—, tanto en relación con el ejercicio de sus derechos como con el cumplimiento de sus deberes en la construcción del bien común.<br><br> Así se garantizan, en última instancia, las libertades y los derechos, costosamente conseguidos, que se ven amenazados, en la práctica, por fenómenos como las condiciones abusivas de algunos contratos, los problemas vinculados al medio ambiente, la salud, la vivienda, los retos en materia de libertades civiles y las múltiples manifestaciones de la violencia heteropatriarcal. De la misma manera que su defensa requiere instrumentos normativos que hagan frente a tales retos, también los medios y las estructuras organizativas a su servicio deben ser los adecuados —tanto en cantidad como en calidad—, para satisfacer las demandas de la ciudadanía.<br><br> Por ello, nuestras propuestas en esta materia no se limitan a la configuración de los órganos de gobierno de la judicatura, la selección de sus componentes, la de sus altas magistraturas, los sesgos de los que adolecen algunas de sus decisiones y el contenido de las leyes que las fundamentan. Junto a esa dimensión de la justicia como «poder», que sin duda ha de tenerse en cuenta, una fuerza política con proyecto de Estado debe mostrar una visión solvente de la justicia entendida como «servicio» y servicio público.<br><br> Se trata de construir una justicia democrática, abierta y en diálogo con todos los operadores jurídicos y entidades que compartan la necesidad de hacer real el derecho fundamental a la tutela judicial efectiva.
+categories: Justicia

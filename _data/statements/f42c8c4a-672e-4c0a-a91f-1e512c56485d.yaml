@@ -1,6 +1,6 @@
 id: f42c8c4a-672e-4c0a-a91f-1e512c56485d
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 90
-categories: Sanidad
+parent_chapter: 17e4c412-8ac4-4992-848a-422903075ee3
+children_promises:
+- 92249929-babb-4f9c-af3b-df441f3f3c88
+- 9479b484-5a01-407a-b49e-fcf732d48f32
+children_statements:
+- 63e3edeb-243f-43c5-a036-4a78f90562ba
 title: Atención primaria fortalecida.
-has_children: true
+categories: Sanidad

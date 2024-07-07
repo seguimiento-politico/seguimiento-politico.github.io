@@ -1,6 +1,6 @@
 id: 2803584b-9179-45cb-87dd-95eb6aa104f5
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 75
-categories: Justicia
+parent_chapter: 0f87afc6-fcea-4ab1-b5a8-63765bc3744f
 text: REFORZAREMOS LAS GARANTÍAS DE INDEPENDENCIA DEL PODER JUDICIAL, mediante la reforma de su ley Orgánica, incluyendo la modificación del sistema de elección de los miembros del Consejo de manera que sean los jueces y magistrados los que elijan a los 12 vocales de procedencia judicial. Derogaremos la reforma que hoy impide su normal funcionamiento.
+categories: Justicia

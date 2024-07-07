@@ -1,7 +1,6 @@
 id: 856f2d14-b966-4eb9-aa05-7c48188d475d
 type: promise
-parent_statement: ce48cd50-f05c-4b74-90b9-09224857d157
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Urbanismo y ciudades
+parent_statement: ce48cd50-f05c-4b74-90b9-09224857d157
+parent_chapter: da4a5e62-c6b6-45b0-a08b-611f6d470a08
 text: Hace falta una apuesta por la proximidad y por los ciclos cortos que abarque desde la alimentación al comercio, la sanidad, la educación, el medio ambiente, la cultura, el ocio o el deporte.
+categories: Urbanismo y ciudades

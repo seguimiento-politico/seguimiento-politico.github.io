@@ -1,6 +1,6 @@
 id: 21e6da0f-847e-48fd-84b9-b566ce33b87a
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 9
+parent_chapter: b7709ab3-42ae-4fea-8ba2-7acda945ac2b
+children_promises:
+- 4f4fd377-0bac-4ea5-a468-a91e607036ac
+- f122e682-3f2c-4822-b254-d80e024f1b6a
+- 3fb4b784-be70-44a3-8c1e-4af98e895a54
+- c2483916-c956-4722-ab5f-99e04b4e1347
+children_statements: []
+title: Avanzar en la igualdad de género en el mercado laboral y en los cuidados
 categories: Economía
 topics: Igualdad
-title: Avanzar en la igualdad de género en el mercado laboral y en los cuidados
-has_children: true

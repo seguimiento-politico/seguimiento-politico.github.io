@@ -1,7 +1,6 @@
 id: 348eeb16-6921-43dc-a104-74cbbd8e5b28
 type: promise
-parent_statement: 7fdbd29c-b008-48de-accb-8ca865d9fce2
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
+parent_statement: 7fdbd29c-b008-48de-accb-8ca865d9fce2
+parent_chapter: d5bc3185-7cac-4cbc-9ca4-df232e4c8a2f
+text: Impedirá de forma efectiva los homenajes a los asesinos, desterrando cualquier recuerdo de los criminales y honrando la memoria de todas las víctimas del terrorismo separatista e islamista, desde los colegios hasta el último de los organismo oficiales.
 categories:
 - Justicia
-text: Impedirá de forma efectiva los homenajes a los asesinos, desterrando cualquier recuerdo de los criminales y honrando la memoria de todas las víctimas del terrorismo separatista e islamista, desde los colegios hasta el último de los organismo oficiales.

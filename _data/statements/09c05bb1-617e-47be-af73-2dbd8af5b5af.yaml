@@ -1,6 +1,6 @@
 id: 09c05bb1-617e-47be-af73-2dbd8af5b5af
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 241
+parent_chapter: e5be3d56-d004-4484-b293-9d1f24b80d8c
+text: Garantizaremos el derecho al desarrollo profesional del personal público, dotándolo de una verdadera carrera profesional vertical y horizontal que satisfaga sus expectativas laborales, y de una formación personalizada que contemple la actualización permanente de sus competencias y cualificaciones profesionales.
 categories: Trabajo
 topics: Empleo público
-text: Garantizaremos el derecho al desarrollo profesional del personal público, dotándolo de una verdadera carrera profesional vertical y horizontal que satisfaga sus expectativas laborales, y de una formación personalizada que contemple la actualización permanente de sus competencias y cualificaciones profesionales.

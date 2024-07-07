@@ -1,6 +1,6 @@
 id: 6e60448f-9e36-4127-be05-5358cef35664
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 182
+parent_chapter: 3c28d085-e887-4b0a-bcf6-97e6d3593783
+text: Consolidar el Ingreso Mínimo Vital y el Complemento de Ayuda a la Infancia –hasta llegar a al menos un millón de niños, niñas y adolescentes- como principales herramientas para reducir la pobreza infantil en nuestro país.
 categories: Derechos y servicios sociales
 topics:
 - Infancia
 - Incentivos, ayudas y subvenciones
-text: Consolidar el Ingreso Mínimo Vital y el Complemento de Ayuda a la Infancia –hasta llegar a al menos un millón de niños, niñas y adolescentes- como principales herramientas para reducir la pobreza infantil en nuestro país.

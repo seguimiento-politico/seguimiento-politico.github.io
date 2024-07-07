@@ -1,6 +1,6 @@
 id: 0e16e14c-e7ab-4350-a19b-82fca36e6f28
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 97
+parent_chapter: 4b1a1fd6-83f2-4e8c-a775-7e65f72f50be
 title: Asegurar un sistema de becas suficiente aumentando su número y su cuantía.
 text: El aumento del alquiler y de las tasas ha convertido estudiar en algo imposible para muchas familias, y quienes han accedido con recursos escasos han tenido que quitarse tiempo de estudio para trabajar Esto afecta de manera decisiva a la igualdad de oportunidades Por eso, el nuevo sistema de becas no solo aumentará las becas concedidas y su cuantía, sino que dependerá en exclusiva de la posición económica Asimismo, se establecerá un calendario para que se resuelvan antes del comienzo del curso académico y se ingresen durante el primer trimestre

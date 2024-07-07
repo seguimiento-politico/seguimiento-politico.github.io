@@ -1,11 +1,12 @@
 id: 2d328239-76dd-4fdf-b919-6614b7da7b75
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 92
-categories: Vivienda
+parent_chapter: 6e973242-6d41-499e-94de-956afd2800b4
 text: Dedicaremos más esfuerzos de las policías municipales para prevenir la ocupación de viviendas, vigilar los pisos ocupados ilegalmente, detener a los implicados en tales delitos y asegurar la convivencia pacífica en los barrios.
+categories: Vivienda

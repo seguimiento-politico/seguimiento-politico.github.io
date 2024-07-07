@@ -1,7 +1,6 @@
 id: 1003463c-fd42-4851-bbf1-b6258afe44ef
 type: promise
-parent_statement: 37d8b8c1-6963-4111-af2a-4fa647650be6
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 37d8b8c1-6963-4111-af2a-4fa647650be6
+parent_chapter: c1d2932c-9fc8-4b60-9a6a-8398312cb597
+text: Limitar la proliferación de envases y plásticos a través de una ley de embalaje a través de un Real Decreto de embalaje, reducción en origen y granel.
 categories: Economía
 topics: Economía circular
-text: Limitar la proliferación de envases y plásticos a través de una ley de embalaje a través de un Real Decreto de embalaje, reducción en origen y granel.

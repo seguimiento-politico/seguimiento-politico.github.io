@@ -1,6 +1,6 @@
 id: 8ff4bde4-57b0-4e46-b6c5-70c373421a86
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 19
-categories: Vivienda
+parent_chapter: 76e1c51f-5c84-4bf0-9fab-26b71a97cfdc
 text: Se impulsarán medidas para asegurar el realojo inmediato en determinadas condiciones de las personas inquilinas que no puedan hacer frente a la renta por carecer de recursos económicos o por situaciones de vulnerabilidad.
+categories: Vivienda

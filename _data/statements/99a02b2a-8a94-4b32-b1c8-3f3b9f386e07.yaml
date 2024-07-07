@@ -1,6 +1,6 @@
 id: 99a02b2a-8a94-4b32-b1c8-3f3b9f386e07
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 48
+parent_chapter: c31b1fcd-80d0-4ca3-b06a-863fa279380c
+children_promises:
+- 8ee30af8-2715-4bbe-9c1e-d517e859ecb7
+- f07c504d-ab30-4679-872f-6b0d0fa568ba
+- a069757c-599e-4b9c-8196-7f50c4790ea0
+children_statements:
+- 40a222ec-16bd-444c-afe5-1426ad61a076
+title: Propuestas para el Pacto de Estado antidesertificación
 categories: Medioambiente
 topics: Desertificación
-title: Propuestas para el Pacto de Estado antidesertificación
-has_children: true

@@ -1,0 +1,20 @@
+name: Libertad de expresión
+other:
+- &id001
+  id: a89131e1-a43b-48f2-95c9-d722aa9f32a3
+  parties:
+  - PSOE
+other_count: 1
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+statements_count: 1
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

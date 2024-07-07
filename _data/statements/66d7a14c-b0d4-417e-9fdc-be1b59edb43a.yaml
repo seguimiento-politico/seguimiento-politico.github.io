@@ -1,6 +1,6 @@
 id: 66d7a14c-b0d4-417e-9fdc-be1b59edb43a
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 160
+parent_chapter: 68fc7212-272e-414e-bb81-f800c9889a6b
+text: 'Debemos garantizar la IVE en igualdad de condiciones en todas las Comunidades así como la información y garantía de la elección y la disponibilidad de acceder a los dos métodos mediante los cuales se lleva a cabo la prestación: el método quirúrgico y el farmacológico.'
 categories: Derechos y servicios sociales
 topics: Derechos sexuales y reproductivos
-text: 'Debemos garantizar la IVE en igualdad de condiciones en todas las Comunidades así como la información y garantía de la elección y la disponibilidad de acceder a los dos métodos mediante los cuales se lleva a cabo la prestación: el método quirúrgico y el farmacológico.'

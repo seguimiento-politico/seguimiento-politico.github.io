@@ -1,6 +1,6 @@
 id: 0c4782e6-3c6d-4bae-afe1-149af2b66e28
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 73
-categories: Medioambiente
+parent_chapter: 85ba981f-5588-4f5a-bd23-87684187301f
 text: Queremos culminar este nuevo enfoque en la gestión de los recursos hídricos y completar y modernizar nuestras infraestructuras de saneamiento y depuración. La conservación de nuestros ecosistemas y su restauración, –tanto de espacios emblemáticos como el Mar Menor, Doñana, las Tablas de Daimiel o el Delta del Ebro, así como entornos menos conocidos en los cauces de los ríos, el borde litoral, espacios marinos o del interior– resulta fundamental. Queremos preservar nuestros suelos, impulsar la bioeconomía, proteger a quienes nos protegen y protegen nuestra biodiversidad y nuestros montes y bosques. Esto exige compromiso, regulación y acción, facilitar la participación, el diálogo y el consenso.
+categories: Medioambiente

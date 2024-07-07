@@ -1,6 +1,6 @@
 id: 9c53b29c-0e5a-4fb9-887a-1aef462e4d6c
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 157
-categories: Educación
+parent_chapter: 869a602d-b512-418c-a46e-5ebd811152f6
+children_promises:
+- bd754cae-9ab5-4a7f-a313-05aba5c36117
+- 92d00171-f818-4eb2-a8bb-a8ae12df17c7
+- e85ec4a0-9e64-46a6-92aa-18714b208329
+children_statements: []
 title: Bajada de ratios en las aulas españolas y aumento de la dotación de medios humanos y materiales.
-has_children: true
+categories: Educación

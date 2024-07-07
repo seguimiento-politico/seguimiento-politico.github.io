@@ -1,6 +1,6 @@
 id: 3a27556f-7b87-4fdb-9251-602c828817f7
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 107
-categories: Educación
+parent_chapter: d74bc2c5-b632-425b-ae29-fb826a1b8e06
 text: Combatiremos la segregación escolar mediante la actualización de los módulos y de otros costes de funcionamiento de los centros concertados sostenidos con fondos públicos para asegurar que su oferta es accesible a todas las familias sin peajes ocultos o sesgos de cualquier tipo en la admisión
+categories: Educación

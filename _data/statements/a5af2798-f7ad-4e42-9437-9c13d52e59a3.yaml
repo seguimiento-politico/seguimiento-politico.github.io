@@ -1,6 +1,6 @@
 id: a5af2798-f7ad-4e42-9437-9c13d52e59a3
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,8 +9,11 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 8
+parent_chapter: f7d833fa-aff7-4e92-ab7f-4430cb8f127b
+children_promises:
+- 582cc112-1c00-4824-86d1-3d9ea5fa851a
+children_statements: []
+title: Publicación de datos sobre nacionalidad y origen en estadísticas de delitos.
 categories:
 - Seguridad y defensa
 - Migración
-title: Publicación de datos sobre nacionalidad y origen en estadísticas de delitos.
-has_children: true

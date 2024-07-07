@@ -1,7 +1,6 @@
 id: 82a942c3-c478-42d1-bf17-830477cbc106
 type: promise
-parent_statement: a30b4b72-c1ed-43b0-ab55-ca58393aa140
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Educación
+parent_statement: a30b4b72-c1ed-43b0-ab55-ca58393aa140
+parent_chapter: c1ead426-cec8-44d6-a73a-d98f9059e1db
 text: Impulsaremos una nueva ley de Formación Profesional que recoja los principios anteriores, que la adapte al modelo productivo, a las necesidades de formación y el derecho al acceso en el mundo del trabajo; que conduzca a un trabajo decente, de acuerdo con la definición de la OIT, y no se utilice para cubrir puestos de trabajo a bajo coste
+categories: Educación

@@ -1,7 +1,6 @@
 id: c93bc08b-618d-4bf9-9c40-6b7707347330
 type: promise
-parent_statement: 6ba7b810-9dad-11d1-80b4-00c04fd430c8
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Trabajo
+parent_statement: 6ba7b810-9dad-11d1-80b4-00c04fd430c8
+parent_chapter: 82855f00-cceb-4e47-9e09-9d8348f7eecf
 text: Tomaremos en serio el Estatuto Básico de las Personas Empleadas Públicas (EBEP), haciendo efectivos sus derechos. Década y media después, el EBEP, que supuso algunos progresos impor tantes en derechos, no tiene en cuenta a millones de personas que prestan sus servicios como em pleadas públicas, pues las pocas leyes de función pública posteriores apenas lo han desarrollado. Hacer efectivos esos derechos mediante el desarrollo de un EBEP a la altura del siglo XXI será una prioridad.
+categories: Trabajo

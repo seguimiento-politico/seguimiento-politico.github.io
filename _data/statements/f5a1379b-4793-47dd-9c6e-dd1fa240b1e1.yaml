@@ -1,6 +1,6 @@
 id: f5a1379b-4793-47dd-9c6e-dd1fa240b1e1
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,9 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 66
+parent_chapter: 1d4a4787-163e-4649-b875-f97fd3780649
+children_promises:
+- f2251eab-2043-463d-bf48-3edaa07fe3e9
+- 4ea6dbf6-2c64-4cdf-9f85-dfcec1bb826f
+children_statements: []
+title: Seguiremos trabajando en la implementación de la nueva PAC 2023-2027, más justa, más sostenible y social. Realizaremos una evaluación intermedia en 2024.
 categories:
 - Agricultura
 - Ganadaría
 topics: Desarrollo sostenible
-title: Seguiremos trabajando en la implementación de la nueva PAC 2023-2027, más justa, más sostenible y social. Realizaremos una evaluación intermedia en 2024.
-has_children: true

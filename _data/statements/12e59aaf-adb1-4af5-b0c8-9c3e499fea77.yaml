@@ -1,6 +1,6 @@
 id: 12e59aaf-adb1-4af5-b0c8-9c3e499fea77
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 173
+parent_chapter: 3c3b6e77-c208-4e24-b285-18f9fd80d11c
+children_promises:
+- 1735a4d2-3a5b-423e-9799-08fe475bca45
+children_statements: []
+title: Descentralización de la promoción y difusión de la producción audiovisual
 categories: Cultura
 topics: Desarrollo sostenible
-title: Descentralización de la promoción y difusión de la producción audiovisual
-has_children: true

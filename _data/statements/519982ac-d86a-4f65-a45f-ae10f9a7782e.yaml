@@ -1,6 +1,6 @@
 id: 519982ac-d86a-4f65-a45f-ae10f9a7782e
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 167
+parent_chapter: e207a6bf-9c54-4399-a574-f130ae590b63
+text: Además, se trata de una medida que tiene un gran impacto en la reducción de la brecha de género, dado que las mujeres cobran pensiones más bajas. En esta misma línea, hemos creado el complemento económico de brecha de género, y hemos aplicado medidas que permiten reducir el impacto de las lagunas de cotización de la vida laboral, un fenómeno feminizado por causa de la maternidad.
 categories: Derechos y servicios sociales
 topics: Pensiones
-text: Además, se trata de una medida que tiene un gran impacto en la reducción de la brecha de género, dado que las mujeres cobran pensiones más bajas. En esta misma línea, hemos creado el complemento económico de brecha de género, y hemos aplicado medidas que permiten reducir el impacto de las lagunas de cotización de la vida laboral, un fenómeno feminizado por causa de la maternidad.

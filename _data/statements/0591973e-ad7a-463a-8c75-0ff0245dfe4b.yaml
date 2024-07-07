@@ -1,7 +1,6 @@
 id: 0591973e-ad7a-463a-8c75-0ff0245dfe4b
 type: promise
-parent_statement: 1ea280ae-5bd5-4462-ba69-e442de1a05f3
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 1ea280ae-5bd5-4462-ba69-e442de1a05f3
+parent_chapter: dc33f933-12a0-4325-b761-1f9bf8c3ad0d
+text: Implantaremos medidas económicas e informativas que privilegien los caladeros nacionales y de pesca artesanal a la vez que se informa a la población sobre especies alternativas (de poco consumo actual) en cada temporada, siguiendo criterios biofísicos y de sostenibilidad ambiental y socioeconómica. Fomentaremos, paralelamente, la reducción del consumo en la dieta de especies con una importante huella de carbono a través de políticas de información a consumidores y restauración, y mediante la prescripción dietética de los profesionales de la nutrición. Impulsaremos políticas de comunicación a la sociedad sobre la actividad pesquera y su valor social. Pondremos en marcha medidas que garanticen que la sociedad tenga acceso a los alimentos del mar de forma equitativa y especialmente en casos de crisis que pongan en riesgo el abastecimiento de alimentos. Aseguraremos una buena coordinación entre el Ministerio de Agricultura y Pesca y el de Transición Ecológica, dotándolo de una mayor estructura que permita disponer de los medios suficientes para hacer frente a la transición y la adaptación del sector primario en general, y del pesquero en particular, ante la crisis climática y de la biodiversidad. Desarrollaremos el Plan de Información y Publicidad derivado del Fondo Europeo Marítimo y de la Pesca. Promoveremos la conservación del patrimonio cultural inmaterial de la pesca.
 categories: Pesca y acuicultura
 topics: Desarrollo sostenible
-text: Implantaremos medidas económicas e informativas que privilegien los caladeros nacionales y de pesca artesanal a la vez que se informa a la población sobre especies alternativas (de poco consumo actual) en cada temporada, siguiendo criterios biofísicos y de sostenibilidad ambiental y socioeconómica. Fomentaremos, paralelamente, la reducción del consumo en la dieta de especies con una importante huella de carbono a través de políticas de información a consumidores y restauración, y mediante la prescripción dietética de los profesionales de la nutrición. Impulsaremos políticas de comunicación a la sociedad sobre la actividad pesquera y su valor social. Pondremos en marcha medidas que garanticen que la sociedad tenga acceso a los alimentos del mar de forma equitativa y especialmente en casos de crisis que pongan en riesgo el abastecimiento de alimentos. Aseguraremos una buena coordinación entre el Ministerio de Agricultura y Pesca y el de Transición Ecológica, dotándolo de una mayor estructura que permita disponer de los medios suficientes para hacer frente a la transición y la adaptación del sector primario en general, y del pesquero en particular, ante la crisis climática y de la biodiversidad. Desarrollaremos el Plan de Información y Publicidad derivado del Fondo Europeo Marítimo y de la Pesca. Promoveremos la conservación del patrimonio cultural inmaterial de la pesca.

@@ -1,7 +1,6 @@
 id: 1e25db63-1e08-4232-a6b6-282226c0616c
 type: promise
-parent_statement: 9ee370ee-9dbd-448d-a5b0-ef5db0b7e4c6
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Trabajo
+parent_statement: 9ee370ee-9dbd-448d-a5b0-ef5db0b7e4c6
+parent_chapter: 89ad30e0-548c-47cd-a92a-62d44e2dbb0f
 text: Seguiremos protegiendo el trabajo en la cultura. Las medidas legislativas adoptadas durante esta legislatura para el desarrollo del Estatuto del Artista han de valorarse como históricas, particularmente las referidas al ámbito laboral (la modernización de la regulación de las relaciones la borales del personal artístico, técnico y auxiliar y el reconocimiento de una prestación especial de desempleo) y al de la seguridad social (compatibilidad de las prestaciones con otras actividades y especialidades en cotización). Pero aún queda trabajo por desarrollar; <br>1) En la fiscalidad, asegurando un trato adecuado de los gastos y la compensación de ganancias en varios años, dado el carácter irregular de las rentas. <br>2) En la regulación de las enseñanzas artísticas superiores y sus equivalencias con las enseñanzas artísticas profesionales. <br>3) En el campo de las transiciones profesionales, estableciendo procedimientos y mecanismos que permitan procesos de reciclaje y formación paralelos a la protección social mientras se accede a otros ámbitos profesionales. <br>4) En materias relativas a la compatibilidad y la adaptación de las ayudas por cese de actividad. Por otro lado, es necesario mantener en funcionamiento e impulsar los grupos de trabajo, previstos en la ley, relativos a las enfermedades de las personas artistas y al estudio del sistema de cotizaciones a la seguridad social. Finalmente, es preciso abordar un tratamiento global y holístico del mundo de la cultura que permi ta la adopción coordinada de medidas de distintos tipos, pero siempre con una doble finalidad. por  un lado, convertir el sector de la cultura en un ámbito de desarrollo económico que incremente la cantidad y calidad del empleo y, por otro, convertir el mundo de la cultura, su actividad, su industria, sus personas en una referencia, en una marca de país."
+categories: Trabajo

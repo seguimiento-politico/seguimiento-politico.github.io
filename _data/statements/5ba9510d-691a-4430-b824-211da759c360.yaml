@@ -1,7 +1,6 @@
 id: 5ba9510d-691a-4430-b824-211da759c360
 type: promise
-parent_statement: cd2ee9d6-4172-49db-ba19-58cdde0054c9
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Seguridad y defensa
+parent_statement: cd2ee9d6-4172-49db-ba19-58cdde0054c9
+parent_chapter: 66b190ef-617c-438a-adf3-a3c9f707719b
 text: Desarrollaremos indicadores públicos y transparentes de rendimiento de los cuerpos policiales, y de sus subdivisiones, para poder auditar el cumplimiento de las funciones básicas y la satisfacción de la ciudadanía.
+categories: Seguridad y defensa

@@ -1,6 +1,6 @@
 id: 524fa184-14c9-4ac3-8d4a-d8523eec5515
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 51
-categories: Política internacional
+parent_chapter: 06572758-339c-4185-bcc1-2905946110b7
 text: Impulsaremos el Green New Deal en la UE, dotado de los recursos presupuestarios y técnicos adecuados, para incrementar el empleo de calidad asociado a la transición ecológica y digital, en coherencia con la Agenda 2030. Propondremos el establecimiento de un impuesto europeo sobre el CO 2 en frontera, que además de garantizar recursos específicos para el Green New Deal, combata el dumping de terceros países que no aplican las exigencias derivadas del acuerdo de Paris. La UE debe dotarse de un Fondo específico para favorecer la Transición Justa de los sectores y territorios más vulnerables frente al proceso de descarbonización.
+categories: Política internacional

@@ -1,6 +1,6 @@
 id: aff8e727-a9c7-4bb0-a85a-2ccf47a1830c
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 39
-categories: Impuestos y financiación pública
+parent_chapter: adffd871-b28d-4061-bc87-6b0d1ee98ead
+children_promises:
+- b993ce30-a45e-4697-bb47-364ced2f0121
+- 344380c0-6384-412d-a842-e732c1cd69eb
+- 45d84dda-4f51-44b3-a6ba-ea6f5bed6665
+children_statements: []
 title: Avanzaremos en la fiscalidad verde
-has_children: true
+categories: Impuestos y financiación pública

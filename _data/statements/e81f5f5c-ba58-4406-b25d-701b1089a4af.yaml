@@ -1,12 +1,19 @@
 id: e81f5f5c-ba58-4406-b25d-701b1089a4af
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 80
-categories: Justicia
+parent_chapter: 93f894f4-fa7e-477f-b933-b4f068b0d41e
+children_promises:
+- 91f5278c-8325-4da5-b6ae-2d1a10982ba6
+- 95f003c7-5ed5-4493-b054-50e1156abd06
+- 6556d7a7-a134-45f8-925c-bea29731ac88
+- d6e52528-2ef0-4d54-9460-bb5ab01c283a
+- 07c8daa5-0cde-4fed-865f-63e9f70745fd
+children_statements: []
 text: 'Reformaremos el Código Penal para ampliar los supuestos de prisión permanente revisable, añadiendo a los ya contemplados los siguientes:'
-has_children: true
+categories: Justicia

@@ -1,6 +1,6 @@
 id: 686b17d7-33f1-4238-af95-799580caf715
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 6
+parent_chapter: 11befd65-ee33-41f0-9452-e91d2cec32fe
+text: El desconocimiento de las lenguas co-oficiales no puede convertirse en un apartheid que divida a españoles de primera y segunda categoría. El único baremo que ha de primar en el acceso a la función pública es el de la capacidad, la excelencia y el mérito.
 categories: Derechos y servicios sociales
 topics: Igualdad
-text: El desconocimiento de las lenguas co-oficiales no puede convertirse en un apartheid que divida a españoles de primera y segunda categoría. El único baremo que ha de primar en el acceso a la función pública es el de la capacidad, la excelencia y el mérito.

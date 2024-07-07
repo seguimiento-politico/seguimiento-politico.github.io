@@ -1,6 +1,6 @@
 id: 94e00fe2-b8da-486f-9c73-89b325a1d44b
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 92
-categories: Seguridad y defensa
+parent_chapter: d2165d9c-4ccd-4649-b6ee-393361a2d9bb
 text: La ayuda internacional de España a países en vías de desarrollo estará vinculada a la colaboración con la política migratoria nacional. Ni un euro de los españoles debe financiar a países que violentan nuestras fronteras.
+categories: Seguridad y defensa

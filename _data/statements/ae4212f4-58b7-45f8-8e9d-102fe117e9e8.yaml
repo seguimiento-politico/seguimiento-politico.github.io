@@ -1,6 +1,6 @@
 id: ae4212f4-58b7-45f8-8e9d-102fe117e9e8
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 152
+parent_chapter: 3fad71c1-ef43-4174-89f5-52e6265e7163
+text: Se introducirán nuevas medidas para enfrentar los retos actuales, como el acoso y la violencia en el ámbito digital y de las redes sociales, especialmente en relación con las menores y las más jóvenes.
 categories: Democracia
 topics: Violencia de género
-text: Se introducirán nuevas medidas para enfrentar los retos actuales, como el acoso y la violencia en el ámbito digital y de las redes sociales, especialmente en relación con las menores y las más jóvenes.

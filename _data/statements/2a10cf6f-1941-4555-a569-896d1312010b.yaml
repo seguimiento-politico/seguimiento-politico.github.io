@@ -1,6 +1,6 @@
 id: 2a10cf6f-1941-4555-a569-896d1312010b
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 171
-categories: Cultura
+parent_chapter: d83fae97-6483-46e8-ac0d-9980e0838a11
+children_promises:
+- 9f0ab37e-aa93-4808-b5d0-f017fcf0d64d
+children_statements: []
 title: Refuerzo de la dimensión internacional de la cultura
-has_children: true
+categories: Cultura

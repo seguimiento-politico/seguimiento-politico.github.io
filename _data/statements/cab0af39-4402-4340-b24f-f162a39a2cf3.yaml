@@ -1,6 +1,6 @@
 id: cab0af39-4402-4340-b24f-f162a39a2cf3
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 53
-categories: Comercio
+parent_chapter: 188819b7-9c37-4f05-8366-60b15394c8eb
 text: PNL relativa a impulsar la imagen turística de España incrementando las medidas de promoción turística de España tanto fuera como dentro de la nación ( junio 2021).
+categories: Comercio

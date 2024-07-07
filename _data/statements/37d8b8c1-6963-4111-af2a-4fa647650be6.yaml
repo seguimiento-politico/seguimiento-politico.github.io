@@ -1,6 +1,6 @@
 id: 37d8b8c1-6963-4111-af2a-4fa647650be6
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,15 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 54
+parent_chapter: c1d2932c-9fc8-4b60-9a6a-8398312cb597
+children_promises:
+- 033bce51-f049-4dcd-a265-bcfb9bd30d46
+- c8dbd8fd-1dde-4fb0-8537-e6745021135b
+- 1003463c-fd42-4851-bbf1-b6258afe44ef
+- 8d47fe7f-532d-43f0-b5c9-d4907cbc621f
+- 2b56b55b-77f4-4191-967a-b090876e813b
+children_statements:
+- 9a2ade98-d350-4519-8252-32403415a1bd
+title: Obsolescencia, recursos y residuos
 categories: Economía
 topics: Economía circular
-title: Obsolescencia, recursos y residuos
-has_children: true

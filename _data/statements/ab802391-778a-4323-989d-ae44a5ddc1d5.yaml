@@ -1,6 +1,6 @@
 id: ab802391-778a-4323-989d-ae44a5ddc1d5
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 222
+parent_chapter: ac350b9c-6bf2-4017-a573-8420cb922467
+text: Incrementaremos el actual parque de vivienda pública de alquiler social mediante una decidida y ambiciosa política de inversión pública a medio y largo plazo en viviendas de calidad, atendiendo especialmente a la eficiencia energética, la sostenibilidad y la accesibilidad universal. El objetivo será alcanzar el 20% de vivienda pública en régimen de alquiler en los próximos años, situándonos en la media de viviendas que disponen países de la Unión Europea como Francia, Países Bajos o Alemania.
 categories: Vivienda
 topics: Alquiler
-text: Incrementaremos el actual parque de vivienda pública de alquiler social mediante una decidida y ambiciosa política de inversión pública a medio y largo plazo en viviendas de calidad, atendiendo especialmente a la eficiencia energética, la sostenibilidad y la accesibilidad universal. El objetivo será alcanzar el 20% de vivienda pública en régimen de alquiler en los próximos años, situándonos en la media de viviendas que disponen países de la Unión Europea como Francia, Países Bajos o Alemania.

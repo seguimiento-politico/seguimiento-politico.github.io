@@ -1,7 +1,6 @@
 id: 2fff0d0c-aa54-4075-939a-37360a296323
 type: promise
-parent_statement: 2o3p4q5r-6s7t-8u9v-10w11-x12y13z14a15
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Industria
+parent_statement: 2o3p4q5r-6s7t-8u9v-10w11-x12y13z14a15
+parent_chapter: 7c79fe71-f119-4b1d-a348-2b181c21b108
 text: 'Acceso universal a la energía en un sistema tarifario progresivo. Proponemos un sistema tarifario para el consumidor doméstico, que sea progresivo y tenga en cuenta las características de la unidad familiar. Este sistema asegurará un consumo mínimo vital garantizado para los primeros 1.500 kWh/año, con un IVA superreducido del 4% y reducción de cargos regulados y peajes, convirtiéndose automáticamente en tarifa social a coste cero para consumidores vulnerables. El sistema irá incrementando el IVA y los costes regulados de modo proporcional al consumo en tres tramos: Consumo normalizado, que es el hogar promedio español (entre 1.500 kWh/año hasta los 4.000 kWh/año) con un IVA del 10%, pero eliminando las asimetrías por las que el sector residencial subvenciona a la industria. Sobreconsumo, con IVA del 10% pero mayor participación en costes regulados. Y Sobreconsumo excesivo (más de 7.500 kWh/año), que incrementará el coeficiente de cargos y con el IVA al 21%.'
+categories: Industria

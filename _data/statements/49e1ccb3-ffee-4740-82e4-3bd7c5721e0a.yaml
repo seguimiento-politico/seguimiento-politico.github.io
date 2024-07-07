@@ -1,6 +1,6 @@
 id: 49e1ccb3-ffee-4740-82e4-3bd7c5721e0a
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 205
+parent_chapter: 3d1b7144-3878-4cb4-adc8-196127e0eb99
+text: Constituiremos la primera red estatal de escuelas saludables, donde continuaremos desarrollando el programa Patios Abiertos-En plan bien para beneficiar a 300.000 niños, niñas y adolescentes desde educación infantil hasta secundaria obligatoria. El objetivo es fomentar estilos de vida saludables yel aumento de la oferta de ocio de calidad en horario no lectivo, priorizando entornos educativos vulnerables.
 categories: Sanidad
 topics: Promoción de la salud
-text: Constituiremos la primera red estatal de escuelas saludables, donde continuaremos desarrollando el programa Patios Abiertos-En plan bien para beneficiar a 300.000 niños, niñas y adolescentes desde educación infantil hasta secundaria obligatoria. El objetivo es fomentar estilos de vida saludables yel aumento de la oferta de ocio de calidad en horario no lectivo, priorizando entornos educativos vulnerables.

@@ -1,7 +1,6 @@
 id: 223a473f-695d-4b4b-ac29-7524aebfc352
 type: promise
-parent_statement: 568c7710-0916-11ed-9596-d163a910696f
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -11,6 +10,8 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 23
+parent_statement: 568c7710-0916-11ed-9596-d163a910696f
+parent_chapter: 818f7603-2f02-4ce5-ae43-b3ca06cfb5db
+text: Elaboraremos un Plan de Reforma del Sistema Eléctrico que favorezca la transición hacia la descarbonización y unos precios asequibles para el consumidor y las empresas.
 categories: Medioambiente
 topics: Cambio climático
-text: Elaboraremos un Plan de Reforma del Sistema Eléctrico que favorezca la transición hacia la descarbonización y unos precios asequibles para el consumidor y las empresas.

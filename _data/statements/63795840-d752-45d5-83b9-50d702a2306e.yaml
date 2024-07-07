@@ -1,6 +1,6 @@
 id: 63795840-d752-45d5-83b9-50d702a2306e
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 247
+parent_chapter: 382dfb0f-961f-42b4-86f0-7e035346cd21
+text: Reforzaremos el Pacto Antitransfuguismo, para impedir que las personas tránsfugas puedan alterar la voluntad popular evitando que puedan disfrutar de los derechos económicos y administrativos de los que disfrutan los grupos políticos elegidos por la ciudadanía y promoviendo la extensión del Pacto a cargos públicos no electos por sufragio directo (es decir, aquellos designados con una lógica representativa por organismos parlamentarios o por las administraciones públicas).
 categories: Democracia
 topics: Gobernanza y transparencia
-text: Reforzaremos el Pacto Antitransfuguismo, para impedir que las personas tránsfugas puedan alterar la voluntad popular evitando que puedan disfrutar de los derechos económicos y administrativos de los que disfrutan los grupos políticos elegidos por la ciudadanía y promoviendo la extensión del Pacto a cargos públicos no electos por sufragio directo (es decir, aquellos designados con una lógica representativa por organismos parlamentarios o por las administraciones públicas).

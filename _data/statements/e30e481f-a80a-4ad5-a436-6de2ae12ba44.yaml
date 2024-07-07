@@ -1,6 +1,6 @@
 id: e30e481f-a80a-4ad5-a436-6de2ae12ba44
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 10
+parent_chapter: 80f33f13-c365-4098-ac18-6210795cdb15
+children_promises:
+- 7f4e44d7-7ccb-4be8-ad52-dafb1cb78f6e
+children_statements: []
+title: Apoyo a los trabajadores españoles
 categories:
 - Economía
-title: Apoyo a los trabajadores españoles
-has_children: true

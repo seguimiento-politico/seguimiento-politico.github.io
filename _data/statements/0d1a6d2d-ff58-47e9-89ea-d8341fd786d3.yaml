@@ -1,6 +1,6 @@
 id: 0d1a6d2d-ff58-47e9-89ea-d8341fd786d3
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 145
+parent_chapter: 46f86e67-8c84-4e9a-b4fc-edce6fe582f3
+text: Promocionaremos actividades extraescolares, campamentos de verano, etc. prestando especial atención al fomento de vocaciones vinculadas con la transición verde y digital, como por ejemplo los campamentos tecnológicos. Del mismo modo, los servicios de comedor deben incluirse como una prioridad para la equidad y como refuerzo de las políticas contra la pobreza infantil.
 categories: Derechos y servicios sociales
 topics: Cuidados
-text: Promocionaremos actividades extraescolares, campamentos de verano, etc. prestando especial atención al fomento de vocaciones vinculadas con la transición verde y digital, como por ejemplo los campamentos tecnológicos. Del mismo modo, los servicios de comedor deben incluirse como una prioridad para la equidad y como refuerzo de las políticas contra la pobreza infantil.

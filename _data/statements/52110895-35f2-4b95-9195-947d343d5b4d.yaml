@@ -1,7 +1,6 @@
 id: 52110895-35f2-4b95-9195-947d343d5b4d
 type: promise
-parent_statement: 3ac942be-bfa8-4316-98f2-87a403bd11a9
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 3ac942be-bfa8-4316-98f2-87a403bd11a9
+parent_chapter: f4a5d1b6-d10d-41c8-af19-09947c6b9033
+text: Trabajaremos en la reducción drástica de las cifras de enfermedad y mortalidad prematura asociada a la exposición a agentes contaminantes, incluidas aquellas asociadas a la alimentación o a enfermedades ambientales de carácter laboral.
 categories: Medioambiente
 topics: Contaminación
-text: Trabajaremos en la reducción drástica de las cifras de enfermedad y mortalidad prematura asociada a la exposición a agentes contaminantes, incluidas aquellas asociadas a la alimentación o a enfermedades ambientales de carácter laboral.

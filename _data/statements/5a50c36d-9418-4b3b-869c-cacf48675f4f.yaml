@@ -1,6 +1,6 @@
 id: 5a50c36d-9418-4b3b-869c-cacf48675f4f
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 59
+parent_chapter: a032ad89-ff94-4e43-a3b0-dfbbc59e0d4a
+children_promises:
+- 2b288d2b-be5f-48c9-9e47-ccae332cb644
+children_statements: []
+title: Garantizaremos el uso de la inteligencia artificial también en español
 categories: Derechos y servicios sociales
 topics: Digitalización
-title: Garantizaremos el uso de la inteligencia artificial también en español
-has_children: true

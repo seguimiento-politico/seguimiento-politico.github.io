@@ -1,7 +1,6 @@
 id: db6efa78-6c6a-4165-b7de-b5091866ceba
 type: promise
-parent_statement: d83be751-0f19-41f3-bb1d-74df447cfef4
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,8 +8,10 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: d83be751-0f19-41f3-bb1d-74df447cfef4
+parent_chapter: 2fd23be2-e41d-4c13-aa3d-11392bf2ab12
+text: Incorporaremos en los contratos-programa antes citados cláusulas relativas al grado de cumplimiento de indicadores sociales, ambientales y económicos, en especial, los referidos a lo recogido en los planes de igualdad de género, en las memorias o informes de sostenibilidad de las universidades y en los restantes documentos en que se recojan los cumplimientos de las universidades en materia de gobernanza económica, social y ambiental.
 categories: Educación
 topics:
 - Financiacíón
 - Gobernanza y transparencia
-text: Incorporaremos en los contratos-programa antes citados cláusulas relativas al grado de cumplimiento de indicadores sociales, ambientales y económicos, en especial, los referidos a lo recogido en los planes de igualdad de género, en las memorias o informes de sostenibilidad de las universidades y en los restantes documentos en que se recojan los cumplimientos de las universidades en materia de gobernanza económica, social y ambiental.

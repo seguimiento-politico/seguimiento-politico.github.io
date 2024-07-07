@@ -1,7 +1,6 @@
 {% assign promises = site.data.statements | where: "doc_id", doc.id | where: 'type', "promise" | sort: 'ref_parent_chapter' %}
 
-{% assign categories_data = site.data.categorization.political-promises.categories | sort: 'name' %}
-{% assign statuses_data = site.data.categorization.political-promises.statuses %}
+{% include categorization.html type='promises' %}
 
 <style>  
     ol {  

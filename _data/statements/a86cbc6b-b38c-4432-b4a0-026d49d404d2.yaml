@@ -1,6 +1,6 @@
 id: a86cbc6b-b38c-4432-b4a0-026d49d404d2
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 135
+parent_chapter: b5417c2b-2bd9-455f-a227-1ac572dbd434
+children_promises:
+- a3322133-c61c-4e1f-8c3a-ab910f1c6534
+children_statements: []
+title: Impulsaremos la formación en materia de memoria democrática, en todos los niveles del sistema educativo, y promoveremos la divulgación, la investigación y la formación sobre la represión, la dictadura franquista y la memoria democrática.
 categories: Democracia
 topics: Memoria democrática
-title: Impulsaremos la formación en materia de memoria democrática, en todos los niveles del sistema educativo, y promoveremos la divulgación, la investigación y la formación sobre la represión, la dictadura franquista y la memoria democrática.
-has_children: true

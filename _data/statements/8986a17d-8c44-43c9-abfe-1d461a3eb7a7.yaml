@@ -1,6 +1,6 @@
 id: 8986a17d-8c44-43c9-abfe-1d461a3eb7a7
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,7 +8,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 22
-categories: Ciencia y tecnología
-topics: Inteligencia artificial
+parent_chapter: d3d26d0a-0ea8-4348-8556-ce6fd7e0688d
 title: DEFINIREMOS UNA AGENDA DE CAPACIDADES PARA LA PROMOCIÓN Y ESPECIALIZACIÓN EN IA.
 text: Sobre la base del talento, técnico y creativo, ya existente en España para orientar nuevas especialidades y acreditaciones profesionales.
+categories: Ciencia y tecnología
+topics: Inteligencia artificial

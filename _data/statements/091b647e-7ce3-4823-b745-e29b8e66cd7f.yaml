@@ -1,6 +1,6 @@
 id: 091b647e-7ce3-4823-b745-e29b8e66cd7f
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 125
-categories: Justicia
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
+children_promises:
+- 78f535df-44f8-4771-b5e3-997699bf865c
+- 992777a0-21e9-4a25-815a-da6ba0c7a532
+- 30f06d27-710d-411e-9b52-1ae3d00cc454
+- 415aa99c-264f-44bb-817b-7f99c8e31782
+children_statements:
+- 6adbda55-6fc8-40d1-97d1-00b371c30a3e
 title: Reestructuración de la oficina judicial
-has_children: true
+categories: Justicia

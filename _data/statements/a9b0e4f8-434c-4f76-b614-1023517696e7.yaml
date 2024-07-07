@@ -1,6 +1,6 @@
 id: a9b0e4f8-434c-4f76-b614-1023517696e7
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 123
-categories: Cultura
+parent_chapter: ef655d4e-aabd-4367-b039-db13bf06547d
 text: Avanzaremos hacia la construcción de un marco legislativo específico y general de la cultura que nos permita avanzar en sus garantías y en su desarrollo, así como articular la participación del sector en su diseño.
+categories: Cultura

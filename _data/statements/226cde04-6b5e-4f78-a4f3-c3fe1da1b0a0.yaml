@@ -1,6 +1,6 @@
 id: 226cde04-6b5e-4f78-a4f3-c3fe1da1b0a0
-type: declaration
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 103
-categories: Seguridad y defensa
+parent_chapter: 8111ba6c-3b65-4860-b688-9b9d2c1dc86c
 text: El mundo ha cambiado profundamente. España necesita definir una Estrategia Nacional de Seguridad y Defensa que identifique el interés nacional, fije los fines y objetivos estratégicos y cuente con los recursos materiales y humanos necesarios para su consecución. Las Fuerzas Armadas, la principal institución que garantiza la seguridad y protección de los españoles, se reforzarán. Promoveremos la cultura de la defensa como elemento esencial para la seguridad interior y exterior de España. Junto a ello, apoyaremos el desarrollo de una industria de la defensa, que es un elemento con un alto valor añadido, intensiva en I+D, generadora de puestos de trabajo y cohesión social y territorial.
+categories: Seguridad y defensa

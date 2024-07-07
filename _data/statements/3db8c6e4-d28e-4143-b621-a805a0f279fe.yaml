@@ -1,6 +1,6 @@
 id: 3db8c6e4-d28e-4143-b621-a805a0f279fe
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 249
+parent_chapter: 6dc5250e-51d3-4aba-9bdc-2dbe32e1afb9
+text: Potenciaremos los servicios de interpretación y traducción judiciales para mejorar la accesibilidad a la justicia de colectivos vulnerables.
 categories: Justicia
 topics: Modernización
-text: Potenciaremos los servicios de interpretación y traducción judiciales para mejorar la accesibilidad a la justicia de colectivos vulnerables.

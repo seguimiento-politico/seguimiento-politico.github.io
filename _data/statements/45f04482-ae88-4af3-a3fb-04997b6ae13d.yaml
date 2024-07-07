@@ -1,7 +1,6 @@
 id: 45f04482-ae88-4af3-a3fb-04997b6ae13d
 type: promise
-parent_statement: 22ed3cc7-65db-46c7-a5bb-d8d10bb72c40
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 22ed3cc7-65db-46c7-a5bb-d8d10bb72c40
+parent_chapter: 9630c4a7-13c3-4dfb-9c7c-bcafe81c5dc1
+text: Reordenaremos las relaciones ley-convenio colectivo. Con el fin de favorecer la negociación colectiva (tanto en el ámbito empresarial como en el superior) y evitar vacíos de regulación, la ley fijará subsidiariamente, o con carácter suplementario en todo caso, las condiciones de trabajo de aquellas materias cuya concreción dependa o se remita a ella.
 categories: Trabajo
 topics: Colectivos
-text: Reordenaremos las relaciones ley-convenio colectivo. Con el fin de favorecer la negociación colectiva (tanto en el ámbito empresarial como en el superior) y evitar vacíos de regulación, la ley fijará subsidiariamente, o con carácter suplementario en todo caso, las condiciones de trabajo de aquellas materias cuya concreción dependa o se remita a ella.

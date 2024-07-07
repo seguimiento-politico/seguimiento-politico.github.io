@@ -1,7 +1,6 @@
 id: d0eaee5f-2706-4440-885d-83168165c8a0
 type: promise
-parent_statement: 55fca26e-cab6-4625-a416-a8079397623b
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Vivienda
+parent_statement: 55fca26e-cab6-4625-a416-a8079397623b
+parent_chapter: 10dbdb5a-3231-46ed-86c9-0dc18f77040e
 text: Invertiremos sostenidamente, durante diez años, el 1% del PIB en construcción, compra, movilización y rehabilitación de vivienda para generar un verdadero parque de alquiler protegido, social, sostenible y asequible de más dos millones de viviendas protegidas en los siguientes diez años. A estos efectos utilizaremos toda la capacidad tanto de la Sereb como de la SEPES. Sin una inversión importante y constante no será posible hacer crecer el parque de vivienda protegida de alquiler social y asequible para situarlo a la altura de Europa, así como promover la rehabilitación con eficiencia energética del parque ya construido. Esta inversión tiene un retorno económico a corto plazo a través del ahorro en otras políticas públicas, como son los servicios sociales y la sanidad.
+categories: Vivienda

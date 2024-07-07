@@ -1,6 +1,6 @@
 id: b01a6c5b-6ff7-431a-b6c4-00ea8b1e89e7
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 73
+parent_chapter: 88c43ae6-3b46-453b-88f6-05040af07103
+text: TASAREMOS LA UTILIZACIÓN DEL PROCEDIMIENTO LEGISLATIVO DE URGENCIA para evitar que el Gobierno lo emplee de forma arbitraria.
 categories: Democracia
 topics: Podel legislativo
-text: TASAREMOS LA UTILIZACIÓN DEL PROCEDIMIENTO LEGISLATIVO DE URGENCIA para evitar que el Gobierno lo emplee de forma arbitraria.

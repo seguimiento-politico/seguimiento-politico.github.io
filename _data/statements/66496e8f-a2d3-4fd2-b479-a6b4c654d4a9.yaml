@@ -1,6 +1,6 @@
 id: 66496e8f-a2d3-4fd2-b479-a6b4c654d4a9
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 34
+parent_chapter: 2ae0c74d-ab67-4ac0-a7a2-2a333943bb75
+text: 'Impulsaremos la aprobación de un paquete de medidas en favor de la igualdad de trato, la no discriminación y la valoración positiva de la diversidad: una Ley Integral para la Igualdad de Trato y la no Discriminación, la Ley contra la Discriminación de las Personas LGBTI, -incluyendo la prohibición a nivel nacional de las llamadas terapias de reversión-, y la reforma de la Ley de Identidad de Género. Fomentaremos la integración sociolaboral de las personas trans y su plena participación en la vida política, social y cultural, y combatiremos la discriminación de las personas LGBTI en el deporte.'
 categories: Derechos y servicios sociales
 topics: Igualdad
-text: 'Impulsaremos la aprobación de un paquete de medidas en favor de la igualdad de trato, la no discriminación y la valoración positiva de la diversidad: una Ley Integral para la Igualdad de Trato y la no Discriminación, la Ley contra la Discriminación de las Personas LGBTI, -incluyendo la prohibición a nivel nacional de las llamadas terapias de reversión-, y la reforma de la Ley de Identidad de Género. Fomentaremos la integración sociolaboral de las personas trans y su plena participación en la vida política, social y cultural, y combatiremos la discriminación de las personas LGBTI en el deporte.'

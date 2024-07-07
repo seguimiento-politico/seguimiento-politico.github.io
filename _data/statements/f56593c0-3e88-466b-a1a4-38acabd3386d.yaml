@@ -1,6 +1,6 @@
 id: f56593c0-3e88-466b-a1a4-38acabd3386d
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 222
+parent_chapter: ac350b9c-6bf2-4017-a573-8420cb922467
+text: Este incremento del parque de vivienda pública de alquiler será posible bien mediante amplios mecanismos de compra o alquiler de viviendas existentes, bien con viviendas de nueva construcción. Hablamos de viviendas públicas y de promoción de viviendas privadas, contando en el caso de las protegidas con una protección blindada de su uso social de forma permanente e irreversible.
 categories: Vivienda
 topics: Alquiler
-text: Este incremento del parque de vivienda pública de alquiler será posible bien mediante amplios mecanismos de compra o alquiler de viviendas existentes, bien con viviendas de nueva construcción. Hablamos de viviendas públicas y de promoción de viviendas privadas, contando en el caso de las protegidas con una protección blindada de su uso social de forma permanente e irreversible.

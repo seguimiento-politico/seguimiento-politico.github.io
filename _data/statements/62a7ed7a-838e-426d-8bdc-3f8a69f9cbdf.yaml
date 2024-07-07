@@ -1,7 +1,6 @@
 id: 62a7ed7a-838e-426d-8bdc-3f8a69f9cbdf
 type: promise
-parent_statement: a8e06a33-d29b-4f46-b608-e8e29663469a
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: a8e06a33-d29b-4f46-b608-e8e29663469a
+parent_chapter: a507bf09-1837-436d-9255-f7223e1c8c0f
+text: Impulsaremos sistemas de pagos internacionales eficientes y seguros.
 categories: Política internacional
 topics: Europa
-text: Impulsaremos sistemas de pagos internacionales eficientes y seguros.

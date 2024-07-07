@@ -1,6 +1,6 @@
 id: a321fca0-0896-40ef-a245-22bd79018f8f
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 116
+parent_chapter: 8729d1a9-b01f-4574-a420-531f5df975c7
+text: Impulsaremos la modernización de las infraestructuras de los campus universitarios y los centros de investigación y fomentaremos la internacionalización en materia de investigación y docencia.
 categories: Educación
 topics: Universidad
-text: Impulsaremos la modernización de las infraestructuras de los campus universitarios y los centros de investigación y fomentaremos la internacionalización en materia de investigación y docencia.

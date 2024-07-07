@@ -1,6 +1,6 @@
 id: b37a3fce-bed5-4dec-9b06-1b5c7ad8a268
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 18
+parent_chapter: 70e896cb-cc2e-4700-a649-38c82b332b6c
+children_promises:
+- 6eb9d3b3-fa15-4623-9524-82eee0173ea2
+- c1aae07d-624d-4615-8391-e5ee346b940c
+children_statements: []
+title: Defensa de la vida (aborto)
 categories:
 - Familia
-title: Defensa de la vida (aborto)
-has_children: true

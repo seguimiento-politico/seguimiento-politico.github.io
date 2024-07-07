@@ -1,7 +1,6 @@
 id: 0f7745d2-b416-41f8-ad3c-0f4b0732fd7b
-type: declaration
-parent_statement: 2b3c4d5e-6f7g-8h9i-10j11-k12l13m14n15
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 2b3c4d5e-6f7g-8h9i-10j11-k12l13m14n15
+parent_chapter: 3ad176d1-1f6b-4cbb-aea4-e397f16166d6
+text: El turismo supone una industria estratégica por su peso absolutamente central en la economía española, en la que en 2022 aportó un 12,2% del PIB. Además, su impacto ecológico en término de emisiones de CO2 es significativo. Y la responsabilidad histórica del modelo turístico de sol, playa y masificación en el deterioro ecológico irreversible del litoral mediterráneo y el territorio insultar español ha sido nefasta. Por todo esto, España necesita una estrategia nacional de turismo sostenible que armaremos en base a los siguientes puntos.
 categories: Industria
 topics: Desarrollo sostenible
-text: El turismo supone una industria estratégica por su peso absolutamente central en la economía española, en la que en 2022 aportó un 12,2% del PIB. Además, su impacto ecológico en término de emisiones de CO2 es significativo. Y la responsabilidad histórica del modelo turístico de sol, playa y masificación en el deterioro ecológico irreversible del litoral mediterráneo y el territorio insultar español ha sido nefasta. Por todo esto, España necesita una estrategia nacional de turismo sostenible que armaremos en base a los siguientes puntos.

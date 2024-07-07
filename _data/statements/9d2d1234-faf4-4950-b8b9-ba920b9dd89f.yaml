@@ -1,6 +1,6 @@
 id: 9d2d1234-faf4-4950-b8b9-ba920b9dd89f
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 138
-categories: Política internacional
+parent_chapter: 4d3afa99-1301-4519-a703-6dfe49d7e832
+children_promises:
+- 296eb4f2-c0f9-4e5c-9c35-83e096e42c65
+- 4c487daf-faef-4405-81d4-db4c2748c50c
+- d70fa80c-7f25-4038-b5b4-2f5b220d159d
+children_statements: []
 title: España, impulsora de un nuevo multilateralismo democrático.
-has_children: true
+categories: Política internacional

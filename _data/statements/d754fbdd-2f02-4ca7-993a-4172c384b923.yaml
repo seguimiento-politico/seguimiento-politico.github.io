@@ -1,7 +1,6 @@
 id: d754fbdd-2f02-4ca7-993a-4172c384b923
 type: promise
-parent_statement: b0b16864-a9cc-4079-8adc-b758b94b09fb
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: b0b16864-a9cc-4079-8adc-b758b94b09fb
+parent_chapter: d6814cd3-b2e5-4b90-a62f-2c3e6434b1be
+text: 'Se trata de lograr una digitalización humanista, respetuosa con los derechos y valores democráticos, y que contribuya a la cohesión social, cerrando las brechas sociales: de edad, de género, de raza u origen, territoriales o de discapacidad.'
 categories: Derechos y servicios sociales
 topics: Derechos digitales
-text: 'Se trata de lograr una digitalización humanista, respetuosa con los derechos y valores democráticos, y que contribuya a la cohesión social, cerrando las brechas sociales: de edad, de género, de raza u origen, territoriales o de discapacidad.'

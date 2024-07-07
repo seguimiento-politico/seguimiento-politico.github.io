@@ -1,7 +1,6 @@
 id: 3538885e-7cc5-488e-88ca-97aaa1cca4c6
 type: promise
-parent_statement: 06ee3772-ef75-47e4-b1e5-84609a110918
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 06ee3772-ef75-47e4-b1e5-84609a110918
+parent_chapter: 999e9dab-efca-4092-a144-a19ca4ee5302
+text: Empleo con apoyo. El empleo con apoyo es una de las modalidades de acceso laboral con más potencial inclusivo. Se elaborará una regulación normativa del empleo con apoyo que incremente las partidas presupuestarias dedicadas a su despliegue, para impulsar su expansión y la multiplicación del número trabajadores y trabajadoras con discapacidad acogidos a esta fórmula laboral.
 categories: Derecuos y servicios sosciales
 topics: Discapacidad
-text: Empleo con apoyo. El empleo con apoyo es una de las modalidades de acceso laboral con más potencial inclusivo. Se elaborará una regulación normativa del empleo con apoyo que incremente las partidas presupuestarias dedicadas a su despliegue, para impulsar su expansión y la multiplicación del número trabajadores y trabajadoras con discapacidad acogidos a esta fórmula laboral.

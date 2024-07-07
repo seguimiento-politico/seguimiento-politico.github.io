@@ -1,11 +1,12 @@
 id: 36d0aed2-54ff-48db-aba0-794da79b311f
-type: declaration
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+type: statement
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 79
-categories: Democracia
+parent_chapter: fba892fd-d41d-42e2-ba2b-5a598a075f0d
 text: En definitiva, apostaremos por una transformación de la Administración que lidere y sea capaz de catalizar los cambios, que atraiga talento de todo tipo, que elimine las trabas burocráticas, que busque espacios de apertura a la sociedad y las empresas, que se coordine con otras instituciones públicas, acorte el ciclo de las innovaciones, dé ejemplo en la digitalización y decida y actúe basándose en datos, en la medición y la evaluación.
+categories: Democracia

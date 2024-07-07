@@ -1,12 +1,13 @@
 id: 2d4a9171-95d1-4932-be64-5dcfc4fa2338
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 29
+parent_chapter: 4f4736d6-ca72-42e2-b85c-f0d1537c0682
+text: 'Pondremos en marcha el Segundo Plan de Destinos Turísticos Inteligentes poniendo el foco en la Sostenibilidad de los destinos (social, cultural, económica y medio ambiental), donde se generalicen y confluyan: el uso de las nuevas tecnologías (Big Data y data analytics, inteligencia artificial, internet de las cosas, sensorización), la eficiencia energética y uso de energías renovables, estrategias de reciclaje y economía circular, puesta en valor de los recursos naturales y culturales y el avance hacia la accesibilidad universal en el turismo.'
 categories:
 - Turismo
-text: 'Pondremos en marcha el Segundo Plan de Destinos Turísticos Inteligentes poniendo el foco en la Sostenibilidad de los destinos (social, cultural, económica y medio ambiental), donde se generalicen y confluyan: el uso de las nuevas tecnologías (Big Data y data analytics, inteligencia artificial, internet de las cosas, sensorización), la eficiencia energética y uso de energías renovables, estrategias de reciclaje y economía circular, puesta en valor de los recursos naturales y culturales y el avance hacia la accesibilidad universal en el turismo.'

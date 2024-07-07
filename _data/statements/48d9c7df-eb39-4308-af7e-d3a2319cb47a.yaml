@@ -1,7 +1,6 @@
 id: 48d9c7df-eb39-4308-af7e-d3a2319cb47a
 type: promise
-parent_statement: 31ad7ec5-3be6-4918-9b05-7aaaefbb08ae
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: 31ad7ec5-3be6-4918-9b05-7aaaefbb08ae
+parent_chapter: a507bf09-1837-436d-9255-f7223e1c8c0f
+text: Estas reglas fiscales deben acometerse a través de planes nacionales adaptados a la realidad de cada Estado miembro.
 categories: Política internacional
 topics: Europa
-text: Estas reglas fiscales deben acometerse a través de planes nacionales adaptados a la realidad de cada Estado miembro.

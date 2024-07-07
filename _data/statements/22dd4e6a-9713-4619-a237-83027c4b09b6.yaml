@@ -1,6 +1,6 @@
 id: 22dd4e6a-9713-4619-a237-83027c4b09b6
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 20
+parent_chapter: 5ac453aa-319d-4ea3-b4b6-7a63e3dde3ff
+children_promises:
+- 8df35058-faf1-421b-a892-da2314e89f18
+- eb6806e8-8bf2-4b4b-b55e-fb6df4ad37d7
+- 01cc3bc1-b773-4ada-8fde-dbdf7ca11cd6
+children_statements: []
+title: Acceso garantizado a los suministros básicos de agua, energía y calefacción a todos los hogares.
 categories: Consumo
 topics: Consumo sostenible
-title: Acceso garantizado a los suministros básicos de agua, energía y calefacción a todos los hogares.
-has_children: true

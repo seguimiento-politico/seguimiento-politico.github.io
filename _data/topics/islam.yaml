@@ -1,0 +1,25 @@
+name: Islam
+other:
+- &id001
+  id: 9a078652-96bd-4b55-8394-fd7b705a2660
+  parties:
+  - VOX
+other_count: 1
+position_negative:
+- &id002
+  id: 3f62eebc-f39f-4c67-9303-da5dfe96bc21
+  parties:
+  - VOX
+position_negative_count: 1
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- *id002
+statements_count: 2
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

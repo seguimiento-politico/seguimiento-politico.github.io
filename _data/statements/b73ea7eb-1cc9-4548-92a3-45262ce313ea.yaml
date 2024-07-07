@@ -1,6 +1,6 @@
 id: b73ea7eb-1cc9-4548-92a3-45262ce313ea
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 73
-categories: Urbanismo y ciudades
+parent_chapter: da4a5e62-c6b6-45b0-a08b-611f6d470a08
+children_promises:
+- d6edede2-6b9a-4b39-a35d-a4151700194d
+- 86ad8302-f872-4ccf-85c0-d9b64f418006
+children_statements: []
 title: Recuperación y derecho a uso en la España vaciada
-has_children: true
+categories: Urbanismo y ciudades

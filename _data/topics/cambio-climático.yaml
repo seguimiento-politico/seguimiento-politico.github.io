@@ -1,0 +1,92 @@
+name: Cambio climático
+other:
+- &id003
+  id: b278b504-0d31-4caf-a857-af0b52e8151d
+  parties:
+  - SUMAR
+- &id004
+  id: 83fb3d41-07bd-4487-8c3e-78804a0dbc88
+  parties:
+  - VOX
+- &id005
+  id: 7f0ad76f-a506-418e-adf0-c32a323e457d
+  parties:
+  - VOX
+- &id006
+  id: f94205f5-c802-49cc-8eb0-8b45a69c6a4e
+  parties:
+  - VOX
+- &id007
+  id: 939db375-b850-4b4e-b524-7925b72b1a7c
+  parties:
+  - VOX
+- &id008
+  id: 47981e9d-1330-44f9-abdd-3c054b10a812
+  parties:
+  - VOX
+- &id009
+  id: e1579015-ea54-4940-8258-66e6f5546530
+  parties:
+  - VOX
+- &id011
+  id: fe7cc966-e5af-4a31-8d9c-ba66e71474ac
+  parties:
+  - VOX
+- &id012
+  id: ece6ba07-cf63-414d-a430-2f0d8c9b2be1
+  parties:
+  - VOX
+other_count: 9
+position_negative:
+- &id010
+  id: 072dd59b-4b76-4b25-8a7d-d0c5fc8d4950
+  parties:
+  - VOX
+- &id015
+  id: c1fccb45-1fae-42e5-b65c-c8cd4b17bdd2
+  parties:
+  - VOX
+- &id001
+  id: b9d353f1-ba26-4e69-98ba-10a2ea7ee19d
+  parties:
+  - VOX
+- &id002
+  id: 393c21a3-d1d5-41a5-86f4-ea8807915010
+  parties:
+  - VOX
+position_negative_count: 4
+position_positive: []
+position_positive_count: 0
+proposed_actions:
+- &id013
+  id: 28d71fb9-8a78-412c-8991-5ca4d9f26899
+  parties:
+  - VOX
+- &id014
+  id: 17d36def-7688-412e-8a86-d7e964fb366e
+  parties:
+  - VOX
+- *id001
+- *id002
+proposed_actions_count: 4
+statements:
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id001
+- *id002
+statements_count: 15
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

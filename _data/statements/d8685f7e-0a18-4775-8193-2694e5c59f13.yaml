@@ -1,6 +1,6 @@
 id: d8685f7e-0a18-4775-8193-2694e5c59f13
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 23
-categories: Trabajo
+parent_chapter: fc8312e8-2c90-4a6a-8d04-8074d1cb7ea7
+children_promises:
+- 9aaa428a-7734-496d-be60-c026290fd06a
+children_statements: []
 title: Resignificaremos el artículo 35.2 de la Constitución española, proclamando un Estatuto del Trabajo
-has_children: true
+categories: Trabajo

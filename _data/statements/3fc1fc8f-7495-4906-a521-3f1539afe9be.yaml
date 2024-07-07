@@ -1,7 +1,6 @@
 id: 3fc1fc8f-7495-4906-a521-3f1539afe9be
 type: promise
-parent_statement: 9797c56e-0d37-48c1-834e-9c71fe35a64a
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Cultura
+parent_statement: 9797c56e-0d37-48c1-834e-9c71fe35a64a
+parent_chapter: 7350357f-215c-4adf-8549-2205377e11a9
 text: También asegurar los mecanismos normativos y de control del ejercicio del poder en las instituciones culturales públicas para evitar la injerencia política y la censura, tanto en la creación y producción cultural como en el diseño de las programaciones y contenidos.
+categories: Cultura

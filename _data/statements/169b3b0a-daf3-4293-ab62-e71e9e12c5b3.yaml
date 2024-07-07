@@ -1,6 +1,6 @@
 id: 169b3b0a-daf3-4293-ab62-e71e9e12c5b3
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 11
+parent_chapter: 14cfe70b-f6b5-4003-88f7-02a877dec28f
 title: Abandonar la política de grandes embalses y avanzar hacia una gestión inteligente, eficiente y ecológica del agua.
 text: El viejo modelo franquista de pantanos y obras faraónicas que han hundido y obligado a abandonar tantos pueblos se sustituirá de forma definitiva por una nueva cultura del agua, con un gobierno eficiente y moderno del agua a partir de la gestión de su demanda, que resulta la única estrategia eficaz para mitigar episodios extremos y cada vez más frecuentes, como sequías y crecidas, al tiempo que sirve para construir un sector agropecuario puntero

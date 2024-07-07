@@ -1,6 +1,6 @@
 id: 1437fdcb-d4e5-4486-8699-16cbb525e8b9
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 149
-categories: Política internacional
+parent_chapter: 7d023909-0f5e-4683-b705-4b789e78ec33
+children_promises:
+- dcfb4ec6-25b3-4944-8a35-6bbc2fcb8b31
+- a3a69c70-2be1-441e-8c6f-ba70f417c004
+- 3723b28a-389d-4b35-818d-afb03b46525f
+- 01a98091-f45d-4722-9ee5-ee34b7e783c6
+- 083239d8-96c0-40d1-bd70-175ed6e3c192
+- 67846d46-7723-4694-88aa-00bf3f86c257
+children_statements: []
 title: Aceleración de la adopción de legislación y acuerdos internacionales en migración, asilo y refugio
-has_children: true
+categories: Política internacional

@@ -1,7 +1,6 @@
 id: e75c2d97-1260-411e-8914-71356252dabd
 type: promise
-parent_statement: 6ba7b810-9dad-11d1-80b4-00c04fd430c8
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Trabajo
+parent_statement: 6ba7b810-9dad-11d1-80b4-00c04fd430c8
+parent_chapter: 82855f00-cceb-4e47-9e09-9d8348f7eecf
 text: Revigorizar el derecho a un entorno seguro y saludable de trabajo (y de teletrabajo) público, también con perspectiva de género. Las personas empleadas públicas tienen reconocido el mismo derecho a la protección de su seguridad y su salud en el trabajo que las personas empleadas pri vadas. Sin embargo, una vez más, cuando transitamos desde el plano del reconocimiento hasta el plano de las garantías efectivas (la protección practicada), la tutela de su derecho a la protección eficaz de su seguridad y su salud, también en los entornos de trabajo público más digitalizados, encuentra significativas restricciones, normativas y culturales, que han de corregirse, a fin de que la protección real sea equivalente en todos los trabajos, desde luego también en clave de género.
+categories: Trabajo

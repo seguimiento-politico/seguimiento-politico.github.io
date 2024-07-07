@@ -1,6 +1,6 @@
 id: ec02c96a-4901-41ed-b1b9-dd027c7b45de
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 182
+parent_chapter: 63ab839a-6275-4d54-bf9b-ec036a685a75
+children_promises:
+- bc449c99-25c0-4aec-ba8d-3c66bfa33f75
+- dc732501-441a-412a-b56d-f0e36ee6f79a
+- 53227f94-bc2c-462e-a36f-fe8355beb608
+- 51b2dcdf-83a3-436f-84ed-a4fa47ec2f02
+children_statements: []
+title: Un orden internacional basado en la solidaridad y el internacionalismo digital
 categories: Educación
 topics: Digitalización
-title: Un orden internacional basado en la solidaridad y el internacionalismo digital
-has_children: true

@@ -1,6 +1,6 @@
 id: ea4d4cec-666b-4f50-a9f8-aa8cab1536f8
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 52
+parent_chapter: 2d06e79f-d667-441b-b7cf-513970c6ccde
+children_promises:
+- edb49022-01e7-41e3-8744-32cb3c971d7e
+- 2de1cdcb-191c-4970-9cbf-31cbb6357f4b
+- 915d7f57-f96e-4044-bf53-8f24fae8bf17
+- 61b62e59-fdcc-4369-90bf-a4b991b73c6c
+- 1f2c930c-58b3-4a18-9f52-87eee478d900
+children_statements: []
+title: Actuación de emergencia para salvar y restaurar el Mar Menor
 categories: Medioambiente
 topics: Biodiversidad
-title: Actuación de emergencia para salvar y restaurar el Mar Menor
-has_children: true

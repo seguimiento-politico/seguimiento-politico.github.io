@@ -1,11 +1,12 @@
 id: 477f219b-f55b-4cf5-8e09-4844bd7d7c28
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 89
-categories: Seguridad y defensa
+parent_chapter: adfdbb68-8e6d-41fa-b953-fcd2789530ea
 text: Reforzaremos a los empleados públicos de Instituciones Penitenciarias en las funciones esenciales que realizan en desarrollo de su labor constitucional. El reconocimiento de los funcionaros de prisiones como agentes de la autoridad impulsado por el Partido Popular debe ser el fundamento de la seguridad laboral de éstos y la dignificación de su trabajo. Por ello, acometeremos la mejora integral de sus retribuciones económicas en tramos de incremento que serán progresivas durante los años 2019, 2020 y 2021 en su Complemento Específico. Todas estas medidas tienen carácter consolidable y se extienden a todos los puestos de trabajo adscritos a Instituciones Penitenciarias incluido el personal laboral.
+categories: Seguridad y defensa

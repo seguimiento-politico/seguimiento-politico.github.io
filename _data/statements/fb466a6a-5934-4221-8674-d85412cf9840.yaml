@@ -1,7 +1,6 @@
 id: fb466a6a-5934-4221-8674-d85412cf9840
-type: declaration
-parent_statement: c61348f7-0ecc-497e-b217-fdd68675e47e
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,4 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: c61348f7-0ecc-497e-b217-fdd68675e47e
+parent_chapter: 27ff313e-64fe-41ca-bc72-c44fafac350d
 text: Con el fin de garantizar a cualquier persona la máxima protección ante los episodios climáticos extremos que se irán normalizando en los próximos años y proteger a la población más vulnerable, impulsaremos un paquete de medidas adaptativas y de regulación bajo el paraguas de una estrategia nacional para el calor extremo y recurrente como parte específica del Plan Nacional de cambio climático - adaptación.
+topics: Cambio climático

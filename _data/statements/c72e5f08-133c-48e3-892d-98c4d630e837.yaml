@@ -1,6 +1,6 @@
 id: c72e5f08-133c-48e3-892d-98c4d630e837
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,7 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 10
+parent_chapter: 298cb86d-a349-4888-aba4-5567f2db236a
+text: Supresión progresiva – mediante reducción de competencias y efectivos – de las policías autonómicas e incorporación de sus miembros a los cuerpos nacionales. Hasta que se haga efectiva, se garantizará la equiparación salarial real entre el Cuerpo Nacional de Policía, Guardia Civil y policías autonómicas.
 categories: Derechos y servicios sociales
 topics:
 - Igualdad
-text: Supresión progresiva – mediante reducción de competencias y efectivos – de las policías autonómicas e incorporación de sus miembros a los cuerpos nacionales. Hasta que se haga efectiva, se garantizará la equiparación salarial real entre el Cuerpo Nacional de Policía, Guardia Civil y policías autonómicas.

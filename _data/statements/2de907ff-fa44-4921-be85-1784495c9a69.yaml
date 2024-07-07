@@ -1,7 +1,6 @@
 id: 2de907ff-fa44-4921-be85-1784495c9a69
 type: promise
-parent_statement: 0f914015-9065-4e0d-a760-d712d8dad237
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 0f914015-9065-4e0d-a760-d712d8dad237
+parent_chapter: 754946a2-5f02-4a15-929b-dc9e8a58fe80
+text: Desarrollo de la Directiva 2010/63/UE del Parlamento Europeo y del Consejo Europeo relativa a la protección de los animales utilizados para fines científicos.
 categories: Civismo
 topics: Bienestar animal
-text: Desarrollo de la Directiva 2010/63/UE del Parlamento Europeo y del Consejo Europeo relativa a la protección de los animales utilizados para fines científicos.

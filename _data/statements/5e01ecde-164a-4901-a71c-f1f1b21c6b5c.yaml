@@ -1,0 +1,27 @@
+id: 5e01ecde-164a-4901-a71c-f1f1b21c6b5c
+type: statement
+parent_document: a613c4b6-f9dc-4926-8b9a-b87c233e5a75
+parties:
+- VOX
+election_type: europeas
+election_date: '2024-06-09'
+publication_date: '2024-05-30'
+page: 5
+text: La Unión también ha abandonado a España en cuestiones tan relevantes como la protección de las fronteras, las ciudades de Ceuta y Melilla y las Islas Canarias, decisivas para asegurar nuestra seguridad exterior; la solución inmediata de la cuestión de Gibraltar mediante la necesaria reintegración a la plena soberanía de España, la defensa de nuestros intereses frente a el afán expansionista de Marruecos o la misma garantía de la unidad nacional.
+topics:
+- name: Unión Europea
+  status_quo_negative:
+  - text: La Unión ha abandonado a España en la protección de las fronteras
+  - text: La Unión ha abandonado a España en la cuestión de Gibraltar
+  - text: La Unión ha abandonado a España en la defensa de nuestros intereses frente a el afán expansionista de Marruecos
+  - text: La Unión ha abandonado a España en la garantía de la unidad nacional
+- name: Fronteras
+- name: Canarias
+- name: Ceuta y Melilla
+- name: Seguridad y defensa
+- name: Gibraltar
+  status_quo_negative:
+  - text: su necesaria reintegración a la plena soberanía de España
+- name: Marruecos
+  status_quo_negative:
+  - text: el afán expansionista de Marruecos

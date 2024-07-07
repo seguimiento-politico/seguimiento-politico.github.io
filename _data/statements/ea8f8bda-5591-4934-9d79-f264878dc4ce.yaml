@@ -1,6 +1,6 @@
 id: ea8f8bda-5591-4934-9d79-f264878dc4ce
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 35
+parent_chapter: 34122573-31ef-498a-a75c-ec31076a25d2
+text: Aprobaremos el reglamento de desarrollo de la Ley 12/2009 de 30 de octubre, reguladora del derecho de asilo y la protección subsidiaria, para aplicar todas las figuras jurídicas que están pendientes de implementación.
 categories: Migración
 topics: Inmigración
-text: Aprobaremos el reglamento de desarrollo de la Ley 12/2009 de 30 de octubre, reguladora del derecho de asilo y la protección subsidiaria, para aplicar todas las figuras jurídicas que están pendientes de implementación.

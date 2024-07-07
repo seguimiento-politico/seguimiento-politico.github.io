@@ -1,6 +1,6 @@
 id: bdcdc32a-5ffb-4c8a-8bf6-19f782fc585c
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 73
-categories: Urbanismo y ciudades
+parent_chapter: da4a5e62-c6b6-45b0-a08b-611f6d470a08
+children_promises:
+- 4082b617-69b9-4bbf-83c1-45c83cb42bbd
+- 1af7b86b-8f25-4cdf-b81b-1195fb0a7ba3
+children_statements: []
 title: Garantizar los usos sociales del patrimonio público en desuso.
-has_children: true
+categories: Urbanismo y ciudades

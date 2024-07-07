@@ -1,6 +1,6 @@
 id: b9f3012c-44b7-4df8-990a-fa93e6977b61
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 206
+parent_chapter: 2fec9ef5-b6cb-42aa-8f02-edc1779feaaa
+text: Tramitaremos un proyecto de ley para proteger a los y las menores de los efectos negativos del alcohol.
 categories: Sanidad
 topics:
 - Drogas
 - Adicciones
-text: Tramitaremos un proyecto de ley para proteger a los y las menores de los efectos negativos del alcohol.

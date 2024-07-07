@@ -1,6 +1,6 @@
 id: 4774e485-bacc-469b-b242-28f410ba0451
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 30
-categories: Economía
+parent_chapter: 0198b426-e501-4084-b969-9a1dd94572a3
 text: 'Impulsaremos una pesca y acuicultura sostenibles, basada en el conocimiento, la innovación y la investigación científica, que permita una explotación sostenible económica, social y medioambientalmente de nuestros recursos pesqueros. Además, se impulsarán las siguientes medidas: <br>- Ratificación del Convenio 188 de la OIT sobre trabajo en la pesca. <br>- Medidas para la defensa y puesta en valor de la pesca artesanal.'
+categories: Economía

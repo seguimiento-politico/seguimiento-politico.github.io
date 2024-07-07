@@ -1,6 +1,6 @@
 id: f30474fb-459c-4c8b-bd57-f4621dadcf08
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 194
+parent_chapter: f4d30405-da8f-4647-bc30-ce8a01fe2c1a
+text: Reforzar y formar a profesionales de los servicios sociales municipales para realizar la valoración y diagnóstico del tipo de apoyos o, así como para la asistencia a personas adultas en el ejercicio de su capacidad jurídica, dando cumplimiento a la Ley 8/2021.
 categories: Derechos y servicios sociales
 topics: Discapacidad
-text: Reforzar y formar a profesionales de los servicios sociales municipales para realizar la valoración y diagnóstico del tipo de apoyos o, así como para la asistencia a personas adultas en el ejercicio de su capacidad jurídica, dando cumplimiento a la Ley 8/2021.

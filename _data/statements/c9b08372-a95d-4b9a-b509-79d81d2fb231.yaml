@@ -1,6 +1,6 @@
 id: c9b08372-a95d-4b9a-b509-79d81d2fb231
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 37
+parent_chapter: 411f58f8-cf50-41b8-b864-f2e0ae91b53d
+text: Blindar que solo sí es sí. En cumplimiento de lo previsto en el Convenio de Estambul para combatir todas las formas de violencia que sufren las mujeres, se aprobará una Ley integral por la protección de la libertad sexual y contra las violencias sexuales, que garantice la sensibilización, prevención, detección, atención, protección y reparación. En el marco de esta ley reformaremos la legislación penal para garantizar que el consentimiento de la víctima sea clave en los delitos sexuales, de manera que, si una mujer no dice SÍ, todo lo demás es NO. Es decir, «Solo sí es sí».
 categories: Seguridad y defensa
 topics: Violencia de género
-text: Blindar que solo sí es sí. En cumplimiento de lo previsto en el Convenio de Estambul para combatir todas las formas de violencia que sufren las mujeres, se aprobará una Ley integral por la protección de la libertad sexual y contra las violencias sexuales, que garantice la sensibilización, prevención, detección, atención, protección y reparación. En el marco de esta ley reformaremos la legislación penal para garantizar que el consentimiento de la víctima sea clave en los delitos sexuales, de manera que, si una mujer no dice SÍ, todo lo demás es NO. Es decir, «Solo sí es sí».

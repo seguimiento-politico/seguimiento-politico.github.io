@@ -1,7 +1,6 @@
 id: 9b5f54a9-bab1-451d-b830-30f8da110cb0
 type: promise
-parent_statement: 69c436df-972f-40ed-8725-2f556cfcfd54
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Trabajo
+parent_statement: 69c436df-972f-40ed-8725-2f556cfcfd54
+parent_chapter: 80d48e2e-109f-4d20-9b2c-09d128e89470
 text: Garantizaremos la soberanía sobre el tiempo y la flexibilidad horaria decidida por la persona trabajadora, bajo la premisa de unos tiempos regulares y previsibles.
+categories: Trabajo

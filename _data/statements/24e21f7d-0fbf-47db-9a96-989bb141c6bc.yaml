@@ -1,6 +1,6 @@
 id: 24e21f7d-0fbf-47db-9a96-989bb141c6bc
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 130
+parent_chapter: bbb648f8-b134-4f34-9db4-8a224126b93a
+text: Desarrollaremos y aplicaremos la nueva línea de avales del Instituto de Crédito Oficial (ICO) de 2.500 millones de euros para ayudar a los jóvenes menores de 35 años el sistema de avales del 20% de la hipoteca para la compra de la primera vivienda habitual para jóvenes con el objetivo de posibilitar la adquisición de unas 50.000 viviendas
 categories: Vivienda
 topics: Incentivos, ayudas y subvenciones
-text: Desarrollaremos y aplicaremos la nueva línea de avales del Instituto de Crédito Oficial (ICO) de 2.500 millones de euros para ayudar a los jóvenes menores de 35 años el sistema de avales del 20% de la hipoteca para la compra de la primera vivienda habitual para jóvenes con el objetivo de posibilitar la adquisición de unas 50.000 viviendas

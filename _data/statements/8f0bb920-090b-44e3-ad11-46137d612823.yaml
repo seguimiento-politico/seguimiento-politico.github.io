@@ -1,7 +1,6 @@
 id: 8f0bb920-090b-44e3-ad11-46137d612823
 type: promise
-parent_statement: 79e46564-8c3d-4af8-8f68-d9ffdce88568
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 79e46564-8c3d-4af8-8f68-d9ffdce88568
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+text: Implementaremos acciones dirigidas a hombres para la promoción de la igualdad y la prevención de las violencias machistas. Entre ellas, pondremos en funcionamiento un nuevo servicio de atención telefónica para hombres en crisis, buscando alternativas no violentas, derivando a servicios que trabajen otras formas de masculinidades, fomenten el cuidado y la empatía, para que puedan recibir el apoyo profesional necesario. La financiación de estas acciones no supondrá en ningún caso una merma de la financiación de los programas contra las violencias machistas destinados a mujeres.
 categories: Democracia
 topics: Igualdad
-text: Implementaremos acciones dirigidas a hombres para la promoción de la igualdad y la prevención de las violencias machistas. Entre ellas, pondremos en funcionamiento un nuevo servicio de atención telefónica para hombres en crisis, buscando alternativas no violentas, derivando a servicios que trabajen otras formas de masculinidades, fomenten el cuidado y la empatía, para que puedan recibir el apoyo profesional necesario. La financiación de estas acciones no supondrá en ningún caso una merma de la financiación de los programas contra las violencias machistas destinados a mujeres.

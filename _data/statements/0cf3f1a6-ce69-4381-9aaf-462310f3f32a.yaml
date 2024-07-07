@@ -1,6 +1,6 @@
 id: 0cf3f1a6-ce69-4381-9aaf-462310f3f32a
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 149
+parent_chapter: d67fae0f-7c10-4cec-b6bc-44741cc9c03e
+text: Avanzaremos en la creación de un esquema de certificación para algoritmos y sistemas de inteligencia artificial que respeten la neutralidad y la ausencia de sesgos de género, también en su utilización en los ámbitos laborales.
 categories: Derechos y servicios sociales
 topics: Inteligfencia artificial, Igualdad
-text: Avanzaremos en la creación de un esquema de certificación para algoritmos y sistemas de inteligencia artificial que respeten la neutralidad y la ausencia de sesgos de género, también en su utilización en los ámbitos laborales.

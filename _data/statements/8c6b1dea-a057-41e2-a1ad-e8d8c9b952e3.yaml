@@ -1,6 +1,6 @@
 id: 8c6b1dea-a057-41e2-a1ad-e8d8c9b952e3
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 133
+parent_chapter: d5ff476e-21ed-4e90-9c4b-b4adb4a8f9a7
+text: España necesita un Gobierno fuerte que sea respetado entre sus socios europeos y lidere otra visión de Europa. Reivindicamos una Europa de naciones libres y soberanas que cooperen libremente entre ellas a través de las instituciones de una Unión Europea al servicio de la prosperidad y cooperación de los Estados miembros.
 categories:
 - Política internacional
-text: España necesita un Gobierno fuerte que sea respetado entre sus socios europeos y lidere otra visión de Europa. Reivindicamos una Europa de naciones libres y soberanas que cooperen libremente entre ellas a través de las instituciones de una Unión Europea al servicio de la prosperidad y cooperación de los Estados miembros.

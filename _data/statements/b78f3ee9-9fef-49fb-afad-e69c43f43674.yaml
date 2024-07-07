@@ -1,6 +1,6 @@
 id: b78f3ee9-9fef-49fb-afad-e69c43f43674
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 42
-categories: Agricultura
+parent_chapter: c81b524a-7c17-4056-ad5e-56c01a72ec58
 text: Promoveremos la digitalización en todos los ámbitos de la agricultura, de manera que las y los emprendedores encuentren en el medio rural un lugar en el que desarrollar sus iniciativas con ayuda de las nuevas tecnologías.
+categories: Agricultura
+topics: Desarrollo sostenible

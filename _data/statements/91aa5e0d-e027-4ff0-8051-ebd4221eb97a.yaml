@@ -1,7 +1,6 @@
 id: 91aa5e0d-e027-4ff0-8051-ebd4221eb97a
 type: promise
-parent_statement: 82c7eefd-7a7c-473b-b9e5-10d3dcb7fc8a
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 82c7eefd-7a7c-473b-b9e5-10d3dcb7fc8a
+parent_chapter: 2d06e79f-d667-441b-b7cf-513970c6ccde
+text: 'Revisión del Catálogo Español de Especies Amenazadas: con la inclusión del lobo ibérico o la tórtola europea y desarrollo de los planes de gestión con objetivos y recursos económicos efectivos.'
 categories: Medioambiente
 topics: Biodiversidad
-text: 'Revisión del Catálogo Español de Especies Amenazadas: con la inclusión del lobo ibérico o la tórtola europea y desarrollo de los planes de gestión con objetivos y recursos económicos efectivos.'

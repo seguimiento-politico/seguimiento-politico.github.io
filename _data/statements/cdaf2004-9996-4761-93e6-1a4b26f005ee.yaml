@@ -1,6 +1,6 @@
 id: cdaf2004-9996-4761-93e6-1a4b26f005ee
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 105
+parent_chapter: 24d7cc93-c978-4128-b790-6d8561fcef9f
+text: Proposición de Ley relativa a la modificación del régimen jurídico de la nacionalidad en la que se pretendía la necesidad de carecer de antecedentes penales, la pérdida de la nacionalidad anterior de manera fehaciente para acceder a la nacionalidad española y la pérdida de nacionalidad en caso de delitos contra la Constitución, el orden público y contra la paz o la independencia del Estado (noviembre 2021).
 categories:
 - Migración
-text: Proposición de Ley relativa a la modificación del régimen jurídico de la nacionalidad en la que se pretendía la necesidad de carecer de antecedentes penales, la pérdida de la nacionalidad anterior de manera fehaciente para acceder a la nacionalidad española y la pérdida de nacionalidad en caso de delitos contra la Constitución, el orden público y contra la paz o la independencia del Estado (noviembre 2021).

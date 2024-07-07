@@ -1,7 +1,6 @@
 id: 1d522b4d-be36-4d80-b229-340411d35f5c
 type: promise
-parent_statement: 561f5a77-1519-4443-a408-93e07f318efe
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 561f5a77-1519-4443-a408-93e07f318efe
+parent_chapter: 63ab839a-6275-4d54-bf9b-ec036a685a75
+text: Para revertir el incremento de desigualdades, se desarrollará un marco de transversalidad de género interseccional de las políticas digitales que, entre otras cuestiones, favorezca la adaptación de los planes de igualdad a los entornos digitales, así como la adaptación de las medidas para la erradicación de las violencias machistas y las violencias digitales.
 categories: Educación
 topics: Digitalización
-text: Para revertir el incremento de desigualdades, se desarrollará un marco de transversalidad de género interseccional de las políticas digitales que, entre otras cuestiones, favorezca la adaptación de los planes de igualdad a los entornos digitales, así como la adaptación de las medidas para la erradicación de las violencias machistas y las violencias digitales.

@@ -1,6 +1,6 @@
 id: 0d095a86-28cb-466a-8979-606fadc1afd2
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 88
-categories: Derechos y servicios sociales
+parent_chapter: 6bea7d15-32ea-402e-8fad-42663ddea615
+children_promises:
+- fd804687-1d5a-4076-894c-6fcd5736ba77
+children_statements:
+- af8f6c4a-2115-4037-ba9a-3dd1c5350992
 title: 'Bienestar y cuidados: Desigualdad territorial - servicios sociales en el medio rural'
-has_children: true
+categories: Derechos y servicios sociales

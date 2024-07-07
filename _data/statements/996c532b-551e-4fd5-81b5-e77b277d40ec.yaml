@@ -1,7 +1,6 @@
 id: 996c532b-551e-4fd5-81b5-e77b277d40ec
 type: promise
-parent_statement: b845475c-4fb9-4729-8ae2-bfa2e91abb76
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: b845475c-4fb9-4729-8ae2-bfa2e91abb76
+parent_chapter: 85064199-a50f-4c6d-a819-6336cf24a3e1
+text: Incorporaremos nuevas modalidades de colaboración efectiva de los actores del tejido social en las actividades universitarias y viceversa a través de medios como la ciencia ciudadana.
 categories: Educación
 topics: Universidad
-text: Incorporaremos nuevas modalidades de colaboración efectiva de los actores del tejido social en las actividades universitarias y viceversa a través de medios como la ciencia ciudadana.

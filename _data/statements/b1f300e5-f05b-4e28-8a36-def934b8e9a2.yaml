@@ -1,6 +1,6 @@
 id: b1f300e5-f05b-4e28-8a36-def934b8e9a2
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 136
+parent_chapter: d5ff476e-21ed-4e90-9c4b-b4adb4a8f9a7
+text: Abogaremos por la recuperación de la competencia exclusiva del Estado en lo que se refiere a relaciones internacionales, tanto en los ámbitos internos de la Unión, como en las relaciones bilaterales entre los Estados miembros, o la presencia de los Estados de la Unión en organismos internacionales, suprimiendo toda representación política exterior de regiones o municipios.
 categories:
 - Política internacional
-text: Abogaremos por la recuperación de la competencia exclusiva del Estado en lo que se refiere a relaciones internacionales, tanto en los ámbitos internos de la Unión, como en las relaciones bilaterales entre los Estados miembros, o la presencia de los Estados de la Unión en organismos internacionales, suprimiendo toda representación política exterior de regiones o municipios.

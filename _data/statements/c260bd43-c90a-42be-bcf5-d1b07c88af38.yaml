@@ -1,7 +1,6 @@
 id: c260bd43-c90a-42be-bcf5-d1b07c88af38
 type: promise
-parent_statement: 80b5b7a4-b329-4078-bc06-b2f7f90ac208
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 80b5b7a4-b329-4078-bc06-b2f7f90ac208
+parent_chapter: b5121737-ffe0-4552-9c0f-a47c9d827a54
+text: Impulso, de forma permanente, de un mecanismo común para financiar las inversiones en bienes públicos europeos, como los relacionados con la transición ecológica, en línea con el Pacto Verde Europeo, la infraestructura social o la autonomía estratégica. La magnitud de las inversiones necesarias para abordar los desafíos de la transición ecológica o de la digitalización, para aumentar la autonomía estratégica de las economías europeas y asegurar que este proceso de cambio se hace de forma justa y con cohesión social es muy importante. La reforma de las reglas fiscales no contempla excepciones para asegurar que estas se pueden llevar a cabo por los Gobiernos nacionales y, además, muchas de estas inversiones tienen la naturaleza de «bienes públicos» para el conjunto de la UE. Dados los buenos resultados de los fondos Next Generation, se propone establecer de forma permanente una Agencia Europea de Inversión para financiar estas actividades, emitiendo para ello deuda pública europea.
 categories: Política internacional
 topics: Europa
-text: Impulso, de forma permanente, de un mecanismo común para financiar las inversiones en bienes públicos europeos, como los relacionados con la transición ecológica, en línea con el Pacto Verde Europeo, la infraestructura social o la autonomía estratégica. La magnitud de las inversiones necesarias para abordar los desafíos de la transición ecológica o de la digitalización, para aumentar la autonomía estratégica de las economías europeas y asegurar que este proceso de cambio se hace de forma justa y con cohesión social es muy importante. La reforma de las reglas fiscales no contempla excepciones para asegurar que estas se pueden llevar a cabo por los Gobiernos nacionales y, además, muchas de estas inversiones tienen la naturaleza de «bienes públicos» para el conjunto de la UE. Dados los buenos resultados de los fondos Next Generation, se propone establecer de forma permanente una Agencia Europea de Inversión para financiar estas actividades, emitiendo para ello deuda pública europea.

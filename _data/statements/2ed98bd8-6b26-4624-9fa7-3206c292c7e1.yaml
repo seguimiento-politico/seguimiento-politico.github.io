@@ -1,6 +1,6 @@
 id: 2ed98bd8-6b26-4624-9fa7-3206c292c7e1
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 213
-categories: Derechos y servicios sociales
+parent_chapter: e4a4af12-2c6e-4e27-8a79-debda171ff8b
 text: Reforzar la comunicación, la sensibilización y la información sobre su realidad, luchando contra el estigma de una sociedad que desconoces sus necesidades y previniendo el suicidio y el desánimo de las familias.
+categories: Derechos y servicios sociales

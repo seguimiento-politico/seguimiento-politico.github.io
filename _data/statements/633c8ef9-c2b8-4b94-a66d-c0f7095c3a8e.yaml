@@ -1,10 +1,12 @@
 id: 633c8ef9-c2b8-4b94-a66d-c0f7095c3a8e
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 57
+parent_chapter: 5fc11c4e-9db8-4c9e-9643-4790f6b860a4
 text: Adaptaremos todos los marcos legislativos autonómicos a la normativa nacional de protección jurídica del menor para garantizar la transición del modelo de acogimiento residencial al familiar, agilizaremos los procedimientos de acogimiento familiar, promoveremos ayudas y apoyaremos con más recursos a las asociaciones de familias acogedoras para la manutención de los menores en acogimiento familiar.
+topics: Infancia y juventud

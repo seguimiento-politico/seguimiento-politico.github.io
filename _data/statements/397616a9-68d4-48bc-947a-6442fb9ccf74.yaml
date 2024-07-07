@@ -1,6 +1,6 @@
 id: 397616a9-68d4-48bc-947a-6442fb9ccf74
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 131
-categories: Sanidad
+parent_chapter: 3b84ba40-eae3-47f2-812f-38e359411b69
 text: Fortaleceremos los programas para la promoción de la salud afectivo-sexual en todos los niveles educativos haciendo hincapié en que reflejen la realidad actual de nuestra sociedad huyendo de estigmas y tabúes sexuales.
+categories: Sanidad

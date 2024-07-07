@@ -1,7 +1,6 @@
 id: 174d6c70-fffd-46ff-b89e-c4243b4f88fa
 type: promise
-parent_statement: 4d556633-204c-4ef6-afdb-5bc1a1bffe98
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Cultura
+parent_statement: 4d556633-204c-4ef6-afdb-5bc1a1bffe98
+parent_chapter: d83fae97-6483-46e8-ac0d-9980e0838a11
 text: Dicha política debe ser tenida en cuenta, asimismo, en lo que hace al papel del Instituto Cervantes y su proyección en el exterior.
+categories: Cultura

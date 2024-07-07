@@ -1,7 +1,6 @@
 id: 94657bf7-f05c-4632-bb3e-02a2c996b5d7
 type: promise
-parent_statement: 4510596b-ed04-4a26-a252-21c51708b3fd
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: 4510596b-ed04-4a26-a252-21c51708b3fd
+parent_chapter: 67d02a39-a3aa-4e05-9637-8576421fb382
+text: Facilitaremos la adquisición de las unidades productivas en los procesos de reconversión de empresas.
 categories: Economía
 topics: Economía social
-text: Facilitaremos la adquisición de las unidades productivas en los procesos de reconversión de empresas.

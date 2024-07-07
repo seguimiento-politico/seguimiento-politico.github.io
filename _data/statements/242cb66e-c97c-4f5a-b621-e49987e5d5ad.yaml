@@ -1,7 +1,6 @@
 id: 242cb66e-c97c-4f5a-b621-e49987e5d5ad
-type: declaration
-parent_statement: 3e80b776-7bda-4039-9c56-2d50c872b614
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,6 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 169
+parent_statement: 3e80b776-7bda-4039-9c56-2d50c872b614
+parent_chapter: e207a6bf-9c54-4399-a574-f130ae590b63
+text: 'Garantizando la sostenibilidad social: al blindar legalmente la revalorización de las pensiones para garantizar el mantenimiento del poder adquisitivo, y al dignificar las pensiones mínimas y no contributivas, preservando la suficiencia y adecuación de las pensiones que proclama nuestra Constitución.'
 categories: Derechos y servicios sociales
 topics: Pensiones
-text: 'Garantizando la sostenibilidad social: al blindar legalmente la revalorización de las pensiones para garantizar el mantenimiento del poder adquisitivo, y al dignificar las pensiones mínimas y no contributivas, preservando la suficiencia y adecuación de las pensiones que proclama nuestra Constitución.'

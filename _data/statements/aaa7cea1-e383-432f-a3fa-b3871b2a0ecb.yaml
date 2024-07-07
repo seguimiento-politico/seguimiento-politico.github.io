@@ -1,6 +1,6 @@
 id: aaa7cea1-e383-432f-a3fa-b3871b2a0ecb
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 155
-categories: Educación
+parent_chapter: c1ead426-cec8-44d6-a73a-d98f9059e1db
+children_promises:
+- 701aa702-e294-433a-93e5-9d5e8376c305
+- 40cb5aac-2c34-4e03-b453-a4fb6cdbbb3f
+children_statements: []
 title: Ecocomedores escolares gratuitos de gestión directa en los centros públicos durante toda la etapa obligatoria y otros soportes básicos.
-has_children: true
+categories: Educación

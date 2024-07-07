@@ -1,0 +1,25 @@
+name: Gibraltar
+other:
+- &id001
+  id: 4ebf08e7-383b-4c1e-88bb-e2fa862ec114
+  parties:
+  - VOX
+other_count: 1
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- &id002
+  id: 5e01ecde-164a-4901-a71c-f1f1b21c6b5c
+  parties:
+  - VOX
+- *id001
+statements_count: 2
+status_quo_negative:
+- *id002
+status_quo_negative_count: 1
+status_quo_positive: []
+status_quo_positive_count: 0

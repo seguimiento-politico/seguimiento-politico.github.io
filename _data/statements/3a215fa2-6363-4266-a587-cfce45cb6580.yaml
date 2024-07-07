@@ -1,6 +1,6 @@
 id: 3a215fa2-6363-4266-a587-cfce45cb6580
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 46
-categories: Sanidad
+parent_chapter: 5c8d94eb-aad0-4b93-8408-511875a0e54f
 text: DESARROLLAREMOS EL ENFOQUE ‘ONE HEALTH’ con el objetivo de mejorar la preservación integral de la salud humana y la salud animal y vegetal, considerando factores medioambientales y materializando acciones multidisciplinares que favorezcan la inocuidad de los alimentos, el control adecuado de zoonosis y mayores avances frente a la resistencia a los antibióticos.
+categories: Sanidad

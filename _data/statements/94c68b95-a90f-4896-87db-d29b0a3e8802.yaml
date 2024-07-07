@@ -1,6 +1,6 @@
 id: 94c68b95-a90f-4896-87db-d29b0a3e8802
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 234
+parent_chapter: 75b790ab-7ac9-4daa-a299-556e348c3a17
+text: Continuaremos incrementando los recursos dedicados a paliar las catástrofes naturales.
 categories: Administración pública
 topics:
 - Gestión de riesgos
 - Catástrofes naturales
-text: Continuaremos incrementando los recursos dedicados a paliar las catástrofes naturales.

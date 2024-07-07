@@ -1,6 +1,6 @@
 id: 40f3dc77-7a03-450f-b522-910716b206e4
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,7 +10,8 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 46
-categories: Impuestos y financiación fiscal
-topics: Distribución fiscal
+parent_chapter: 0de871a0-5319-40e9-8662-5ef7c35d2626
 title: Liderazgo en la lucha contra la evasión y elusión fiscal internacional.
 text: Promoveremos activamente la lucha contra estos dos fenómenos en los foros internacionales donde España está presente (G20, OCDE).
+categories: Impuestos y financiación fiscal
+topics: Distribución fiscal

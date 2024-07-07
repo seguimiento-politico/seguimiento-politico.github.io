@@ -1,7 +1,6 @@
 id: 0029e6c1-c0d9-4502-a978-2245aafd3762
 type: promise
-parent_statement: c4cee7cc-7449-4690-a75c-570c7ceeef97
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Política internacional
+parent_statement: c4cee7cc-7449-4690-a75c-570c7ceeef97
+parent_chapter: 7d023909-0f5e-4683-b705-4b789e78ec33
 text: Reforzaremos la red consular y de extranjería con la ampliación de su plantilla y actualizaremos los salarios y el Acuerdo de Condiciones de Trabajo Administración-Sindicatos de 2008 para el personal laboral en el exterior.
+categories: Política internacional

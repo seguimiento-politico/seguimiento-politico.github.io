@@ -1,7 +1,6 @@
 id: a4855737-4808-443d-bdb2-0b237edf9475
 type: promise
-parent_statement: e89d5a20-cd74-4edc-a2e0-b7d1322e6b72
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: e89d5a20-cd74-4edc-a2e0-b7d1322e6b72
+parent_chapter: c31b1fcd-80d0-4ca3-b06a-863fa279380c
+text: Moratoria a la construcción de grandes instalaciones demandantes de agua, como campos de golf o megaproyectos urbanísticos.
 categories: Medioambiente
 topics: Desertificación
-text: Moratoria a la construcción de grandes instalaciones demandantes de agua, como campos de golf o megaproyectos urbanísticos.

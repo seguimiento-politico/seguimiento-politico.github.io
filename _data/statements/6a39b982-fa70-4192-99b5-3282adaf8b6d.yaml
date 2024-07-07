@@ -1,6 +1,6 @@
 id: 6a39b982-fa70-4192-99b5-3282adaf8b6d
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 17
-categories: Nacionalismo y patriotismo
+parent_chapter: 84c94514-c06f-4ab9-ba28-01c06429b154
 text: Potenciaremos la lengua española en el extranjero a través del Instituto Cervantes, defensa del carácter, la cultura y los símbolos españoles en todo el mundo; especialmente en Iberoamérica.
+categories: Nacionalismo y patriotismo

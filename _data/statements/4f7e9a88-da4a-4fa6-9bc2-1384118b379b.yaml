@@ -1,6 +1,6 @@
 id: 4f7e9a88-da4a-4fa6-9bc2-1384118b379b
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,32 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 64
+parent_chapter: dc33f933-12a0-4325-b761-1f9bf8c3ad0d
+children_promises:
+- d4eb4094-9f69-43ce-ae6e-f2f144546968
+- 1c937b41-9812-4cf8-b75a-b351f867bb74
+- 80a56595-6fb8-4b6e-8387-0e8815b5f588
+- 08e2ad00-9edf-48af-8954-e6016af3d4e1
+- e487b20e-8abe-4462-808f-8d669431567e
+- 702f29fe-3aa4-4ca6-8038-3776a2e14f44
+- d64721ac-1b4d-4562-affd-6f7af911d58a
+- 6fb3284e-8e57-4c8c-83fa-714bed46bb4a
+- e4ddd82e-dd37-4800-933a-998fd3e55827
+- 61032a49-c38b-433d-9f75-f39feadbded8
+- abb5dc37-21e9-4b73-8983-0fffddceebdd
+- c3a56763-713e-4516-a242-27ac13aa3f0d
+- 51bcbfa3-70d4-4bac-b90f-1ae7e040000b
+- 0402c93e-4135-471a-b7e7-4edc3e56857d
+- acf96d3f-8f52-4ee7-900d-d511b64a727a
+- fcce3745-9e2b-4739-8eea-dc0d1755249d
+- 8b23ee6c-a7c2-4c80-a58b-330944adaa99
+- 7e3a1328-5e82-4711-9300-42e04041df76
+- 60c3f96e-06c8-4200-b313-cdc2ec8d5b9b
+- b1b4d8a9-ef04-4bcb-bed1-60a2af445d41
+- 354ce046-a9b0-4f9c-8222-e3cf2c981a7e
+- 1aad48af-ea18-4b60-bcaf-0c3da3408b56
+- d7e44509-faa4-4a69-af21-4a402d02bc6b
+children_statements: []
+title: Propuestas para la sostenibilidad, reconocimiento y mitigación del impacto ambiental en el sector pesquero
 categories: Pesca y acuicultura
 topics: Desarrollo sostenible
-title: Propuestas para la sostenibilidad, reconocimiento y mitigación del impacto ambiental en el sector pesquero
-has_children: true

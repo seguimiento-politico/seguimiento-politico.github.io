@@ -1,7 +1,6 @@
 id: 397b8b80-21ed-4a42-8b95-b77b6c44ce31
 type: promise
-parent_statement: 333e4c7c-9832-4749-bf0c-4b37be0996c2
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Vivienda
+parent_statement: 333e4c7c-9832-4749-bf0c-4b37be0996c2
+parent_chapter: 10dbdb5a-3231-46ed-86c9-0dc18f77040e
 text: Desarrollaremos una carta de derechos de los inquilinos, dotaremos jurídicamente a las asociaciones y sindicatos de personas inquilinas de capacidad de representación en las negociaciones colectivas con los propietarios y de capacidad jurídica en los procesos legislativos, así como en los planes públicos de vivienda.
+categories: Vivienda

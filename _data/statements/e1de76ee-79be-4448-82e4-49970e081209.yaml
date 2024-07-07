@@ -1,6 +1,6 @@
 id: e1de76ee-79be-4448-82e4-49970e081209
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 72
-categories: Democracia
+parent_chapter: 180fad9e-d9cc-4888-b890-b4bc54ee910c
 text: TRABAJAREMOS PARA GARANTIZAR EL DERECHO FUNDAMENTAL DE LIBERTAD RELIGIOSA, promoviendo el diálogo y la cooperación con las confesiones a través de los instrumentos jurídicos existentes. Se extenderán los beneficios fiscales a las confesiones religiosas con notorio arraigo y se potenciará el papel y la autonomía de la Comisión Asesora de Libertad Religiosa. Se revisará el papel de la Fundación Pluralismo y Convivencia para una gestión más eficaz con las confesiones.
+categories: Democracia

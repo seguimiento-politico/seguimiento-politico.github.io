@@ -1,6 +1,6 @@
 id: 118ec3db-0062-4976-9e7c-fb68ed679604
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 186
+parent_chapter: 4bab7d84-780f-4ca8-ae27-9d57b6482584
+text: Promoveremos un estudio sobre cuáles deberían ser las condiciones más adecuadas para una sostenibilidad de las actividades del Tercer Sector.
 categories: Derechos y servicios sociales
 topics: ONGs
-text: Promoveremos un estudio sobre cuáles deberían ser las condiciones más adecuadas para una sostenibilidad de las actividades del Tercer Sector.

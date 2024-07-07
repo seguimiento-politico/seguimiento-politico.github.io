@@ -1,6 +1,6 @@
 id: ed59bb44-5255-46e9-9507-b17c10704a16
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 16
-categories: Comercio
+parent_chapter: 15957f8e-1f85-4690-833e-97db1ad6f08c
 text: Impulso al turismo en España; para crear empleo y riqueza y además sirva para vertebrar esa España abandonada por los sucesivos gobiernos, fortaleciendo el turismo rural, de montaña, o interior, y contribuyendo a la conservación y difusión de nuestro patrimonio natural y artístico.
+categories: Comercio

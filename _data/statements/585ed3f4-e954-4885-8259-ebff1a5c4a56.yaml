@@ -1,6 +1,6 @@
 id: 585ed3f4-e954-4885-8259-ebff1a5c4a56
-type: declaration
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 106
-categories: Cultura
+parent_chapter: 156e3030-bc67-4aa6-8243-9123dce112aa
 text: La cultura es el mejor reflejo de lo que hemos sido, de lo que somos y de lo que queremos ser los españoles. Es un pilar de nuestra identidad común y constituye un poderoso instrumento para fomentar el desarrollo de la personalidad, la libertad de expresión, la cohesión social, la creatividad y la innovación.
+categories: Cultura

@@ -1,6 +1,6 @@
 id: 7de65c20-9b62-4f25-955e-bc1db4e7950e
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 89
-categories: Administración publica
+parent_chapter: 4b9df98c-2182-4258-9de7-cc205cdb2c5b
 text: ESTABLECEREMOS UN MECANISMO JURÍDICO EFICAZ Y ESTABLE para la revisión de los precios en los contratos públicos y las prórrogas, para evitar la disrupción de servicios esenciales, con las cautelas adecuadas.
+categories: Administración publica

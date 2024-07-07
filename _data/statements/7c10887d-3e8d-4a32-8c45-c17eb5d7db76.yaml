@@ -1,6 +1,6 @@
 id: 7c10887d-3e8d-4a32-8c45-c17eb5d7db76
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 16
+parent_chapter: 14cfe70b-f6b5-4003-88f7-02a877dec28f
 title: Intensificar la lucha contra los incendios y mejorar las condiciones laborales de bomberos y bomberas.
 text: Hay que dotar de financiación suficiente los mecanismos y operativos de extinción de incendios, pero es muy importante garantizar una financiación adecuada de los métodos de prevención durante el invierno, ya que es cuando se evitan de manera efectiva los incendios. Una parte de la financiación para la lucha contra incendios y el mantenimiento de las masas forestales y bienes naturales se destinará a la financiación municipal de los pueblos que contribuyen directamente a esta tarea Al mismo tiempo, las personas que arriesgan su vida para luchar contra los incendios a lo largo del año no pueden estar sometidas a condiciones de precariedad y bajos salarios, sino que deben sentir una mejora clara en su reconocimiento profesional, salarios, condiciones laborales, estabilidad y condiciones de seguridad en que enfrentan los incendios

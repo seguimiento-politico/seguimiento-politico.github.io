@@ -1,7 +1,6 @@
 id: afcae2b7-119f-45d5-be65-871cf8e82a4c
 type: promise
-parent_statement: 2c7cd21b-b2e7-4c3d-a9ea-261e146232c7
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Justicia
+parent_statement: 2c7cd21b-b2e7-4c3d-a9ea-261e146232c7
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
 text: El Tribunal Constitucional, máximo intérprete de nuestra Constitución y garante de los derechos fundamentales y libertades públicas, debe contar con fórmulas de nombramiento que garanticen el prestigio e independencia de sus magistrados, evitando el bloqueo de su renovación cuando algunos de los órganos competentes para designar miembros no cumplan en tiempo y forma con su obligación constitucional de nombramiento.
+categories: Justicia

@@ -1,7 +1,6 @@
 id: d8acdf8e-63f5-4d19-9042-67df8103921c
 type: promise
-parent_statement: f496b3a0-472d-46cf-a8f7-5577a830ec90
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: f496b3a0-472d-46cf-a8f7-5577a830ec90
+parent_chapter: 194f102b-5855-48f6-8c07-594c4c44c66f
+text: Por medio de la empresa pública Mercasa, se fomentará un cambio en la estructura de distribución de alimentos que permita una relación directa entre productores y pequeños vendedores. Se fomentará un Plan de Actuación de Mercasa para facilitar las ayudas en la fase de definición del modelo o para el acceso a instalaciones adecuadas, apoyar la digitalización, el transporte sostenible de reparto de última milla y ayudar en la comunicación y difusión.
 categories: Consumo
 topics: Alimentación saludable
-text: Por medio de la empresa pública Mercasa, se fomentará un cambio en la estructura de distribución de alimentos que permita una relación directa entre productores y pequeños vendedores. Se fomentará un Plan de Actuación de Mercasa para facilitar las ayudas en la fase de definición del modelo o para el acceso a instalaciones adecuadas, apoyar la digitalización, el transporte sostenible de reparto de última milla y ayudar en la comunicación y difusión.

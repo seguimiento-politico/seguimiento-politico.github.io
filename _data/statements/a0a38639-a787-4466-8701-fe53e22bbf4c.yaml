@@ -1,6 +1,6 @@
 id: a0a38639-a787-4466-8701-fe53e22bbf4c
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 7
+parent_chapter: a47741b5-bbce-46ec-a578-07955d93b4fb
+text: Ratificación de la Carta Social Europea revisada y el Protocolo adicional a la Carta Social Europea y el Convenio 190 de la OIT sobre la eliminación de la violencia y el acoso en el mundo del trabajo, de 21 de junio de 2019.
 categories: Trabajo
 topics: Conciliación familiar
-text: Ratificación de la Carta Social Europea revisada y el Protocolo adicional a la Carta Social Europea y el Convenio 190 de la OIT sobre la eliminación de la violencia y el acoso en el mundo del trabajo, de 21 de junio de 2019.

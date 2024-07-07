@@ -1,6 +1,6 @@
 id: daf5ab5c-a137-43ba-b15a-6a11f467d666
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 52
+parent_chapter: 2d06e79f-d667-441b-b7cf-513970c6ccde
+children_promises:
+- 7e5e8752-b0cc-487e-928d-45fc46f1bda4
+- ffa2c628-75a6-4817-a0ce-5b80a0b65d71
+children_statements: []
+title: Mapa de vulnerabilidad climática y mejora climática de los servicios de protección civil
 categories: Medioambiente
 topics: Biodiversidad
-title: Mapa de vulnerabilidad climática y mejora climática de los servicios de protección civil
-has_children: true

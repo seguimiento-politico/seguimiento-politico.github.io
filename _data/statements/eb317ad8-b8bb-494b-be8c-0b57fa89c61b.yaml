@@ -1,6 +1,6 @@
 id: eb317ad8-b8bb-494b-be8c-0b57fa89c61b
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,8 +9,11 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 15
+parent_chapter: ab7164cc-742b-48cf-adce-57d74cf0621d
+children_promises:
+- 4fd459c0-0b55-4386-ae4d-4f696d94a834
+children_statements: []
+title: Español en el mundo
 categories:
 - Educación
 - Cultura
-title: Español en el mundo
-has_children: true

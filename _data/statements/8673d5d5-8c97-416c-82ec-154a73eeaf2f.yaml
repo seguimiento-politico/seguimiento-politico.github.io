@@ -1,7 +1,6 @@
 id: 8673d5d5-8c97-416c-82ec-154a73eeaf2f
 type: promise
-parent_statement: 39d9abf5-0f45-44cb-ac5c-609cdccf0423
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Sanidad
+parent_statement: 39d9abf5-0f45-44cb-ac5c-609cdccf0423
+parent_chapter: 17e4c412-8ac4-4992-848a-422903075ee3
 text: Garantizaremos la financiación de la sanidad en las comunidades autónomas, así como la garantía de retribución a aquellas que atienden población desplazada, mediante el desarrollo del Fondo de Garantía Asistencial y el Fondo de Cohesión Sanitaria para compensar estos gastos sanitarios en el futuro a nivel de atención primaria, asistencia hospitalaria y dispensación de medicamentos.
+categories: Sanidad

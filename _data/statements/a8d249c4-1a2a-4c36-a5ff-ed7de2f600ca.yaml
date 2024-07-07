@@ -1,6 +1,6 @@
 id: a8d249c4-1a2a-4c36-a5ff-ed7de2f600ca
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 223
+parent_chapter: ac350b9c-6bf2-4017-a573-8420cb922467
+children_promises:
+- 4a03df4a-2aaa-4abc-97ff-962c190637eb
+- 5eecad20-c383-4d20-a84e-2c6ab248fc13
+- fa71b6fa-7980-48c9-a545-b318f701ad7d
+- 8cd56fd9-615c-4f81-8f19-7d4885ab3bf5
+children_statements: []
+text: 'Protegeremos el parque de vivienda social y alquiler asequible:'
 categories: Vivienda
 topics: Alquiler
-text: 'Protegeremos el parque de vivienda social y alquiler asequible:'
-has_children: true

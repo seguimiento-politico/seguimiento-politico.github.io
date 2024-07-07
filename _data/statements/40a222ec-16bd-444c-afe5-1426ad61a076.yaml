@@ -1,7 +1,6 @@
 id: 40a222ec-16bd-444c-afe5-1426ad61a076
-type: declaration
-parent_statement: 99a02b2a-8a94-4b32-b1c8-3f3b9f386e07
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 99a02b2a-8a94-4b32-b1c8-3f3b9f386e07
+parent_chapter: c31b1fcd-80d0-4ca3-b06a-863fa279380c
+text: 'Ante la amenaza de la desertificación, es necesario un gran pacto de estado que marque las líneas generales de una de las batallas más importantes que nuestro país va a librar en las próximas décadas: la batalla contra el desierto. Con este objetivo en mente, el pacto de Estado antidesertificación se desarrollará con base en los siguientes principios y medidas:'
 categories: Medioambiente
 topics: Desertificación
-text: 'Ante la amenaza de la desertificación, es necesario un gran pacto de estado que marque las líneas generales de una de las batallas más importantes que nuestro país va a librar en las próximas décadas: la batalla contra el desierto. Con este objetivo en mente, el pacto de Estado antidesertificación se desarrollará con base en los siguientes principios y medidas:'

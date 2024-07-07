@@ -1,6 +1,6 @@
 id: 21b677bd-9fb0-4986-90ac-a76df2362e86
-type: declaration
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 68
-categories: Democracia
+parent_chapter: a6a343d5-df56-4658-85e8-614a6cb5a3f6
 title: RESPALDO A LOS GARANTES DE NUESTRA SEGURIDAD
 text: La seguridad ciudadana es básica para la convivencia y para generar un clima de tranquilidad en la sociedad. La labor indispensable de las Fuerzas y Cuerpos de Seguridad debe conjugarse con una actuación responsable e inteligente desde el Gobierno, que facilite su trabajo en lugar de entorpecerlo. La última legislatura ha ido en la dirección contraria, con faltas de respeto a las Fuerzas y Cuerpos de Seguridad del Estado y la introducción de leyes que desprotegen a los ciudadanos e incluso protegen al delincuente. El telón de fondo de este abandono es un incremento de la tasa de criminalidad, que ha alcanzado el dato más alto de los últimos diez años.
+categories: Democracia

@@ -1,6 +1,6 @@
 id: 5631f7b9-3f7e-4486-ad78-7ec4c1c22ea7
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 9
+parent_chapter: 80f33f13-c365-4098-ac18-6210795cdb15
+children_promises:
+- 52d52cbe-5f62-444f-9267-f0dd0d805715
+- 126fc70d-3799-4322-9cbf-2ffb3b422f95
+- 4c2a85cc-3ce6-4c1d-b4d8-6fc7fb237b9b
+children_statements: []
+title: Simplificación de la burocracia
 categories:
 - Economía
-title: Simplificación de la burocracia
-has_children: true

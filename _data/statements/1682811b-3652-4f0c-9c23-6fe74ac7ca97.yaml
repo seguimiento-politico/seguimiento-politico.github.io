@@ -1,7 +1,6 @@
 id: 1682811b-3652-4f0c-9c23-6fe74ac7ca97
-type: declaration
-parent_statement: f1ee012f-d237-4909-a9a8-7b99ff8f9f33
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: f1ee012f-d237-4909-a9a8-7b99ff8f9f33
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+text: A pesar de la existencia de la Ley Orgánica núm. 35/2011, del 4 de octubre de 2011, sobre la titularidad compartida de las explotaciones agrarias, el porcentaje de mujeres titulares de explotaciones agrarias sigue siendo inferior al de los hombres. Se tomarán medidas para avanzar hacia la paridad en la titularidad de las explotaciones agrarias. En la última reforma de la Política Agraria Común se ha introducido, como uno de los objetivos, la igualdad de género.
 categories: Democracia
 topics: Igualdad
-text: A pesar de la existencia de la Ley Orgánica núm. 35/2011, del 4 de octubre de 2011, sobre la titularidad compartida de las explotaciones agrarias, el porcentaje de mujeres titulares de explotaciones agrarias sigue siendo inferior al de los hombres. Se tomarán medidas para avanzar hacia la paridad en la titularidad de las explotaciones agrarias. En la última reforma de la Política Agraria Común se ha introducido, como uno de los objetivos, la igualdad de género.

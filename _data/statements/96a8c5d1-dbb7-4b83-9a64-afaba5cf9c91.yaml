@@ -1,6 +1,6 @@
 id: 96a8c5d1-dbb7-4b83-9a64-afaba5cf9c91
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,9 +9,16 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 157
+parent_chapter: fa3cbb6b-1ec5-4044-b60a-7e8b530ca3e3
+children_promises:
+- b3d6051c-0033-4751-bde1-1502c5d8399a
+- 9692da6c-4d9d-45af-804f-d7d0946b122b
+- b2311179-cf15-492d-8891-d1cff4f2a213
+- 850eda62-d022-4cc6-917a-d3752ae1c181
+- 0368c96a-a398-43e7-aedc-43c4d31b5940
+children_statements: []
+text: Elaboraremos una iniciativa legislativa para impedir el acceso de los menores a la pornografía en internet y limitaremos el acceso a contenidos que pueden resultar dañinos para el desarrollo de los y las menores.
 categories: Derechos y servicios sociales
 topics:
 - Juventud
 - Pornografía
-text: Elaboraremos una iniciativa legislativa para impedir el acceso de los menores a la pornografía en internet y limitaremos el acceso a contenidos que pueden resultar dañinos para el desarrollo de los y las menores.
-has_children: true

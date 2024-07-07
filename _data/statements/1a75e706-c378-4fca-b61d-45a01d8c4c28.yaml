@@ -1,7 +1,6 @@
 id: 1a75e706-c378-4fca-b61d-45a01d8c4c28
 type: promise
-parent_statement: 5c542221-806c-46f4-9286-6b3a8d86d3e2
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Justicia
+parent_statement: 5c542221-806c-46f4-9286-6b3a8d86d3e2
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
 text: De igual modo, y en coherencia con lo anterior, proponemos la derogación del código penal militar, sin perjuicio de integrar en el código penal ordinario aquellos tipos penales específicos al ejercicio de las armas.
+categories: Justicia

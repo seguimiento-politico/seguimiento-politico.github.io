@@ -1,6 +1,6 @@
 id: ae321c9f-c09c-49b7-8518-315c911161db
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 57
-categories: Sanidad
+parent_chapter: befa4347-5ac5-4c3d-853b-7fc9b83921e6
 text: Dotaremos, en colaboración con el resto de Administraciones, de los medios humanos y materiales necesarios para la puesta en funcionamiento o reapertura de los centros de Atención Primaria tanto a nivel ambulatorio como domiciliario en toda España, con especial atención a la España rural y a los barrios más saturados.
+categories: Sanidad

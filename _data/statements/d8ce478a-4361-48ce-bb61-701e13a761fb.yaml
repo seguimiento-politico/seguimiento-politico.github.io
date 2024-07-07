@@ -1,6 +1,6 @@
 id: d8ce478a-4361-48ce-bb61-701e13a761fb
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,14 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 20
+parent_chapter: d5bc3185-7cac-4cbc-9ca4-df232e4c8a2f
+children_promises:
+- b27e7472-b502-4487-9e9c-8db37957810f
+- 04be51b8-408f-4281-9fb8-04edb7e0c8b4
+- 56205d79-5dae-477c-8e86-55cf06b2f365
+- 86111954-2236-463f-b2f8-9af3ea27532f
+- c61b5524-ad0a-4469-9224-d0bd36698200
+children_statements: []
+title: Ley anti okupas y anti usura.
 categories:
 - Justicia
-title: Ley anti okupas y anti usura.
-has_children: true

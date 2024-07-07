@@ -1,6 +1,6 @@
 id: 8bc71d7d-a389-4351-afac-6b7d2f96ba0b
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 39
+parent_chapter: 493fd51c-7cfd-4b5e-bc63-efcefe3f24e6
 title: Asignar al sector público un verdadero rol de impulso y de coordinación estratégica de la I+D+i.
 text: Reforzaremos la Agencia Estatal de Investigación, dotándola de una gran capacidad de inversión a través del citado Banco de Inversión (BITTE) y de una gran unidad dedicada a la transferencia, que nos permitirá aplicar los avances teóricos de frontera a la mejora de nuestra industria y aportar nuevos conocimientos al sector privado y a los sectores más innovadores de nuestra ciudadanía en un contexto de transparencia total La política de transferencia del conocimiento debe ser una prioridad de la estrategia de I+D+i Completaremos esta nueva institucionalidad para la innovación con la creación de una red de comités estratégicos sectoriales para que el sector público sea un actor con capacidad para asumir riesgos, pero también para obtener beneficios y orientar la I+D+i hacia la creación de empleo de calidad y de valor social Esta Agencia Estatal de Investigación será independiente y homologable a la institución europea (ERC), se financiará de manera suficiente y a través de presupuestos plurianuales que permitan establecer un calendario fijo de convocatorias y promoverá procedimientos que minimicen las trabas burocráticas para el ejercicio de la actividad científica. Al mismo tiempo, garantizaremos que cualquier reforma del Consejo Superior de Investigaciones Científicas redunde en un mantenimiento de su autonomía, una ampliación de sus recursos y un fortalecimiento de los derechos de todo su personal

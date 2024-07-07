@@ -1,6 +1,6 @@
 id: 0fc2f234-b253-41b0-b7fc-76519b2e7e12
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 24
+parent_chapter: 0b36ba7b-9b95-4627-acb1-a2de3527b118
+text: Seguiremos aumentando durante la legislatura las pensiones mínimas y no contributivas por encima de la revalorización de las pensiones contributivas, hasta alcanzar la media europea.
 categories: Derechos y servicios sociales
 topics: Pensiones
-text: Seguiremos aumentando durante la legislatura las pensiones mínimas y no contributivas por encima de la revalorización de las pensiones contributivas, hasta alcanzar la media europea.

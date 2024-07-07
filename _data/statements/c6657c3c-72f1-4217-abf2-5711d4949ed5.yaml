@@ -1,6 +1,6 @@
 id: c6657c3c-72f1-4217-abf2-5711d4949ed5
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 263
+parent_chapter: 79744ba7-ffbb-40f2-b730-179f4a4aec89
+text: Continuaremos reforzando las relaciones con los países de América Latina y el Caribe. Pondremos al servicio de nuestros socios en Europa nuestra capacidad privilegiada de generar puentes entre la Unión Europea y América Latina y el Caribe como aliados naturales, llamados a asumir papeles activos en espacios multilaterales. La Cumbre UE-CELAC durante la Presidencia española de la UE será el punto de partida, y haremos de 2023 el año de Iberoamérica en Europa.
 categories: Política internacional
 topics: América latina
-text: Continuaremos reforzando las relaciones con los países de América Latina y el Caribe. Pondremos al servicio de nuestros socios en Europa nuestra capacidad privilegiada de generar puentes entre la Unión Europea y América Latina y el Caribe como aliados naturales, llamados a asumir papeles activos en espacios multilaterales. La Cumbre UE-CELAC durante la Presidencia española de la UE será el punto de partida, y haremos de 2023 el año de Iberoamérica en Europa.

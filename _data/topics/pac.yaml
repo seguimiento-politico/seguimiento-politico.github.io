@@ -1,0 +1,40 @@
+name: PAC
+other:
+- &id001
+  id: 2d410aaf-a3c1-4bb6-8ba1-dd07b2655d46
+  parties:
+  - CIUDADANOS
+- &id002
+  id: 4f3081c4-9358-4f26-ad3a-07f7bd333aa8
+  parties:
+  - PSOE
+- &id003
+  id: 0d876e70-6224-43be-89c6-37a84286f630
+  parties:
+  - PSOE
+- &id005
+  id: e6c2c1f9-7b27-4e4f-aec8-4b33b4c37c00
+  parties:
+  - VOX
+other_count: 4
+position_negative:
+- &id004
+  id: f94205f5-c802-49cc-8eb0-8b45a69c6a4e
+  parties:
+  - VOX
+position_negative_count: 1
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+statements_count: 5
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

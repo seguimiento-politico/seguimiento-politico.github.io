@@ -1,0 +1,48 @@
+id: 47981e9d-1330-44f9-abdd-3c054b10a812
+type: statement
+parent_document: a613c4b6-f9dc-4926-8b9a-b87c233e5a75
+parties:
+- VOX
+election_type: europeas
+election_date: '2024-06-09'
+publication_date: '2024-05-30'
+page: 18
+text: La coalición entre populares y socialistas en Europa ha sido una constante durante la pasada legislatura, siendo clave para la aprobación de normativas sectarias como las contenidas en el Pacto Verde Europeo, la Ley Europea del Clima, el Mecanismo de ajuste de las emisiones de carbono en frontera o el Reglamento de Control Pesquero. El mundo rural necesita soluciones y para ello es urgente que la Unión Europea se aleje del sectarismo al que nos tiene acostumbrados, y escuche y respete al mundo rural. <br><br> Como era previsible, estas medidas han supuesto también un duro mazazo para las industrias manufactureras más relevantes en España, como la agroalimentaria, la automovilística y la químico-farmacéutica, entre otras. La principal consecuencia de todo ello es la constante desaparición de puestos de trabajo y fábricas que llevan sosteniendo a miles de familias españolas durante siglos y han sido fundamentales para la fijación de la población al territorio, especialmente necesaria en el mundo rural.
+categories:
+- Comercio
+topics:
+- name: Unión Europea
+  status_quo_negative:
+  - text: es urgente que la Unión Europea se aleje del sectarismo al que nos tiene acostumbrados, y escuche y respete al mundo rural
+- name: Normativas europeas
+- name: PP
+  status_quo_negative:
+  - text: La coalición entre populares y socialistas en Europa ha sido una constante durante la pasada legislatura, siendo clave para la aprobación de normativas sectarias
+- name: PSOE
+  status_quo_negative:
+  - text: La coalición entre populares y socialistas en Europa ha sido una constante durante la pasada legislatura, siendo clave para la aprobación de normativas sectarias
+- name: Ecologismo
+- name: Cambio climático
+- name: Gases de efecto invernadero
+- name: Pacto verde europeo
+  position_negative:
+  - text: es una normativa sectaria influida por el ecologismo radical
+    deduction: true
+- name: Ley Europea del Clima
+  position_negative:
+  - text: es una normativa sectaria influida por el ecologismo radical
+    deduction: true
+- name: Control y reducción de emisiones
+  position_negative:
+  - text: es consecuencia normativas sectarias influidas por el ecologismo radical
+    deduction: true
+- name: Pesca
+- name: Reglamento de Control Pesquero
+  position_negative:
+  - text: es una normativa sectaria influida por el ecologismo radical
+- name: Trabajo
+- name: Deslocalización industrial
+  position_negative:
+  - text: desaparición de puestos de trabajo
+- name: Vehículo eléctrico
+- name: España vaciada

@@ -1,7 +1,6 @@
 id: baa1f2d9-b960-4d98-8a9d-0a92d6e9ad7f
 type: promise
-parent_statement: 3d80162d-d05b-4081-89a2-ec70a36d561d
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Derechos y servicios sociales
+parent_statement: 3d80162d-d05b-4081-89a2-ec70a36d561d
+parent_chapter: 6bea7d15-32ea-402e-8fad-42663ddea615
 text: Para ello es necesario realizar mejoras como incluir a las personas jóvenes de entre 18 y 23 años como potenciales beneficiarios de la prestación y garantizar que las menores de 30 años puedan acceder al IMV con los mismos requisitos que se exigen al resto de población adulta.
+categories: Derechos y servicios sociales

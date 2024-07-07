@@ -1,6 +1,6 @@
 id: f68f67ed-27e4-483d-94b9-7831785feb59
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,16 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 145
+parent_chapter: c794cb24-1c55-422f-8b6d-1ff29ad1ed87
+children_promises:
+- 81e5726e-a864-4fa6-9cd9-7e0cf6f5a6a9
+- c8d3e413-6775-4109-9020-35e654a2ac1b
+- d922b243-4058-4eef-8ef5-082ebd8c5dd6
+- b09d4727-51ed-45e3-89af-61e26b37d4a0
+- 076c7405-afd6-4f1d-9165-4b071770e22e
+- 3a558e8f-61d0-4b36-ac39-d2c5fdf3b982
+- 548023be-0b28-427c-8a17-4d9ce9ef218a
+children_statements: []
+title: Una política fiscal europea que ponga fin a los paraísos fiscales.
 categories: Política internacional
 topics: Europa
-title: Una política fiscal europea que ponga fin a los paraísos fiscales.
-has_children: true

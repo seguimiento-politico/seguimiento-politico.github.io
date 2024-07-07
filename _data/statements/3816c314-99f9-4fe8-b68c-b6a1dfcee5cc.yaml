@@ -1,11 +1,12 @@
 id: 3816c314-99f9-4fe8-b68c-b6a1dfcee5cc
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: y65
-categories: Cultura
+parent_chapter: 214f04bb-9ba4-4cc0-bfd1-0d934bbded7f
 text: Se desarrollará un Plan de Mejora de Museos, Archivos y Bibliotecas que incluya la adecuada dotación de recursos humanos y materiales, inversiones de restauración, modernización y ampliación de sedes así como el enriquecimiento de sus fondos.
+categories: Cultura

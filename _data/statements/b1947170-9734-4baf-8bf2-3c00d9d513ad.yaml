@@ -1,6 +1,6 @@
 id: b1947170-9734-4baf-8bf2-3c00d9d513ad
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 30
-categories: Consumo
+parent_chapter: e574f1f9-7f0c-4cdd-a7a0-9af3b6640de0
 text: Se aprobará la creación de la Autoridad de Protección del Cliente Financiero, con el fin de garantizar un procedimiento eficiente capaz de resolver los conflictos con el sector financiero y proteger a la ciudadanía. Por eso, impulsaremos una autoridad administrativa de protección que reúna y refuerce las funciones de reclamación actuales en el ámbito de entidades de crédito, de inversión y seguros.
+categories: Consumo

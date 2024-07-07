@@ -1,7 +1,6 @@
 id: c515ba3c-4563-4b84-a892-afcc76945e67
 type: promise
-parent_statement: b6beee68-4744-41ee-a7df-54bc6353b006
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: b6beee68-4744-41ee-a7df-54bc6353b006
+parent_chapter: c794cb24-1c55-422f-8b6d-1ff29ad1ed87
+text: Lucharemos por la reforma del Sistema Europeo de Bancos Centrales para facilitar una mayor participación de las instituciones representativas de la Unión Europea en el diseño e implementación de la política monetaria.
 categories: Política internacional
 topics: Europa
-text: Lucharemos por la reforma del Sistema Europeo de Bancos Centrales para facilitar una mayor participación de las instituciones representativas de la Unión Europea en el diseño e implementación de la política monetaria.

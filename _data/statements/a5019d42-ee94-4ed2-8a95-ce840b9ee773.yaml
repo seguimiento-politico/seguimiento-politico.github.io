@@ -1,7 +1,6 @@
 id: a5019d42-ee94-4ed2-8a95-ce840b9ee773
 type: promise
-parent_statement: ae7df6f4-9461-4621-9062-f5cc4481d530
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
+parent_statement: ae7df6f4-9461-4621-9062-f5cc4481d530
+parent_chapter: 80f33f13-c365-4098-ac18-6210795cdb15
+text: Apoyar a las empresas españolas incorporando como computable, en los criterios de evaluación de los concursos públicos, que la empresa tenga su sede y que tribute en España.
 categories:
 - Economía
-text: Apoyar a las empresas españolas incorporando como computable, en los criterios de evaluación de los concursos públicos, que la empresa tenga su sede y que tribute en España.

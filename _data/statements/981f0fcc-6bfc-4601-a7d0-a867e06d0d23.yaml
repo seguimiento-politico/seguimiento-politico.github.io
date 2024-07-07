@@ -1,6 +1,6 @@
 id: 981f0fcc-6bfc-4601-a7d0-a867e06d0d23
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 31
+parent_chapter: 9084fb76-14d5-4f08-b13b-74bd606de716
+children_promises:
+- 8b36bee0-cd28-4786-a7e9-1848834285e3
+children_statements: []
+title: Crearemos una plataforma digital pública de factura electrónica
 categories: Empresas y autónomos
 topics: Digitalización
-title: Crearemos una plataforma digital pública de factura electrónica
-has_children: true

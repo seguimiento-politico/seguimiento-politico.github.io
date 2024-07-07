@@ -1,6 +1,6 @@
 id: 74d2b2ec-418e-4753-b895-6d05fb0afc92
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 124
-categories: Justicia
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
+children_promises:
+- 1b46c418-97fc-4f15-96f6-0be9aec45115
+- f8e46719-dd8f-422d-82a4-98e9cf86e22d
+- 98cf92ec-ecf6-45cd-98b2-9efd1a4bce41
+- 2d46a539-44a8-44dd-8469-71364c35784c
+children_statements:
+- 35297edc-7712-44e5-a35c-fb85ce165923
 title: Mejoraremos la atención a las víctimas mediante la implantación de servicios de justicia restaurativa de carácter público y universal en todas las fases del proceso penal.
-has_children: true
+categories: Justicia

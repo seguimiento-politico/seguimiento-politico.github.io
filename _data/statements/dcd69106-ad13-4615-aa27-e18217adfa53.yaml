@@ -1,6 +1,6 @@
 id: dcd69106-ad13-4615-aa27-e18217adfa53
-type: declaration
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+type: statement
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 17
-categories: Sanidad
+parent_chapter: 76f5a4bd-043f-422d-98a0-fecfe8c46fdf
 text: China es el responsable de la expansión del virus de Wuhan a nivel mundial y debe pagar las consecuencias de sus irresponsabilidades. El gobierno comunista ocultó los datos al resto del mundo e impide que las autoridades internacionales investiguen el origen de la pandemia.
+categories: Sanidad

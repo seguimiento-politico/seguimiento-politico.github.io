@@ -1,6 +1,6 @@
 id: a26ac9f6-cfa9-47ee-99ff-d9c107bbc5ee
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 75
+parent_chapter: ef0bb89b-1b90-4682-a618-d8eea7201020
 title: Hacer realmente estables los contratos indefinidos.
 text: Un 40 % de los contratos indefinidos se extinguen antes de un año. No basta con llamarlos «indefinidos», hay que hacerlos estables y, para eso, proponemos distintas medidas, que se resumen en la derogación del conjunto de las dos reformas laborales, de Zapatero y de Rajoy, que precarizaron el contrato fijo facilitando las distintas modalidades de despido y abaratando su coste En particular, estableceremos una regulación clara y adecuada a la coyuntura de qué circunstancias económicas justifican el despido objetivo

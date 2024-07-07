@@ -1,7 +1,6 @@
 id: 5ef08f57-0ebe-4590-ae9d-c3ef7ff1eec3
 type: promise
-parent_statement: 26104b48-9111-449c-988f-6aa560b9e8fa
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Vivienda
+parent_statement: 26104b48-9111-449c-988f-6aa560b9e8fa
+parent_chapter: 10dbdb5a-3231-46ed-86c9-0dc18f77040e
 text: Adicionalmente, reformaremos el sistema de incentivos fiscales de la Ley de Vivienda, beneficiando fiscalmente solo a los propietarios que alquilen sus viviendas al precio igual o por debajo del índice de referencia, establecido en función del 30% de los ingresos de los hogares que alquilan.
+categories: Vivienda

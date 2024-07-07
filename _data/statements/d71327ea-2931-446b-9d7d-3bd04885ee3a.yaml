@@ -1,7 +1,6 @@
 id: d71327ea-2931-446b-9d7d-3bd04885ee3a
 type: promise
-parent_statement: ea97541b-4bf0-496e-a118-2c49f232a710
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Seguridad y defensa
+parent_statement: ea97541b-4bf0-496e-a118-2c49f232a710
+parent_chapter: 66b190ef-617c-438a-adf3-a3c9f707719b
 text: Se modificará la «ley mordaza» y se establecerán protocolos más estrictos y menos ambiguos, registro sistemático y publicación abierta y rápida de los datos, así como mejor formación en este ámbito para evaluar y evitar el uso sesgado de este poder policial.
+categories: Seguridad y defensa

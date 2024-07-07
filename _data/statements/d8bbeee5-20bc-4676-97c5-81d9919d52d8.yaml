@@ -1,7 +1,6 @@
 id: d8bbeee5-20bc-4676-97c5-81d9919d52d8
 type: promise
-parent_statement: 6ba7b810-9dad-11d1-80b4-00c04fd430c8
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Trabajo
+parent_statement: 6ba7b810-9dad-11d1-80b4-00c04fd430c8
+parent_chapter: 82855f00-cceb-4e47-9e09-9d8348f7eecf
 text: 'Establecer criterios sociales relacionados con el empleo de calidad en la contratación pública. 1) Regular los criterios para la acreditación de empresas y los pliegos de condiciones. Garan tizar la participación sindical en la elaboración de los pliegos de condiciones y en la adjudi cación de los contratos. Introducción de cláusulas sociales en materias como: empleo, salud laboral, medio ambiente, políticas de igualdad, subcontratación, revisión de precios, entre otras. 2) Introducir el concepto de solvencia social, previamente a la adjudicación, tanto como cri terio para la clasificación de empresas, como para las cláusulas de todos los pliegos de con diciones, con referencias a la obligación de cumplimiento de la normativa laboral general y el convenio colectivo de referencia. 3) Introducir el concepto de insolvencia social sobrevenida; en caso de incumplimiento rei terado de los requisitos de empleo, se resolverá anticipadamente la adjudicación. 4) Introducir el concepto de baja temeraria social: en los casos en los que una oferta no con temple el cumplimiento de la normativa laboral o el convenio colectivo de referencia, consti tuirá causa para la desestimación de la oferta. '
+categories: Trabajo

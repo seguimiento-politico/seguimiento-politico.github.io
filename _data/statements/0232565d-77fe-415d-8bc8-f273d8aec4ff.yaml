@@ -1,6 +1,6 @@
 id: 0232565d-77fe-415d-8bc8-f273d8aec4ff
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 102
+parent_chapter: f8348ef6-75be-45f5-9b64-97ad1de424bc
+text: Exigencia ante la Unión Europea de creación de plataformas seguras de desembarco en territorios no europeos gestionados por la propia Unión para evaluar las solicitudes de asilo y reparto equitativo solo de los que tengan derecho en los 27 países miembros así como para la gestión eficaz del retorno de inmigrantes ilegales, supeditando los acuerdos de cooperación a la voluntad de repatriación de los estados de origen.
 categories:
 - Migración
-text: Exigencia ante la Unión Europea de creación de plataformas seguras de desembarco en territorios no europeos gestionados por la propia Unión para evaluar las solicitudes de asilo y reparto equitativo solo de los que tengan derecho en los 27 países miembros así como para la gestión eficaz del retorno de inmigrantes ilegales, supeditando los acuerdos de cooperación a la voluntad de repatriación de los estados de origen.

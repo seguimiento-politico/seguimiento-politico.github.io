@@ -1,6 +1,6 @@
 id: ce8734aa-9f14-4168-813c-e7d56c9e9f77
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,9 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 60
+parent_chapter: 96f08000-98a6-4e52-8e39-fe555ca37269
+children_promises:
+- 867f46ba-287c-40fd-8779-a3435619dd3b
+children_statements: []
+title: Impulsaremos los cinco ejes de actuación del PERTE de la Nueva Economía de la Lengua en infraestructuras lingüísticas para nuestras lenguas oficiales
 categories: Economía
 topics:
 - Digitalización
 - Lenguas
-title: Impulsaremos los cinco ejes de actuación del PERTE de la Nueva Economía de la Lengua en infraestructuras lingüísticas para nuestras lenguas oficiales
-has_children: true

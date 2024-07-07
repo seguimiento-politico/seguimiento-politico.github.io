@@ -1,6 +1,6 @@
 id: 6bfd843d-329f-47f7-ad39-e5873e9fb042
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 72
-categories: Urbanismo y ciudades
+parent_chapter: da4a5e62-c6b6-45b0-a08b-611f6d470a08
+children_promises:
+- d855dcfd-d5b7-49e6-aecc-5f01e4e92b0a
+- d9d03dee-01cf-4270-9490-af0ffd512a7c
+- 4c38aa47-f5fe-4eed-abf0-52dcd40328fc
+- dc128e16-64ac-4a54-be34-f3c17ced69e9
+children_statements: []
 title: Creación de un programa estatal para los barrios vulnerables.
-has_children: true
+categories: Urbanismo y ciudades

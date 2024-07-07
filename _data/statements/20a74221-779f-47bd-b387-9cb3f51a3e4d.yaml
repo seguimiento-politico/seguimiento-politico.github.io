@@ -1,6 +1,6 @@
 id: 20a74221-779f-47bd-b387-9cb3f51a3e4d
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 100
+parent_chapter: 4b1a1fd6-83f2-4e8c-a775-7e65f72f50be
 title: Reforzar la Educación Física y el acceso al deporte.
 text: Esta asignatura recuperará su condición troncal y se incorporará al bachillerato En coordinación con las demás Administraciones, impulsaremos también programaciones deportivas en los centros públicos, en las que deberá haber una proporción de actividades gratuitas que permitan a niños, niñas, adolescentes y jóvenes practicar deporte al menos tres veces a la semana de manera gratuita. Implantaremos planes específicos en las zonas rurales y en aquellas con mayor desigualdad social

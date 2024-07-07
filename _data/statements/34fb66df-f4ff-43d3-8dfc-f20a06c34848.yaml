@@ -1,6 +1,6 @@
 id: 34fb66df-f4ff-43d3-8dfc-f20a06c34848
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 84
+parent_chapter: 6604cb67-3c4b-400f-93dd-33c3d4ed6735
+text: Impulsaremos las medidas que permitan alcanzar la neutralidad en emisiones de CO2 de las infraestructuras del transporte, mediante la construcción de plantas fotovoltaicas e infraestructuras de recarga eléctrica.
 categories: Transporte
 topics: Transporte aéreo
-text: Impulsaremos las medidas que permitan alcanzar la neutralidad en emisiones de CO2 de las infraestructuras del transporte, mediante la construcción de plantas fotovoltaicas e infraestructuras de recarga eléctrica.

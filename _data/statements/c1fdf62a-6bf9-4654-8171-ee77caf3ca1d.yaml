@@ -1,6 +1,6 @@
 id: c1fdf62a-6bf9-4654-8171-ee77caf3ca1d
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 247
+parent_chapter: 042ffd53-350e-453d-9537-b5b1b9ca5932
+text: Institucionalizaremos los ejercicios de rendición de cuentas, como la iniciativa Cumpliendo o la presentación anual del Plan Anual Normativo, y de su evaluación, de modo que resulte obligatorio ofrecer a las Cortes Generales y a la ciudadanía una explicación y evaluación sistemática y coherente de la acción de gobierno en línea con los compromisos adquiridos.
 categories: Democracia
 topics: Gobernanza y transparencia
-text: Institucionalizaremos los ejercicios de rendición de cuentas, como la iniciativa Cumpliendo o la presentación anual del Plan Anual Normativo, y de su evaluación, de modo que resulte obligatorio ofrecer a las Cortes Generales y a la ciudadanía una explicación y evaluación sistemática y coherente de la acción de gobierno en línea con los compromisos adquiridos.

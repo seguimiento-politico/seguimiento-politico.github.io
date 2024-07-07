@@ -1,6 +1,6 @@
 id: d275ea51-9bb2-4fdc-a1f9-aeb6944c28d5
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 76
+parent_chapter: ef0bb89b-1b90-4682-a618-d8eea7201020
 title: En el modelo actual, hay un desajuste entre los ingresos realmente obtenidos por las personas que trabajan como autónomas y sus cotizaciones sociales, que perjudica, sobre todo, a las más precarias No hay que olvidar que la tasa de pobreza entre las personas que trabajan como autónomas triplica en España la de quienes trabajan por cuenta ajena Por ello, es urgente atender la situación de estas personas, que deben cotizar solo por los rendimientos que realmente obtengan y no con la desproporción actual
 text: Establecer cuotas justas para las y los autónomos.

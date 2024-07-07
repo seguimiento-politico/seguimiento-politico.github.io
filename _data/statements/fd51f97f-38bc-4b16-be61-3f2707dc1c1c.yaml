@@ -1,6 +1,6 @@
 id: fd51f97f-38bc-4b16-be61-3f2707dc1c1c
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Derechos y servicios sociales
+parent_chapter: 367a0310-04bf-4fcb-9f99-8b230bf8abaa
 text: 'España está hoy más cohesionada, unida e integrada que en 2018. Entre el segundo semestre de 2017 y el primero de 2018, nuestro país sufrió una grave crisis constitucional motivada por el proceso independentista en Cataluña. La división se trasladó desde las instituciones a las calles y generó una fractura social y emocional cuyos efectos se sintieron en buena parte de los sectores que componen la sociedad catalana.<br> En estos años, el Gobierno socialista ha afrontado con valentía el grave conflicto que se generó durante el gobierno del PP en España, y ha trabajado para recuperar la convivencia y construir un proyecto de país en el que tengan cabida todos los territorios. <br><br>Solo el tiempo permitirá valorar con justicia el éxito alcanzado: se ha superado la situación de ruptura que existía hace cinco años y el número de personas contrarias al marco constitucional ha descendido de manera abrupta en Cataluña, tal y como demuestran las encuestas realizadas por distintos organismos, como el Centre d’Estudis d’Opinió de la Generalitat de Catalunya.<br> Así pues, el verdadero desafío que afrontamos las y los socialistas permanece: consolidar la cohesión territorial como principio estructural de toda la acción política., que garantice la adecuada integración de los territorios en una España plural. La derecha trata de patrimonializar los símbolos comunes e imponer una idea de España en la que solo caben ellos, promoviendo el enfrentamiento de unos territorios con otros. La derecha y la extrema derecha quieren hacernos olvidar que han sido gobiernos socialistas los que han logrado poner fin a los grandes desafíos independentistas, como fue el caso de la derrota de la banda terrorista ETA, posible gracias a la decidida acción del Gobierno de José Luis Rodríguez Zapatero. <br><br> Y mientras ellos continúan con sus críticas desmedidas y su estrategia de deslegitimación de las instituciones democráticas, somos los y las socialistas quienes día a día fortalecemos la unidad y la cohesión territorial en España. El PSOE ha trabajado, trabaja y trabajará para avanzar en la integración y en la cohesión territorial que, de la mano de la cohesión social, garantice la convivencia y la concordia entre toda la ciudadanía española y españolas.'
+categories: Derechos y servicios sociales

@@ -1,6 +1,6 @@
 id: 34151bbd-35ca-4d4c-bde9-1765ea995c6b
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 23
+parent_chapter: 3af136f2-79a9-420c-af0c-d9d97743494c
+children_promises:
+- 3f843e56-a891-4ddb-88d5-04ee6076d902
+- 5b4067b9-63ab-42e2-9002-fe186757cae1
+- b3ba71af-4b74-4120-9515-265d54fe3fcd
+children_statements: []
+title: Fomentar bilateralidad internacional y cristianismo
 categories:
 - Política internacional
-title: Fomentar bilateralidad internacional y cristianismo
-has_children: true

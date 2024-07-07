@@ -1,7 +1,6 @@
 id: 18fc20b6-d7d3-4a3c-951d-81d91a307f6e
 type: promise
-parent_statement: 728a4a48-4508-412e-9b1b-c9ce0a8e0dd9
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 728a4a48-4508-412e-9b1b-c9ce0a8e0dd9
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+text: Se tomarán medidas para fortalecer tanto el Observatorio de Igualdad, dependiente del Instituto de las Mujeres, como el Observatorio Estatal de Violencia sobre la Mujer.
 categories: Democracia
 topics: Igualdad
-text: Se tomarán medidas para fortalecer tanto el Observatorio de Igualdad, dependiente del Instituto de las Mujeres, como el Observatorio Estatal de Violencia sobre la Mujer.

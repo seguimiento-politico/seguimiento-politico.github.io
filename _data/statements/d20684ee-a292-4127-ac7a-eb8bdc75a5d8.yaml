@@ -1,6 +1,6 @@
 id: d20684ee-a292-4127-ac7a-eb8bdc75a5d8
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,7 +8,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 58
-categories: Derechos y servicios sociales
-topics: Ciudados y dependencia
+parent_chapter: fe1ddaf6-59e0-47ee-bda3-193d9d6d6150
 title: IMPULSAREMOS LA INCLUSIÓN Y PARTICIPACIÓN SOCIAL DE LAS PERSONAS MAYORES EN LA COMUNIDAD.
 text: Promoveremos el Envejecimiento Activo a través de programas de fomento de la autonomía de las personas mayores en su entorno habitual, la práctica deportiva y cultural, y los hábitos de vida saludable.
+categories: Derechos y servicios sociales
+topics: Ciudados y dependencia

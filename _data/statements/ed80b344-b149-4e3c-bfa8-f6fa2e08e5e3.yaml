@@ -1,6 +1,6 @@
 id: ed80b344-b149-4e3c-bfa8-f6fa2e08e5e3
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 29
+parent_chapter: de85e0ef-5ecc-4ca0-89b4-a741503b7353
+children_promises:
+- 5dd16dd8-f254-4798-a957-f0c6190ad73e
+children_statements: []
+title: Pondremos en marcha la Agencia Española de Supervisión de la Inteligencia Artificial
 categories: Economía
 topics: Digitalización
-title: Pondremos en marcha la Agencia Española de Supervisión de la Inteligencia Artificial
-has_children: true

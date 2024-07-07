@@ -1,6 +1,6 @@
 id: c28c6f4d-6529-439c-a0d4-86f15b66f309
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,15 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 125
-categories: Justicia
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
+children_promises:
+- c1a696a1-8cf6-40d4-826a-00292752a97c
+- 6b310035-5756-4a8a-b940-45614c10d833
+- a8590ae4-63c3-40f7-8645-7da04a68075c
+- b2f891c0-4806-48f7-ac5c-faefd54ca228
+- 95c47f8f-ef83-46c4-ab31-2afe50471a8e
+- ab6d526d-e0f9-4613-a490-69064a580367
+children_statements:
+- 5ff27992-62eb-4bb3-b5d4-facc35cea1b9
 title: Adaptación de la justicia a la estructura descentralizada y compuesta del Estado y aseguración de la coordinación multinivel
-has_children: true
+categories: Justicia

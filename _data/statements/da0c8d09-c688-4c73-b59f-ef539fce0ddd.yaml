@@ -1,6 +1,6 @@
 id: da0c8d09-c688-4c73-b59f-ef539fce0ddd
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 93
+parent_chapter: 4b1a1fd6-83f2-4e8c-a775-7e65f72f50be
 title: Romper el círculo de la pobreza infantil.
 text: Prestación para el cuidado de niños, niñas y adolescentes. (Véase el apartado «Horizonte Morado y Economía de los Cuidados»)

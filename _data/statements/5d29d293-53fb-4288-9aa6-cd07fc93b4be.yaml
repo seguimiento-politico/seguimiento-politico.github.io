@@ -1,7 +1,6 @@
 id: 5d29d293-53fb-4288-9aa6-cd07fc93b4be
 type: promise
-parent_statement: 74929ebc-220e-4269-ac9d-f4aee8e2ce82
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,6 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 155
+parent_statement: 74929ebc-220e-4269-ac9d-f4aee8e2ce82
+parent_chapter: b4d1ed09-83dc-408f-a777-fc5670b54d39
+text: Se tendrán en cuenta las particularidades de las mujeres con discapacidad, las mujeres migrantes, la dispersión territorial de los recursos, o cualquier otra condición que suponga más dificultades para el acceso y la atención de los servicios especializados.
 categories: Seguridad y defensa
 topics: Violencia de género
-text: Se tendrán en cuenta las particularidades de las mujeres con discapacidad, las mujeres migrantes, la dispersión territorial de los recursos, o cualquier otra condición que suponga más dificultades para el acceso y la atención de los servicios especializados.

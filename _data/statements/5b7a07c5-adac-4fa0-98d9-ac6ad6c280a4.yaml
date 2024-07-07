@@ -1,6 +1,6 @@
 id: 5b7a07c5-adac-4fa0-98d9-ac6ad6c280a4
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 38
+parent_chapter: a8d92f12-ec43-40d7-a048-97faa73e2d17
+text: Desarrollaremos políticas activas de educación y prevención de embarazos no deseados, a través de campañas informativas a nivel general, y de forma específica, a través de programas educativos acordados con las comunidades autónomas, dirigidos a la juventud.
 categories: Derechos y servicios sociales
 topics: Derechos sexuales y reproductivos
-text: Desarrollaremos políticas activas de educación y prevención de embarazos no deseados, a través de campañas informativas a nivel general, y de forma específica, a través de programas educativos acordados con las comunidades autónomas, dirigidos a la juventud.

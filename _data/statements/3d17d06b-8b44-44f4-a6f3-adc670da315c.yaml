@@ -1,6 +1,6 @@
 id: 3d17d06b-8b44-44f4-a6f3-adc670da315c
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 60
+parent_chapter: de18231f-ea27-483e-81a9-f51977d7f26c
 title: Crear una circunscripción electoral exterior para hacer oír la voz de quienes viven fuera.
 text: Al mismo tiempo que se impide el voto de nuestros y nuestras compatriotas que viven fuera con el endiablado sistema del voto rogado, para los 2,5 millones de españoles y españolas en el extranjero no existe un canal parlamentario a través del cual puedan hacer valer sus demandas concretas Por eso, crearemos una circunscripción para quienes viven en el exterior, con la representación política proporcional a su número

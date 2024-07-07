@@ -1,6 +1,6 @@
 id: eb371a73-aa96-4f63-96bd-6eb9cd700c15
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,8 +9,11 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 16
+parent_chapter: ab7164cc-742b-48cf-adce-57d74cf0621d
+children_promises:
+- a90d9481-4963-4a45-93a6-b26a23b46594
+children_statements: []
+title: Sistema de becas
 categories:
 - Educación
 - Cultura
-title: Sistema de becas
-has_children: true

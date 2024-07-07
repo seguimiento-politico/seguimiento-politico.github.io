@@ -1,7 +1,6 @@
 id: 8821fd13-007c-44e8-920f-04614054de41
 type: promise
-parent_statement: 03217f10-b71d-4d3d-aaa2-90a1fb270137
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,6 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 183
+parent_statement: 03217f10-b71d-4d3d-aaa2-90a1fb270137
+parent_chapter: fcea311b-9398-4add-991e-0a0824dc5547
+text: Extender el servicio de comedor escolar a centros de educación infantil y secundaria priorizando los ámbitos territoriales con menor nivel de renta.
 categories: Sanidad
 topics: Infancia
-text: Extender el servicio de comedor escolar a centros de educación infantil y secundaria priorizando los ámbitos territoriales con menor nivel de renta.

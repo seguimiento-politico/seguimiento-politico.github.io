@@ -1,6 +1,6 @@
 id: 53d84906-7840-4670-a4dc-2ea2986ac0f6
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 138
+parent_chapter: 06f60321-d51f-4fe2-ab07-79be1c0a9b4e
+text: Proposición no de Ley relativa al desarrollo urgente de proyectos de conexión gasista de España con el resto de Europa, con el objeto de fortalecer la posición nacional como exportador de gas, reforzando asimismo la seguridad de suministro de España y de Europa (mayo 2022).
 categories:
 - Política internacional
-text: Proposición no de Ley relativa al desarrollo urgente de proyectos de conexión gasista de España con el resto de Europa, con el objeto de fortalecer la posición nacional como exportador de gas, reforzando asimismo la seguridad de suministro de España y de Europa (mayo 2022).

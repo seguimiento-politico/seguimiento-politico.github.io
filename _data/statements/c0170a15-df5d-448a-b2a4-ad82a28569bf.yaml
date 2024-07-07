@@ -1,6 +1,6 @@
 id: c0170a15-df5d-448a-b2a4-ad82a28569bf
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 33
+parent_chapter: 67b24183-2dae-435d-bba9-9afbacb01267
+text: Aprobaremos una Ley contra la Discriminación de las Personas LGBTI, incluyendo la prohibición a nivel nacional de las llamadas terapias de reversión.
 categories: Derechos y servicios sociales
 topics: Igualdad
-text: Aprobaremos una Ley contra la Discriminación de las Personas LGBTI, incluyendo la prohibición a nivel nacional de las llamadas terapias de reversión.

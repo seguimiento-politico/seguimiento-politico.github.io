@@ -1,7 +1,6 @@
 id: 004c650c-7f65-4589-9101-1d0e90d15620
-type: declaration
-parent_statement: 716fb8cc-e79b-4244-84c5-89a90579d593
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Seguridad y defensa
+parent_statement: 716fb8cc-e79b-4244-84c5-89a90579d593
+parent_chapter: 66b190ef-617c-438a-adf3-a3c9f707719b
 text: No podemos decir que la seguridad ciudadana es la garantía de los derechos fundamentales si la usamos como excusa para restringirlos excesivamente.
+categories: Seguridad y defensa

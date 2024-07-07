@@ -1,7 +1,6 @@
 id: f8157da5-f372-43d4-a1b3-d2b27fd4486e
 type: promise
-parent_statement: 4a477736-3e5a-4efc-bce3-305e85a222dd
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +8,10 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: 4a477736-3e5a-4efc-bce3-305e85a222dd
+parent_chapter: 1d4a4787-163e-4649-b875-f97fd3780649
+text: Reforzaremos el buen estatus sanitario de las producciones agrarias españolas, con medidas de prevención y control.
 categories:
 - Agricultura
 - Ganadaría
 topics: Desarrollo sostenible
-text: Reforzaremos el buen estatus sanitario de las producciones agrarias españolas, con medidas de prevención y control.

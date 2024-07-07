@@ -1,0 +1,20 @@
+name: Alimentación saludable
+other: []
+other_count: 0
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions:
+- &id001
+  id: 2ed91718-a78d-4e5c-bd6a-400cd785b9ef
+  parties:
+  - VOX
+proposed_actions_count: 1
+statements:
+- *id001
+statements_count: 1
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

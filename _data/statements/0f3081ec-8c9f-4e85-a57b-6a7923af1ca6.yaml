@@ -1,6 +1,6 @@
 id: 0f3081ec-8c9f-4e85-a57b-6a7923af1ca6
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 201
-categories: Sanidad
+parent_chapter: f62480b0-03b4-4850-8de6-d9a3854f3169
 text: Impulsaremos en el Congreso de los Diputados una Ley de donantes vivos.
+categories: Sanidad

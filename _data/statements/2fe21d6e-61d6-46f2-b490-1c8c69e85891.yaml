@@ -1,11 +1,12 @@
 id: 2fe21d6e-61d6-46f2-b490-1c8c69e85891
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 94
-categories: Derechos y servicios sociales
+parent_chapter: dd0d4db9-aadc-4c8a-9257-70615a65efb2
 text: Reforzaremos la lucha contra la explotación sexual en nuestros municipios.
+categories: Derechos y servicios sociales

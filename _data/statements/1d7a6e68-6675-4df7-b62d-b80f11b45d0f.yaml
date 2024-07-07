@@ -1,12 +1,13 @@
 id: 1d7a6e68-6675-4df7-b62d-b80f11b45d0f
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 17
+parent_chapter: b019b40e-f2ac-4d25-bf11-14a963b4bdaf
+text: Haremos compatible la percepción de un porcentaje ascendiente de la pensión de jubilación con el desarrollo de una actividad laboral o profesional ya sea ésta por cuenta propia o por cuenta ajena, con acuerdo de su empleador.
 categories:
 - Impuestos y financiación pública
-text: Haremos compatible la percepción de un porcentaje ascendiente de la pensión de jubilación con el desarrollo de una actividad laboral o profesional ya sea ésta por cuenta propia o por cuenta ajena, con acuerdo de su empleador.

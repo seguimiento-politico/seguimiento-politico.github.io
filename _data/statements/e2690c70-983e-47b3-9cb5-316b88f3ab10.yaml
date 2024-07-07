@@ -1,6 +1,6 @@
 id: e2690c70-983e-47b3-9cb5-316b88f3ab10
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 38
-categories: Impuestos y financiación pública
+parent_chapter: e8d5c618-2425-492e-9784-205fd8c32426
 text: Continuaremos auspiciando, a nivel internacional y en la Unión Europea, el establecimiento de una tributación mínima suficiente en el Impuesto sobre Sociedades y una justa distribución de la recaudación entre los países en los que operan los grupos transnacionales. Del mismo modo promoveremos la adopción de med  idas para evitar la elusión y la evasión fiscales que realizan los grandes grupos económicos y los grandes patrimonios.
+categories: Impuestos y financiación pública

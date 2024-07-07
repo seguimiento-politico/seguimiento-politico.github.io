@@ -1,6 +1,6 @@
 id: 795a55b0-25cb-44db-bdbb-79056bff8312
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 103
-categories: Educación
+parent_chapter: 5585dd33-5392-46fa-9bb2-eac969b03a0e
 text: Ampliaremos el derecho a la formación y el aprendizaje a lo largo de toda la vida, universalizando la escolarización de 0 a 18 años, no mediante la obligatoriedad sino promoviendo de forma gradual una oferta suficiente de plazas públicas gratuitas, tanto de escuelas infantiles para niños de 0 a 3 años, como de formación profesional, junto a un esquema de garantía formativa 16-18 que ayude a reducir el abandono temprano y refuerce la igualdad de oportunidades en las zonas rurales y en los barrios urbanos más vulnerables.
+categories: Educación

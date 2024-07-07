@@ -1,6 +1,6 @@
 id: bfcae1f8-4ece-414a-9754-23f2cc32b3dd
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 56
-categories: Sanidad
+parent_chapter: befa4347-5ac5-4c3d-853b-7fc9b83921e6
 text: Implementaremos un verdadero Sistema Nacional de Salud mediante la recuperación de las competencias en materia sanitaria transferidas a las regiones, con el fin de establecer un sistema único, igual y de calidad en toda España y para todos los españoles.
+categories: Sanidad

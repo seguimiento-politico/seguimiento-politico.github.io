@@ -1,6 +1,6 @@
 id: dc92e6f0-b8d9-4309-97c2-6618c8cfc06b
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 31
+parent_chapter: 9084fb76-14d5-4f08-b13b-74bd606de716
+children_promises:
+- cddec481-8705-4a98-9e3a-46841a58daa5
+children_statements: []
+title: Desarrollaremos todos los mecanismos e instrumentos de la Ley de Startups
 categories: Empresas y autónomos
 topics: Emprendimiento
-title: Desarrollaremos todos los mecanismos e instrumentos de la Ley de Startups
-has_children: true

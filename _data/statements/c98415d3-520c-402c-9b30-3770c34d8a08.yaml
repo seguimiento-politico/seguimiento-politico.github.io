@@ -1,0 +1,32 @@
+id: c98415d3-520c-402c-9b30-3770c34d8a08
+type: statement
+parent_document: a613c4b6-f9dc-4926-8b9a-b87c233e5a75
+parties:
+- VOX
+election_type: europeas
+election_date: '2024-06-09'
+publication_date: '2024-05-30'
+page: 24
+text: Ya es hora de que los españoles decidan sobre el modelo energético de España. No podemos seguir en manos de quienes pretenden imponer ideologías o de quienes son ajenos a los intereses nacionales. Para garantizar el acceso de las familias y de los sectores productivos a una energía limpia y barata, se hace más necesaria que nunca la fuerza de VOX en el Parlamento Europeo para poner las instituciones de la UE al servicio de las Naciones y sus compatriotas y no al de unas élites alejadas de su realidad diaria.
+categories:
+- Energía
+topics:
+- name: Energía
+- name: Calidad democrática
+  position_negative:
+  - text: Ya es hora de que los españoles decidan sobre el modelo energético de España.
+  - text: No podemos seguir en manos de quienes pretenden imponer ideologías o de quienes son ajenos a los intereses nacionales.
+- name: Modelo energético
+  position_negative:
+  - text: Ya es hora de que los españoles decidan sobre el modelo energético de España.
+  - text: No podemos seguir en manos de quienes pretenden imponer ideologías o de quienes son ajenos a los intereses nacionales.
+- name: Soberanía nacional
+  status_quo_negative:
+  - text: Ya es hora de que los españoles decidan sobre el modelo energético de España. No podemos seguir en manos de quienes pretenden imponer ideologías o de quienes son ajenos a los intereses nacionales.
+- name: Energía limpia
+  position_positive: null
+- name: Energía barata
+  position_positive: null
+- name: Nacionalismo
+- name: Elitismo
+- name: Ecología

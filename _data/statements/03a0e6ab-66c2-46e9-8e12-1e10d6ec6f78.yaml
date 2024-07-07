@@ -1,7 +1,6 @@
 id: 03a0e6ab-66c2-46e9-8e12-1e10d6ec6f78
 type: promise
-parent_statement: 799c9f06-15cd-4839-abd3-e65851d6ccb9
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 799c9f06-15cd-4839-abd3-e65851d6ccb9
+parent_chapter: 5ac453aa-319d-4ea3-b4b6-7a63e3dde3ff
+text: Esta ley abordará aspectos como la obligatoriedad de la atención personalizada, gratuita y accesible, los tiempos de espera, los plazos de respuesta o el seguimiento del estado de las quejas y sugerencias.
 categories: Consumo
 topics: Consumo sostenible
-text: Esta ley abordará aspectos como la obligatoriedad de la atención personalizada, gratuita y accesible, los tiempos de espera, los plazos de respuesta o el seguimiento del estado de las quejas y sugerencias.

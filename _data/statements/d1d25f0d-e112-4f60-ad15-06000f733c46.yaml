@@ -1,6 +1,6 @@
 id: d1d25f0d-e112-4f60-ad15-06000f733c46
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 69
+parent_chapter: 7d3df58a-3293-4f26-b114-1a8c3838af87
+children_promises:
+- 00993f70-0101-4f1a-ad28-de9d4d7a5c2f
+- 8e1b7b17-063b-4f92-a933-e6660726921e
+- 6742b1ce-e6bc-4772-a7ea-8e7f4858df11
+children_statements: []
+title: Inclusión de dietistas-nutricionistas en los sistemas públicos de salud y formación en alimentación de los profesionales de la salud
 categories: Consumo
 topics: Alimentación saludable
-title: Inclusión de dietistas-nutricionistas en los sistemas públicos de salud y formación en alimentación de los profesionales de la salud
-has_children: true

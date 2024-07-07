@@ -1,7 +1,6 @@
 id: f11d4d3c-d4f0-4bff-a5c0-26a00aa2b447
 type: promise
-parent_statement: f16e43fa-26a1-4742-bf4e-b7fd741ed577
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: f16e43fa-26a1-4742-bf4e-b7fd741ed577
+parent_chapter: 5ac453aa-319d-4ea3-b4b6-7a63e3dde3ff
+text: De igual manera, se incentivará a aquellas empresas que presenten planes de sostenibilidad medioambiental sólidos y una política de compras que aseguren ingresos suficientes para los proveedores, corresponsabilidad en la relación comercial e información pública sobre sus prácticas de compra responsable.
 categories: Consumo
 topics: Consumo sostenible
-text: De igual manera, se incentivará a aquellas empresas que presenten planes de sostenibilidad medioambiental sólidos y una política de compras que aseguren ingresos suficientes para los proveedores, corresponsabilidad en la relación comercial e información pública sobre sus prácticas de compra responsable.

@@ -1,6 +1,6 @@
 id: 85f6e45f-4eda-4b9f-b72d-90054208f407
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 10
+parent_chapter: 14cfe70b-f6b5-4003-88f7-02a877dec28f
 text: Recuperar automáticamente la gestión pública de las centrales hidroeléctricas cuyas concesiones para la explotación privada hayan caducado o lo hagan en el futuro. Esto permite complementar la producción eléctrica cuando otras tecnologías renovables tengan valles, proteger la salud ecológica de nuestros ríos y garantizar el riego, el control de las crecidas y el suministro de agua potable sin que interfieran intereses económicos espurios, así como compensar a los territorios que soportan las centrales y sufren las consecuencias de la desigualdad territorial de nuestro país La empresa pública de energía asumirá la explotación de las centrales hidroeléctricas cuyas concesiones vayan caducando

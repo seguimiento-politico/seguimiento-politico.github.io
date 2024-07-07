@@ -1,6 +1,6 @@
 id: 5c3426c4-e5d7-4e4b-96ed-ab82a56fca9c
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 89
+parent_chapter: cd71fb88-1658-464b-8b3b-71c7ee02927f
+text: Avanzaremos la implementación de los planes de ordenación del espacio marino en un marco de participación y de búsqueda de consenso que permitan compatibilizar las actividades económicas que propician el desarrollo local con la preservación de los ecosistemas que alimentan ese desarrollo. Avanzaremos en su implementación en un marco de participación y de búsqueda de consenso.
 categories: Medioambiente
 topics:
 - Cambio climático
 - Gestión de riesgos
-text: Avanzaremos la implementación de los planes de ordenación del espacio marino en un marco de participación y de búsqueda de consenso que permitan compatibilizar las actividades económicas que propician el desarrollo local con la preservación de los ecosistemas que alimentan ese desarrollo. Avanzaremos en su implementación en un marco de participación y de búsqueda de consenso.

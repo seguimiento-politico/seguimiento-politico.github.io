@@ -1,7 +1,6 @@
 id: a5fb4cec-70ec-4897-a8a0-c7b6ce40b2f3
 type: promise
-parent_statement: b125844d-628d-4c8c-97f4-014012d07e4f
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,8 +8,10 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: b125844d-628d-4c8c-97f4-014012d07e4f
+parent_chapter: 1d2802d7-3c25-4a37-96cf-85b8e7ed4986
+text: Democracia para aprender a convivir en igualdad y en libertad, lo que exige que las escuelas sean un ejemplo de democracia.
 categories: Educación
 topics:
 - Igualdad
 - Inclusión
-text: Democracia para aprender a convivir en igualdad y en libertad, lo que exige que las escuelas sean un ejemplo de democracia.

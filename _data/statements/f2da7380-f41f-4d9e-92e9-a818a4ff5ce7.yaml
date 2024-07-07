@@ -1,6 +1,6 @@
 id: f2da7380-f41f-4d9e-92e9-a818a4ff5ce7
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 95
+parent_chapter: b36e5d9e-ba98-45f0-8911-a0a18af0be33
+children_promises:
+- b93f5019-333c-4906-a0ea-be3b6b12bcaa
+- 0e90f210-5614-4036-af59-5213398ff673
+children_statements:
+- beda963d-ac84-476d-9cf3-2335d95798b6
+title: 'Protección derechos infancia y familias: Protección y acogimiento de niños migrantes'
 categories: Familia
 topics: Incentivos, ayudas y subvenciones
-title: 'Protección derechos infancia y familias: Protección y acogimiento de niños migrantes'
-has_children: true

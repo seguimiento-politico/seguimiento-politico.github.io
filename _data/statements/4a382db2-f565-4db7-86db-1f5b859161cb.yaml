@@ -1,6 +1,6 @@
 id: 4a382db2-f565-4db7-86db-1f5b859161cb
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 4
+parent_chapter: 73e0eb17-ca17-45e8-a4bd-217e9f7fe4bf
+text: Reforzaremos los instrumentos para reducir las desigualdades y mejorar la cohesión social en todo el país. Para ello, se desplegará una política económica que asegure el empleo de cal  idad y con derechos, el reforzamiento del estado de bienestar, una política activa de vivienda y la protección de las familias y los derechos sociales. Asimismo, la política económica se orientará a garantizar la necesaria transición ecológica –con la consiguiente reducción de emisiones de CO2–. Seguiremos fomentando la creación, el crecimiento y la internacionalización de las empresas, agilizando los trámites administrativos y desarrollando instrumentos de financiación bancarios y no bancarios que les ayuden a creer y ser más productivas.
 categories: Economía
 topics: Desarrollo sostenible
-text: Reforzaremos los instrumentos para reducir las desigualdades y mejorar la cohesión social en todo el país. Para ello, se desplegará una política económica que asegure el empleo de cal  idad y con derechos, el reforzamiento del estado de bienestar, una política activa de vivienda y la protección de las familias y los derechos sociales. Asimismo, la política económica se orientará a garantizar la necesaria transición ecológica –con la consiguiente reducción de emisiones de CO2–. Seguiremos fomentando la creación, el crecimiento y la internacionalización de las empresas, agilizando los trámites administrativos y desarrollando instrumentos de financiación bancarios y no bancarios que les ayuden a creer y ser más productivas.

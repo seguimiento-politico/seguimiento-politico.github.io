@@ -1,6 +1,6 @@
 id: c2ef9b58-dcce-4023-9990-ab30492ef5cb
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 90
+parent_chapter: 4e80fbfe-7243-4928-a683-3eb2b6cff183
+text: Culminaremos la ejecución de los marcos prioritarios de actuaciones de Doñana, el Mar Menor, la recuperación de la Albufera de Valencia y el Delta del Ebro y aprobaremos un nuevo plan específico de actuaciones prioritarias para las Tablas de Daimiel.
 categories: Medioambiente
 topics: Biodiversidad
-text: Culminaremos la ejecución de los marcos prioritarios de actuaciones de Doñana, el Mar Menor, la recuperación de la Albufera de Valencia y el Delta del Ebro y aprobaremos un nuevo plan específico de actuaciones prioritarias para las Tablas de Daimiel.

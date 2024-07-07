@@ -1,7 +1,6 @@
 id: 678edb29-672d-4845-a7c8-8502aeec38f6
 type: promise
-parent_statement: 90a660a0-4d5b-4490-8295-e6b8bb17ee6c
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Impuestos y financiación pública
+parent_statement: 90a660a0-4d5b-4490-8295-e6b8bb17ee6c
+parent_chapter: ea2982af-8671-4013-b30b-3217bd021e2a
 text: Una fiscalidad que ayude a la clase media y trabajadora en la crianza el acceso a la vivienda, a movilidad sostenible, la eficiencia energética en los hogares, o la adquisición de vehículos eléctricos
+categories: Impuestos y financiación pública

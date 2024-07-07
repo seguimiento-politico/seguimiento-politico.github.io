@@ -1,7 +1,6 @@
 id: f1fc7c7f-d316-4694-8e73-d9e66cd9046f
 type: promise
-parent_statement: fc6122c3-3ba0-4d98-8221-7863966e05ea
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Seguridad y defensa
+parent_statement: fc6122c3-3ba0-4d98-8221-7863966e05ea
+parent_chapter: 66b190ef-617c-438a-adf3-a3c9f707719b
 text: para lo que sería preciso emprender reformas legales, pero también el desarrollo de un código de buenas prácticas para la industria policial y penitenciaria similar al que existe para la industria farmacéutica.
+categories: Seguridad y defensa

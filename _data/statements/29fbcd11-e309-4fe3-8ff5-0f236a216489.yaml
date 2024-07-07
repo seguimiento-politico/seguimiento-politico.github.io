@@ -1,6 +1,6 @@
 id: 29fbcd11-e309-4fe3-8ff5-0f236a216489
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Política internacional
+parent_chapter: 723c49fe-d44b-41d0-b7f7-8b728fde15d5
 text: 'En una escena internacional cada vez más inestable y polarizada, los derechos humanos y las democracias están cada vez más amenazados por fuerzas reaccionarias. Frente a ello, el PSOE siempre ha defendido un multilateralismo fuerte, incluyente y eficaz como la vía para dar soluciones reales a los desafíos que afronta el mundo. En la próxima legislatura:'
+categories: Política internacional

@@ -1,6 +1,6 @@
 id: 934fb268-8a9e-4df1-9781-72b2c36c5890
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,17 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 54
+parent_chapter: c1d2932c-9fc8-4b60-9a6a-8398312cb597
+children_promises:
+- a2fc00f5-9954-43d8-af8c-01e1dae2e419
+- 1914fe44-ba2d-44e3-853e-da874ab4943e
+- 8bafff91-6f5f-49aa-827a-4e3fc0cb77b5
+- adbc5baa-44dd-4eae-ad57-f0d8acdf2aaa
+- a203ade5-3b0f-40d9-b72c-73d354b454e9
+- ed329ec2-f0c7-40df-a3e7-938c9c3d0370
+- efec8038-f28f-46d1-b189-0ff068135166
+children_statements:
+- 4741ebc4-ef98-4fe0-9856-5aab428a970b
+title: Aumentar la ambición de la Ley 7/2022 de residuos y suelos contaminados para una economía circular
 categories: Economía
 topics: Economía circular
-title: Aumentar la ambición de la Ley 7/2022 de residuos y suelos contaminados para una economía circular
-has_children: true

@@ -1,6 +1,6 @@
 id: de67d0a9-bc42-4447-bfe3-a0897f0f234f
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 252
+parent_chapter: a378ac5f-5b4c-409f-8207-e9dca0489365
+text: 'Dimensionaremos en la legislación nacional las pautas de la Justicia internacional: verdad, justicia y reparación sobre los estándares europeos de protección de Derechos Humanos.'
 categories: Justicia
 topics: Europa
-text: 'Dimensionaremos en la legislación nacional las pautas de la Justicia internacional: verdad, justicia y reparación sobre los estándares europeos de protección de Derechos Humanos.'

@@ -1,6 +1,6 @@
 id: ead660af-0ced-4c49-9b43-461a8ebd9b59
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 37
+parent_chapter: 3ef7238c-e72c-452a-b049-22b69433aaad
+text: Incentivaremos el emprendimiento y el trabajo autónomo de las y los jóvenes, con especial atención a las zonas más despobladas.
 categories: Derechos y servicios sociales
 topics: Juventud
-text: Incentivaremos el emprendimiento y el trabajo autónomo de las y los jóvenes, con especial atención a las zonas más despobladas.

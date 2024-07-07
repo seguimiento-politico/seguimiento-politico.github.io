@@ -1,6 +1,6 @@
 id: 65bc02c1-7849-4598-959f-71cc0246cf54
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 134
+parent_chapter: 4d2322fd-98da-4477-850c-b5a9d894ac47
+text: Incrementaremos el Programa “Campus Rural”, para la reconexión de la juventud y el medio rural, el relevo generacional en las explotaciones agrarias con el apoyo de más de 210 millones de euros/año para este objetivo, fomentaremos los laboratorios de Innovación Rural para promover iniciativas innovadoras, y reforzaremos la iniciativa de Erasmus rural para favorecer el intercambio de experiencias y de conocimiento entre jóvenes en todo el territorio. Y apoyaremos ampliar esta experiencia a otros países de nuestro entorno.
 categories: Trabajo
 topics: Juventud
-text: Incrementaremos el Programa “Campus Rural”, para la reconexión de la juventud y el medio rural, el relevo generacional en las explotaciones agrarias con el apoyo de más de 210 millones de euros/año para este objetivo, fomentaremos los laboratorios de Innovación Rural para promover iniciativas innovadoras, y reforzaremos la iniciativa de Erasmus rural para favorecer el intercambio de experiencias y de conocimiento entre jóvenes en todo el territorio. Y apoyaremos ampliar esta experiencia a otros países de nuestro entorno.

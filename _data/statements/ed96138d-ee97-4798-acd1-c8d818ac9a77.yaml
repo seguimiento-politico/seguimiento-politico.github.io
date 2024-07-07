@@ -1,6 +1,6 @@
 id: ed96138d-ee97-4798-acd1-c8d818ac9a77
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 164
+parent_chapter: 49057808-0482-45cd-aac1-350b0a2d33e6
+children_promises:
+- aabf0b46-5ec4-4df9-b188-2681811ed0f1
+children_statements: []
+title: Fomento de la ciencia ciudadana y abierta al conjunto de la sociedad
 categories: Ciencia y tecnología
 topics: I+D+i
-title: Fomento de la ciencia ciudadana y abierta al conjunto de la sociedad
-has_children: true

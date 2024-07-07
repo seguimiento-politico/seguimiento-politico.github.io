@@ -1,6 +1,6 @@
 id: 85b3b4cf-bf7a-4b00-bcc1-57f46111f44c
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 162
+parent_chapter: 33353ebf-b8a9-4c5c-9baf-00596f9684cd
+text: Promoveremos una normativa marco sobre niveles mínimos de ingresos que cubra a todas las personas mayores de 18 años, con el fin de garantizar que las mujeres y sus hijos que viven en la pobreza tengan un nivel de vida digno.
 categories: Derechos y servicios sociales
 topics:
 - Desigualdad
 - Pobreza
-text: Promoveremos una normativa marco sobre niveles mínimos de ingresos que cubra a todas las personas mayores de 18 años, con el fin de garantizar que las mujeres y sus hijos que viven en la pobreza tengan un nivel de vida digno.

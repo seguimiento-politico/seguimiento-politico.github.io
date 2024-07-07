@@ -1,0 +1,20 @@
+id: b752685b-133e-4306-8a61-9f34b19230e5
+type: statement
+parent_document: a613c4b6-f9dc-4926-8b9a-b87c233e5a75
+parties:
+- VOX
+election_type: europeas
+election_date: '2024-06-09'
+publication_date: '2024-05-30'
+page: 13
+text: La Unión Europea ha impuesto estos años a los Estados miembro, con el apoyo imponderable de PP y PSOE, una política migratoria impregnada de un falso buenismo que ha llenado de inseguridad barrios enteros de toda Europa, promoviendo la llegada masiva y descontrolada de inmigrantes ilegales que violan las fronteras de las Naciones
+categories:
+- Migración
+- Seguridad y defensa
+topics:
+- name: PP
+- name: PSOE
+- name: Migración ilegal
+  position_negative:
+  - text: afecta a la inseguridad de los barrios
+- name: Delincuencia

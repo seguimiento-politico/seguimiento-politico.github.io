@@ -1,6 +1,6 @@
 id: 601a6795-fcb7-43ce-9fd3-7decbcff4473
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 92
+parent_chapter: 4b1a1fd6-83f2-4e8c-a775-7e65f72f50be
 title: Garantizar el derecho a la defensa de los deudores y las deudoras hipotecarias.
 text: España debe cumplir las sentencias del Tribunal de Justicia de la Unión Europea que obligan a garantizar el derecho a la defensa y a la tutela judicial efectiva de los deudores y las deudoras hipotecarias Con este objetivo, cambiaremos el procedimiento de ejecución hipotecaria para garantizar todos los medios de defensa y de prueba y para que se aplique de manera correcta la normativa europea de protección de las personas consumidoras, en especial la Directiva 93/13 de la Unión Europea sobre las cláusulas abusivas en los contratos celebrados con consumidores En cualquier caso, en el procedimiento de ejecución para deudoras y deudores hipotecarios, será posible realizar una dación en pago, incluso retroactiva, que permitiría a quienes mantienen deudas vivas con el banco, a pesar de haber entregado ya la vivienda, cancelar de este modo la deuda restante Asimismo, en los créditos hipotecarios de vivienda, la responsabilidad de la persona deudora se limitará al máximo del valor de la vivienda Así evitaremos que las deudas sean, en la práctica, a perpetuidad

@@ -1,7 +1,6 @@
 id: 944d07dc-fb7b-4254-9b27-2c947572ccae
-type: declaration
-parent_statement: 6f16b3f4-3c66-4ef4-9c40-ee2a9f8f12f7
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Industria
+parent_statement: 6f16b3f4-3c66-4ef4-9c40-ee2a9f8f12f7
+parent_chapter: 7c79fe71-f119-4b1d-a348-2b181c21b108
 text: Cumplir con los objetivos del Acuerdo de París exigirá que España continúe desarrollando un proceso muy ambicioso de implantación de energías renovables en muy poco tiempo. Si queremos adecuar el Plan Nacional Integrado de Energía y Clima a los nuevos objetivos europeos, el horizonte es disponer de una potencia de, aproximadamente, 148.000 MW en 2030, teniendo en cuenta que la potencia instalada en 2021 fue de 78.000 MW.
+categories: Industria

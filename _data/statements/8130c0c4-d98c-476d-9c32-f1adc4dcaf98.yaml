@@ -1,6 +1,6 @@
 id: 8130c0c4-d98c-476d-9c32-f1adc4dcaf98
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 46
-categories: Cultura
+parent_chapter: da886195-4ba1-49d8-aec1-945b64d704c6
 text: Crearemos programas específicos de difusión, programación y divulgación cultural en las zonas rurales, especialmente el refuerzo al fomento de la lectura, la programación de artes escénicas mediante proyectos y producciones de sitios pequeños para que puedan girar por sus zonas colindantes e incluso por el territorio.
+categories: Cultura

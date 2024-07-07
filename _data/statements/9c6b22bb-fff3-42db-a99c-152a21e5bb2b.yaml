@@ -1,7 +1,6 @@
 id: 9c6b22bb-fff3-42db-a99c-152a21e5bb2b
 type: promise
-parent_statement: 1946cb9c-ef6b-4a19-b6d1-6d983c205f87
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Sanidad
+parent_statement: 1946cb9c-ef6b-4a19-b6d1-6d983c205f87
+parent_chapter: 17e4c412-8ac4-4992-848a-422903075ee3
 text: Ampliaremos las plazas de formación de medicina, enfermería y psicología en las universidades públicas, con criterios de distribución geográfica según las necesidades de la sanidad de cada territorio.
+categories: Sanidad

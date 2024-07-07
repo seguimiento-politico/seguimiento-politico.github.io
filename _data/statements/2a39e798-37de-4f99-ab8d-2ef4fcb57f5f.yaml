@@ -1,12 +1,13 @@
 id: 2a39e798-37de-4f99-ab8d-2ef4fcb57f5f
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 91
+parent_chapter: 8ad64579-192d-4408-ab5e-dd2a67a74227
+text: Promoveremos la integración de aquellos inmigrantes que hayan llegado legalmente a nuestro país e impulsaremos políticas para garantizar que en la segunda generación se sientan ciudadanos españoles plenos.
 categories: Migración
 topics: Inmigración
-text: Promoveremos la integración de aquellos inmigrantes que hayan llegado legalmente a nuestro país e impulsaremos políticas para garantizar que en la segunda generación se sientan ciudadanos españoles plenos.

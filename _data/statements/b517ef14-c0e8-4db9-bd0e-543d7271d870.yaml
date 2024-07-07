@@ -1,6 +1,6 @@
 id: b517ef14-c0e8-4db9-bd0e-543d7271d870
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_chapter: 18793eaf-9982-4484-bf17-851021820012
+text: 'El principal avance en esta legislatura ha sido lograr el acuerdo del gobierno con las organizaciones sindicales y empresariales para aprobar la Estrategia de Seguridad y Salud en el Trabajo 2023-2027, con el objetivo de modificar la legislación en materia de riesgos laborales, que data del año 1995. De cara a la próxima legislatura desarrollaremos el contenido de esta Estrategia, prestando especial atención a los siguientes elementos:'
 categories: Sanidad
 topics: Salud en el Trabajo
-text: 'El principal avance en esta legislatura ha sido lograr el acuerdo del gobierno con las organizaciones sindicales y empresariales para aprobar la Estrategia de Seguridad y Salud en el Trabajo 2023-2027, con el objetivo de modificar la legislación en materia de riesgos laborales, que data del año 1995. De cara a la próxima legislatura desarrollaremos el contenido de esta Estrategia, prestando especial atención a los siguientes elementos:'

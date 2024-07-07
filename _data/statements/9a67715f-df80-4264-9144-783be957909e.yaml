@@ -1,6 +1,6 @@
 id: 9a67715f-df80-4264-9144-783be957909e
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 133
+parent_chapter: a6f69436-abc0-4e1b-bbac-a22624f69fc8
+text: Seguiremos incentivando la participación social, en especial de los más jóvenes, en espacios de diálogo e influencia política y foros de negociación (como pueden ser las Cumbres Climáticas) donde se determina la ambición climática asumida por los Gobiernos.
 categories: Democracia
 topics: Participación ciudadana
-text: Seguiremos incentivando la participación social, en especial de los más jóvenes, en espacios de diálogo e influencia política y foros de negociación (como pueden ser las Cumbres Climáticas) donde se determina la ambición climática asumida por los Gobiernos.

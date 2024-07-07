@@ -1,6 +1,6 @@
 id: bef12d24-7ec8-4620-8bd7-28871bb56ec3
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 45
-categories: Vivienda
+parent_chapter: 7cfc87b2-226c-44ee-8071-6bdf306b36d3
 text: Proposición de Ley de modificación de la Ley de Bases del Régimen Local al objeto de evitar que tanto okupas como inmigrantes ilegales puedan inscribirse en el padrón municipal como residentes del inmueble usurpado y evitar así que accedan a los derechos que lleva aparejado el empadronamiento (octubre 2022).
+categories: Vivienda

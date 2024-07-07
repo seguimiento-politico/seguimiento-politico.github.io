@@ -1,12 +1,13 @@
 id: edfc9af3-09d9-4a6b-bf04-1e6db0651776
 type: promise
-parent_statement: 1d755154-87bc-4351-8edc-759cc03f9adb
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 41
-categories: Sanidad
+parent_statement: 1d755154-87bc-4351-8edc-759cc03f9adb
+parent_chapter: dcb6b10d-0b49-4143-9511-53be3f00f338
 text: Promocionaremos la asistencia a domicilio con equipos multidisciplinares y tecnologías que permitan la atención deslocalizada.
+categories: Sanidad

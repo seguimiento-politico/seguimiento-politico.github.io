@@ -1,6 +1,6 @@
 id: c4ccd537-225b-43c5-a7ec-e7632313d8d1
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 195
+parent_chapter: ced8d977-d434-49b6-87c4-034c15ed9756
+text: Continuar con la expansión de redes de telecomunicaciones, los bonos sociales digitales, el Kit Digital empresarial y el Plan Nacional de competencias digitales, intensificando las sinergias entre todos ellos y coordinando la transversalidad que supone la inclusión digital en todas las políticas.
 categories: Derechos y servicios sociales
 topics: Digitalización
-text: Continuar con la expansión de redes de telecomunicaciones, los bonos sociales digitales, el Kit Digital empresarial y el Plan Nacional de competencias digitales, intensificando las sinergias entre todos ellos y coordinando la transversalidad que supone la inclusión digital en todas las políticas.

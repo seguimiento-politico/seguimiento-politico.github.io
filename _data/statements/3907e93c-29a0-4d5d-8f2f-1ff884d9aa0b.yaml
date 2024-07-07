@@ -1,6 +1,6 @@
 id: 3907e93c-29a0-4d5d-8f2f-1ff884d9aa0b
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,7 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 117
+parent_chapter: 96823b0f-932d-41e1-a800-716933f427ff
+text: Utilizaremos los emplazamientos de las centrales nucleares cerradas y los nodos de vertido de las centrales térmicas clausuradas en España para implantar en dichas localizaciones mini reactores nucleares (SMR).
 categories:
 - Industria
 - Energía
-text: Utilizaremos los emplazamientos de las centrales nucleares cerradas y los nodos de vertido de las centrales térmicas clausuradas en España para implantar en dichas localizaciones mini reactores nucleares (SMR).

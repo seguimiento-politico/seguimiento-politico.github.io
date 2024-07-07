@@ -1,7 +1,6 @@
 id: 24ab1254-c057-4ff7-a6e1-586aaeb017b6
 type: promise
-parent_statement: 51bc55b8-26b3-4f43-a60e-19dfb8d6bc7c
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,4 +8,6 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 51bc55b8-26b3-4f43-a60e-19dfb8d6bc7c
+parent_chapter: 234f712b-aaa0-45c7-92d9-e5641ca46ec2
 text: Creación de una agencia especial para la TEJ y de un observatorio del avance de la TEJ que incluyan mecanismos de evaluación de políticas públicas y herramientas de devolución a la ciudadanía (2024). Dependerá de la presidencia del Gobierno y de la Conferencia de Presidentas y Presidentes. Tendrá seguimiento parlamentario y una comisaría al frente que disponga de recursos y competencias para marcar prioridades y objetivos en todas las áreas de gobierno. El observatorio deberá verificar avances, proporcionar información para consolidar o corregir tendencias y rendir cuentas sobre el avance de la TEJ.

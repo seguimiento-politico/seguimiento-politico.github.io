@@ -1,6 +1,6 @@
 id: 22cb0a30-dab8-44ae-b5df-0f610f0d7416
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,9 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 38
+parent_chapter: a7996477-1c14-4309-9aee-7b4b037eef4e
+text: Se establecerá la obligación de elaborar cada 5 años, unos Presupuestos de Carbono, desglosados por sectores, para hacer visible la contribución de cada sector a la reducción de emisiones. Se establecerán mecanismos de seguimiento para favorecer la participación ciudadana y la implicación de todas las administraciones.
 categories: Medioambiente
 topics:
 - Cambio climático
 - Desarrollo sostenible
-text: Se establecerá la obligación de elaborar cada 5 años, unos Presupuestos de Carbono, desglosados por sectores, para hacer visible la contribución de cada sector a la reducción de emisiones. Se establecerán mecanismos de seguimiento para favorecer la participación ciudadana y la implicación de todas las administraciones.

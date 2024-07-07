@@ -1,0 +1,121 @@
+---
+title: Todas las declaraciones políticas
+comments: true
+permalink: /statements/
+layout: page
+---
+
+<!-- all statements -->
+<!-- TODO: 
+- Add page_sequence into statements data for finer ordering 
+- edit politics_promises_parties.html so that categorization.html can vary depending on the parent page frontdata
+-->
+
+{% assign items = site.data.statements | where: 'type', "manifesto" | sort: "publication_date" | sort: parent_document | sort: page %}
+
+{% include categorization.html type='parties' %}
+{% assign parties_data = site.data.parties %}
+{% include categorization_counters.html %}
+
+<!-- Programas Electorales y otros documentos -->
+{% include documents_list.html %}
+
+<!-- Promesas -->
+<div class="border my-3 p-3 bg-body rounded shadow-sm"> 
+    <h6 class="border-bottom pb-2 d-flex justify-content-between align-items-start">
+        <span class="align-self-center">
+            {{ site.data.locales.ui-text[site.lang].track_promises_label | default: "Tracking promises of" }} {{ track_data.context.name }}
+        </span>
+        <button class="btn btn-sm btn-primary" id="new-item" style=""><i class="fas fa-fw fa-plus"></i> nuevo compromiso</button>
+    </h6>
+
+    {% include item-new-form.html %}
+    
+    <div id="item-content" style="">
+        <div class="row pt-2">
+            {% include listjs-categorization_filters.html %}
+        </div>
+        <div class="promises row pt-2" id="promises">
+            {% include listjs-text_filter.html %}
+    
+            <div class="table-responsive-md promises__table">
+                <table class="table">
+                    <thead> 
+                    <tr class="bg-dark text-light">
+                        <th></th>
+                        <th></th>
+                        <th class="sr-only">{{ site.data.locales.ui-text[site.lang].promise_label | default: "Category" }}</th>
+                        <th>{{ site.data.locales.ui-text[site.lang].promise_label | default: "Compromisos" }}</th>
+                        <th class="d-none d-sm-table-cell">{{ site.data.locales.ui-text[site.lang].status_label | default: "Status" }}</th>
+                        <th></th>
+                    </tr>
+                    </thead>
+    
+                    <tbody class="list">
+                    <!-- add color to each policy -->
+                    {% for item in items %}
+                        {% assign item_analysis = site.data.promises_analysis | where: "promise_id", item.id %}  
+                        {% if item_analysis[0].status %}
+                            {% assign status = statuses_data | where: "name", item_analysis[0].status | first %}
+                        {% else %}
+                            {% assign status = default_status %}
+                        {% endif %}
+                        
+                        <tr class="list-group-item-{{ status.color }}">
+                            <td>
+                                {% assign scope_data = item %}
+                                {% include items_logo.html type='parties' %}
+                            </td>
+                            <td class="list-year">
+                                {% if item.publication_date %}
+                                    {% assign year = item.publication_date | split: '-' %}
+                                    {{ year[0] }}
+                                {% elsif item.election_date %}
+                                    {% assign year = item.election_date | split: '-' %}
+                                    {{ year[0] }}
+                                {% endif %}
+                            </td>
+                            <td class="sr-only">  
+                                <div>
+                                    <span class="d-none list-category">
+                                        {% for category in item.categories %}
+                                            {{ category }}
+                                            {% if forloop.last == false %}; {% endif %}
+                                        {% endfor %}
+                                    </span>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="list-text">
+                                    {% if item.categories %} <span class="text-primary" style="--bs-text-opacity: .8;"> {% for category in item.categories %} {{ category }} {% if forloop.last == false %}{{ " | "}}{% endif %}{% endfor %} </span> {% endif %}
+                                    {% if item.categories and item.topics %} <span class="text-muted"> - </span>{% endif %}
+                                    {% if item.topics %} <span class="text-muted"> {% for topic in item.topics %} {{ topic }} {% if forloop.last == false %}{{ " | "}}{% endif %}{% endfor %} </span> {% endif %}
+                                    {% if item.title %}
+                                        <span class="d-none d-md-block d-xxl-block">{{ item.title }}</span>
+                                    {% elsif item.text %}
+                                        <span class="d-none d-md-block d-xxl-block">{{ item.text | truncatewords: 25 }}</span>
+                                    {% endif %}
+                                </div>
+                            </td>
+                            <td class="d-none d-sm-table-cell">
+                                <span class="d-none d-md-block list-status">{{ site.data.locales.ui-text[site.lang].[status.lang_label] | default: status.name }}</span>
+                                <i class="fas fa-fw fa-{{ status.icon }} text-{{ status.color }}" title="{{ site.data.locales.ui-text[site.lang].[status.lang_label] | default: status.name }}"></i>
+                            </td>
+                            <td class="text-center">
+                                {% if item_analysis[0] %}
+                                    {% assign class = "primary" %}
+                                {% else %}
+                                    {% assign class = "secondary" %}
+                                {% endif %}
+                                <a class="btn btn-{{class}}" href="/statements/{{ item.id }}">
+                                    <span class="d-inline-block align-middle"><i class="fas fa-fw fa-angle-right"></i></span>
+                                </a>
+                            </td>
+                        </tr>
+                    {% endfor %}
+                    </tbody>
+                </table>
+            </div>  
+        </div>
+    </div>
+</div>   

@@ -1,6 +1,6 @@
 id: 9c4def25-0911-4842-af11-1ca88db1d1f4
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 159
+parent_chapter: a4c281a2-28e5-4678-be5f-877cd870aace
+text: Actuaremos contra las agencias que promocionan y hacen negocio con la gestación subrogada, promoviendo las medidas legislativas necesarias.
 categories: Derechos y servicios sociales
 topics: Vientres de alquiler
-text: Actuaremos contra las agencias que promocionan y hacen negocio con la gestación subrogada, promoviendo las medidas legislativas necesarias.

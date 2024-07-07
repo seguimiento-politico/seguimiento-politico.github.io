@@ -1,12 +1,13 @@
 id: 399933b6-55b9-406c-a201-f08a9a0d6f58
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 21
+parent_chapter: 9d4d8c82-d88b-49c6-8b4b-2154a888ebc8
+text: Plan de Atracción de Talento. Aprobaremos incentivos fiscales así como un procedimiento acelerado “fast track” para atraer profesionales e investigadores de alta cualificación.
 categories:
 - Economía
-text: Plan de Atracción de Talento. Aprobaremos incentivos fiscales así como un procedimiento acelerado “fast track” para atraer profesionales e investigadores de alta cualificación.

@@ -1,6 +1,6 @@
 id: 3dc77b77-ed10-4928-ad75-3ef521af2deb
-type: declaration
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 105
+parent_chapter: 75aca692-4866-4735-8d57-5ad9749e3a64
+text: Los hombres y mujeres del servicio exterior cumplen con una labor esencial que es necesario valorar y reconocer, en ocasiones en circunstancias de enorme dificultad.
 categories: Política internacional
 topics: Consulados
-text: Los hombres y mujeres del servicio exterior cumplen con una labor esencial que es necesario valorar y reconocer, en ocasiones en circunstancias de enorme dificultad.

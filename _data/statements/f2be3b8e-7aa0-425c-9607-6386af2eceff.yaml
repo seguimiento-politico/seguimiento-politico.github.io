@@ -1,6 +1,6 @@
 id: f2be3b8e-7aa0-425c-9607-6386af2eceff
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 167
-categories: Cultura
+parent_chapter: 7350357f-215c-4adf-8549-2205377e11a9
+children_promises:
+- e0c1fc81-abf1-42b6-9c71-d2006b428e70
+children_statements: []
 title: Una cultura sin precariedad, con estabilidad y soportes.
-has_children: true
+categories: Cultura

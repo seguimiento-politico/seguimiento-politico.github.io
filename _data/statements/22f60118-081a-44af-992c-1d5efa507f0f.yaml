@@ -1,7 +1,6 @@
 id: 22f60118-081a-44af-992c-1d5efa507f0f
 type: promise
-parent_statement: bdfdc10f-272d-4c3d-9196-eeb1f78f3e27
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: bdfdc10f-272d-4c3d-9196-eeb1f78f3e27
+parent_chapter: b5417c2b-2bd9-455f-a227-1ac572dbd434
+text: Se creará una comisión, con participación académica y de las entidades memorialistas y LGTBI+, que elabore un informe en el que se recoja el estado de la cuestión, señale las insuficiencias de lo realizado hasta ahora y plantee propuestas para políticas de verdad, justicia y reparación.
 categories: Democracia
 topics: Memoria democrática
-text: Se creará una comisión, con participación académica y de las entidades memorialistas y LGTBI+, que elabore un informe en el que se recoja el estado de la cuestión, señale las insuficiencias de lo realizado hasta ahora y plantee propuestas para políticas de verdad, justicia y reparación.

@@ -1,6 +1,6 @@
 id: b9d04b5f-2a72-46f4-8460-c73ab4ba0c5c
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 12
+parent_chapter: 14cfe70b-f6b5-4003-88f7-02a877dec28f
 title: Establecer una línea de inversión público-privada de alto impacto para desarrollar nuevas tecnologías de baterías en España.
 text: Esto permitirá, por un lado, aprovechar mejor las renovables y compensar valles puntuales en la generación mediante un mejor almacenamiento de la energía y, por otro lado, mejorar la autonomía de los coches eléctricos y crear una importante industria auxiliar en nuestro país que dé apoyo a su fabricación

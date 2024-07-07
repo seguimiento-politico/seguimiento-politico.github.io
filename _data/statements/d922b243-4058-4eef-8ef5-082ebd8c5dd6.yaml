@@ -1,7 +1,6 @@
 id: d922b243-4058-4eef-8ef5-082ebd8c5dd6
 type: promise
-parent_statement: f68f67ed-27e4-483d-94b9-7831785feb59
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: f68f67ed-27e4-483d-94b9-7831785feb59
+parent_chapter: c794cb24-1c55-422f-8b6d-1ff29ad1ed87
+text: Lucharemos por una reforma más ambiciosa de las actuales reglas fiscales, incluyendo una regla de oro verde y social que permita excluir del cálculo del déficit las inversiones en transición ecológica e infraestructura social; manteniendo como objetivo la superación del esquema obsoleto de reducción del déficit público y la deuda pública por debajo del 3% y 60% del PIB respectivamente.
 categories: Política internacional
 topics: Europa
-text: Lucharemos por una reforma más ambiciosa de las actuales reglas fiscales, incluyendo una regla de oro verde y social que permita excluir del cálculo del déficit las inversiones en transición ecológica e infraestructura social; manteniendo como objetivo la superación del esquema obsoleto de reducción del déficit público y la deuda pública por debajo del 3% y 60% del PIB respectivamente.

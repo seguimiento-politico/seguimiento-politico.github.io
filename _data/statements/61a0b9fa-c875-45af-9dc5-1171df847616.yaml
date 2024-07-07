@@ -1,6 +1,6 @@
 id: 61a0b9fa-c875-45af-9dc5-1171df847616
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,7 +8,8 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 30
+parent_chapter: 3772d1ed-1f99-4909-8296-7fc8857deef4
+text: Suspensión de toda norma climática impuesta por las élites globalistas que afecte gravemente al interés y prosperidad de los españoles.
 categories:
 - Industria
 - Energía
-text: Suspensión de toda norma climática impuesta por las élites globalistas que afecte gravemente al interés y prosperidad de los españoles.

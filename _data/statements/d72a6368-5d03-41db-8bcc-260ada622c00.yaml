@@ -1,6 +1,6 @@
 id: d72a6368-5d03-41db-8bcc-260ada622c00
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 149
+parent_chapter: 5424254d-f35f-472e-b45f-7c57cb8123c8
+text: Defensa de los agricultores frente a la criminalización del uso de regadíos. Fomento del aumento de la superficie de riego. Programas de investigación y ayudas directas a los regantes para la incorporación de las nuevas tecnologías que aseguren la producción y el ahorro de agua.
 categories:
 - Territorio rural
-text: Defensa de los agricultores frente a la criminalización del uso de regadíos. Fomento del aumento de la superficie de riego. Programas de investigación y ayudas directas a los regantes para la incorporación de las nuevas tecnologías que aseguren la producción y el ahorro de agua.

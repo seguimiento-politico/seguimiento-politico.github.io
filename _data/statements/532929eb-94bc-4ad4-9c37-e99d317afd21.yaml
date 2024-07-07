@@ -1,7 +1,6 @@
 id: 532929eb-94bc-4ad4-9c37-e99d317afd21
 type: promise
-parent_statement: 79b36441-816a-4d21-be49-cb3564d9fba1
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 79b36441-816a-4d21-be49-cb3564d9fba1
+parent_chapter: dc33f933-12a0-4325-b761-1f9bf8c3ad0d
+text: Mejora del conocimiento empírico del estado de los stocks mediante la colaboración entre pescadores y científicos como base para la toma de decisiones a través del enfoque ecosistémico
 categories: Pesca y acuicultura
 topics: Desarrollo sostenible
-text: Mejora del conocimiento empírico del estado de los stocks mediante la colaboración entre pescadores y científicos como base para la toma de decisiones a través del enfoque ecosistémico

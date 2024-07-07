@@ -1,6 +1,6 @@
 id: c843baab-a6fa-4737-b854-6d796d5df7ef
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_chapter: e5be3d56-d004-4484-b293-9d1f24b80d8c
+text: 'Por un diseño y una gestión de los empleados públicos que potencie su excelencia y propicie unos servicios públicos que respondan a las demandas ciudadanas. Los empleados públicos son el mayor activo de nuestro estado del bienestar y son los protagonistas indiscutibles de la modernización de las administraciones públicas. El Partido Socialista defiende un empleo público de calidad, estable, flexible e innovador, dando respuestas a los desafíos relacionados con el envejecimiento de las plantillas, la captación del talento o el desarrollo de la carrera profesional, de la mano de las organizaciones sindicales.<br><br> Por ello:'
 categories: Trabajo
 topics: Empleo público
-text: 'Por un diseño y una gestión de los empleados públicos que potencie su excelencia y propicie unos servicios públicos que respondan a las demandas ciudadanas. Los empleados públicos son el mayor activo de nuestro estado del bienestar y son los protagonistas indiscutibles de la modernización de las administraciones públicas. El Partido Socialista defiende un empleo público de calidad, estable, flexible e innovador, dando respuestas a los desafíos relacionados con el envejecimiento de las plantillas, la captación del talento o el desarrollo de la carrera profesional, de la mano de las organizaciones sindicales.<br><br> Por ello:'

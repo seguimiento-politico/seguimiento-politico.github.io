@@ -1,6 +1,6 @@
 id: 2f1ab611-ac52-4142-971a-30cce631e460
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 75
+parent_chapter: ef0bb89b-1b90-4682-a618-d8eea7201020
 title: Poner orden en la subcontratación y proteger los derechos laborales de los y las trabajadoras de subcontratas.
 text: Limitaremos la subcontratación a servicios especializados ajenos a la actividad principal de la empresa, de manera que los servicios propios de la empresa queden excluidos Es decir, un hotel no puede subcontratar la limpieza de las habitaciones y una empresa que presta servicios masivos no puede subcontratar su servicio de atención al cliente Cuando la subcontratación esté justificada, sus trabajadoras y trabajadores tendrán las mismas condiciones que las de la empresa matriz

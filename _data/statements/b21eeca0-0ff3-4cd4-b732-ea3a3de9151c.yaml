@@ -1,6 +1,6 @@
 id: b21eeca0-0ff3-4cd4-b732-ea3a3de9151c
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 39
+parent_chapter: 1e1d9fec-722c-4fe5-83c8-753b161e1073
+text: El mercado turístico español ha llegado a representar cerca del 13% del PIB y del total del empleo, cifras que nos permiten afirmar la importancia del sector para la economía española y los logros de un mercado turístico que ha crecido de manera exponencial en las últimas décadas.
 categories: Turismo
 topics: Desarrollo sostenible
-text: El mercado turístico español ha llegado a representar cerca del 13% del PIB y del total del empleo, cifras que nos permiten afirmar la importancia del sector para la economía española y los logros de un mercado turístico que ha crecido de manera exponencial en las últimas décadas.

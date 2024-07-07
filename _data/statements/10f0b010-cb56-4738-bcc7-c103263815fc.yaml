@@ -1,6 +1,6 @@
 id: 10f0b010-cb56-4738-bcc7-c103263815fc
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_chapter: a6b0904c-226b-4036-b418-18f80e2f7fbb
+text: Las ciudades deben recuperar el espacio público para los vecinos, naturalizando el urbanismo, mejorando la calidad del aire para garantizar la salud pública, integrando peatonalización y movilidad sostenible y adaptando su fisonomía y sus equipamientos al cambio climático. Debemos garantizar el derecho a vivir en ciudades saludables, libres de la contaminación del aire, de la contaminación lumínica y del ruido; donde medio ambiente y salud sean sinónimos.
 categories: Derechos y servicios sociales
 topics: Medioambiente saludable, Contaminación
-text: Las ciudades deben recuperar el espacio público para los vecinos, naturalizando el urbanismo, mejorando la calidad del aire para garantizar la salud pública, integrando peatonalización y movilidad sostenible y adaptando su fisonomía y sus equipamientos al cambio climático. Debemos garantizar el derecho a vivir en ciudades saludables, libres de la contaminación del aire, de la contaminación lumínica y del ruido; donde medio ambiente y salud sean sinónimos.

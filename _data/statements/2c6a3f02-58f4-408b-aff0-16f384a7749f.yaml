@@ -1,6 +1,6 @@
 id: 2c6a3f02-58f4-408b-aff0-16f384a7749f
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 108
+parent_chapter: 8a474e92-a922-4e8e-9aca-16ac157ca40a
+text: Para garantizar la efectiva aplicación y desarrollo de estos principios es necesario que la normativa en defensa del medio sea de carácter nacional, elaborada sin injerencias de organismos externos. España no puede quedar exclusivamente sometida a intereses de terceros países o a los prejuicios ideológicos de los lobbies que actualmente dirigen la política de Bruselas, máxime cuando esta normativa es abiertamente perjudicial para la viabilidad de la economía rural española.
 categories:
 - Medioambiente
-text: Para garantizar la efectiva aplicación y desarrollo de estos principios es necesario que la normativa en defensa del medio sea de carácter nacional, elaborada sin injerencias de organismos externos. España no puede quedar exclusivamente sometida a intereses de terceros países o a los prejuicios ideológicos de los lobbies que actualmente dirigen la política de Bruselas, máxime cuando esta normativa es abiertamente perjudicial para la viabilidad de la economía rural española.

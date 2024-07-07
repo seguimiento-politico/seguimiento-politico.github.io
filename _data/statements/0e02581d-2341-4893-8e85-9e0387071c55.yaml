@@ -1,6 +1,6 @@
 id: 0e02581d-2341-4893-8e85-9e0387071c55
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,9 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 166
+parent_chapter: 58627ca3-e6ae-47ce-bd7d-42455ec78c0a
+children_promises:
+- 3de8bb30-9594-4772-a5ef-5ec6c4536355
+- 1f54e4b3-4ff7-4f33-8403-4c7f0c128681
+- e4167546-ee4b-4e8a-9c16-5270a36ad975
+children_statements: []
+title: Dotación de cohesión y eficacia al sistema de I+D+I con una gobernanza más eficiente.
 categories: Ciencia y tecnología
 topics:
 - Financiación
 - Gobernanza y transparencia
-title: Dotación de cohesión y eficacia al sistema de I+D+I con una gobernanza más eficiente.
-has_children: true

@@ -1,11 +1,12 @@
 id: 5ad92f67-3ffb-4750-8ccd-9df3e09d1a38
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 83
-categories: Administración pública
+parent_chapter: 7ee2a71d-a39c-43cb-9c87-e45a32abe0b8
 text: Modernizaremos las pruebas selectivas de acceso a la Función Pública, incorporando, junto con las tradicionales pruebas, otras que permitan garantizar que los candidatos se adaptan a las necesidades de una administración moderna.<br> Diseñaremos nuevos modelos de evaluación objetivos y transparentes del desempeño como instrumento de medición del rendimiento. Estas evaluaciones tendrán impacto en la carrera profesional y en las retribuciones de los empleados públicos.<br> Se promoverán sistemas de reclutamiento y formación directivos del sector público empresarial que favorezcan la estabilidad, la experiencia y la profesionalidad.
+categories: Administración pública

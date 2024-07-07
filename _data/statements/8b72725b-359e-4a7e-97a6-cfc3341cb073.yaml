@@ -1,6 +1,6 @@
 id: 8b72725b-359e-4a7e-97a6-cfc3341cb073
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 39
+parent_chapter: 493fd51c-7cfd-4b5e-bc63-efcefe3f24e6
 title: Necesidad de un Ministerio de Ciencia, Innovación y Universidades.
 text: Mantendremos y reforzaremos el Ministerio de Ciencia, Innovación y Universidades, para que el impulso de la actividad científica por parte de los poderes públicos sea más eficaz.

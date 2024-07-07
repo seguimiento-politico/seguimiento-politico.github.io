@@ -1,6 +1,6 @@
 id: 46f231b3-22b5-484f-a7d9-40dbde976c2c
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,16 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 58
+parent_chapter: b3f71622-6590-4ea3-b839-4254df880fe7
+children_promises:
+- 1395db15-f567-4505-b380-b41c2009dada
+- 038f3aa9-af05-4107-a8f2-7f7a7c16d881
+- 987fe296-a9b9-4e1b-8c75-133027fa18d0
+- 0bb5529a-3864-4679-a4cd-09df0c947525
+- 8231135c-331e-4add-aaf6-db05681c7f49
+- 2142b920-6e4c-4d64-9ba1-c6aeb4cd49d1
+- 5564a81d-ba83-430f-b92a-5e35df9afcea
+children_statements: []
+title: 'Territorio 30 minutos: servicios esenciales a no más de media hora'
 categories: Territorio rural
 topics: Igualdad
-title: 'Territorio 30 minutos: servicios esenciales a no más de media hora'
-has_children: true

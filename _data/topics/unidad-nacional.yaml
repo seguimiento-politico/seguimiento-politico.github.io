@@ -1,0 +1,21 @@
+name: Unidad nacional
+other: []
+other_count: 0
+position_negative: []
+position_negative_count: 0
+position_positive:
+- &id001
+  id: 1731abe7-7891-4ca6-9073-bb6a4811f425
+  parties:
+  - VOX
+position_positive_count: 1
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+statements_count: 1
+status_quo_negative:
+- *id001
+status_quo_negative_count: 1
+status_quo_positive: []
+status_quo_positive_count: 0

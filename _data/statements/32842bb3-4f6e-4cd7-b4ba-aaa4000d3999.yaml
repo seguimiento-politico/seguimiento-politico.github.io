@@ -1,7 +1,6 @@
 id: 32842bb3-4f6e-4cd7-b4ba-aaa4000d3999
 type: promise
-parent_statement: 333e4c7c-9832-4749-bf0c-4b37be0996c2
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Vivienda
+parent_statement: 333e4c7c-9832-4749-bf0c-4b37be0996c2
+parent_chapter: 10dbdb5a-3231-46ed-86c9-0dc18f77040e
 text: Habilitaremos al Estado Central o a las Administracione locales a instar a la comunidad autónoma que no lo haya hecho a declarar zona de mercado tensionado en los ámbitos geográficos que cumplan los requisitos que establece la Ley por Derecho a la Vivienda. Aplicaremos así la regulación de alquileres a todas las zonas de mercado tensionado para garantizar la igualdad de todos los inquilinos en el ejercicio de sus derechos.
+categories: Vivienda

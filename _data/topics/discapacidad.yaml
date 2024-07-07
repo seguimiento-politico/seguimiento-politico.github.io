@@ -1,0 +1,25 @@
+name: Discapacidad
+other:
+- &id001
+  id: 4b842136-d3bb-4a67-aa13-58f8eb29c7fc
+  parties:
+  - CIUDADANOS
+- &id002
+  id: c79389ec-6e68-4122-850f-a3eb65ab679a
+  parties:
+  - CIUDADANOS
+other_count: 2
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- *id002
+statements_count: 2
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

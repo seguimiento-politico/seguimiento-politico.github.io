@@ -1,7 +1,6 @@
 id: 3fde556d-c94f-40b9-9366-318e12dcdfaa
 type: promise
-parent_statement: 664c2e37-b29c-4c9e-bef8-322856b86bf3
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: 664c2e37-b29c-4c9e-bef8-322856b86bf3
+parent_chapter: 1e1d9fec-722c-4fe5-83c8-753b161e1073
+text: Impulsaremos el fondo tecnológico para la creación de líneas de ayudas para apoyar establecimientos o áreas comerciales situadas en zonas turísticas y cuyos negocios estén vinculados con la llegada de visitantes
 categories: Turismo
 topics: Desarrollo sostenible
-text: Impulsaremos el fondo tecnológico para la creación de líneas de ayudas para apoyar establecimientos o áreas comerciales situadas en zonas turísticas y cuyos negocios estén vinculados con la llegada de visitantes

@@ -1,6 +1,6 @@
 id: c30ba9e7-98d4-4a8c-8ce8-b60a027ca716
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 19
+parent_chapter: 70e896cb-cc2e-4700-a649-38c82b332b6c
+children_promises:
+- ae3e0ab2-a686-4aa1-888b-66ca5cf7125d
+children_statements: []
+title: Integración personas con Síndrome de Down
 categories:
 - Familia
-title: Integración personas con Síndrome de Down
-has_children: true

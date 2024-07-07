@@ -1,7 +1,6 @@
 id: 352d46b1-a746-4d06-a717-4f25c3950384
 type: promise
-parent_statement: 18abb5d3-7b46-47cc-9473-16a8543d9992
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 18abb5d3-7b46-47cc-9473-16a8543d9992
+parent_chapter: 5a78c83a-e028-4353-b943-e627cc312cee
+text: Para facilitar la gestión migratoria y mejorar la experiencia de las personas usuarias de los servicios consulares y de extranjería, se estandarizarán, se digitalizarán, se agilizarán y se simplificarán los procedimientos y los trámites consulares en todo el mundo, así como los de extranjería, manteniendo una atención dual (presencial y telemática).
 categories: Migración
 topics: Racismo
-text: Para facilitar la gestión migratoria y mejorar la experiencia de las personas usuarias de los servicios consulares y de extranjería, se estandarizarán, se digitalizarán, se agilizarán y se simplificarán los procedimientos y los trámites consulares en todo el mundo, así como los de extranjería, manteniendo una atención dual (presencial y telemática).

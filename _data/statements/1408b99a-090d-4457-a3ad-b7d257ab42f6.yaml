@@ -1,6 +1,6 @@
 id: 1408b99a-090d-4457-a3ad-b7d257ab42f6
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 51
-categories: Educación
+parent_chapter: a9015bc2-6b3d-40b7-bf93-f53764c97c24
 text: GARANTIZAREMOS UN SISTEMA NACIONAL DE BECAS Y AYUDAS AL ESTUDIO para promover la igualdad de oportunidades. Ampliaremos la política de becas en todas las etapas (no universitaria y universitaria), e impulsaremos la creación de fondos de protección social que permitan la participación de alumnos con escasos recursos económicos en actividades complementarias para garantizar una igualdad de oportunidades real y efectiva. Apoyaremos y reforzaremos el Servicio de Inspección Educativa en la necesaria supervisión del sistema educativo para su buen funcionamiento y en la evaluación orientada a la mejora de los centros y al fomento de las experiencias innovadoras.
+categories: Educación

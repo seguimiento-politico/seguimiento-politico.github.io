@@ -1,6 +1,6 @@
 id: e39a7d17-bee6-4aa0-abe8-08ca6ebce9ae
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 63
+parent_chapter: d0ca92d6-a651-4e64-8fa2-2354747b0fd1
+text: 'IMPULSAREMOS, A TRAVÉS DE LAS OFICINAS DE ATENCIÓN A LAS VÍCTIMAS, el más eficaz acceso de estas a los diferentes ámbitos de ayuda que pueden necesitar durante el desarrollo del procedimiento penal: la utilización de los servicios de psicólogos, criminólogos y trabajadores sociales en la asistencia a las víctimas cuando denuncian, durante todo el procedimiento y cuando van a declarar en juicio oral, para que puedan conocer cómo y dónde pueden solicitar ayuda y obtener la información personal y psicológica necesaria, con el fin de que no abandonen el procedimiento.'
 categories: Seguridad y defensa
 topics: Violencia de género
-text: 'IMPULSAREMOS, A TRAVÉS DE LAS OFICINAS DE ATENCIÓN A LAS VÍCTIMAS, el más eficaz acceso de estas a los diferentes ámbitos de ayuda que pueden necesitar durante el desarrollo del procedimiento penal: la utilización de los servicios de psicólogos, criminólogos y trabajadores sociales en la asistencia a las víctimas cuando denuncian, durante todo el procedimiento y cuando van a declarar en juicio oral, para que puedan conocer cómo y dónde pueden solicitar ayuda y obtener la información personal y psicológica necesaria, con el fin de que no abandonen el procedimiento.'

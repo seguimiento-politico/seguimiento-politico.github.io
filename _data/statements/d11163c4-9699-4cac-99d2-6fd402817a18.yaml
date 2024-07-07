@@ -1,11 +1,12 @@
 id: d11163c4-9699-4cac-99d2-6fd402817a18
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 64
-categories: Urbanismo y ciudades
+parent_chapter: d9d84c98-285a-49cd-b89e-217bb56082bd
 text: Seguiremos impulsando la conversión en ciudades inteligentes de todas las localidades de más de 50.000 habitantes, así como las islas inteligentes de Baleares y Canarias, para mejorar los servicios prestados a los usuarios, facilitar la movilidad urbana, contribuir a un turismo de más calidad y mejorar el respeto al medio ambiente.
+categories: Urbanismo y ciudades

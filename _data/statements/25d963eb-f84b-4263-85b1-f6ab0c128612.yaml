@@ -1,6 +1,6 @@
 id: 25d963eb-f84b-4263-85b1-f6ab0c128612
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 33
-categories: Banca
+parent_chapter: 1fb125f8-bab0-49cf-a4a8-7924f09dfad1
+children_promises:
+- f5ab13d2-a4dd-4d1c-af6d-84fcdf4f5ad7
+children_statements: []
 title: Garantizaremos la inclusión financiera de las personas mayores y con discapacidad, a través de la atención personalizada y presencial
-has_children: true
+categories: Banca

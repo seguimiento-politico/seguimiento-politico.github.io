@@ -1,11 +1,12 @@
 id: 1d5c2dc9-ca1f-4623-9af5-4bfea5429484
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 65
-categories: Cultura
+parent_chapter: 214f04bb-9ba4-4cc0-bfd1-0d934bbded7f
 text: Aprobaremos un nuevo Plan Platea 3.0 garantizando las giras de las compañías teatrales por toda España y el acceso al teatro de todos los españoles vivan donde vivan
+categories: Cultura

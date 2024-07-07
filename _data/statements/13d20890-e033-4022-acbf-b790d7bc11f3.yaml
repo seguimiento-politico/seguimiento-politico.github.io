@@ -1,7 +1,6 @@
 id: 13d20890-e033-4022-acbf-b790d7bc11f3
 type: promise
-parent_statement: 675802be-2c63-4c16-9e61-9c3d024cfbfa
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +8,9 @@ country: spain
 election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
+parent_statement: 675802be-2c63-4c16-9e61-9c3d024cfbfa
+parent_chapter: f7d833fa-aff7-4e92-ab7f-4430cb8f127b
+text: Exigir a Marruecos un total reconocimiento y respeto de la soberanía española de Ceuta y Melilla.
 categories:
 - Seguridad y defensa
 - Migración
-text: Exigir a Marruecos un total reconocimiento y respeto de la soberanía española de Ceuta y Melilla.

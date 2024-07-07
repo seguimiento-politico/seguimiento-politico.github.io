@@ -1,6 +1,6 @@
 id: 90599034-c8bd-4cfb-9df7-672fea338d39
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 132
-categories: Sanidad
+parent_chapter: 3b84ba40-eae3-47f2-812f-38e359411b69
 text: Nos comprometemos a abordar con urgencia el capítulo de educación afectiva y sexual y su vinculación con el mundo digital y que aleje a nuestra infancia y juventud de la pornografía, el machismo y la violencia o las esferas de pseudo prostitución (sugardaddismo, loverboy, etc..).
+categories: Sanidad

@@ -1,6 +1,6 @@
 id: bec53687-38bd-4989-b933-1092a7a364b0
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 101
-categories: Política internacional
+parent_chapter: 6c487e14-3e0d-4200-bdc9-70b5eb4d801e
 text: MANTENDREMOS EL APOYO A LAS SANCIONES A RUSIA por su invasión de Ucrania. Prestaremos apoyo militar, económico y humanitario al pueblo ucraniano mientras sea necesario. España apoyará las aspiraciones de Ucrania a unirse a la UE y a la OTAN, así como su proceso de reformas para conseguirlo.
+categories: Política internacional

@@ -1,6 +1,6 @@
 id: fb7297ba-2f0d-4223-9148-68edafc79c27
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 12
-categories: Sanidad
+parent_chapter: a607e244-45f8-48f5-9cbb-07830bdd4f9b
 text: Procederemos a la eliminación progresiva de los copagos introducidos en 2012 a lo largo de la legislatura, empezando por los pensionistas y los hogares en situación de mayor vulnerabilidad. Estableceremos garantías para que no puedan introducirse otros nuevos que no atiendan a la situación socioeconómica de las personas, incluidos los copagos por el transporte sanitario no urgente, por los productos ortoprotésicos y por los dietéticos, a través de la derogación de los artículos que habilitan estos copagos en el RD-Ley 16/2012.
+categories: Sanidad

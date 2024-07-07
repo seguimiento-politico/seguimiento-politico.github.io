@@ -1,6 +1,6 @@
 id: aab6d193-b217-4f37-8cd0-6c0b4c0d195b
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 53
-categories: Política internacional
+parent_chapter: 06572758-339c-4185-bcc1-2905946110b7
 text: Trabajaremos para eliminar la exigencia de unanimidad para la toma de determinadas decisiones en la UE de forma que resulten viables muchas de las anteriores propuestas. La existencia de la Eurozona pone de manifiesto la posibilidad y la conveniencia de avanzar a diferentes velocidades en el proceso de integración europea.
+categories: Política internacional

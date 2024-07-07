@@ -1,6 +1,6 @@
 id: 70ef0584-dae0-4007-963e-6f24323a0d0d
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 87
-categories: Derechos y servicios sociales
+parent_chapter: 6bea7d15-32ea-402e-8fad-42663ddea615
+children_promises:
+- 7d654e2e-4751-4471-a033-b470d12fbfa7
+- 39ba011c-ca6d-44da-8265-f9bd5388a8af
+- e0e39e98-f3fd-4cb2-81d2-b54dd9cb02f7
+- 01bf2a77-dd9f-4e0c-81c0-a1b898ef4d21
+- 5ab32250-4c66-48b2-8b5f-13ef8ce245a3
+- 86847a4b-cddf-4582-9572-c95bd67852a4
+children_statements: []
 title: Ley de Cuidados y de Sostenibilidad de la Vida.
-has_children: true
+categories: Derechos y servicios sociales

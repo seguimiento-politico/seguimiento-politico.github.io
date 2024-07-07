@@ -1,7 +1,6 @@
 id: 0d0ffcef-173e-4aa8-9de4-cbf27b7fc5fe
 type: promise
-parent_statement: f6288dde-58d5-44c1-aaae-3d27e33d3968
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: f6288dde-58d5-44c1-aaae-3d27e33d3968
+parent_chapter: d4be2e70-fa2d-46b8-b434-dec87bdfc397
+text: Aseguraremos la formación permanente de toda la comunidad universitaria orientada a posibilitar las movilidades internacionales, como la referida al conocimiento de idiomas.
 categories: Educación
 topics: Internacionalización
-text: Aseguraremos la formación permanente de toda la comunidad universitaria orientada a posibilitar las movilidades internacionales, como la referida al conocimiento de idiomas.

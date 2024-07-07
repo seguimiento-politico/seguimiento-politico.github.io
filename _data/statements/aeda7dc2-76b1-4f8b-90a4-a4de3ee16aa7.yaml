@@ -1,6 +1,6 @@
 id: aeda7dc2-76b1-4f8b-90a4-a4de3ee16aa7
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 167
+parent_chapter: e207a6bf-9c54-4399-a574-f130ae590b63
+text: Desde junio de 2018, el PSOE se comprometió a revertir los recortes del Partido Popular y a recuperar esas señas de identidad del sistema público de pensiones, devolviendo la suficiencia económica a los y las pensionistas. Hoy podemos decir con orgullo que hemos cumplido con ese compromiso.
 categories: Derechos y servicios sociales
 topics: Pensiones
-text: Desde junio de 2018, el PSOE se comprometió a revertir los recortes del Partido Popular y a recuperar esas señas de identidad del sistema público de pensiones, devolviendo la suficiencia económica a los y las pensionistas. Hoy podemos decir con orgullo que hemos cumplido con ese compromiso.

@@ -1,11 +1,12 @@
 id: 002c9f0c-d85b-41be-926b-7eeed76cbd7e
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 42
-categories: Sanidad
+parent_chapter: dcb6b10d-0b49-4143-9511-53be3f00f338
 text: Desarrollaremos la medicina personalizada y de precisión a través de la genómica, impulsando un Plan Nacional de secuenciación del genomahumano coordinado con la Unión Europea en la población española, exten diendo su uso diagnóstico y clínico, el empleo de inteligencia artificial, los sistemas no invasivos, la trazabilidad, la protección de los datos sensibles, y la usabilidad de la historia clínica electrónica y el BigData, creando la estructura adecuada para mejorar la calidad, la eficacia y la seguridad en la atención sanitaria y en la investigación clínica.
+categories: Sanidad

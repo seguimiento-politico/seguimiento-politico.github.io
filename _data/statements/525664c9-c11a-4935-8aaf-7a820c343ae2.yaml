@@ -1,6 +1,6 @@
 id: 525664c9-c11a-4935-8aaf-7a820c343ae2
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 264
+parent_chapter: 79744ba7-ffbb-40f2-b730-179f4a4aec89
+text: Avanzaremos hacia la ratificación de los acuerdos de la Unión Europea con Chile, con México y con Mercosur.
 categories: Política internacional
 topics: América latina
-text: Avanzaremos hacia la ratificación de los acuerdos de la Unión Europea con Chile, con México y con Mercosur.

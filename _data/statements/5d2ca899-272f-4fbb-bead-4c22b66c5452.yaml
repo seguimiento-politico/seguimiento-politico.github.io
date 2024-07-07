@@ -1,6 +1,6 @@
 id: 5d2ca899-272f-4fbb-bead-4c22b66c5452
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 137
+parent_chapter: d5ff476e-21ed-4e90-9c4b-b4adb4a8f9a7
+text: Exigiremos que la adopción de acuerdos en el Consejo europeo y el Consejo de la UE garantice el pleno consentimiento de todos los Estados miembros, recuperando la regla de la unanimidad allí donde sea precisa para asegurar el respeto a la soberanía nacional.
 categories:
 - Política internacional
-text: Exigiremos que la adopción de acuerdos en el Consejo europeo y el Consejo de la UE garantice el pleno consentimiento de todos los Estados miembros, recuperando la regla de la unanimidad allí donde sea precisa para asegurar el respeto a la soberanía nacional.

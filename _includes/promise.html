@@ -31,7 +31,9 @@
         </div>
     </div>
 
-    {% if item[0].version == 2 %}
+    {% if item[0].version == 3 %}
+        {% include promise_statements_v3.html %}
+    {% elsif item[0].version == 2 %}
         {% include promise_statements_v2.html %}
     {% else %}
         {% include promise_statements_v1.html %}

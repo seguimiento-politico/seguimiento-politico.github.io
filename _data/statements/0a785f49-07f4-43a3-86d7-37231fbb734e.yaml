@@ -1,6 +1,6 @@
 id: 0a785f49-07f4-43a3-86d7-37231fbb734e
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 161
+parent_chapter: 1396ba16-84f5-4ba6-9717-58d5e5cedee0
+text: La familia es la institución básica de nuestra sociedad, anterior al estado, una comunidad de amor y libertad básica para el desarrollo de las personas. Por esta razón, el globalismo y las ideologías radicales han fijado como objetivo la destrucción de la familia, uno de sus grandes obstáculos para lograr el control social y económico de los individuos.
 categories:
 - Familia
-text: La familia es la institución básica de nuestra sociedad, anterior al estado, una comunidad de amor y libertad básica para el desarrollo de las personas. Por esta razón, el globalismo y las ideologías radicales han fijado como objetivo la destrucción de la familia, uno de sus grandes obstáculos para lograr el control social y económico de los individuos.

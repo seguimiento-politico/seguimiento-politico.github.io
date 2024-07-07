@@ -1,6 +1,6 @@
 id: d227391b-0585-45a6-a850-6d14883d83ca
-type: declaration
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,7 +8,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 12
+parent_chapter: 49a1f009-be5a-4a44-ac48-45c1f040a528
+children_promises: []
+children_statements:
+- 1684ba27-1303-4303-b27d-c228eb1bf2f2
+- 9c63a9c4-1562-41a5-9ddd-bd6899545201
+- c15ffbc6-c9d0-4383-9fc9-e67ab59bbdbe
+- b3bf7fe5-f918-4751-8aa5-b58ec7f97313
+- 5745fbb9-479e-4d81-8656-7f46f1166f3d
+title: RECUPERAR LA CONFIANZA Y LAS REFORMAS PARA IMPULSAR NUESTROS SECTORES PRODUCTIVOS
 categories: Economía
 topics: Desarrollo sostenible
-title: RECUPERAR LA CONFIANZA Y LAS REFORMAS PARA IMPULSAR NUESTROS SECTORES PRODUCTIVOS
-has_children: true

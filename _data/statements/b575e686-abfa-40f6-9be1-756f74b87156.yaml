@@ -1,6 +1,6 @@
 id: b575e686-abfa-40f6-9be1-756f74b87156
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 104
+parent_chapter: 5a78c83a-e028-4353-b943-e627cc312cee
+children_promises:
+- e931b912-e975-4347-a699-173ca2ab4f71
+- 90b01ee1-d731-45f4-b545-9a6e76a2cde4
+children_statements: []
+title: Refuerzo de los instrumentos para la inclusión financiera y socioeconómica de las personas migrantes
 categories: Migración
 topics: Racismo
-title: Refuerzo de los instrumentos para la inclusión financiera y socioeconómica de las personas migrantes
-has_children: true

@@ -1,6 +1,6 @@
 id: dbdbb209-f619-4893-960c-9e40f68de46a
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 58
+parent_chapter: a032ad89-ff94-4e43-a3b0-dfbbc59e0d4a
+children_promises:
+- 9e80cda2-71a7-4587-a565-9c69b563d1ee
+children_statements: []
+title: Crearemos espacios comunes de datos federados e interoperables en los ámbitos de la salud, la movilidad, el turismo y la industria
 categories: Derechos y servicios sociales
 topics: Digitalización
-title: Crearemos espacios comunes de datos federados e interoperables en los ámbitos de la salud, la movilidad, el turismo y la industria
-has_children: true

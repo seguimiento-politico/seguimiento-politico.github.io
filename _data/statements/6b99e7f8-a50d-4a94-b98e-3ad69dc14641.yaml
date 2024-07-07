@@ -1,6 +1,6 @@
 id: 6b99e7f8-a50d-4a94-b98e-3ad69dc14641
-type: declaration
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 41
-categories: Derechos y servicios sociales
+parent_chapter: ba5391eb-a9bd-462e-b63b-168d871e6d01
+children_promises: []
+children_statements:
+- 0202b3b6-6b48-4349-891d-7ae28f2e0d36
+- 58bb63e9-1831-4fbe-a86d-7257b6352451
 title: LIBERTAD PARA ELEGIR PROYECTO DE VIDA
-has_children: true
+categories: Derechos y servicios sociales

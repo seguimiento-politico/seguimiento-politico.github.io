@@ -1,6 +1,6 @@
 id: 9da66f70-d27f-43c7-a952-1a3862e9263f
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 31
-categories: Educación
+parent_chapter: 8dc56675-db4f-4450-b565-3d1b2de80c30
 text: Además, Sánchez ha amparado que los gobiernos separatistas utilicen la educación para adoctrinar y excluir el español de las aulas, contraviniendo la voluntad de las familias y las decisiones de los tribunales. Es urgente devolver a los españoles una educación gratuita, exigente y de calidad, que sea un verdadero ascensor social para los jóvenes y un elemento de cohesión nacional.
+categories: Educación

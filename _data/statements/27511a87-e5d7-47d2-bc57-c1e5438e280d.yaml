@@ -1,6 +1,6 @@
 id: 27511a87-e5d7-47d2-bc57-c1e5438e280d
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,8 +10,9 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 16
+parent_chapter: 75b07bf0-395e-401a-8eae-5f73b851ff55
+text: Se llevará al Parlamento la Ley para la Protección Integral de la Infancia y la Adolescencia frente a todas las formas de violencia.
 categories: Derechos y servicios sociales
 topics:
 - Infancia
 - Juventud
-text: Se llevará al Parlamento la Ley para la Protección Integral de la Infancia y la Adolescencia frente a todas las formas de violencia.

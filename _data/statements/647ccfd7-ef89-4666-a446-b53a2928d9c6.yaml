@@ -1,6 +1,6 @@
 id: 647ccfd7-ef89-4666-a446-b53a2928d9c6
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 24
-categories: Trabajo
+parent_chapter: 89a37952-7653-4d01-b826-60b84d3454b4
 text: Nuestros jóvenes son víctimas de un círculo vicioso donde solo se les ofrece paro o precariedad. Una situación insostenible que la reforma laboral del gobierno ha empeorado aún más. Derogaremos la reforma laboral de Yolanda Díaz que ha maquillado las cifras de temporalidad sin adoptar medidas reales contra la precariedad, y que beneficia a los sindicatos mayoritarios que han traicionado a los trabajadores. A su vez, impulsaremos una reforma laboral que escuche a los verdaderos agentes sociales.
+categories: Trabajo

@@ -1,6 +1,6 @@
 id: 67cfdcf7-6c5c-4e85-a527-77577e5ce7cc
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 44
+parent_chapter: 8b3b4090-2613-4308-b395-3a2c5b3078b6
+text: Aprobaremos la Estrategia España Nación Emprendedora, que será la agenda digital de España para los próximos diez años, y promoverá una profunda transformación de nuestro tejido productivo, -incluyendo una Ley de startups, que incluya a las empresas tecnológicas de todos los sectores, y el apoyo específico a la transición digital de las pymes-, así como la digitalización de la Administración, creando la figura del Chief Data Officer para promover una gestión eficiente de los datos y su mejor uso para la articulación de políticas públicas.
 categories: Ciencia y tecnología
 topics: Digitalización
-text: Aprobaremos la Estrategia España Nación Emprendedora, que será la agenda digital de España para los próximos diez años, y promoverá una profunda transformación de nuestro tejido productivo, -incluyendo una Ley de startups, que incluya a las empresas tecnológicas de todos los sectores, y el apoyo específico a la transición digital de las pymes-, así como la digitalización de la Administración, creando la figura del Chief Data Officer para promover una gestión eficiente de los datos y su mejor uso para la articulación de políticas públicas.

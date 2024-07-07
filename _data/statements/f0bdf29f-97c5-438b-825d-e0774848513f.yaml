@@ -1,6 +1,6 @@
 id: f0bdf29f-97c5-438b-825d-e0774848513f
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 28
+parent_chapter: d101bd02-236d-4098-bb87-89db05cd11c2
+text: Se extenderá la Carpeta ciudadana, para que cualquier ciudadano o ciudadana pueda acceder a los trámites y todos sus expedientes en relación con la Administración General del Estado en un único espacio web.
 categories: Administración pública
 topics: Digitalización
-text: Se extenderá la Carpeta ciudadana, para que cualquier ciudadano o ciudadana pueda acceder a los trámites y todos sus expedientes en relación con la Administración General del Estado en un único espacio web.

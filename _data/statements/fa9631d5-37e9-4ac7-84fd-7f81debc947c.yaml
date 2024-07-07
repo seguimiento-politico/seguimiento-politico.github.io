@@ -1,6 +1,6 @@
 id: fa9631d5-37e9-4ac7-84fd-7f81debc947c
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 43
+parent_chapter: 1e1d9fec-722c-4fe5-83c8-753b161e1073
+children_promises:
+- 9a6f49c5-55e4-4bb0-80e6-b03ad1f44a9a
+children_statements: []
+title: Continuaremos impulsando la Estrategia de Turismo Sostenible 2030
 categories: Turismo
 topics: Desarrollo sostenible
-title: Continuaremos impulsando la Estrategia de Turismo Sostenible 2030
-has_children: true

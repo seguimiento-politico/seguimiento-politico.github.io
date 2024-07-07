@@ -1,6 +1,6 @@
 id: 2fc4341c-2b67-4cce-be15-9b70c4622b90
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 239
+parent_chapter: 62353710-63ba-4418-9448-041c80c8ee34
+text: Aplicaremos una política migratoria que reduzca llegadas irregulares y que salve vidas.
 categories: Migración
 topics: Inmigración
-text: Aplicaremos una política migratoria que reduzca llegadas irregulares y que salve vidas.

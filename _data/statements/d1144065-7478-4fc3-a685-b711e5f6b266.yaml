@@ -1,7 +1,6 @@
 id: d1144065-7478-4fc3-a685-b711e5f6b266
 type: promise
-parent_statement: 0eb74b7f-8c50-4340-b424-727fd7547506
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
+parent_statement: 0eb74b7f-8c50-4340-b424-727fd7547506
+parent_chapter: 80f33f13-c365-4098-ac18-6210795cdb15
+text: Convertir en suelo apto para ser urbanizado todo el que no deba estar necesariamente protegido por motivos de interés público convenientemente justificados.
 categories:
 - Economía
-text: Convertir en suelo apto para ser urbanizado todo el que no deba estar necesariamente protegido por motivos de interés público convenientemente justificados.

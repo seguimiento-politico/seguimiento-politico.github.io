@@ -1,7 +1,6 @@
 id: fc063749-06b7-40c4-b69a-184da0b339b6
 type: promise
-parent_statement: e49cf16a-6eed-4c5b-a762-0353cc1ff21e
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Sanidad
+parent_statement: e49cf16a-6eed-4c5b-a762-0353cc1ff21e
+parent_chapter: 17e4c412-8ac4-4992-848a-422903075ee3
 text: Pondremos en marcha un plan de apoyo a la maternidad que desarrollará medidas socioeconómicas de apoyo durante el embarazo y el puerperio, y mejorará los procesos de reproducción asistida, atendiendo especialmente a los grupos más vulnerables como las familias monomarentales.
+categories: Sanidad

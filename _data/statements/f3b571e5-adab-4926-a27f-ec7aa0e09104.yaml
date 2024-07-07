@@ -1,6 +1,6 @@
 id: f3b571e5-adab-4926-a27f-ec7aa0e09104
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 267
+parent_chapter: 7260ed69-d02c-48a2-8712-ed039ccddea7
+text: Promoveremos la aprobación de una Ley de Nacionalidad que regule los derechos de ciudadanía de los españoles y españolas en el exterior, tal como plantea el Consejo de Residentes Españoles en el Exterior – CRE.
 categories: Política internacional
 topics:
 - Expatriados
 - Consulados
-text: Promoveremos la aprobación de una Ley de Nacionalidad que regule los derechos de ciudadanía de los españoles y españolas en el exterior, tal como plantea el Consejo de Residentes Españoles en el Exterior – CRE.

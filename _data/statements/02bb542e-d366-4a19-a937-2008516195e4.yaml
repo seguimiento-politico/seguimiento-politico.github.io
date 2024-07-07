@@ -1,6 +1,6 @@
 id: 02bb542e-d366-4a19-a937-2008516195e4
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 185
+parent_chapter: 4bab7d84-780f-4ca8-ae27-9d57b6482584
+text: Seguiremos impulsando el Proyecto Estratégico del Plan de Recuperación para la Economía Social y de los Cuidados (el PERTE de la Economía Social y de los Cuidados), con el fin de apoyar la modernización de este sector e promover su potencial desde el punto de vista económico y de creación de empleo, contribuyendo a una economía más resiliente e inclusiva
 categories: Derechos y servicios sociales
 topics: ONGs
-text: Seguiremos impulsando el Proyecto Estratégico del Plan de Recuperación para la Economía Social y de los Cuidados (el PERTE de la Economía Social y de los Cuidados), con el fin de apoyar la modernización de este sector e promover su potencial desde el punto de vista económico y de creación de empleo, contribuyendo a una economía más resiliente e inclusiva

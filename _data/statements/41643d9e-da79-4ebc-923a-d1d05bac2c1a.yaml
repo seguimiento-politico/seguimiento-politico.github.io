@@ -1,7 +1,6 @@
 id: 41643d9e-da79-4ebc-923a-d1d05bac2c1a
 type: promise
-parent_statement: c8a672a4-f66c-4530-ad04-523d87cb28b8
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: c8a672a4-f66c-4530-ad04-523d87cb28b8
+parent_chapter: de85e0ef-5ecc-4ca0-89b4-a741503b7353
+text: Continuaremos impulsando las competencias digitales de toda la ciudadanía, modernizando la educación, la Formación Profesional y la universidad, con cursos de programación y robótica en todas las escuelas y el despliegue de programas especiales de acompañamiento para las personas mayores, con discapacidad y colectivos en riesgo de exclusión social.
 categories: Economía
 topics: Digitalización
-text: Continuaremos impulsando las competencias digitales de toda la ciudadanía, modernizando la educación, la Formación Profesional y la universidad, con cursos de programación y robótica en todas las escuelas y el despliegue de programas especiales de acompañamiento para las personas mayores, con discapacidad y colectivos en riesgo de exclusión social.

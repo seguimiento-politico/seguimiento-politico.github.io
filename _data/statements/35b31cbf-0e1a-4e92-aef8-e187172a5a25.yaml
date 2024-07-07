@@ -1,7 +1,6 @@
 id: 35b31cbf-0e1a-4e92-aef8-e187172a5a25
 type: promise
-parent_statement: 88b510bf-544e-400e-bfa1-3d9e4a47c162
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Trabajo
+parent_statement: 88b510bf-544e-400e-bfa1-3d9e4a47c162
+parent_chapter: e9e1334a-785f-47ff-a9d1-05e1b24e1b85
 text: Culminaremos el programa de reformas estructurales en marcha, con el objetivo de establecer un marco legislativo avanzado que ofrezca una hoja de ruta clara para la doble transición verde y digital. Esto brindará estabilidad, confianza y seguridad jurídica tanto a la ciudadanía como a las empresas, fomentando y atrayendo inversiones y talento.
+categories: Trabajo

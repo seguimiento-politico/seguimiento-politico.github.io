@@ -1,6 +1,6 @@
 id: 9bd9128d-bf9c-40a7-ac27-b25d868933cb
-type: declaration
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+type: statement
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 16
+parent_chapter: b8550311-badb-44f7-aafe-46f10435e0b1
 text: Trabajaremos para mejorar la colaboración institucional con todas las comunidades autónomas y abordaremos el conflicto de convivencia en Cataluña impulsando el diálogo entre catalanes y, también, entre el Gobierno de España y la Generalitat de Cataluña, siempre dentro de la Constitución y del Estatuto de Autonomía. El Estado Autonómico debe dar respuesta, también, al reto demográfico en el medio rural, garantizando los servicios públicos básicos y la conectividad en todo el territorio.

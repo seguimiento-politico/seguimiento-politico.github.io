@@ -1,7 +1,6 @@
 id: 20c9291a-c9b3-4932-a665-f73db3689841
 type: promise
-parent_statement: 1700b5be-2763-4c91-8732-c972901c20c2
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Trabajo
+parent_statement: 1700b5be-2763-4c91-8732-c972901c20c2
+parent_chapter: 2e87f7f8-d5a3-47a6-82d5-b25f36e88929
 text: Se pondrá fin a la discriminación en el pago de cuotas entre las empresas cubiertas por la Seguridad Social y las empresas cubiertas por entidades colaboradoras, asimismo se eliminará el RD 404/2010, del 31 de marzo, de reducción de las cotizaciones por contingencias profesionales.
+categories: Trabajo

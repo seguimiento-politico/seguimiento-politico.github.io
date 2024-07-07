@@ -1,13 +1,14 @@
 id: b7aea8e5-001f-4398-8aaa-406161796e60
 type: promise
-parent_statement: 03e10ab5-34a5-4b5d-a8aa-bfe1bc5165ae
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 84
+parent_statement: 03e10ab5-34a5-4b5d-a8aa-bfe1bc5165ae
+parent_chapter: d1de57bf-12c9-4ee3-a261-eeb154aba200
+text: Fortaleceremos el Consejo de Transparencia para dotarlo de mayor independencia y de los recursos que le permitan realizar su labor con más eficacia.
 categories: Democracia
 topics: Gobernanza y transparencia
-text: Fortaleceremos el Consejo de Transparencia para dotarlo de mayor independencia y de los recursos que le permitan realizar su labor con más eficacia.

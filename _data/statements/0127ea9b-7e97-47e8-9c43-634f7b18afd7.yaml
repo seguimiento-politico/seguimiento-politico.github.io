@@ -1,6 +1,6 @@
 id: 0127ea9b-7e97-47e8-9c43-634f7b18afd7
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 45
+parent_chapter: 8b3b4090-2613-4308-b395-3a2c5b3078b6
+text: Completaremos el despliegue de redes y lideraremos la implantación de la tecnología móvil 5G, mediante el segundo dividendo digital y la subasta de 700 Mhz. Continuaremos potenciando el ya creado Observatorio Nacional 5G.
 categories: Ciencia y tecnología
 topics: Digitalización
-text: Completaremos el despliegue de redes y lideraremos la implantación de la tecnología móvil 5G, mediante el segundo dividendo digital y la subasta de 700 Mhz. Continuaremos potenciando el ya creado Observatorio Nacional 5G.

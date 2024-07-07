@@ -1,6 +1,6 @@
 id: 8faa7301-38bb-46ba-989c-59b7784d1367
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 93
+parent_chapter: 4b1a1fd6-83f2-4e8c-a775-7e65f72f50be
 title: Incrementar las pensiones mínimas y las no contributivas.
 text: (Véase el apartado «Garantías de Justicia Laboral y Pensiones»)

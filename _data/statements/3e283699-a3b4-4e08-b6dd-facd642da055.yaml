@@ -1,6 +1,6 @@
 id: 3e283699-a3b4-4e08-b6dd-facd642da055
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 84
+parent_chapter: ef0bb89b-1b90-4682-a618-d8eea7201020
 title: Las personas que lleguen a la edad de jubilación podrán elegir libremente los años de cómputo para el cálculo de sus pensiones entre todos los de su vida laboral.
 text: Tanto la limitación de que sean los últimos años como la de que sean consecutivos estaban pensadas para un modelo laboral anterior y, ahora mismo, perjudican especialmente a las personas cercanas a la edad de jubilación con dificultades para tener buenos empleos

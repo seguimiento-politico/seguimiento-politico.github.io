@@ -1,7 +1,6 @@
 id: ada43e5a-55e4-4ca4-b9b0-8814e0900ecf
 type: promise
-parent_statement: 01ba7f7d-be19-4f7f-a37b-21187546e5a9
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -10,5 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 25
-categories: Trabajo
+parent_statement: 01ba7f7d-be19-4f7f-a37b-21187546e5a9
+parent_chapter: 89a37952-7653-4d01-b826-60b84d3454b4
 text: Promoveremos la creación de Centros Formativos Especiales para dar respuesta a las necesidades del mundo rural, adaptados al sector primario de todas las regiones de España.
+categories: Trabajo

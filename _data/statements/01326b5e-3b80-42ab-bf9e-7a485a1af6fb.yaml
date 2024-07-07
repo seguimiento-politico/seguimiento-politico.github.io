@@ -1,6 +1,6 @@
 id: 01326b5e-3b80-42ab-bf9e-7a485a1af6fb
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 223
+parent_chapter: ac350b9c-6bf2-4017-a573-8420cb922467
+text: Estableceremos mecanismos ágiles y modelos de acuerdo entre entidades bancarias y administraciones (estatal, autonómicas y locales) para movilizar las viviendas vacías y destinarlas a uso social.
 categories: Vivienda
 topics: Alquiler
-text: Estableceremos mecanismos ágiles y modelos de acuerdo entre entidades bancarias y administraciones (estatal, autonómicas y locales) para movilizar las viviendas vacías y destinarlas a uso social.

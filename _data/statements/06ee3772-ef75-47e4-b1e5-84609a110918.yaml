@@ -1,6 +1,6 @@
 id: 06ee3772-ef75-47e4-b1e5-84609a110918
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,21 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 100
+parent_chapter: 999e9dab-efca-4092-a144-a19ca4ee5302
+children_promises:
+- 6fbd1516-b71a-430f-8a79-d9aa46863e75
+- eddbb3f6-6411-4092-a02c-e5d28aa5b804
+- cf67b872-7a9f-4af0-ace8-4f602560f581
+- e7da1fb0-0c8e-46a8-b29e-90e948742cfd
+- 605d6e30-97e3-41b4-aa85-fdd1b404025a
+- 8c1a9330-0b9e-4ab1-a027-9689ec1a03fa
+- 2892c6d5-8b29-46a3-b651-7dc9c2b35d52
+- 3538885e-7cc5-488e-88ca-97aaa1cca4c6
+- aca05b21-5005-40c4-805d-dd64a6b1e3ac
+- a719d759-7ea2-48a3-9355-a2fce2b359ea
+- 341d54fa-70ac-40e6-9540-90fcd11bb96e
+- 130d9e6c-202e-4503-81d8-d22702dfdb1e
+children_statements: []
+title: Inclusion personas con discapacidad
 categories: Derecuos y servicios sosciales
 topics: Discapacidad
-title: Inclusion personas con discapacidad
-has_children: true

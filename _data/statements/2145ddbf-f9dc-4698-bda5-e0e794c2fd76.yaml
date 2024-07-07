@@ -1,6 +1,6 @@
 id: 2145ddbf-f9dc-4698-bda5-e0e794c2fd76
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 106
-categories: Cultura
+parent_chapter: 156e3030-bc67-4aa6-8243-9123dce112aa
 text: REFORZAREMOS EL INSTITUTO CERVANTES como el mayor organismo cultural del mundo en lengua española y la casa común del español, incrementando la participación de los de países hispanohablantes. Ampliaremos sus sedes en el exterior para promover la cultura española en todas sus manifestaciones, y promoveremos el español como lengua de comunicación internacional, así como vehículo de comunicación en el ámbito tecnológico y en la inteligencia artificial.
+categories: Cultura

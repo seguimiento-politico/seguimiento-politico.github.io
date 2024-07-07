@@ -1,7 +1,6 @@
 id: 7c858687-8f1e-4a68-95ad-3c06cd3e7479
 type: promise
-parent_statement: b50ae9b3-9d31-4697-bebe-a02642f8fd0d
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +8,9 @@ country: spain
 election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
+parent_statement: b50ae9b3-9d31-4697-bebe-a02642f8fd0d
+parent_chapter: ab7164cc-742b-48cf-adce-57d74cf0621d
+text: Implantar el sistema de cheque escolar. Devolver a los padres una auténtica libertad para elegir la educación de sus hijos, empezando por la elección del colegio.
 categories:
 - Educación
 - Cultura
-text: Implantar el sistema de cheque escolar. Devolver a los padres una auténtica libertad para elegir la educación de sus hijos, empezando por la elección del colegio.

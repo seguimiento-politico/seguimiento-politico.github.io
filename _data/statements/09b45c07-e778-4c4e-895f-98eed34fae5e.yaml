@@ -1,6 +1,6 @@
 id: 09b45c07-e778-4c4e-895f-98eed34fae5e
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,7 +8,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 16
-categories: Economía
-topics: Desarrollo sostenible
+parent_chapter: 48b6e85e-eb0a-40f5-9aa9-d85750a8402d
 title: CONVERTIREMOS A ESPAÑA EN UN HUB PARA LA INVERSIÓN EN LATINOAMÉRICA.
 text: Revisaremos los tratados de reconocimiento de sentencias para asegurar su validez en países latinoamericanos en materia civil, mercantil y concursal. Incentivaremos la creación de mercados financieros supervisados para Latinoamérica. También revisaremos el tratamiento fiscal de las inversiones cruzadas entre España y las jurisdicciones de Latinoamérica, así como la normativa concursal española para permitir su aplicación en procesos de restructuración en Latinoamérica .
+categories: Economía
+topics: Desarrollo sostenible

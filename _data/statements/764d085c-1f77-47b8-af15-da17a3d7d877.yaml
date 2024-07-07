@@ -1,6 +1,6 @@
 id: 764d085c-1f77-47b8-af15-da17a3d7d877
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 6
-categories: Trabajo
+parent_chapter: 9cd5db4f-b174-4b60-895b-fd6bc37b16f4
 text: Recuperar los derechos laborales en los procesos de modificación sustancial de las condiciones de trabajo, revisando las causas y el procedimiento, garantizando su reversibilidad y su carácter negociado.
+categories: Trabajo

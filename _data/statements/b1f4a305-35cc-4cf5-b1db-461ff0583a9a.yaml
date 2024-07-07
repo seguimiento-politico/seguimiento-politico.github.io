@@ -1,7 +1,6 @@
 id: b1f4a305-35cc-4cf5-b1db-461ff0583a9a
 type: promise
-parent_statement: 888e6898-f38c-4272-811c-690f00dba852
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Justicia
+parent_statement: 888e6898-f38c-4272-811c-690f00dba852
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
 text: Estableceremos mecanismos para lograr la paridad, al igual que en los restantes órganos de gobierno, y respaldaremos que, una vez expirado su mandato, cesen automáticamente vocales y presidente.
+categories: Justicia

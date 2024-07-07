@@ -1,6 +1,6 @@
 id: 0f583837-4c79-4104-8ddf-c490d0fdd56b
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 193
-categories: Derechos y servicios sociales
-topics: Discapacidad
+parent_chapter: f4d30405-da8f-4647-bc30-ce8a01fe2c1a
 title: Accesibilidad universal.
 text: Lo que es bueno para la discapacidad, también lo es para la sociedad. Una sociedad inclusiva, abierta, solidaria y accesible universalmente solo se consigue suprimiendo las barreras físicas, sensoriales y cognitivas que impiden la participación plena de la ciudadanía independientemente de su edad, de sus capacidades o de su situación particular. Perseguiremos el cumplimiento real de los mandatos legales vigentes que fijaban como límite temporal el año 2017 para que todos los entornos, productos, bienes, servicios, procesos y procedimientos sean universalmente accesibles. Crearemos el Fondo Estatal para la Accesibilidad Universal, y fomentaremos la edición de información y materiales en formato de fácil lectura, con especial atención a documentos de relevancia para la calidad de vida de las personas con discapacidad.
+categories: Derechos y servicios sociales
+topics: Discapacidad

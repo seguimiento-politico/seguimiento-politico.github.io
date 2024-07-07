@@ -1,6 +1,6 @@
 id: 8dbf55ad-3c52-4329-af07-741ca767e308
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 28
+parent_chapter: 7050dcc2-4872-4bb3-bb77-ab8f5251301a
+text: Preservar el paisaje como parte de nuestro patrimonio natural, expresión de la belleza genuina de nuestra Nación, garantizando su armonía con las comunidades humanas, el patrimonio histórico, la agricultura y ganadería, la caza y resto de actividades humanas.
 categories:
 - Medioambiente
-text: Preservar el paisaje como parte de nuestro patrimonio natural, expresión de la belleza genuina de nuestra Nación, garantizando su armonía con las comunidades humanas, el patrimonio histórico, la agricultura y ganadería, la caza y resto de actividades humanas.

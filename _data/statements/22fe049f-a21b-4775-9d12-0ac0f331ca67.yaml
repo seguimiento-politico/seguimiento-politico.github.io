@@ -1,6 +1,6 @@
 id: 22fe049f-a21b-4775-9d12-0ac0f331ca67
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 108
+parent_chapter: 53e985a7-ccca-4361-878f-54715b325327
+text: Hemos reducido significativamente el número de interinos en la educación pública y ahora es el momento de promover una modificación de los sistemas de acceso y procesos de selección para identificar los docentes más idóneos que acceden a la función pública.
 categories: Educación
 topics: Profesorado
-text: Hemos reducido significativamente el número de interinos en la educación pública y ahora es el momento de promover una modificación de los sistemas de acceso y procesos de selección para identificar los docentes más idóneos que acceden a la función pública.

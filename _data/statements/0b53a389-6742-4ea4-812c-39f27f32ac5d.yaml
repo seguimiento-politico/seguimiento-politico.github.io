@@ -1,6 +1,6 @@
 id: 0b53a389-6742-4ea4-812c-39f27f32ac5d
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,9 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 164
+parent_chapter: 2fd23be2-e41d-4c13-aa3d-11392bf2ab12
+children_promises:
+- 29d6a8b0-f6c1-4dd5-bf08-d50c521b5d9c
+- afabadda-bf51-435f-9a25-82ec9f977ed2
+children_statements: []
+title: ' Implementación de una política de desgravación fiscal condicionada a la puesta en marcha de planes de inversión de descarbonización y autonomía energética.'
 categories: Educación
 topics:
 - Financiacíón
 - Gobernanza y transparencia
-title: ' Implementación de una política de desgravación fiscal condicionada a la puesta en marcha de planes de inversión de descarbonización y autonomía energética.'
-has_children: true

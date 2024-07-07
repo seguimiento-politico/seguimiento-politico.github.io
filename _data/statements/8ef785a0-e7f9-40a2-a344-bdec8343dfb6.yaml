@@ -1,6 +1,6 @@
 id: 8ef785a0-e7f9-40a2-a344-bdec8343dfb6
-type: declaration
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 96
-categories: Política internacional
+parent_chapter: 65567664-6676-4d53-b234-fd4300e68287
 title: DAR SERVICIO DE CALIDAD A LOS ESPAÑOLES EN EL EXTERIOR
 text: España debe potenciar su servicio exterior para cubrir satisfactoriamente las necesidades de sus nacionales en el exterior, una comunidad de cerca de 3 millones de personas a los que hay que sumar sus familias y los millones de españoles que se desplazan al extranjero cada año. El refuerzo de nuestras capacidades consulares será, por tanto, una prioridad de nuestra acción exterior.
+categories: Política internacional

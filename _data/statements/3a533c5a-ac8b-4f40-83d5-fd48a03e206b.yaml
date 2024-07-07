@@ -1,7 +1,6 @@
 id: 3a533c5a-ac8b-4f40-83d5-fd48a03e206b
 type: promise
-parent_statement: f64ce864-55f6-487c-9ee6-398e259e5bbc
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,6 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 171
+parent_statement: f64ce864-55f6-487c-9ee6-398e259e5bbc
+parent_chapter: 1ba59a71-2649-49ec-b7ab-7b3f541edfea
+text: Aprobaremos una nueva fórmula de jubilación parcial anticipada que preserve la calidad del empleo de los relevistas a través de contratos indefinidos; y se tendrá en cuenta la mayor penosidad del desarrollo de ciertas actividades (en muchos casos, fuertemente feminizadas) a partir de cierta edad.
 categories: Derechos y servicios sociales
 topics: Pensiones
-text: Aprobaremos una nueva fórmula de jubilación parcial anticipada que preserve la calidad del empleo de los relevistas a través de contratos indefinidos; y se tendrá en cuenta la mayor penosidad del desarrollo de ciertas actividades (en muchos casos, fuertemente feminizadas) a partir de cierta edad.

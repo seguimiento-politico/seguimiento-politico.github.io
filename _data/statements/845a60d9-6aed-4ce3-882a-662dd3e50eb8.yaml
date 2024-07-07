@@ -1,6 +1,6 @@
 id: 845a60d9-6aed-4ce3-882a-662dd3e50eb8
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 204
-categories: Sanidad
+parent_chapter: 37c252c3-559d-48f0-90b9-262c074594b5
 text: Mejoraremos el acceso a medicamentos, garantizando la equidad y sostenibilidad dentro del Sistema Nacional de Salud mediante la creación de una autoridad independiente de evaluación de la financiación y fijación de precio de los medicamentos y productos sanitarios, adscrita al Ministerio de Sanidad.
+categories: Sanidad

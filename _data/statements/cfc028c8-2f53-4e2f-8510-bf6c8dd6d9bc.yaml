@@ -1,6 +1,6 @@
 id: cfc028c8-2f53-4e2f-8510-bf6c8dd6d9bc
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 102
-categories: Política internacional
+parent_chapter: 6c487e14-3e0d-4200-bdc9-70b5eb4d801e
 text: ÁFRICA RECLAMA NUESTRO APOYO EN ÁREAS COMO LA PAZ Y LA SEGURIDAD, el fortalecimiento institucional y democrático, la lucha contra el terrorismo y el tráfico de seres humanos, la migración irregular y el auge de fundamentalismos. Ayudaremos al desarrollo robusto y sostenible del continente y el empoderamiento de la mujer. Difundiremos un mayor conocimiento acerca de la potencialidad de las relaciones entre España y África de la mano de la sociedad civil, en especial de la juventud y de los españoles afrodescendientes.
+categories: Política internacional

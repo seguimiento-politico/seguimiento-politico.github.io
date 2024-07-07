@@ -1,7 +1,6 @@
 id: 4f12435a-e049-4157-9277-4a2f1d6514bc
 type: promise
-parent_statement: 4d612059-382b-491d-ab24-b081925e2972
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,6 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 161
+parent_statement: 4d612059-382b-491d-ab24-b081925e2972
+parent_chapter: a1efcde1-0a8f-4714-a322-82c28d8f6a7e
+text: Las recomendaciones de esos informes irán seguidas de cambios legales y políticas específicas, así como de su seguimiento.
 categories: Sanidad
 topics: Igualdad
-text: Las recomendaciones de esos informes irán seguidas de cambios legales y políticas específicas, así como de su seguimiento.

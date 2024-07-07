@@ -1,7 +1,6 @@
 id: 108fc377-b60a-4599-9ab1-df61bb093822
 type: promise
-parent_statement: c61348f7-0ecc-497e-b217-fdd68675e47e
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,4 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: c61348f7-0ecc-497e-b217-fdd68675e47e
+parent_chapter: 27ff313e-64fe-41ca-bc72-c44fafac350d
 text: Adaptar la certificación energética para que considere las temperaturas futuras, el confort pasivo y el efecto isla de calor.
+topics: Cambio climático

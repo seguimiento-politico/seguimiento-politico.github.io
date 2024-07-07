@@ -1,11 +1,12 @@
 id: a4c080fa-f142-4e47-9640-803bec449fb5
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 32
-categories: Educación
+parent_chapter: d01d08b0-ad16-47ca-a6fa-7d638f061cfa
 text: Ampliaremos a todas las comunidades autónomas la educación concertada al Bachillerato y la Formación Profesional básica para que esta no sea una etapa que queda fuera del sistema de financiación actual.
+categories: Educación

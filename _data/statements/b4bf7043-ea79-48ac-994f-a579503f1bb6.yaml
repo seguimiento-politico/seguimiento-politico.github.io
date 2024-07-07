@@ -1,7 +1,6 @@
 id: b4bf7043-ea79-48ac-994f-a579503f1bb6
 type: promise
-parent_statement: 609ff093-3fee-47ec-b36b-574150de3b3d
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Administración pública
+parent_statement: 609ff093-3fee-47ec-b36b-574150de3b3d
+parent_chapter: f4f32036-0cfd-4ca9-b6f3-5cfec1c58526
 text: Al mismo tiempo, es necesario mejorar los procesos de estabilización laboral iniciados con la Ley 20/2021 de medidas urgentes para la reducción de la temporalidad en el empleo público.
+categories: Administración pública

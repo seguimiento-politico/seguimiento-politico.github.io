@@ -1,7 +1,6 @@
 id: d0fed2e7-82aa-4659-a13f-a2a9f6c5581f
 type: promise
-parent_statement: bddeb4fd-a08e-4191-9c48-665aa1460cb1
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Deporte
+parent_statement: bddeb4fd-a08e-4191-9c48-665aa1460cb1
+parent_chapter: 1f3cf0db-d571-4433-a626-3036186931e1
 text: 'Debemos tener la ambición de apostar por un nuevo marco deportivo. En esta dirección, se ha de aplicar el concepto de «inclusión social» como elemento transversal y vertebrador de una sociedad cohesionada, también a través del deporte, implicando para ello a todas las instituciones y entidades que trabajen en este ámbito (por ejemplo, el tercer sector: asociaciones de mujeres, inmigrantes, personas desempleadas, cooperación al desarrollo, personas con discapacidad, centros penitenciarios, entre otros) y desarrollar acciones dirigidas a promocionar el deporte entre las personas en situación de vulnerabilidad; en especial, entre personas con discapacidad. '
+categories: Deporte

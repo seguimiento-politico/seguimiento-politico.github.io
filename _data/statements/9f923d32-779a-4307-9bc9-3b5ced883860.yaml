@@ -1,11 +1,12 @@
 id: 9f923d32-779a-4307-9bc9-3b5ced883860
-type: declaration
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+type: statement
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 87
-categories: Seguridad y defensa
+parent_chapter: adfdbb68-8e6d-41fa-b953-fcd2789530ea
 text: La principal función del Estado es la de garantizar la seguridad de los ciudadanos y proteger sus bienes. El terrorismo existe, el tráfico de seres humanos existe, el crimen existe y tenemos que defendernos frente a ellos.
+categories: Seguridad y defensa

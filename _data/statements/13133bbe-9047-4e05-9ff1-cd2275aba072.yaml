@@ -1,6 +1,6 @@
 id: 13133bbe-9047-4e05-9ff1-cd2275aba072
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 264
+parent_chapter: 79744ba7-ffbb-40f2-b730-179f4a4aec89
+text: Seguiremos protegiendo a aquellas personas latinoamericanas que se vean privadas de manera arbitraria de sus derechos fundamentales, realizando un esfuerzo especial con las personas defensoras de los derechos humanos.
 categories: Política internacional
 topics: América latina
-text: Seguiremos protegiendo a aquellas personas latinoamericanas que se vean privadas de manera arbitraria de sus derechos fundamentales, realizando un esfuerzo especial con las personas defensoras de los derechos humanos.

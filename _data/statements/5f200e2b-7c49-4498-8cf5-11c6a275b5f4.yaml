@@ -1,7 +1,6 @@
 id: 5f200e2b-7c49-4498-8cf5-11c6a275b5f4
 type: promise
-parent_statement: a46944c4-4f63-484c-9ff6-73e96cd9ef83
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Derechos y servicios sociales
+parent_statement: a46944c4-4f63-484c-9ff6-73e96cd9ef83
+parent_chapter: 6bea7d15-32ea-402e-8fad-42663ddea615
 text: Impulsaremos una Ley de Garantía de la Igualdad de Acceso a los Servicios Sociales, que declare estos servicios públicos como esenciales, que convierta en derecho subjetivo el acceso a los mismos y que, además, simplifique los trámites administrativos vinculados a ese acceso.
+categories: Derechos y servicios sociales

@@ -1,6 +1,6 @@
 id: 56398f43-25f1-439c-9af9-ab596624c2c3
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 140
-categories: Política internacional
+parent_chapter: 4d3afa99-1301-4519-a703-6dfe49d7e832
+children_promises:
+- 86885aef-b2c6-4bac-9878-81be9f5636f3
+- e1b1008e-c585-40d1-99b4-773072836470
+- 160cb13e-e772-4601-8aa3-8247c33cb082
+children_statements: []
 title: Una internacional feminista y orgullosamente diversa.
-has_children: true
+categories: Política internacional

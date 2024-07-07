@@ -1,6 +1,6 @@
 id: e9ae4c9e-32a8-4508-997b-a2ddf7629cc5
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 46
-categories: Sanidad
+parent_chapter: 5c8d94eb-aad0-4b93-8408-511875a0e54f
 text: DE LA MANO DE LAS SOCIEDADES CIENTÍFICAS, ACTUALIZAREMOS LOS PROGRAMAS FORMATIVOS DE LAS DIFERENTES ESPECIALIDADES y los procesos de recertificación de competencias. APROBAREMOS UNA NUEVA LEY GENERAL DE SANIDAD que incorpore las mejores prácticas, elimine regulaciones obsoletas, actualice la gobernanza del SNS y aborde la integración entre los sistemas sanitario y sociosanitario. Esta nueva legislación integrará la necesaria modernización del marco normativo sobre amenazas de salud pública, con el fin de dotar a España de mecanismos garantistas para la toma de medidas de control de las enfermedades transmisibles, siguiendo las recomendaciones de los órganos consultivos y judiciales.
+categories: Sanidad

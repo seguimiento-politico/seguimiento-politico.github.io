@@ -1,6 +1,6 @@
 id: 292e7b9e-d8ce-4803-be76-b7c54419ffa2
-type: declaration
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+type: statement
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 16
+parent_chapter: b8550311-badb-44f7-aafe-46f10435e0b1
 text: Las prioridades enunciadas requieren, para ser desarrolladas con éxito, el perfeccionamiento del Estado Autonómico y la máxima cohesión territorial. La España autonómica es una España democrática, plural, abierta, europea y moderna, que reconoce la diversidad a partir de la unidad. Para alcanzar nuestras metas debemos ser capaces de reconocer plenamente la diversidad y de conseguir un funcionamiento más integrado del modelo autonómico, en el que la mayoría de la población de todos los territorios se sienta partícipe.

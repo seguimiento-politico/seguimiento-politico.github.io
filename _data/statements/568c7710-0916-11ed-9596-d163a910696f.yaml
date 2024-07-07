@@ -1,6 +1,6 @@
 id: 568c7710-0916-11ed-9596-d163a910696f
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,7 +10,16 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 23
+parent_chapter: 818f7603-2f02-4ce5-ae43-b3ca06cfb5db
+children_promises:
+- 223a473f-695d-4b4b-ac29-7524aebfc352
+- de0c7eb4-912c-4a19-8ff4-aebb26247bf9
+- 3de9ad3d-81c1-4d2b-99b4-18270d28cf21
+- 45ee56d7-82ff-4bd7-a0a2-bbb6c963d23c
+- 674bccc3-7413-4e2e-93fe-ab4ee73ca7d3
+- 3f9d6870-1066-4d42-b7f1-efbf68c778b6
+- a4541dc1-7c4b-4489-9d8e-d6bce0f31be5
+children_statements: []
+text: Aprobación del Plan nacional integrado de energía y clima, reforma del mercado eléctrico y bajada de la factura, como principales instrumentos para complementar y desarrollar la ley de cambio climático, estableciendo las sendas a seguir, definiendo el mix energético para el periodo 2021-2030, haciendo el sistema más justo socialmente y dando certidumbre a los inversores antiguos y futuros.
 categories: Medioambiente
 topics: Cambio climático
-text: Aprobación del Plan nacional integrado de energía y clima, reforma del mercado eléctrico y bajada de la factura, como principales instrumentos para complementar y desarrollar la ley de cambio climático, estableciendo las sendas a seguir, definiendo el mix energético para el periodo 2021-2030, haciendo el sistema más justo socialmente y dando certidumbre a los inversores antiguos y futuros.
-has_children: true

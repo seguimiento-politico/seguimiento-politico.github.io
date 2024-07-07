@@ -1,6 +1,6 @@
 id: 757ed139-fddc-47c7-a706-1acc15af805d
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 100
+parent_chapter: 4b1a1fd6-83f2-4e8c-a775-7e65f72f50be
 title: Garantizar a través de la Ley de Servicios Sociales una cartera mínima de servicios en cualquier lugar de España.
 text: Consensuada con las comunidades autónomas, esta norma dará entidad a los servicios sociales, delimitándolos como un catálogo de servicios, cuidados, apoyos e intervenciones para complementar y potenciar la autonomía funcional en la vida cotidiana Asimismo, vincularemos el modelo de servicios sociales a la creación de empleo estable y de calidad, y garantizaremos una cartera estatal de servicios que salvaguarden la dignidad, la privacidad, la igualdad y la justicia Se tratará de un catálogo de servicios mínimos y comunes de gestión descentralizada, que se coordinarán con otras políticas públicas para proporcionar una atención integral en todas las comunidades autónomas

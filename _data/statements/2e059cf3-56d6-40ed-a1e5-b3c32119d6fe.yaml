@@ -1,7 +1,6 @@
 id: 2e059cf3-56d6-40ed-a1e5-b3c32119d6fe
 type: promise
-parent_statement: 7079f0a0-b41d-4cdc-8a6b-50a082f7de55
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -10,5 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 52
-categories: Política internacional
+parent_statement: 7079f0a0-b41d-4cdc-8a6b-50a082f7de55
+parent_chapter: 06572758-339c-4185-bcc1-2905946110b7
 text: Reforzaremos la perspectiva de género y de protección de la infancia en las políticas de cooperación e incorporaremos la educación para el desarrollo y para una ciudadanía global en la reforma del sistema educativo, garantizando al mismo tiempo la coherencia de políticas en la acción del Gobierno.
+categories: Política internacional

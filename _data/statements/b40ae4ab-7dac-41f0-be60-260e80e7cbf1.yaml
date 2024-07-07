@@ -1,6 +1,6 @@
 id: b40ae4ab-7dac-41f0-be60-260e80e7cbf1
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 40
-categories: Territorio rural
+parent_chapter: 99cdd206-1c9e-4ad4-b1db-c1d0f646f51a
 text: Desarrollaremos la cobertura de más de 30 Mbps y de 3G para el 100% de la ciudadanía a un precio asequible; garantizaremos redes ultrarrápidas de 100 Mbps en las escuelas españolas; e incorporaremos el impacto demográfico en la elaboración de leyes, programas e inversiones públicas.
+categories: Territorio rural

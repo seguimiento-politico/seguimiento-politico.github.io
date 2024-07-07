@@ -1,6 +1,6 @@
 id: b0de7830-58ae-49e1-9cea-0118bb301f52
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 21
+parent_chapter: 5ac453aa-319d-4ea3-b4b6-7a63e3dde3ff
+children_promises:
+- 82e44136-c30a-44af-9cd0-6995b636efce
+- 5283e124-39a1-464c-bc14-50b6a81b7087
+children_statements: []
+title: Aprobación de una normativa estatal para la mejora de la composición y la calidad nutricional de los menús en los comedores escolares
 categories: Consumo
 topics: Consumo sostenible
-title: Aprobación de una normativa estatal para la mejora de la composición y la calidad nutricional de los menús en los comedores escolares
-has_children: true

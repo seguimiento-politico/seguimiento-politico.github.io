@@ -1,7 +1,6 @@
 id: 0a6c6222-115b-4524-b91c-d6dac9556c75
-type: declaration
-parent_statement: 6eb3bb2c-8908-41b6-b929-98886f9c751b
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 6eb3bb2c-8908-41b6-b929-98886f9c751b
+parent_chapter: b82b7f57-da6b-4fd4-8a55-f1773ebd9608
+text: Como tantos otros ámbitos, la transformación de la Administración pública reclama disponer de espacios innovadores, así como promover una gestión de los datos y del conocimiento.
 categories: Democracia
 topics: Administración pública
-text: Como tantos otros ámbitos, la transformación de la Administración pública reclama disponer de espacios innovadores, así como promover una gestión de los datos y del conocimiento.

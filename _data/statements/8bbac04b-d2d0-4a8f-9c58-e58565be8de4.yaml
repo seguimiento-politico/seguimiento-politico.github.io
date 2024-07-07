@@ -1,6 +1,6 @@
 id: 8bbac04b-d2d0-4a8f-9c58-e58565be8de4
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 160
+parent_chapter: 6fa4a5cf-07ee-4bc7-9747-5ca7f92803fb
+children_promises:
+- 270193e0-b83f-4cf6-bc79-525dae7c61aa
+- c50241fb-b937-4f95-9449-33405e808e10
+- f8b1b364-cd90-47f8-9362-c8b47d76dbe1
+- f47dc956-2a84-4b9b-8c6c-706644b437e4
+children_statements: []
+title: 'Universidad: Aumento de la oferta de becas en función de la renta y de otros soportes requeridos para, con ello, minimizar la precariedad vital y educativa del estudiantado'
 categories: Educación
 topics: Universidad
-title: 'Universidad: Aumento de la oferta de becas en función de la renta y de otros soportes requeridos para, con ello, minimizar la precariedad vital y educativa del estudiantado'
-has_children: true

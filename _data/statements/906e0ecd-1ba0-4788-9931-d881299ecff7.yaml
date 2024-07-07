@@ -1,6 +1,6 @@
 id: 906e0ecd-1ba0-4788-9931-d881299ecff7
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 26
-categories: Migración
+parent_chapter: 5f0d7f53-8d55-4de4-a19d-e4610d909ada
 text: La identidad nacional de España se forjó en su historia conjunta con las naciones de la Iberosfera. Nuestra política de inmigración atenderá de forma prioritaria a los ciudadanos procedentes de las naciones que comparten idioma e importantes lazos de amistad, historia y cultura con España.
+categories: Migración

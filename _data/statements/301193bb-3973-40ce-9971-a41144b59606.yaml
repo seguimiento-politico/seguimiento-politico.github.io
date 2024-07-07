@@ -1,6 +1,6 @@
 id: 301193bb-3973-40ce-9971-a41144b59606
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 79
+parent_chapter: e8dfe9de-3810-49ea-b9d4-db89a96eabfb
+text: Mejoraremos y modernizaremos la red de Cercanías, acelerando los Planes de Cercanías que ya estamos ejecutando con un gran ritmo inversor.
 categories: Transporte
 topics: Ferrocarril, Cercanías
-text: Mejoraremos y modernizaremos la red de Cercanías, acelerando los Planes de Cercanías que ya estamos ejecutando con un gran ritmo inversor.

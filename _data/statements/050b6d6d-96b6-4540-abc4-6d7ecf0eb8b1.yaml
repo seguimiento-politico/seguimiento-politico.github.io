@@ -1,6 +1,6 @@
 id: 050b6d6d-96b6-4540-abc4-6d7ecf0eb8b1
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 55
-categories: Sanidad
+parent_chapter: befa4347-5ac5-4c3d-853b-7fc9b83921e6
 text: La vida y la salud física son bienes preciosos y deben ser cuidados racionalmente teniendo en cuenta las necesidades de nuestros compatriotas, la deontología profesional y el bien común. Priorizaremos la inversión y reordenación de los servicios de sanidad y salud pública con la misión de curar y cuidar, situando a las personas en el centro y atendiendo su dimensión física, psicológica, espiritual, familiar y social.
+categories: Sanidad

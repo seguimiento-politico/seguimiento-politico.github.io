@@ -1,6 +1,6 @@
 id: eb61d17a-4eb4-4864-ab83-a77a5e439a54
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 58
-categories: Sanidad
+parent_chapter: befa4347-5ac5-4c3d-853b-7fc9b83921e6
 text: Reforzaremos la Estrategia Nacional de Salud Mental, reforzando la prevención. Serán áreas prioritarias la prevención del suicidio y conductas autolíticas, los trastornos alimentarios y de autismo, así como las adicciones.
+categories: Sanidad

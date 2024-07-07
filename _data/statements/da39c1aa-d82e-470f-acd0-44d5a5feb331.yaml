@@ -1,6 +1,6 @@
 id: da39c1aa-d82e-470f-acd0-44d5a5feb331
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 206
+parent_chapter: 2fec9ef5-b6cb-42aa-8f02-edc1779feaaa
+text: Acordaremos la Estrategia Nacional de Adicciones 2025-32, tras evaluar la Estrategia 2017-24.
 categories: Sanidad
 topics:
 - Drogas
 - Adicciones
-text: Acordaremos la Estrategia Nacional de Adicciones 2025-32, tras evaluar la Estrategia 2017-24.

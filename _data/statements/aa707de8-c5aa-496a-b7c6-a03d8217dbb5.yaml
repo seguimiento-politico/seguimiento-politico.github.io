@@ -1,6 +1,6 @@
 id: aa707de8-c5aa-496a-b7c6-a03d8217dbb5
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 34
-categories: Trabajo
+parent_chapter: 2e87f7f8-d5a3-47a6-82d5-b25f36e88929
+children_promises:
+- 2b3a88c5-a342-49a6-8709-028dea4e39eb
+- 5dcc4f3f-efa9-4055-9de9-41801fc57967
+- 12202652-1e52-4a7e-b310-48b5c174e040
+children_statements: []
 title: Impulsaremos una reforma constitucional que garantice sólidamente los derechos sociales y, en concreto, que blinde el derecho a la Seguridad Social.
-has_children: true
+categories: Trabajo

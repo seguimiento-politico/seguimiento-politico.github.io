@@ -1,7 +1,6 @@
 id: 2de1cdcb-191c-4970-9cbf-31cbb6357f4b
 type: promise
-parent_statement: ea4d4cec-666b-4f50-a9f8-aa8cab1536f8
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: ea4d4cec-666b-4f50-a9f8-aa8cab1536f8
+parent_chapter: 2d06e79f-d667-441b-b7cf-513970c6ccde
+text: Eliminaremos la entrada de nutrientes y otros contaminantes (metales pesados y pesticidas).
 categories: Medioambiente
 topics: Biodiversidad
-text: Eliminaremos la entrada de nutrientes y otros contaminantes (metales pesados y pesticidas).

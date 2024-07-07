@@ -1,13 +1,14 @@
 id: 017ef48a-4bc5-4ec2-ae95-9587fdf0411a
 type: promise
-parent_statement: 24dc257f-332b-4387-a03c-019117c955b1
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 55
+parent_statement: 24dc257f-332b-4387-a03c-019117c955b1
+parent_chapter: 3e3d9e00-f82c-4af6-a3f8-4dc153933036
+text: Mejoraremos los Protocolos de Atención Sanitaria contra la violencia de género, como medio de prevención y detección precoz.
 categories: Seguridad y defensa
 topics: Violencia de género
-text: Mejoraremos los Protocolos de Atención Sanitaria contra la violencia de género, como medio de prevención y detección precoz.

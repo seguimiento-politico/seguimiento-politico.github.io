@@ -1,6 +1,6 @@
 id: 4bb75934-1c3c-4ac1-8e50-c7fe2384090c
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 47
+parent_chapter: 493fd51c-7cfd-4b5e-bc63-efcefe3f24e6
 title: Reconocer e impulsar el sector del diseño.
 text: Aunque el diseño es un sector importante tanto cultural como económicamente, no recibe un tratamiento adecuado por parte de los poderes públicos Crearemos, para ello, una entidad de carácter público que mapee y pueda proponer políticas eficaces para la visibilidad y viabilidad del sector, al tiempo que promueve un Museo del Diseño Estableceremos también un epígrafe específico en el impuesto sobre actividades económicas para quienes trabajan en este ámbito y medidas específicas para contrarrestar la precariedad que se ha instalado en el sector Para fortalecerlo, es imprescindible también que la formación en diseño cuente con recursos públicos suficientes que impidan el predominio casi en exclusiva de la formación privada

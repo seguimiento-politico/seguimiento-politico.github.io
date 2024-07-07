@@ -1,6 +1,6 @@
 id: 931fae30-e448-47aa-925d-8460d7e1247b
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 66
-categories: Derechos y servicios sociales
+parent_chapter: d8e47013-d4f2-4ad6-a46d-2514ab7cb432
 text: Impulsaremos, junto con los ayuntamientos, la supresión de las barreras arquitectónicas para garantizar la plena movilidad de los españoles con discapacidad; así como fomentaremos las actividades deportivas para personas con discapacidad.
+categories: Derechos y servicios sociales

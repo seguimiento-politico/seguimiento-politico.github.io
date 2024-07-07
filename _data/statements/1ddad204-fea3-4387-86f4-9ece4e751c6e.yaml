@@ -1,6 +1,6 @@
 id: 1ddad204-fea3-4387-86f4-9ece4e751c6e
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 162
+parent_chapter: 33353ebf-b8a9-4c5c-9baf-00596f9684cd
+text: Abordaremos la problemática de la falta de vivienda es un factor clave para alcanzar la igualdad de género y erradicar gran parte de la pobreza de las zonas de transformación social.
 categories: Derechos y servicios sociales
 topics:
 - Desigualdad
 - Pobreza
-text: Abordaremos la problemática de la falta de vivienda es un factor clave para alcanzar la igualdad de género y erradicar gran parte de la pobreza de las zonas de transformación social.

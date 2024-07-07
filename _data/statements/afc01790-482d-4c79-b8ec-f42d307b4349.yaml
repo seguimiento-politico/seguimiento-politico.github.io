@@ -1,6 +1,6 @@
 id: afc01790-482d-4c79-b8ec-f42d307b4349
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 21
+parent_chapter: 5ac453aa-319d-4ea3-b4b6-7a63e3dde3ff
+children_promises:
+- fd29dbd8-02cd-4d77-8f36-db819ca0274d
+children_statements:
+- d4f04d31-de85-4e90-8301-76ffb68eb463
+title: Aseguraremos un etiquetado inclusivo y accesible
 categories: Consumo
 topics: Consumo sostenible
-title: Aseguraremos un etiquetado inclusivo y accesible
-has_children: true

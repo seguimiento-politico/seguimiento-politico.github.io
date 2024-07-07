@@ -1,6 +1,6 @@
 id: 6a18343f-6867-488f-90af-8cd46300a9d6
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 81
+parent_chapter: ef0bb89b-1b90-4682-a618-d8eea7201020
 text: Dignificar la situación de las funcionarias y los funcionarios de prisiones. Por un lado, mejoraremos sus condiciones sociolaborales, en cuanto a retribución, formación y medios, con la equiparación de condiciones entre personal funcionario y laboral, una adecuación de los complementos conforme a una retribución lineal y un proceso de negociación con las asociaciones y los sindicatos Por otro lado, incrementaremos esta plantilla para responder a las 3400 vacantes actuales sin cubrir y resolver con empleo público la masificación de las prisiones, en lugar de hacerlo con personal precario y sin formación adecuada En este sentido, desprivatizaremos la vigilancia de los perímetros de las cárceles, ya que se trata de un servicio de seguridad pública que deben asumir la Policía y la Guardia Civil, como esta ya hacía antes en exclusiva Así, se dispondrá de recursos para mejorar las condiciones laborales de la Policía, la Guardia Civil y los funcionarios y las funcionarias de prisiones, así como la vida de las personas reclusas

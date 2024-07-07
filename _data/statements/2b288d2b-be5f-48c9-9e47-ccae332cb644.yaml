@@ -1,7 +1,6 @@
 id: 2b288d2b-be5f-48c9-9e47-ccae332cb644
 type: promise
-parent_statement: 5a50c36d-9418-4b3b-869c-cacf48675f4f
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: 5a50c36d-9418-4b3b-869c-cacf48675f4f
+parent_chapter: a032ad89-ff94-4e43-a3b0-dfbbc59e0d4a
+text: Garantizaremos el uso de la inteligencia artificial también en español, mediante la puesta en marcha del PERTE de la Nueva Economía de la Lengua como oportunidad para aprovechar el potencial del español y de las lenguas cooficiales como factor de crecimiento económico y competitividad internacional, así como para incorporar nuevas herramientas tecnológicas para la gestión y el procesamiento de dichos contenidos por parte de medios de información en español y en las lenguas cooficiales.
 categories: Derechos y servicios sociales
 topics: Digitalización
-text: Garantizaremos el uso de la inteligencia artificial también en español, mediante la puesta en marcha del PERTE de la Nueva Economía de la Lengua como oportunidad para aprovechar el potencial del español y de las lenguas cooficiales como factor de crecimiento económico y competitividad internacional, así como para incorporar nuevas herramientas tecnológicas para la gestión y el procesamiento de dichos contenidos por parte de medios de información en español y en las lenguas cooficiales.

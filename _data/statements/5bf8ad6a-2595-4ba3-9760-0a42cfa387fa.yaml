@@ -1,12 +1,13 @@
 id: 5bf8ad6a-2595-4ba3-9760-0a42cfa387fa
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 17
+parent_chapter: b019b40e-f2ac-4d25-bf11-14a963b4bdaf
+text: Las comunidades autónomas en las que gobierne el PP establecerán deducciones en el IRPF para menores de 35 años y familias con al menos un hijo.
 categories:
 - Impuestos y financiación pública
-text: Las comunidades autónomas en las que gobierne el PP establecerán deducciones en el IRPF para menores de 35 años y familias con al menos un hijo.

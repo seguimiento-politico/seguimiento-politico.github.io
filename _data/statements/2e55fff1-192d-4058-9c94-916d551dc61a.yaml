@@ -1,6 +1,6 @@
 id: 2e55fff1-192d-4058-9c94-916d551dc61a
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,18 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 175
-categories: Deporte
+parent_chapter: 1f3cf0db-d571-4433-a626-3036186931e1
+children_promises:
+- a6ad61fc-7985-4b61-9058-0d3a1c84f4bd
+- 6f623cd2-3e1f-472e-9336-6aa2b1ca9343
+- 8cb7ec30-3457-4279-a77c-8872aeeb6521
+- 6b1db7f7-5cd6-47a4-be1c-d03636dcd7d4
+- 21da893f-7f0f-4fcb-a535-e73f7d5f988d
+- 3353e263-6a79-40a7-84f0-7feb70684c0c
+- 9390ea9e-1350-45c1-988a-48e575ab648b
+- 12847399-6b0e-434b-a528-c06c3b68a3bd
+- b391b9ea-0d3a-4537-a9bc-086e0bcc0da2
+- 4be05944-e2d3-4125-abc1-7aeb2bc84106
+children_statements: []
 title: Lograr la igualdad de género efectiva en el deporte
-has_children: true
+categories: Deporte

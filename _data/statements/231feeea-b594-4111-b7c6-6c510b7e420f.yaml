@@ -1,6 +1,6 @@
 id: 231feeea-b594-4111-b7c6-6c510b7e420f
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,17 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 78
-categories: Vivienda
+parent_chapter: 10dbdb5a-3231-46ed-86c9-0dc18f77040e
+children_promises:
+- 08888ddc-d320-46c5-929b-c83d600312e4
+- 1b3b36d5-d82e-4715-8614-93152a806549
+- 9324bd1a-0da9-4d8e-bc02-a8e4eabbbe37
+- 2ead0499-6c2e-434d-b669-8e7c3b6c810d
+- 0e7b5df2-87b6-4964-853b-6aef4cbeebe1
+- 7831978d-f746-4831-89b9-62e222c642e1
+- e804fe74-8e2b-462b-a754-e1a378e08893
+- b5ead7c1-df74-4a20-a72b-e2e4e0e6d883
+- 5db11d2d-e0ee-4b18-a0cd-ba8428e4a154
+children_statements: []
 title: Hipotecas, banco público y otras medidas
-has_children: true
+categories: Vivienda

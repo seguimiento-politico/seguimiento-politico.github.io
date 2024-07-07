@@ -1,6 +1,6 @@
 id: 4e8c0920-4c94-4bd9-8eff-49c00927a0a4
-type: declaration
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+type: statement
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 31
+parent_chapter: ae5a6fe5-1ad0-440d-afd6-f5ed127ebd97
+text: La politización de la Justicia es una de las señales más evidentes del deterioro de las instituciones en España. Desde la entrada en vigor de la Ley Orgánica del Poder Judicial en 1985, los partidos políticos han tratado de parasitar y controlar las más altas instancias judiciales.
 categories:
 - Justicia
-text: La politización de la Justicia es una de las señales más evidentes del deterioro de las instituciones en España. Desde la entrada en vigor de la Ley Orgánica del Poder Judicial en 1985, los partidos políticos han tratado de parasitar y controlar las más altas instancias judiciales.

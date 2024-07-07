@@ -1,6 +1,6 @@
 id: 421ef045-1f5a-4feb-a21a-01c846a0d21b
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 103
+parent_chapter: 4b1a1fd6-83f2-4e8c-a775-7e65f72f50be
 title: Aprobar la Ley de Protección de los Derechos Humanos en relación con actividades de las empresas transnacionales.
 text: A través de esta norma, articularemos una protección efectiva frente a las vulneraciones de los derechos humanos que incluya, al menos, mecanismos para el acceso a la Justicia española y la reparación de las víctimas y de las comunidades afectadas, la obligación de incorporar las normas de reconocimiento y garantía de los derechos humanos a cualquier tratado comercial o acuerdo de protección de inversiones que suscriba nuestro país, y el establecimiento de la responsabilidad de las grandes corporaciones y de su personal directivo en su jurisdicción nacional, desde la perspectiva civil, administrativa y, en su caso, penal

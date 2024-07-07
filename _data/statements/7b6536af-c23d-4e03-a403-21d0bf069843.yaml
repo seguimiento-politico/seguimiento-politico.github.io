@@ -1,7 +1,6 @@
 id: 7b6536af-c23d-4e03-a403-21d0bf069843
 type: promise
-parent_statement: 7edfaa52-05b7-473a-9deb-b99519a4db16
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 7edfaa52-05b7-473a-9deb-b99519a4db16
+parent_chapter: 0954599d-af78-4370-9f76-a716d889661d
+text: Creación del Consejo de la Productividad de España. Siguiendo la recomendación de 2016 del Consejo Europeo, y como ya han hecho otros diecinueve países de la UE, este órgano integrará a los distintos niveles de la Administración pública con competencias relacionadas con la materia, a las organizaciones empresariales, a los sindicatos, a universidades, a institutos de investigación y a especialistas de reconocido prestigio. Emitirá informes y recomendaciones sobre aquellas políticas necesarias para impulsar la productividad y hará un seguimiento de sus resultados.
 categories: Economía
 topics: Productividad
-text: Creación del Consejo de la Productividad de España. Siguiendo la recomendación de 2016 del Consejo Europeo, y como ya han hecho otros diecinueve países de la UE, este órgano integrará a los distintos niveles de la Administración pública con competencias relacionadas con la materia, a las organizaciones empresariales, a los sindicatos, a universidades, a institutos de investigación y a especialistas de reconocido prestigio. Emitirá informes y recomendaciones sobre aquellas políticas necesarias para impulsar la productividad y hará un seguimiento de sus resultados.

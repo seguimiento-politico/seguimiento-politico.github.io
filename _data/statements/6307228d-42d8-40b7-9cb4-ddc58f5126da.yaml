@@ -1,6 +1,6 @@
 id: 6307228d-42d8-40b7-9cb4-ddc58f5126da
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_chapter: 331ce36f-074b-4465-862b-e49ae81827a5
+text: 'La ocupación ilegal de viviendas es un hecho grave y debe combatirse, especialmente la acción de las mafias. Por eso, para el Gobierno de España ha sido una prioridad dar respuesta y certidumbre a todos aquellas personas que en algún momento se han podido ver inquietados en el pacífico disfrute de su vivienda o de sus propiedades. En ese sentido:'
 categories: Vivienda
 topics: Ocupación
-text: 'La ocupación ilegal de viviendas es un hecho grave y debe combatirse, especialmente la acción de las mafias. Por eso, para el Gobierno de España ha sido una prioridad dar respuesta y certidumbre a todos aquellas personas que en algún momento se han podido ver inquietados en el pacífico disfrute de su vivienda o de sus propiedades. En ese sentido:'

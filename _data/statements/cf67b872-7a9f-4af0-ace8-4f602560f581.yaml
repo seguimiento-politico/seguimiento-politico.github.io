@@ -1,7 +1,6 @@
 id: cf67b872-7a9f-4af0-ace8-4f602560f581
 type: promise
-parent_statement: 06ee3772-ef75-47e4-b1e5-84609a110918
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 06ee3772-ef75-47e4-b1e5-84609a110918
+parent_chapter: 999e9dab-efca-4092-a144-a19ca4ee5302
+text: Vida independiente. Vamos a acabar con la institucionalización forzosa de las personas con discapacidad a través de una estrategia estatal de inclusión en la comunidad y en coherencia con la Estrategia Estatal de Desinstitucionalización.
 categories: Derecuos y servicios sosciales
 topics: Discapacidad
-text: Vida independiente. Vamos a acabar con la institucionalización forzosa de las personas con discapacidad a través de una estrategia estatal de inclusión en la comunidad y en coherencia con la Estrategia Estatal de Desinstitucionalización.

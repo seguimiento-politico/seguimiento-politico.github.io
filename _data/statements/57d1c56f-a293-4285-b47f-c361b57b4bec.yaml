@@ -1,6 +1,6 @@
 id: 57d1c56f-a293-4285-b47f-c361b57b4bec
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 176
+parent_chapter: 49910009-ba4c-43f1-989a-c8fe29e8fb41
+text: Todos los servicios y prestaciones del sistema se deberán reorientar y adaptar hacia el modelo integral y centrado en la persona, para garantizar la dignidad y los derechos de las personas en situación de dependencia.
 categories: Derechos y servicios sociales
 topics: Cuidados
-text: Todos los servicios y prestaciones del sistema se deberán reorientar y adaptar hacia el modelo integral y centrado en la persona, para garantizar la dignidad y los derechos de las personas en situación de dependencia.

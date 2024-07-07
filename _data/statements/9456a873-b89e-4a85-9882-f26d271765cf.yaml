@@ -1,7 +1,6 @@
 id: 9456a873-b89e-4a85-9882-f26d271765cf
 type: promise
-parent_statement: 2050dc89-93c1-44ac-af4a-a3bb0dda25da
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
+parent_statement: 2050dc89-93c1-44ac-af4a-a3bb0dda25da
+parent_chapter: 80f33f13-c365-4098-ac18-6210795cdb15
+text: Reducir al mínimo el número de asesores contratados por las diferentes administraciones públicas potenciando de esta manera la carrera profesional de los empleados públicos.
 categories:
 - Economía
-text: Reducir al mínimo el número de asesores contratados por las diferentes administraciones públicas potenciando de esta manera la carrera profesional de los empleados públicos.

@@ -1,7 +1,6 @@
 id: 4734f638-415a-450d-aa76-ff471deefd60
 type: promise
-parent_statement: 063c3234-6ef1-40c7-92ab-19f5745ca418
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 063c3234-6ef1-40c7-92ab-19f5745ca418
+parent_chapter: 1c9b9596-90be-4e2a-b1e4-9d37f55ff261
+text: Reconoceremos a las personas autónomas dependientes de un cliente el derecho a las condi ciones económicas y de jornada máxima previstas en el convenio colectivo aplicable a dicha em presa-cliente.
 categories: Trabajo
 topics: Autónomos
-text: Reconoceremos a las personas autónomas dependientes de un cliente el derecho a las condi ciones económicas y de jornada máxima previstas en el convenio colectivo aplicable a dicha em presa-cliente.

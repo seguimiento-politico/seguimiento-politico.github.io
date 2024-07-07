@@ -1,6 +1,6 @@
 id: 66e08975-6fe7-4fbe-aae4-342dd90c5972
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 140
+parent_chapter: 84d959e0-5276-4fd9-803a-4db1814ea88a
+text: Seguiremos avanzando en políticas que permitan eliminar la brecha salarial, profundizando en materia de transparencia salarial, potenciando las inspecciones de trabajo y e incrementando el régimen sancionador, de acuerdo con la Directiva Europea de Transparencia Salarial.
 categories: Trabajo
 topics: Igualdad
-text: Seguiremos avanzando en políticas que permitan eliminar la brecha salarial, profundizando en materia de transparencia salarial, potenciando las inspecciones de trabajo y e incrementando el régimen sancionador, de acuerdo con la Directiva Europea de Transparencia Salarial.

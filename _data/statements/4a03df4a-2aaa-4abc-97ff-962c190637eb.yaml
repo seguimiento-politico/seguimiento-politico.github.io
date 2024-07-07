@@ -1,7 +1,6 @@
 id: 4a03df4a-2aaa-4abc-97ff-962c190637eb
 type: promise
-parent_statement: a8d249c4-1a2a-4c36-a5ff-ed7de2f600ca
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,6 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 223
+parent_statement: a8d249c4-1a2a-4c36-a5ff-ed7de2f600ca
+parent_chapter: ac350b9c-6bf2-4017-a573-8420cb922467
+text: Incrementaremos las reservas de suelo para vivienda social y, por supuesto, aseguraremos que una gran parte de la plusvalía generada por la actividad urbanística redundará en la financiación de la política de vivienda.
 categories: Vivienda
 topics: Alquiler
-text: Incrementaremos las reservas de suelo para vivienda social y, por supuesto, aseguraremos que una gran parte de la plusvalía generada por la actividad urbanística redundará en la financiación de la política de vivienda.

@@ -1,7 +1,6 @@
 id: 481470cf-2f46-4ba0-9913-97bb468078c9
 type: promise
-parent_statement: 33bddebd-5ecc-4f9e-914b-fdedf6b34307
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Organización territorial
+parent_statement: 33bddebd-5ecc-4f9e-914b-fdedf6b34307
+parent_chapter: 3985eb27-2ecc-4f17-a504-3aa15c5697d4
 text: Así pues, es necesario impulsar el desarrollo del pleno cumplimiento de los Estatutos de Autonomía, encauzar las reformas de aquellos que necesiten ser actualizados e impulsar de forma inmediata la reforma del sistema de financiación.
+categories: Organización territorial

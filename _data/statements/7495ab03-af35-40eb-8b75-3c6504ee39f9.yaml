@@ -1,6 +1,6 @@
 id: 7495ab03-af35-40eb-8b75-3c6504ee39f9
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 34
-categories: Cultura
+parent_chapter: 41a18620-2fcb-4d08-bfd7-8060fe0440c1
 text: Completaremos el desarrollo del Estatuto del Artista para mejorar las condiciones de nuestros creadores y artistas, mejorando el reconocimiento de las enfermedades profesionales y su protección, los periodos de creación y formación, así como la transición profesional al final de las carreras artísticas. Actualizaremos los epígrafes del impuesto de actividades económicas y las protecciones por desempleo e impulsaremos protocolos frente a las violencias machistas en el ámbito de la cultura.
+categories: Cultura

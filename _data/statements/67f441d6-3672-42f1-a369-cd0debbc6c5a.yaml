@@ -1,0 +1,22 @@
+id: 67f441d6-3672-42f1-a369-cd0debbc6c5a
+type: promise
+parent_document: a613c4b6-f9dc-4926-8b9a-b87c233e5a75
+parties:
+- VOX
+election_type: europeas
+election_date: '2024-06-09'
+publication_date: '2024-05-30'
+page: 15
+text: Fiscalizar de manera rigurosa las ayudas al desarrollo a terceros países para evitar colaboración con las mafias de tráfico de personas y condicionarlas a una verdadera cooperación en la gestión de los flujos migratorios y en la aceptación de devoluciones de sus nacionales.
+categories:
+- Migración
+- Cooperación internacional
+- Seguridad y defensa
+topics:
+- name: Trafico de personas
+- name: Cooperación internacional
+- name: Inmigración ilegal
+  position_negative: null
+  proposed_actions:
+  - text: Fiscalizar de manera rigurosa las ayudas al desarrollo a terceros países para evitar colaboración con las mafias de tráfico de personas
+  - text: condicionar cooperación internacional y ayudas a terceros países a colaboración efectiva en la gestión de los flujos migratorios y en la aceptación de devoluciones de sus nacionales.

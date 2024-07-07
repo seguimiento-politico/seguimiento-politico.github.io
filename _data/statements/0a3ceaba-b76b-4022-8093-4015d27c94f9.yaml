@@ -1,6 +1,6 @@
 id: 0a3ceaba-b76b-4022-8093-4015d27c94f9
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 149
+parent_chapter: bae32676-62e3-41fe-ad2f-7c223077ef62
+text: Enmienda a la reforma del Código Penal que castiga el acoso a las mujeres que acuden a clínicas abortivas porque se vale del pretexto de un presunto acoso infligido en la puerta de las clínicas abortivas para restringir el derecho fundamental de reunión y las libertades fundamentales ideológica y de expresión (diciembre 2021).
 categories: Derechos y servicios sociales
 topics: Libertad de expresión
-text: Enmienda a la reforma del Código Penal que castiga el acoso a las mujeres que acuden a clínicas abortivas porque se vale del pretexto de un presunto acoso infligido en la puerta de las clínicas abortivas para restringir el derecho fundamental de reunión y las libertades fundamentales ideológica y de expresión (diciembre 2021).

@@ -1,6 +1,6 @@
 id: 9e2d01fc-a367-4f83-aa59-909b35fbba67
-type: declaration
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+type: statement
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 37
+parent_chapter: 493fd51c-7cfd-4b5e-bc63-efcefe3f24e6
 text: Las medidas de este horizonte, que dibuja nuevas posibilidades de organizarnos y de producir, son decisivas no solo para avanzar en una nueva economía, sino también para avanzar hacia los horizontes verde y morado, y construir un nuevo modelo industrial y una economía feminista de los cuidados.

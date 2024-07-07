@@ -1,6 +1,6 @@
 id: 6a5a83ec-4ead-47ad-812a-1bfa083fccc2
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 67
+parent_chapter: 4a4ec318-0db9-4da1-9515-2b36e808a75f
+children_promises:
+- 2e8258ae-fb5b-4fa3-9890-689c3a444cca
+- 85be8fcd-ed51-45e2-9081-38ef856b538b
+- f91a5fbb-753c-41e4-9bd1-4d3191755449
+- 1a01ca28-78d1-4099-ac8b-21addedbefa9
+children_statements: []
+title: Fomento de una red alternativa pública de distribución de alimentos.
 categories: Consumo
 topics: Alimentación saludable
-title: Fomento de una red alternativa pública de distribución de alimentos.
-has_children: true

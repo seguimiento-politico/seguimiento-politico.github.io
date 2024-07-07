@@ -1,6 +1,6 @@
 id: 794a8e03-d91c-4328-aba5-c37530a23935
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 113
+parent_chapter: b3e714be-81e4-4ef4-95c9-b2ff181886db
+text: Acción coordinada en parlamentos autonómicos y municipios para establecer los controles necesarios de preservación del medio ambiente y de usos del suelo previa a la instalación de los macroproyectos de energías renovables (abril 2023).
 categories:
 - Medioambiente
-text: Acción coordinada en parlamentos autonómicos y municipios para establecer los controles necesarios de preservación del medio ambiente y de usos del suelo previa a la instalación de los macroproyectos de energías renovables (abril 2023).

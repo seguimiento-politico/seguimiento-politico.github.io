@@ -1,7 +1,6 @@
 id: 1e9526c3-9343-4ff7-8562-a022545ed029
 type: promise
-parent_statement: d2fecb92-d00c-42f9-95f7-5f7c3d4b5f22
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Sanidad
+parent_statement: d2fecb92-d00c-42f9-95f7-5f7c3d4b5f22
+parent_chapter: 17e4c412-8ac4-4992-848a-422903075ee3
 text: Acometeremos una reforma del Estatuto Marco y el resto de legislación bajo la que se regulan las condiciones de trabajo de los y las profesionales del sector sanitario, de modo que se ponga fin al sistema actual y se reconozca el derecho a jornadas y horarios racionales, previsibles y respetuosos con los derechos de los trabajadores, para garantizar la conciliación de la vida familiar y la vida profesional, según lo establecido en la Directiva 2003/88 (sobre tiempo de trabajo), la Directiva 2019/1152 (sobre trabajo previsible) y la Directiva 2019/1158 (sobre conciliación).
+categories: Sanidad

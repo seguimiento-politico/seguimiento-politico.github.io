@@ -1,7 +1,6 @@
 id: f0a714d4-45d4-4060-992a-50f5d4475500
 type: promise
-parent_statement: e56672e2-1b1b-4468-90e0-b887dc7ec72f
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Política internacional
+parent_statement: e56672e2-1b1b-4468-90e0-b887dc7ec72f
+parent_chapter: db635e28-b5bf-4dba-aaf7-b48b45ca3061
 text: Apoyaremos que se compense con fondos multilaterales a los países del Sur Global por los costes que comporta preservar la biodiversidad, por los daños motivados por el problema del cambio climático —del cual no son los principales culpables— y por terminar con el extractivismo y la explotación de recursos naturales y quema de combustibles fósiles
+categories: Política internacional

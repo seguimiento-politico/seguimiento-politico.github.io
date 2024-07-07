@@ -1,7 +1,6 @@
 id: 2d55ce9e-2488-4c40-848d-c68305ac12e8
-type: declaration
-parent_statement: 38fdc59c-8830-405a-ac56-c611e37dab55
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -9,5 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 68
-categories: Democracia
+parent_statement: 38fdc59c-8830-405a-ac56-c611e37dab55
+parent_chapter: a6a343d5-df56-4658-85e8-614a6cb5a3f6
 text: Sabemos que el éxito de la democracia española se asentó sobre la capacidad de diálogo, pacto y consenso entre el centro derecha moderado y la socialdemocracia. Es necesario remover los obstáculos que impiden recuperar la concordia y el acuerdo, como sucede con la Ley de Memoria Democrática y recuperar la voluntad de compartir una mirada conjunta tanto sobre el pasado como, especialmente, sobre el futuro.
+categories: Democracia

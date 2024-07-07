@@ -1,0 +1,20 @@
+name: Aborto
+other: []
+other_count: 0
+position_negative:
+- &id001
+  id: 3f62eebc-f39f-4c67-9303-da5dfe96bc21
+  parties:
+  - VOX
+position_negative_count: 1
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+statements_count: 1
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

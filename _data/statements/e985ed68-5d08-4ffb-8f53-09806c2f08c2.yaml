@@ -1,0 +1,40 @@
+id: e985ed68-5d08-4ffb-8f53-09806c2f08c2
+type: statement
+parent_document: a613c4b6-f9dc-4926-8b9a-b87c233e5a75
+parties:
+- VOX
+election_type: europeas
+election_date: '2024-06-09'
+publication_date: '2024-05-30'
+page: 19
+text: Todo ello, mientras España y Europa se enfrentan a un invierno demográfico sin precedentes y los mismos que arrinconan a nuestro sector primario y a nuestra industria, fomentan la inmigración ilegal y priorizan la entrada masiva de productos de terceros países que compiten deslealmente con los nuestros, en lugar de proteger lo nuestro y facilitar que nuestros jóvenes puedan formar su familia
+categories:
+- Comercio
+topics:
+- name: Natalidad
+  status_quo_negative:
+  - text: España y Europa se enfrentan a un invierno demográfico sin precedentes
+  DAFO:
+  - debilidades: null
+  - fortalezas: null
+  - amenazas: null
+  - oportunidades: null
+- name: Juventud
+- name: Familias
+- name: Sector primario
+- name: Industria
+- name: Comercio exterior
+  status_quo_negative:
+  - text: se prioriza la entrada masiva de productos de terceros países que compiten deslealmente con los nuestros, en lugar de proteger lo nuestro
+- name: Competencia desleal
+- name: Proteccionismo comercial
+  status_quo_negative:
+  - text: se prioriza la entrada masiva de productos de terceros países que compiten deslealmente con los nuestros, en lugar de proteger lo nuestro
+- name: Demografía
+  status_quo_negative:
+  - text: España y Europa se enfrentan a un invierno demográfico sin precedentes
+  - text: se fomenta la inmigración ilegal
+- name: Natalidad
+- name: Inmigración ilegal
+  status_quo_negative:
+  - text: se fomenta la inmigración ilegal

@@ -1,6 +1,6 @@
 id: ab8d2937-0520-4579-b88f-ad0693d08845
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 158
+parent_chapter: 54595511-3d7f-4c2e-ab9a-910d0b95292d
+text: La asistencia profesional de las víctimas en los ámbitos sanitario, jurídico, social y laboral, potenciando el acompañamiento psicológico. Asimismo, impulsaremos mecanismos de coordinación efectivos con las ONG en la defensa de las personas prostituidas.
 categories: Derechos y servicios sociales
 topics: Prostitución
-text: La asistencia profesional de las víctimas en los ámbitos sanitario, jurídico, social y laboral, potenciando el acompañamiento psicológico. Asimismo, impulsaremos mecanismos de coordinación efectivos con las ONG en la defensa de las personas prostituidas.

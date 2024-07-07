@@ -1,6 +1,6 @@
 id: 9f3d3594-c7d8-407c-8105-fe41a7ba200b
-type: declaration
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+type: statement
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 37
+parent_chapter: 493fd51c-7cfd-4b5e-bc63-efcefe3f24e6
 text: La alternativa es tener las manos libres y el pulso firme para liderar el futuro de la economía de nuestro país en materia de I+D+i y en los procesos de digitalización de la industria y los servicios. Para cuidar nuestro talento en campos tan importantes como la ciencia o la cultura, no solo para evitar su fuga, sino para que el talento no se sacrifique en el altar de la precariedad. Y para anteponer nuestra industria y nuestra gente al enorme poder que están acumulando los oligopolios en los sectores estratégicos, un enorme poder que va en perjuicio de las pymes y de la ciudadanía en general, que son quienes pagan las consecuencias del lastre que generan a la economía.

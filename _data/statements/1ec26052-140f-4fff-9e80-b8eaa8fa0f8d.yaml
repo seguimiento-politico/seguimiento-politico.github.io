@@ -1,6 +1,6 @@
 id: 1ec26052-140f-4fff-9e80-b8eaa8fa0f8d
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 32
+parent_chapter: ae5a6fe5-1ad0-440d-afd6-f5ed127ebd97
+text: Recuperar la soberanía judicial. Es preciso derogar todas las leyes que colocan las decisiones de tribunales internacionales por encima de las sentencias del Tribunal Supremo.
 categories:
 - Justicia
-text: Recuperar la soberanía judicial. Es preciso derogar todas las leyes que colocan las decisiones de tribunales internacionales por encima de las sentencias del Tribunal Supremo.

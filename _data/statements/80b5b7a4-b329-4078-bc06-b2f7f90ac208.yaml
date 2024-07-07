@@ -1,6 +1,6 @@
 id: 80b5b7a4-b329-4078-bc06-b2f7f90ac208
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 19
+parent_chapter: b5121737-ffe0-4552-9c0f-a47c9d827a54
+children_promises:
+- 0ab0eaff-33b0-4be7-a6a7-74d093f55087
+- c260bd43-c90a-42be-bcf5-d1b07c88af38
+- b8bef0f1-5dec-4352-af52-0c5c6a5d95e2
+- e48fe88d-9c76-4166-97cd-5c9111363533
+- 66371efd-9221-4b50-a688-5ea1d4b02498
+children_statements: []
+title: Hacer de europa un motor del cambio
 categories: Política internacional
 topics: Europa
-title: Hacer de europa un motor del cambio
-has_children: true

@@ -1,7 +1,6 @@
 id: 61032a49-c38b-433d-9f75-f39feadbded8
 type: promise
-parent_statement: 4f7e9a88-da4a-4fa6-9bc2-1384118b379b
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 4f7e9a88-da4a-4fa6-9bc2-1384118b379b
+parent_chapter: dc33f933-12a0-4325-b761-1f9bf8c3ad0d
+text: Cumpliremos con la Política Pesquera Comunitaria para terminar con la sobrepesca, principalmente en el Mediterráneo.
 categories: Pesca y acuicultura
 topics: Desarrollo sostenible
-text: Cumpliremos con la Política Pesquera Comunitaria para terminar con la sobrepesca, principalmente en el Mediterráneo.

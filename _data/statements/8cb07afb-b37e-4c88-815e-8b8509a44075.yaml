@@ -1,6 +1,6 @@
 id: 8cb07afb-b37e-4c88-815e-8b8509a44075
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 19
+parent_chapter: 14cfe70b-f6b5-4003-88f7-02a877dec28f
 title: Recuperar nuestro patrimonio natural y potenciar la biodiversidad.
 text: Elaboraremos un Plan de Emergencia para detener la pérdida de biodiversidad, que identifique las causas subyacentes y actúe sobre ellas, y que incluya la modificación de la Ley de Patrimonio Natural y de la Biodiversidad, la participación de las CC AA y unos objetivos claros, medibles y suficientemente ambiciosos para dar prioridad a este objetivo. El plan contará con la financiación suficiente para desarrollar las estrategias nacionales de conservación, incluidas las de recuperación de especies amenazadas y la cofinanciación de las medidas del Marco de Acción Prioritaria para la Financiación de la Red Natura 2000 Asimismo, se implementará una Estrategia Nacional de Especies Exóticas Invasoras para reducir su impacto y prevenir la entrada de nuevas especies

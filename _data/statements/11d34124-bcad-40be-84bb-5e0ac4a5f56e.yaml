@@ -1,6 +1,6 @@
 id: 11d34124-bcad-40be-84bb-5e0ac4a5f56e
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 56
-categories: Sanidad
+parent_chapter: befa4347-5ac5-4c3d-853b-7fc9b83921e6
 text: Mientras se logra la recuperación de las competencias sanitarias, elaboraremos un Plan Nacional de Sanidad que subsane progresivamente el caos de gestión sanitaria. Este plan incluirá un refuerzo del Ministerio de Sanidad, una tarjeta sanitaria única; unificación de la historia clínica y farmacéutica digital, accesible al menos en español a los sanitarios de todo el país; y una cartera de servicios común.
+categories: Sanidad

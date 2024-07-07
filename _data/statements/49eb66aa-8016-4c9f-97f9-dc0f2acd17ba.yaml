@@ -1,6 +1,6 @@
 id: 49eb66aa-8016-4c9f-97f9-dc0f2acd17ba
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_chapter: 7a2272f5-3205-423d-bed5-4b2d9f159031
+text: España atesora un valioso patrimonio natural, siendo el país líder de la Unión Europea en espacios protegidos, con más de un 30% de su territorio integrado en la Red Natura 2000. Para conseguir el objetivo de Acuerdo 30x30, y mantener ese liderazgo, tenemos que acelerar la protección de nuestros espacios marinos, ya que la protección del océano y la conservación de los ecosistemas marinos es imprescindible para aportar medios de vida sostenibles, estabilidad climática, bienestar humano y salud global.
 categories: Medioambiente
 topics: Biodiversidad
-text: España atesora un valioso patrimonio natural, siendo el país líder de la Unión Europea en espacios protegidos, con más de un 30% de su territorio integrado en la Red Natura 2000. Para conseguir el objetivo de Acuerdo 30x30, y mantener ese liderazgo, tenemos que acelerar la protección de nuestros espacios marinos, ya que la protección del océano y la conservación de los ecosistemas marinos es imprescindible para aportar medios de vida sostenibles, estabilidad climática, bienestar humano y salud global.

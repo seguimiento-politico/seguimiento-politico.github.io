@@ -1,0 +1,19 @@
+id: cc61afce-2824-41a7-8311-e11ec62afb22
+type: promise
+parent_document: a613c4b6-f9dc-4926-8b9a-b87c233e5a75
+parties:
+- VOX
+election_type: europeas
+election_date: '2024-06-09'
+publication_date: '2024-05-30'
+page: 16
+text: Fomentar desde la UE medidas para la deportación inmediata de los inmigrantes que cometan delitos graves o sean reincidentes. Hay que aplicar una política dura con aquellos que en lugar de integrarse atacan al bienestar de la sociedad.
+topics:
+- name: Inmigración ilegal
+  proposed_actions:
+  - text: deportación inmediata de los inmigrantes que cometan delitos graves o sean reincidentes
+  - text: Hay que aplicar una política dura con aquellos que en lugar de integrarse atacan al bienestar de la sociedad
+- name: Seguridad y defensa
+  proposed_actions:
+  - text: deportación inmediata de los inmigrantes que cometan delitos graves o sean reincidentes
+- name: Delincuencia

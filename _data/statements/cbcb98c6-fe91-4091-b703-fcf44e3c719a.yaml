@@ -1,6 +1,6 @@
 id: cbcb98c6-fe91-4091-b703-fcf44e3c719a
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 159
+parent_chapter: bae32676-62e3-41fe-ad2f-7c223077ef62
+text: PNL para la derogación de la Ley de Memoria Histórica, ley que supone un ataque directo a la libertad individual, señalando buenos y malos en la historia de España y obligando a todos los españoles a comulgar con esa interpretación (enero 2020).
 categories: Derechos y servicios sociales
 topics: Libertad de expresión
-text: PNL para la derogación de la Ley de Memoria Histórica, ley que supone un ataque directo a la libertad individual, señalando buenos y malos en la historia de España y obligando a todos los españoles a comulgar con esa interpretación (enero 2020).

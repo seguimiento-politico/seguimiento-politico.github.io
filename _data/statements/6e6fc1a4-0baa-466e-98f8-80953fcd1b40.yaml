@@ -1,7 +1,6 @@
 id: 6e6fc1a4-0baa-466e-98f8-80953fcd1b40
 type: promise
-parent_statement: 8ff87f04-a1b9-496d-aee1-a8efbf166438
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Empresas y autónomos
-topics: Emprendimiento
+parent_statement: 8ff87f04-a1b9-496d-aee1-a8efbf166438
+parent_chapter: 9084fb76-14d5-4f08-b13b-74bd606de716
 text: También desplegaremos el programa Scaleup Spain, con el fondo de escalado de empresas tecnológicas Next Tech, que está gestionado por el Instituto de Crédito Oficial,
+categories: Empresas y autónomos

@@ -1,0 +1,25 @@
+name: Cooperación internacional
+other:
+- &id001
+  id: 67f441d6-3672-42f1-a369-cd0debbc6c5a
+  parties:
+  - VOX
+- &id002
+  id: b61b629d-43ac-4af6-90d7-0ea3cf02021e
+  parties:
+  - VOX
+other_count: 2
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- *id002
+statements_count: 2
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

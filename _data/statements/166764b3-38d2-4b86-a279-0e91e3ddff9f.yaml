@@ -1,11 +1,12 @@
 id: 166764b3-38d2-4b86-a279-0e91e3ddff9f
-type: declaration
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+type: statement
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 87
-categories: Seguridad y defensa
+parent_chapter: adfdbb68-8e6d-41fa-b953-fcd2789530ea
 text: En materia de seguridad hay que tener una política realista por eso la Prisión Permanente Revisable es un instrumento necesario. El terrorismo islamista no se ha acabado y las ciudades se han convertido en un objetivo prioritario como se demostró en Barcelona en agosto de 2017 o en otras ciudades europeas en los últimos años. Es importante que los grandes municipios no bajen la guardia en materia de seguridad. Necesitamos fortalecer nuestras capacidades en Seguridad en un mundo con amenazas crecientes y erradicar la radicalización en nuestro país.
+categories: Seguridad y defensa

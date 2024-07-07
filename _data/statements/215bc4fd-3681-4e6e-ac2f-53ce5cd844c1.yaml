@@ -1,7 +1,6 @@
 id: 215bc4fd-3681-4e6e-ac2f-53ce5cd844c1
 type: promise
-parent_statement: 8a123af2-dc31-4417-b05e-77c1551e9184
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Trabajo
+parent_statement: 8a123af2-dc31-4417-b05e-77c1551e9184
+parent_chapter: 2e87f7f8-d5a3-47a6-82d5-b25f36e88929
 text: Protección de la familia en situaciones de viudedad, orfandad, etcétera se lleve a cabo exclusivamente en consideración a los lazos reales de convivencia y afecto que puedan ser acreditados por cualquier medio de prueba válido en derecho y no solo a través de actos registrados oficialmente.
+categories: Trabajo

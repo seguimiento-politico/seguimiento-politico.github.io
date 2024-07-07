@@ -1,7 +1,6 @@
 id: f5dbfdca-af56-467a-82a9-20cac276f537
 type: promise
-parent_statement: e4eeddec-85d9-4b3a-906a-dfa3c2f4925a
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Política internacional
+parent_statement: e4eeddec-85d9-4b3a-906a-dfa3c2f4925a
+parent_chapter: db635e28-b5bf-4dba-aaf7-b48b45ca3061
 text: Defenderemos que la agenda de desarrollo se financie progresivamente con recursos derivados de exacciones globales, como un impuesto global a la riqueza.
+categories: Política internacional

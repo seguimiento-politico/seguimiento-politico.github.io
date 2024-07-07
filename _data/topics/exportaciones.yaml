@@ -1,0 +1,20 @@
+name: Exportaciones
+other:
+- &id001
+  id: 5dee988d-5a8d-4186-9017-18dcaef5910b
+  parties:
+  - VOX
+other_count: 1
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+statements_count: 1
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

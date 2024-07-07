@@ -1,6 +1,6 @@
 id: 3eb451c5-e5c5-4998-b236-c968a7f904b9
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 243
+parent_chapter: 2adfff70-6b29-4c51-adec-13373dc72e0f
+text: Aprobaremos la Ley de Lobbies para dar transparencia a las actividades de los grupos de interés, creando un registro público y gratuito que permita monitorizar las actividades de influencia que se ejercen sobre el personal empleado público.
 categories: Democracia
 topics: Gobernanza y transparencia
-text: Aprobaremos la Ley de Lobbies para dar transparencia a las actividades de los grupos de interés, creando un registro público y gratuito que permita monitorizar las actividades de influencia que se ejercen sobre el personal empleado público.

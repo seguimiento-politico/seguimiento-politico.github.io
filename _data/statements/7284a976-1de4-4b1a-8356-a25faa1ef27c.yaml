@@ -1,6 +1,6 @@
 id: 7284a976-1de4-4b1a-8356-a25faa1ef27c
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 39
-categories: Impuestos y financiación pública
+parent_chapter: adffd871-b28d-4061-bc87-6b0d1ee98ead
+children_promises:
+- 053e0486-ebfa-42b5-8cf0-45d8515bf4c3
+- cbc7badc-f943-4a61-90da-5a8d88f20086
+children_statements:
+- 101bc5d3-92dc-40e4-8ba0-517d54d4f882
 title: Impulsaremos una herramienta personalizada para que cada español sepa exactamente a qué se destinan los impuestos que paga
-has_children: true
+categories: Impuestos y financiación pública

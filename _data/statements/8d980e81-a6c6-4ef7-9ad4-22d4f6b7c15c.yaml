@@ -1,7 +1,6 @@
 id: 8d980e81-a6c6-4ef7-9ad4-22d4f6b7c15c
 type: promise
-parent_statement: d3fe492e-4670-4ee2-8e75-672e0f30be5f
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Seguridad y defensa
+parent_statement: d3fe492e-4670-4ee2-8e75-672e0f30be5f
+parent_chapter: 66b190ef-617c-438a-adf3-a3c9f707719b
 text: Es necesario invertir en estructuras administrativas, de la sociedad civil, y figuras diferentes de las fuerzas y cuerpos de seguridad del Estado, como profesionales del trabajo social, la mediación, o la salud mental, a quienes se dote de estabilidad, salarios dignos, y medios para prevenir, gestionar, intervenir y resolver de forma mediada problemas de convivencia y conflicto social, o de naturaleza sanitaria en espacios públicos, en las escuelas o los barrios.
+categories: Seguridad y defensa

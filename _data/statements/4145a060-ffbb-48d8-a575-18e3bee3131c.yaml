@@ -1,6 +1,6 @@
 id: 4145a060-ffbb-48d8-a575-18e3bee3131c
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 120
+parent_chapter: 96e848d1-3015-443e-a16c-804978d00154
+text: Implantaremos los compromisos de la Estrategia Nacional de Ciencia Abierta 2023-2027 recientemente aprobada, con actuaciones como el refuerzo de los repositorios en abierto de resultados y datos de investigación, así como iniciativas para avanzar hacia un modelo de publicación y evaluación basado en el acceso abierto y la evaluación del impacto social de la investigación.
 categories: Ciencia y tecnología
 topics: I+D+i
-text: Implantaremos los compromisos de la Estrategia Nacional de Ciencia Abierta 2023-2027 recientemente aprobada, con actuaciones como el refuerzo de los repositorios en abierto de resultados y datos de investigación, así como iniciativas para avanzar hacia un modelo de publicación y evaluación basado en el acceso abierto y la evaluación del impacto social de la investigación.

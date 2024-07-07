@@ -1,7 +1,6 @@
 id: bf54cf89-bfef-4598-acd8-85e71c6e1df3
-type: declaration
-parent_statement: 8791703f-41dc-4862-913a-102bbaada4fa
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Urbanismo y ciudades
+parent_statement: 8791703f-41dc-4862-913a-102bbaada4fa
+parent_chapter: da4a5e62-c6b6-45b0-a08b-611f6d470a08
 text: Entendemos la movilidad en todas las escalas, desde la accesibilidad a la propia vivienda (ascensores) hasta la existencia de una red peatonal cotidiana, segura y accesible; desde redes de bicicletas y carriles segregados seguros hasta un transporte público asequible y rápido.
+categories: Urbanismo y ciudades

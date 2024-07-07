@@ -1,7 +1,6 @@
 id: 574a3aa1-e656-4da3-8a76-d00598f7af28
 type: promise
-parent_statement: c28c6f4d-6529-439c-a0d4-86f15b66f309
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Justicia
+parent_statement: c28c6f4d-6529-439c-a0d4-86f15b66f309
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
 text: Esta Ley Orgánica del derecho de defensa tendrá como objeto desplegar el catálogo de derechos que asisten a toda persona, regular las garantías y deberes de la asistencia jurídica, así como las garantías institucionales para su ejercicio a través de las instituciones que le son propias, rechazando fórmulas de privatización y reconociendo el derecho a la indemnidad por el ejercicio del derecho de defensa.
+categories: Justicia

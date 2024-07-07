@@ -1,6 +1,6 @@
 id: 8eab071a-5fbd-4404-bba6-470b068db9aa
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 41
-categories: Administración pública
+parent_chapter: 2dc718bb-57b9-449b-be3a-cb454350b2a1
 text: Aceleraremos la digitalización de las Administraciones Públicas y haremos más fácil el acceso digital a todos sus servicios. Apostaremos, en particular, por la informatización y optimización de los juzgados. Es imprescindible el despliegue de nuevas herramientas tecnológicas como el expediente judicial electrónico accesible. Seguiremos mejorando asimismo la interoperabil  idad entre Comun  idades Autónomas en materia de san  idad (acceso compart  ido a historiales de salud y v  ideo consulta). Fomentaremos soluciones de software libre para que pequeños municipios y la ciudadanía pueda realizar el proceso del padrón de forma online.
+categories: Administración pública

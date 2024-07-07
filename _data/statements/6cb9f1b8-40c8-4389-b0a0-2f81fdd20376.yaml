@@ -1,6 +1,6 @@
 id: 6cb9f1b8-40c8-4389-b0a0-2f81fdd20376
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 151
+parent_chapter: 814800d1-d17a-4410-9eb1-114a76841345
+text: Fomentaremos programas intergeneracionales (de ocio, de ayuda a la comunidad, de intercambios de aprendizajes, etc.).
 categories: Territorio rural
 topics: Igualdad
-text: Fomentaremos programas intergeneracionales (de ocio, de ayuda a la comunidad, de intercambios de aprendizajes, etc.).

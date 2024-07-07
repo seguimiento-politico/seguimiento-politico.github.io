@@ -1,6 +1,6 @@
 id: 1b2dd694-4cfa-4fa7-9247-aa69a0b1302d
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,7 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 119
+parent_chapter: 96823b0f-932d-41e1-a800-716933f427ff
+text: Abandonaremos todos los acuerdos lesivos para la soberanía energética de España y en detrimento del interés nacional, como el Acuerdo de París.
 categories:
 - Industria
 - Energía
-text: Abandonaremos todos los acuerdos lesivos para la soberanía energética de España y en detrimento del interés nacional, como el Acuerdo de París.

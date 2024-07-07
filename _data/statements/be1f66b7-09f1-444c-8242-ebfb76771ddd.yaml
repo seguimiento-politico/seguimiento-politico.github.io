@@ -1,6 +1,6 @@
 id: be1f66b7-09f1-444c-8242-ebfb76771ddd
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 226
+parent_chapter: 6e53a21f-6625-47b4-9b6e-487838baa479
+text: Apoyaremos a los jóvenes para el acceso a la vivienda en régimen de propiedad en municipios o núcleos de población de menos de 10.000 habitantes.
 categories:
 - Juventud
 - Incentivos, ayudas y subvenciones
-text: Apoyaremos a los jóvenes para el acceso a la vivienda en régimen de propiedad en municipios o núcleos de población de menos de 10.000 habitantes.

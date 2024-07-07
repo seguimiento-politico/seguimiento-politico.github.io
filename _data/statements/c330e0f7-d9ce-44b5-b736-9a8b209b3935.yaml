@@ -1,12 +1,13 @@
 id: c330e0f7-d9ce-44b5-b736-9a8b209b3935
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 28
+parent_chapter: fc1c7709-bffb-4d70-964b-fb1c882def4b
+text: Seguiremos impulsando los Fondos de Fondos para atraer la inversión del Capital Privado (Private Equity), Venture Capital y Business Angels a las startup y pymes. Se prestará especial atención al impulso de los Search Funds que además de impulsar la financiación de algún tipo de empresa, atraen talento del exterior.
 categories:
 - Comercio
-text: Seguiremos impulsando los Fondos de Fondos para atraer la inversión del Capital Privado (Private Equity), Venture Capital y Business Angels a las startup y pymes. Se prestará especial atención al impulso de los Search Funds que además de impulsar la financiación de algún tipo de empresa, atraen talento del exterior.

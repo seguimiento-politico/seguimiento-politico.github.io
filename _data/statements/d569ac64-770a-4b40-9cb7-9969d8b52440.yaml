@@ -1,6 +1,6 @@
 id: d569ac64-770a-4b40-9cb7-9969d8b52440
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 38
-categories: Agua
+parent_chapter: 27c2e026-31b3-4fe9-873a-317121ffbe6c
 text: PROPONDREMOS, CON EL VISTO BUENO DEL CONSEJO DE SEGURIDAD NUCLEAR, LA EXTENSIÓN DE LA VIDA ÚTIL DE LAS CENTRALES NUCLEARES EXISTENTES en nuestro país, en el marco de la normativa europea. IMPULSAREMOS LA ELECTRIFICACIÓN Y LA DESCARBONIZACIÓN DE LA ECONOMÍA y fomentaremos el almacenamiento de energía renovable mediante un mecanismo de capacidad y condiciones flexibles de acceso y conexión.
+categories: Agua

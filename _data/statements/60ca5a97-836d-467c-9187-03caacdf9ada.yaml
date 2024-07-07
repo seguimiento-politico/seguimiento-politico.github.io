@@ -1,6 +1,6 @@
 id: 60ca5a97-836d-467c-9187-03caacdf9ada
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 42
+parent_chapter: 27ff313e-64fe-41ca-bc72-c44fafac350d
+children_promises:
+- 78da5c2b-cc28-4f2c-86d1-630b728a0eba
+- a40a4292-64fc-4896-9877-f42001d40159
+- 5421365c-b7e7-4dc4-b83d-4fdde0228987
+children_statements: []
 title: Desengancharse de los combustibles fósiles
-has_children: true
+topics: Cambio climático

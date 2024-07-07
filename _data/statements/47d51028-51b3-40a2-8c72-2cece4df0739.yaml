@@ -1,6 +1,6 @@
 id: 47d51028-51b3-40a2-8c72-2cece4df0739
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Migración
+parent_chapter: a28261b2-6635-44ba-a26a-7ed40dcd7f18
 text: 'La movilidad humana es inherente a la historia de la humanidad y se ha convertido en uno de los desafíos globales que debemos gestionar como país y como comunidad internacional.<br><br> Si bien las personas migrantes internacionales suponen menos del 3% de la población mundial, los países desarrollados como España tienden a concentrar una proporción creciente de los mismos, que cada vez más huyen de conflictos y de las consecuencias del cambio climático en sus países. Los países de acogida debemos estar preparados para gestionar la llegada de personas migrantes de una manera beneficiosa y posible para ambas partes<br><br> Europa ha tenido que afrontar en estos últimos años varias crisis humanitarias mundiales en las que España ha reaccionado con rapidez y eficacia hasta convertirse en un referente en la gestión de acogida. Como de las más de 3.000 personas evacuadas de Afganistán en 2021 y la concesión inmediata de protección temporal a más de 178.000 personas procedentes de Ucrania tras la agresión rusa en 2022, han mostrado la capacidad de respuesta coordinada del Gobierno de España ante estas situaciones y convirtió a nuestro país en el alma de Europa, como nos calificó la presidenta de la Comisión Europea.<br><br> El compromiso con quienes necesitan de nuestra ayuda fue expresado, tras la agresión rusa a Ucrania, con la puesta en marcha de un dispositivo sin precedentes para implementar la directiva europea de protección temporal y habilitando los recursos necesarios para que estas personas obtuvieran los derechos que les otorga la directiva de manera rápida y sencilla.<br><br> Se confirmó así la necesidad de reforzar el sistema de acogida para solicitantes de asilo y refugio y dotarlo de más y mejores recursos y capacidades, que llevó a la reforma de su financiación, pasando de un modelo de subvenciones anuales a entidades colaboradoras a uno de acción concertada, que le da estabilidad y, en consecuencia, garantía de la atención a las personas acogidas.<br><br> La próxima legislatura abundaremos en las reformas emprendidas:'
+categories: Migración

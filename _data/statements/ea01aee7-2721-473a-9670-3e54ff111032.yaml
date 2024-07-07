@@ -1,6 +1,6 @@
 id: ea01aee7-2721-473a-9670-3e54ff111032
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 77
+parent_chapter: ef0bb89b-1b90-4682-a618-d8eea7201020
 title: Recuperar el poder de la negociación colectiva, devolviendo a los sindicatos la fuerza que les quitaron las reformas de Zapatero y Rajoy
 text: Al derogar estas dos reformas, se reestablecerá el poder de la negociación colectiva Estableceremos la prevalencia de los convenios de sector, sean de ámbito provincial, autonómico o estatal, para establecer las condiciones mínimas de trabajo, de modo que se evite el empeoramiento de condiciones por medio de convenios de empresa. Como garantías añadidas, se revisarán las amplias posibilidades que tiene ahora la modificación sustancial de las condiciones de trabajo y se establecerá que el mismo grupo empresarial, con sus empresas dependientes, tiene que ser una unidad de negociación Asimismo, restableceremos la llamada «ultraactividad» de los convenios, es decir, su prórroga automática cuando no haya uno nuevo que lo sustituya La situación actual, en la que se dejan de aplicar en la fecha en que terminan, desarticula cualquier posibilidad de negociación para alcanzar una mejora de las condiciones, ya que, al bloquear la situación, se retrocede a una situación peor para los trabajadores y las trabajadoras Este fortalecimiento de la negociación colectiva tendrá un efecto de impulso, que potenciaremos, sobre la modernización y efectividad de la prevención de riesgos laborales

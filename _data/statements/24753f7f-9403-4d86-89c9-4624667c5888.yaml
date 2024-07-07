@@ -1,0 +1,23 @@
+id: 24753f7f-9403-4d86-89c9-4624667c5888
+type: promise
+parent_document: a613c4b6-f9dc-4926-8b9a-b87c233e5a75
+parties:
+- VOX
+election_type: europeas
+election_date: '2024-06-09'
+publication_date: '2024-05-30'
+page: 11
+text: Velar por que se garantice la soberanía alimentaria de España en el marco de las competencias de la Unión Europea, la eliminación de la competencia desleal y el fortalecimiento del principio de preferencia comunitaria.
+categories:
+- Agricultura
+- Ganadería
+- Comercio
+- Medioambiente
+topics:
+- name: Soberanía alimentaria
+- name: Competencia desleal
+- name: Comercio exterior
+- name: Importaciones extracomunitarias
+  position_negative: null
+  position_arguments:
+  - text: reduce la rentabilidad de los productores europeos debido a la competencia desleal

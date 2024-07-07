@@ -1,6 +1,6 @@
 id: 88cb6922-8248-42c9-af46-15a0667e9d33
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 248
+parent_chapter: 6dc5250e-51d3-4aba-9bdc-2dbe32e1afb9
+text: Promoveremos servicios de orientación jurídica, medios adecuados de solución de controversias, así como el ejercicio del derecho de defensa, a través de los correspondientes colegios profesionales, o de las oficinas de víctimas y contra la violencia de género.
 categories: Justicia
 topics: Modernización
-text: Promoveremos servicios de orientación jurídica, medios adecuados de solución de controversias, así como el ejercicio del derecho de defensa, a través de los correspondientes colegios profesionales, o de las oficinas de víctimas y contra la violencia de género.

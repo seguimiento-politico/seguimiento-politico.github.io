@@ -1,6 +1,6 @@
 id: b58a0166-8bb8-4722-b0a0-bd0a662f63ad
-type: declaration
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+type: statement
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 41
+parent_chapter: 16366866-7ea4-45a3-a9c4-42b13446ff60
+text: La única alternativa al invierno demográfico que se propone es la inmigración ilegal, masiva y descontrolada. Las consecuencias de la política de puertas abiertas no las sufren las élites políticas ni los medios de comunicación que la incitan, sino el español de a pie que ve cómo su barrio es cada vez más inseguro, los sueldos cada vez más bajos y sus costumbres y modo de vida cada vez más marginales.
 categories:
 - Familia
-text: La única alternativa al invierno demográfico que se propone es la inmigración ilegal, masiva y descontrolada. Las consecuencias de la política de puertas abiertas no las sufren las élites políticas ni los medios de comunicación que la incitan, sino el español de a pie que ve cómo su barrio es cada vez más inseguro, los sueldos cada vez más bajos y sus costumbres y modo de vida cada vez más marginales.

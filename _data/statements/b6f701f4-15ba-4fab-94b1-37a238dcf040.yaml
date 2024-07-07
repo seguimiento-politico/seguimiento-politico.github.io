@@ -1,7 +1,6 @@
 id: b6f701f4-15ba-4fab-94b1-37a238dcf040
 type: promise
-parent_statement: c71437f8-a584-4ede-b166-27710efbb186
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: c71437f8-a584-4ede-b166-27710efbb186
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+text: Es prioritario poner en marcha en las comunidades autónomas los registros de objetores de conciencia que recoge la ley, así como garantizar que la Alta Inspección desarrolle sus funciones y garantice los derechos sexuales y reproductivos en todas las comunidades autónomas, gobierne quien gobierne.
 categories: Democracia
 topics: Igualdad
-text: Es prioritario poner en marcha en las comunidades autónomas los registros de objetores de conciencia que recoge la ley, así como garantizar que la Alta Inspección desarrolle sus funciones y garantice los derechos sexuales y reproductivos en todas las comunidades autónomas, gobierne quien gobierne.

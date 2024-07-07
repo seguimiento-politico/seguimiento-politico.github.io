@@ -1,0 +1,24 @@
+id: a7f055af-c539-41a1-ac2f-3a679c263d5d
+type: statement
+parent_document: a613c4b6-f9dc-4926-8b9a-b87c233e5a75
+parties:
+- VOX
+election_type: europeas
+election_date: '2024-06-09'
+publication_date: '2024-05-30'
+page: 13
+text: Las políticas de efecto llamada impulsadas por von der Leyen y apoyadas por PP y PSOE permiten que las mafias de tráfico de seres humanos actúen con total impunidad, poniendo en peligro la vida de los propios inmigrantes en su viaje a Europa y provocando graves problemas de inseguridad e identidad en las Naciones europeas. De entre los que consiguen llegar, muchos cuentan ya con un historial delictivo en sus países de origen y se dedican a seguir delinquiendo en nuestras calles y a extender ideas incompatibles con los valores y raíces de la cultura europea.
+categories:
+- Migración
+- Seguridad y defensa
+- Cultura
+topics:
+- name: Inmigración ilegal
+  position_negative:
+  - text: es el resultado de políticas con efecto llamada
+  - text: beneficia a las máfias de trafico de personas
+  - text: supone un problema de inseguridad al no poder identificar correctamente a los delincuentes
+  - text: extienden ideas incompatibles con los valores europeos
+- name: Tráfico de personas
+  position_negative: null
+- name: Delincuencia

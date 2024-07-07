@@ -1,6 +1,6 @@
 id: 6220a3c1-aeb2-4b95-b270-cdb2f7e0985f
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 49
-categories: Industria
+parent_chapter: 52ae8dc4-28e9-4398-8226-2aed999f465f
+children_promises:
+- 8409865d-628f-4a1d-aaf5-0fdc1b6c23a5
+- 4dc31c3e-77a1-4ad8-8ab5-7b5ba23e7704
+children_statements: []
 title: Aprobaremos la Estrategia Española de Impulso Industrial 2030
-has_children: true
+categories: Industria

@@ -1,7 +1,6 @@
 id: a1add033-402a-4c5f-8a53-0a493a0a9d77
 type: promise
-parent_statement: 608b9708-73d2-4c6a-9946-8cd1efac570b
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,4 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 608b9708-73d2-4c6a-9946-8cd1efac570b
+parent_chapter: 27ff313e-64fe-41ca-bc72-c44fafac350d
 text: Promoveremos acabar con la quema de residuos agrícolas y apostaremos alternativamente por el reciclaje y la utilización de biocombustibles de segunda generación.
+topics: Cambio climático

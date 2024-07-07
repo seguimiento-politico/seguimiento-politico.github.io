@@ -1,6 +1,6 @@
 id: 07bbd44c-4ba0-4e60-930d-210a7a03d114
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 171
+parent_chapter: 1ba59a71-2649-49ec-b7ab-7b3f541edfea
+text: Continuando con la implementación plena de las recomendaciones del Pacto de Toledo, vamos a reformar las pensiones de muerte y supervivencia con el objeto dignificar las pensiones de orfandad y mejorar las pensiones de viudedad de aquellas viudas en situación de vulnerabilidad.
 categories: Derechos y servicios sociales
 topics: Pensiones
-text: Continuando con la implementación plena de las recomendaciones del Pacto de Toledo, vamos a reformar las pensiones de muerte y supervivencia con el objeto dignificar las pensiones de orfandad y mejorar las pensiones de viudedad de aquellas viudas en situación de vulnerabilidad.

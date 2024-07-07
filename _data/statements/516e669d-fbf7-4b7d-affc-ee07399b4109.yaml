@@ -1,6 +1,6 @@
 id: 516e669d-fbf7-4b7d-affc-ee07399b4109
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,9 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 67
+parent_chapter: 1d4a4787-163e-4649-b875-f97fd3780649
+children_promises:
+- a9221c90-6f3a-48ff-af8b-c846a02860c4
+children_statements: []
+title: Fomentaremos las razas autóctonas
 categories:
 - Agricultura
 - Ganadaría
 topics: Desarrollo sostenible
-title: Fomentaremos las razas autóctonas
-has_children: true

@@ -1,7 +1,6 @@
 id: 6b012855-c1d8-49b6-9213-d5048cc4702b
 type: promise
-parent_statement: 402405cb-323d-404d-8b81-97f3e5530fd7
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 402405cb-323d-404d-8b81-97f3e5530fd7
+parent_chapter: 754946a2-5f02-4a15-929b-dc9e8a58fe80
+text: Supresión de la financiación pública de los espectáculos taurinos con muerte del animal.
 categories: Civismo
 topics: Bienestar animal
-text: Supresión de la financiación pública de los espectáculos taurinos con muerte del animal.

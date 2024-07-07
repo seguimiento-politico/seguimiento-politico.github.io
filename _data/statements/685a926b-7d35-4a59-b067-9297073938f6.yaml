@@ -1,6 +1,6 @@
 id: 685a926b-7d35-4a59-b067-9297073938f6
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 192
-categories: Derechos y servicios sociales
-topics: Discapacidad
+parent_chapter: f4d30405-da8f-4647-bc30-ce8a01fe2c1a
 title: La Atención Temprana.
 text: Aprobaremos, en colaboración con las CCAA, un marco común de Atención Temprana como servicio preventivo de posibles trastornos de desarrollo en niños y niñas entre 0 y 6 años, reconociendo por ley del derecho subjetivo a la Atención Temprana para todos los niños y las niñas y sus familias con apoyo expreso a las familias con menores con Trastorno del Espectro del Autismo.
+categories: Derechos y servicios sociales
+topics: Discapacidad

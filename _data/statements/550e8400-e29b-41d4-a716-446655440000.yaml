@@ -1,6 +1,6 @@
 id: 550e8400-e29b-41d4-a716-446655440000
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 39
+parent_chapter: 234f712b-aaa0-45c7-92d9-e5641ca46ec2
+children_promises:
+- 15579568-021a-48df-84f0-a017c9dbd2ca
+- e580fcb3-5a15-4a7f-9dee-498261e098e3
+- 210b4fbd-d9d1-4a0f-9a2e-7a735f5a1d73
+- 19c26d6d-933c-411c-a0ba-c770ee0fd5b4
+children_statements: []
 title: Más participación y conocimiento ciudadano en la transición
-has_children: true

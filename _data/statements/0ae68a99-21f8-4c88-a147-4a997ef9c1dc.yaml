@@ -1,11 +1,12 @@
 id: 0ae68a99-21f8-4c88-a147-4a997ef9c1dc
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 88
-categories: Seguridad y defensa
+parent_chapter: adfdbb68-8e6d-41fa-b953-fcd2789530ea
 text: Potenciaremos la colaboración en organismos internacionales de la Guardia Civil y la Policía Nacional, con especial incidencia en la agencia Europol.
+categories: Seguridad y defensa

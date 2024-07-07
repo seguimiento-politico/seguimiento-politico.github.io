@@ -1,7 +1,6 @@
 id: 8ae34b42-f55d-4ab8-a89e-4ee58c4e9a69
 type: promise
-parent_statement: f08cc810-7084-43d9-a77a-517023e9f05f
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Justicia
+parent_statement: f08cc810-7084-43d9-a77a-517023e9f05f
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
 text: Además, se establecerán formas especiales de acceso a las carreras judicial y fiscal, tercer y cuarto turno, para profesiones jurídicas y universitarias y para determinados colectivos (letrados y letradas Administraciones de Justicia, así como personal judicial y fiscal sustituto).
+categories: Justicia

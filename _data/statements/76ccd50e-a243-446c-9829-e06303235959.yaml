@@ -1,7 +1,6 @@
 id: 76ccd50e-a243-446c-9829-e06303235959
 type: promise
-parent_statement: 514c8ee4-7c0a-469d-be1c-14d339315680
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Trabajo
+parent_statement: 514c8ee4-7c0a-469d-be1c-14d339315680
+parent_chapter: 064fdf66-6754-4979-b8ea-d7f30ac31767
 text: 'Estableceremos como objetivo central de la política económica que la tasa de paro converja con la media europea y que existan suficientes empleos disponibles para las personas que deseen trabajar. A pesar de que la reforma laboral ha dado lugar a las cifras más altas de personas trabajando y de empleo estable, España tiene que enfrentar ahora el desafío de eliminar otra anomalía histórica: la de tener una tasa de paro muy superior a la media europea. El objetivo de la legislatura será converger con esta tasa de paro, que se sitúa en el 7%, y alcanzar una tasa de empleo superior al 70%. Es posible, si se pone en marcha una estrategia integrada de políticas económicas y políticas de empleo orientadas plenamente a este objetivo.'
+categories: Trabajo

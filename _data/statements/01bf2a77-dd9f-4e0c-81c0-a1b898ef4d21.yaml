@@ -1,7 +1,6 @@
 id: 01bf2a77-dd9f-4e0c-81c0-a1b898ef4d21
 type: promise
-parent_statement: 70ef0584-dae0-4007-963e-6f24323a0d0d
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Derechos y servicios sociales
+parent_statement: 70ef0584-dae0-4007-963e-6f24323a0d0d
+parent_chapter: 6bea7d15-32ea-402e-8fad-42663ddea615
 text: Debe además prevalecer el sistema de contratación pública de servicios de cuidados y de atención a las personas con la inclusión de cláusulas sociales como mecanismo idóneo para incidir, de manera positiva, en el desarrollo de las políticas sociales.
+categories: Derechos y servicios sociales

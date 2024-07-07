@@ -1,6 +1,6 @@
 id: 4f58b8d2-cf85-439b-b892-ac8d6e0c333b
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,7 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 119
+parent_chapter: 96823b0f-932d-41e1-a800-716933f427ff
+text: Exigiremos una modificación del mecanismo marginalista de fijación del precio de mercado de la electricidad, en el que la tecnología más cara fija el precio final.
 categories:
 - Industria
 - Energía
-text: Exigiremos una modificación del mecanismo marginalista de fijación del precio de mercado de la electricidad, en el que la tecnología más cara fija el precio final.

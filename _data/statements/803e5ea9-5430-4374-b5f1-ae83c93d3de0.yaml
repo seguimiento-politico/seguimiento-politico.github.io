@@ -1,11 +1,12 @@
 id: 803e5ea9-5430-4374-b5f1-ae83c93d3de0
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 69
-categories: Energía
+parent_chapter: ca959df7-900b-4214-bd99-9431d6240a39
 text: Rechazaremos las prohibiciones a los vehículos de combustión. Deben ser la evolución tecnológica y las decisiones de los consumidores los marquen el ritmo de sustitución de unas tecnologías por otras.
+categories: Energía

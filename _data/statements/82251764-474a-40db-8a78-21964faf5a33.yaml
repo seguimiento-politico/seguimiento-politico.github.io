@@ -1,6 +1,6 @@
 id: 82251764-474a-40db-8a78-21964faf5a33
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 78
-categories: Impuestos y financiación pública
+parent_chapter: ec3e397c-bf4a-4692-a06e-58f507cee1f8
 text: La Agencia Tributaria no puede ser un inmenso aparato al servicio de la voracidad recaudatoria del gobierno de turno. Revisaremos y ampliaremos todas las medidas de protección del contribuyente y mecanismos de segunda oportunidad, para que los españoles que se encuentren en dificultad no se vean perjudicados por una actuaciones abusivas de la Administración. Restableceremos el Estatuto y Consejo de Defensa del Contribuyente integrado por expertos independientes.
+categories: Impuestos y financiación pública

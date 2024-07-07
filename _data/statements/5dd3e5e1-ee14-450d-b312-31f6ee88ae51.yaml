@@ -1,6 +1,6 @@
 id: 5dd3e5e1-ee14-450d-b312-31f6ee88ae51
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 44
+parent_chapter: 493fd51c-7cfd-4b5e-bc63-efcefe3f24e6
 title: Digitalizar la Administración y reducir la burocracia.
 text: Avanzaremos hacia el fin de los papeles y la reducción drástica de la burocracia, lo que beneficiará al conjunto de la ciudadanía, que también podrá ejercer mejor su control democrático, y nos permitirá disponer de una Administración más fuerte y mejor adaptada al presente Respetando la privacidad, los datos públicos se desplegarán en formatos abiertos, interoperables y accesibles, también cuando los generen empresas al gestionar servicios públicos Con esto, conseguiremos una Administración más transparente e impulsaremos que las empresas y asociaciones con menor capacidad para producir sus datos puedan aprovecharlos La recogida de datos de carácter personal se limitará a los imprescindibles y con un fin concreto, con lo que reduciremos el riesgo de que esos datos se vean comprometidos Implementaremos un Plan de Soberanía Tecnológica de las Administraciones, que también fortalecerá los ecosistemas de pymes locales, dirigido a la transición hacia tecnologías libres y a la contratación de productos y servicios de acceso abierto que aumenten la autonomía técnica de la Administración en un mundo digital

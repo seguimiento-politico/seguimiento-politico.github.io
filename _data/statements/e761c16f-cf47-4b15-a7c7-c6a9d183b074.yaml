@@ -1,7 +1,6 @@
 id: e761c16f-cf47-4b15-a7c7-c6a9d183b074
 type: promise
-parent_statement: d18201b8-0a96-421d-9d45-7b8f9dd1984a
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: d18201b8-0a96-421d-9d45-7b8f9dd1984a
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+text: Se fomentará la participación de la mujer en los ya citados estudios STEM y en profesiones próximas al sector de la transformación ecológica y energética por medio de campañas de difusión y de respuestas que alcancen a las mujeres y a las niñas.
 categories: Democracia
 topics: Igualdad
-text: Se fomentará la participación de la mujer en los ya citados estudios STEM y en profesiones próximas al sector de la transformación ecológica y energética por medio de campañas de difusión y de respuestas que alcancen a las mujeres y a las niñas.

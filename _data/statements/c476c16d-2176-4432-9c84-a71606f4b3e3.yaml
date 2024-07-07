@@ -1,6 +1,6 @@
 id: c476c16d-2176-4432-9c84-a71606f4b3e3
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 138
+parent_chapter: 06f60321-d51f-4fe2-ab07-79be1c0a9b4e
+text: Desde el Gobierno de Castilla y León, VOX exigió en mayo de 2023 a la responsable de Sanidad Animal de la Comisión Europea flexibilizar el reglamento comunitario de saneamiento animal. En este sentido, Juan García-Gallardo presentó en Bruselas un paquete de medidas para flexibilizar los controles veterinarios sin comprometer las garantías sanitarias. Unas propuestas con las que se busca conseguir el aval comunitario ante las reivindicaciones más acuciantes del sector ganadero.
 categories:
 - Política internacional
-text: Desde el Gobierno de Castilla y León, VOX exigió en mayo de 2023 a la responsable de Sanidad Animal de la Comisión Europea flexibilizar el reglamento comunitario de saneamiento animal. En este sentido, Juan García-Gallardo presentó en Bruselas un paquete de medidas para flexibilizar los controles veterinarios sin comprometer las garantías sanitarias. Unas propuestas con las que se busca conseguir el aval comunitario ante las reivindicaciones más acuciantes del sector ganadero.

@@ -1,6 +1,6 @@
 id: d5bf2b81-1f8c-40b0-b919-2ed79d4017d8
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,7 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 13
+parent_chapter: deb1407a-edfb-4a25-9c51-31c5687520e8
+text: Durante toda la legislatura se han presentado enmiendas de totalidad y recursos de inconstitucionalidad contra las leyes liberticidas aprobadas por el Gobierno de Pedro Sánchez en materia de ideología de género, Ley del Aborto o como las leyes trans o la Ley del Sólo sí es sí.
 categories: Derechos y servicios sociales
 topics:
 - Igualdad
-text: Durante toda la legislatura se han presentado enmiendas de totalidad y recursos de inconstitucionalidad contra las leyes liberticidas aprobadas por el Gobierno de Pedro Sánchez en materia de ideología de género, Ley del Aborto o como las leyes trans o la Ley del Sólo sí es sí.

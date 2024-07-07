@@ -1,0 +1,485 @@
+- name: Democracia
+  children:
+  - name: Calidad democrática
+    children:
+    - name: Corrupción
+    - name: Prevaricación
+    - name: Populismo
+    - name: Elitismo
+    - name: Deshonestidad
+    - name: Transparencia
+    - name: Grupos de presión
+    - name: Políticas ineficaces
+    - name: Medidas coercitivas
+    - name: Políticos
+      children:
+      - name: Carles Puigdemont
+      - name: Pedro Sánchez
+      - name: Úrsula Von der Leyen
+    - name: Partidos políticos
+      children:
+      - name: Junts
+      - name: ERC
+      - name: Bildu
+      - name: PNV
+      - name: PP
+      - name: PSOE
+    - name: Déficit democrático
+    - name: Clientelismo
+    - name: Imposición de políticas
+    - name: Dogmatismo político
+    - name: Empirismo político
+    - name: Golpe de estado
+  - name: Parlamentos
+- name: Justicia
+  children:
+  - name: Tribunales
+  - name: Código penal
+  - name: Código civil
+  - name: Código de comercio
+  - name: Código Fiscal
+    children:
+    - name: Ley general tributaria
+  - name: Código laboral
+    children:
+    - name: Estatuto de los trabajadores
+  - name: Código de derecho administrativo
+  - name: Código de derecho militar
+    children:
+    - name: Código penal militar
+  - name: Sanciones, multas y penas
+- name: Gobierno
+  children:
+  - name: Gobierno estatal
+  - name: Gobiernos autonomías
+  - name: Internalización gobiernos locales  
+- name: Administración pública
+  children:
+  - name: Organización estatal
+  - name: Órganos y agencias
+  - name: Impuestos
+    children:
+    - name: Subida de impuestos
+    - name: Bajada de impuestos
+    - name: Paraísos fiscales
+  - name: Gestión económica
+    children:
+    - name: Control del gasto
+    - name: Austeridad
+    - name: Malgasto de fondos públicos
+    - name: Malversación de fondos públicos
+    - name: Control de ayudas
+  - name: Servicios sociales
+    children:
+    - name: Ayudas y subvenciones
+    - name: Educación
+      children:
+      - name: Educación primaria
+      - name: Educación secundaria
+      - name: Educación universitaria
+      - name: Educación profesional
+      - name: Educación privada
+      - name: Educación pública
+      - name: Educación concertada
+      - name: Abandono escolar
+    - name: Sanidad
+    - name: Seguridad y defensa
+      children:
+      - name: Policía
+      - name: Fuerzas armadas
+      - name: Delincuencia
+        children:
+        - name: Reincidencia
+        - name: Violencia
+        - name: Crimen organizado
+      - name: Delitos graves
+      - name: Terrorismo
+        children:
+        - name: ETA
+        - name: IRA
+        - name: Yihadismo  
+        - name: Al Qaeda
+      - name: Crimen organizado
+        children:
+        - name: Tráfico de personas
+        - name: Narcotraficantes
+      - name: Fronteras
+        children:
+        - name: Control de fronteras
+        - name: Desprotección de fronteras
+      - name: Vigilancia marítima
+- name: Territorio
+  children:
+  - name: Fronteras    
+  - name: Territorios en disputa
+    children:
+    - name: Gibraltar
+  - name: Medio rural
+    children:
+    - name: España vaciada
+  - name: Ciudades
+  - name: Mares
+  - name: Medioambiente
+    children:
+    - name: Hábitats
+    - name: Biodiversidad
+      children:
+      - name: Protección de especies
+    - name: Contaminación
+    - name: Recursos naturales
+  - name: Infraestructuras
+    icon: road-bridge
+    children:
+    - name: Infraestructuras hidráulicas
+    - name: Infraestructuras energéticas
+      children:
+      - name: Infraestructuras eléctricas
+      - name: Infraestructuras gasísticas
+    - name: Vivienda
+    - name: Urbanismo
+    - name: Comunicaciones
+    - name: Transporte
+      children:
+      - name: Marítimo
+      - name: Aéreo
+      - name: Trafico rodado
+        icon: car-side
+        children:
+        - name: Vehículo eléctrico
+      - name: Ferrovial
+- name: Sociedad
+  children:
+  - name: ONGs
+  - name: Movimientos sociales
+    children:
+    - name: Cambios sociales y culturales
+    - name: Cambios en derechos y libertades
+    - name: Animalismo
+    - name: LGTBI
+    - name: Feminismo
+    - name: Ecologismo
+      children:
+      - name: Ecologismo radical
+  - name: Ideologías
+    children:
+    - name: Comunismo
+    - name: Anarquismo
+    - name: Liberalismo
+    - name: Conservadurismo
+    - name: Socialismo
+    - name: Globalismo
+    - name: Nacionalismo
+      children: 
+      - name: Unidad nacional
+      - name: Idiosincrasia nacional
+      - name: Identidad nacional
+      - name: Independentismo
+        children:
+        - name: Independentismo catalán
+        - name: Independentismo vasco 
+  - name: Costumbres y tradiciones
+  - name: Lenguas
+  - name: Religión
+    children:
+    - name: Islam
+      children:
+      - name: Fundamentalismo islámico
+      - name: Financiación islamismo
+      - name: Mezquitas
+  - name: Valores
+    children:
+    - name: Valores occidentales
+    - name: Solidaridad
+    - name: Buenismo
+    - name: Egoismo
+    - name: Igualdad
+    - name: Discriminación
+    - name: Libertad
+    - name: Civismo
+    - name: Derechos animales
+    - name: Propiedad privada  
+  - name: Bienestar
+    children:
+    - name: Convivencia 
+    - name: Conflictos sociales
+    - name: Calidad de vida   
+  - name: Demografía
+    children:
+    - name: Minorías
+    - name: Inmigración
+      children:
+      - name: Inmigración legal
+      - name: Inmigración ilegal
+        children:
+        - name: Regularización migratoria
+        - name: Riesgo migratorio
+        - name: Devolución de inmigrantes
+        - name: Travesías en patera
+      - name: Transculturación 
+      - name: Multiculturalismo 
+      - name: Integración social
+      - name: Permiso de residencia  
+      - name: Expulsión de inmigrantes
+      - name: Derecho de asilo
+        children:
+        - name: Protección de refugiados en tercer país
+      - name: Prohibición de entrada
+      - name: Reagrupación familiar
+    - name: Familias
+    - name: Natalidad
+    - name: Juventud
+  - name: Salud
+    children:
+    - name: Alimentación
+      children:
+      - name: Alimentación saludable
+        children:
+        - name: Nutriscore
+        - name: Dieta mediterránea
+      - name: Aceite de oliva
+      - name: Productos ultraprocesados
+      - name: Productos procesados derivados de la carne
+      - name: Bebidas azucaradas
+      - name: Jamón ibérico
+    - name: Deporte
+  - name: Ocio
+    children:
+    - name: Caza
+  - name: Ciencia y tecnología
+    children:
+    - name: Internet
+    - name: Inteligencia Artificial
+  - name: Comunicación
+    children:
+    - name: Medios de comunicación
+    - name: Redes sociales
+  - name: Economía
+    children:
+    - name: PIB
+    - name: Productividad
+    - name: Inflación
+    - name: Consumo
+    - name: Sectores productivos
+      children:
+      - name: Desprestigio sectores productivos
+      - name: Sector primario
+        children:
+        - name: Agricultura
+          children:
+          - name: Productos fitosanitarios
+          - name: Fertilizantes
+          - name: Agricultura ecológica
+        - name: Ganadería
+          children:
+          - name: Ganadería ecológica
+          - name: Antibióticos veterinarios
+        - name: Pesca
+          children:
+          - name: Control pesquero
+        - name: Acuicultura
+        - name: Explotación forestal
+        - name: Minería
+      - name: Industria
+        children:
+        - name: Industria agroalimentaria
+          children:
+          - name: Industria cárnica
+          - name: Normas sobre sanidad animal y vegetal
+          - name: Seguridad alimentaria
+          - name: Soberanía alimentaria
+        - name: Construcción
+        - name: Energía
+          children: 
+          - name: Pobreza energética
+          - name: Combustibles fósiles
+          - name: Energía nuclear
+          - name: Energías renovables
+            children:
+            - name: Energía solar
+            - name: Energía hidráulica
+            - name: Energía eólica
+            - name: Energía mareomotriz
+        - name: Mineŕia
+          children:
+          - name: Fracking
+        - name: Deslocalización industrial
+        - name: Industria automovilística
+        - name: Industria farmacéutica
+      - name: Sector servicios
+        children:
+        - name: Banca y finanzas
+        - name: Turismo
+        - name: Comercio
+          children:
+          - name: Competitividad
+            children:
+            - name: Competencia desleal
+            - name: Proteccionismo comercial
+            - name: Requisitos homogéneos
+          - name: Comercio exterior
+            children:
+            - name: Aranceles
+            - name: Importaciones
+              children:
+              - name: Importaciones extracomunitarias
+              - name: Importaciones comunitarias
+              - name: Cuotas de importación
+            - name: Exportaciones
+            - name: Comercio comunitario
+            - name: Comercio extracomunitario
+              children:
+              - name: Acuerdos de libre comercio
+              - name: Mercosur
+      - name: Trabajo
+        children:
+        - name: Empleo público
+        - name: Convenios laborales
+        - name: Subsidio desempleo
+        - name: Salarios adecuados
+        - name: Paro
+        - name: Precarización empleos
+      - name: Empresas
+        children:
+        - name: Empresas privadas
+        - name: Empresas públicas
+        - name: Autónomos
+        - name: pymes
+        - name: Multinacionales
+- name: Comunidad internacional
+  children:
+    - name: Tribunales
+      children:
+      - name: Tribunales europeos
+    - name: Organizaciones
+      children:
+      - name: ONU
+        children:
+        - name: Agenda 2030
+        - name: ODS
+      - name: OTAN
+      - name: Unión Europea
+        children:
+          - name: Europa del sur
+          - name: Instituciones europeas
+            children:
+            - name: Parlamento europeo
+            - name: Comisión europea
+            - name: Tribunales europeos
+              children:
+              - name: Tribunal Europeo de Derechos Humanos
+          - name: Mecanismos económicos europeos
+            children:
+            - name: Fondos europeos
+              children:
+              - name: Fondos next generation
+            - name: Presupuesto comunitario
+          - name: Agencias europeas
+            children: 
+            - name: AESA
+            - name: Seguridad y defensa europea
+              children:
+              - name: FRONTEX
+              - name: Europol
+              - name: Ejército europeo
+          - name: Recomendaciones europeas
+          - name: Normativas europeas
+            children:
+            - name: Política comercial europea
+            - name: Política migratoria europea
+              children: 
+              - name: Cuotas de redistribución inmigrantes
+              - name: Reglamento de Eurodac
+              - name: Sistema de asilo
+              - name: Reglamento de reparto del esfuerzo
+            - name: Política Agraria Común
+              slug: PAC
+            - name: Política Pesquera Común
+              slug: PPC
+            - name: Políticas europeas de desarrollo sostenible
+              children:
+              - name: Pacto Verde Europeo
+              - name: Reglamento de Control Pesquero
+              - name: 'Reglamento sobre el uso de la tierra, el cambio de uso de la tierra y la silvicultura'
+              - name: Estrategia “De la Granja a la Mesa”
+              - name: Estrategia “Biodiversidad para 2030”
+              - name: Reglamento sobre la restauración de la naturaleza
+              - name: Reglamento relativo al uso sostenible de productos fitosanitarios
+              - name: Control y reducción de emisiones
+              - name: Ley Europea del Clima
+              - name: Mecanismo de ajuste de las emisiones de carbono en frontera
+              - name: Paquete de medidas “Objetivo 55”
+            - name: Políticas medioambientales
+              children:
+              - name: Directiva Hábitats
+    - name: Política internacional
+      children:
+      - name: Soberanía nacional
+      - name: Interés nacional
+      - name: Interés comunitario
+      - name: Interés común de los Estados de la UE
+      - name: Intereses extranjeros
+      - name: Coerción internacional
+      - name: Paz y guerras
+      - name: Cambio climático
+        children:
+        - name: Dogmatismo climático
+        - name: Negacionismo climático
+        - name: Empirismo climático
+        - name: Adaptación al cambio climático
+        - name: Mitigación del cambio climático         
+        - name: Gases de efecto invernadero
+      - name: Capa de ozono
+      - name: Desarrollo sostenible
+        children:
+        - name: Cambio de modelo económico
+        - name: Transición ecológica
+          children:
+          - name: Transición energética
+          - name: Economía circular
+          - name: Movilidad sostenible
+          - name: Urbanismo sostenible
+          - name: Conservación de la Biodiversidad
+          - name: Agricultura sostenible
+      - name: Cooperación internacional
+        children: 
+        - name: Cooperación eficaz
+        - name: Cooperación migratoria
+        - name: Acuerdos de cooperación internacional
+      - name: Australia
+      - name: Nueva Zelanda
+      - name: África
+      - name: Caribe
+      - name: España
+      - name: China
+      - name: Sudáfrica
+      - name: Marruecos
+      - name: Mar Mediterráneo
+      - name: Océano Atlántico
+      - name: Océano Pacífico
+      - name: Reino Unido
+- name: Otros
+  children:
+  - name: Reforma
+  - name: Industria manufacturera
+  - name: Protección medioambiental
+  - name: Comercio con Marruecos
+  - name: Control fronterizo de mercancías
+  - name: Vigilancia etiquetado de mercancías
+  - name: Trazabilidad de productos
+  - name: Fraude comercial
+  - name: Promoción producto nacional
+  - name: Desprestigio producto nacional
+    
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  

@@ -1,10 +1,11 @@
 id: 2404de26-3ddf-42f7-8770-6aaf50a6ea8a
-type: declaration
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+type: statement
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 7
+parent_chapter: 837e463a-8623-483e-9a15-69bf3dc872f4
 text: Ante el desafío que suponen las próximas elecciones generales, municipales y autonómicas, presentamos un Contrato con los españoles. Un contrato que se asienta en cinco principios irrenunciables que serán la guía de nuestra acción política.

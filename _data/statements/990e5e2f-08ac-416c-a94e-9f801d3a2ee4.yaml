@@ -1,6 +1,6 @@
 id: 990e5e2f-08ac-416c-a94e-9f801d3a2ee4
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 256
+parent_chapter: 20facdab-4731-44c4-b5bb-91fdf8fba805
+text: Avanzaremos en la implementación de las reformas emprendidas esta legislatura.
 categories: Migración
 topics: Integración
-text: Avanzaremos en la implementación de las reformas emprendidas esta legislatura.

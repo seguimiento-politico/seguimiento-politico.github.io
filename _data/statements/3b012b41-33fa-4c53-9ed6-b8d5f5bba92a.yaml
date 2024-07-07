@@ -1,6 +1,6 @@
 id: 3b012b41-33fa-4c53-9ed6-b8d5f5bba92a
-type: declaration
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+type: statement
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 4
-categories: Economía
+parent_chapter: 0580500d-2824-4575-b2a9-33984e26e421
 text: Se desarrollará una política económica orientada a potenciar el crecimiento sostenible y la creación de empleo, garantizando la estabilidad financiera y fiscal, desarrollando una política social activa que reduzca la desigualdad, combata la precariedad del mercado laboral, garantice un trabajo digno, estable y de calidad, y unas pensiones justas, e impulsando las transformaciones estructurales que posibiliten el crecimiento potencial, la productividad, la capacidad de creación de empleo de calidad y la competitividad de la economía española con el objetivo de modernizar el sistema productivo, hacer efectiva la transición ecológica y sentar las bases de un crecimiento sostenible e inclusivo.
+categories: Economía

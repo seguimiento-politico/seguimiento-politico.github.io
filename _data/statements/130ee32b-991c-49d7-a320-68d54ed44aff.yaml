@@ -1,12 +1,13 @@
 id: 130ee32b-991c-49d7-a320-68d54ed44aff
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 85
+parent_chapter: d1de57bf-12c9-4ee3-a261-eeb154aba200
+text: Los medios de comunicación públicos estarán guiados por criterios de profesionalidad, transparencia, pluralidad y racionalidad económica. Terminaremos con el modelo de Administrador único de la corporación de RTVE e impulsaremos un Gobierno corporativo guiado por los principios de profesionalidad, mérito y capacidad.
 categories: Democracia
 topics: Gobernanza y transparencia
-text: Los medios de comunicación públicos estarán guiados por criterios de profesionalidad, transparencia, pluralidad y racionalidad económica. Terminaremos con el modelo de Administrador único de la corporación de RTVE e impulsaremos un Gobierno corporativo guiado por los principios de profesionalidad, mérito y capacidad.

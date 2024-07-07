@@ -1,6 +1,6 @@
 id: b1dbd382-ee19-43e9-b6eb-381bbc0d6f65
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 80
+parent_chapter: 8bd5a5ab-7c10-4a53-bb6e-7390d895efc4
+text: Nuestro objetivo es que en el año 2030 el transporte de mercancías por ferrocarril represente el 10% del total de mercancías que se mueven en nuestro país. Es una apuesta posible y que lograremos con la ejecución de la infraestructura necesaria, pero también con la potenciación de los servicios.
 categories: Transporte
 topics: Ferrocarril, Transporte mercancías
-text: Nuestro objetivo es que en el año 2030 el transporte de mercancías por ferrocarril represente el 10% del total de mercancías que se mueven en nuestro país. Es una apuesta posible y que lograremos con la ejecución de la infraestructura necesaria, pero también con la potenciación de los servicios.

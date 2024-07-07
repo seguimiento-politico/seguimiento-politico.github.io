@@ -1,6 +1,6 @@
 id: 24107a39-57d2-44b5-98ba-cc628199a555
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_chapter: 8bd5a5ab-7c10-4a53-bb6e-7390d895efc4
+text: 'Potenciaremos el tren como medio de transporte de mercancías. Complementará al transporte de mercancías por carretera y aumentará su eficiencia. Es esencial continuar trabajando para mejorar su sostenibilidad desde una triple perspectiva: ambiental, económica y social.'
 categories: Transporte
 topics: Ferrocarril, Transporte mercancías
-text: 'Potenciaremos el tren como medio de transporte de mercancías. Complementará al transporte de mercancías por carretera y aumentará su eficiencia. Es esencial continuar trabajando para mejorar su sostenibilidad desde una triple perspectiva: ambiental, económica y social.'

@@ -1,7 +1,6 @@
 id: 2b91448c-b0ec-4251-81ec-717c7b72d4f7
 type: promise
-parent_statement: 97a58ba3-5f76-4eb8-97d3-74401c2cf4af
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 97a58ba3-5f76-4eb8-97d3-74401c2cf4af
+parent_chapter: 5b5e2314-3fa5-4e12-99b5-33a9b2e5cea2
+text: Prestaremos especial atención a la creación de un certificado de filiación europeo.
 categories: Democracia
 topics: LGTBI
-text: Prestaremos especial atención a la creación de un certificado de filiación europeo.

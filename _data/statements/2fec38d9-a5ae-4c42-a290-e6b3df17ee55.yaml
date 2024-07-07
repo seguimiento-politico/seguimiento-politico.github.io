@@ -1,6 +1,6 @@
 id: 2fec38d9-a5ae-4c42-a290-e6b3df17ee55
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 266
+parent_chapter: 2c0cbfe5-1ea8-4d91-9e0d-86e01b93d0ba
+text: Seguiremos trabajando a favor de la instauración de un régimen democrático con elecciones libres y respetuoso de los derechos humanos en Guinea Ecuatorial, país con el que nos unen lazos históricos, culturales, sociales y económicos.
 categories: Política internacional
 topics: África
-text: Seguiremos trabajando a favor de la instauración de un régimen democrático con elecciones libres y respetuoso de los derechos humanos en Guinea Ecuatorial, país con el que nos unen lazos históricos, culturales, sociales y económicos.

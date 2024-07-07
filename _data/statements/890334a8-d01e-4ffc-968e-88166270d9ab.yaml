@@ -1,6 +1,6 @@
 id: 890334a8-d01e-4ffc-968e-88166270d9ab
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 33
-categories: Derechos y servicios sociales
+parent_chapter: f6b1da17-dc9f-4173-bb8d-5c472a4a169a
 text: Haremos las modificaciones legislativas oportunas para facilitar la recuperación de los bienes inmatriculados indebidamente por la Iglesia basadas en el privilegio de inscribir en el Registro de la Propiedad bienes a partir de simples declaraciones de sus propios miembros.
+categories: Derechos y servicios sociales

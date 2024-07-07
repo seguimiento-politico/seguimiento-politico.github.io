@@ -1,0 +1,30 @@
+name: Empleo público
+other:
+- &id001
+  id: 38e216a6-1c43-4891-ab59-7d59b0dd3e78
+  parties:
+  - CIUDADANOS
+- &id002
+  id: b6bd4fe7-7326-49ce-a28b-90f77dfac5ca
+  parties:
+  - PSOE
+- &id003
+  id: 7ce600fb-0648-4eab-b121-1cc141959a10
+  parties:
+  - PSOE
+other_count: 3
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- *id002
+- *id003
+statements_count: 3
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

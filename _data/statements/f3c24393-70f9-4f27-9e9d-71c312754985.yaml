@@ -1,7 +1,6 @@
 id: f3c24393-70f9-4f27-9e9d-71c312754985
 type: promise
-parent_statement: 7edfaa52-05b7-473a-9deb-b99519a4db16
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 7edfaa52-05b7-473a-9deb-b99519a4db16
+parent_chapter: 0954599d-af78-4370-9f76-a716d889661d
+text: Facilitaremos la tramitación con las Administraciones públicas. Facilitar la simplificación administrativa, en particular empleando la digitalización y las nuevas tecnologías, es un factor de éxito en la eficiencia de las empresas, y sirve también para un mayor cumplimiento de las responsabilidades empresariales con las Administraciones. Se evitará utilizar el silencio administrativo como forma habitual de resolver tanto las alegaciones como los recursos presentados.
 categories: Economía
 topics: Productividad
-text: Facilitaremos la tramitación con las Administraciones públicas. Facilitar la simplificación administrativa, en particular empleando la digitalización y las nuevas tecnologías, es un factor de éxito en la eficiencia de las empresas, y sirve también para un mayor cumplimiento de las responsabilidades empresariales con las Administraciones. Se evitará utilizar el silencio administrativo como forma habitual de resolver tanto las alegaciones como los recursos presentados.

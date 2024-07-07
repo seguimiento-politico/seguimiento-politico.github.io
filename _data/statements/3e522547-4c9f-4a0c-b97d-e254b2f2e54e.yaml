@@ -1,6 +1,6 @@
 id: 3e522547-4c9f-4a0c-b97d-e254b2f2e54e
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Derechos y servicios sociales
+parent_chapter: e4a4af12-2c6e-4e27-8a79-debda171ff8b
 text: 'El Partido Socialista muestra su profunda preocupación la situación de discriminación múltiple a la que se enfrentan las personas con discapacidad en el ámbito social, educativo, formativo, laboral, económica, participativo, sanitario y jurídico. Pondremos en marcha de campañas de sensibilización de forma periódica y sistemática sobre la realidad de las personas con discapacidad. Esta labor se complementaría con campañas de información sobre la Convención de la ONU y los derechos y el trato adecuado de las personas con discapacidad. Nos comprometemos a:'
+categories: Derechos y servicios sociales

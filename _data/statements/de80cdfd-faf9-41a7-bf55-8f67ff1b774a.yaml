@@ -1,6 +1,6 @@
 id: de80cdfd-faf9-41a7-bf55-8f67ff1b774a
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 83
+parent_chapter: 6604cb67-3c4b-400f-93dd-33c3d4ed6735
+text: El transporte aéreo es otro elemento esencial por las circunstancias de nuestra geografía, extensión bicontinental y la realidad insular.
 categories: Transporte
 topics: Transporte aéreo
-text: El transporte aéreo es otro elemento esencial por las circunstancias de nuestra geografía, extensión bicontinental y la realidad insular.

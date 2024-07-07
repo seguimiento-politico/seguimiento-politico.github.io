@@ -1,6 +1,6 @@
 id: c8b580b9-7adf-4663-b57c-960ce836cf84
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 16
+parent_chapter: 7ae97af0-2b46-4081-8273-1e68d732579c
+text: Partiendo de este éxito, continuaremos profundizando en la reforma del mercado eléctrico mayorista, encaminadas a resolver los elementos perjudiciales del actual mecanismo marginalista y los llamados “beneficios caídos del cielo”. De esta forma, trasladaremos el beneficio de las energías renovables a los consum  idores, abaratando la factura eléctrica para hogares y empresas, con una mayor equ  idad y segur  idad de suministro, al tiempo que se proporcionan las señales adecuadas para atraer inversiones.
 categories: Economía
 topics: Desarrollo sostenible
-text: Partiendo de este éxito, continuaremos profundizando en la reforma del mercado eléctrico mayorista, encaminadas a resolver los elementos perjudiciales del actual mecanismo marginalista y los llamados “beneficios caídos del cielo”. De esta forma, trasladaremos el beneficio de las energías renovables a los consum  idores, abaratando la factura eléctrica para hogares y empresas, con una mayor equ  idad y segur  idad de suministro, al tiempo que se proporcionan las señales adecuadas para atraer inversiones.

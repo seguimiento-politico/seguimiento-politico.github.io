@@ -1,6 +1,6 @@
 id: 8bb66370-720b-46d1-9278-a0f54b7b4e94
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 21
+parent_chapter: 1e6c4483-a585-4aa8-9571-576fd45f4ea1
+text: Para garantizar una creciente conciliación de la vida laboral, familiar y personal, favoreciendo la necesaria corresponsabilidad entre hombres y mujeres, impulsaremos un pacto social y político por la racionalización de los horarios, que incluirá una Ley de usos del tiempo y racionalización de los horarios.
 categories: Derechos y servicios sociales
 topics: Igualdad
-text: Para garantizar una creciente conciliación de la vida laboral, familiar y personal, favoreciendo la necesaria corresponsabilidad entre hombres y mujeres, impulsaremos un pacto social y político por la racionalización de los horarios, que incluirá una Ley de usos del tiempo y racionalización de los horarios.

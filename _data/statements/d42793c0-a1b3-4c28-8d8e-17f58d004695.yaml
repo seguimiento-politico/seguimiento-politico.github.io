@@ -1,7 +1,6 @@
 id: d42793c0-a1b3-4c28-8d8e-17f58d004695
 type: promise
-parent_statement: 79419034-cd7b-427b-9b23-cba8ee225488
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Seguridad y defensa
+parent_statement: 79419034-cd7b-427b-9b23-cba8ee225488
+parent_chapter: 66b190ef-617c-438a-adf3-a3c9f707719b
 text: Es preciso impulsar un nuevo modelo policial que delimite adecuadamente sus funciones sobre el principio de subsidiariedad frente a otros actores sociales e institucionales, que sirva para profundizar en su profesionalidad y su modernización y que acentúe su carácter de institución al servicio de la ciudadanía.
+categories: Seguridad y defensa

@@ -1,6 +1,6 @@
 id: 6a7d3c86-a948-4ba4-8dd4-50f947e67771
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 53
+parent_chapter: 2d06e79f-d667-441b-b7cf-513970c6ccde
+children_promises:
+- a79c5c41-b78e-4d2a-82b7-a0102ab2de82
+children_statements: []
+title: Responsabilidad internacional en la importación de recursos naturales
 categories: Medioambiente
 topics: Biodiversidad
-title: Responsabilidad internacional en la importación de recursos naturales
-has_children: true

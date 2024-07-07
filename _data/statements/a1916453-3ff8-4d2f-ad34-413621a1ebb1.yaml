@@ -1,6 +1,6 @@
 id: a1916453-3ff8-4d2f-ad34-413621a1ebb1
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 65
-categories: Derechos y servicios sociales
+parent_chapter: d8e47013-d4f2-4ad6-a46d-2514ab7cb432
 text: Programa de desgravaciones fiscales para los perceptores de rentas de jubilación y mayores de 65 años que incurran en cargas a favor de familiares menores de 35 años en concepto de gastos sanitarios, educación escolar y universitaria, práctica deportiva y adquisición de su primera vivienda.
+categories: Derechos y servicios sociales

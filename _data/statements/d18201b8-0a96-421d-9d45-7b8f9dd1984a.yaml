@@ -1,6 +1,6 @@
 id: d18201b8-0a96-421d-9d45-7b8f9dd1984a
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 113
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+children_promises:
+- dedb04d3-d0a7-4b72-8616-bb542b7abd66
+- e761c16f-cf47-4b15-a7c7-c6a9d183b074
+- 6eb1000e-ca4e-4387-be0e-023f4a9dec69
+- d0695586-bac9-4722-b60a-a7f2593f6421
+children_statements:
+- bfe51ca4-bdb1-41e3-90f3-183c33b88831
+title: Mujeres, transición ecológica y cambio climático.
 categories: Democracia
 topics: Igualdad
-title: Mujeres, transición ecológica y cambio climático.
-has_children: true

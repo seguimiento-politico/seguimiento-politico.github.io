@@ -1,6 +1,6 @@
 id: 7e907d05-11a2-41d6-aff1-c040618e998d
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 20
+parent_chapter: b7666ade-9a66-49ca-9621-feeda6f1a0e3
+text: Actualizaremos la Estrategia Nacional frente al Reto Demográfico y el Plan de Acción a nivel nacional para lograr una mejor vertebración del territorio. Se fortalecerán las políticas de lucha contra la despoblación para los territorios con mayor vulnerabil  idad socio-territorial de cara a la mejora de la prestación de servicios y de las infraestructuras que permitan su desarrollo territorial y transformación social y económica. Se reducirá el déficit de servicios, impulsando la proxim  idad y el acceso de los servicios esenciales, la conexión a internet en todo el territorio y la promoción de una red de transporte público adecuada.
 categories: Economía
 topics: Desarrollo sostenible
-text: Actualizaremos la Estrategia Nacional frente al Reto Demográfico y el Plan de Acción a nivel nacional para lograr una mejor vertebración del territorio. Se fortalecerán las políticas de lucha contra la despoblación para los territorios con mayor vulnerabil  idad socio-territorial de cara a la mejora de la prestación de servicios y de las infraestructuras que permitan su desarrollo territorial y transformación social y económica. Se reducirá el déficit de servicios, impulsando la proxim  idad y el acceso de los servicios esenciales, la conexión a internet en todo el territorio y la promoción de una red de transporte público adecuada.

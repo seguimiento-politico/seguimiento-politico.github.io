@@ -1,6 +1,6 @@
 id: c98c80fb-322c-4bab-b05e-9473fa61221d
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 35
-categories: Política internacional
+parent_chapter: 7c3ce181-3fa0-4eb6-86d9-6ef9ed0c64d6
+children_promises:
+- 690920aa-8039-4907-a5df-669327b378d7
+- 109017cb-5724-4586-9793-447ec821aa01
+children_statements: []
 title: Impulsaremos el refuerzo del marco de instituciones globales como el Fondo Monetario Internacional y el Banco Mundial para garantizar la estabilidad financiera y apoyar a los países de renta baja y media.
-has_children: true
+categories: Política internacional

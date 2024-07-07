@@ -1,6 +1,6 @@
 id: 9de71b75-aa8d-48dc-aba2-d1ede4e2f92b
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 103
+parent_chapter: f8348ef6-75be-45f5-9b64-97ad1de424bc
+text: Reforma de la normativa sobre nacionalidad para impedir la adquisición fraudulenta o abusiva de la nacionalidad española, resignificando la condición de ser español; y ampliando los supuestos de pérdida de la nacionalidad. La adquisición de la nacionalidad debe estar sometida en cualquier caso a una integración real y comprobable, a una ausencia total de antecedentes penales y a un perfecto conocimiento del español.
 categories:
 - Migración
-text: Reforma de la normativa sobre nacionalidad para impedir la adquisición fraudulenta o abusiva de la nacionalidad española, resignificando la condición de ser español; y ampliando los supuestos de pérdida de la nacionalidad. La adquisición de la nacionalidad debe estar sometida en cualquier caso a una integración real y comprobable, a una ausencia total de antecedentes penales y a un perfecto conocimiento del español.

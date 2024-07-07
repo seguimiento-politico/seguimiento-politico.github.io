@@ -1,6 +1,6 @@
 id: 2f0fffc1-12a7-4667-8640-5a98d15b1085
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 105
-categories: Educación
+parent_chapter: 4872b767-30c4-4072-ad3d-e4eee6b9d235
 text: Impulsaremos estructuras organizativas especializadas en convivencia desde modelos de gestión restaurativa de los conflictos incorporando los Programas de Alumnos Ayudantes y de Mediación escolar en los centros educativos.
+categories: Educación

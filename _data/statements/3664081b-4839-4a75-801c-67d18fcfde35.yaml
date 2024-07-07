@@ -1,7 +1,6 @@
 id: 3664081b-4839-4a75-801c-67d18fcfde35
-type: declaration
-parent_statement: 8c8cfb5c-2550-4138-80fc-cf06f95febd5
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: 8c8cfb5c-2550-4138-80fc-cf06f95febd5
+parent_chapter: f332e39e-54bd-4a09-97bf-4e1a0c3e4bbd
+text: El 5G/6G tendrá un rol relevante en los próximos cambios disruptivos que definirán nuestra sociedad.
 categories: Infraestructuras
 topics: Digitalización
-text: El 5G/6G tendrá un rol relevante en los próximos cambios disruptivos que definirán nuestra sociedad.

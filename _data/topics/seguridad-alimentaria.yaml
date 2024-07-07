@@ -1,0 +1,45 @@
+name: Seguridad alimentaria
+other:
+- &id002
+  id: 3120cd09-30f3-4a6c-925b-6fc0850f129b
+  parties:
+  - VOX
+- &id003
+  id: 6e2ca434-d940-4345-8ff2-2ce6fd032a77
+  parties:
+  - VOX
+- &id004
+  id: 4e4aa873-80e0-4970-aed3-da2597f6aa16
+  parties:
+  - VOX
+- &id005
+  id: 24665f89-fc03-4258-8ec2-25193e4d0247
+  parties:
+  - VOX
+- &id006
+  id: fb1831bb-a713-4016-9e24-f26c31bf4bc7
+  parties:
+  - VOX
+other_count: 5
+position_negative: []
+position_negative_count: 0
+position_positive:
+- &id001
+  id: 1d2e274a-7053-474c-b482-90291c176818
+  parties:
+  - VOX
+position_positive_count: 1
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+statements_count: 6
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

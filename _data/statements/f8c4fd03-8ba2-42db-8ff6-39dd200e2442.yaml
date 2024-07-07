@@ -1,6 +1,6 @@
 id: f8c4fd03-8ba2-42db-8ff6-39dd200e2442
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 45
+parent_chapter: 8b3b4090-2613-4308-b395-3a2c5b3078b6
+text: Abordaremos, con carácter transversal, la brecha digital de género, para lo que aprobaremos un programa para desarrollar, atraer y retener el talento de las mujeres en el ámbito digital, que incentive las vocaciones científico/tecnológicas en niñas y mujeres jóvenes.
 categories: Ciencia y tecnología
 topics: Digitalización
-text: Abordaremos, con carácter transversal, la brecha digital de género, para lo que aprobaremos un programa para desarrollar, atraer y retener el talento de las mujeres en el ámbito digital, que incentive las vocaciones científico/tecnológicas en niñas y mujeres jóvenes.

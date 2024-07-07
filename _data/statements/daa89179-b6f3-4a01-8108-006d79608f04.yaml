@@ -1,6 +1,6 @@
 id: daa89179-b6f3-4a01-8108-006d79608f04
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 12
+parent_chapter: 14cfe70b-f6b5-4003-88f7-02a877dec28f
 title: Crear una red inteligente de infraestructuras de recarga.
 text: Se establecerán zonas prioritarias de instalación, se crearán redes más eficientes y se priorizará su carácter público, todo ello dentro de un marco normativo que favorezca la gestión pública de las redes de distribución eléctrica y bajo la acción de la empresa pública de energía

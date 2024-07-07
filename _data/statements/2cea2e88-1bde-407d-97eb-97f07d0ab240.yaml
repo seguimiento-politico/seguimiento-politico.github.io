@@ -1,7 +1,6 @@
 id: 2cea2e88-1bde-407d-97eb-97f07d0ab240
 type: promise
-parent_statement: d684f8b6-a65f-4470-a17b-4edc9fb1c16b
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: d684f8b6-a65f-4470-a17b-4edc9fb1c16b
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+text: Además, se prestará especial atención a las medidas destinadas a prevenir y eliminar la violencia y el acoso en el trabajo, incluidos los protocolos contra el acoso, dando cumplimiento al Estatuto de los Trabajadores, a la Ley Orgánica 3/2007, del 22 de marzo, para la igualdad efectiva de mujeres y hombres y al convenio 190 de la OIT.
 categories: Democracia
 topics: Igualdad
-text: Además, se prestará especial atención a las medidas destinadas a prevenir y eliminar la violencia y el acoso en el trabajo, incluidos los protocolos contra el acoso, dando cumplimiento al Estatuto de los Trabajadores, a la Ley Orgánica 3/2007, del 22 de marzo, para la igualdad efectiva de mujeres y hombres y al convenio 190 de la OIT.

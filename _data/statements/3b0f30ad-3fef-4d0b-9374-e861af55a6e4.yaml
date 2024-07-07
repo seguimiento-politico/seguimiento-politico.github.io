@@ -1,6 +1,6 @@
 id: 3b0f30ad-3fef-4d0b-9374-e861af55a6e4
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 147
-categories: Política internacional
+parent_chapter: db635e28-b5bf-4dba-aaf7-b48b45ca3061
+children_promises:
+- 637d2b62-b764-476b-8f29-aa0e26805c54
+- 24f6f936-b7b5-4a63-ade5-4aefb78909a9
+- 010ada29-6bda-4d36-b32a-6d0af93f7e64
+children_statements: []
 title: 'La justicia de género: pilar de la nueva cooperación española'
-has_children: true
+categories: Política internacional

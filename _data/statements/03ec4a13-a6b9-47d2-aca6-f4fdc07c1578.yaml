@@ -1,6 +1,6 @@
 id: 03ec4a13-a6b9-47d2-aca6-f4fdc07c1578
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 255
-categories: Migración
+parent_chapter: a28261b2-6635-44ba-a26a-7ed40dcd7f18
 text: Avanzaremos en la atención a colectivos de especial vulnerabilidad, potenciando la red de centros de acogida para las personas demandantes de protección internacional por razones de LGTBIfobia.
+categories: Migración

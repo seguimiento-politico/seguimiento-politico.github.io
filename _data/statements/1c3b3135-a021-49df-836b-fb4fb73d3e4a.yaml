@@ -1,6 +1,6 @@
 id: 1c3b3135-a021-49df-836b-fb4fb73d3e4a
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 22
-categories: Impuestos y financiación pública
+parent_chapter: cc54c662-37b4-4dac-bee3-d45df9edf41e
 text: Reducción del tipo y simplificación del Impuesto sobre Sociedades para favorecer el crecimiento de nuestras empresas y la creación de empleo en España así como para atraer los beneficios generados por empresas españolas en el exterior.
+categories: Impuestos y financiación pública

@@ -1,7 +1,6 @@
 id: d89ea132-1484-4de1-9db3-bcadbf0990fe
 type: promise
-parent_statement: d425b8ef-e531-4e5f-8c23-1410a6fe405c
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Justicia
+parent_statement: d425b8ef-e531-4e5f-8c23-1410a6fe405c
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
 text: Hay que potenciar las distintas medidas de eficiencia digital contempladas en el plan Justicia 2030, asegurando no solamente los aspectos normativos del mismo, sino también la colaboración de ingenieros informáticos que permita un diseño adecuado y eficaz —preferentemente con código abierto— de la justicia digital, que debe ser transparente y de libre acceso para la ciudadanía.
+categories: Justicia

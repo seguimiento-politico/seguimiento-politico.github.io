@@ -1,6 +1,6 @@
 id: 2e6e1a40-1805-47c8-ad3b-b3c9abea488c
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 44
-categories: Derechos y servicios sociales
+parent_chapter: a4517fe7-5755-4c05-a541-7d42b42f6bb3
 text: Ley de memoria, dignidad y justicia para las víctimas del terrorismo. Esta nueva norma impedirá de forma efectiva los homenajes a los terroristas, como medida de justicia y de pedagogía para que las nuevas generaciones desechen el recurso a la violencia como herramienta política.
+categories: Derechos y servicios sociales

@@ -1,12 +1,13 @@
 id: 8cbda974-4e7b-4b04-8589-f0500229eac1
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 27
+parent_chapter: a376d79e-bd30-4273-bfd7-dcba6c72b615
+text: Orientaremos las acciones en materia de políticas activas de empleo a resultados en términos de inserción de los desempleados. Mantendremos la vinculación de la financiación a los resultados obtenidos e informaremos públicamente del impacto de las acciones de políticas activas para favorecer la fiscalización de los programas por los ciudadanos.
 categories:
 - Trabajo
-text: Orientaremos las acciones en materia de políticas activas de empleo a resultados en términos de inserción de los desempleados. Mantendremos la vinculación de la financiación a los resultados obtenidos e informaremos públicamente del impacto de las acciones de políticas activas para favorecer la fiscalización de los programas por los ciudadanos.

@@ -1,6 +1,6 @@
 id: a3ad0d3e-86b7-4ead-9faa-2cc46b95081b
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 22
+parent_chapter: 5ac453aa-319d-4ea3-b4b6-7a63e3dde3ff
+children_promises:
+- 2c1300da-db4e-476c-b3d4-ce486319ab42
+children_statements: []
+title: Diseño de una estrategia para la erradicación de las «brechas digitales»
 categories: Consumo
 topics: Consumo sostenible
-title: Diseño de una estrategia para la erradicación de las «brechas digitales»
-has_children: true

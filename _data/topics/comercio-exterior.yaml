@@ -1,0 +1,65 @@
+name: Comercio exterior
+other:
+- &id001
+  id: 60732032-15fb-4487-a796-5c4a3466c1d9
+  parties:
+  - CIUDADANOS
+- &id002
+  id: 3120cd09-30f3-4a6c-925b-6fc0850f129b
+  parties:
+  - VOX
+- &id003
+  id: 0db5e18f-91ae-4667-b6ff-c9de0fcce22e
+  parties:
+  - VOX
+- &id004
+  id: 24753f7f-9403-4d86-89c9-4624667c5888
+  parties:
+  - VOX
+- &id005
+  id: 6e2ca434-d940-4345-8ff2-2ce6fd032a77
+  parties:
+  - VOX
+other_count: 5
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions:
+- &id006
+  id: e427d52c-b5a5-40bf-838b-66f4aa65f723
+  parties:
+  - VOX
+- &id007
+  id: d12b7fa8-0ed5-4e94-b1a7-38d09e359ff8
+  parties:
+  - VOX
+- &id008
+  id: fb1831bb-a713-4016-9e24-f26c31bf4bc7
+  parties:
+  - VOX
+- &id009
+  id: 5dee988d-5a8d-4186-9017-18dcaef5910b
+  parties:
+  - VOX
+proposed_actions_count: 4
+statements:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- &id010
+  id: e985ed68-5d08-4ffb-8f53-09806c2f08c2
+  parties:
+  - VOX
+- *id006
+- *id007
+- *id008
+- *id009
+statements_count: 10
+status_quo_negative:
+- *id010
+status_quo_negative_count: 1
+status_quo_positive: []
+status_quo_positive_count: 0

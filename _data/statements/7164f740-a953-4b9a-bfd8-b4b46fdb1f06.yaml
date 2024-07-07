@@ -1,7 +1,6 @@
 id: 7164f740-a953-4b9a-bfd8-b4b46fdb1f06
 type: promise
-parent_statement: 3d7cff4f-33e5-4e26-ae03-c71b3cece070
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 3d7cff4f-33e5-4e26-ae03-c71b3cece070
+parent_chapter: 8c9deee8-b4c2-4027-80d6-2a7c7cb91f0b
+text: Promoveremos estrategias de seguridad y de salud en el trabajo con el propósito de garanti zar cero muertes y de prevenir las lesiones y las enfermedades relacionadas con el trabajo. Debe, asimismo, garantizarse el acceso a las prestaciones de seguridad social pertinentes, y desarrollar políticas y sistemas de gestión de la seguridad y la salud en el trabajo eficaces, incluyendo políti cas y sistemas que tengan en cuenta riesgos nuevos y los ya existentes. Trabajar no puede implicar arriesgar la vida y la salud, como por desgracia ocurre con demasiada frecuencia.
 categories: Trabajo
 topics: Riesgos laborales
-text: Promoveremos estrategias de seguridad y de salud en el trabajo con el propósito de garanti zar cero muertes y de prevenir las lesiones y las enfermedades relacionadas con el trabajo. Debe, asimismo, garantizarse el acceso a las prestaciones de seguridad social pertinentes, y desarrollar políticas y sistemas de gestión de la seguridad y la salud en el trabajo eficaces, incluyendo políti cas y sistemas que tengan en cuenta riesgos nuevos y los ya existentes. Trabajar no puede implicar arriesgar la vida y la salud, como por desgracia ocurre con demasiada frecuencia.

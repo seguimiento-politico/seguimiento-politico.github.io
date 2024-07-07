@@ -1,6 +1,6 @@
 id: 4ab4242c-f0fc-47da-86d3-f67b7c92c7bc
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 170
+parent_chapter: 1ba59a71-2649-49ec-b7ab-7b3f541edfea
+text: Seguiremos revalorizando las pensiones mínimas y no contributivas durante la próxima legislatura, para reforzar su efectividad en la reducción de la pobreza.
 categories: Derechos y servicios sociales
 topics: Pensiones
-text: Seguiremos revalorizando las pensiones mínimas y no contributivas durante la próxima legislatura, para reforzar su efectividad en la reducción de la pobreza.

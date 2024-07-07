@@ -1,6 +1,6 @@
 id: 30b4881f-1f99-4df1-9a02-e73f825326c7
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 94
+parent_chapter: 4b1a1fd6-83f2-4e8c-a775-7e65f72f50be
 title: Actualizar el indicador público de renta de efectos múltiples (IPREM).
 text: Subiremos inmediatamente este índice a 670 euros mensuales (lo que supone un aumento inmediato del 25 %) y y lo ligaremos al valor más alto entre el IPC y el crecimiento del salario mediano para evitar que las prestaciones que se vinculan a este índice vuelvan a perder valor o sean menos accesibles

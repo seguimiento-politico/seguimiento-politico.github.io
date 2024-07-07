@@ -1,6 +1,6 @@
 id: 6a1c09e9-51ab-470e-9cfd-6f882cd0cdff
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 169
+parent_chapter: e9f101d6-d6e2-4b1b-95f1-2c67fdd18515
+children_promises:
+- 451c70e0-97f2-418d-8da4-b5e563ad8e16
+children_statements: []
+title: Incremento presupuestario paulatino. Horizonte del 1% en cultura en los PGE para los próximos cuatro años.
 categories: Cultura
 topics: Financiación
-title: Incremento presupuestario paulatino. Horizonte del 1% en cultura en los PGE para los próximos cuatro años.
-has_children: true

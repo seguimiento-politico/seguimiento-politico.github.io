@@ -1,0 +1,71 @@
+name: PP
+other:
+- &id002
+  id: f07eb529-c687-488f-a710-7b4c27085097
+  parties:
+  - VOX
+- &id003
+  id: 1a2a1e8e-4bb1-41dd-a9bd-821ff813c444
+  parties:
+  - VOX
+- &id004
+  id: 7f0ad76f-a506-418e-adf0-c32a323e457d
+  parties:
+  - VOX
+- &id005
+  id: f94205f5-c802-49cc-8eb0-8b45a69c6a4e
+  parties:
+  - VOX
+- &id006
+  id: b752685b-133e-4306-8a61-9f34b19230e5
+  parties:
+  - VOX
+other_count: 5
+position_negative:
+- &id001
+  id: 07d9f40b-dc82-4c95-b067-ff8a50cb0e5d
+  parties:
+  - VOX
+position_negative_count: 1
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- &id007
+  id: e348aeee-9afc-4fdb-8bfa-de25dfde79cd
+  parties:
+  - VOX
+- &id008
+  id: 25384583-ff36-4896-8e48-540b4200a231
+  parties:
+  - VOX
+- *id001
+- &id009
+  id: 83ab4c94-b8a5-4d3b-80ed-50a6f61cd102
+  parties:
+  - VOX
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- &id010
+  id: f20b27f9-495e-4452-9918-9e3d3823010e
+  parties:
+  - VOX
+- &id011
+  id: 47981e9d-1330-44f9-abdd-3c054b10a812
+  parties:
+  - VOX
+statements_count: 11
+status_quo_negative:
+- *id007
+- *id008
+- *id001
+- *id009
+- *id010
+- *id011
+status_quo_negative_count: 6
+status_quo_positive: []
+status_quo_positive_count: 0

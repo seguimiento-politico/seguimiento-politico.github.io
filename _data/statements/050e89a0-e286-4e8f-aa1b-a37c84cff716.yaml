@@ -1,6 +1,6 @@
 id: 050e89a0-e286-4e8f-aa1b-a37c84cff716
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 264
+parent_chapter: 0631ffc9-f685-4c80-b532-d54fe56904f9
+text: Seguiremos exportando soluciones ibéricas en beneficio de la ciudadanía española y portuguesa, como es la excepción a los precios de la energía refrendada por las instituciones europeas.
 categories: Política internacional
 topics: Portugal
-text: Seguiremos exportando soluciones ibéricas en beneficio de la ciudadanía española y portuguesa, como es la excepción a los precios de la energía refrendada por las instituciones europeas.

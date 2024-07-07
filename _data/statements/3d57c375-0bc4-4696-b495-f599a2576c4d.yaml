@@ -1,6 +1,6 @@
 id: 3d57c375-0bc4-4696-b495-f599a2576c4d
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 39
+parent_chapter: 1e1d9fec-722c-4fe5-83c8-753b161e1073
+text: Sin embargo, nuestra industria turística se enfrenta a importantes retos de transformación y adaptación hacia un modelo turístico más sostenible e inteligente. Un modelo acorde a una realidad en constante cambio que debe hacer frente a los desafíos de la lucha contra el cambio climático, la digitalización, las tendencias internacionales y la maximización de la satisfacción de la experiencia en destino del turista.
 categories: Turismo
 topics: Desarrollo sostenible
-text: Sin embargo, nuestra industria turística se enfrenta a importantes retos de transformación y adaptación hacia un modelo turístico más sostenible e inteligente. Un modelo acorde a una realidad en constante cambio que debe hacer frente a los desafíos de la lucha contra el cambio climático, la digitalización, las tendencias internacionales y la maximización de la satisfacción de la experiencia en destino del turista.

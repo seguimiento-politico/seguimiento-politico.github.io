@@ -1,6 +1,6 @@
 id: 152a5fc4-522f-47fc-bc7c-618f0386a363
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 56
+parent_chapter: 5d726eb0-d9d8-487a-b54a-76273c1b0a4a
+children_promises:
+- 1ee74f99-7400-49c1-82f1-f638d5f7cf83
+children_statements: []
+title: Impulsaremos la capacitación digital en todas las etapas educativas y de la formación profesional
 categories: Economía
 topics: Digitalización
-title: Impulsaremos la capacitación digital en todas las etapas educativas y de la formación profesional
-has_children: true

@@ -1,6 +1,6 @@
 id: f152bb47-49cd-4ec4-bec5-bc481afec65f
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 267
+parent_chapter: 7260ed69-d02c-48a2-8712-ed039ccddea7
+text: Garantizar los derechos y proteger a los españoles y las personas españolas en el exterior ha sido una de los principales preocupaciones y objetivos del gobierno. Hemos cumplido con la promesa histórica de derogar el voto rogado para facilitar que las y los españoles y españolas residentes en el extranjero puedan ejercer su derecho constitucional a voto. Como también hemos ampliado los supuestos de adquisición de nacionalidad para los descendientes de españoles y españolas en el exterior a través de la Disposición Adicional 7a de la Ley de Memoria Democrática, convirtiendo a España en el país con la legislación más avanzada en la materia.
 categories: Política internacional
 topics:
 - Expatriados
 - Consulados
-text: Garantizar los derechos y proteger a los españoles y las personas españolas en el exterior ha sido una de los principales preocupaciones y objetivos del gobierno. Hemos cumplido con la promesa histórica de derogar el voto rogado para facilitar que las y los españoles y españolas residentes en el extranjero puedan ejercer su derecho constitucional a voto. Como también hemos ampliado los supuestos de adquisición de nacionalidad para los descendientes de españoles y españolas en el exterior a través de la Disposición Adicional 7a de la Ley de Memoria Democrática, convirtiendo a España en el país con la legislación más avanzada en la materia.

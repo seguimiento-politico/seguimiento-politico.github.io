@@ -1,7 +1,6 @@
 id: dfee29d6-6e6b-4abc-92c1-4c2119675ecc
 type: promise
-parent_statement: d8feb82f-e7c3-42da-a058-090a8f4262e6
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +8,10 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: d8feb82f-e7c3-42da-a058-090a8f4262e6
+parent_chapter: 96f08000-98a6-4e52-8e39-fe555ca37269
+text: Nos comprometemos a seguir impulsado los objetivos del PERTE de la Lengua
 categories: Economía
 topics:
 - Digitalización
 - Lenguas
-text: Nos comprometemos a seguir impulsado los objetivos del PERTE de la Lengua

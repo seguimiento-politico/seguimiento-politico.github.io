@@ -1,6 +1,6 @@
 id: eaf00da7-5637-4a75-87a8-2732843505a5
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 96
-categories: Territorio rural
+parent_chapter: 6623cb78-c7bc-40e0-84a3-6bfa41aa2c79
 text: Actualizaremos la Estrategia Nacional frente al Reto Demográfico, para incluir los cambios que se han producido e impulsar la cohesión social en el territorio.
+categories: Territorio rural

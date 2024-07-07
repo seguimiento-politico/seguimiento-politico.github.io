@@ -1,6 +1,6 @@
 id: 8e68503a-7520-4593-aaae-058a9a727afa
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,9 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 30
+parent_chapter: 9084fb76-14d5-4f08-b13b-74bd606de716
+children_promises:
+- 4bf3b4fa-cba8-479c-8089-422e159765c8
+- 66dd0b3f-bff8-465d-98ee-d158226df645
+children_statements: []
+title: Acompañaremos a las empresas, especialmente a las pymes y autónomos, en el proceso de proceso de transición ecológica y de adaptación e incorporación de las nuevas reglas europeas en materia verde y digital.
 categories: Empresas y autónomos
 topics:
 - Autónomos
 - PYMES
-title: Acompañaremos a las empresas, especialmente a las pymes y autónomos, en el proceso de proceso de transición ecológica y de adaptación e incorporación de las nuevas reglas europeas en materia verde y digital.
-has_children: true

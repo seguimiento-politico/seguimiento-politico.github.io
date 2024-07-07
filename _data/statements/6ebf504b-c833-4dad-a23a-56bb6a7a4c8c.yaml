@@ -1,7 +1,6 @@
 id: 6ebf504b-c833-4dad-a23a-56bb6a7a4c8c
 type: promise
-parent_statement: 2b3c4d5e-6f7g-8h9i-10j11-k12l13m14n15
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 2b3c4d5e-6f7g-8h9i-10j11-k12l13m14n15
+parent_chapter: 3ad176d1-1f6b-4cbb-aea4-e397f16166d6
+text: El turismo como sector climáticamente vulnerable. Los profundos impactos ambientales que van a vivir los destinos turísticos españoles como efecto del cambio climático lo convierten en un firme candidato a la transformación profunda de sus pautas de negocio. Por otro lado, cumplir con el Acuerdo de París exigirá una revisión del mercado global de la aviación comercial en las próximas décadas, que deberá internalizar costes y reducir sustancialmente sus emisiones sin que, por ahora, exista alternativa tecnológica descarbonizada. Esto afectará negativamente al sector turístico, por lo que debemos anticiparnos a dicha posibilidad. Por ello es necesario que las políticas de Estado incorporen el turismo dentro de los sectores en los que considerar escenarios de trabajo orientados a una reconversión industrial ecológica.
 categories: Industria
 topics: Desarrollo sostenible
-text: El turismo como sector climáticamente vulnerable. Los profundos impactos ambientales que van a vivir los destinos turísticos españoles como efecto del cambio climático lo convierten en un firme candidato a la transformación profunda de sus pautas de negocio. Por otro lado, cumplir con el Acuerdo de París exigirá una revisión del mercado global de la aviación comercial en las próximas décadas, que deberá internalizar costes y reducir sustancialmente sus emisiones sin que, por ahora, exista alternativa tecnológica descarbonizada. Esto afectará negativamente al sector turístico, por lo que debemos anticiparnos a dicha posibilidad. Por ello es necesario que las políticas de Estado incorporen el turismo dentro de los sectores en los que considerar escenarios de trabajo orientados a una reconversión industrial ecológica.

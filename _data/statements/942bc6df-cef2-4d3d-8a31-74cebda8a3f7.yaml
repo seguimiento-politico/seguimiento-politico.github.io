@@ -1,6 +1,6 @@
 id: 942bc6df-cef2-4d3d-8a31-74cebda8a3f7
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 91
-categories: Sanidad
+parent_chapter: 17e4c412-8ac4-4992-848a-422903075ee3
+children_promises:
+- d5170398-c731-4091-b9a4-d6819bd92dc7
+- 44168915-5f4c-49e1-8024-cb9c5b3619f6
+- 1b6134b8-63aa-4560-9774-a922449c9b12
+- 0d9e7301-8476-48dd-be3e-52464a548db8
+- 4044be32-88e0-45d9-9871-0eb15499e778
+- 4461be18-9a8e-44df-ac66-06cde98150d4
+children_statements: []
 title: Salud sexual y reproductiva.
-has_children: true
+categories: Sanidad

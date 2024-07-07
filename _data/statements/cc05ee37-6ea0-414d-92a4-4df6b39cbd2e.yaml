@@ -1,6 +1,6 @@
 id: cc05ee37-6ea0-414d-92a4-4df6b39cbd2e
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 43
+parent_chapter: 1e1d9fec-722c-4fe5-83c8-753b161e1073
+children_promises:
+- ed8d529d-2e95-4fd7-8f86-629349e4eb09
+children_statements: []
+title: Fomentaremos una armonización de las medidas de protección laboral para las camareras de piso con el objetivo de prevención de riesgos
 categories: Turismo
 topics: Desarrollo sostenible
-title: Fomentaremos una armonización de las medidas de protección laboral para las camareras de piso con el objetivo de prevención de riesgos
-has_children: true

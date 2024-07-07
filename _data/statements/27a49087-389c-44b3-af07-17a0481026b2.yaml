@@ -1,6 +1,6 @@
 id: 27a49087-389c-44b3-af07-17a0481026b2
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 32
-categories: Impuestos y financiación pública
+parent_chapter: 973680ce-e0de-4a19-97fc-c89b80dc0b61
 text: Añadiremos los responsables solidarios a la lista de morosos de la AEAT y se reducirá a 600.000 euros el importe de deuda para ser incluido en la lista.
+categories: Impuestos y financiación pública

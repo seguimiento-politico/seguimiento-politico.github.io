@@ -1,0 +1,32 @@
+name: Control del gasto
+other:
+- &id003
+  id: b61b629d-43ac-4af6-90d7-0ea3cf02021e
+  parties:
+  - VOX
+other_count: 1
+position_negative: []
+position_negative_count: 0
+position_positive:
+- &id002
+  id: f65a3147-b891-471f-af38-4c0f0bed1262
+  parties:
+  - VOX
+- &id001
+  id: 60021e1e-5505-4377-989f-19b5155eb306
+  parties:
+  - VOX
+position_positive_count: 2
+proposed_actions:
+- *id001
+proposed_actions_count: 1
+statements:
+- *id002
+- *id001
+- *id003
+statements_count: 3
+status_quo_negative:
+- *id002
+status_quo_negative_count: 1
+status_quo_positive: []
+status_quo_positive_count: 0

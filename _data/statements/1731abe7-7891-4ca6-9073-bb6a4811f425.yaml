@@ -1,0 +1,25 @@
+id: 1731abe7-7891-4ca6-9073-bb6a4811f425
+type: statement
+parent_document: a613c4b6-f9dc-4926-8b9a-b87c233e5a75
+parties:
+- VOX
+election_type: europeas
+election_date: '2024-06-09'
+publication_date: '2024-05-30'
+page: 5
+text: Tampoco olvidamos que se ha permitido que un criminal golpista como Carles Puigdemont se pasee libremente por toda Europa después de haber dado un golpe de Estado contra la unidad y la convivencia de los españoles. Además, mientras su banda criminal seguía trabajando por la separación de Cataluña del resto de España, Puigdemont adquiría la condición de eurodiputado y recibía toda clase de prebendas, recursos económicos y un altavoz en el Parlamento Europeo para seguir insultando y difamando a nuestra Nación.
+topics:
+- name: Independentismo catalán
+  status_quo_negative:
+  - text: han dado un golpe de Estado contra la unidad y la convivencia de los españoles
+- name: Tribunales europeos
+  status_quo_negative:
+  - text: se ha permitido que un criminal golpista como Carles Puigdemont se pasee libremente por toda Europa
+  - text: se ha permitido que Puigdemont adquiría la condición de eurodiputado y recibía toda clase de prebendas, recursos económicos y un altavoz en el Parlamento Europeo
+- name: Unidad nacional
+  position_positive: null
+  dynamic: conservative
+  status_quo_negative:
+  - text: Carles Puigdemont dio un golpe de Estado contra la unidad y la convivencia de los españoles
+- name: Independentismo
+- name: Cataluña

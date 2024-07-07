@@ -1,6 +1,6 @@
 id: 4728d998-e055-479b-839f-2f906ddbbbbd
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 135
+parent_chapter: b5417c2b-2bd9-455f-a227-1ac572dbd434
+children_promises:
+- b35306eb-b757-4290-b484-fa42add9d1f1
+- d10519db-d5d0-47c5-96f3-bb6d6e9114c9
+children_statements:
+- ec135be0-5a75-48ae-a081-85e87fb15e78
+title: Impulsaremos una ley de «bebés robados» que garantice verdad, justicia y reparación para todas las víctimas y familias.
 categories: Democracia
 topics: Memoria democrática
-title: Impulsaremos una ley de «bebés robados» que garantice verdad, justicia y reparación para todas las víctimas y familias.
-has_children: true

@@ -1,7 +1,6 @@
 id: f62554be-2522-4670-8a77-0c7a07bb0a8b
 type: promise
-parent_statement: 6e6d5819-d8f0-4fe7-834c-b711e87b175c
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 6e6d5819-d8f0-4fe7-834c-b711e87b175c
+parent_chapter: 477927b2-ab8b-4a05-8cc0-962c0cbbb883
+text: Incentivaremos la promoción de proyectos empresariales de economía social, simplificando los trámites administrativos; eliminando trabas disuasorias a proyectos empresariales colectivos; for jando alianzas que garanticen el acceso a financiación privada (a través de finanzas éticas) y pública (mediante mecanismos de crédito e inversión estatales); desarrollando una legislación fiscal que tenga en cuenta el valor económico de la aportación social de estas empresas; consolidando y opti mizando mecanismos como la capitalización del desempleo; con ayudas específicas para las perso nas más jóvenes y para las mujeres; con recursos económicos focalizados en sectores emergentes como las energías renovables, la innovación tecnológica o la regeneración económica y social de entornos rurales y urbanos.
 categories: Trabajo
 topics: Economía social
-text: Incentivaremos la promoción de proyectos empresariales de economía social, simplificando los trámites administrativos; eliminando trabas disuasorias a proyectos empresariales colectivos; for jando alianzas que garanticen el acceso a financiación privada (a través de finanzas éticas) y pública (mediante mecanismos de crédito e inversión estatales); desarrollando una legislación fiscal que tenga en cuenta el valor económico de la aportación social de estas empresas; consolidando y opti mizando mecanismos como la capitalización del desempleo; con ayudas específicas para las perso nas más jóvenes y para las mujeres; con recursos económicos focalizados en sectores emergentes como las energías renovables, la innovación tecnológica o la regeneración económica y social de entornos rurales y urbanos.

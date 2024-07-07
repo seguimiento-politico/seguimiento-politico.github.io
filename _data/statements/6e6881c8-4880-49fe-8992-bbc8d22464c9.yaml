@@ -1,6 +1,6 @@
 id: 6e6881c8-4880-49fe-8992-bbc8d22464c9
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 157
+parent_chapter: eb17c61b-9cf0-4c89-acae-f0811981ce18
+text: La memoria de cada español es única y libre, la Historia es el campo de trabajo de los historiadores y la función de los poderes públicos es trabajar para lograr de nuevo la concordia entre españoles, superando divisiones y enfrentamientos.
 categories: Derechos y servicios sociales
 topics: Libertad de expresión
-text: La memoria de cada español es única y libre, la Historia es el campo de trabajo de los historiadores y la función de los poderes públicos es trabajar para lograr de nuevo la concordia entre españoles, superando divisiones y enfrentamientos.

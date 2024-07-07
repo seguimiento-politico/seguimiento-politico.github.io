@@ -1,7 +1,6 @@
 id: d535395f-7c8a-47a8-9154-e136ebf3aaee
 type: promise
-parent_statement: 57c0a2f8-cb54-4271-94b2-39586104c04a
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 57c0a2f8-cb54-4271-94b2-39586104c04a
+parent_chapter: 66cf6219-da39-4941-aa1a-c1b88e89ed00
+text: Protegeremos al sector del taxi como servicio público esencial estableciendo limitaciones a las VTC a fin de evitar la competencia desleal y garantizar las mejores condiciones de trabajo.
 categories: Transporte
 topics: Movilidad sostenible
-text: Protegeremos al sector del taxi como servicio público esencial estableciendo limitaciones a las VTC a fin de evitar la competencia desleal y garantizar las mejores condiciones de trabajo.

@@ -1,6 +1,6 @@
 id: ae5c7389-ffee-4ab5-8bec-faefb6e1a095
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 27
-categories: Trabajo
+parent_chapter: e9e1334a-785f-47ff-a9d1-05e1b24e1b85
+children_promises:
+- 4fac2aa4-7216-4e49-b07c-bc6cdfed6844
+children_statements: []
 title: Aumentaremos el peso de la inversión pública productiva en el presupuesto del Estado
-has_children: true
+categories: Trabajo

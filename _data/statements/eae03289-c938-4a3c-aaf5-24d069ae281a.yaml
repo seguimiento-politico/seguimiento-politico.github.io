@@ -1,6 +1,6 @@
 id: eae03289-c938-4a3c-aaf5-24d069ae281a
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 41
+parent_chapter: 493fd51c-7cfd-4b5e-bc63-efcefe3f24e6
 title: Hacia una ciencia abierta y accesible.
 text: La regulación de la propiedad intelectual se pondrá al servicio de la innovación, la ciencia y el progreso en lugar de operar como una barrera para el emprendimiento Para abrir el acceso a la ciencia, crearemos una Red de Centros de Innovación Ciudadana, como un punto de encuentro entre la sociedad y la ciencia para actividades de divulgación e innovación Se impulsará un Plan de Transición hacia la Ciencia Abierta para evitar que, con el dinero público con el que se financian las investigaciones, solo se publiquen sus resultados en revistas científicas de grandes corporaciones y de acceso muy costoso para nuestras Universidades y organismos públicos de investigación (OPI) Apoyaremos a las revistas científicas españolas para que puedan aumentar su impacto y que publicar en ellas sea más valorado Promoveremos la adhesión de las instituciones científicas a la Declaración de San Francisco sobre la Evaluación de la Investigación (DORA) Por último, daremos un salto a la gestión digital de la ciencia, con una web de investigación que incluya todas las convocatorias públicas programadas y datos de investigadores e investigadoras, grupos, proyectos y centros, al tiempo que se crea un Observatorio para la Defensa de la Transparencia en el Acceso y Gestión de las Instituciones Investigadoras y Universitarias

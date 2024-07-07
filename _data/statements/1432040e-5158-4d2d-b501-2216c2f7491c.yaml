@@ -1,11 +1,12 @@
 id: 1432040e-5158-4d2d-b501-2216c2f7491c
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 15
-categories: Nacionalismo y patriotismo
+parent_chapter: 1d70d4de-8db8-40af-98f3-72921bc2f7ab
 text: Aprobaremos una iniciativa legislativa para garantizar el correcto cumplimiento del requisito de prestación de juramento o promesa de la Constitución por parte de todos los cargos electos y autoridades públicas, prohibiendo cualquier variación o añadido que desnaturalice o vacíe de contenido dicho acto de acatamiento.
+categories: Nacionalismo y patriotismo

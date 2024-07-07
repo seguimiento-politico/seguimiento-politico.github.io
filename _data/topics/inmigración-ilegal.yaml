@@ -1,0 +1,128 @@
+name: Inmigración ilegal
+other:
+- &id009
+  id: fe567d14-d3a2-4abb-adb9-2344c81b2618
+  parties:
+  - VOX
+- &id010
+  id: c866b1bc-6480-4fb9-aee8-f046f5d54eb9
+  parties:
+  - VOX
+- &id011
+  id: 5fb97e80-94c1-4754-bb02-610dae6b0bb4
+  parties:
+  - VOX
+- &id012
+  id: b362ea5b-691b-4f0e-895c-4df39897588c
+  parties:
+  - VOX
+- &id013
+  id: 594c789a-6a6e-44b1-a22a-fbfa82cfd9ad
+  parties:
+  - VOX
+other_count: 5
+position_negative:
+- &id002
+  id: bf58e2ba-94e7-43b2-95b5-4e8b28b37f58
+  parties:
+  - VOX
+- &id003
+  id: 83fb3d41-07bd-4487-8c3e-78804a0dbc88
+  parties:
+  - VOX
+- &id004
+  id: bf01f1b3-2ed1-4ef6-a780-e7ededcbeb84
+  parties:
+  - VOX
+- &id005
+  id: 189b2560-a820-49c1-8cd1-7a8712fe8afd
+  parties:
+  - VOX
+- &id006
+  id: 6e504663-3cb9-4f00-9112-bc6b16fc42fc
+  parties:
+  - VOX
+- &id007
+  id: a7f055af-c539-41a1-ac2f-3a679c263d5d
+  parties:
+  - VOX
+- &id008
+  id: 844809b6-d827-414d-9440-29114276cbbb
+  parties:
+  - VOX
+- &id001
+  id: 67f441d6-3672-42f1-a369-cd0debbc6c5a
+  parties:
+  - VOX
+position_negative_count: 8
+position_positive: []
+position_positive_count: 0
+proposed_actions:
+- &id014
+  id: d63eb753-8a97-43d4-8000-2f21fd3fab9a
+  parties:
+  - VOX
+- *id001
+- &id015
+  id: b61b629d-43ac-4af6-90d7-0ea3cf02021e
+  parties:
+  - VOX
+- &id016
+  id: 3476b740-f8b7-48cf-93f9-44bf8e2f3906
+  parties:
+  - VOX
+- &id017
+  id: b66a4681-103e-4859-b814-a61094852d4b
+  parties:
+  - VOX
+- &id018
+  id: e93f051e-9b47-423f-9431-7a8ebc735b2d
+  parties:
+  - VOX
+- &id019
+  id: cc61afce-2824-41a7-8311-e11ec62afb22
+  parties:
+  - VOX
+- &id020
+  id: 64a5301a-b1b9-4cf4-ad95-aeb63c692c9a
+  parties:
+  - VOX
+- &id021
+  id: 24b9fb7e-ed37-4796-b3a8-998c92bc4224
+  parties:
+  - VOX
+proposed_actions_count: 9
+statements:
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id001
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
+- *id021
+- &id022
+  id: e985ed68-5d08-4ffb-8f53-09806c2f08c2
+  parties:
+  - VOX
+statements_count: 22
+status_quo_negative:
+- *id006
+- *id015
+- *id022
+status_quo_negative_count: 3
+status_quo_positive: []
+status_quo_positive_count: 0

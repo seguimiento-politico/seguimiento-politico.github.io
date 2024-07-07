@@ -1,6 +1,6 @@
 id: cb44a613-1fb2-4396-b0d8-bdcc1a44342e
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 77
-categories: Vivienda
+parent_chapter: 10dbdb5a-3231-46ed-86c9-0dc18f77040e
+children_promises:
+- ddd13f9d-0bc0-4ac9-a455-f396a701c40b
+children_statements: []
 title: Juzgados especializados
-has_children: true
+categories: Vivienda

@@ -1,6 +1,6 @@
 id: 88f16892-be44-4482-b000-8dfc5572f7cd
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 51
-categories: Comercio
+parent_chapter: 6f519b8a-1387-4b6d-9ac4-fa4d05568ba2
 text: Conservaremos un stock mínimo permanente de bienes estratégicos, esto es, aquellos en los que el riesgo de ruptura sea inaceptable (en particular, medicamentos, equipos médicos, productos agroalimentarios, componentes electrónicos, baterías), que permita a España disponer rápidamente de los mismos en situaciones de particular emergencia.
+categories: Comercio

@@ -1,6 +1,6 @@
 id: 23fa7e7f-5776-4d70-b304-8291eb9df84e
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 47
-categories: Industria
+parent_chapter: 7c79fe71-f119-4b1d-a348-2b181c21b108
+children_promises:
+- 308b1a3e-2ede-4efc-a90c-7799f71b6f0d
+- 00278d52-6afc-4129-8040-b3bc2f9a68e9
+- a5f9b30e-b1d2-4ba4-9cb4-75d868646fa2
+children_statements: []
 title: Propuestas de aprovechamiento hidroeléctrico y cierre nuclear seguro
-has_children: true
+categories: Industria

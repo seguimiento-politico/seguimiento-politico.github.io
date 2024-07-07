@@ -1,7 +1,6 @@
 id: 1af7b86b-8f25-4cdf-b81b-1195fb0a7ba3
 type: promise
-parent_statement: bdcdc32a-5ffb-4c8a-8bf6-19f782fc585c
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Urbanismo y ciudades
+parent_statement: bdcdc32a-5ffb-4c8a-8bf6-19f782fc585c
+parent_chapter: da4a5e62-c6b6-45b0-a08b-611f6d470a08
 text: Se implementarán estrategias para la dotación de suelo público destinado al desarrollo de vivienda social pública, alojamientos dotacionales y equipamientos públicos. Se apoyará a las administraciones locales para que puedan adquirir suelo urbano mediante sistemas de tanteo y retracto, pago de deudas fiscales y otras líneas de actuación en el marco de la normativa vigente. Asimismo, respecto a los inmuebles públicos en desuso o abandonados, se impulsará la rehabilitación y la cesión para usos públicos y colectivos, incluyendo las cesiones a colectivos ciudadanos organizados para el desarrollo autogestionado de actividades sociales y culturales.
+categories: Urbanismo y ciudades

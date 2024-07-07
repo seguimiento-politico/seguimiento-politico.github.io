@@ -1,7 +1,6 @@
 id: f86f24e3-06c4-4dfa-a764-e443a903100c
 type: promise
-parent_statement: 339d30e5-a8ed-4fad-928f-eeca35929c03
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 339d30e5-a8ed-4fad-928f-eeca35929c03
+parent_chapter: 63ab839a-6275-4d54-bf9b-ec036a685a75
+text: Proponemos potenciar la inteligencia artificial basada en la evidencia científica como refuerzo y mejora de servicios públicos tales como la sanidad, siempre y cuando sea esencial, evitando que la agenda la marque el marketing de consultoras y grandes empresas.
 categories: Educación
 topics: Digitalización
-text: Proponemos potenciar la inteligencia artificial basada en la evidencia científica como refuerzo y mejora de servicios públicos tales como la sanidad, siempre y cuando sea esencial, evitando que la agenda la marque el marketing de consultoras y grandes empresas.

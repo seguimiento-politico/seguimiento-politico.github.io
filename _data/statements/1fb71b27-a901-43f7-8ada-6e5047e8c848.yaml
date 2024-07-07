@@ -1,6 +1,6 @@
 id: 1fb71b27-a901-43f7-8ada-6e5047e8c848
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 32
-categories: Vivienda
+parent_chapter: 4b9ad552-80e7-45a6-bece-e6b170f13df0
 text: Tal y como han hecho otros países de nuestro entorno, impulsaremos la reducción de los vuelos domésticos en aquellas rutas en las que exista una alternativa ferroviaria con una duración menor de 2 horas y media, salvo en casos de conexión con aeropuertos-hub que enlacen con rutas internacionales.
+categories: Vivienda

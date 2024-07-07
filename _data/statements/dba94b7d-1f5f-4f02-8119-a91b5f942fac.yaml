@@ -1,7 +1,6 @@
 id: dba94b7d-1f5f-4f02-8119-a91b5f942fac
-type: declaration
-parent_statement: 31335436-e798-46e1-b83b-b2bad63bebcd
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,6 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 168
+parent_statement: 31335436-e798-46e1-b83b-b2bad63bebcd
+parent_chapter: e207a6bf-9c54-4399-a574-f130ae590b63
+text: De esos más de 10 millones de pensionistas, 2,5 millones se beneficiarán de la dignificación de las pensiones mínimas, y otro medio millón de la subida de las pensiones no contributivas.
 categories: Derechos y servicios sociales
 topics: Pensiones
-text: De esos más de 10 millones de pensionistas, 2,5 millones se beneficiarán de la dignificación de las pensiones mínimas, y otro medio millón de la subida de las pensiones no contributivas.

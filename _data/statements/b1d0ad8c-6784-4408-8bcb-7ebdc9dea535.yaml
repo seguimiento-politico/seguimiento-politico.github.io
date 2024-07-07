@@ -1,6 +1,6 @@
 id: b1d0ad8c-6784-4408-8bcb-7ebdc9dea535
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 31
-categories: Vivienda
+parent_chapter: 4b9ad552-80e7-45a6-bece-e6b170f13df0
 text: Impulsaremos el transporte ferroviario asegurando la conectiv  idad en todo el territorio, consol  idándolo como una alternativa más eficiente y menos contaminante. Se promoverá un sistema de transporte de mercancías sostenible, utilizando centrales únicas de rotura de carga y el desarrollo de corredores ferroviarios conectados con puertos y centros logísticos.
+categories: Vivienda

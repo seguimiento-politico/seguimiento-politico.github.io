@@ -1,6 +1,6 @@
 id: b97734da-663f-43eb-856c-8f5155f4dabf
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 148
+parent_chapter: 5424254d-f35f-472e-b45f-7c57cb8123c8
+text: Aprobación de un Plan Nacional del Agua que garantice que sea un recurso accesible a todos los españoles en cada región de España con la interconexión de todas las cuencas, combata la sequía y acabe con la actual desigualdad, natural o creada por las políticas fallidas, en el acceso a los recursos hídricos.
 categories:
 - Territorio rural
-text: Aprobación de un Plan Nacional del Agua que garantice que sea un recurso accesible a todos los españoles en cada región de España con la interconexión de todas las cuencas, combata la sequía y acabe con la actual desigualdad, natural o creada por las políticas fallidas, en el acceso a los recursos hídricos.

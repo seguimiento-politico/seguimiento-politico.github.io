@@ -1,6 +1,6 @@
 id: 6ba7b810-9dad-11d1-80b4-00c04fd430c8
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 35
-categories: Trabajo
+parent_chapter: 82855f00-cceb-4e47-9e09-9d8348f7eecf
+children_promises:
+- c93bc08b-618d-4bf9-9c40-6b7707347330
+- ba728442-1d28-4cb2-afb5-59c7350c1213
+- 0f447994-6535-4521-a65f-9d46869d01b8
+- e75c2d97-1260-411e-8914-71356252dabd
+- d8bbeee5-20bc-4676-97c5-81d9919d52d8
+children_statements: []
 title: Dignificar el empleo público, otra garantía de servicios de calidad para la ciudadanía social
-has_children: true
+categories: Trabajo

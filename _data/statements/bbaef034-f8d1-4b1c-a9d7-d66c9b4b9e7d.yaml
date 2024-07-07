@@ -1,6 +1,6 @@
 id: bbaef034-f8d1-4b1c-a9d7-d66c9b4b9e7d
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 48
-categories: Territorio rural
+parent_chapter: bfeb74d8-c8b3-47b4-b73b-61f1aaaf5305
 text: Todas las poblaciones contarán con un servicio público de transporte que las comunique diariamente con la cabecera de comarca, así como con un servicio de atención sanitaria a domicilio, cuando no exista un centro local de salud.
+categories: Territorio rural

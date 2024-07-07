@@ -1,6 +1,6 @@
 id: 99573dee-be1e-4876-a2d9-8c272d0b0efa
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 173
+parent_chapter: 3c3b6e77-c208-4e24-b285-18f9fd80d11c
+children_promises:
+- d256d171-459a-4fbc-9912-85605cffc2f9
+children_statements: []
+title: Avance hacia una programación completa multilingüe y en lenguas cooficiales en todas las radiotelevisiones públicas del Estado
 categories: Cultura
 topics: Desarrollo sostenible
-title: Avance hacia una programación completa multilingüe y en lenguas cooficiales en todas las radiotelevisiones públicas del Estado
-has_children: true

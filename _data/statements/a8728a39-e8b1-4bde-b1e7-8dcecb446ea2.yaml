@@ -1,6 +1,6 @@
 id: a8728a39-e8b1-4bde-b1e7-8dcecb446ea2
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 26
-categories: Trabajo
+parent_chapter: e9e1334a-785f-47ff-a9d1-05e1b24e1b85
 title: Culminaremos el proceso en marcha de inversión pública y de apoyo a la inversión privada para la modernización del país en clave verde y digital con los fondos Next Generation. Para ello, obtendremos la aprobación por parte de la Comisión Europea de la adenda al Plan de Recuperación, Transformación y Resiliencia, completando así la ejecución de las inversiones y proyectos estratégicos ya en curso.
+categories: Trabajo

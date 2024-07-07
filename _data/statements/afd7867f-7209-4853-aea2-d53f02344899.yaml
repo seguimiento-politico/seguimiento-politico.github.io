@@ -1,6 +1,6 @@
 id: afd7867f-7209-4853-aea2-d53f02344899
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 96
+parent_chapter: 4b1a1fd6-83f2-4e8c-a775-7e65f72f50be
 title: Aprobar el Plan Nacional de la Estrategia Española en Trastornos del Espectro del Autismo (TEA).
 text: Aprobaremos este plan en el plazo de un año con el objetivo de mejorar la calidad de vida de las personas con TEA y sus familias, y de garantizar la protección de sus derechos

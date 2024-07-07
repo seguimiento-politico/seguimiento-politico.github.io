@@ -1,6 +1,6 @@
 id: 46bd2da6-945e-4b1b-ba6f-ab8bcba7bb22
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 85
+parent_chapter: 269560f1-fa10-4646-ad71-8442044657c5
+text: Crearemos un “sandbox”, un espacio controlado para probar nuevos modelos de negocio que permitan mejores servicios a las personas, de manera que la regulación no sea un freno para la innovación, sino que la administración pueda ser motor de la misma.
 categories: Transporte
 topics: Digitalización
-text: Crearemos un “sandbox”, un espacio controlado para probar nuevos modelos de negocio que permitan mejores servicios a las personas, de manera que la regulación no sea un freno para la innovación, sino que la administración pueda ser motor de la misma.

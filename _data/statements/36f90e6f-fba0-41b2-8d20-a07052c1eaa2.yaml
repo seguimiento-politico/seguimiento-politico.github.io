@@ -1,6 +1,6 @@
 id: 36f90e6f-fba0-41b2-8d20-a07052c1eaa2
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 55
-categories: Sanidad
+parent_chapter: befa4347-5ac5-4c3d-853b-7fc9b83921e6
 text: El gobierno de Pedro Sánchez ha acentuado estos problemas estructurales de la Sanidad con una gestión de la crisis sanitaria del COVID-19 más centrada en la propia imagen y agenda ideológica del gobierno que en proteger a los españoles. La crisis derivada del coronavirus ha mostrado, de la manera más trágica posible, la imperiosa necesidad de que también en Sanidad, España precisa recuperar su soberanía en tecnología y en medicamentos.
+categories: Sanidad

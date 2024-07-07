@@ -1,6 +1,6 @@
 id: 7a0b1860-a7d0-427a-be4a-a5d804d09697
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_chapter: 54595511-3d7f-4c2e-ab9a-910d0b95292d
+text: En el Partido Socialista nos declaramos abolicionistas de la prostitución porque defendemos un modelo social que luche por la desaparición de las causas que obligan a las mujeres a prostituirse, por ser incompatible con el modelo social que proponemos, de igualdad y de respeto a la dignidad de las personas, y de defensa de los derechos humanos de las mujeres.<br><br> Los y las socialistas queremos dotar a nuestro país de mecanismos jurídicos y sociales que regulen el abolicionismo, que acaben con la prostitución y articulen una respuesta integral para las mujeres que han sido víctimas de esta esclavitud.
 categories: Derechos y servicios sociales
 topics: Prostitución
-text: En el Partido Socialista nos declaramos abolicionistas de la prostitución porque defendemos un modelo social que luche por la desaparición de las causas que obligan a las mujeres a prostituirse, por ser incompatible con el modelo social que proponemos, de igualdad y de respeto a la dignidad de las personas, y de defensa de los derechos humanos de las mujeres.<br><br> Los y las socialistas queremos dotar a nuestro país de mecanismos jurídicos y sociales que regulen el abolicionismo, que acaben con la prostitución y articulen una respuesta integral para las mujeres que han sido víctimas de esta esclavitud.

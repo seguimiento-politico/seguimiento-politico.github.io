@@ -1,6 +1,6 @@
 id: 92a795e1-fb34-4222-8bde-159d362166c4
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,21 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 125
-categories: Cultura
+parent_chapter: ef655d4e-aabd-4367-b039-db13bf06547d
+children_promises:
+- 0e77be61-be4c-4ef8-a897-7d352817b6c8
+- e062c05b-5601-41b3-9fce-fef91018c520
+- 01a0a1e0-04eb-476f-8056-908340bdb468
+- 42ec1649-1ec1-4b27-af52-6e0bdfc2f238
+- 5366e3e9-073c-4646-a0be-e446fe038034
+- 59af619b-e349-4351-9daf-ace88fe7b273
+- 6492a174-4abf-4139-8266-ec929548c398
+- a2bc10bc-0951-4fbd-bc33-69760c73ac32
+- cb7c69b6-3a97-4546-b188-97159cd9ec39
+- 975b616d-6d92-4b7b-8d04-5010e005343b
+- 794e1a1c-827f-44b9-b66f-5654f7269f49
+- e4281c8d-7c37-4f7d-97c3-05d00d656bc7
+- 040aea21-72d8-4fb9-a0f6-2044a745cce2
+children_statements: []
 text: 'Para que la cultura potencie su papel como motor de crecimiento sostenible y tecnológico y alcance todo su potencial a nivel nacional e internacional:'
-has_children: true
+categories: Cultura

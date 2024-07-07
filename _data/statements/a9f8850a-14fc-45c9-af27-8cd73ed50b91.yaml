@@ -1,6 +1,6 @@
 id: a9f8850a-14fc-45c9-af27-8cd73ed50b91
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 91
+parent_chapter: 3cb774e5-f8dc-461d-9d1f-fb20c8f8ca08
+text: Impulsaremos la digitalización en la gestión del agua para mejorar la recopilación y análisis de la información, favoreciendo una mayor eficiencia en la explotación de las redes, lo que facilitará un control preventivo de las redes que permitirá reducir las pérdidas a porcentajes inferiores al 10%.
 categories: Agua, Medioambiente
 topics: Cambio climático, Agua, Sequía
-text: Impulsaremos la digitalización en la gestión del agua para mejorar la recopilación y análisis de la información, favoreciendo una mayor eficiencia en la explotación de las redes, lo que facilitará un control preventivo de las redes que permitirá reducir las pérdidas a porcentajes inferiores al 10%.

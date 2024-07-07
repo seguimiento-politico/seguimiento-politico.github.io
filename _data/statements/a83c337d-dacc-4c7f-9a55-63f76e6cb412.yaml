@@ -1,6 +1,6 @@
 id: a83c337d-dacc-4c7f-9a55-63f76e6cb412
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 213
-categories: Derechos y servicios sociales
+parent_chapter: e4a4af12-2c6e-4e27-8a79-debda171ff8b
 text: Diseñar nuevos modelos residenciales accesibles y adaptados a las necesidades de personas mayores y dependientes con discapacidad.
+categories: Derechos y servicios sociales

@@ -1,6 +1,6 @@
 id: c13b9e04-317a-494d-af9e-ae9f2e77b742
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 105
+parent_chapter: 24d7cc93-c978-4128-b790-6d8561fcef9f
+text: Proposición no de Ley para la protección de los españoles frente al yihadismo y la creciente islamización de España para que los agentes de las FCSE tengan que contar con los medios necesarios para la lucha contra el yihadismo. Pedimos la expulsión inmediata de los inmigrantes ilegales que se encuentren en España. También que no se destine ni un solo euro a inmigrantes ilegales (enero 2023).
 categories:
 - Migración
-text: Proposición no de Ley para la protección de los españoles frente al yihadismo y la creciente islamización de España para que los agentes de las FCSE tengan que contar con los medios necesarios para la lucha contra el yihadismo. Pedimos la expulsión inmediata de los inmigrantes ilegales que se encuentren en España. También que no se destine ni un solo euro a inmigrantes ilegales (enero 2023).

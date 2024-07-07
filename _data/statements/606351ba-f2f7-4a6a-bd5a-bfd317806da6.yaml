@@ -1,7 +1,6 @@
 id: 606351ba-f2f7-4a6a-bd5a-bfd317806da6
 type: promise
-parent_statement: 238e41b6-ef04-4623-b3f0-e17cbe6e77f1
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 238e41b6-ef04-4623-b3f0-e17cbe6e77f1
+parent_chapter: 4a4ec318-0db9-4da1-9515-2b36e808a75f
+text: Impulsaremos el desarrollo de departamentos específicos para la promoción de la alimentación sostenible y saludable, con personal y presupuesto propios, para el desarrollo de políticas alimentarias específicas.
 categories: Consumo
 topics: Alimentación saludable
-text: Impulsaremos el desarrollo de departamentos específicos para la promoción de la alimentación sostenible y saludable, con personal y presupuesto propios, para el desarrollo de políticas alimentarias específicas.

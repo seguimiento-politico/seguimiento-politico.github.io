@@ -1,7 +1,6 @@
 id: 2ac5d420-5b69-4417-88de-cc987087f31b
 type: promise
-parent_statement: 04135130-6c82-4ef8-86e7-81c919aadd65
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,8 +8,10 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 04135130-6c82-4ef8-86e7-81c919aadd65
+parent_chapter: fab1a77a-568e-403c-9c7d-19f7b540d95e
+text: Se considerarán el conjunto de sus trayectorias y contribuciones, y en especial las vinculadas con la función social más amplia del sistema universitario.
 categories: Trabajo
 topics:
 - Empleo público
 - Universidad
-text: Se considerarán el conjunto de sus trayectorias y contribuciones, y en especial las vinculadas con la función social más amplia del sistema universitario.

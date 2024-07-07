@@ -1,6 +1,6 @@
 id: 79e46564-8c3d-4af8-8f68-d9ffdce88568
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,27 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 110
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+children_promises:
+- 9cafcccb-1f52-46e7-a3d0-98bf1656a86b
+- 22f582af-ea50-4788-95f5-f9c6ecd782e9
+- f3a7b0c3-966a-4181-8bd1-0c7eef7af6be
+- 87ab4085-dcf3-46dc-92d6-6aedf0b8590c
+- 5bf06c4f-d034-4c17-a8b9-0d7873d03b96
+- fcd91dec-3966-4f0d-8aae-6579e9135d03
+- 16cfee0c-90cb-4572-b2fa-11177c8cf91a
+- 66e38ae0-d911-45ef-9153-57f706b5c986
+- 04feb761-8324-4076-8ed0-610e170861c0
+- 7637b99d-ed05-4705-9ea7-4e7fd810df94
+- 3cab7589-02c4-4f89-ae9d-c097adcbc60b
+- cbd2e05b-281f-4e6a-8694-e0bdf96a37e5
+- 8f0bb920-090b-44e3-ad11-46137d612823
+- 090b9031-7741-4fa9-a0bc-aa3e3444dc28
+- 5dc31833-4c39-458f-a3d4-e49c0a9d79c8
+- d6704f83-958d-4d3a-9a70-6597121575ef
+- 8ecd1d93-c9f3-4749-bf3d-7958850926ae
+- a0c35421-93a0-45a3-83ba-e8c1b7d1c1c3
+children_statements: []
+title: 'Igualdad y feminismo: Prevención violencia machista'
 categories: Democracia
 topics: Igualdad
-title: 'Igualdad y feminismo: Prevención violencia machista'
-has_children: true

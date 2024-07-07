@@ -1,6 +1,6 @@
 id: d7c39607-82cf-4f1f-b2dd-9792e95d58fe
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 28
+parent_chapter: b8a5aa3d-8c58-4fdb-8ce8-c6eb037312b4
 title: Erradicar la trata y la explotación sexual o reproductiva.
 text: Estamos en contra de la trata y de cualquier tipo de explotación sexual o reproductiva de las mujeres y niñas y actuaremos para erradicarlas

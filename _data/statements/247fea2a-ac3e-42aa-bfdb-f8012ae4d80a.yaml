@@ -1,6 +1,6 @@
 id: 247fea2a-ac3e-42aa-bfdb-f8012ae4d80a
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 150
+parent_chapter: 814800d1-d17a-4410-9eb1-114a76841345
+text: Seguiremos trabajando para que la ley de Titularidad compartida sea efectiva y útil. Para ello, abordaremos las modificaciones legislativas necesarias y la fundamental coordinación entre todas las administraciones implicadas.
 categories: Territorio rural
 topics: Igualdad
-text: Seguiremos trabajando para que la ley de Titularidad compartida sea efectiva y útil. Para ello, abordaremos las modificaciones legislativas necesarias y la fundamental coordinación entre todas las administraciones implicadas.

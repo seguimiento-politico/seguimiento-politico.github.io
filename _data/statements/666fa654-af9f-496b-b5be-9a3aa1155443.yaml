@@ -1,0 +1,44 @@
+id: 666fa654-af9f-496b-b5be-9a3aa1155443
+type: statement
+parent_document: a613c4b6-f9dc-4926-8b9a-b87c233e5a75
+parties:
+- VOX
+election_type: europeas
+election_date: '2024-06-09'
+publication_date: '2024-05-30'
+page: 19
+text: En VOX llevamos años exigiendo la aplicación estricta del principio de preferencia comunitaria, según el cual se prioricen las mercancías producidas dentro del territorio de la Unión. Del mismo modo, una prioridad clara para el nuevo Parlamento Europeo debe ser asegurar que los productos extranjeros estén sometidos, como mínimo, a las mismas regulaciones y normativas que afectan a empresas y productos españoles, así como a la revisión de todos los acuerdos de libre comercio suscritos en nombre de la Unión Europea con terceros países. <br><br> Estos acuerdos comerciales siempre suelen tener un denominador común que perjudica directamente al sector primario y a la industria de las Naciones europeas, la eliminación de aranceles a las importaciones agrícolas, hecho que muestra claramente cómo Europa lleva años sacrificando la agricultura y la ganadería españolas en favor de los intereses de élites empresariales del norte de Europa. <br><br> Ejemplo de todo ello son los acuerdos comerciales firmados con Australia y Nueva Zelanda que afectan a nuestro sector cárnico y ganadero, los acuerdos comerciales con países iberoamericanos como Mercosur o los acuerdos de Asociación Económica con países de África, Caribe y Pacífico que, en muchos casos, se han traducido en una competencia desleal y en la entrada masiva de productos agrícolas que no cumplen con los estándares y requisitos fitosanitarios que se exigen a nuestro sector primario. <br><br> También han tenido un grave impacto los acuerdos económicos de la Unión Europea suscritos con países como China, políticas que se han traducido en el cierre y la deslocalización de industrias con gran arraigo en nuestra Nación, como la automovilística y la farmacéutica.
+categories:
+- Comercio
+topics:
+- name: Competencia desleal
+- name: Deslocalización industrial
+- name: Industria automovilística
+- name: Industria farmacéutica
+- name: Unión Europea
+  status_quo_negative:
+  - text: Europa lleva años sacrificando la agricultura y la ganadería españolas en favor de los intereses de élites empresariales del norte de Europa.
+  - text: acuerdos económicos de la Unión Europea suscritos con países como China, políticas que se han traducido en el cierre y la deslocalización de industrias
+- name: Comercio extracomunitario
+  proposed_actions:
+  - text: debe estar sometido a los mismos requisitos que los productos comunitarios
+  - text: revisión de acuerdos de libre comercio entre la UE y terceros países para la recuperación de aranceles
+- name: Proteccionismo comercial
+  position_positive:
+  - text: evita la deslocalización industrial
+  - text: evita la desaparición de puestos de trabajo
+  proposed_actions:
+  - text: preferencia del comercio comunitario frente al extracomunitario
+  - text: revisión de acuerdos de libre comercio entre la UE y terceros países para la recuperación de aranceles
+- name: Agricultura
+  status_quo_negative:
+  - text: Europa lleva años sacrificando la agricultura y la ganadería españolas en favor de los intereses de élites empresariales del norte de Europa.
+- name: Ganadería
+  status_quo_negative:
+  - text: Europa lleva años sacrificando la agricultura y la ganadería españolas en favor de los intereses de élites empresariales del norte de Europa.
+- name: Industria
+- name: Acuerdos de libre comercio
+  position_negative:
+  - text: perjudica directamente al sector primario y a la industria de las Naciones europeas por la eliminación de aranceles a las importaciones
+  proposed_actions:
+  - text: revisión de acuerdos entre la UE y terceros países para la recuperación de aranceles

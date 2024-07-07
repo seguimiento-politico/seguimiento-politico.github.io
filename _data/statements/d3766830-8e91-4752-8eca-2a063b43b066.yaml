@@ -1,6 +1,6 @@
 id: d3766830-8e91-4752-8eca-2a063b43b066
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 42
+parent_chapter: 493fd51c-7cfd-4b5e-bc63-efcefe3f24e6
 text: Bajar la tarifa de internet y de telefonía a las familias, y caminar hacia una conexión digital como derecho básico y de acceso gratuito. La conexión móvil y digital es hoy un derecho sin el que no se puede vivir de manera integrada Sin embargo, el alto precio de las telecomunicaciones lastra los presupuestos familiares y la viabilidad de pymes y autónomos Por eso, garantizaremos un acceso a internet de 30 Mbps para cualquier núcleo habitado a un precio asequible La sociedad pública Red es debe convertirse en un agente importante para garantizar el acceso a internet y a la telefonía móvil, e impulsar, también, las tecnologías comunitarias existentes Incorporaremos un canon a las operadoras destinado a financiar la ampliación de la red, que permanecerá en vigor hasta alcanzar el objetivo del 100 % de cobertura Por otra parte, garantizaremos el acceso a una conexión a internet de carácter básico e impulsaremos la competencia efectiva en el sector de las telecomunicaciones que baje esta factura al nivel de la media europea. Para ello, el 10 % del tráfico de las instalaciones actuales y de las nuevas se destinará a tarifas accesibles bajo la gestión de Red es El hecho de que, según el «Informe sobre el progreso digital en Europa», nuestra banda ancha sea la sexta más cara de la Unión Europea resulta un lastre para la competitividad de las pymes

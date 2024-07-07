@@ -1,6 +1,6 @@
 id: 82181299-84c2-4d60-bb16-12350be8098e
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 13
+parent_chapter: 14cfe70b-f6b5-4003-88f7-02a877dec28f
 title: Crear una tarjeta única de transporte, gratuita para menores de 26 años y a un precio asequible para el conjunto de la población.
 text: Acceso gratuito a transportes colectivos de ámbitos urbano y metropolitano, comarcal, insular y provincial para menores de 26 años Acceso universal al precio máximo de 1 euro por trayecto, sin perjuicio de planes especiales para el mundo rural, donde podrá tener un coste menor o incluso ser gratuito y de tarifas justas para el transporte entre islas Se tratará siempre de una medida vinculada a un aumento de la calidad y frecuencia de estos transportes, conforme a nuevos planes de movilidad sostenible que impulsen el transporte colectivo

@@ -1,7 +1,6 @@
 id: aa3d4604-928f-42ad-9700-c7d4173b9feb
 type: promise
-parent_statement: 54bc3b76-9e5c-46f8-9dac-c83583114380
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: 54bc3b76-9e5c-46f8-9dac-c83583114380
+parent_chapter: de85e0ef-5ecc-4ca0-89b4-a741503b7353
+text: Impulsaremos la autonomía estratégica de España y Europa
 categories: Economía
 topics: Digitalización
-text: Impulsaremos la autonomía estratégica de España y Europa

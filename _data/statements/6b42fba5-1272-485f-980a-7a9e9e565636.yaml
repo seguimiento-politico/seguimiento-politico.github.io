@@ -1,7 +1,6 @@
 id: 6b42fba5-1272-485f-980a-7a9e9e565636
 type: promise
-parent_statement: e49cf16a-6eed-4c5b-a762-0353cc1ff21e
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Sanidad
+parent_statement: e49cf16a-6eed-4c5b-a762-0353cc1ff21e
+parent_chapter: 17e4c412-8ac4-4992-848a-422903075ee3
 text: Promoveremos un plan integral de atención al postparto y de apoyo a la lactancia materna.
+categories: Sanidad

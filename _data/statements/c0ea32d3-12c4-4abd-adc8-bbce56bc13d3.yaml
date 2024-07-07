@@ -1,6 +1,6 @@
 id: c0ea32d3-12c4-4abd-adc8-bbce56bc13d3
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 29
-categories: Economía
+parent_chapter: 0198b426-e501-4084-b969-9a1dd94572a3
 text: Mejor cobertura y cuotas más justas para los trabajadores y trabajadoras autónomas. Fomentaremos el diálogo social con las organizaciones representativas del trabajo autónomo, y la gradual equiparación de los derechos de este colectivo con los de los trabajadores por cuenta ajena. Se establecerá un sistema de cotización por ingresos reales, sobre la base de la información fiscal, que les comportará mayor protección social en caso de desempleo, enfermedad o jubilación y que evitará que los y las autónomos que menos ingresan paguen una cuota excesiva y que además redundará en una mayor recaudación para el sistema y contribuirá a reforzar la solidaridad entre autónomos
+categories: Economía

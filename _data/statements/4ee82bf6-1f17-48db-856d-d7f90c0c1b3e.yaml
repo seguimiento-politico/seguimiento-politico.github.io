@@ -1,0 +1,26 @@
+id: 4ee82bf6-1f17-48db-856d-d7f90c0c1b3e
+type: statement
+parent_document: a613c4b6-f9dc-4926-8b9a-b87c233e5a75
+parties:
+- VOX
+election_type: europeas
+election_date: '2024-06-09'
+publication_date: '2024-05-30'
+page: 5
+text: No podemos permitir que Europa siga gobernada por ideologías y lobbies extranjeros que buscan la sumisión de nuestras Naciones y el fin de la prosperidad de nuestros pueblos. A esto, populares y socialistas le han llamado durante mucho tiempo euroescepticismo o ser antieuropeos, confundiendo Europa y las necesidades de los europeos con los intereses de los burócratas de Bruselas que sólo buscan seguir acaparando poder. El tiempo y la realidad están dando la razón a los que llevamos años denunciando esta deriva ruinosa provocada por un consenso político en Bruselas que ha vivido demasiados años a espaldas de los europeos.
+topics:
+- name: Grupos de presión
+  status_quo_negative:
+  - text: Europa es gobernada por ideologías y lobbies extranjeros que buscan la sumisión de nuestras Naciones y el fin de la prosperidad de nuestros pueblos
+  - text: los burócratas de Bruselas que sólo buscan seguir acaparando poder
+- name: Soberanía nacional
+  status_quo_negative:
+  - text: Europa es gobernada por ideologías y lobbies extranjeros que buscan la sumisión de nuestras Naciones y el fin de la prosperidad de nuestros pueblos
+- name: Unión Europea
+  status_quo_negative:
+  - text: Europa es gobernada por ideologías y lobbies extranjeros que buscan la sumisión de nuestras Naciones y el fin de la prosperidad de nuestros pueblos
+  - los burócratas de Bruselas sólo buscan seguir acaparando poder
+- name: Elitismo
+  status_quo_negative:
+  - text: Europa es gobernada por ideologías y lobbies extranjeros que buscan la sumisión de nuestras Naciones y el fin de la prosperidad de nuestros pueblos
+  - text: los burócratas de Bruselas que sólo buscan seguir acaparando poder

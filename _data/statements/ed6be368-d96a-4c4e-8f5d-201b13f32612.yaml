@@ -1,6 +1,6 @@
 id: ed6be368-d96a-4c4e-8f5d-201b13f32612
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 42
+parent_chapter: 493fd51c-7cfd-4b5e-bc63-efcefe3f24e6
 text: Crear un Centro Nacional de Robótica Aplicada (CNRA) para construir un polo de innovación en tecnologías digitales aplicadas, con tres líneas de investigación principales en nuevos procesos industriales, de servicios y de mejora de la vida de las personas dependientes Uno de los objetivos de de nuestra política económica debe ser que la introducción nuevas tecnologías, como la robotización y la inteligencia artificial, no suponga una reducción de la cantidad de empleos ni de los derechos laborales, sino una mejora de la competitividad cuyos efectos positivos se distribuyan en beneficio de las personas trabajadoras Para ello, resulta vital que el sector público participe en la orientación de la revolución tecnológica, democratizándola, y que impida las deslocalizaciones, los cierres, las concentraciones excesivas o la destrucción de empleo que afectan a pymes, trabajadores y trabajadoras

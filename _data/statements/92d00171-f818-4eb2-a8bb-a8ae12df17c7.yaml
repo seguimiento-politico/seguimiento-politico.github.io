@@ -1,7 +1,6 @@
 id: 92d00171-f818-4eb2-a8bb-a8ae12df17c7
 type: promise
-parent_statement: 9c53b29c-0e5a-4fb9-887a-1aef462e4d6c
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Educación
+parent_statement: 9c53b29c-0e5a-4fb9-887a-1aef462e4d6c
+parent_chapter: 869a602d-b512-418c-a46e-5ebd811152f6
 text: Es necesario mejorar los recursos materiales y la accesibilidad, así como desarrollar una organización y un currículo verdaderamente inclusivos partiendo de las necesidades de los estudiantes, de sus saberes y experiencias, para potenciar su creatividad y avanzar hacia la adquisición del conocimiento científico y la más amplia cultura.
+categories: Educación

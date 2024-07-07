@@ -1,6 +1,6 @@
 id: 5180defd-80d8-4de0-a834-93cae16a1ff8
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 157
-categories: Educación
+parent_chapter: 4f44b60a-d630-48f6-91cf-914cb0392db6
+children_promises:
+- 45fcbaed-bf9b-4df1-985b-3856813e9279
+children_statements: []
 title: Gratuidad de todas las etapas educativas en los centros públicos, obligatorias y no obligatorias.
-has_children: true
+categories: Educación

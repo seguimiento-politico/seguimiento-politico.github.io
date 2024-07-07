@@ -1,40 +1,80 @@
 ---
 layout: default
 ---
-{% assign categories_data = site.data.categorization.political-promises.categories | sort: 'name' %}
-{% assign statuses_data = site.data.categorization.political-promises.statuses %}
 {% assign doc = site.data.documents.[page.doc_name] %}
+{% assign page_view = page.view | default: 'statements-promises' %}
+{% assign page_topics = page.topics | default: true %}
+{% assign page_analysis = page.analysis | default: true %}
+
+{% assign docs = site.docs | where: 'doc_name', page.doc_name %}
+{% assign doc_promises = docs | where: 'view', 'promises' | first %}
+{% for d in docs %}
+    {% if d.view == 'statements-promises' %}
+        {% assign doc_all = d %}
+    {% else %}
+        {% unless d.view and d.view != "" and d.view != nil %}
+            {% assign doc_all = d %}
+        {% endunless %}
+    {% endif %}
+{% endfor %}
 
 <div data-bs-spy="scroll" data-bs-target="#TableOfContents" class="container-fluid my-3">
-    
-    {% include document_search.html %}
 
     <div class="container-xxl bd-gutter mt-3 my-md-4 bd-layout">
-        <!-- {% include document_sidebar.html %} -->
-        
-        
+
         <main class="bd-main">
             <div class="bd-intro pt-2 ps-lg-2">
-                <div class="d-md-flex flex-md-row-reverse align-items-center justify-content-between">
-                    <div class="mb-3 mb-md-0 d-flex text-nowrap">
+                <div class="d-flex flex-wrap align-items-center justify-content-between">
+                    <span class="h4 mb-0" id="content">{{ doc.parties}} - {{ doc.election_type}} {{ doc.election_date | date: "%Y" }} - {{ doc.title }} {% if page_view == 'promises' %} <span class='text-muted small'>(versión reducida)</span> {% else %} <span class='text-muted small'>(versión completa)</span> {% endif %}</span>
+                    <div class="d-flex text-nowrap">
+                        {% if page_view contains "statements" %}
+                            {% if doc_promises %}
+                            <a class="btn btn-sm btn-bd-light rounded-2 ms-2" href="{{doc_promises.url}}" title="Ver solo las promesas" rel="noopener">
+                                <i class="fas fa-fw fa-eye-slash fa-fw"></i> Ver solo promesas
+                            </a>
+                            {% endif %}
+                        {% else %}
+                            {% if doc_all %}
+                                <a class="btn btn-sm btn-bd-light rounded-2 ms-2" href="{{doc_all.url}}" title="Ver documento completo" rel="noopener">
+                                    <i class="fas fa-fw fa-eye fa-fw"></i> Ver todo
+                                </a>
+                            {% endif %}
+                        {% endif %}
                         <a class="btn btn-sm btn-bd-light rounded-2 ms-2" href="{{doc.url}}" title="Ver el documento original" target="_blank" rel="noopener">
-                            <i class="fas fa-fw fa-file-pdf fa-fw"></i> Doc. original
+                            <i class="fas fa-fw fa-file-pdf fa-fw"></i> PDF original
                         </a>
                         <a class="btn btn-sm btn-bd-light rounded-2 ms-2" href="{{doc.web_history}}" title="Ver el documento original (respaldo)" target="_blank" rel="noopener">
-                            <i class="fas fa-fw fa-calendar-days fa-fw"></i> Doc. historico
+                            <i class="fas fa-fw fa-calendar-days fa-fw"></i> Copia PDF
                         </a>
                     </div>
-                    <h2 class="bd-title mb-0" id="content">{{ doc.parties}} - {{ doc.title }}</h2>
+                    
                 </div>
-                <p class="bd-lead">{{ doc.description }}</p>
                 <hr class="d-none d-md-block my-2">
             </div>
 
             <!-- TOC -->
-            {% include document_toc.html %}
+            <div class="bd-toc mt-3 mb-5 my-lg-0 mb-lg-5 px-sm-1 text-body-secondary">
+                <button class="btn btn-link p-md-0 mb-2 mb-md-0 text-decoration-none bd-toc-toggle d-md-none" type="button" data-bs-toggle="collapse" data-bs-target="#tocContents" aria-expanded="false" aria-controls="tocContents">
+                Índice
+                <svg class="bi d-md-none ms-2" aria-hidden="true"><use xlink:href="#chevron-expand"></use></svg>
+                </button>
+                <strong class="d-none d-md-block h6 my-2 ms-3">Índice</strong>
+                <hr class="d-none d-md-block my-2 ms-3">
+                <div class="collapse bd-toc-collapse"id="tocContents">
+                    <nav id="TableOfContents">
+                        <ul>
+                            {% assign levels = 2 %}
+                            {% include document_toc_loop.html level=0 position=doc.content %}                
+                        </ul>
+                    </nav>
+                </div>
+            </div>
 
             <!-- CONTENT -->
-            {% include document_content.html %}
+            {% include topics_styling.html %}
+            <div class="bd-content ps-lg-2" id="doc_content">
+                {% include document_content_loop.html level=0 position=doc.content view=page_view topics=page_topics analysis=page_analysis %}
+            </div>
 
         </main>
     </div>

@@ -1,6 +1,6 @@
 id: b2f07381-08db-4982-9780-84ae80e0ebf6
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 37
+parent_chapter: 234f712b-aaa0-45c7-92d9-e5641ca46ec2
+children_promises:
+- 5fb65c9e-9628-471c-a53a-88797d4e1172
+- a16a874d-1c8a-42dc-95fe-f5f9d7494815
+- f6ffe642-e501-4f71-814a-f4e56649e955
+- 13574f06-9373-47cf-a132-bf72af625269
+- 4cb0489f-6c0a-4985-9046-64fdd26548f3
+children_statements:
+- 236272b5-d5a7-4e90-9c82-a0d637e34e30
 title: Una fiscalidad justa para la transición
-has_children: true

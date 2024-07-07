@@ -1,6 +1,6 @@
 id: bd97df12-763c-4393-82d5-9286b37cd26b
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Vivienda
+parent_chapter: c2222482-199f-4b08-aff6-5ef8b5f773c3
 text: 'Para los y las socialistas, la vivienda debe constituir el quinto pilar del estado del bienestar, y en la actualidad requiere de medidas firmes que permitan a millones de personas desarrollar una vida privada y familiar, y especialmente un proyecto de vida nuevo entre los más jóvenes y las personas económicamente más vulnerables. En 2018 nos encontramos una herencia de corrupción, exclusión social y especulación de la vivienda tanto en venta como en alquiler, donde se recortaron las ayudas públicas, se desprotegió al arrendatario y se abandonó e incluso privatizó el parque público de viviendas. Desde el gobierno hemos dado prioridad a la puesta en marcha de una auténtica política de vivienda donde antes no la había.<br><br> Hemos aprobado la primera Ley de Vivienda de nuestra democracia, apuntalando dicho quinto pilar del estado del bienestar. Una ley que cumple con la función social de la propiedad, fundamentada sobre la base de la cooperación entre Administraciones y la lucha contra la especulación urbanística y en el ámbito de la vivienda. Se trata de la primera norma de la democracia que desarrolla el derecho constitucional a una vivienda digna, y que pretende garantizar el acceso a la vivienda e imponer su consecución como una obligación a los poderes públicos, que no podrán mirar para otro lado ante situaciones injustas.<br><br> Aborda, además, el problema de la vivienda en toda su dimensión. Supone un compromiso con la ciudadanía y sobre todo con los jóvenes de nuestro país, para que puedan realizar sus proyectos vitales accediendo a una vivienda en unos precios razonables, dejando atrás las burbujas inmobiliarias que provocaron las políticas fracasadas del Partido Popular.<br><br> La ley nos dota de los instrumentos necesarios para atender las prioridades de la mayoría social de este país: controlar subidas de precios abusivas, sacar al mercado viviendas vacías, establecer incentivos fiscales para el control de precios, y, lo más importante, garantizar y blindar el parque público de vivienda. Por lo tanto, nos comprometemos a activar y desarrollar los instrumentos previstos en la ley:'
+categories: Vivienda

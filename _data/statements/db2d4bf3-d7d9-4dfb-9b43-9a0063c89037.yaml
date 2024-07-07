@@ -1,0 +1,36 @@
+id: db2d4bf3-d7d9-4dfb-9b43-9a0063c89037
+type: statement
+parent_document: a613c4b6-f9dc-4926-8b9a-b87c233e5a75
+parties:
+- VOX
+election_type: europeas
+election_date: '2024-06-09'
+publication_date: '2024-05-30'
+page: 18
+text: Durante los últimos años hemos podido ver cómo ministros del gobierno de Sánchez han declarado la guerra públicamente a la industria cárnica española; cómo el gobierno de la Nación y la Comisión Europea han permitido la criminalización de nuestro sector vitivinícola; cómo se asfixia burocráticamente a nuestro sector primario mientras se cierran miles de explotaciones agrícolas y ganaderas; cómo se deslocalizan plantas e industrias manufactureras como el sector automovilístico o farmacéutico; o cómo institucionalmente se fomentan semáforos nutricionales como Nutriscore que, sin aval científico conceden mayor valor nutricional a bebidas azucaradas que a nuestro aceite de oliva o nuestro jamón ibérico.
+categories:
+- Comercio
+topics:
+- name: Comercio
+- name: Agricultura
+  status_quo_negative:
+  - text: el gobierno de la Nación y la Comisión Europea han permitido la criminalización de nuestro sector vitivinícola
+  - text: se asfixia burocráticamente a nuestro sector primario mientras se cierran miles de explotaciones agrícolas
+- name: Ganadería
+  status_quo_negative:
+  - text: ministros del gobierno de Sánchez han declarado la guerra públicamente a la industria cárnica española
+    comment: Probablemente en alusión a las declaraciones del ministro de consumo Alberto Garzón en 2022 en defensa de la agricultura extensiva frente a la intensiva o macrogranjas. Así como su recomendación a la reducción de consumo de carne, en línea con las recomendaciones de la OMS.
+  - text: se asfixia burocráticamente a nuestro sector primario mientras se cierran miles de explotaciones agrícolas y ganaderas
+- name: Alimentación
+  status_quo_negative:
+  - text: institucionalmente se fomentan semáforos nutricionales como Nutriscore
+- name: Nutriscore
+  status_quo_negative:
+  - text: institucionalmente se fomentan semáforos nutricionales como Nutriscore
+  position_negative:
+  - text: carece de aval científico
+  - text: conceden mayor valor nutricional a bebidas azucaradas que a nuestro aceite de oliva o nuestro jamón ibérico
+- name: Burocracia
+- name: Industria
+  status_quo_negative:
+  - text: se deslocalizan plantas e industrias manufactureras como el sector automovilístico o farmacéutico

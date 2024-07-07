@@ -1,6 +1,6 @@
 id: acbfd166-3f5b-4532-92eb-7316a440a76f
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 226
+parent_chapter: 6e53a21f-6625-47b4-9b6e-487838baa479
+text: Crearemos, en coordinación con los bancos, una cuenta de ahorro bonificada para la compra de una primera vivienda. Podrán abrirla jóvenes de hasta 39 años, y tanto los rendimientos que genere como las aportaciones anuales estarán exentas de tributación en el IRPF, con un límite anual 2.000 euros y un total de 30.000 euros.
 categories:
 - Juventud
 - Incentivos, ayudas y subvenciones
-text: Crearemos, en coordinación con los bancos, una cuenta de ahorro bonificada para la compra de una primera vivienda. Podrán abrirla jóvenes de hasta 39 años, y tanto los rendimientos que genere como las aportaciones anuales estarán exentas de tributación en el IRPF, con un límite anual 2.000 euros y un total de 30.000 euros.

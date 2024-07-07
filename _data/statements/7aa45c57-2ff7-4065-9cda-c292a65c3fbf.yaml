@@ -1,7 +1,6 @@
 id: 7aa45c57-2ff7-4065-9cda-c292a65c3fbf
 type: promise
-parent_statement: c6217e93-12e7-402e-92b7-44d2dd6c6296
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Deporte
+parent_statement: c6217e93-12e7-402e-92b7-44d2dd6c6296
+parent_chapter: 7cb07f90-2b71-46f2-af0b-2684ec9ab916
 text: Esto también implica al nivel interadministrativo por áreas o materias (sanidad, medio ambiente, educación, entre otras) a través de informes y de la planificación de la política deportiva
+categories: Deporte

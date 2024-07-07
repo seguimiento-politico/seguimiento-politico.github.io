@@ -1,6 +1,6 @@
 id: 1d6a3b4b-74cc-444e-a736-4fc6817928b3
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 64
+parent_chapter: de18231f-ea27-483e-81a9-f51977d7f26c
 title: Ley Integral contra la Trata de Personas.
 text: Las víctimas de trata serán consideradas como sujetos de derecho La ley asegurará la coordinación de todas las Administraciones, prohibirá la deportación o el encierro de víctimas en los CIE y las eximirá de responsabilidad penal si están en situación administrativa irregular La ley irá acompañada de planes de formación para empleados públicos y, gracias a ella, se crearán mecanismos de atención integral a las víctimas con un enfoque integrador, transcultural y de protección efectiva en el caso de denuncia y más allá del juicio

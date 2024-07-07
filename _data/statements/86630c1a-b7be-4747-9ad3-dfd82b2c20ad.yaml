@@ -1,7 +1,6 @@
 id: 86630c1a-b7be-4747-9ad3-dfd82b2c20ad
 type: promise
-parent_statement: 4180d0f0-41f7-4358-b050-f284c0368c1b
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
+parent_statement: 4180d0f0-41f7-4358-b050-f284c0368c1b
+parent_chapter: 80f33f13-c365-4098-ac18-6210795cdb15
+text: Eliminación de cargos y organismos duplicados, ideológicos o por cualquier otra razón prescindibles.
 categories:
 - Economía
-text: Eliminación de cargos y organismos duplicados, ideológicos o por cualquier otra razón prescindibles.

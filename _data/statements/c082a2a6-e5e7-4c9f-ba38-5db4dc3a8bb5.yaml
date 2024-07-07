@@ -1,6 +1,6 @@
 id: c082a2a6-e5e7-4c9f-ba38-5db4dc3a8bb5
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 67
+parent_chapter: de18231f-ea27-483e-81a9-f51977d7f26c
 title: Volver a prestigiar el Tribunal Supremo y modernizar el acceso a la carrera judicial.
 text: Con la supresión de los aforamientos, la Sala Segunda de lo Penal tendrá menos peso Asimismo, la aplicación estricta de los principios de mérito, capacidad y paridad de género restablecerá el prestigio perdido de todas sus salas, en especial, la Tercera Modernizaremos también el sistema de acceso a la carrera judicial, para lo cual nos inspiraremos en los mejores elementos de los sistemas europeos de carrera única judicial y fiscal, con el fin de superar el sistema de oposición memorística y de preparación privada, que perpetúan el sesgo económico y los vicios de formación del Poder Judicial El proceso selectivo estará compuesto por una fase de formación universitaria pública de posgrado, avalada por la Escuela Judicial; unas pruebas de acceso a la Escuela Judicial, con preparación integrada en centros públicos de estudios jurídicos; una prueba escrita anonimizada y corregida por el sistema de doble ciego y una prueba oral de argumentación jurídica; y una última fase de formación inicial que incluya conocimientos jurídicos y habilidades y capacidades específicas para un ejercicio acorde a sus fines constitucionales

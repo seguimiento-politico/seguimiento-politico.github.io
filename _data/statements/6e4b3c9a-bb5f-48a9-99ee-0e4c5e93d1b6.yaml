@@ -1,6 +1,6 @@
 id: 6e4b3c9a-bb5f-48a9-99ee-0e4c5e93d1b6
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 46
-categories: Industria
+parent_chapter: 7c79fe71-f119-4b1d-a348-2b181c21b108
+children_promises:
+- 44fc253a-b34b-42e8-8395-4694c61f1063
+- 14289928-532c-4b92-ad54-fdbdb2a96f8a
+- 528a300b-28f1-4c8f-a363-04a20831340f
+- 40819940-822d-4687-b111-716c7fcb123e
+- 33b4ae7c-10a1-4ac6-a6f7-1961d7fed0be
+children_statements:
+- 25f0a62d-2d07-463f-b527-f486251d1f23
 title: 'Rehabilitación de edificios: eficiencia energética y accesibilidad'
-has_children: true
+categories: Industria

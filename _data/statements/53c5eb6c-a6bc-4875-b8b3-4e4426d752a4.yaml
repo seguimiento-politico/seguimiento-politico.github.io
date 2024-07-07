@@ -1,6 +1,6 @@
 id: 53c5eb6c-a6bc-4875-b8b3-4e4426d752a4
-type: declaration
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+type: statement
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 107
+parent_chapter: f91bc08f-3d6b-4f78-a00a-810f7184cf6a
 text: 'En este escenario de expansión de la desigualdad (desde la crisis, España es el segundo país de la UE donde más ha aumentado la desigualdad, hasta 20 veces más que la media europea), aumenta una clase de superricos: un 1 % que, en 2016, ya acaparaba una cuarta parte de la riqueza del país, mientras que el 20 % más pobre solo posee el 0,1 % de la riqueza. Esto es lo que le da al 1 % una enorme capacidad de influencia para echar el freno a las reformas que necesita este país. Si queremos construir una sociedad más justa y mejor, esto tiene que cambiar.'

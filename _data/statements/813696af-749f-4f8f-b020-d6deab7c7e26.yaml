@@ -1,7 +1,6 @@
 id: 813696af-749f-4f8f-b020-d6deab7c7e26
 type: promise
-parent_statement: ff8cd012-73d4-459a-a04b-84b3bb53041a
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Política internacional
+parent_statement: ff8cd012-73d4-459a-a04b-84b3bb53041a
+parent_chapter: 7d023909-0f5e-4683-b705-4b789e78ec33
 text: Facilitaremos el traslado a España de las personas a las que se otorgue protección o a las que se autorice su traslado durante la tramitación del procedimiento.
+categories: Política internacional

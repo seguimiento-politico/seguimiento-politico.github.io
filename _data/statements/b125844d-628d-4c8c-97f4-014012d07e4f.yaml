@@ -1,6 +1,6 @@
 id: b125844d-628d-4c8c-97f4-014012d07e4f
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,9 +9,15 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 156
+parent_chapter: 1d2802d7-3c25-4a37-96cf-85b8e7ed4986
+children_promises:
+- a5fb4cec-70ec-4897-a8a0-c7b6ce40b2f3
+- 96a19033-c1d9-498b-b540-b6321cbd16d1
+- 87ac6022-d0df-4cb8-9441-8c13c960b66a
+- 4f256005-0ac7-4c5e-84a2-e6da4a205b1d
+children_statements: []
+title: ' Educar en y para la democracia y en contacto con la comunidad social del entorno.'
 categories: Educación
 topics:
 - Igualdad
 - Inclusión
-title: ' Educar en y para la democracia y en contacto con la comunidad social del entorno.'
-has_children: true

@@ -1,7 +1,6 @@
 id: 934e9c0d-1ed4-4f0e-a956-c54d9b8b7b71
 type: promise
-parent_statement: 125ad627-281b-4747-be8e-a3cab69a71bb
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Industria
+parent_statement: 125ad627-281b-4747-be8e-a3cab69a71bb
+parent_chapter: 52ae8dc4-28e9-4398-8226-2aed999f465f
 text: Mantendremos la colaboración plena con el sector de la automoción, que consideramos estratégico para facilitar en España el rápido avance de las tecnologías de baterías y el vehículo eléctrico y conectado, a través de la segunda convocatoria del PERTE VEC
+categories: Industria

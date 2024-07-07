@@ -1,6 +1,6 @@
 id: 2f47143d-c6be-45b9-8664-95d96873dd4c
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 71
+parent_chapter: 06e768c1-851f-40aa-84be-505e878d3697
+text: APROBAREMOS UNA LEY EN MATERIA DE SECRETOS OFICIALES-INFORMACIÓN CLASIFICADA que garantice la protección de los intereses nacionales de una forma eficaz, adaptada a las nuevas tecnologías y a los avances en el tratamiento de la información.
 categories: Democracia
 topics: Separación de poderes
-text: APROBAREMOS UNA LEY EN MATERIA DE SECRETOS OFICIALES-INFORMACIÓN CLASIFICADA que garantice la protección de los intereses nacionales de una forma eficaz, adaptada a las nuevas tecnologías y a los avances en el tratamiento de la información.

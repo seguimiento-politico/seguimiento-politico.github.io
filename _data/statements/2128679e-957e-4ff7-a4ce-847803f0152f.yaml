@@ -1,6 +1,6 @@
 id: 2128679e-957e-4ff7-a4ce-847803f0152f
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 106
-categories: Cultura
+parent_chapter: 156e3030-bc67-4aa6-8243-9123dce112aa
 text: APROBAREMOS UNA NUEVA LEY DE MECENAZGO para impulsar las industrias e instituciones culturales. Eliminaremos el exceso de burocracia que impide la gestión eficaz en el ámbito cultural, favoreciendo la creación de nuevas empresas culturales y la formación de gestores especializados. Dotaremos de mayor objetividad, transparencia y agilidad al procedimiento de concesión de subvenciones culturales.
+categories: Cultura

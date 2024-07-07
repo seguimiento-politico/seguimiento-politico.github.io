@@ -1,6 +1,6 @@
 id: c3e915a3-4fd3-4419-850f-7daa8450a8fc
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,8 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 166
+parent_chapter: 74598371-68ef-4270-bd2d-a2eb641d0378
+children_promises:
+- 87aae0ba-cde2-460f-aa2a-cf9b1f748a9b
+- e08ee9ae-3524-44f2-abb3-52eff8f6f5b0
+- 4584db58-6c0e-402a-a90f-1c4d2d7f802b
+- c942fc2d-440a-4ca9-8cd1-1789f27e84c6
+children_statements: []
+title: Incorporación de manera efectiva de la perspectiva de género en todas las etapas de la I+D+I.
 categories:
 - Ciencia y tecnología
 - Trabajo
-title: Incorporación de manera efectiva de la perspectiva de género en todas las etapas de la I+D+I.
-has_children: true

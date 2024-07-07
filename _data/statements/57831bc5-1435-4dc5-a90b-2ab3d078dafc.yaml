@@ -1,6 +1,6 @@
 id: 57831bc5-1435-4dc5-a90b-2ab3d078dafc
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 266
+parent_chapter: 2c0cbfe5-1ea8-4d91-9e0d-86e01b93d0ba
+text: Impulsaremos la cooperación en materia de conocimiento y formación con África de modo similar a la labor que realiza la Fundación Carolina con Iberoamérica.
 categories: Política internacional
 topics: África
-text: Impulsaremos la cooperación en materia de conocimiento y formación con África de modo similar a la labor que realiza la Fundación Carolina con Iberoamérica.

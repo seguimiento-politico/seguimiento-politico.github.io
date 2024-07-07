@@ -1,6 +1,6 @@
 id: 16dfd07a-c0b4-4cbb-8498-998ca7147de3
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 10
+parent_chapter: 80f33f13-c365-4098-ac18-6210795cdb15
+children_promises:
+- 21711cbd-9b55-4e52-9634-78844b1ab9e2
+- ac0f9f44-d760-42a0-b4aa-23e86970f539
+children_statements: []
+title: Apoyo a las PYMES
 categories:
 - Economía
-title: Apoyo a las PYMES
-has_children: true

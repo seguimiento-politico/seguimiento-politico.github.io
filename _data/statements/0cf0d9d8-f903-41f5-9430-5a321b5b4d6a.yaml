@@ -1,12 +1,13 @@
 id: 0cf0d9d8-f903-41f5-9430-5a321b5b4d6a
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 45
+parent_chapter: 7912f1e6-3978-4bc6-be94-d39bcf061efb
+text: Desarrollaremos un marco de atención socio-sanitaria para los mayores que los sitúe en el centro del sistema, afronte sus necesidades sociales y sanitarias y garantice la continuidad asistencial a través de la coordinación entre las Administraciones sanitarias y sociales implicadas.
 categories: Derechos y servicios sociales
 topics: Tercera edad
-text: Desarrollaremos un marco de atención socio-sanitaria para los mayores que los sitúe en el centro del sistema, afronte sus necesidades sociales y sanitarias y garantice la continuidad asistencial a través de la coordinación entre las Administraciones sanitarias y sociales implicadas.

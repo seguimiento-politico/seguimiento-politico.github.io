@@ -1,6 +1,6 @@
 id: 4d6a2f91-f634-4396-a0d6-b2f2688c3c65
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,15 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 15
+parent_chapter: 517dbc45-7fcb-4ab4-bd14-948f8a770923
+children_promises:
+- 9ceb1e2f-960e-4869-a613-7bb5eba3e9cf
+- 1dc35f8d-f4ab-4281-85c2-6c5253143d75
+- e91d6a09-e648-4112-b44f-44e753b03da9
+- 22b15af3-6867-4a4b-9074-54227c7437f5
+- 0c52bd65-7579-4ad8-b08d-ad8541ddcc8c
+- 064a95c8-41f6-4c46-ba86-eb1a7ab90b40
+children_statements: []
+title: Más igualdad y mejor protección social
 categories: Economía
 topics: Igualdad
-title: Más igualdad y mejor protección social
-has_children: true

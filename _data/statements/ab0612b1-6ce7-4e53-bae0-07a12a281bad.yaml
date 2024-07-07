@@ -1,6 +1,6 @@
 id: ab0612b1-6ce7-4e53-bae0-07a12a281bad
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 36
-categories: Educación
+parent_chapter: 93c0fe1a-af8e-40be-bc69-f2a4f720007f
 text: PNL relativa al impulso de las Humanidades con el fin de transmitir la tradición cultural de España y el resto de Occidente, fortalecer los principios de esfuerzo, estudio, disciplina y excelencia, y suscitar el amor por la búsqueda del bien, la verdad y la belleza (mayo 2022).
+categories: Educación

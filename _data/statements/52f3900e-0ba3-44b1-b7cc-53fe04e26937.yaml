@@ -1,6 +1,6 @@
 id: 52f3900e-0ba3-44b1-b7cc-53fe04e26937
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,8 +9,12 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 16
+parent_chapter: ab7164cc-742b-48cf-adce-57d74cf0621d
+children_promises:
+- 64463bfc-2fc3-410c-b383-52ccd977c861
+- e0ebd508-692c-4e19-91ac-42153d22b02a
+children_statements: []
+title: Desigualdades poblacion rural vs urbana
 categories:
 - Educación
 - Cultura
-title: Desigualdades poblacion rural vs urbana
-has_children: true

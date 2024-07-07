@@ -1,6 +1,6 @@
 id: a9fec404-3d44-4a1a-a573-d9dcf648cc14
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 130
+parent_chapter: 36d24e1d-5fdd-486e-90c6-db666440d304
+text: Promoveremos el acceso a la cultura con descuentos, la ampliación del bono Cultural para jóvenes y programas de promoción de nuevos públicos
 categories: Derechos y servicios sociales
 topics: Infancia y juventud
-text: Promoveremos el acceso a la cultura con descuentos, la ampliación del bono Cultural para jóvenes y programas de promoción de nuevos públicos

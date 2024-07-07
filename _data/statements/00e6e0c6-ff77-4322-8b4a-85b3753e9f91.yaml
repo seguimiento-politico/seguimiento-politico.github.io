@@ -1,6 +1,6 @@
 id: 00e6e0c6-ff77-4322-8b4a-85b3753e9f91
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 46
-categories: Sanidad
+parent_chapter: 5c8d94eb-aad0-4b93-8408-511875a0e54f
 text: FORTALECEREMOS LA FORMACIÓN SANITARIA ESPECIALIZADA para que continúe dando respuesta a las necesidades de los nuevos especialistas del futuro. De la mano de las sociedades científicas, actualizaremos los programas formativos de todas las especialidades y los procesos de recertificación de competencias. Promoveremos el aumento del número de plazas del grado de enfermería en las universidades españolas y trabajaremos para reconocer y reforzar el papel del personal técnico en cuidados auxiliares de enfermería dentro del Sistema Nacional de Salud.
+categories: Sanidad

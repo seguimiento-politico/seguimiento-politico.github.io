@@ -1,6 +1,6 @@
 id: 4b4bc1d0-59dc-4f37-b5a0-568be89434c4
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 162
+parent_chapter: 33353ebf-b8a9-4c5c-9baf-00596f9684cd
+text: Desarrollaremos de una estrategia de lucha contra la pobreza 2030, con objetivos concretos de reducción de la pobreza y centrada en acabar con la pobreza de las mujeres y romper el ciclo intergeneracional de riesgos de pobreza muy vinculada por la pobreza infantil. Esta estrategia debe incluir la perspectiva de género en el combate de la pobreza energética y de movilidad.
 categories: Derechos y servicios sociales
 topics:
 - Desigualdad
 - Pobreza
-text: Desarrollaremos de una estrategia de lucha contra la pobreza 2030, con objetivos concretos de reducción de la pobreza y centrada en acabar con la pobreza de las mujeres y romper el ciclo intergeneracional de riesgos de pobreza muy vinculada por la pobreza infantil. Esta estrategia debe incluir la perspectiva de género en el combate de la pobreza energética y de movilidad.

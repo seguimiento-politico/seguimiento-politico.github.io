@@ -1,13 +1,14 @@
 id: 312a80c2-80fe-485c-a62f-9f97b12d23d0
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 22
+parent_chapter: d5cfbe7c-009c-4b4c-9963-9a6488479d1f
+text: Impulsaremos la Fundación Española para la Ciencia (FECYT) como nexo entre la ciencia, la tecnología y la innovación y la sociedad. Constituiremos una unidad de apoyo a la atracción de talento internacional y sus familias y una unidad de evaluación y seguimiento del rendimiento de las políticas de I+D+i.
 categories:
 - Ciencia y tecnología
 topics: I+D+i
-text: Impulsaremos la Fundación Española para la Ciencia (FECYT) como nexo entre la ciencia, la tecnología y la innovación y la sociedad. Constituiremos una unidad de apoyo a la atracción de talento internacional y sus familias y una unidad de evaluación y seguimiento del rendimiento de las políticas de I+D+i.

@@ -1,6 +1,6 @@
 id: 73b5fefb-358e-4dd2-bb90-04180d3622db
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 28
+parent_chapter: b8a5aa3d-8c58-4fdb-8ce8-c6eb037312b4
 title: Una cooperación feminista y defensora de los derechos humanos.
 text: Apostamos por construir un sistema de cooperación en el que las mujeres se sitúen como motor y foco del desarrollo, al tiempo que cuestionaremos las estructuras de poder y la distribución de recursos que perpetúan la pobreza y la inequidad, como el machismo y la vulneración de los derechos de las mujeres y las niñas. Con el fin de avanzar en la igualdad real, adoptaremos iniciativas concretas en materia de género con una perspectiva interseccional, incluyendo cuestiones como la economía de los cuidados o la trata de personas Asimismo, impulsaremos los programas de personas defensoras de derechos humanos, poniendo especial atención en las personas medioambientalistas, sindicalistas y defensoras de los derechos de las mujeres y de las personas LGTBI, así como en las personas defensoras que tienen incidencia en los territorios más amenazados de América Latina

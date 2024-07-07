@@ -1,7 +1,6 @@
 id: 18cd2d76-641a-4847-b4ad-8818c7ae78f0
-type: declaration
-parent_statement: 97a58ba3-5f76-4eb8-97d3-74401c2cf4af
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 97a58ba3-5f76-4eb8-97d3-74401c2cf4af
+parent_chapter: 5b5e2314-3fa5-4e12-99b5-33a9b2e5cea2
+text: Para Sumar, es una prioridad dar cumplimiento efectivo a las disposiciones contenidas en la Ley 4/2023 para la Igualdad Real y Efectiva de las Personas Trans y para la Garantía de los Derechos de las Personas LGTBI+, del 28 de febrero. Con este objetivo, se propondrán políticas públicas (incluyendo planes estratégicos) para su desarrollo, y se establecerá un proceso de evaluación continua que nos permita conocer sus efectos y adaptar las políticas públicas a las necesidades de las personas LGTBI+. Para ello, será fundamental hacer efectivo el artículo 7 de la ley sobre estadísticas y estudios.
 categories: Democracia
 topics: LGTBI
-text: Para Sumar, es una prioridad dar cumplimiento efectivo a las disposiciones contenidas en la Ley 4/2023 para la Igualdad Real y Efectiva de las Personas Trans y para la Garantía de los Derechos de las Personas LGTBI+, del 28 de febrero. Con este objetivo, se propondrán políticas públicas (incluyendo planes estratégicos) para su desarrollo, y se establecerá un proceso de evaluación continua que nos permita conocer sus efectos y adaptar las políticas públicas a las necesidades de las personas LGTBI+. Para ello, será fundamental hacer efectivo el artículo 7 de la ley sobre estadísticas y estudios.

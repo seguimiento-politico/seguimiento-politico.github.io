@@ -1,6 +1,6 @@
 id: 21026742-0242-4793-95fa-7e975ec6d8e4
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,9 +9,15 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 155
+parent_chapter: 33cdec74-1c77-454b-96f2-fdee1448bd35
+children_promises:
+- 50a6d149-f6f8-4164-b9c2-88c1568c801c
+- 55a80583-2bf3-42dc-a613-4bffcb93f6ea
+- 005b525a-8d9e-462a-b7c0-b74dda169eb6
+- a993c5ab-3125-4c81-a43d-4215de6871b9
+children_statements: []
+text: 'Desarrollaremos un Plan estatal para para abordar el impacto de las redes sociales en las y los menores, teniendo en cuenta la especial incidencia en las mujeres jóvenes, que pivotará sobre la educación digital; la prevención y apoyo en salud mental y la Prevención e investigación y desarrollo de herramientas y tecnologías que promuevan un entorno en línea seguro. Entre otras medidas contemplará:'
 categories: Ciencia y tecnología
 topics:
 - Juventud
 - Redes sociales
-text: 'Desarrollaremos un Plan estatal para para abordar el impacto de las redes sociales en las y los menores, teniendo en cuenta la especial incidencia en las mujeres jóvenes, que pivotará sobre la educación digital; la prevención y apoyo en salud mental y la Prevención e investigación y desarrollo de herramientas y tecnologías que promuevan un entorno en línea seguro. Entre otras medidas contemplará:'
-has_children: true

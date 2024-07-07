@@ -1,6 +1,6 @@
 id: 0ad046ed-8c27-4b82-8de3-db38847570e6
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 155
+parent_chapter: eb17c61b-9cf0-4c89-acae-f0811981ce18
+text: Sánchez, en lugar de proteger la libertad de expresión y los datos de los españoles, se pliega a los dictados de quienes promueven este totalitarismo global.
 categories: Derechos y servicios sociales
 topics: Libertad de expresión
-text: Sánchez, en lugar de proteger la libertad de expresión y los datos de los españoles, se pliega a los dictados de quienes promueven este totalitarismo global.

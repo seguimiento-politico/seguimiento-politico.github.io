@@ -1,7 +1,6 @@
 id: 22f582af-ea50-4788-95f5-f9c6ecd782e9
 type: promise
-parent_statement: 79e46564-8c3d-4af8-8f68-d9ffdce88568
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 79e46564-8c3d-4af8-8f68-d9ffdce88568
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+text: Se planteará además un abordaje integral. Para ello, se llevará a cabo una evaluación del marco jurídico para combatir violencias machistas y su aplicación, con vistas tanto a reforzar su eficacia como a abordar las formas no reguladas actualmente, con especial atención al seguimiento y el cumplimiento de la Estrategia Estatal contra las Violencias Machistas 2022-2025.
 categories: Democracia
 topics: Igualdad
-text: Se planteará además un abordaje integral. Para ello, se llevará a cabo una evaluación del marco jurídico para combatir violencias machistas y su aplicación, con vistas tanto a reforzar su eficacia como a abordar las formas no reguladas actualmente, con especial atención al seguimiento y el cumplimiento de la Estrategia Estatal contra las Violencias Machistas 2022-2025.

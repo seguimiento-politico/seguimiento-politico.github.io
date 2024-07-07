@@ -1,0 +1,35 @@
+name: Digitalización
+other:
+- &id001
+  id: c11f6a86-a99c-4c54-af11-2cb544c05113
+  parties:
+  - CIUDADANOS
+- &id002
+  id: e0dede8c-485c-41ca-9442-9e60c8c2f0f2
+  parties:
+  - CIUDADANOS
+- &id003
+  id: 981f0fcc-6bfc-4601-a7d0-a867e06d0d23
+  parties:
+  - PSOE
+- &id004
+  id: 6d164048-e168-4078-9345-77128ea1299f
+  parties:
+  - PSOE
+other_count: 4
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- *id002
+- *id003
+- *id004
+statements_count: 4
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

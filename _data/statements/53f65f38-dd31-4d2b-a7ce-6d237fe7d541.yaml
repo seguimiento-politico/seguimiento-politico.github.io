@@ -1,6 +1,6 @@
 id: 53f65f38-dd31-4d2b-a7ce-6d237fe7d541
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 87
-categories: Democracia
+parent_chapter: 5eaa8b4a-0a47-4a85-8512-be80c4ebfdb0
 text: IMPULSAREMOS LA REFORMA PROGRESIVA DEL USO DEL LENGUAJE ADMINISTRATIVO para permitir su comprensión generalizada con especial atención a los formatos digitales. Reconoceremos el derecho a la explicación digital.
+categories: Democracia

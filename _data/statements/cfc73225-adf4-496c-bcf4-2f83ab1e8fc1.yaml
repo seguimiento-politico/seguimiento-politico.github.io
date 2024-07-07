@@ -1,6 +1,6 @@
 id: cfc73225-adf4-496c-bcf4-2f83ab1e8fc1
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 46
+parent_chapter: 493fd51c-7cfd-4b5e-bc63-efcefe3f24e6
 title: Potenciar la producción de cine en nuestras lenguas.
 text: La producción cinematográfica en las lenguas propias de un país no solo es una de las industrias culturales más relevantes, sino uno de los espacios de diálogo y construcción de comunidad con más capacidad para mejorar una sociedad Sin embargo, en cuanto a la presencia en las pantallas, la producción en nuestras lenguas parte con una gran desventaja con respecto a las grandes distribuidoras multinacionales, capaces de colocar una misma cinta durante semanas en una cantidad enorme de pantallas y apoyarla con una publicidad que suele superar el propio coste que supone hacer la película Ante esta situación, países próximos como Francia han conseguido alentar una producción propia de calidad mediante el establecimiento de determinadas cuotas de pantalla para sus producciones Nuestra propuesta es ampliar este enfoque a las distintas lenguas oficiales y propias del Estado, en colaboración con las comunidades autónomas, e incrementar las ayudas al sector

@@ -1,7 +1,6 @@
 id: c6b2e11a-c5ec-4926-ae95-c6e7ec33f3a0
 type: promise
-parent_statement: 79915a2c-36e7-4695-9c4b-c7b3733a667e
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Justicia
+parent_statement: 79915a2c-36e7-4695-9c4b-c7b3733a667e
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
 text: La inversión debería concentrarse en agilizar la primera instancia, donde los resultados son comparativamente más negativos, en contraste con otros países de la OCDE. En particular, hay que reforzar las plantillas de jueces y juezas, letradas y letrados de la Administración de justicia, el personal de gestión, tramitación, auxilio judicial, entre otros; así como de psiquiatría, medicina, psicología, trabajo social, criminología y demás. Igualmente, adoptaremos medidas para mejorar los servicios de traducción e interpretación.
+categories: Justicia

@@ -1,6 +1,6 @@
 id: 3a406cc0-b1b5-4300-aed0-3c7a2681e1d1
-type: declaration
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+type: statement
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 107
+parent_chapter: f91bc08f-3d6b-4f78-a00a-810f7184cf6a
 text: Si viene una nueva crisis económica, hay que garantizar que solo se hacen recortes por arriba, al tiempo que se protegen y se amplían los derechos y la estabilidad de los de abajo.

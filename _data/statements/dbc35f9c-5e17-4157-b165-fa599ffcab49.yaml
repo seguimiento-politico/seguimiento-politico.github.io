@@ -1,7 +1,6 @@
 id: dbc35f9c-5e17-4157-b165-fa599ffcab49
 type: promise
-parent_statement: d28708ff-7ec4-43a1-a205-0d1eb517f253
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: d28708ff-7ec4-43a1-a205-0d1eb517f253
+parent_chapter: 63ab839a-6275-4d54-bf9b-ec036a685a75
+text: También es clave asegurar una alfabetización digital que incida positivamente en la reducción del fracaso escolar o del abandono educativo temprano.
 categories: Educación
 topics: Digitalización
-text: También es clave asegurar una alfabetización digital que incida positivamente en la reducción del fracaso escolar o del abandono educativo temprano.

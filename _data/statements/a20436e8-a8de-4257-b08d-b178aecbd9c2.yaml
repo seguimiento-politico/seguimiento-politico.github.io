@@ -1,6 +1,6 @@
 id: a20436e8-a8de-4257-b08d-b178aecbd9c2
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 119
+parent_chapter: b82b7f57-da6b-4fd4-8a55-f1773ebd9608
+children_promises:
+- 7d7f1727-abb9-4efb-9440-d95b1d543e91
+- 011b0dc1-6322-4129-a50b-2c42c6a7aceb
+children_statements:
+- 6d80debd-603e-4a1f-8f4f-936cda8d8f20
+title: 'Capacidad de anticipación y de evaluación: mirar el futuro y saber lo que avanzamos.'
 categories: Democracia
 topics: Administración pública
-title: 'Capacidad de anticipación y de evaluación: mirar el futuro y saber lo que avanzamos.'
-has_children: true

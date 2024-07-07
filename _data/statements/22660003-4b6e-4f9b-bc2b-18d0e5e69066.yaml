@@ -1,11 +1,12 @@
 id: 22660003-4b6e-4f9b-bc2b-18d0e5e69066
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 65
-categories: Cultura
+parent_chapter: 214f04bb-9ba4-4cc0-bfd1-0d934bbded7f
 text: Aprobaremos una Ley de Mecenazgo que incluya medidas de reconocimiento al papel del mecenas y beneficios fiscales. Esta Ley será, además, un instrumento idóneo para promover un compromiso entre la sociedad civil y las Administraciones Públicas que convierta a la Cultura en una prioridad social y política, reconociendo su papel como factor de desarrollo y bienestar.
+categories: Cultura

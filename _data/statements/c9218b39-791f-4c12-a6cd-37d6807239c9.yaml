@@ -1,6 +1,6 @@
 id: c9218b39-791f-4c12-a6cd-37d6807239c9
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 78
+parent_chapter: ef0bb89b-1b90-4682-a618-d8eea7201020
 title: Fortalecer las protecciones por desempleo.
 text: Las reformas laborales también recortaron nuestros derechos en esta situación Incrementaremos la prestación al 70 % de la base reguladora desde el primer día y hasta el final, sin recortes, y elevaremos las cuantías máximas y mínimas No se perderán periodos acumulados para la prestación que no hayan sido consumidos, de manera que, para calcular la duración, se tendrán en cuenta todos los periodos cotizados y no consumidos, sin tener que optar por un periodo y perder el anterior Estableceremos el derecho a no consumir la prestación mientras se está en situación de incapacidad temporal y reconoceremos esta protección a los empleados y las empleadas del hogar y a quienes reciban prestación para el cuidado de familiares al finalizarse esta.

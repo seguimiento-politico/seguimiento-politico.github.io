@@ -1,6 +1,6 @@
 id: 55fca26e-cab6-4625-a416-a8079397623b
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,16 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 76
-categories: Vivienda
+parent_chapter: 10dbdb5a-3231-46ed-86c9-0dc18f77040e
+children_promises:
+- d0eaee5f-2706-4440-885d-83168165c8a0
+- b48e26f0-9171-409c-abca-73c880d63598
+- 0492e969-0d08-423e-95bc-74484ba6a842
+- c0075609-e184-42dd-81b8-4bdba8cf723e
+- df0dd67e-d5ff-4d23-9cbe-80a39df77fba
+- a5427c99-e077-469e-82a5-bb6ad1bd4432
+- c7c85be5-5f5f-4106-8231-3efded2761ad
+- dcf6341c-c3ec-45f8-9c31-226a4b612425
+children_statements: []
 title: Inversión pública y medidas fiscales para construccion y movilización de vivienda
-has_children: true
+categories: Vivienda

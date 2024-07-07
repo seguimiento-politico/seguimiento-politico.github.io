@@ -1,0 +1,45 @@
+name: Agricultura ecológica
+other:
+- &id003
+  id: 0db5e18f-91ae-4667-b6ff-c9de0fcce22e
+  parties:
+  - VOX
+- &id004
+  id: e6c2c1f9-7b27-4e4f-aec8-4b33b4c37c00
+  parties:
+  - VOX
+- &id006
+  id: 2ed91718-a78d-4e5c-bd6a-400cd785b9ef
+  parties:
+  - VOX
+other_count: 3
+position_negative:
+- &id001
+  id: 1d2e274a-7053-474c-b482-90291c176818
+  parties:
+  - VOX
+- &id002
+  id: 3120cd09-30f3-4a6c-925b-6fc0850f129b
+  parties:
+  - VOX
+- &id005
+  id: 6e2ca434-d940-4345-8ff2-2ce6fd032a77
+  parties:
+  - VOX
+position_negative_count: 3
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+statements_count: 6
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

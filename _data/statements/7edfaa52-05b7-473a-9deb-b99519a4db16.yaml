@@ -1,6 +1,6 @@
 id: 7edfaa52-05b7-473a-9deb-b99519a4db16
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,16 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 14
+parent_chapter: 0954599d-af78-4370-9f76-a716d889661d
+children_promises:
+- 31498606-a3f7-4113-af37-5079ab58197a
+- 7b6536af-c23d-4e03-a403-21d0bf069843
+- f635e15e-3a02-4462-a777-5f0e547a5865
+- 9ee3d780-9ed2-43d7-998a-e5f19327e7cc
+- cfe38d61-a073-4c93-98d2-30fd437cba19
+- f3c24393-70f9-4f27-9e9d-71c312754985
+- 2a47377c-d89b-47d8-b517-6050300b52cf
+children_statements: []
+title: Más productividad y reforma empresarial
 categories: Economía
 topics: Productividad
-title: Más productividad y reforma empresarial
-has_children: true

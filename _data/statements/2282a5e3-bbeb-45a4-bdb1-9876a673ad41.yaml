@@ -1,7 +1,6 @@
 id: 2282a5e3-bbeb-45a4-bdb1-9876a673ad41
-type: declaration
-parent_statement: a9922dd3-a75b-419e-9c93-5ff31d81893d
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -9,6 +8,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 11
+parent_statement: a9922dd3-a75b-419e-9c93-5ff31d81893d
+parent_chapter: 49a1f009-be5a-4a44-ac48-45c1f040a528
+text: Para que España tenga el crecimiento estable y sostenible que garantiza la creación de empleos de calidad precisamos de políticas que generen confianza en los empresarios, para que inviertan y generen empleo. Necesitamos estabilidad institucional y seguridad jurídica, para que las familias y las empresas tomen decisiones con certezas, sin los temores que genera la incertidumbre regulatoria y fiscal. Necesitamos aprovechar las oportunidades que se nos abren con las nuevas tecnologías que, como la Inteligencia Artificial, van a determinar qué países lideran el crecimiento económico y cuáles se van a quedar atrás. Necesitamos buenos gestores y una buena evaluación de las políticas públicas, para equilibrar las cuentas, reducir la presión fiscal y al tiempo facilitar la prestación eficiente de los servicios públicos fundamentales que garantizan la igualdad de oportunidades y el bienestar. Necesitamos potenciar los sectores que, como el sector agroalimentario y pesquero, el industrial, el turismo y los servicios, o el energético, nos dan ventajas competitivas sobre los demás miembros de la Unión Europea y en los mercados internacionales.
 categories: Economía
 topics: Desarrollo sostenible
-text: Para que España tenga el crecimiento estable y sostenible que garantiza la creación de empleos de calidad precisamos de políticas que generen confianza en los empresarios, para que inviertan y generen empleo. Necesitamos estabilidad institucional y seguridad jurídica, para que las familias y las empresas tomen decisiones con certezas, sin los temores que genera la incertidumbre regulatoria y fiscal. Necesitamos aprovechar las oportunidades que se nos abren con las nuevas tecnologías que, como la Inteligencia Artificial, van a determinar qué países lideran el crecimiento económico y cuáles se van a quedar atrás. Necesitamos buenos gestores y una buena evaluación de las políticas públicas, para equilibrar las cuentas, reducir la presión fiscal y al tiempo facilitar la prestación eficiente de los servicios públicos fundamentales que garantizan la igualdad de oportunidades y el bienestar. Necesitamos potenciar los sectores que, como el sector agroalimentario y pesquero, el industrial, el turismo y los servicios, o el energético, nos dan ventajas competitivas sobre los demás miembros de la Unión Europea y en los mercados internacionales.

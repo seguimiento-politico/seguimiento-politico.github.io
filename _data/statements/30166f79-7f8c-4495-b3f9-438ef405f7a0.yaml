@@ -1,6 +1,6 @@
 id: 30166f79-7f8c-4495-b3f9-438ef405f7a0
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 36
-categories: Derechos y servicios sociales
+parent_chapter: 92fe2ec6-2e28-46a8-8939-62173145ab6f
 text: Favoreceremos el reconocimiento, el respeto y el trato legal y social en condiciones de igualdad de los diversos modelos de familia y convivencia que existen en nuestro país, asegurándonos de que son iguales en derechos, particularmente en los procesos de adopción.
+categories: Derechos y servicios sociales

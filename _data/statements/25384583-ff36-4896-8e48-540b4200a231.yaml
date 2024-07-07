@@ -1,0 +1,38 @@
+id: 25384583-ff36-4896-8e48-540b4200a231
+type: statement
+parent_document: a613c4b6-f9dc-4926-8b9a-b87c233e5a75
+parties:
+- VOX
+election_type: europeas
+election_date: '2024-06-09'
+publication_date: '2024-05-30'
+page: 4
+text: Nadie puede negar que la incorporación de España a la Unión Europea ha traído grandes beneficios a España. Pero en VOX no podemos dejar de reconocer que el rumbo de la UE en los últimos años también ha producido perjuicios a amplios sectores de nuestra sociedad, como el sector primario y nuestra industria, que se han visto abandonados por una política que no ha respondido al interés común de los Estados miembros, sino a intereses extranjeros que nada tienen que ver con los de los españoles. <br><br> Populares y socialistas no han sido capaces de defender con firmeza los intereses de los españoles en las diferentes instituciones europeas. Desde hace demasiado tiempo y hasta hoy, los diferentes partidos políticos españoles han formado parte de un consenso político en Bruselas que únicamente ha buscado aumentar el poder de unas instituciones totalmente alejadas de los intereses europeos porque sólo buscaban seguir acaparando competencias y poder a costa del bienestar de los ciudadanos a los que debían servir. <br><br> En lugar de servir a los españoles, el Partido Popular y el Partido Socialista han acatado de forma servil las órdenes de los burócratas de Bruselas, llegando a votar a favor de toda clase de normas e imposiciones que eran claramente contrarias a los intereses de España, incluso por intereses del grupo político al que pertenecen. Si la Unión Europea está en crisis es porque determinadas ideologías y grupos de presión han gobernado Europa de espaldas a los europeos, haciéndonos cada vez más sumisos y dependientes de terceros países e intereses de lobbies ideológicos.
+topics:
+- name: Sector primario
+  status_quo_negative: null
+- name: Industria
+  status_quo_negative: null
+- name: Elitismo
+  position_negative: null
+  status_quo_negative: null
+- name: Grupos de presión
+  position_negative: null
+  status_quo_negative: null
+- name: Unión Europea
+  position_positive:
+  - text: la incorporación de España a la Unión Europea ha traído grandes beneficios
+  status_quo_negative:
+  - text: el sector primario y nuestra industria se han visto abandonados
+    causes:
+    - text: políticas que no responden al interés común de los Estados miembros sino a intereses extranjeros
+    - text: instituciones europeas sólo buscaban seguir acaparando competencias y poder a costa del bienestar de los ciudadanos a los que debían servir
+    - text: determinadas ideologías y grupos de presión han gobernado Europa de espaldas a los europeos
+    consequences:
+    - text: han hecho a los europeos más dependientes de terceros países
+- name: PP
+  status_quo_negative:
+  - text: En lugar de servir a los españoles, el Partido Popular y el Partido Socialista han acatado de forma servil las órdenes de los burócratas de Bruselas, llegando a votar a favor de toda clase de normas e imposiciones que eran claramente contrarias a los intereses de España, incluso por intereses del grupo político al que pertenecen
+- name: PSOE
+  status_quo_negative:
+  - text: En lugar de servir a los españoles, el Partido Popular y el Partido Socialista han acatado de forma servil las órdenes de los burócratas de Bruselas, llegando a votar a favor de toda clase de normas e imposiciones que eran claramente contrarias a los intereses de España, incluso por intereses del grupo político al que pertenecen

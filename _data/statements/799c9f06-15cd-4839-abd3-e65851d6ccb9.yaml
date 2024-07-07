@@ -1,6 +1,6 @@
 id: 799c9f06-15cd-4839-abd3-e65851d6ccb9
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 21
+parent_chapter: 5ac453aa-319d-4ea3-b4b6-7a63e3dde3ff
+children_promises:
+- 4bf9dec8-7a11-4724-81ce-bc42b15cdf0f
+- 03a0e6ab-66c2-46e9-8e12-1e10d6ec6f78
+children_statements: []
+title: Aprobación de una ley de servicios de atención a la clientela
 categories: Consumo
 topics: Consumo sostenible
-title: Aprobación de una ley de servicios de atención a la clientela
-has_children: true

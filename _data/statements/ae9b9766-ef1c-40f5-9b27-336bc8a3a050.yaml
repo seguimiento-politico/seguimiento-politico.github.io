@@ -1,6 +1,6 @@
 id: ae9b9766-ef1c-40f5-9b27-336bc8a3a050
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,9 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 89
+parent_chapter: 54086403-8ea7-4d7e-bf72-90488cca0672
+text: Revisaremos los criterios de diseño de las infraestructuras hidráulicas, singularmente, de las presas, incorporando a los habituales estudios "coste-beneficio” los de "adaptación al cambio climático-coste".
 categories: Medioambiente
 topics:
 - Cambio climático
 - Gestión de riesgos
 - Agua
-text: Revisaremos los criterios de diseño de las infraestructuras hidráulicas, singularmente, de las presas, incorporando a los habituales estudios "coste-beneficio” los de "adaptación al cambio climático-coste".

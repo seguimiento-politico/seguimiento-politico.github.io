@@ -1,7 +1,6 @@
 id: 518bdddc-32b1-47ed-b0dd-12d50fba0cb8
 type: promise
-parent_statement: 2ab6ca91-539f-42c6-84e5-6a066014a26a
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +8,10 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: 2ab6ca91-539f-42c6-84e5-6a066014a26a
+parent_chapter: 1d4a4787-163e-4649-b875-f97fd3780649
+text: 'Seguiremos incrementando el apoyo a la promoción de alimentos de España, tanto dentro como fuera de nuestras fronteras, a través de la estrategia #AlimentosdEspaña'
 categories:
 - Agricultura
 - Ganadaría
 topics: Desarrollo sostenible
-text: 'Seguiremos incrementando el apoyo a la promoción de alimentos de España, tanto dentro como fuera de nuestras fronteras, a través de la estrategia #AlimentosdEspaña'

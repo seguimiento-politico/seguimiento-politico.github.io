@@ -1,6 +1,6 @@
 id: f6bb5458-68c2-4037-9e5b-2c4ee5c936fa
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,9 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 38
+parent_chapter: 2c1c9355-e394-4081-ab4a-f2f453e2cb83
+text: El Gobierno aprobará un Pacto Verde, en línea con el Green Deal ya anunciado por la Comisión Europea de forma que España pueda beneficiarse plenamente de los correspondientes recursos comunitarios. Dicho “Pacto Verde” exige la reorientación de varias políticas sectoriales, comenzando por las asociadas a la emergencia climática.
 categories: Medioambiente
 topics:
 - Cambio climático
 - Desarrollo sostenible
-text: El Gobierno aprobará un Pacto Verde, en línea con el Green Deal ya anunciado por la Comisión Europea de forma que España pueda beneficiarse plenamente de los correspondientes recursos comunitarios. Dicho “Pacto Verde” exige la reorientación de varias políticas sectoriales, comenzando por las asociadas a la emergencia climática.

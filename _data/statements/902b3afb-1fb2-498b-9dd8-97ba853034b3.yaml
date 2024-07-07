@@ -1,7 +1,6 @@
 id: 902b3afb-1fb2-498b-9dd8-97ba853034b3
 type: promise
-parent_statement: 3ddb1a46-7586-4afd-bfa7-e0024d62258d
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 3ddb1a46-7586-4afd-bfa7-e0024d62258d
+parent_chapter: e9f101d6-d6e2-4b1b-95f1-2c67fdd18515
+text: la tramitación anticipada de las convocatorias y el pago anticipado no solo con carácter previo a la justificación sino al inicio de la vida real de los proyectos;
 categories: Cultura
 topics: Financiación
-text: la tramitación anticipada de las convocatorias y el pago anticipado no solo con carácter previo a la justificación sino al inicio de la vida real de los proyectos;

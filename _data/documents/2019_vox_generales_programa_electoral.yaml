@@ -13,6 +13,7 @@ title: 100 medidas para la España viva
 description: Programa electoral para las elecciones generales del 10 de Noviembre de 2019
 content:
 - chapter: 
+    id: 0c19cae3-98a2-45ba-a607-41aadce4ec63
     title: España, unidad y soberanía
     categories: Nacionalismo y patriotismo
     children:
@@ -49,7 +50,7 @@ content:
         page: 2
         ref_section: '004'
         children:
-        - declaration:
+        - statement:
             id: 8ec06457-0db6-4dd0-94e9-97db2fb0dc63
             text: Ninguna administración ni particular puede menospreciar la lengua común de todos, el español. Mucho menos discriminarla. Hay que cumplir estrictamente el mandato constitucional de que todos los españoles tienen derecho a utilizar el español, y el deber de conocerlo. Suprimir el requisito del conocimiento de la lengua cooficial en el acceso a la función pública de forma que se evite cualquier tipo de discriminación.
         - promise:
@@ -109,7 +110,7 @@ content:
         page: 3
         ref_section: 009
         children:
-        - declaration:
+        - statement:
             id: 961e1b78-7d77-4fa7-8ce5-4bf963fa43d4
             text: Ningún parlamento está legitimado para definir nuestro pasado, y menos excluyendo a los españoles que difieren de sus definiciones. No puede utilizarse el pasado para dividirnos, al contrario, hay que homenajear conjuntamente a todos los que, desde perspectivas históricas diferentes, lucharon por España.
         - promise:
@@ -125,6 +126,7 @@ content:
             id: b4f33004-a074-4333-b3f3-15355e2b69e5
             text: Supresión del Concierto Económico Vasco y el Convenio Navarro y la incorporación de ambas regiones y sus Diputaciones Forales al Régimen Común
 - chapter: 
+    id: 0aeec4ec-9240-4040-ba6b-c7f21bee3fb4
     title: Ley electoral y transparencia
     categories: [Democracia]
     page: 4
@@ -160,6 +162,7 @@ content:
             id: f9900fa0-f6de-43ab-a5e7-1e496a6dfc34
             text: Control de los cargos públicos antes, durante y después de su mandato. Reforzar normativa incompatibilidades de los políticos tras el abandono de los cargos públicos y la exigencia de devolución de los caudales públicos.
 - chapter: 
+    id: 06fd7e51-b8d5-491c-895a-9be06be8bef5
     title: Inmigración
     categories: [Migración]
     page: 5
@@ -255,6 +258,7 @@ content:
             id: 9933a97e-e59e-478f-960e-9f38fd947bb0
             text: Se establecerán cuotas de origen privilegiando a las nacionalidades que comparten idioma e importantes lazos de amistad y cultura con España.
 - chapter: 
+    id: f7d833fa-aff7-4e92-ab7f-4430cb8f127b
     title: Defensa, seguridad y fronteras
     categories: [Seguridad y defensa, Migración]
     children:
@@ -376,6 +380,7 @@ content:
             id: 5dc99a85-bcc7-4952-8f18-ae9cc562abd0
             text: Suspender espacio Schengen hasta que exista la garantía europea de que no lo utilizarán los criminales para huir de la justicia (como han hecho los golpistas separatistas) ni lo aprovechen las mafias de la inmigración ilegal para introducir personas.
 - chapter: 
+    id: 80f33f13-c365-4098-ac18-6210795cdb15
     title: Economía y recursos
     categories: [Economía]
     children:
@@ -626,6 +631,7 @@ content:
             id: 567e4ae8-5ab9-43b5-9476-efe36c305108
             text: Fomentar la renovación del parque de maquinaria con convocatoria de planes que tengan continuidad y rebajar los impuestos directos del gasóleo agrícola (combustible, fertilizantes, herbicidas, plásticos) por encarecer los costes de producción.
 - chapter: 
+    id: 25c761ac-89ea-4a48-aa96-21ab2cc69c63
     title: salud
     categories: [Sanidad]
     children:
@@ -693,6 +699,7 @@ content:
             id: 8ba1718a-1361-48be-9586-a6ff711c8d1b
             text: Copago para todos los residentes legales que no tengan un mínimo de 10 años de permanencia en nuestro suelo. Se cubrirán únicamente servicios de urgencia.
 - chapter: 
+    id: ab7164cc-742b-48cf-adce-57d74cf0621d
     title: Educación y cultura
     categories: [Educación, Cultura]
     children:
@@ -720,7 +727,7 @@ content:
         page: 15
         ref_section: '062'
         children:
-        - declaration:
+        - statement:
             id: e9665fa1-f01b-4032-a6f2-c69b53fb19df
             text: Los padres deben tener derecho a elegir la lengua de escolarización de sus hijos.
         - promise:
@@ -805,6 +812,7 @@ content:
             id: e0ebd508-692c-4e19-91ac-42153d22b02a
             text: Incentivos para los profesionales del mundo rural y potenciar cursos de formación.
 - chapter: 
+    id: 70e896cb-cc2e-4700-a649-38c82b332b6c
     title: Vida y familia
     categories: [Familia]
     children:
@@ -953,6 +961,7 @@ content:
             id: 3577a34f-a9cb-48c6-8b27-2da79e9bdc85
             text: Defensa de la custodia compartida como regla general y proteger el derecho de los menores a relacionarse con ambos progenitores y con sus abuelos.
 - chapter: 
+    id: d5bc3185-7cac-4cbc-9ca4-df232e4c8a2f
     title: Libertades y justicia
     categories: [Justicia]
     children:
@@ -1116,6 +1125,7 @@ content:
             id: bbad380d-833f-44a0-a3d8-e660b972c674
             text: Eliminación del Jurado.
 - chapter: 
+    id: 3af136f2-79a9-420c-af0c-d9d97743494c
     title: Europa e internacional
     categories: [Política internacional]
     page: 23

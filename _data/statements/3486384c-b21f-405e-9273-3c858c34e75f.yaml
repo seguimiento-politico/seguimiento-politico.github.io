@@ -1,7 +1,6 @@
 id: 3486384c-b21f-405e-9273-3c858c34e75f
-type: declaration
-parent_statement: 89968e6d-43bd-4998-8bb1-ef53591d7759
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 89968e6d-43bd-4998-8bb1-ef53591d7759
+parent_chapter: d59fe7bc-7318-4c18-a232-113ef256f4dd
+text: Las instituciones públicas se caracterizan por su estabilidad, de manera que ofrecen fuertes resistencias al cambio. En un contexto tan cambiante e incierto como el actual, necesitamos superar estas inercias y buscar formas de innovación democrática. Sabemos que para innovar hemos de generar espacios abiertos que permitan aprender tanto de los éxitos como de los errores.
 categories: Democracia
 topics: Participación ciudadana
-text: Las instituciones públicas se caracterizan por su estabilidad, de manera que ofrecen fuertes resistencias al cambio. En un contexto tan cambiante e incierto como el actual, necesitamos superar estas inercias y buscar formas de innovación democrática. Sabemos que para innovar hemos de generar espacios abiertos que permitan aprender tanto de los éxitos como de los errores.

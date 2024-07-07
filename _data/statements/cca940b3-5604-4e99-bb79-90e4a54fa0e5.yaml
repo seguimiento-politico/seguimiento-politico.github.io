@@ -1,6 +1,6 @@
 id: cca940b3-5604-4e99-bb79-90e4a54fa0e5
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 70
+parent_chapter: c6a2b394-c1fc-4d08-a036-d62f942753d7
+children_promises:
+- 928be33b-32cd-4b48-96f7-44da9683693b
+- ae0f9704-e3b2-43f8-8447-5e6db06a8d2d
+children_statements: []
+title: 'Alimentación saludable: Desarrollo de la oferta pública saludable y sostenible'
 categories: Consumo
 topics: Alimentación saludable
-title: 'Alimentación saludable: Desarrollo de la oferta pública saludable y sostenible'
-has_children: true

@@ -1,6 +1,6 @@
 id: 4177f6be-0842-4482-af46-729ef3da2d30
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 49
+parent_chapter: 493fd51c-7cfd-4b5e-bc63-efcefe3f24e6
 text: Crear una Vicepresidencia de Digitalización y Nueva Economía para dirigir y coordinar estas reformas junto con el resto de Administraciones y agentes sociales

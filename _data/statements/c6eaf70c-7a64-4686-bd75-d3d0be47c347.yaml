@@ -1,6 +1,6 @@
 id: c6eaf70c-7a64-4686-bd75-d3d0be47c347
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 119
+parent_chapter: b82b7f57-da6b-4fd4-8a55-f1773ebd9608
+children_promises:
+- 0e3e01ac-8b87-48b0-bd28-a83abc525a8d
+- 144784cb-518c-4c48-a4c9-1b8a679e003e
+- adb08daf-bd56-42b8-ab12-11dbf50f15ff
+children_statements:
+- 8862af64-e888-459f-b190-9e0c57d1b6c6
+title: 'Liderazgo: politización y función directiva profesional'
 categories: Democracia
 topics: Administración pública
-title: 'Liderazgo: politización y función directiva profesional'
-has_children: true

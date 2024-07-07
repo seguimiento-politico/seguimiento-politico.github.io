@@ -1,6 +1,6 @@
 id: 086296fe-78bd-46f5-89fb-c083f107d703
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,15 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 98
+parent_chapter: 12295f44-3ae3-43bd-8758-0026574e6662
+children_promises:
+- fa86ee4d-2924-46e6-9011-b59be3fb121c
+- 2e7a2c25-2302-4d9e-ad97-1cee9d4a8ddb
+- 11afc528-43fb-4a89-bff8-4becf40a10c3
+- 0ae2f248-f975-4732-8038-abce96b25af2
+- eb48de06-f716-483b-9959-d74b38c91234
+- dbf48bb3-ec57-4943-a584-fa2a075c604d
+children_statements: []
+title: Atención sanitaria e investigación
 categories: Derechos y servicios sociales
 topics: Tercera edad
-title: Atención sanitaria e investigación
-has_children: true

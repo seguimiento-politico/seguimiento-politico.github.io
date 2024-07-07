@@ -1,7 +1,6 @@
 id: 7e5caf6d-afbb-4f1c-b115-98b46afc9ea5
 type: promise
-parent_statement: 982370c3-9693-456e-b8f8-a55c95728bff
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
+parent_statement: 982370c3-9693-456e-b8f8-a55c95728bff
+parent_chapter: 25c761ac-89ea-4a48-aa96-21ab2cc69c63
+text: Eliminación del acceso gratuito a la sanidad para inmigrantes ilegales.
 categories:
 - Sanidad
-text: Eliminación del acceso gratuito a la sanidad para inmigrantes ilegales.

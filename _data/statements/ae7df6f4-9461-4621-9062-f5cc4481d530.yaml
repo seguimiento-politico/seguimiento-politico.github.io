@@ -1,6 +1,6 @@
 id: ae7df6f4-9461-4621-9062-f5cc4481d530
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 11
+parent_chapter: 80f33f13-c365-4098-ac18-6210795cdb15
+children_promises:
+- 8d94fa0f-c8a0-4d60-84e7-47f83c4310f2
+- a5019d42-ee94-4ed2-8a95-ce840b9ee773
+- 2aa3dac4-772d-47ab-8df4-2aae55a06eac
+children_statements: []
+title: Fomentar la reindustrialización, apoyo empresas nacionales en concursos públicos y al I+D+I e internacionalización
 categories:
 - Economía
-title: Fomentar la reindustrialización, apoyo empresas nacionales en concursos públicos y al I+D+I e internacionalización
-has_children: true

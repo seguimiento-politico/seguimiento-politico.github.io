@@ -1,6 +1,6 @@
 id: 1dcbcfb6-c520-42b4-8dbe-56058c56f1fe
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 31
+parent_chapter: b8a5aa3d-8c58-4fdb-8ce8-c6eb037312b4
 text: Proteger a las familias monoparentales y monomarentales con su equiparación a las familias numerosas, la adopción de una definición que les otorgue seguridad jurídica, el incremento de las prestaciones por cuidado de sus niños y niñas, y la prioridad de acceso a los servicios y prestaciones, como la educación de 0 a 3 años durante su implantación universal o las becas

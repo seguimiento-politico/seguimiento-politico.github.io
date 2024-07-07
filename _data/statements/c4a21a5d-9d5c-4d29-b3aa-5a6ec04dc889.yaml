@@ -1,11 +1,12 @@
 id: c4a21a5d-9d5c-4d29-b3aa-5a6ec04dc889
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 34
-categories: Educación
+parent_chapter: d01d08b0-ad16-47ca-a6fa-7d638f061cfa
 text: Apoyamos los centros de Educación Especial y el derecho de las familias a elegirlos como propuesta educativa para sus hijos. Facilitaremos la integración de los alumnos con necesidades educativas especiales en el caso de que esa sea la opción elegida por las familias.
+categories: Educación

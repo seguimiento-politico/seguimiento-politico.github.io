@@ -1,6 +1,6 @@
 id: 7030b4da-c2b8-4735-871b-dc5afb691ef6
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 44
+parent_chapter: 493fd51c-7cfd-4b5e-bc63-efcefe3f24e6
 title: Implementar la tecnología blockchain para reducir las comisiones bancarias.
 text: Gran parte de las operaciones bancarias habituales requieren de una verificación centralizada por parte de lo que se denomina una «autoridad bancaria» La tecnología blockchain permite verificar de manera segura y descentralizada todo tipo de transacciones, de manera que su implementación desde la banca pública que proponemos reduciría el coste de las operaciones bancarias y, potencialmente, también las comisiones bancarias que ahora cobra la banca privada Al permitir generar unos registros muy claros, imborrables y confirmables de todas las operaciones, esta tecnología también podría utilizarse en la contratación pública para mejorar la transparencia del proceso y prevenir la corrupción, ya que todas las ofertas y operaciones quedarían, así, registradas En el marco de esta estrategia, se impulsará también un programa sandbox (de experimentación) para implementar la tecnología blockchain en diversos entornos y liderar su implementación en Europa

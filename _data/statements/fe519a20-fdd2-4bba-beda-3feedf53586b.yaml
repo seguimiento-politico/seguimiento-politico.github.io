@@ -1,6 +1,6 @@
 id: fe519a20-fdd2-4bba-beda-3feedf53586b
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 88
-categories: Democracia
+parent_chapter: 5eaa8b4a-0a47-4a85-8512-be80c4ebfdb0
 text: INCORPORAREMOS MEDIADORES que puedan realizar trámites ante la Administración en nombre de los ciudadanos gracias a una Ley de Colaboración Social Administrativa. Impulsaremos que los trabajadores sociales que actualmente ya atienden y cuidan a personas vulnerables o mayores puedan formar, asistir y configurar las herramientas digitales que requieran cada uno.
+categories: Democracia

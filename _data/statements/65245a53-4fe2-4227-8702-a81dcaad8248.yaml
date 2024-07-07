@@ -1,6 +1,6 @@
 id: 65245a53-4fe2-4227-8702-a81dcaad8248
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 74
+parent_chapter: ef0bb89b-1b90-4682-a618-d8eea7201020
 text: Eliminar la mal llamada «flexibilización» que instalaron las reformas laborales del PSOE y del PP, y que introduce una gran precariedad a través de la contratación temporal masiva De esta manera, dejaremos un único tipo de contrato temporal, eliminando las demás figuras, y solo podrá realizarse por causas productivas absolutamente imprevistas (no campañas ni estaciones) y organizativas estrictas, como sustituciones por bajas (interinidad)

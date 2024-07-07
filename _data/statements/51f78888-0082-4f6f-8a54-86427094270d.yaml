@@ -1,6 +1,6 @@
 id: 51f78888-0082-4f6f-8a54-86427094270d
-type: declaration
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+type: statement
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 16
+parent_chapter: b8550311-badb-44f7-aafe-46f10435e0b1
 text: Por último, las y los socialistas impulsaremos una presencia activa de España en las instituciones europeas, promoviendo la profundización de la Unión Económica y Monetaria para que el euro sea un factor de estabilidad y prosperidad. Apostaremos, con la implicación de todas las fuerzas progresistas de los países miembros, por los cambios necesarios en el proyecto europeo para fortalecer su dimensión social y política, de forma que se avance hacia una Europa federal. Queremos, desde ese proyecto renovado, contribuir a una profunda reorientación de la globalización, de forma que la UE promueva la paz, el respeto a los derechos humanos y el cumplimento de los Objetivos de Desarrollo Sostenible de la Agenda 2030 en todos los países del mundo.

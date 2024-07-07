@@ -1,6 +1,6 @@
 id: 8a252b1c-00c0-457c-a44f-ff2612559223
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 178
+parent_chapter: afca3e4a-d9b5-41f5-8544-5899bb9425e5
+text: Poner en marcha un ambicioso plan nacional para alfabetización digital de las personas mayores con la cooperación de las CC AA y los ayuntamientos.
 categories: Derechos y servicios sociales
 topics: Mayores
-text: Poner en marcha un ambicioso plan nacional para alfabetización digital de las personas mayores con la cooperación de las CC AA y los ayuntamientos.

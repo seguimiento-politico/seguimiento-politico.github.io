@@ -1,6 +1,6 @@
 id: ea8b4d8a-7756-4299-9feb-63375891352a
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 59
+parent_chapter: b3f71622-6590-4ea3-b839-4254df880fe7
+children_promises:
+- 12148cec-c090-43e0-9b1b-3fecc64c6eb0
+- d7baac04-d6a4-4fd7-b788-6ac53d7f53c8
+- 72d56d3b-57d1-441a-b9c8-eee35ddcc276
+children_statements: []
+title: Nuevas instituciones para el medio rural
 categories: Territorio rural
 topics: Igualdad
-title: Nuevas instituciones para el medio rural
-has_children: true

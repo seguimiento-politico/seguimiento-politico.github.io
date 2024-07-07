@@ -1,7 +1,6 @@
 id: d9d03dee-01cf-4270-9490-af0ffd512a7c
 type: promise
-parent_statement: 6bfd843d-329f-47f7-ad39-e5873e9fb042
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Urbanismo y ciudades
+parent_statement: 6bfd843d-329f-47f7-ad39-e5873e9fb042
+parent_chapter: da4a5e62-c6b6-45b0-a08b-611f6d470a08
 text: El objetivo será el de mejorar las condiciones de vida de estas personas y reducir las desigualdades sociales, evitar el riesgo de fractura social y hacer frente a la crisis ambiental mediante la mejora de las condiciones de vida.
+categories: Urbanismo y ciudades

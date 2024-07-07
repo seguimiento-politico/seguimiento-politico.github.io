@@ -1,6 +1,6 @@
 id: 2ff39a1f-0930-4a31-9fc4-85526e77e56b
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 17
-categories: Nacionalismo y patriotismo
+parent_chapter: 84c94514-c06f-4ab9-ba28-01c06429b154
 text: Promocionaremos y apoyaremos nuestras fiestas locales y tradiciones populares como señas de identidad y lazos de unión comunitaria entre generaciones que mantienen viva nuestra historia milenaria.
+categories: Nacionalismo y patriotismo

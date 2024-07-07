@@ -1,7 +1,6 @@
 id: f8e46719-dd8f-422d-82a4-98e9cf86e22d
 type: promise
-parent_statement: 74d2b2ec-418e-4753-b895-6d05fb0afc92
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Justicia
+parent_statement: 74d2b2ec-418e-4753-b895-6d05fb0afc92
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
 text: Garantizaremos la calidad de los servicios de justicia restaurativa, así como su consideración como servicio público.
+categories: Justicia

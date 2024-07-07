@@ -1,6 +1,6 @@
 id: e348a13f-26f6-441f-bc05-10d3cf0d450e
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 80
-categories: Impuestos y financiación pública
+parent_chapter: ec3e397c-bf4a-4692-a06e-58f507cee1f8
+children_promises:
+- 51e087bd-69f2-4fc2-82b4-f0d3473fab04
+- 623debd6-e49a-4019-8fdc-601032c90f3a
+- a8ebea61-ad72-429f-b106-53553a92cd95
+- 6bd5f32a-2586-4259-adcd-5fe5584e1bbd
+children_statements: []
 text: 'Cada vez que comemos, compramos, trabajamos, descansamos o hacemos deporte estamos generando datos, y difícilmente somos conscientes de la cantidad de información que compartimos sin saberlo. Las plataformas digitales, con sedes radicadas en el extranjero, venden hasta un 80% de los datos que recogen de nosotros. Esto significa que, sin saberlo, nos están expropiando digitalmente y haciendo dinero, habitualmente en forma de publicidad. Es necesario pagar a los dueños de esos datos por cederlos a terceros. Según estudios recientes a nivel internacional, una familia de cuatro miembros podría ingresar 18.000 euros si se le paga una cantidad por los datos que ya cede de manera forzada, ya que no tiene otra forma de acceder a ciertos servicios digitales imprescindibles en la actualidad sin aceptar estos términos. Es necesario regular esta situación, empezando por las siguientes medidas:'
-has_children: true
+categories: Impuestos y financiación pública

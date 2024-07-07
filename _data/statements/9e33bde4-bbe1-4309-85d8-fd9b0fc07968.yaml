@@ -1,6 +1,6 @@
 id: 9e33bde4-bbe1-4309-85d8-fd9b0fc07968
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 29
-categories: Derechos y servicios sociales
+parent_chapter: b9acb21e-b2d4-4d2a-a551-e4c86a481336
 text: Aprobaremos la Estrategia frente a la Soledad no Deseada, y reimpulsaremos el Consejo Estatal de Mayores, promoviendo todo tipo de iniciativas culturales, educativas, residenciales o de ocio, en las que los mayores participen con personas más jóvenes, complementando las actividades destinadas en exclusiva a los mayores.
+categories: Derechos y servicios sociales

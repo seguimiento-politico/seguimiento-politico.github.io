@@ -1,7 +1,6 @@
 id: 57f1b4bf-43f0-487a-8a1f-6e73c447ed31
-type: declaration
-parent_statement: f5827007-c6c5-48fc-a687-68a4afd3b0df
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,6 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 39
+parent_statement: f5827007-c6c5-48fc-a687-68a4afd3b0df
+parent_chapter: 1e1d9fec-722c-4fe5-83c8-753b161e1073
+text: o Apostaremos por la diversificación. Queremos poner en valor todos los productos turísticos, poniendo el foco en el turismo cultural o el turismo rural. El turismo más tradicional ya se complementa con una nueva oferta turística que queremos potenciar. El turismo deportivo, el de congresos, el gastronómico, el industrial o el musical son algunos de los ejemplos. El turismo enogastronómico va más allá del carácter complementario y ya se ha convertido en sí mismo en un importante producto turístico que pone en valor los productos de proximidad y la cultura de los territorios, avanzando con ello en sostenibilidad y en desestacionalización.
 categories: Turismo
 topics: Desarrollo sostenible
-text: o Apostaremos por la diversificación. Queremos poner en valor todos los productos turísticos, poniendo el foco en el turismo cultural o el turismo rural. El turismo más tradicional ya se complementa con una nueva oferta turística que queremos potenciar. El turismo deportivo, el de congresos, el gastronómico, el industrial o el musical son algunos de los ejemplos. El turismo enogastronómico va más allá del carácter complementario y ya se ha convertido en sí mismo en un importante producto turístico que pone en valor los productos de proximidad y la cultura de los territorios, avanzando con ello en sostenibilidad y en desestacionalización.

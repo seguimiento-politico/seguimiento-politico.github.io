@@ -1,7 +1,6 @@
 id: 73dc247e-4886-4556-a6f3-fda350401f36
 type: promise
-parent_statement: 818b128d-b25a-4be3-9178-bb23a10841c2
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Economía
+parent_statement: 818b128d-b25a-4be3-9178-bb23a10841c2
+parent_chapter: 5ae877b3-1389-490f-b5f8-bb2c2704b535
 text: Impulsaremos la firma de un gran pacto de rentas por la estabilidad de precios. Tanto el comportamiento salarial hasta el momento, como la firma del AENC, garantizan que el origen de las tensiones inflacionistas no se encuentra en los salarios y su crecimiento. La tensión inflacionista se está produciendo por el encarecimiento de los precios de importación de algunas materias primas esenciales y un mantenimiento o aumento bastante generalizado de los márgenes empresariales. La firma de un gran pacto de rentas por la estabilidad de precios debe tener como objetivo acordar un reparto adecuado de las implicaciones del encarecimiento de los precios de importación y cortar los efectos de segunda ronda. Existe margen suficiente para que los salarios recuperen el poder adquisitivo perdido en 2022 sin afectar a los precios finales.
+categories: Economía

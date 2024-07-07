@@ -1,6 +1,6 @@
 id: d1267d98-0a9f-41d1-964d-1efe226fad15
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 49
-categories: Industria
+parent_chapter: 52ae8dc4-28e9-4398-8226-2aed999f465f
+children_promises:
+- bc78bcee-e6f6-4575-9f9c-0bd8cb694abb
+children_statements: []
 title: Queremos potenciar la formación para el acceso a las profesiones industriales más demandadas
-has_children: true
+categories: Industria

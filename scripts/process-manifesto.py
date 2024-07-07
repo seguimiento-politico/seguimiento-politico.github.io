@@ -1,6 +1,6 @@
 ##### README #####
 # author: Tovarlogic@gmail.com
-# DEPRECATED
+# DEPRECATED: use process-manifesto-v2.py instead
 # this script is used to convert manifestos documents in yaml format (version 1) into the new format which includes every promise.
 
 import os
@@ -64,7 +64,7 @@ def get_promises(chapter):
                             part = {}
                             if 'description' in p:
                                 part['id'] = str(uuid.uuid4())
-                                part['declaration'] = p['description']
+                                part['statement'] = p['description']
                                 proposition['children'].append(part)
                                 part = {}
                             partial = False
@@ -124,7 +124,7 @@ def go_deeper(dict):
         if 'description' in item:
             text = item['description'].replace('\r\n', '')
             part['children'] = []
-            part['children'].append({'id': str(uuid.uuid4()), 'declaration': text})
+            part['children'].append({'id': str(uuid.uuid4()), 'statement': text})
 
         if 'children' in item:
             if not 'children' in part:

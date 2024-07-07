@@ -1,6 +1,6 @@
 id: 344ba8de-90c3-4093-8d83-03b38032fdc1
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 53
-categories: Comercio
+parent_chapter: 188819b7-9c37-4f05-8366-60b15394c8eb
 text: PNL contra las falsificaciones y fraudes en el marcado “CE”. Para la protección del consumidor y usuario, se debe impulsar el control en frontera para la prevención y sanción de las importaciones de falsificaciones y fraudes en el marcado CE (abril 2023).
+categories: Comercio

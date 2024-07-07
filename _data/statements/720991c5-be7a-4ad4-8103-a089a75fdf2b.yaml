@@ -1,6 +1,6 @@
 id: 720991c5-be7a-4ad4-8103-a089a75fdf2b
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 110
+parent_chapter: f91bc08f-3d6b-4f78-a00a-810f7184cf6a
 text: Fijar un impuesto de transacciones financieras especulativas que grave las ventas brutas en el mismo día, y no solo las netas, e incluya otras operaciones distintas a la compraventa de acciones (por ejemplo, derivados) Hay una gran diferencia entre un pequeño ahorrador que invierte una parte de sus ahorros en acciones y las operaciones de compraventa de activos financieros varias veces en el mismo día e incluso durante la misma hora o minuto Este impuesto afectaría al segundo tipo de operaciones financieras especulativas.

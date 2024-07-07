@@ -1,11 +1,12 @@
 id: d4ea0b1b-1520-49fe-8157-fd614f619ecb
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 94
-categories: Seguridad y defensa
+parent_chapter: a0dfa1eb-d727-4385-bc22-6a7a7ca56097
 text: Revisaremos la existencia de construcciones ilegales en zonas de peligro, pozos ilegales y obstrucciones en cauces de ríos que puedan suponer un riesgo para la seguridad de los ciudadanos.
+categories: Seguridad y defensa

@@ -1,6 +1,6 @@
 id: b935bce0-46b2-4411-a320-6f8e701630db
-type: declaration
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 42
-categories: Derechos y servicios sociales
+parent_chapter: ba5391eb-a9bd-462e-b63b-168d871e6d01
+children_promises: []
+children_statements:
+- bdbb88d2-9928-423c-a2cc-a4724277ae36
+- a21e9062-3ae8-45c6-8ee3-d20b73242d2f
 title: UNA SOCIEDAD QUE PROTEJA A LOS MÁS VULNERABLES
-has_children: true
+categories: Derechos y servicios sociales

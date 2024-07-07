@@ -1,6 +1,6 @@
 id: 51bc55b8-26b3-4f43-a60e-19dfb8d6bc7c
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 34
+parent_chapter: 234f712b-aaa0-45c7-92d9-e5641ca46ec2
+children_promises:
+- a9d9b8d7-f29e-4197-b716-ba081e2df625
+- 24ab1254-c057-4ff7-a6e1-586aaeb017b6
+children_statements: []
 title: Una transición ecológica coordinada políticamente
-has_children: true

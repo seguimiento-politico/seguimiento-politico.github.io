@@ -1,6 +1,6 @@
 id: 98c9196c-81a8-490e-a1c2-067851efc984
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 76
-categories: Justicia
+parent_chapter: 0f87afc6-fcea-4ab1-b5a8-63765bc3744f
 text: APROBAREMOS UNA LEY DE DERECHO DE DEFENSA, con la participación de los colegios profesionales. Extenderemos la regulación del turno de oficio y de la asistencia jurídica gratuita para contemplar expresamente este derecho en las personas jurídicas, así como que la intervención de los profesionales designados de oficio sea indemnizada siempre que realicen actuaciones. Facilitaremos la conciliación de la vida laboral y familiar de abogados y procuradores.
+categories: Justicia

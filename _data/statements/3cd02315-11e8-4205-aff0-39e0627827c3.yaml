@@ -1,7 +1,6 @@
 id: 3cd02315-11e8-4205-aff0-39e0627827c3
 type: promise
-parent_statement: 6e6d5819-d8f0-4fe7-834c-b711e87b175c
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 6e6d5819-d8f0-4fe7-834c-b711e87b175c
+parent_chapter: 477927b2-ab8b-4a05-8cc0-962c0cbbb883
+text: Apoyaremos la labor de inclusión y de lucha frente a las brechas de desigualdad a través de empresas de economía social. Se implementarán las reformas legales necesarias para actualizar la regulación de las empresas de inserción y de otras entidades de economía social, para garantizar el cumplimiento de su objeto social; favorecer la inclusión de personas en riesgo de vulnerabilidad social a través de la generación de empleo de calidad. Se harán cumplir los porcentajes de reserva de la contratación pública para aquellas empresas de la economía social que acrediten su balance económico y su impacto social. Se incrementarán los porcentajes de reserva de la contratación pública para las empresas de la economía social que reinviertan la totalidad de sus beneficios en la propia entidad y en la mejora de su balance social.
 categories: Trabajo
 topics: Economía social
-text: Apoyaremos la labor de inclusión y de lucha frente a las brechas de desigualdad a través de empresas de economía social. Se implementarán las reformas legales necesarias para actualizar la regulación de las empresas de inserción y de otras entidades de economía social, para garantizar el cumplimiento de su objeto social; favorecer la inclusión de personas en riesgo de vulnerabilidad social a través de la generación de empleo de calidad. Se harán cumplir los porcentajes de reserva de la contratación pública para aquellas empresas de la economía social que acrediten su balance económico y su impacto social. Se incrementarán los porcentajes de reserva de la contratación pública para las empresas de la economía social que reinviertan la totalidad de sus beneficios en la propia entidad y en la mejora de su balance social.

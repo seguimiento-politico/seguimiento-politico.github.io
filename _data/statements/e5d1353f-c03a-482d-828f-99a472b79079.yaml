@@ -1,6 +1,6 @@
 id: e5d1353f-c03a-482d-828f-99a472b79079
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 130
-categories: Seguridad y defensa
+parent_chapter: 66b190ef-617c-438a-adf3-a3c9f707719b
+children_promises:
+- accdaf8f-2e97-4323-95ae-737c7ee89298
+- 7c02cbc0-234c-437e-a238-853d5e47facc
+- d431be5b-f2b0-4741-94fd-7e57ac399817
+- 81527f22-0210-47fc-a0d7-9920168cdb36
+children_statements:
+- 20f7b06f-2f8f-4650-a75e-b5f7c2125ba2
 title: Promoveremos políticas diferentes frente a las problemáticas de los grupos juveniles
-has_children: true
+categories: Seguridad y defensa

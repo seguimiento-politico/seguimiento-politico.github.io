@@ -1,6 +1,6 @@
 id: 5aae4e85-b5f5-40dd-b4ae-5a6966672dd4
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 176
+parent_chapter: 49910009-ba4c-43f1-989a-c8fe29e8fb41
+text: Actualizar el Plan de Choque en Dependencia y, en colaboración con las Comunidades Autónomas, considerar la teleasistencia como derecho subjetivo.
 categories: Derechos y servicios sociales
 topics: Cuidados
-text: Actualizar el Plan de Choque en Dependencia y, en colaboración con las Comunidades Autónomas, considerar la teleasistencia como derecho subjetivo.

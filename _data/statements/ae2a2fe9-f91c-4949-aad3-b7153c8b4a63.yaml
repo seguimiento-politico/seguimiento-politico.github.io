@@ -1,7 +1,6 @@
 id: ae2a2fe9-f91c-4949-aad3-b7153c8b4a63
 type: promise
-parent_statement: bf7bd786-8ca7-4a91-a3b2-ea018e182fe4
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: bf7bd786-8ca7-4a91-a3b2-ea018e182fe4
+parent_chapter: 754946a2-5f02-4a15-929b-dc9e8a58fe80
+text: Desarrollo de planes estatales contra el maltrato a los animales
 categories: Civismo
 topics: Bienestar animal
-text: Desarrollo de planes estatales contra el maltrato a los animales

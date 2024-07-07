@@ -1,0 +1,26 @@
+name: Libertad
+other:
+- &id001
+  id: 11899f3a-7cde-4304-9eea-ac5d7f91733a
+  parties:
+  - CIUDADANOS
+other_count: 1
+position_negative: []
+position_negative_count: 0
+position_positive:
+- &id002
+  id: 07d9f40b-dc82-4c95-b067-ff8a50cb0e5d
+  parties:
+  - VOX
+position_positive_count: 1
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- *id002
+statements_count: 2
+status_quo_negative:
+- *id002
+status_quo_negative_count: 1
+status_quo_positive: []
+status_quo_positive_count: 0

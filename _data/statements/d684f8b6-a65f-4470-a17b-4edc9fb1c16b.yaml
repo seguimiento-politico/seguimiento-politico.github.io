@@ -1,6 +1,6 @@
 id: d684f8b6-a65f-4470-a17b-4edc9fb1c16b
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,18 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 108
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+children_promises:
+- 78c42299-bfc4-4aad-8b8d-1cfe1704a8b4
+- 2cea2e88-1bde-407d-97eb-97f07d0ab240
+- 118da830-87f4-44eb-8e60-05f41a392a10
+- 7627d372-c10b-46b8-adbc-53573c6c394d
+- ee2ea24f-9ce1-4903-8236-daf42dd53a28
+- 8e2c7fbe-321e-4636-a295-a4689da59156
+- 71aef9a7-ae77-4da3-9b02-8af8ab62d32d
+- 94603464-2f79-4cee-bfea-943f41b0b446
+- 4a924f3e-f364-48fe-a5ae-198f03191050
+children_statements: []
+title: 'Igualdad y feminismo: Salarios y pensaiones'
 categories: Democracia
 topics: Igualdad
-title: 'Igualdad y feminismo: Salarios y pensaiones'
-has_children: true

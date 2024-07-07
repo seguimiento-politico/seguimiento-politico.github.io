@@ -1,6 +1,6 @@
 id: fe4772d8-0f14-4c7d-a552-10d2e5135aae
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 87
+parent_chapter: e696d207-8231-46d7-b6c5-53dde16b2429
+text: Gracias a la acción de Gobierno, España ha consolidado una posición de liderazgo en la diplomacia climática, tanto a escala europea como internacional, liderando los debates europeos y globales sobre el clima como en la Cumbre Climática Chile-Madrid- Tiempo de Actuar celebrada en 2019.
 categories: Medioambiente, Política internacional
 topics: Cambio climático
-text: Gracias a la acción de Gobierno, España ha consolidado una posición de liderazgo en la diplomacia climática, tanto a escala europea como internacional, liderando los debates europeos y globales sobre el clima como en la Cumbre Climática Chile-Madrid- Tiempo de Actuar celebrada en 2019.

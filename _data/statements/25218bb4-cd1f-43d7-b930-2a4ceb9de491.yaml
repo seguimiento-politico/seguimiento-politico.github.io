@@ -1,7 +1,6 @@
 id: 25218bb4-cd1f-43d7-b930-2a4ceb9de491
 type: promise
-parent_statement: be633563-ef70-41c5-8d55-6f433fb3b294
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Cultura
+parent_statement: be633563-ef70-41c5-8d55-6f433fb3b294
+parent_chapter: d83fae97-6483-46e8-ac0d-9980e0838a11
 text: Articularemos un programa estatal de apoyo a la creación e investigación cultural (artística, literaria, educativa o de cualquier disciplina, práctica o ámbito científico y de estudio como el patrimonio, la arqueología o la museología, entre otros) como primer motor de la articulación territorial.
+categories: Cultura

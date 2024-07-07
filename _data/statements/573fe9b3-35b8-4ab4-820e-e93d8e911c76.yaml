@@ -1,11 +1,12 @@
 id: 573fe9b3-35b8-4ab4-820e-e93d8e911c76
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 62
-categories: Infraestructuras
+parent_chapter: e7e32caa-a667-406f-a8b0-882e269ca655
 text: Impulsaremos de forma progresiva la creación de una red pública de vías exclusivas de uso para ciclistas (VEUC) que conecten las principales ciudades españolas y que sirvan también para el fomento del turismo rural y el conocimiento de la riqueza cultural de nuestro país.
+categories: Infraestructuras

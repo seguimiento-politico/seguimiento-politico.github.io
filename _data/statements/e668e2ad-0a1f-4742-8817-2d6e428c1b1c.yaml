@@ -1,6 +1,6 @@
 id: e668e2ad-0a1f-4742-8817-2d6e428c1b1c
-type: declaration
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_chapter: 5a78c83a-e028-4353-b943-e627cc312cee
+text: España debe emprender una reforma sistémica y estructural, acorde con la creciente diversidad étnico-racial, que asegure la protección de los derechos humanos, promoviendo el bienestar colectivo y abordando las situaciones de discriminación y vulnerabilidad en la que se encuentran las personas inmigradas y racializadas. Debemos facilitar el desarrollo de una sociedad cohesionada, donde todas las personas puedan perseguir su proyecto de vida y contribuir al desarrollo económico y social del país.
 categories: Migración
 topics: Racismo
-text: España debe emprender una reforma sistémica y estructural, acorde con la creciente diversidad étnico-racial, que asegure la protección de los derechos humanos, promoviendo el bienestar colectivo y abordando las situaciones de discriminación y vulnerabilidad en la que se encuentran las personas inmigradas y racializadas. Debemos facilitar el desarrollo de una sociedad cohesionada, donde todas las personas puedan perseguir su proyecto de vida y contribuir al desarrollo económico y social del país.

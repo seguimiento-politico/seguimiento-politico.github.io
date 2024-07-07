@@ -1,7 +1,6 @@
 id: 55c5fc6d-de1f-4682-ac03-08464264fa8a
 type: promise
-parent_statement: e6b9cc4f-1ca5-4583-87d8-9f9096276a25
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,6 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 114
+parent_statement: e6b9cc4f-1ca5-4583-87d8-9f9096276a25
+parent_chapter: 579c674b-2384-4748-a93a-92ef43822f21
+text: Planes contra la brecha de género y los estereotipos asociados a los sectores industriales, tecnológicos y digitales, para incrementar el talento femenino en estos ámbitos.
 categories: Derechos y servicios sociales
 topics: Formación profesional
-text: Planes contra la brecha de género y los estereotipos asociados a los sectores industriales, tecnológicos y digitales, para incrementar el talento femenino en estos ámbitos.

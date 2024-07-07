@@ -1,6 +1,6 @@
 id: 129f53e2-7e9d-4ebe-a8d8-b6c5b3c036ec
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 146
+parent_chapter: c794cb24-1c55-422f-8b6d-1ff29ad1ed87
+children_promises:
+- 9ca37f27-0c16-49f4-bd8d-f782ed15cd58
+- 2ab4b24c-81c2-4182-b764-4903ec7e6d2d
+- 0fd8230a-ebd8-4eb1-a9b0-8c8b49701c5f
+- ca7b4522-dff9-4d7b-b0eb-ad29d9454302
+- c7cb8ae7-50a5-43d6-8e87-ce96a01970e4
+children_statements: []
+title: Unas instituciones europeas transparentes al servicio de la ciudadanía
 categories: Política internacional
 topics: Europa
-title: Unas instituciones europeas transparentes al servicio de la ciudadanía
-has_children: true

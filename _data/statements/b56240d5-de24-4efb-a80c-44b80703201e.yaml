@@ -1,6 +1,6 @@
 id: b56240d5-de24-4efb-a80c-44b80703201e
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 29
+parent_chapter: de85e0ef-5ecc-4ca0-89b4-a741503b7353
+children_promises:
+- 498e5c15-a16c-4997-bde5-052119af0c28
+children_statements: []
+title: Convocaremos un grupo de trabajo con el sector privado y expertos para articular una regulación adecuada del acceso de menores a internet/redes sociales
 categories: Economía
 topics: Digitalización
-title: Convocaremos un grupo de trabajo con el sector privado y expertos para articular una regulación adecuada del acceso de menores a internet/redes sociales
-has_children: true

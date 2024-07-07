@@ -1,6 +1,6 @@
 id: 9ed8952a-6c1a-4510-bfe1-b840c416b3fc
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 159
+parent_chapter: bae32676-62e3-41fe-ad2f-7c223077ef62
+text: PNL sobre la financiación pública de los medios de comunicación privados que denuncia las grandes cantidades de dinero que los medios de comunicación reciben del Estado a través de la publicidad y comunicación institucional, generando una falta de independencia periodística y una vulneración de los derechos a la libertad ideológica y de expresión (abril 2020).
 categories: Derechos y servicios sociales
 topics: Libertad de expresión
-text: PNL sobre la financiación pública de los medios de comunicación privados que denuncia las grandes cantidades de dinero que los medios de comunicación reciben del Estado a través de la publicidad y comunicación institucional, generando una falta de independencia periodística y una vulneración de los derechos a la libertad ideológica y de expresión (abril 2020).

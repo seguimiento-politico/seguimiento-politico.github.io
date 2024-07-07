@@ -1,6 +1,6 @@
 id: 307f9c94-80f6-4e84-ade4-502f48ab7336
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 265
+parent_chapter: 2c0cbfe5-1ea8-4d91-9e0d-86e01b93d0ba
+text: Seguiremos reforzando las relaciones con todos los países del continente africano, basándonos en el diálogo de igual a igual, la promoción de la presencia de España, incluyendo la económica, y la cooperación en estrecha coordinación con los socios locales.
 categories: Política internacional
 topics: África
-text: Seguiremos reforzando las relaciones con todos los países del continente africano, basándonos en el diálogo de igual a igual, la promoción de la presencia de España, incluyendo la económica, y la cooperación en estrecha coordinación con los socios locales.

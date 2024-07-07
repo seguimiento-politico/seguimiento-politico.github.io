@@ -1,6 +1,6 @@
 id: b38b38dc-9f2b-4df4-a799-eb0fd3435515
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 18
+parent_chapter: 70e896cb-cc2e-4700-a649-38c82b332b6c
+children_promises:
+- 9eac3d11-d759-4a25-bdd1-4daa3618f728
+- 4c97d242-6080-4e8c-9126-b40872ffd9bd
+- b4da519f-7b69-494c-a332-e870bfd6f0f1
+children_statements: []
+title: Prestación universal por hijo
 categories:
 - Familia
-title: Prestación universal por hijo
-has_children: true

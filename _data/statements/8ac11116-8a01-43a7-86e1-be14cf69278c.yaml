@@ -1,7 +1,6 @@
 id: 8ac11116-8a01-43a7-86e1-be14cf69278c
 type: promise
-parent_statement: 89968e6d-43bd-4998-8bb1-ef53591d7759
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 89968e6d-43bd-4998-8bb1-ef53591d7759
+parent_chapter: d59fe7bc-7318-4c18-a232-113ef256f4dd
+text: Así pues, proponemos fomentar la creación de Espacios de Innovación Democrática, que podrán ubicarse en los diversos niveles locales, autonómicos y estatales de la Administración.
 categories: Democracia
 topics: Participación ciudadana
-text: Así pues, proponemos fomentar la creación de Espacios de Innovación Democrática, que podrán ubicarse en los diversos niveles locales, autonómicos y estatales de la Administración.

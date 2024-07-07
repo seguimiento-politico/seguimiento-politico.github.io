@@ -1,11 +1,12 @@
 id: 8f32d67e-d37e-4dbe-a11b-183a65a58102
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 53
-categories: Derechos y servicios sociales
+parent_chapter: bddbd6ad-f9fd-4a6b-b520-20fc50ae562e
 text: Coordinaremos los programas de las comunidades autónomas de Renta Mínima de Inserción con los programas nacionales de prestación asistencial de protección complementaria al desempleo de forma que simultáneamente garantizaremos la protección de la población en riesgo de exclusión e incentivaremos su incorporación al mercado laboral. Se tendrá en cuenta preferentemente los colectivos más vulnerables por edad y cargas familiares.
+categories: Derechos y servicios sociales

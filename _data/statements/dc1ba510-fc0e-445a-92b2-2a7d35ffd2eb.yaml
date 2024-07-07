@@ -1,6 +1,6 @@
 id: dc1ba510-fc0e-445a-92b2-2a7d35ffd2eb
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 116
+parent_chapter: 8729d1a9-b01f-4574-a420-531f5df975c7
+text: Pondremos en marcha un registro único de todas las convocatorias para promover la transparencia y la atracción y retorno de profesorado en el extranjero.
 categories: Educación
 topics: Universidad
-text: Pondremos en marcha un registro único de todas las convocatorias para promover la transparencia y la atracción y retorno de profesorado en el extranjero.

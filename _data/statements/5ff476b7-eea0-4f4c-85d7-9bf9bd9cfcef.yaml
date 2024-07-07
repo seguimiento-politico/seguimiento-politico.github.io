@@ -1,6 +1,6 @@
 id: 5ff476b7-eea0-4f4c-85d7-9bf9bd9cfcef
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 36
+parent_chapter: 3ef7238c-e72c-452a-b049-22b69433aaad
+text: Potenciaremos las vocaciones STEM (ciencia, tecnología, ingeniería y matemáticas), especialmente entre las mujeres jóvenes, e impulsaremos la adquisición de habilidades tecnológicas, desde la infancia, como vía hacia la empleabilidad.
 categories: Derechos y servicios sociales
 topics: Juventud
-text: Potenciaremos las vocaciones STEM (ciencia, tecnología, ingeniería y matemáticas), especialmente entre las mujeres jóvenes, e impulsaremos la adquisición de habilidades tecnológicas, desde la infancia, como vía hacia la empleabilidad.

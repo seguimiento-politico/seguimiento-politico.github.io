@@ -1,6 +1,6 @@
 id: 008dec80-6e39-432d-80c8-ab0e6e5783a5
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 79
-categories: Seguridad y defensa
+parent_chapter: ca5aaa88-30fb-47d6-8f78-cba68b133ea0
 text: ACTUALIZAREMOS EL PACTO ANTITERRORISTA Y REVISAREMOS EL PLAN ESTRATÉGICO NACIONAL DE LUCHA CONTRA LA RADICALIZACIÓN VIOLENTA para adecuarla a las nuevas amenazas. Incrementaremos los medios destinados a combatir el terrorismo en cualquiera de sus formas, reforzaremos el sistema de atención y reconocimiento a las víctimas del terrorismo y agilizaremos los trámites de retorno de los ciudadanos extranjeros que alienten la radicalización y el extremismo.
+categories: Seguridad y defensa

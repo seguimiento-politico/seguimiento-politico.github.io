@@ -1,6 +1,6 @@
 id: 94a41dc0-118f-4bc3-a319-fced59470ca5
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 37
-categories: Agua
+parent_chapter: 27c2e026-31b3-4fe9-873a-317121ffbe6c
 text: IMPULSAREMOS UN PLAN DE MODERNIZACIÓN DE LAS INFRAESTRUCTURAS DEL ESTADO, PRESAS Y CANALES, con el fin de adaptarlas a las necesidades del siglo XXI y de afrontar con todos los recursos disponibles la gestión del agua y los riesgos de inundaciones y sequías.
+categories: Agua

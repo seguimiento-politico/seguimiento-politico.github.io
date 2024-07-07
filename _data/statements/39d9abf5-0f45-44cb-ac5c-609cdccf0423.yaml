@@ -1,6 +1,6 @@
 id: 39d9abf5-0f45-44cb-ac5c-609cdccf0423
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 89
-categories: Sanidad
+parent_chapter: 17e4c412-8ac4-4992-848a-422903075ee3
+children_promises:
+- 90fe0f35-39ea-4c90-99e2-1cdb70cc1b5a
+- ef45755d-6856-460b-9d00-4cd6a0f898f2
+- e750b6af-3860-4771-8e8b-0afa1ff6631b
+- f694c51b-a803-4736-b228-e0044425a3bc
+- 8673d5d5-8c97-416c-82ec-154a73eeaf2f
+- c5e1afd3-4fea-42c5-b971-1dc5d9201c06
+children_statements: []
 title: Incremento de la inversión sanitaria pública.
-has_children: true
+categories: Sanidad

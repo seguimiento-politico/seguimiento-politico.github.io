@@ -1,6 +1,6 @@
 id: 3c89107f-dae6-4a9d-9de0-3797f8080d1c
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 34
-categories: Trabajo
+parent_chapter: 2e87f7f8-d5a3-47a6-82d5-b25f36e88929
+children_promises:
+- 227b8e0c-80ee-47ad-b5f8-53cb2ce100a2
+children_statements:
+- f9bf80f8-e4cb-4f8d-973c-860fe551c58b
 title: Asumiremos el reto de combatir la informalidad laboral y ampliaremos la protección social
-has_children: true
+categories: Trabajo

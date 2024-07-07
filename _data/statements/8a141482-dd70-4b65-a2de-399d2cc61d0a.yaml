@@ -1,6 +1,6 @@
 id: 8a141482-dd70-4b65-a2de-399d2cc61d0a
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 94
+parent_chapter: ae267b15-572b-4a52-9be9-c4ea3fb21554
+text: Reforzaremos la capacitación digital en áreas de reto demográfico, aprovechando la universalización de la cobertura de banda ancha y 4G/5G.
 categories: Territorio rural
 topics: I+D+i
-text: Reforzaremos la capacitación digital en áreas de reto demográfico, aprovechando la universalización de la cobertura de banda ancha y 4G/5G.

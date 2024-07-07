@@ -1,6 +1,6 @@
 id: 03f4b911-3d4d-4835-bc33-cea7be0030bc
-type: declaration
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 95
-categories: Política internacional
+parent_chapter: 65567664-6676-4d53-b234-fd4300e68287
 title: AFIANZAR LA SEGURIDAD EN EL NUEVO CONTEXTO
 text: Ocupar una posición de liderazgo e influencia global pasa por mantener el compromiso con las misiones internacionales de la mano de nuestros socios y aliados. Reforzaremos las Fuerzas Armadas como garantía del prestigio nacional, la disuasión y la defensa ante toda amenaza. España necesita un Gobierno compacto que no arroje dudas sobre sus lealtades en asuntos como la guerra de Ucrania o la promoción de la democracia, el pluralismo político y los derechos humanos allí donde se cuestionan.
+categories: Política internacional

@@ -1,6 +1,6 @@
 id: 9115cd3d-6bdc-48ec-9d14-d8f322768acf
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 79
-categories: Seguridad y defensa
+parent_chapter: ca5aaa88-30fb-47d6-8f78-cba68b133ea0
 text: GARANTIZAREMOS LA IMPRESCRIPTIBILIDAD DE LOS DELITOS DE TERRORISMO Y MODIFICAREMOS EL DELITO DE HOMENAJE y exaltación de los terroristas o sus organizaciones a fin de impedir actos de humillación a las víctimas.
+categories: Seguridad y defensa

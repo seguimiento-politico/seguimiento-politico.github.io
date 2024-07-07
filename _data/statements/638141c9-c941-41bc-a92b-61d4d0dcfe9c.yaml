@@ -1,6 +1,6 @@
 id: 638141c9-c941-41bc-a92b-61d4d0dcfe9c
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 17
+parent_chapter: 48b6e85e-eb0a-40f5-9aa9-d85750a8402d
+text: NOS COMPROMETEMOS A IMPULSAR UN ENTORNO JURÍDICO PREVISIBLE Y ESTABLE QUE FACILITE LA ASUNCIÓN DE RIESGOS POR LOS EMPRENDEDORES, y a promover una imagen positiva de los empresarios y de la empresa, tanto en el ámbito educativo como en el del reconocimiento social.
 categories: Economía
 topics: Desarrollo sostenible
-text: NOS COMPROMETEMOS A IMPULSAR UN ENTORNO JURÍDICO PREVISIBLE Y ESTABLE QUE FACILITE LA ASUNCIÓN DE RIESGOS POR LOS EMPRENDEDORES, y a promover una imagen positiva de los empresarios y de la empresa, tanto en el ámbito educativo como en el del reconocimiento social.

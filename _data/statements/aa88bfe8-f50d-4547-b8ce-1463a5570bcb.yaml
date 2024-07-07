@@ -1,6 +1,6 @@
 id: aa88bfe8-f50d-4547-b8ce-1463a5570bcb
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 33
-categories: Educación
+parent_chapter: 8dc56675-db4f-4450-b565-3d1b2de80c30
 text: 'Los hijos no son del Estado ni de los organismos supranacionales. Son de sus padres. Por ello, recuperaremos la legítima autoridad de los padres y su protagonismo en la educación de sus hijos, empezando por garantizar el conocimiento previo y aceptación de los padres de cualquier contenido afectivo-sexual o ideológico que puedan recibir sus hijos en el aula.Derogaremos la Ley Herodes y todas las leyes que vulneran los derechos de los padres a educar a sus hijos en libertad. Empezaremos por revertir una de sus más graves consecuencias: la presencia en el aula de activistas y asociaciones que pretendan adoctrinar ideológicamente a los niños pasando por encima de la autoridad de sus padres.'
+categories: Educación

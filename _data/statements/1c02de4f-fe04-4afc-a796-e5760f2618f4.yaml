@@ -1,7 +1,6 @@
 id: 1c02de4f-fe04-4afc-a796-e5760f2618f4
 type: promise
-parent_statement: 333e4c7c-9832-4749-bf0c-4b37be0996c2
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Vivienda
+parent_statement: 333e4c7c-9832-4749-bf0c-4b37be0996c2
+parent_chapter: 10dbdb5a-3231-46ed-86c9-0dc18f77040e
 text: Estableceremos limitaciones al alquiler turístico, de habitaciones y de temporada para que no se conviertan en una opción que sortee la aplicación de la Ley de Vivienda.
+categories: Vivienda

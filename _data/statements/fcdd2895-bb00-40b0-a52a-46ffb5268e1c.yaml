@@ -1,6 +1,6 @@
 id: fcdd2895-bb00-40b0-a52a-46ffb5268e1c
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 32
-categories: Trabajo
+parent_chapter: 8334330f-156c-4154-9c8c-27f20def2bb6
+children_promises:
+- 6352e849-10d6-4e8a-a9b1-328302c86b68
+children_statements: []
 title: Seguiremos impulsando la igualdad efectiva entre hombres y mujeres
-has_children: true
+categories: Trabajo

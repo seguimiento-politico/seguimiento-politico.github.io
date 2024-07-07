@@ -1,6 +1,6 @@
 id: 24a8ddd1-6bea-4650-a4f2-5685f19272fe
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 36
+parent_chapter: 95fe5738-0d35-4469-9411-62484575b47f
+text: Intensificaremos el compromiso del Gobierno en la lucha contra el terrorismo y en el reconocimiento y respeto a sus víctimas, introduciendo las modificaciones que la Ley 29/2011, de Reconocimiento y Protección Integral a las Víctimas del Terrorismo necesita para garantizar asistencia integral a las víctimas del terrorismo y a sus familias. Al reconocimiento y la memoria de las víctimas del terrorismo contribuirá la Fundación Centro para la Memoria de las Víctimas del Terrorismo (comúnmente conocida como “Centro Memorial”).
 categories: Seguridad y defensa
 topics: Terrorismo
-text: Intensificaremos el compromiso del Gobierno en la lucha contra el terrorismo y en el reconocimiento y respeto a sus víctimas, introduciendo las modificaciones que la Ley 29/2011, de Reconocimiento y Protección Integral a las Víctimas del Terrorismo necesita para garantizar asistencia integral a las víctimas del terrorismo y a sus familias. Al reconocimiento y la memoria de las víctimas del terrorismo contribuirá la Fundación Centro para la Memoria de las Víctimas del Terrorismo (comúnmente conocida como “Centro Memorial”).

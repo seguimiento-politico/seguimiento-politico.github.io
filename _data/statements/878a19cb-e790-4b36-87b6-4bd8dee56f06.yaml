@@ -1,6 +1,6 @@
 id: 878a19cb-e790-4b36-87b6-4bd8dee56f06
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 129
+parent_chapter: 36d24e1d-5fdd-486e-90c6-db666440d304
+text: Ampliaremos los programas de ayuda para la preparación de oposiciones a menores de 35 años, destinadas a garantizar la igualdad de oportunidades y la equidad en el acceso a la función pública.
 categories: Derechos y servicios sociales
 topics: Infancia y juventud
-text: Ampliaremos los programas de ayuda para la preparación de oposiciones a menores de 35 años, destinadas a garantizar la igualdad de oportunidades y la equidad en el acceso a la función pública.

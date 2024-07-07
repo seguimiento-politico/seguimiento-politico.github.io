@@ -1,7 +1,6 @@
 id: 7c3a99a0-81fb-4eab-9d55-ea9b87a83b32
 type: promise
-parent_statement: 9eae861a-24e8-4232-a592-a8a736d1e55d
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +8,9 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 9eae861a-24e8-4232-a592-a8a736d1e55d
+parent_chapter: f9ecf2a6-febf-46fc-a961-5572a6563078
+text: Asimismo, impulsaremos una socialización cultural en los centros educativos basada en el respeto de las múltiples diferencias y diversidades, incluyendo la sexual y de género, edad, origen social, nacional o étnico, lugar de procedencia o discapacidad, y basada también en el combate al acoso y a las violencias que se sufren por estas mismas razones.
 categories:
 - Cultura
 - Educación
-text: Asimismo, impulsaremos una socialización cultural en los centros educativos basada en el respeto de las múltiples diferencias y diversidades, incluyendo la sexual y de género, edad, origen social, nacional o étnico, lugar de procedencia o discapacidad, y basada también en el combate al acoso y a las violencias que se sufren por estas mismas razones.

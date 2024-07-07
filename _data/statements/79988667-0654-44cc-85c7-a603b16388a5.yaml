@@ -1,6 +1,6 @@
 id: 79988667-0654-44cc-85c7-a603b16388a5
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 66
+parent_chapter: dc33f933-12a0-4325-b761-1f9bf8c3ad0d
+children_promises:
+- 3bdd7475-5bdd-404e-a5f2-2a09b8d5c559
+- 18cb32d2-f459-4361-b984-6e088c08d6c7
+children_statements: []
+title: Transición energética justa y descarbonización en la pesca
 categories: Pesca y acuicultura
 topics: Desarrollo sostenible
-title: Transición energética justa y descarbonización en la pesca
-has_children: true

@@ -1,7 +1,6 @@
 id: 22de15dd-1bbe-4932-be15-62ed8daea825
 type: promise
-parent_statement: 2b3c4d5e-6f7g-8h9i-10j11-k12l13m14n15
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 2b3c4d5e-6f7g-8h9i-10j11-k12l13m14n15
+parent_chapter: 3ad176d1-1f6b-4cbb-aea4-e397f16166d6
+text: Plan Nacional de Turismo Rural y Ecoturismo, en consonancia con las demandas del sector, para ayudar a alcanzar el potencial pleno de España y contribuir a la transformación del sector desde coordenadas ecológicas ambiciosas.
 categories: Industria
 topics: Desarrollo sostenible
-text: Plan Nacional de Turismo Rural y Ecoturismo, en consonancia con las demandas del sector, para ayudar a alcanzar el potencial pleno de España y contribuir a la transformación del sector desde coordenadas ecológicas ambiciosas.

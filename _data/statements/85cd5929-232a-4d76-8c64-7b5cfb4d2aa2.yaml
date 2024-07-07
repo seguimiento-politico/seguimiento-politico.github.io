@@ -1,6 +1,6 @@
 id: 85cd5929-232a-4d76-8c64-7b5cfb4d2aa2
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 45
-categories: Comercio
+parent_chapter: 81738100-166b-4a15-8460-e2dbccc1f94d
 text: Respecto al comercio exterior, durante los últimos años, este sector ha ganado competitividad, la base de empresas exportadoras crece de forma continuada y el comercio de servicios ofrece todavía un gran potencial de crecimiento, demostrando que las empresas españolas han sido capaces de adaptarse, reinventarse y seguir compitiendo en los mercados internacionales.
+categories: Comercio

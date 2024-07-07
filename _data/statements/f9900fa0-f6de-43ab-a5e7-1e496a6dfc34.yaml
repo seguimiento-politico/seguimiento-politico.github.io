@@ -1,7 +1,6 @@
 id: f9900fa0-f6de-43ab-a5e7-1e496a6dfc34
 type: promise
-parent_statement: d1049d7f-6306-4cae-8ec9-f3bc53543714
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
+parent_statement: d1049d7f-6306-4cae-8ec9-f3bc53543714
+parent_chapter: 0aeec4ec-9240-4040-ba6b-c7f21bee3fb4
+text: Control de los cargos públicos antes, durante y después de su mandato. Reforzar normativa incompatibilidades de los políticos tras el abandono de los cargos públicos y la exigencia de devolución de los caudales públicos.
 categories:
 - Democracia
-text: Control de los cargos públicos antes, durante y después de su mandato. Reforzar normativa incompatibilidades de los políticos tras el abandono de los cargos públicos y la exigencia de devolución de los caudales públicos.

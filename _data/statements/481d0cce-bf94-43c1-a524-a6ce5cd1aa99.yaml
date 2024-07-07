@@ -1,11 +1,12 @@
 id: 481d0cce-bf94-43c1-a524-a6ce5cd1aa99
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 88
-categories: Seguridad y defensa
+parent_chapter: adfdbb68-8e6d-41fa-b953-fcd2789530ea
 text: Reforzaremos las unidades de Policía Nacional y Guardia Civil destinadas a tareas particularmente importantes como la ciberseguridad y la lucha contra los delitos digitales.
+categories: Seguridad y defensa

@@ -1,6 +1,6 @@
 id: 8d662128-75ad-429e-b27b-70e1049e574f
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 25
-categories: Educación
+parent_chapter: 1b166bbb-40b5-49ba-a4c8-75dad7a80fff
 text: Impulsaremos un nuevo modelo de escuela rural, para avanzar en equidad y en innovación educativa, que pueda ser también un elemento de referencia cultural en el medio rural.
+categories: Educación

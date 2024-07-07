@@ -1,6 +1,6 @@
 id: e0b9f75f-3df0-4984-ba38-3a7934f7ac19
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 220
-categories: Deporte
+parent_chapter: 296df921-76ce-4a26-8cc7-612e0c14d44b
 text: Lideraremos la consolidación del modelo de digitalización del deporte español a través de las federaciones deportivas, así como de otros agentes públicos o privados del sector deportivo.
+categories: Deporte

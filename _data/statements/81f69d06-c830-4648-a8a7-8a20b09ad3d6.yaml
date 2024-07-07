@@ -1,6 +1,6 @@
 id: 81f69d06-c830-4648-a8a7-8a20b09ad3d6
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 20
+parent_chapter: d5bc3185-7cac-4cbc-9ca4-df232e4c8a2f
+children_promises:
+- 3da6fe3f-4ebb-40f6-8681-c220cb72b3e2
+children_statements: []
+title: Víctimas
 categories:
 - Justicia
-title: Víctimas
-has_children: true

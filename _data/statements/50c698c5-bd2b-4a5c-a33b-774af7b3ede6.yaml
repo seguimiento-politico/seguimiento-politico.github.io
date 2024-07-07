@@ -1,7 +1,6 @@
 id: 50c698c5-bd2b-4a5c-a33b-774af7b3ede6
 type: promise
-parent_statement: d1aefdf4-e1c3-4b94-95f5-d38a214f4e33
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Cultura
+parent_statement: d1aefdf4-e1c3-4b94-95f5-d38a214f4e33
+parent_chapter: 3c3b6e77-c208-4e24-b285-18f9fd80d11c
 text: En segundo lugar, no se puede imponer ninguna restricción a los derechos y las libertades fundamentales sin una resolución judicial. La ley debe garantizar la protección de datos, la neutralidad en la red y la definición de Internet como un servicio universal gratuito para el conjunto de la ciudadanía. La normativa legal debe consolidar la ampliación del actual servicio para hacerlo universal y debe asegurar una velocidad de conexión mínima suficiente y ampliable en función de los avances tecnológicos.
+categories: Cultura

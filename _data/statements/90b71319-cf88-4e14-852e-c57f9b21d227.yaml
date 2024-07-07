@@ -1,6 +1,6 @@
 id: 90b71319-cf88-4e14-852e-c57f9b21d227
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 49
-categories: Comercio
+parent_chapter: 6f519b8a-1387-4b6d-9ac4-fa4d05568ba2
 text: Refuerzo de la acción diplomática para promocionar y proteger nuestros productos en el exterior, así como garantizar siempre el efectivo ejercicio de sus derechos. El Gobierno de España no puede tolerar las humillaciones y criminalización de sectores nacionales como el vino, la carne o la fresa, como Sánchez sí ha permitido.
+categories: Comercio

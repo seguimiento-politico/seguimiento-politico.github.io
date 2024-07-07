@@ -1,6 +1,6 @@
 id: 192aba29-c1d0-4538-b666-64d1e84073c5
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 79
-categories: Seguridad y defensa
+parent_chapter: ca5aaa88-30fb-47d6-8f78-cba68b133ea0
 text: REAFIRMAMOS NUESTRO COMPROMISO PERMANENTE CON LAS VÍCTIMAS DEL TERRORISMO y rechazamos cualquier tipo de negociación o acuerdo de gobierno con fuerzas políticas que, como Bildu, incluyan o hayan incluido a condenados por terrorismo en sus candidaturas o en sus estructuras orgánicas.
+categories: Seguridad y defensa

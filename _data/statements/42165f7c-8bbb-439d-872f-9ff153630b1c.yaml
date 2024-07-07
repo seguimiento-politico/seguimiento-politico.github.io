@@ -1,12 +1,13 @@
 id: 42165f7c-8bbb-439d-872f-9ff153630b1c
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 17
+parent_chapter: b019b40e-f2ac-4d25-bf11-14a963b4bdaf
+text: Crearemos un Blindaje Fiscal del ahorro para la jubilación que, entre otras cosas, extienda los beneficios fiscales de los planes de pensiones a la vivienda habitual y a los planes de ahorro.
 categories:
 - Impuestos y financiación pública
-text: Crearemos un Blindaje Fiscal del ahorro para la jubilación que, entre otras cosas, extienda los beneficios fiscales de los planes de pensiones a la vivienda habitual y a los planes de ahorro.

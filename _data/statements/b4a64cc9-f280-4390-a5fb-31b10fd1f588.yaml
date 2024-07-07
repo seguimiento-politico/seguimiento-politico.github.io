@@ -1,6 +1,6 @@
 id: b4a64cc9-f280-4390-a5fb-31b10fd1f588
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 28
+parent_chapter: 7050dcc2-4872-4bb3-bb77-ab8f5251301a
+text: En vez de políticas destinadas a reducir las emisiones de CO2, promover, gracias a la interconexión de las cuencas y la reforestación, el avance de la España verde y por tanto la absorción de CO2.
 categories:
 - Medioambiente
-text: En vez de políticas destinadas a reducir las emisiones de CO2, promover, gracias a la interconexión de las cuencas y la reforestación, el avance de la España verde y por tanto la absorción de CO2.

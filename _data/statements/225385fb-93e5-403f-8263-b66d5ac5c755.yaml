@@ -1,6 +1,6 @@
 id: 225385fb-93e5-403f-8263-b66d5ac5c755
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 76
-categories: Justicia
+parent_chapter: 0f87afc6-fcea-4ab1-b5a8-63765bc3744f
 text: APROBAREMOS UNA LEY INTEGRAL DE MEDIOS ALTERNATIVOS DE GESTIÓN DE CONFLICTOS. Fomentaremos su uso, impulsando la mediación tanto judicial como extrajudicial, la mediación administrativa y familiar, así como el arbitraje en el ámbito civil y mercantil, entre otros instrumentos.
+categories: Justicia

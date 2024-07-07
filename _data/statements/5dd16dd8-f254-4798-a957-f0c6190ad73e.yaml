@@ -1,7 +1,6 @@
 id: 5dd16dd8-f254-4798-a957-f0c6190ad73e
 type: promise
-parent_statement: ed80b344-b149-4e3c-bfa8-f6fa2e08e5e3
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: ed80b344-b149-4e3c-bfa8-f6fa2e08e5e3
+parent_chapter: de85e0ef-5ecc-4ca0-89b4-a741503b7353
+text: Pondremos en marcha la Agencia Española de Supervisión de la Inteligencia Artificial, con el fin de disponer de una autoridad para garantizar la protección de los derechos y valores democráticos, así como el alineamiento de los algoritmos con las exigencias del Reglamento Comunitario de Servicios Digitales.
 categories: Economía
 topics: Digitalización
-text: Pondremos en marcha la Agencia Española de Supervisión de la Inteligencia Artificial, con el fin de disponer de una autoridad para garantizar la protección de los derechos y valores democráticos, así como el alineamiento de los algoritmos con las exigencias del Reglamento Comunitario de Servicios Digitales.

@@ -1,0 +1,21 @@
+name: Desempleo
+other: []
+other_count: 0
+position_negative:
+- &id001
+  id: 07d9f40b-dc82-4c95-b067-ff8a50cb0e5d
+  parties:
+  - VOX
+position_negative_count: 1
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+statements_count: 1
+status_quo_negative:
+- *id001
+status_quo_negative_count: 1
+status_quo_positive: []
+status_quo_positive_count: 0

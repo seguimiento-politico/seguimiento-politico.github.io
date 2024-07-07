@@ -1,7 +1,6 @@
 id: 3bdb37cd-c694-43bc-bf56-d8e63d5442f8
 type: promise
-parent_statement: 11c2e30c-8ff0-4cb6-b4c5-35f12cc8259e
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 11c2e30c-8ff0-4cb6-b4c5-35f12cc8259e
+parent_chapter: 66cf6219-da39-4941-aa1a-c1b88e89ed00
+text: Garantizaremos la coordinación con otros medios de transporte sostenibles (bicicleta y transporte público) para facilitar el acceso desde los núcleos urbanos a las estaciones ferroviarias.
 categories: Transporte
 topics: Movilidad sostenible
-text: Garantizaremos la coordinación con otros medios de transporte sostenibles (bicicleta y transporte público) para facilitar el acceso desde los núcleos urbanos a las estaciones ferroviarias.

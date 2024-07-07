@@ -1,6 +1,6 @@
 id: baa63ffb-3b15-46d4-81a3-367b01b7ffed
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 33
-categories: Educación
+parent_chapter: 8dc56675-db4f-4450-b565-3d1b2de80c30
 text: Perseguiremos a las autoridades educativas que impidan el derecho de los alumnos a formarse en español o firefoque promuevan medidas de adoctrinamiento de los niños, implantando un sistema estatal de inspección educativa efectivo y con poderes suficientes, incluyendo un duro régimen sancionador.
+categories: Educación

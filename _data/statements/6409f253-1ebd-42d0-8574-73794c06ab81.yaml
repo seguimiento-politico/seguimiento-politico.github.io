@@ -1,7 +1,6 @@
 id: 6409f253-1ebd-42d0-8574-73794c06ab81
 type: promise
-parent_statement: 333e4c7c-9832-4749-bf0c-4b37be0996c2
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Vivienda
+parent_statement: 333e4c7c-9832-4749-bf0c-4b37be0996c2
+parent_chapter: 10dbdb5a-3231-46ed-86c9-0dc18f77040e
 text: Incrementaremos las ayudas al alquiler a nivel nacional mejorando la gestión del bono de alquiler joven para garantizar el pago mensual a las personas beneficiarias y estableceremos un bono de ayuda a los hipotecados. En el caso de las ayudas al alquiler, estas tienen que ir acompañadas necesariamente de una regulación de los precios y, en el caso de las hipotecas, es imprescindible apostar por el tipo fijo permitiendo a los consumidores, a través de una «portabilidad», el cambio de la cuota hipotecaria de tipo variable a tipo fijo. A su vez, estableceremos la posibilidad de que los consumidores puedan acogerse a medidas de reestructuración y quitas de la deuda hipotecaria.
+categories: Vivienda

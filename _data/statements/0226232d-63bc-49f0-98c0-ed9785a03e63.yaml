@@ -1,6 +1,6 @@
 id: 0226232d-63bc-49f0-98c0-ed9785a03e63
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 67
+parent_chapter: 4a4ec318-0db9-4da1-9515-2b36e808a75f
+children_promises:
+- 1a7a2a05-1760-49fa-a934-07244c63a8c5
+- bc7889a1-2707-41c9-b089-d7c8ec334f66
+- c44633f3-889d-4706-9c41-0b4859557b28
+- a44d7512-34b6-4c5a-a6a6-c42215387126
+children_statements: []
+title: Evaluación y monitorización de la inseguridad alimentaria
 categories: Consumo
 topics: Alimentación saludable
-title: Evaluación y monitorización de la inseguridad alimentaria
-has_children: true

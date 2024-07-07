@@ -1,7 +1,6 @@
 id: 836faa58-ca50-4e76-9296-2982ff9d6920
-type: declaration
-parent_statement: 7714abfd-1573-4f69-a0f1-9587106d0951
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -10,5 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 19
-categories: Nacionalismo y patriotismo
+parent_statement: 7714abfd-1573-4f69-a0f1-9587106d0951
+parent_chapter: 84c94514-c06f-4ab9-ba28-01c06429b154
 text: PNL en Pleno para la tipificación del delito de convocatoria de referéndum ilegal (diciembre 2022).
+categories: Nacionalismo y patriotismo

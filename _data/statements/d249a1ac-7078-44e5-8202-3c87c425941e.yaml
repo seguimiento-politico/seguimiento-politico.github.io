@@ -1,6 +1,6 @@
 id: d249a1ac-7078-44e5-8202-3c87c425941e
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 57
+parent_chapter: f332e39e-54bd-4a09-97bf-4e1a0c3e4bbd
+children_promises:
+- 45b3286d-85fd-4cc7-8769-8520e8687215
+- 2955f753-4feb-48e5-994a-6e812fe588e7
+children_statements: []
+title: Reforzaremos la conectividad de los centros de referencia en digitalización sectorial, como los polígonos industriales y centros logísticos.
 categories: Infraestructuras
 topics: Digitalización
-title: Reforzaremos la conectividad de los centros de referencia en digitalización sectorial, como los polígonos industriales y centros logísticos.
-has_children: true

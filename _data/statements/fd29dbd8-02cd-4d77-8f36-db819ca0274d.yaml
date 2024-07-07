@@ -1,7 +1,6 @@
 id: fd29dbd8-02cd-4d77-8f36-db819ca0274d
 type: promise
-parent_statement: afc01790-482d-4c79-b8ec-f42d307b4349
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: afc01790-482d-4c79-b8ec-f42d307b4349
+parent_chapter: 5ac453aa-319d-4ea3-b4b6-7a63e3dde3ff
+text: Por ello, es necesario regular el desarrollo de etiquetados inclusivos, como el etiquetado en braille.
 categories: Consumo
 topics: Consumo sostenible
-text: Por ello, es necesario regular el desarrollo de etiquetados inclusivos, como el etiquetado en braille.

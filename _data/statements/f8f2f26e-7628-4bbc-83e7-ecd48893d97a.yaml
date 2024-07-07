@@ -1,6 +1,6 @@
 id: f8f2f26e-7628-4bbc-83e7-ecd48893d97a
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 80
+parent_chapter: 8bd5a5ab-7c10-4a53-bb6e-7390d895efc4
+text: Impulsaremos las actuaciones que permitan el establecimiento de autopistas ferroviarias, de manera que, mediante de la colaboración entre el transporte por carretera y el transporte ferroviario de mercancías, se puedan establecer soluciones logísticas eficientes y descarbonizadas.
 categories: Transporte
 topics: Ferrocarril, Transporte mercancías
-text: Impulsaremos las actuaciones que permitan el establecimiento de autopistas ferroviarias, de manera que, mediante de la colaboración entre el transporte por carretera y el transporte ferroviario de mercancías, se puedan establecer soluciones logísticas eficientes y descarbonizadas.

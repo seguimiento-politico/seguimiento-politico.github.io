@@ -1,11 +1,12 @@
 id: a931ef17-3da0-4027-9a22-0c5f0eed787d
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 33
-categories: Educación
+parent_chapter: d01d08b0-ad16-47ca-a6fa-7d638f061cfa
 text: Impulsaremos el Estatuto del Docente, donde se contemple la reforma de los Planes de Formación, el acceso al profesorado a través de un sistema equivalente al MIR y también el conjunto de la carrera profesional. Apoyaremos las titulaciones de magisterio bilingües (inglés-español) en las universidades públicas y aprobaremos un Programa de becas para facilitar estos estudios.
+categories: Educación

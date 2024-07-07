@@ -1,6 +1,6 @@
 id: 58f35fcb-ea64-4237-8887-873ce650a38f
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 20
+parent_chapter: d5bc3185-7cac-4cbc-9ca4-df232e4c8a2f
+children_promises:
+- 3d5f8868-d1b3-43fb-b934-81a3ea2c73ee
+- 11247d9f-098c-4c67-992e-0344d5eacb66
+children_statements: []
+title: Depuración de responsabilidades políticas e inhabilitacion
 categories:
 - Justicia
-title: Depuración de responsabilidades políticas e inhabilitacion
-has_children: true

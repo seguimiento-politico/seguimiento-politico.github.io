@@ -1,6 +1,6 @@
 id: f25402f4-a7e1-4537-95f6-d90138d2df94
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 28
+parent_chapter: 7050dcc2-4872-4bb3-bb77-ab8f5251301a
+text: Incrementar las penas contra los pirómanos y contra cualquier agresión grave que atente contra la masa forestal española.
 categories:
 - Medioambiente
-text: Incrementar las penas contra los pirómanos y contra cualquier agresión grave que atente contra la masa forestal española.

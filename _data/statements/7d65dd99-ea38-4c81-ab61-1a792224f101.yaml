@@ -1,6 +1,6 @@
 id: 7d65dd99-ea38-4c81-ab61-1a792224f101
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_chapter: a581c9c5-0a30-40c8-a0fd-7ea095eb9bd7
+text: La violencia de género es una cuestión de Estado para el Partido Socialista. Es uno de los principales problemas estructurales del país, al que debemos responder con contundencia y recursos, económicos, materiales y humanos, desde las responsabilidades gubernamentales e institucionales, y también desde el compromiso democrático y feminista.
 categories: Seguridad y defensa
 topics: Violencia de género
-text: La violencia de género es una cuestión de Estado para el Partido Socialista. Es uno de los principales problemas estructurales del país, al que debemos responder con contundencia y recursos, económicos, materiales y humanos, desde las responsabilidades gubernamentales e institucionales, y también desde el compromiso democrático y feminista.

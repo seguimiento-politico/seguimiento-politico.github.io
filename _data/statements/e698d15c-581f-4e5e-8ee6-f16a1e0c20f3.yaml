@@ -1,7 +1,6 @@
 id: e698d15c-581f-4e5e-8ee6-f16a1e0c20f3
 type: promise
-parent_statement: 666ba341-3af0-4d82-91c8-a9a3f0dbe3e7
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 666ba341-3af0-4d82-91c8-a9a3f0dbe3e7
+parent_chapter: 2d06e79f-d667-441b-b7cf-513970c6ccde
+text: Exigiremos en las compras públicas de madera y productos forestales los sistemas de certificación forestal sostenible.
 categories: Medioambiente
 topics: Biodiversidad
-text: Exigiremos en las compras públicas de madera y productos forestales los sistemas de certificación forestal sostenible.

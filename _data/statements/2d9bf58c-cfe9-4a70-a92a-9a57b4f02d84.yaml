@@ -1,6 +1,6 @@
 id: 2d9bf58c-cfe9-4a70-a92a-9a57b4f02d84
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 33
+parent_chapter: 67b24183-2dae-435d-bba9-9afbacb01267
+text: Seguiremos avanzando en la consolidación del Pacto Social por el Sida, puesto en marcha en noviembre de 2018, impulsado desde el Ministerio de Sanidad, Consumo y Bienestar Social y consensuado con los agentes sociales e institucionales y que incluye medidas para garantizar la igualdad de trato, la no discriminación y los plenos derechos de las personas afectadas.
 categories: Derechos y servicios sociales
 topics: Igualdad
-text: Seguiremos avanzando en la consolidación del Pacto Social por el Sida, puesto en marcha en noviembre de 2018, impulsado desde el Ministerio de Sanidad, Consumo y Bienestar Social y consensuado con los agentes sociales e institucionales y que incluye medidas para garantizar la igualdad de trato, la no discriminación y los plenos derechos de las personas afectadas.

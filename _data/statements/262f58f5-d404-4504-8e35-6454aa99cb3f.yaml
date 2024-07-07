@@ -1,6 +1,6 @@
 id: 262f58f5-d404-4504-8e35-6454aa99cb3f
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 226
+parent_chapter: 6e53a21f-6625-47b4-9b6e-487838baa479
+text: Consolidaremos el Bono Alquiler Joven como elemento esencial que facilite el acceso al alquiler asequible.
 categories:
 - Juventud
 - Incentivos, ayudas y subvenciones
-text: Consolidaremos el Bono Alquiler Joven como elemento esencial que facilite el acceso al alquiler asequible.

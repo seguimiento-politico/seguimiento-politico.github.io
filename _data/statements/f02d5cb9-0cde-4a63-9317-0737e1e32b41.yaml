@@ -1,7 +1,6 @@
 id: f02d5cb9-0cde-4a63-9317-0737e1e32b41
-type: declaration
-parent_statement: a9922dd3-a75b-419e-9c93-5ff31d81893d
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -9,6 +8,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 11
+parent_statement: a9922dd3-a75b-419e-9c93-5ff31d81893d
+parent_chapter: 49a1f009-be5a-4a44-ac48-45c1f040a528
+text: España, en definitiva, necesita las políticas económicas del Partido Popular. Porque sólo el Partido Popular puede ofrecer un horizonte de certidumbre y esperanza para la economía española, para generar empleo de calidad, asegurar la prosperidad compartida, y mejorar el Estado del Bienestar, como demostramos en 1996 y en 2011, cuando heredamos situaciones de crisis e incertidumbre que entonces, como ahora, los gobiernos socialistas, se empeñaban en negar.
 categories: Economía
 topics: Desarrollo sostenible
-text: España, en definitiva, necesita las políticas económicas del Partido Popular. Porque sólo el Partido Popular puede ofrecer un horizonte de certidumbre y esperanza para la economía española, para generar empleo de calidad, asegurar la prosperidad compartida, y mejorar el Estado del Bienestar, como demostramos en 1996 y en 2011, cuando heredamos situaciones de crisis e incertidumbre que entonces, como ahora, los gobiernos socialistas, se empeñaban en negar.

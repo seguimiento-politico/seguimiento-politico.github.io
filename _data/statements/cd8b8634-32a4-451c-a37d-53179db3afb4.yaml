@@ -1,7 +1,6 @@
 id: cd8b8634-32a4-451c-a37d-53179db3afb4
 type: promise
-parent_statement: 6b3a9a07-372f-462d-a2a9-82d2c7af7b1c
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 6b3a9a07-372f-462d-a2a9-82d2c7af7b1c
+parent_chapter: b3f71622-6590-4ea3-b839-4254df880fe7
+text: El fomento de la formación profesional agraria en las zonas urbanas.
 categories: Territorio rural
 topics: Igualdad
-text: El fomento de la formación profesional agraria en las zonas urbanas.

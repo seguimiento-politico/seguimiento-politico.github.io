@@ -1,7 +1,6 @@
 id: 175bc0cb-09ba-4a20-8e8b-15a34099a6d9
-type: declaration
-parent_statement: e7349a00-b099-4573-9dc4-bfb7debb30ca
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Sanidad
+parent_statement: e7349a00-b099-4573-9dc4-bfb7debb30ca
+parent_chapter: 17e4c412-8ac4-4992-848a-422903075ee3
 text: Pondremos en marcha un Plan de Choque en Salud Mental que aborde los problemas relacionados con el sufrimiento psíquico desde una perspectiva comunitaria, interdisciplinar y sensible a los determinantes sociales de la salud mental.
+categories: Sanidad

@@ -1,6 +1,6 @@
 id: 24e69fd2-ef8f-4664-b4da-fd8d0cbf357e
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 117
+parent_chapter: d59fe7bc-7318-4c18-a232-113ef256f4dd
+children_promises:
+- 06007331-eafe-4943-807a-2e5a1aa40031
+- 40565cb2-16d0-4f40-9b6b-588e62f48515
+- 7eb7c1b7-1678-41dc-835b-1562acdae429
+- 762b5184-cbda-4689-9427-73051750ac79
+children_statements:
+- 99e8b8f0-2800-4508-9745-b9446cfa8891
+title: 'Democratización de las políticas públicas: incorporación de la inteligencia colectiva.'
 categories: Democracia
 topics: Participación ciudadana
-title: 'Democratización de las políticas públicas: incorporación de la inteligencia colectiva.'
-has_children: true

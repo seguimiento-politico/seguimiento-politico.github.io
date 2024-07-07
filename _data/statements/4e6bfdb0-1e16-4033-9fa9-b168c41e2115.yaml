@@ -1,7 +1,6 @@
 id: 4e6bfdb0-1e16-4033-9fa9-b168c41e2115
 type: promise
-parent_statement: d7d93058-6f1a-41e7-be4e-f528ff40fa23
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: d7d93058-6f1a-41e7-be4e-f528ff40fa23
+parent_chapter: d59fe7bc-7318-4c18-a232-113ef256f4dd
+text: así como una campaña comunicativa sobre los valores de la democracia y su importancia a la hora de afrontar los retos actuales. Es importante mostrar que la mejor forma de abordar problemas como el cambio climático, la pobreza o la salud es a través del diálogo democrático.
 categories: Democracia
 topics: Participación ciudadana
-text: así como una campaña comunicativa sobre los valores de la democracia y su importancia a la hora de afrontar los retos actuales. Es importante mostrar que la mejor forma de abordar problemas como el cambio climático, la pobreza o la salud es a través del diálogo democrático.

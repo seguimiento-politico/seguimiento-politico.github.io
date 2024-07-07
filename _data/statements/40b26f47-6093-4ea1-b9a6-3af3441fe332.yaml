@@ -1,7 +1,6 @@
 id: 40b26f47-6093-4ea1-b9a6-3af3441fe332
 type: promise
-parent_statement: a2a4e947-8df4-49df-b49d-e1927ee9f036
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Industria
+parent_statement: a2a4e947-8df4-49df-b49d-e1927ee9f036
+parent_chapter: bdc3bec8-826b-4422-99f9-ce6bb7d37ec5
 text: Gobernar la digitalización. La revolución digital en marcha va a suponer un importante vector de aumento de la productividad gracias a la eliminación de intermediarios y la sustitución de trabajos físicos, repetitivos o formalizables por robots y softwares de gestión. Estos incrementos de productividad deben invertirse en facilitar transiciones suaves y justas entre los empleos que desaparezcan y las nuevas ocupaciones que nazcan. Así como en transformar el tiempo de trabajo en tiempo de ocio y descanso para disfrutar una buena vida. Otros cuatro retos que plantea la digitalización son, en primer lugar, la fiscalidad de los beneficios derivados del nuevo valor intangible generado por las redes sociales digitales y sus bases de datos masivos y su facilidad para ser deslocalizados en territorios de baja tributación. En segundo lugar, es crítico preservar los derechos laborales de las personas trabajadoras vinculadas a plataformas digitales, B2B y P2P, que se encuentran amenazadas por el intento de algunas empresas de transformar su relación laboral en una relación laboral por cuenta propia. En tercer lugar, las políticas públicas deben garantizar la accesibilidad a una digitalización universal para evitar las brechas digitales, que son uno de los factores que más contribuyen a la desigualdad y a la exclusión social. En cuarto lugar, la transición digital debe ser complementaria en todo momento con la transición verde, reduciendo la huella ecológica y el consumo masivo de materias primas críticas asociados a la digitalización.
+categories: Industria

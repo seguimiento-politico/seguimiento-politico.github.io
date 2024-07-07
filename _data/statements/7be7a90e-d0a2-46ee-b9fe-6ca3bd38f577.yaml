@@ -1,6 +1,6 @@
 id: 7be7a90e-d0a2-46ee-b9fe-6ca3bd38f577
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 162
+parent_chapter: a1efcde1-0a8f-4714-a322-82c28d8f6a7e
+text: En coordinación con las CCAA, estableceremos un protocolo de atención sanitaria que facilite la intervención sin sesgos de género, con especial atención a aquellas enfermedades o afecciones que presentan síntomas diferenciados por sexo.
 categories: Sanidad
 topics: Igualdad
-text: En coordinación con las CCAA, estableceremos un protocolo de atención sanitaria que facilite la intervención sin sesgos de género, con especial atención a aquellas enfermedades o afecciones que presentan síntomas diferenciados por sexo.

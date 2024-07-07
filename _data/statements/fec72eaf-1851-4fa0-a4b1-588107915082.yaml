@@ -1,6 +1,6 @@
 id: fec72eaf-1851-4fa0-a4b1-588107915082
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 129
+parent_chapter: 36d24e1d-5fdd-486e-90c6-db666440d304
+text: Pondremos en marcha bonos y el acceso a posibilidades de aprendizaje de idiomas para que personas jóvenes puedan realizar cursos en el extranjero o estudiar y perfeccionar idiomas.
 categories: Derechos y servicios sociales
 topics: Infancia y juventud
-text: Pondremos en marcha bonos y el acceso a posibilidades de aprendizaje de idiomas para que personas jóvenes puedan realizar cursos en el extranjero o estudiar y perfeccionar idiomas.

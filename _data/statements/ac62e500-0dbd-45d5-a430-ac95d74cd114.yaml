@@ -1,7 +1,6 @@
 id: ac62e500-0dbd-45d5-a430-ac95d74cd114
 type: promise
-parent_statement: 621196b4-d3a4-4f89-b64d-4b0e7f150d91
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Urbanismo y ciudades
+parent_statement: 621196b4-d3a4-4f89-b64d-4b0e7f150d91
+parent_chapter: da4a5e62-c6b6-45b0-a08b-611f6d470a08
 text: Se garantizará el respeto de los derechos humanos en la Cañada Real Galiana de Madrid, restableciendo el suministro eléctrico y abriendo una mesa de seguimiento participada por sus habitantes para realizar contratos de suministro, en cumplimiento de las recomendaciones del Defensor del Pueblo.
+categories: Urbanismo y ciudades

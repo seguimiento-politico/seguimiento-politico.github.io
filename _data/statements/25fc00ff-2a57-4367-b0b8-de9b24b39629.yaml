@@ -1,6 +1,6 @@
 id: 25fc00ff-2a57-4367-b0b8-de9b24b39629
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 154
+parent_chapter: b4d1ed09-83dc-408f-a777-fc5670b54d39
+text: Mejoraremos la atención y protección de las víctimas de violencia machista, con especial consideración a las víctimas de sumisión química y a aquellas con necesidades de especial protección, mediante recursos especializados.
 categories: Seguridad y defensa
 topics: Violencia de género
-text: Mejoraremos la atención y protección de las víctimas de violencia machista, con especial consideración a las víctimas de sumisión química y a aquellas con necesidades de especial protección, mediante recursos especializados.

@@ -1,6 +1,6 @@
 id: 73eed1b5-c8e0-4e32-bed1-4c2c69c9f828
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 223
+parent_chapter: ac350b9c-6bf2-4017-a573-8420cb922467
+text: 11.000 del Fondo Social de Viviendas acordado con las Entidades Bancarias.
 categories: Vivienda
 topics: Alquiler
-text: 11.000 del Fondo Social de Viviendas acordado con las Entidades Bancarias.

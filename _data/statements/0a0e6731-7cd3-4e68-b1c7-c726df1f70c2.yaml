@@ -1,6 +1,6 @@
 id: 0a0e6731-7cd3-4e68-b1c7-c726df1f70c2
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 90
+parent_chapter: 4e80fbfe-7243-4928-a683-3eb2b6cff183
+children_promises:
+- e196665f-8a72-4625-a901-0201abde3802
+- 5e6b1250-7525-48cc-90fc-35a6e6ec74da
+- d70a7a10-b3ad-49dd-a232-94c9b771ccd9
+children_statements: []
+text: Fomentaremos la preservación del patrimonio natural en espacios con especial interés ambiental
 categories: Medioambiente
 topics: Biodiversidad
-text: Fomentaremos la preservación del patrimonio natural en espacios con especial interés ambiental
-has_children: true

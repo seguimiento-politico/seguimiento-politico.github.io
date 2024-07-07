@@ -1,7 +1,6 @@
 id: 0368c96a-a398-43e7-aedc-43c4d31b5940
 type: promise
-parent_statement: 96a8c5d1-dbb7-4b83-9a64-afaba5cf9c91
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,8 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 157
+parent_statement: 96a8c5d1-dbb7-4b83-9a64-afaba5cf9c91
+parent_chapter: fa3cbb6b-1ec5-4044-b60a-7e8b530ca3e3
+text: Investigación y seguimiento para evaluar y ajustar las acciones que se lleven a cabo.
 categories: Derechos y servicios sociales
 topics:
 - Juventud
 - Pornografía
-text: Investigación y seguimiento para evaluar y ajustar las acciones que se lleven a cabo.

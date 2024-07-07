@@ -1,0 +1,25 @@
+name: Francia
+other:
+- &id001
+  id: b5060f26-90e1-496c-8278-3e89c5f38f55
+  parties:
+  - PSOE
+- &id002
+  id: 3f62eebc-f39f-4c67-9303-da5dfe96bc21
+  parties:
+  - VOX
+other_count: 2
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- *id002
+statements_count: 2
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

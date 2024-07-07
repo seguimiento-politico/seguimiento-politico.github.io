@@ -1,7 +1,6 @@
 id: ffeed4a8-6661-44a8-a7e6-532c6a6001ec
 type: promise
-parent_statement: 0f015a64-c4d7-4cae-8d8d-68aa18e1ad80
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 0f015a64-c4d7-4cae-8d8d-68aa18e1ad80
+parent_chapter: 4a4ec318-0db9-4da1-9515-2b36e808a75f
+text: Uso de equipamientos públicos de proximidad (economatos cooperativos, centros de distribución de alimentos para redes asociativas, entre otros) en los que se pueda disponer de cocina y comedor colectivos y que pudieran vincularse a despensas comunitarias y a redes de distribución alternativa de alimentos agroecológicos.
 categories: Consumo
 topics: Alimentación saludable
-text: Uso de equipamientos públicos de proximidad (economatos cooperativos, centros de distribución de alimentos para redes asociativas, entre otros) en los que se pueda disponer de cocina y comedor colectivos y que pudieran vincularse a despensas comunitarias y a redes de distribución alternativa de alimentos agroecológicos.

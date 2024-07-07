@@ -1,7 +1,6 @@
 id: 09d3f25d-08f8-4afb-8cba-d580c2230660
 type: promise
-parent_statement: 988c9846-7cee-4b5a-b6e7-78752203eb80
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: 988c9846-7cee-4b5a-b6e7-78752203eb80
+parent_chapter: 5d726eb0-d9d8-487a-b54a-76273c1b0a4a
+text: Mejoraremos la accesibilidad de la ciudadanía y de las empresas a los servicios públicos a través de su digitalización desarrollando el Plan de Digitalización de las Administraciones Públicas.
 categories: Economía
 topics: Digitalización
-text: Mejoraremos la accesibilidad de la ciudadanía y de las empresas a los servicios públicos a través de su digitalización desarrollando el Plan de Digitalización de las Administraciones Públicas.

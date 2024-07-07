@@ -1,12 +1,13 @@
 id: 3339e16b-2e35-44f6-beb1-025b7d8c6727
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 30
+parent_chapter: 4f4736d6-ca72-42e2-b85c-f0d1537c0682
+text: Potenciaremos una mayor distribución del impacto del turismo en todo el territorio nacional, por ello promoveremos Planes específicos de desarrollo para destinos no maduros con potencial turístico que generen valor económico al destino. Estos planes contemplarán el fortalecimiento del sector a través de estrategias de innovación de productos y servicios, políticas de dinamización y digitalización para asegurar el crecimiento del turismo de interior para desestacionalizar la demanda y el apoyo a la digitalización del territorio rural que ayude a su desarrollo turístico.
 categories:
 - Turismo
-text: Potenciaremos una mayor distribución del impacto del turismo en todo el territorio nacional, por ello promoveremos Planes específicos de desarrollo para destinos no maduros con potencial turístico que generen valor económico al destino. Estos planes contemplarán el fortalecimiento del sector a través de estrategias de innovación de productos y servicios, políticas de dinamización y digitalización para asegurar el crecimiento del turismo de interior para desestacionalizar la demanda y el apoyo a la digitalización del territorio rural que ayude a su desarrollo turístico.

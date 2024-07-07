@@ -1,6 +1,6 @@
 id: 8677f1d1-fca2-4a14-936c-d59cb90d5feb
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,6 +9,11 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 3
-categories: Nacionalismo y patriotismo
+parent_chapter: 0c19cae3-98a2-45ba-a607-41aadce4ec63
+children_promises:
+- b80e354a-f98c-4c6e-825e-61c27b7f0bc3
+- fa8dc34e-1b18-4c6f-a4ee-1b8d16bc35a5
+- cbb2209c-277f-4cb1-92be-a11b17564639
+children_statements: []
 title: Centralización del Estado
-has_children: true
+categories: Nacionalismo y patriotismo

@@ -1,12 +1,13 @@
 id: 3d588418-e77f-4756-9839-035814e78e0e
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 26
+parent_chapter: a376d79e-bd30-4273-bfd7-dcba6c72b615
+text: Impulsaremos la modernización de los servicios públicos de empleo, reforzando la colaboración público privada y extendiendo el uso de los sistemas más avanzados para mejorar la eficacia y eficiencia en la tramitación de prestaciones y en los procesos de orientación, elaboración de itinerarios personalizados e intermediación con desempleados.
 categories:
 - Trabajo
-text: Impulsaremos la modernización de los servicios públicos de empleo, reforzando la colaboración público privada y extendiendo el uso de los sistemas más avanzados para mejorar la eficacia y eficiencia en la tramitación de prestaciones y en los procesos de orientación, elaboración de itinerarios personalizados e intermediación con desempleados.

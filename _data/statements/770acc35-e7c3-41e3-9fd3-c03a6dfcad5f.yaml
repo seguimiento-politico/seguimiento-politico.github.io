@@ -1,6 +1,6 @@
 id: 770acc35-e7c3-41e3-9fd3-c03a6dfcad5f
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 10
+parent_chapter: 80f33f13-c365-4098-ac18-6210795cdb15
+children_promises:
+- 339f6e87-1c2d-4529-81a1-dc109457f654
+children_statements: []
+title: Desarrollar un Plan de la Energía
 categories:
 - Economía
-title: Desarrollar un Plan de la Energía
-has_children: true

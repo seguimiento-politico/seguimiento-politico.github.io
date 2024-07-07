@@ -1,7 +1,6 @@
 id: 99b74e96-d102-4e8b-8243-4fc4c3dd9d4a
 type: promise
-parent_statement: a9a821be-0550-4a59-b184-7d2173fccc42
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Justicia
+parent_statement: a9a821be-0550-4a59-b184-7d2173fccc42
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
 text: Es necesaria una reformulación dialogada de la situación profesional del personal con aprovechamiento racional de conocimientos y clara distribución competencial sin rigideces, estableciendo las compensaciones procedentes, la especialización por materias, la adaptación a las formas de gestión derivadas de la aparición de múltiples desarrollos informáticos, repensando la actual estructura por categorías, la formación continuada y especializada sobre competencias y las habilidades relacionadas con su puesto de trabajo, la vinculación del plan de carrera profesional a los planes de formación y el diseño de una política retributiva objetivada que permita reconocer una mayor o mejor dedicación o un mejor perfil.
+categories: Justicia

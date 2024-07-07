@@ -1,7 +1,6 @@
 id: f9bf80f8-e4cb-4f8d-973c-860fe551c58b
-type: declaration
-parent_statement: 3c89107f-dae6-4a9d-9de0-3797f8080d1c
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Trabajo
+parent_statement: 3c89107f-dae6-4a9d-9de0-3797f8080d1c
+parent_chapter: 2e87f7f8-d5a3-47a6-82d5-b25f36e88929
 text: La informalidad sigue siendo un obstáculo importante y una de las causas profundas que impiden lograr una protección inclusiva, adecuada y eficaz de todas las personas trabajadoras. La economía informal tiene con secuencias negativas para el desarrollo de empresas sostenibles, incluidas las microempresas y las pequeñas y medianas empresas, los ingresos públicos y el ámbito de actuación de los Gobiernos. La protección social de las personas trabajadoras sigue siendo un desafío para muchas personas au tónomas, inclusive en la economía formal. Por otra parte, el riesgo de exclusión de la protección de las personas trabajadoras o de que esta sea inadecuada es mayor para aquellas que son objeto de discriminación por motivo de género o de otra índole, incluida la discriminación interseccional, así como para las personas trabajadoras de grupos profesionales o sectores específicos, o las que par ticipan en determinadas modalidades de trabajo, incluidas las personas trabajadoras del cuidado, del servicio doméstico y del sector agrícola. A su vez, determinadas modalidades de trabajo, como el empleo temporal, el trabajo en plataformas y el teletrabajo, que pueden haber brindado nuevas oportunidades para la creación y el acceso al empleo de las personas trabajadoras que se enfrentan a mayores barreras para entrar y permanecer en el mercado de trabajo, también plantean nuevos desafíos en el marco de la protección social.
+categories: Trabajo

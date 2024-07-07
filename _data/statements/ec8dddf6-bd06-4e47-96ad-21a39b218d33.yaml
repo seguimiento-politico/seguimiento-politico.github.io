@@ -1,6 +1,6 @@
 id: ec8dddf6-bd06-4e47-96ad-21a39b218d33
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 20
+parent_chapter: 5ac453aa-319d-4ea3-b4b6-7a63e3dde3ff
+children_promises:
+- 2b048546-0b24-4332-84b2-594bd8c2870e
+- 0dcb294b-d656-47f9-97b3-33ad258eb8e5
+- fc7f7e6b-f839-4526-9891-70418b979de5
+children_statements: []
+title: Refuerzo de los derechos de las personas consumidoras.
 categories: Consumo
 topics: Consumo sostenible
-title: Refuerzo de los derechos de las personas consumidoras.
-has_children: true

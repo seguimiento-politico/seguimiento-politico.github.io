@@ -1,7 +1,6 @@
 id: 1dfe7cbb-6c9f-471e-84ef-b9ba1abac22a
 type: promise
-parent_statement: bfd029db-538b-4c76-97d3-31f41566fdef
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Política internacional
+parent_statement: bfd029db-538b-4c76-97d3-31f41566fdef
+parent_chapter: 4d3afa99-1301-4519-a703-6dfe49d7e832
 text: Plantearemos una interlocución pacífica, autónoma y crítica con China, en defensa de nuestros intereses y principios pero alejados de toda veleidad militar, a través de una diplomacia activa y exigente para evitar la confrontación entre grandes potencias.
+categories: Política internacional

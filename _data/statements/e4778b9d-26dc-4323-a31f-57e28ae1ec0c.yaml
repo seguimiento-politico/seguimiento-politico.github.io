@@ -1,12 +1,13 @@
 id: e4778b9d-26dc-4323-a31f-57e28ae1ec0c
 type: promise
-parent_statement: b26486c3-f271-4b07-83b4-478d7fe23d68
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 39
-categories: Sanidad
+parent_statement: b26486c3-f271-4b07-83b4-478d7fe23d68
+parent_chapter: dcb6b10d-0b49-4143-9511-53be3f00f338
 text: Un calendario de vacunación único en toda España. La vacunación Infantil es un derecho de todos los niños que se exigirá para acceder al sistema educativo. Contaremos con los profesionales para las revisiones y actualizaciones de los calendarios y planificaremos el suministro plurianual de vacunas junto a la industria.
+categories: Sanidad

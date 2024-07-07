@@ -1,6 +1,6 @@
 id: 5e8c85c8-1a7b-49d2-b6a7-147de6b5a89f
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 270
-categories: Seguridad y Defensa
+parent_chapter: ff200f89-fcf9-409d-908e-4ca3fd75edb8
 text: Reforzaremos el presupuesto específico de Defensa que permita desarrollar los proyectos de planeamiento y programas del Ministerio, así como el cumplimiento del incremento de las inversiones de Defensa en el marco de los compromisos internacionales asumidos por España.
+categories: Seguridad y Defensa

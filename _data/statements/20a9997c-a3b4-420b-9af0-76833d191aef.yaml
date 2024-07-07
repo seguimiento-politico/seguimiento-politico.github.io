@@ -1,7 +1,6 @@
 id: 20a9997c-a3b4-420b-9af0-76833d191aef
 type: promise
-parent_statement: 09154c6e-d12f-4e42-9467-4af0644ac479
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +8,9 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 09154c6e-d12f-4e42-9467-4af0644ac479
+parent_chapter: f9ecf2a6-febf-46fc-a961-5572a6563078
+text: se equiparará a los estudiantes con los universitarios en cuanto al acceso a becas, ayudas, convocatorias o premios de fin de grado;
 categories:
 - Cultura
 - Educación
-text: se equiparará a los estudiantes con los universitarios en cuanto al acceso a becas, ayudas, convocatorias o premios de fin de grado;

@@ -1,7 +1,6 @@
 id: bc6e9367-d1af-4f9e-878d-73630a7cb613
 type: promise
-parent_statement: 8a90648e-b288-410f-8b47-155e346168cb
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 8a90648e-b288-410f-8b47-155e346168cb
+parent_chapter: c794cb24-1c55-422f-8b6d-1ff29ad1ed87
+text: Aseguraremos la concreción normativa de la Declaración Europea sobre los Derechos yPrincipios Digitales para reafirmar la gobernanza democrática y abierta de la red y blindar los derechos laborales asociados a la economía digital.
 categories: Política internacional
 topics: Europa
-text: Aseguraremos la concreción normativa de la Declaración Europea sobre los Derechos yPrincipios Digitales para reafirmar la gobernanza democrática y abierta de la red y blindar los derechos laborales asociados a la economía digital.

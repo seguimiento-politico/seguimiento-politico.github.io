@@ -1,6 +1,6 @@
 id: bed18c5d-c860-415b-8f6d-c13017c6d950
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,7 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_chapter: 6e53a21f-6625-47b4-9b6e-487838baa479
+text: 'La juventud y sus dificultades específicas para acceder a la vivienda, tanto en alquiler como en compra, ocupan una parte importante de las políticas del gobierno y de los y las socialistas. Para dar respuesta a la demanda de este colectivo:'
 categories:
 - Juventud
 - Incentivos, ayudas y subvenciones
-text: 'La juventud y sus dificultades específicas para acceder a la vivienda, tanto en alquiler como en compra, ocupan una parte importante de las políticas del gobierno y de los y las socialistas. Para dar respuesta a la demanda de este colectivo:'

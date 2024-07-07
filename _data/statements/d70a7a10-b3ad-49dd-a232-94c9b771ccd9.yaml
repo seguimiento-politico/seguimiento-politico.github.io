@@ -1,7 +1,6 @@
 id: d70a7a10-b3ad-49dd-a232-94c9b771ccd9
 type: promise
-parent_statement: 0a0e6731-7cd3-4e68-b1c7-c726df1f70c2
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,6 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 91
+parent_statement: 0a0e6731-7cd3-4e68-b1c7-c726df1f70c2
+parent_chapter: 4e80fbfe-7243-4928-a683-3eb2b6cff183
+text: Desplegando la Estrategia Nacional de Lucha contra la Desertificación, ya aprobada.
 categories: Medioambiente
 topics: Biodiversidad
-text: Desplegando la Estrategia Nacional de Lucha contra la Desertificación, ya aprobada.

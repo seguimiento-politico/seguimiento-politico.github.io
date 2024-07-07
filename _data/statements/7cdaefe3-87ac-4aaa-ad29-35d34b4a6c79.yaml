@@ -1,6 +1,6 @@
 id: 7cdaefe3-87ac-4aaa-ad29-35d34b4a6c79
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 74
+parent_chapter: 88c43ae6-3b46-453b-88f6-05040af07103
+text: PARA INCREMENTAR LA TRANSPARENCIA Y FACILITAR LA PARTICIPACIÓN DE LA CIUDADANÍA en la elaboración de las leyes, abriremos cauces de participación telemática en las cámaras legislativas que posibiliten la presentación de propuestas relativas al contenido de las proposiciones y proyectos de ley que se estén tramitando por parte de todas aquellas personas y asociaciones que estén interesadas en hacerlo. Las propuestas serán de conocimiento de todos los grupos parlamentarios antes de que se cierre el correspondiente plazo de enmiendas.
 categories: Democracia
 topics: Podel legislativo
-text: PARA INCREMENTAR LA TRANSPARENCIA Y FACILITAR LA PARTICIPACIÓN DE LA CIUDADANÍA en la elaboración de las leyes, abriremos cauces de participación telemática en las cámaras legislativas que posibiliten la presentación de propuestas relativas al contenido de las proposiciones y proyectos de ley que se estén tramitando por parte de todas aquellas personas y asociaciones que estén interesadas en hacerlo. Las propuestas serán de conocimiento de todos los grupos parlamentarios antes de que se cierre el correspondiente plazo de enmiendas.

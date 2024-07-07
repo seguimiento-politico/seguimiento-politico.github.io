@@ -1,7 +1,6 @@
 id: fb1eb59a-e87d-49fc-8329-2fd34355fbdb
-type: declaration
-parent_statement: d3e40b38-d4b7-4e17-a10f-4a2a38dbae76
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,4 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: d3e40b38-d4b7-4e17-a10f-4a2a38dbae76
+parent_chapter: 27ff313e-64fe-41ca-bc72-c44fafac350d
 text: esponsable del 27% de las emisiones en España, es uno de los sectores prioritarios para acelerar la descarbonización.
+topics: Cambio climático

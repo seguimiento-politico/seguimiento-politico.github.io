@@ -1,6 +1,6 @@
 id: cb18aace-5e5e-4c45-8a57-ec23dacc8445
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 246
+parent_chapter: d05356ab-7241-4db3-b89b-606c6702afe6
+text: Defenderemos la supresión de los aforamientos de los cargos públicos en los casos ajenos al ejercicio de la actividad propia de su cargo.
 categories: Democracia
 topics: Gobernanza y transparencia
-text: Defenderemos la supresión de los aforamientos de los cargos públicos en los casos ajenos al ejercicio de la actividad propia de su cargo.

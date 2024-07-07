@@ -1,7 +1,6 @@
 id: 8e5d6db2-475f-443f-bc82-218ca1226019
 type: promise
-parent_statement: 1c2ac2b9-1ed3-4e0e-bb37-5a9bff0980a1
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,8 +8,10 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 1c2ac2b9-1ed3-4e0e-bb37-5a9bff0980a1
+parent_chapter: 1d2802d7-3c25-4a37-96cf-85b8e7ed4986
+text: Estará orientada a producir información, contextualizada social y culturalmente, para mejorar la dinámica de los centros, el proceso de enseñanza y aprendizaje, y los procesos de construcción del conocimiento, sin dejar a nadie fuera del sistema educativo.
 categories: Educación
 topics:
 - Igualdad
 - Inclusión
-text: Estará orientada a producir información, contextualizada social y culturalmente, para mejorar la dinámica de los centros, el proceso de enseñanza y aprendizaje, y los procesos de construcción del conocimiento, sin dejar a nadie fuera del sistema educativo.

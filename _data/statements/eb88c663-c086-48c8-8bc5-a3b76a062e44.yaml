@@ -1,6 +1,6 @@
 id: eb88c663-c086-48c8-8bc5-a3b76a062e44
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,17 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 163
+parent_chapter: 2d8f8a77-d340-4d0b-800e-27e24210ed8a
+children_promises:
+- 257544dc-a2a6-49aa-a616-fb2ab38eb5ab
+- c1bcca97-6057-4451-b8bf-bfc10a2dbb8c
+- 93eb2e3f-7f67-4bbe-8f67-a3e91e7a4929
+- 5ce647ba-2e04-4cee-925e-10c8d27318e3
+- 551fc1c0-3a37-42eb-b2c6-47cd48d6d459
+- ddaac7c9-159c-4583-8cd2-9550052a5985
+- 9bff72ca-6eb4-483f-9c9d-593982887828
+- 24a551b2-9854-475d-ae19-f74d5f87ae70
+children_statements: []
+title: Potenciación de la ciencia abierta y ciudadana y los intercambios con los agentes sociales de los contextos locales.
 categories: Educación
 topics: Universidad
-title: Potenciación de la ciencia abierta y ciudadana y los intercambios con los agentes sociales de los contextos locales.
-has_children: true

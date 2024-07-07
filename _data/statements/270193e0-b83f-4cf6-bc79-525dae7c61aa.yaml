@@ -1,7 +1,6 @@
 id: 270193e0-b83f-4cf6-bc79-525dae7c61aa
 type: promise
-parent_statement: 8bbac04b-d2d0-4a8f-9c58-e58565be8de4
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 8bbac04b-d2d0-4a8f-9c58-e58565be8de4
+parent_chapter: 6fa4a5cf-07ee-4bc7-9747-5ca7f92803fb
+text: Por ejemplo, contribuiremos a facilitar el acceso a un alojamiento digno, cuando así se requiera por razones socioeconómicas o situación de vulnerabilidad en los procesos de movilidad estatal o internacional, mediante plazas en residencias estudiantiles a precios asequibles, intercambios o ayudas.
 categories: Educación
 topics: Universidad
-text: Por ejemplo, contribuiremos a facilitar el acceso a un alojamiento digno, cuando así se requiera por razones socioeconómicas o situación de vulnerabilidad en los procesos de movilidad estatal o internacional, mediante plazas en residencias estudiantiles a precios asequibles, intercambios o ayudas.

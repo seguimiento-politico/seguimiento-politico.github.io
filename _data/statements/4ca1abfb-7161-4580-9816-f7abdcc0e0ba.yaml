@@ -1,6 +1,6 @@
 id: 4ca1abfb-7161-4580-9816-f7abdcc0e0ba
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 33
+parent_chapter: 8930526d-d2e6-4209-b5eb-45f218e2a0c8
+text: Renovaremos y blindaremos el Pacto de Estado contra la Violencia de Género, para reforzar su eficacia y abordar de manera integral las formas de violencia no suficientemente reguladas en la actual  idad (la trata con fines de explotación sexual, el acoso sexual, el acoso laboral por razón de sexo, los ciberdelitos o la violencia vicaria).
 categories: Derechos y servicios sociales
 topics: Igualdad
-text: Renovaremos y blindaremos el Pacto de Estado contra la Violencia de Género, para reforzar su eficacia y abordar de manera integral las formas de violencia no suficientemente reguladas en la actual  idad (la trata con fines de explotación sexual, el acoso sexual, el acoso laboral por razón de sexo, los ciberdelitos o la violencia vicaria).

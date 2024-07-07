@@ -1,6 +1,6 @@
 id: ef5fdde7-c77e-4777-b39c-24c67f78362d
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 129
+parent_chapter: 36d24e1d-5fdd-486e-90c6-db666440d304
+text: Promoveremos la oferta de plazas de FP y las opciones de formación para alcanzar tasas de titulados similares a la media europea.
 categories: Derechos y servicios sociales
 topics: Infancia y juventud
-text: Promoveremos la oferta de plazas de FP y las opciones de formación para alcanzar tasas de titulados similares a la media europea.

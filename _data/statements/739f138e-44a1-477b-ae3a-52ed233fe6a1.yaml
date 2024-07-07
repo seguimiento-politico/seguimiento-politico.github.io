@@ -1,7 +1,6 @@
 id: 739f138e-44a1-477b-ae3a-52ed233fe6a1
-type: declaration
-parent_statement: ba13b5fd-1c70-478d-8680-304748d7321a
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -9,5 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 95
-categories: Política internacional
+parent_statement: ba13b5fd-1c70-478d-8680-304748d7321a
+parent_chapter: 65567664-6676-4d53-b234-fd4300e68287
 text: Nuestro país ha mirado siempre al exterior. La huella de España se deja notar en todo el mundo. Es un legado del que los españoles podemos sentir orgullo y que, al mismo tiempo, conlleva un alto grado de responsabilidad. De España se espera un papel protagonista en la escena internacional, como miembro de la Unión Europea, con una profunda relación de vecindad con Marruecos y Argelia, y una realidad atlántica, tanto por geografía como por los vínculos históricos y personales con Iberoamérica y los acuerdos con Estados Unidos y la pertenencia a la OTAN. La defensa constructiva de nuestros intereses nacionales en el exterior es una tarea compatible con la cooperación en todos los retos que la humanidad tiene en común.
+categories: Política internacional

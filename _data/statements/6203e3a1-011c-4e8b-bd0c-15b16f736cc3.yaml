@@ -1,7 +1,6 @@
 id: 6203e3a1-011c-4e8b-bd0c-15b16f736cc3
 type: promise
-parent_statement: cd2ee9d6-4172-49db-ba19-58cdde0054c9
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Seguridad y defensa
+parent_statement: cd2ee9d6-4172-49db-ba19-58cdde0054c9
+parent_chapter: 66b190ef-617c-438a-adf3-a3c9f707719b
 text: La judicatura y la fiscalía recibirán formación especializada para actuar contra los abusos en este ámbito. Se reforzará la capacidad fiscalizadora de las defensorías del pueblo mediante la atribución de carácter vinculante a sus propuestas.
+categories: Seguridad y defensa

@@ -1,7 +1,6 @@
 id: e2183f18-f01f-43c7-b969-ff897efda827
 type: promise
-parent_statement: 59d72249-1858-4045-8c98-3b9b9862eac2
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 59d72249-1858-4045-8c98-3b9b9862eac2
+parent_chapter: 5a78c83a-e028-4353-b943-e627cc312cee
+text: En el futuro procedimiento, los consulados y las embajadas de España recibirán las solicitudes de manera presencial o virtual y garantizarán el acceso físico a la representación diplomática o habilitarán un espacio seguro para atender a las personas solicitantes.
 categories: Migración
 topics: Racismo
-text: En el futuro procedimiento, los consulados y las embajadas de España recibirán las solicitudes de manera presencial o virtual y garantizarán el acceso físico a la representación diplomática o habilitarán un espacio seguro para atender a las personas solicitantes.

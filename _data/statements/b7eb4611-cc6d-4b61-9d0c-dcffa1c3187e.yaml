@@ -1,6 +1,6 @@
 id: b7eb4611-cc6d-4b61-9d0c-dcffa1c3187e
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 265
+parent_chapter: 62ad5f8c-010a-4c71-8499-981a85fbad00
+text: En Oriente Medio, seguiremos promoviendo y apoyando los esfuerzos dirigidos a retomar las conversaciones de paz, necesarias para avanzar en la solución de los dos Estados, que permita a israelíes y palestinos vivir en paz y seguridad, libertad y democracia. Apostamos por un diálogo serio y sincero que derive en una solución viable y justa al conflicto y que garantice una paz estable y duradera en la región.
 categories: Política internacional
 topics: Mediterráneo
-text: En Oriente Medio, seguiremos promoviendo y apoyando los esfuerzos dirigidos a retomar las conversaciones de paz, necesarias para avanzar en la solución de los dos Estados, que permita a israelíes y palestinos vivir en paz y seguridad, libertad y democracia. Apostamos por un diálogo serio y sincero que derive en una solución viable y justa al conflicto y que garantice una paz estable y duradera en la región.

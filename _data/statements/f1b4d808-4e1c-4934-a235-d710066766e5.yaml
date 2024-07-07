@@ -1,7 +1,6 @@
 id: f1b4d808-4e1c-4934-a235-d710066766e5
 type: promise
-parent_statement: ce38d7ac-46ee-4a8f-a235-b09b6fe38ea8
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +8,9 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: ce38d7ac-46ee-4a8f-a235-b09b6fe38ea8
+parent_chapter: 515b8d5e-bb59-4239-b0e5-1a45b7cb18f0
+text: 'Impulsaremos a través del PERTE Chip la cadena de valor de la industria en distintas fases: concepción, diseño, producción de chips y dinamización de la fabricación de productos electrónicos TIC, mediante la puesta en marcha de las líneas de ayudas contempladas en su elaboración, reforzando especialmente todo el sector innovador, alineándolo con la Chips Act europea y generando dinámicas en la cadena de valor que logren el círculo virtuoso de fomentar el establecimiento de empresas punteras, la creación de empresas innovadoras y una importante iniciativa de I+D+i que las alimente.'
 categories:
 - Industria
 - Ciencia y tecnología
-text: 'Impulsaremos a través del PERTE Chip la cadena de valor de la industria en distintas fases: concepción, diseño, producción de chips y dinamización de la fabricación de productos electrónicos TIC, mediante la puesta en marcha de las líneas de ayudas contempladas en su elaboración, reforzando especialmente todo el sector innovador, alineándolo con la Chips Act europea y generando dinámicas en la cadena de valor que logren el círculo virtuoso de fomentar el establecimiento de empresas punteras, la creación de empresas innovadoras y una importante iniciativa de I+D+i que las alimente.'

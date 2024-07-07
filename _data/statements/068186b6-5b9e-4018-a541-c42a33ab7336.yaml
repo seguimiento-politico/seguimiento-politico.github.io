@@ -1,6 +1,6 @@
 id: 068186b6-5b9e-4018-a541-c42a33ab7336
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 247
+parent_chapter: 457e4b72-749a-45c4-89c2-5a8567249561
+text: 'Las y los socialistas apostamos por garantizar el derecho de acceso al servicio público de Justicia, que es, a su vez, garantía para el ejercicio de los derechos y las libertades de todas y de todos. Por ello, hemos puesto las bases para cerrar las brechas territoriales, económicas y digitales en el acceso al servicio público de Justicia en España. El resultado es una Justicia que pone en el centro a las personas: el Plan Justicia 2030.'
 categories: Justicia
 topics: Modernización
-text: 'Las y los socialistas apostamos por garantizar el derecho de acceso al servicio público de Justicia, que es, a su vez, garantía para el ejercicio de los derechos y las libertades de todas y de todos. Por ello, hemos puesto las bases para cerrar las brechas territoriales, económicas y digitales en el acceso al servicio público de Justicia en España. El resultado es una Justicia que pone en el centro a las personas: el Plan Justicia 2030.'

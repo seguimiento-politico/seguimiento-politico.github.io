@@ -1,7 +1,6 @@
 id: 721d254e-2a3b-427d-86f2-00eab0d11b78
 type: promise
-parent_statement: 6828ba91-7f9c-4750-bcbd-83532d761d36
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: 6828ba91-7f9c-4750-bcbd-83532d761d36
+parent_chapter: a507bf09-1837-436d-9255-f7223e1c8c0f
+text: Impulsaremos una reforma de las reglas fiscales europeas que permita conjugar la estabilidad presupuestaria a lo largo del ciclo y la consolidación de la deuda pública con el crecimiento económico, la creación de empleo y la agenda de inversiones sociales, verdes y digitales.
 categories: Política internacional
 topics: Europa
-text: Impulsaremos una reforma de las reglas fiscales europeas que permita conjugar la estabilidad presupuestaria a lo largo del ciclo y la consolidación de la deuda pública con el crecimiento económico, la creación de empleo y la agenda de inversiones sociales, verdes y digitales.

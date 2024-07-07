@@ -1,6 +1,6 @@
 id: 79382a85-5b5c-4d69-b1d9-2f8ca543e94e
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 55
+parent_chapter: a1dfe650-2088-4c4e-94c1-8c745c016ac2
+text: AVANZAREMOS EN LA ADAPTACIÓN DE LA JUSTICIA A LOS CASOS DE VIOLENCIA CONTRA LA INFANCIA, mediante la especialización de juzgados.
 categories: Derechos y servicios sociales
 topics: Infancia y juventud
-text: AVANZAREMOS EN LA ADAPTACIÓN DE LA JUSTICIA A LOS CASOS DE VIOLENCIA CONTRA LA INFANCIA, mediante la especialización de juzgados.

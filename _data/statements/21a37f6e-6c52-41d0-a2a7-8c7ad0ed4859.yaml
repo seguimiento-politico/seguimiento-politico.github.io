@@ -1,6 +1,6 @@
 id: 21a37f6e-6c52-41d0-a2a7-8c7ad0ed4859
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 37
-categories: Impuestos y financiación pública
+parent_chapter: ea2982af-8671-4013-b30b-3217bd021e2a
+children_promises:
+- b1145da3-e44f-46bf-acdd-a4713fd69d08
+children_statements:
+- 00fc3de2-37dc-4c18-b3a6-43b4bb62aea5
 title: Un sistema fiscal que permita un reparto más justo y equilibrado de las consecuencias de las crisis.
-has_children: true
+categories: Impuestos y financiación pública

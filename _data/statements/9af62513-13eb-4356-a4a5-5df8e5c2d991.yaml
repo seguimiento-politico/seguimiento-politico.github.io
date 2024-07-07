@@ -1,12 +1,13 @@
 id: 9af62513-13eb-4356-a4a5-5df8e5c2d991
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 91
+parent_chapter: 8ad64579-192d-4408-ab5e-dd2a67a74227
+text: Aprobaremos la creación de un Estatuto de protección temporal para venezolanos. El Estatuto les concederá, entre otras cuestiones, un permiso de residencia temporal, desplazamiento libre por el territorio y un permiso de trabajo.
 categories: Migración
 topics: Inmigración
-text: Aprobaremos la creación de un Estatuto de protección temporal para venezolanos. El Estatuto les concederá, entre otras cuestiones, un permiso de residencia temporal, desplazamiento libre por el territorio y un permiso de trabajo.

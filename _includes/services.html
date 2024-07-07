@@ -1,0 +1,209 @@
+{% assign documents = site.data.documents %}
+{% assign tracks = site.data.tracks %}
+
+<div class="container">
+    <div class="row row-cols-1 row-cols-md-2 align-items-md-center g-5 py-5">
+        <div class="col d-flex flex-column align-items-start gap-2">
+            <h2 class="fw-bold text-body-emphasis">Programas electorales</h2>
+            <p class="text-body-secondary">Las declaraciones políticas son aquellas afirmaciones realizadas por los partidos políticos en sus programas electorales. Describen su visión de las cosas, sobre lo que están de acuerdo y lo que no, lo que debería hacerse al respecto y lo que se comprometen a hacer. </p>
+            <p class="text-body-secondary">Te ofrecemos una alternativa más simple y cómoda que los PDFs, directamente navega y usa la barra lateral para moverte fácilmente entre los distintos capítulos del programa. Al texto original hemos añadido etiquetas de los temas principales de cada párrafo. Si lo prefieres también te aportamos el enlace directo al documento original.</p>
+            <a href="/docs/" class="btn btn-primary">ver programas </a>
+        </div>
+
+        <div class="col">
+            <div class="row row-cols-1 row-cols-sm-2 g-4">
+                <div class="col d-flex flex-column gap-2">
+                    <div class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-4 rounded-3">
+                    <svg class="bi" width="1em" height="1em">
+                        <use xlink:href="#collection"></use>
+                    </svg>
+                    </div>
+                    <h4 class="fw-semibold mb-0 text-body-emphasis">Partidos políticos</h4>
+                    <p class="text-body-secondary">Consulta los programas de un partido en particular.</p>
+                </div>
+
+                <div class="col d-flex flex-column gap-2">
+                    <div class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-4 rounded-3">
+                    <svg class="bi" width="1em" height="1em">
+                        <use xlink:href="#gear-fill"></use>
+                    </svg>
+                    </div>
+                    <h4 class="fw-semibold mb-0 text-body-emphasis">Elecciones</h4>
+                    <p class="text-body-secondary">Consulta los programas de distintos partidos para unas elecciones concretas.</p>
+                </div>
+
+                <div class="col d-flex flex-column gap-2">
+                    <div class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-4 rounded-3">
+                    <svg class="bi" width="1em" height="1em">
+                        <use xlink:href="#speedometer"></use>
+                    </svg>
+                    </div>
+                    <h4 class="fw-semibold mb-0 text-body-emphasis">Temas</h4>
+                    <p class="text-body-secondary">Identifica los temas concretos que cada declaración trata.</p>
+                </div>
+
+                <div class="col d-flex flex-column gap-2">
+                    <div class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-4 rounded-3">
+                    <svg class="bi" width="1em" height="1em">
+                        <use xlink:href="#table"></use>
+                    </svg>
+                    </div>
+                    <h4 class="fw-semibold mb-0 text-body-emphasis">Ideología</h4>
+                    <p class="text-body-secondary">Identifica la posición política sobre cada tema.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div id="carouselDocs" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-inner">
+                {% for doc in documents reversed %}
+                    {% if doc[1].publication_date %}
+                        {% assign date = doc[1].publication_date %}
+                    {% else %}
+                        {% assign date = doc[1].election_date %}
+                    {% endif %}
+
+                    {% if forloop.first %} 
+                        {% assign active = "active" %} 
+                    {% else %} 
+                        {% assign active = "" %} 
+                    {% endif %}
+
+                    {% assign mod = forloop.index | modulo:3 %}
+                    
+
+                    {% if forloop.first or mod == 1 %}
+                        <div class="carousel-item {{active}}">
+                            <div class="row align-items-center">
+                    {% endif %}
+                    
+                    <div class="col-4">
+                        <img src="/assets/images/documents/{{ doc[1].id }}.png" class="d-block" alt="{{ doc[1].parties }} - {{ date | date: '%Y'}}">
+                    </div>
+
+                    {% if forloop.last or mod == 0 %}
+                            </div>
+                        </div>  
+                    {% endif %}
+                {% endfor %}
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselDocs" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Siguiente</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselDocs" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Anterior</span>
+            </button>
+        </div>
+    </div>
+
+    <div class="row row-cols-1 row-cols-md-2 align-items-md-center g-5 py-5">
+        <div class="col d-flex flex-column align-items-start gap-2">
+            <h2 class="fw-bold text-body-emphasis">Compromisos políticos</h2>
+            <p class="text-body-secondary">Son aquellas declaraciones políticas que contienen un componente de planificación de acción a futuro, es decir, lo que se comprometen los partidos a hacer.</p>
+            <p class="text-body-secondary">Elimina el resto de información y céntrate unicamente en las propuestas para ahorrar tiempo. Esta es la mejor opción de comparar los planes de gobierno de distintos partidos. </p>
+            <a href="/tracks/" class="btn btn-primary">ver compromisos electorales</a>
+        </div>
+
+        <div class="col">
+            <div class="row row-cols-1 row-cols-sm-2 g-4">
+                <div class="col d-flex flex-column gap-2">
+                    <div class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-4 rounded-3">
+                    <svg class="bi" width="1em" height="1em">
+                        <use xlink:href="#collection"></use>
+                    </svg>
+                    </div>
+                    <h4 class="fw-semibold mb-0 text-body-emphasis">Simplifica</h4>
+                    <p class="text-body-secondary">Consulta sólo los compromisos, excluye lo demás.</p>
+                </div>
+
+                <div class="col d-flex flex-column gap-2">
+                    <div class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-4 rounded-3">
+                    <svg class="bi" width="1em" height="1em">
+                        <use xlink:href="#gear-fill"></use>
+                    </svg>
+                    </div>
+                    <h4 class="fw-semibold mb-0 text-body-emphasis">Filtra</h4>
+                    <p class="text-body-secondary">Elige las temáticas que te interesan, fuera el resto.</p>
+                </div>
+
+                <div class="col d-flex flex-column gap-2">
+                    <div class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-4 rounded-3">
+                    <svg class="bi" width="1em" height="1em">
+                        <use xlink:href="#table"></use>
+                    </svg>
+                    </div>
+                    <h4 class="fw-semibold mb-0 text-body-emphasis">Ideología</h4>
+                    <p class="text-body-secondary">Identifica la posición política sobre cada tema.</p>
+                </div>
+
+                <div class="col d-flex flex-column gap-2">
+                    <div class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-4 rounded-3">
+                    <svg class="bi" width="1em" height="1em">
+                        <use xlink:href="#speedometer"></use>
+                    </svg>
+                    </div>
+                    <h4 class="fw-semibold mb-0 text-body-emphasis">Seguimiento</h4>
+                    <p class="text-body-secondary">Comprueba el grado de cumplimiento de cada promesa.</p>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div id="carouselTracks" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-inner">
+                {% for track in tracks %}
+                    {% if track[1].draft == true %}
+                        {% continue %}
+                    {% endif %}
+
+                    {% assign track_data = track[1] %}
+
+                    {% assign slug = track_data.name | slugify %}
+                    
+                    {% assign teasers = site.images_path | append: 'teasers/' %}
+                    {% assign teaser = teasers | append: slug | append: '.png' %}     
+
+                    {% assign type_label = track_data.items_type | append: 's_label' %}
+
+                    {% if forloop.first %} 
+                        {% assign active = "active" %} 
+                    {% else %} 
+                        {% assign active = "" %} 
+                    {% endif %}
+
+                    {% assign mod = forloop.index | modulo:3 %}
+
+                    {% if forloop.first or mod == 1 %}
+                        <div class="carousel-item {{active}}">
+                            <div class="row align-items-center">
+                    {% endif %}
+                                <div class="col-3">
+                                    <img src="{{ teaser }}" class="d-block" alt="{{ track_data.name }}">
+                                </div>
+                    {% if forloop.last or mod == 0 %}
+                            </div>
+                        </div>  
+                    {% endif %}      
+
+                    
+
+                {% endfor %}
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselTracks" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true" style="color: black;"></span>
+                <span class="visually-hidden">Siguiente</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselTracks" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true" style="color: black;"></span>
+                <span class="visually-hidden">Anterior</span>
+            </button>
+        </div>
+    </div>
+
+</div>
+

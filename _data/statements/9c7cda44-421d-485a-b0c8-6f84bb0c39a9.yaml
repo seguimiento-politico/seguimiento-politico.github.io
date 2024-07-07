@@ -1,7 +1,6 @@
 id: 9c7cda44-421d-485a-b0c8-6f84bb0c39a9
-type: declaration
-parent_statement: 728a4a48-4508-412e-9b1b-c9ce0a8e0dd9
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 728a4a48-4508-412e-9b1b-c9ce0a8e0dd9
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+text: A pesar de que España cuenta con la que probablemente es la arquitectura institucional más ambiciosa de la Unión Europea en materia de igualdad, todavía queda un cierto margen de mejora.
 categories: Democracia
 topics: Igualdad
-text: A pesar de que España cuenta con la que probablemente es la arquitectura institucional más ambiciosa de la Unión Europea en materia de igualdad, todavía queda un cierto margen de mejora.

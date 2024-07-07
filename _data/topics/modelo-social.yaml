@@ -1,0 +1,20 @@
+name: Modelo social
+other:
+- &id001
+  id: 72c48444-4715-4db3-bae8-9ede18d9a05e
+  parties:
+  - VOX
+other_count: 1
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+statements_count: 1
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

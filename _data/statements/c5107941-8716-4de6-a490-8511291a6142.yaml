@@ -1,6 +1,6 @@
 id: c5107941-8716-4de6-a490-8511291a6142
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 73
+parent_chapter: 88c43ae6-3b46-453b-88f6-05040af07103
+text: SE ESTABLECERÁ EN LOS REGLAMENTOS DE LAS CORTES GENERALES LA NECESIDAD DE INFORMES TÉCNICOS también en el caso de las proposiciones de ley. Así, una vez tomadas en consideración, se solicitarán los informes del Consejo General del Poder Judicial, Consejo Fiscal y/o de otros organismos del Estado que hubieran sido preceptivos o aconsejables en el caso de tratarse de un proyecto de ley.
 categories: Democracia
 topics: Podel legislativo
-text: SE ESTABLECERÁ EN LOS REGLAMENTOS DE LAS CORTES GENERALES LA NECESIDAD DE INFORMES TÉCNICOS también en el caso de las proposiciones de ley. Así, una vez tomadas en consideración, se solicitarán los informes del Consejo General del Poder Judicial, Consejo Fiscal y/o de otros organismos del Estado que hubieran sido preceptivos o aconsejables en el caso de tratarse de un proyecto de ley.

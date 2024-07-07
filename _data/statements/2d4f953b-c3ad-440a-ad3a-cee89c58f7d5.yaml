@@ -1,6 +1,6 @@
 id: 2d4f953b-c3ad-440a-ad3a-cee89c58f7d5
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 22
-categories: Derechos y servicios sociales
+parent_chapter: 82cb99f9-443b-47be-bd4c-2773bb661dc1
 text: Extenderemos el permiso de patern  idad y matern  idad hasta las 20 semanas, incorporando mayor flexibil  idad con el trabajo a tiempo parcial desde la semana 16 y avanzaremos en la implantación de permisos retribu  idos para los cu  idados de acuerdo con la Directiva 2019/1158 del Parlamento Europeo, con el objetivo de remunerar al menos 4 semanas por hijo/a del recientemente creado permiso parental de cu  idados, a partir de agosto de 2024, sin perjuicio de las mejoras que puedan adoptarse en el marco de la negociación colectiva del sector público.
+categories: Derechos y servicios sociales

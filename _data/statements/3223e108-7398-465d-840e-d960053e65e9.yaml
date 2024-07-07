@@ -1,6 +1,6 @@
 id: 3223e108-7398-465d-840e-d960053e65e9
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 118
+parent_chapter: d59fe7bc-7318-4c18-a232-113ef256f4dd
+children_promises:
+- 0e31dfe3-4e26-458e-9e31-88478c310ef9
+- 843a6a05-ff1f-4099-9d4f-8a758006f495
+- 914ea716-53ee-47f3-ab7d-8923b9c38e06
+- 6222a7b1-4d25-448e-ae25-ac0b2c4e69dc
+children_statements:
+- 8e979da8-a288-48a6-b9e4-c3fe23e3ca74
+title: Por la libertad de expresión, contra el uso fraudulento de la información.
 categories: Democracia
 topics: Participación ciudadana
-title: Por la libertad de expresión, contra el uso fraudulento de la información.
-has_children: true

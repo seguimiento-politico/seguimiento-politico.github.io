@@ -1,0 +1,21 @@
+name: Fracking
+other: []
+other_count: 0
+position_negative: []
+position_negative_count: 0
+position_positive:
+- &id001
+  id: 17d36def-7688-412e-8a86-d7e964fb366e
+  parties:
+  - VOX
+position_positive_count: 1
+proposed_actions:
+- *id001
+proposed_actions_count: 1
+statements:
+- *id001
+statements_count: 1
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

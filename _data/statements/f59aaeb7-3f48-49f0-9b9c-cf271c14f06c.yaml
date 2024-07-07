@@ -1,6 +1,6 @@
 id: f59aaeb7-3f48-49f0-9b9c-cf271c14f06c
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 225
+parent_chapter: 452b6011-bf84-402e-92d3-0aa925d7de49
+text: El objetivo es poder rehabilitar más de 500.000 viviendas en esta legislatura.
 categories: Vivienda
 topics:
 - Rehabilitación
 - Incentivos, ayudas y subvenciones
-text: El objetivo es poder rehabilitar más de 500.000 viviendas en esta legislatura.

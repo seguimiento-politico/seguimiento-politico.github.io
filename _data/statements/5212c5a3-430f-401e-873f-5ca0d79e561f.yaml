@@ -1,7 +1,6 @@
 id: 5212c5a3-430f-401e-873f-5ca0d79e561f
 type: promise
-parent_statement: f4b9f550-e0e1-453b-b344-d4a408598892
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: f4b9f550-e0e1-453b-b344-d4a408598892
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+text: Se aumentarán los programas de prevención y cribado fetal y neonatal ampliando la determinación de ADN fetal en sangre materna a nivel prenatal para la detección de alteraciones cromosómicas.
 categories: Democracia
 topics: Igualdad
-text: Se aumentarán los programas de prevención y cribado fetal y neonatal ampliando la determinación de ADN fetal en sangre materna a nivel prenatal para la detección de alteraciones cromosómicas.

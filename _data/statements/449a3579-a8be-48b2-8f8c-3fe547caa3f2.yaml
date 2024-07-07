@@ -1,7 +1,6 @@
 id: 449a3579-a8be-48b2-8f8c-3fe547caa3f2
 type: promise
-parent_statement: cb28f559-a70d-496c-9079-5258d48cac85
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Trabajo
+parent_statement: cb28f559-a70d-496c-9079-5258d48cac85
+parent_chapter: c22a6b36-a06c-43e3-ae12-f9b87ce394c7
 text: Garantizaremos que la digitalización esté al servicio del trabajo decente, haciendo uso de la inteligencia artificial y de la tecnología algorítmica para la limitación y el control efectivo del tiempo de trabajo, impidiendo así la prolongación de la jornada más allá de lo previsto en el convenio colectivo y llevando las tecnologías digitales al ámbito de la protección de la seguridad y la salud de las personas trabajadoras.
+categories: Trabajo

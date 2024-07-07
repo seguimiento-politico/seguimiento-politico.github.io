@@ -1,6 +1,6 @@
 id: 9765b9b4-dcf8-4424-988c-c0748fce11e5
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 21
-categories: Trabajo
+parent_chapter: 89a37952-7653-4d01-b826-60b84d3454b4
 text: 'En VOX lo tenemos claro: todos los trabajos son esenciales porque detrás de cada trabajador hay un español con sus alegrías, angustias y preocupaciones. Por eso, protegeremos a los trabajadores españoles para brindarles oportunidades reales y condiciones materiales suficientes: estabilidad económica, sueldos dignos, horarios que faciliten la conciliación, trabajos no impersonales y la posibilidad de formar un hogar en su propia tierra.'
+categories: Trabajo

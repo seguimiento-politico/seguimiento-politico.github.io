@@ -1,6 +1,6 @@
 id: 509e0158-0ea6-4929-8210-baa9eacac5e4
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 44
-categories: Vivienda
+parent_chapter: 7cfc87b2-226c-44ee-8071-6bdf306b36d3
 text: Proposición de Ley instando a la modificación de la Ley del Impuesto sobre el Valor Añadido con el fin de aplicar un tipo superreducido del 4% a la adquisición de aquel inmueble destinado a ser la primera vivienda habitual (octubre 2022).
+categories: Vivienda

@@ -1,6 +1,6 @@
 id: e0902e11-03a5-45dd-9b60-4e2cccc7d05e
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 250
+parent_chapter: 78357eae-f064-4648-9cf1-b5e149ae3feb
+text: Se impulsará un Plan de acción con los ayuntamientos con participación de la FEMP y los operadores jurídicos para la implantación de las conexiones mediante videoconferencia con los tribunales, la obtención de toda clase de documentos y el acceso a todos los servicios posibles.
 categories: Justicia
 topics: Eficiencia
-text: Se impulsará un Plan de acción con los ayuntamientos con participación de la FEMP y los operadores jurídicos para la implantación de las conexiones mediante videoconferencia con los tribunales, la obtención de toda clase de documentos y el acceso a todos los servicios posibles.

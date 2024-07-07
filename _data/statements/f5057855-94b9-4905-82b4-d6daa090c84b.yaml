@@ -1,6 +1,6 @@
 id: f5057855-94b9-4905-82b4-d6daa090c84b
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 48
-categories: Política internacional
+parent_chapter: b5f12909-b76e-47aa-bc10-2eee3574ca31
 text: Fortaleceremos nuestro compromiso con la cooperación internacional, por un mundo más próspero, justo y estable. Avanzaremos hacia el cumplimiento del objetivo de alcanzar el 0,7% del Producto Nacional Bruto en Ayuda Oficial al Desarrollo en 2030.
+categories: Política internacional

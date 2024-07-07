@@ -1,7 +1,6 @@
 id: ad171a4e-227a-4eaa-af43-78161fe11573
 type: promise
-parent_statement: e85cce6c-112f-4d22-ba56-710c17c8bfe6
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
+parent_statement: e85cce6c-112f-4d22-ba56-710c17c8bfe6
+parent_chapter: 70e896cb-cc2e-4700-a649-38c82b332b6c
+text: En su lugar, promulgar una ley de violencia intrafamiliar que proteja por igual a ancianos, hombres, mujeres y niños.
 categories:
 - Familia
-text: En su lugar, promulgar una ley de violencia intrafamiliar que proteja por igual a ancianos, hombres, mujeres y niños.

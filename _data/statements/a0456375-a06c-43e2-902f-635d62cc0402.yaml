@@ -1,6 +1,6 @@
 id: a0456375-a06c-43e2-902f-635d62cc0402
-type: declaration
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 95
-categories: Política internacional
+parent_chapter: 65567664-6676-4d53-b234-fd4300e68287
+children_promises: []
+children_statements:
+- fd541b88-894d-45d0-8b1b-061ca7aa25ef
+- 2750c8a0-9865-4593-b1eb-e5461dc8fa6d
 title: RECUPERAR LA POLÍTICA EXTERIOR COMO UNA POLÍTICA DE ESTADO
-has_children: true
+categories: Política internacional

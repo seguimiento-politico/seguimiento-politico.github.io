@@ -1,7 +1,6 @@
 id: 8256b441-f109-4a46-a7ae-5b7b515bbff2
 type: promise
-parent_statement: 6f69898b-7140-4014-bdbf-ac81fdcb1b7c
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Sanidad
+parent_statement: 6f69898b-7140-4014-bdbf-ac81fdcb1b7c
+parent_chapter: 17e4c412-8ac4-4992-848a-422903075ee3
 text: Proponemos incorporar a los servicios sanitarios públicos nuevas prestaciones, como la salud bucodental, la nutrición, la salud óptica, la audioprótesis, la psicoterapia, la terapia ocupacional y la fisioterapia. Son servicios sanitarios que tienen un gran impacto en la población, pero no están incluidos en la cartera básica de servicios de salud o están presentes de forma insuficiente. Su inclusión y ampliación son una vía básica para reducir las desigualdades en el acceso a la salud.
+categories: Sanidad

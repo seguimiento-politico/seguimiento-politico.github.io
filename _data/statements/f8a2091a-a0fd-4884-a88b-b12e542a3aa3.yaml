@@ -1,6 +1,6 @@
 id: f8a2091a-a0fd-4884-a88b-b12e542a3aa3
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 20
+parent_chapter: d5bc3185-7cac-4cbc-9ca4-df232e4c8a2f
+children_promises:
+- cb18849f-5546-409e-b08f-8ee5e2050b16
+children_statements: []
+title: Cadena perpetua
 categories:
 - Justicia
-title: Cadena perpetua
-has_children: true

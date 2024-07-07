@@ -1,6 +1,6 @@
 id: c9d8d4e7-18da-4900-8ccf-4101ab110226
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 92
+parent_chapter: 4b1a1fd6-83f2-4e8c-a775-7e65f72f50be
 text: Proteger a los deudores y deudoras hipotecarios sin recursos suficientes con la limitación de su deuda al valor del bien hipotecado y el reconocimiento de derechos de reestructuración de deuda, quita y dación en pago Adoptaremos medidas adicionales de protección a familias con ingresos inferiores a 3 IPREM que no pueden pagar su hipoteca, y derogaremos el IRPH como indicador de los tipos de interés variable en créditos o préstamos hipotecarios con efecto retroactivo, de manera que las familias puedan reclamar lo pagado indebidamente

@@ -1,6 +1,6 @@
 id: 3b5345e5-c1aa-4082-ab75-ff55e2007aa1
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 100
+parent_chapter: 4b1a1fd6-83f2-4e8c-a775-7e65f72f50be
 text: Crear por ley un Fondo Estatal para la Accesibilidad Universal, con una dotación del 1 % de la inversión anual de los Presupuestos Generales del Estado en obras públicas e infraestructuras, nuevas tecnologías y sociedad de la información Con este fondo, se financiarán en el conjunto del país los programas y las actuaciones de accesibilidad universal en los procesos, bienes, productos, servicios, transporte, información y comunicaciones, así como en los medios de comunicación social, de modo que se garantice una vida independiente a todas las personas con diversidad funcional

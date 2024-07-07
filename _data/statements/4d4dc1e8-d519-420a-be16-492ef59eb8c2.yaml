@@ -1,6 +1,6 @@
 id: 4d4dc1e8-d519-420a-be16-492ef59eb8c2
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 109
+parent_chapter: f91bc08f-3d6b-4f78-a00a-810f7184cf6a
 text: Eliminar los paraísos fiscales interiores en forma de privilegios de ciertos esquemas societarios. Pondremos fin al régimen fiscal privilegiado de las entidades de tenencia de valores extranjeros (ETVE) y de la tributación privilegiada de sicav, fondos y sociedades de inversión mobiliaria e inmobiliaria (SOCIMI) Eliminaremos también el régimen de impatriados, que actualmente permite pagar un marginal de IRPF del 24 % a personas que se desplazan a España a trabajar con rentas de hasta 600 000 euros, en lugar del marginal máximo que les correspondería

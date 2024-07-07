@@ -1,6 +1,6 @@
 id: 3718590e-bf78-442a-b5a0-2c7fde281c02
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 260
+parent_chapter: 82bbf2d2-ddcc-4c0a-9b0c-5bac5677e936
+text: Continuaremos trabajando para acelerar la transición energética justa, para ser más sostenibles y para reducir nuestra dependencia energética del exterior, incentivando la inversión en energías renovables. Hemos de ser capaces de consolidar la transición energética y la sostenibilidad de nuestro modelo económico y de consumo sin dejar a nadie atrás. Estamos convencidos de que la transformación económica que estamos impulsando, basada en el Pacto Verde Europeo y la digitalización de nuestra economía, es la única opción en la lucha contra el cambio climático.
 categories: Política internacional
 topics: Europa
-text: Continuaremos trabajando para acelerar la transición energética justa, para ser más sostenibles y para reducir nuestra dependencia energética del exterior, incentivando la inversión en energías renovables. Hemos de ser capaces de consolidar la transición energética y la sostenibilidad de nuestro modelo económico y de consumo sin dejar a nadie atrás. Estamos convencidos de que la transformación económica que estamos impulsando, basada en el Pacto Verde Europeo y la digitalización de nuestra economía, es la única opción en la lucha contra el cambio climático.

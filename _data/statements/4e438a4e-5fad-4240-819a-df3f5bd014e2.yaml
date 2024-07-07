@@ -1,7 +1,6 @@
 id: 4e438a4e-5fad-4240-819a-df3f5bd014e2
 type: promise
-parent_statement: 68cb038f-9b10-4c13-8bc9-6802c15d2445
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,6 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 171
+parent_statement: 68cb038f-9b10-4c13-8bc9-6802c15d2445
+parent_chapter: 1ba59a71-2649-49ec-b7ab-7b3f541edfea
+text: El incremento del 10% de la cuantía del complemento para la reducción de la brecha de género previsto para 2024-2025 se completará con otro 10% adicional durante el bienio 2026-2027.
 categories: Derechos y servicios sociales
 topics: Pensiones
-text: El incremento del 10% de la cuantía del complemento para la reducción de la brecha de género previsto para 2024-2025 se completará con otro 10% adicional durante el bienio 2026-2027.

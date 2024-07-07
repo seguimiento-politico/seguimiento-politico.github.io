@@ -1,6 +1,6 @@
 id: d4783537-5840-463e-823d-17ef44d6eaa5
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 73
+parent_chapter: 88c43ae6-3b46-453b-88f6-05040af07103
+text: LIMITAREMOS EL USO DEL REAL DECRETO LEY, asumiendo la voluntad de no incorporar al mismo medidas que no van a entrar en vigor de forma inmediata y justificando siempre debidamente su urgente y extraordinaria necesidad.
 categories: Democracia
 topics: Podel legislativo
-text: LIMITAREMOS EL USO DEL REAL DECRETO LEY, asumiendo la voluntad de no incorporar al mismo medidas que no van a entrar en vigor de forma inmediata y justificando siempre debidamente su urgente y extraordinaria necesidad.

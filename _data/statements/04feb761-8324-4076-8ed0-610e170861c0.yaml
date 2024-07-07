@@ -1,7 +1,6 @@
 id: 04feb761-8324-4076-8ed0-610e170861c0
 type: promise
-parent_statement: 79e46564-8c3d-4af8-8f68-d9ffdce88568
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 79e46564-8c3d-4af8-8f68-d9ffdce88568
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+text: Mejora de datos y estadísticas. Se promoverá también una mejora del sistema de recogida de datos y estadísticas que contemple todas las formas de violencia contra las mujeres, introduciendo también nuevas variables que permitan tener un conocimiento más preciso de las formas en que las violencias machistas afectan a la vida de las mujeres, para lo cual se contará con todos los actores implicados, incluidas las organizaciones de la sociedad civil especializadas.
 categories: Democracia
 topics: Igualdad
-text: Mejora de datos y estadísticas. Se promoverá también una mejora del sistema de recogida de datos y estadísticas que contemple todas las formas de violencia contra las mujeres, introduciendo también nuevas variables que permitan tener un conocimiento más preciso de las formas en que las violencias machistas afectan a la vida de las mujeres, para lo cual se contará con todos los actores implicados, incluidas las organizaciones de la sociedad civil especializadas.

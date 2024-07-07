@@ -1,6 +1,6 @@
 id: 72568776-7178-4971-870b-b5ba3dc6127c
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 91
-categories: Seguridad y defensa
+parent_chapter: d2165d9c-4ccd-4649-b6ee-393361a2d9bb
 text: Un Mando Integrado de Gestión de las Fronteras salvaguardará la inviolabilidad del territorio nacional mediante la vigilancia, control e inspección de personas y mercancías extranjeras en el acceso a España por vía terrestre, marítima y aérea. Despliegue militar en las fronteras de Ceuta, Melilla y Canarias para garantizar la protección de esos territorios ante invasiones promocionadas desde estados vecinos u organizaciones internacionales.
+categories: Seguridad y defensa

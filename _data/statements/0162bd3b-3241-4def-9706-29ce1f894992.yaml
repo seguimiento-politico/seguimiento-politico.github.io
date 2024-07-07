@@ -1,7 +1,6 @@
 id: 0162bd3b-3241-4def-9706-29ce1f894992
 type: promise
-parent_statement: 6b301504-16d3-401f-a1e6-575dae69bb44
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Banca
+parent_statement: 6b301504-16d3-401f-a1e6-575dae69bb44
+parent_chapter: 1fb125f8-bab0-49cf-a4a8-7924f09dfad1
 text: Culminaremos la puesta en marcha de los planes de formación desde la escuela a las empresas y la colaboración público-privada mediante el programa “Generación D” para que todas las personas, incluyendo a las mayores de 65 años, puedan acceder a los servicios digitales, comunicarse y participar activamente en una sociedad cada vez más digital.
+categories: Banca

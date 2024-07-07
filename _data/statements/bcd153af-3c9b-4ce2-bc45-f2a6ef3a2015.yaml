@@ -1,6 +1,6 @@
 id: bcd153af-3c9b-4ce2-bc45-f2a6ef3a2015
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 39
-categories: Impuestos y financiación pública
+parent_chapter: adffd871-b28d-4061-bc87-6b0d1ee98ead
+children_promises:
+- a9dd2972-0378-4216-818a-6429399934ac
+- aec1dfe1-dd1e-4d73-becd-20f00f71c7f3
+children_statements: []
 title: Evaluaremos los resultados del Impuesto Temporal de Solidaridad de las Grandes Fortunas
-has_children: true
+categories: Impuestos y financiación pública

@@ -1,6 +1,6 @@
 id: 3d6fedb6-d429-484b-9f3b-9750d8dc43ce
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 162
+parent_chapter: 1396ba16-84f5-4ba6-9717-58d5e5cedee0
+text: Apoyo decidido a la natalidad, impulsaremos medidas de protección integral a la natalidad, tanto fiscales como sanitarias, psicológicas o de acceso a servicios sociales. Nadie debería verse desanimado a tener un hijo por falta de apoyo de la administración.
 categories:
 - Familia
-text: Apoyo decidido a la natalidad, impulsaremos medidas de protección integral a la natalidad, tanto fiscales como sanitarias, psicológicas o de acceso a servicios sociales. Nadie debería verse desanimado a tener un hijo por falta de apoyo de la administración.

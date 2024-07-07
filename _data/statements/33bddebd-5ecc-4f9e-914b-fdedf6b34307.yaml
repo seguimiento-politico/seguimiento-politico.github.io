@@ -1,6 +1,6 @@
 id: 33bddebd-5ecc-4f9e-914b-fdedf6b34307
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 121
-categories: Organización territorial
+parent_chapter: 3985eb27-2ecc-4f17-a504-3aa15c5697d4
+children_promises:
+- ed6d62c6-3909-43f2-b0d8-e290811696d5
+- 481470cf-2f46-4ba0-9913-97bb468078c9
+children_statements:
+- afddf72c-e4d3-47c6-b3a6-bc2ab5fc68bc
 title: Competencias y financiación para las comunidades autónomas
-has_children: true
+categories: Organización territorial

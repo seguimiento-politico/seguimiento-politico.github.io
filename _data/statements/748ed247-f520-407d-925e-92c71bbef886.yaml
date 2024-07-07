@@ -1,7 +1,6 @@
 id: 748ed247-f520-407d-925e-92c71bbef886
 type: promise
-parent_statement: 063c3234-6ef1-40c7-92ab-19f5745ca418
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 063c3234-6ef1-40c7-92ab-19f5745ca418
+parent_chapter: 1c9b9596-90be-4e2a-b1e4-9d37f55ff261
+text: Crearemos normas específicas de tributación para las personas autónomas y socias coope rativistas que realicen actividades empresariales y cuyas rentas no sean superiores a una deter minada cantidad económica anual. Estas normas recogerán el derecho a que se compensen los ejercicios negativos sin límite de tiempo (actualmente están limitados a los cuatro años siguientes, mientras que las sociedades no tienen límite temporal) y la tributación por el tipo inferior hasta cierta cantidad que sea superior a la actual de los primeros 12.500€. En el caso de que las personas autónomas que desarrollen actividades empresariales se agrupen con otras en una cooperativa de servicios, las bonificaciones en la cuota o el tipo impositivo especial serán mejorados en un deter minado porcentaje.
 categories: Trabajo
 topics: Autónomos
-text: Crearemos normas específicas de tributación para las personas autónomas y socias coope rativistas que realicen actividades empresariales y cuyas rentas no sean superiores a una deter minada cantidad económica anual. Estas normas recogerán el derecho a que se compensen los ejercicios negativos sin límite de tiempo (actualmente están limitados a los cuatro años siguientes, mientras que las sociedades no tienen límite temporal) y la tributación por el tipo inferior hasta cierta cantidad que sea superior a la actual de los primeros 12.500€. En el caso de que las personas autónomas que desarrollen actividades empresariales se agrupen con otras en una cooperativa de servicios, las bonificaciones en la cuota o el tipo impositivo especial serán mejorados en un deter minado porcentaje.

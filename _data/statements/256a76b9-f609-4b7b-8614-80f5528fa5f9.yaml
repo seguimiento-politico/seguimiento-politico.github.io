@@ -1,6 +1,6 @@
 id: 256a76b9-f609-4b7b-8614-80f5528fa5f9
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,9 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 38
+parent_chapter: 2c1c9355-e394-4081-ab4a-f2f453e2cb83
+text: Impulsaremos la reforma del mercado eléctrico, de forma que la reducción progresiva del coste de las energías renovables se traslade al precio de la electricidad, y se garantice la rentabilidad adecuada y el pleno desarrollo de la expansión de las mismas. Dicha reforma será compatible con la aprobación del Estatuto del consumidor electrointensivo, con el objetivo de preservar la competitividad e incrementar la eficiencia y el uso de energías renovables por parte de empresas con altos costes energéticos.
 categories: Medioambiente
 topics:
 - Cambio climático
 - Desarrollo sostenible
-text: Impulsaremos la reforma del mercado eléctrico, de forma que la reducción progresiva del coste de las energías renovables se traslade al precio de la electricidad, y se garantice la rentabilidad adecuada y el pleno desarrollo de la expansión de las mismas. Dicha reforma será compatible con la aprobación del Estatuto del consumidor electrointensivo, con el objetivo de preservar la competitividad e incrementar la eficiencia y el uso de energías renovables por parte de empresas con altos costes energéticos.

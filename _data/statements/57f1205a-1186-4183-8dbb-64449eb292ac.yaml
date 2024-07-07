@@ -1,6 +1,6 @@
 id: 57f1205a-1186-4183-8dbb-64449eb292ac
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 26
-categories: Migración
+parent_chapter: 5f0d7f53-8d55-4de4-a19d-e4610d909ada
 text: Cierre de las mezquitas fundamentalistas y prohibición de su financiación por parte de Estados u organizaciones extranjeras.
+categories: Migración

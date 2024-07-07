@@ -1,7 +1,6 @@
 id: 5df47557-58aa-4396-9290-1b4061bc9d1c
 type: promise
-parent_statement: b3675292-fe11-41da-a48e-62257a0b95f3
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Sanidad
+parent_statement: b3675292-fe11-41da-a48e-62257a0b95f3
+parent_chapter: 17e4c412-8ac4-4992-848a-422903075ee3
 text: El pacto incluirá un plan estratégico para la reducción de las desigualdades sociales en salud, que implicará a diferentes ministerios y agentes institucionales, a fin de abordar los determinantes sociales de la salud desde una perspectiva amplia.
+categories: Sanidad

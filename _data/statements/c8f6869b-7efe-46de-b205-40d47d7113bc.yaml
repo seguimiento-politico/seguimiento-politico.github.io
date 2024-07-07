@@ -1,6 +1,6 @@
 id: c8f6869b-7efe-46de-b205-40d47d7113bc
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 134
+parent_chapter: d5ff476e-21ed-4e90-9c4b-b4adb4a8f9a7
+text: La Unión Europea debe respetar la soberanía nacional de los Estados miembros singularizada en sus Parlamentos. Impulsaremos un nuevo tratado europeo que devuelva a los Estados miembros el protagonismo frente a la burocracia de una Comisión Europea que nadie elige y a la que nadie puede fiscalizar. La Unión Europea debe estar al servicio de los Estados miembros y de los ciudadanos, no de sus élites. Rechazaremos cualquier tendencia federalista de la Unión Europea.
 categories:
 - Política internacional
-text: La Unión Europea debe respetar la soberanía nacional de los Estados miembros singularizada en sus Parlamentos. Impulsaremos un nuevo tratado europeo que devuelva a los Estados miembros el protagonismo frente a la burocracia de una Comisión Europea que nadie elige y a la que nadie puede fiscalizar. La Unión Europea debe estar al servicio de los Estados miembros y de los ciudadanos, no de sus élites. Rechazaremos cualquier tendencia federalista de la Unión Europea.

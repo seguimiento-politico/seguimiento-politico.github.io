@@ -1,6 +1,6 @@
 id: 0c4988ea-9ad6-4e19-b746-43b6b4547c22
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 91
-categories: Administración pública
+parent_chapter: 49db7900-6ee8-4eec-b2ec-69a5f1e16407
 text: POTENCIAREMOS LA CAPACIDAD DE LOS CIUDADANOS Y AGENTES ECONÓMICOS para obtener información de expedientes, a través de la evolución de la Carpeta Ciudadana. Facilitaremos la comunicación entre ciudadanos y empresas y la Administración mediante canales digitales accesibles como los asistentes virtuales.
+categories: Administración pública

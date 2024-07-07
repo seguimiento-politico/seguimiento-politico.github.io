@@ -1,6 +1,6 @@
 id: f7cae596-f9e9-4261-9b0e-fefbd54bc0e6
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 27
-categories: Deporte
+parent_chapter: 2151d415-90ce-4872-a454-e7bc580c7a54
 text: Promoveremos una Ley del Deporte que se acompañará de un Plan Estratégico, para regular las profesiones asociadas al deporte, así como la accesibilidad a su práctica por parte de todos los ciudadanos, la eliminación de toda discriminación por género, y la formación y empleo para los deportistas retirados.
+categories: Deporte

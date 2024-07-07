@@ -1,10 +1,12 @@
 id: 17d555d6-28ae-487a-baab-c6f276c791d2
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 51
+parent_chapter: b2d30d31-839e-4c79-b8e2-fe59d97d9e6d
 text: Potenciaremos la formación del profesorado en el conocimiento de las necesidades de las personas con discapacidad.
+topics: Discapacidad

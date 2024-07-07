@@ -1,6 +1,6 @@
 id: 0ae735f2-dd80-4215-8dc8-aebb2358f70b
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_chapter: a2a1059b-b0be-456f-953a-eddcd0314df2
+text: La contaminación por plásticos es uno de los grandes desafíos del s XXI. Por eso, es necesaria una correcta gestión que evite la afectación al paisaje, al suelo, a la vegetación y a los ecosistemas acuáticos.
 categories: Medioambiente
 topics: Residuos
-text: La contaminación por plásticos es uno de los grandes desafíos del s XXI. Por eso, es necesaria una correcta gestión que evite la afectación al paisaje, al suelo, a la vegetación y a los ecosistemas acuáticos.

@@ -1,11 +1,12 @@
 id: da8650b4-2421-4e74-892c-d6ea2a892b3e
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 99
-categories: Seguridad y defensa
+parent_chapter: ce32a1c3-f0ee-405f-bdb8-e85af6ed814a
 text: Facilitaremos la participación de la mujer en las Fuerzas Armadas profesionales, apoyando medidas para facilitar la maternidad y la conciliación laboral tanto de hombres como de mujeres.
+categories: Seguridad y defensa

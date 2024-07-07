@@ -1,11 +1,12 @@
 id: ae0a471c-95e7-469d-a90a-714cc6ccb6b3
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 62
-categories: Infraestructuras
+parent_chapter: e7e32caa-a667-406f-a8b0-882e269ca655
 text: Continuaremos impulsando la eliminación de los pasos a nivel con el fin de mejorar la seguridad del tráfico ferroviario y para integrar las infraestructuras en el trazado urbano de acuerdo con las necesidades de los ciudadanos.
+categories: Infraestructuras

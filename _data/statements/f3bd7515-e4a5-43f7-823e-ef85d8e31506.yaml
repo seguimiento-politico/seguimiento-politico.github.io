@@ -1,7 +1,6 @@
 id: f3bd7515-e4a5-43f7-823e-ef85d8e31506
 type: promise
-parent_statement: 3f3cac7d-76db-41e6-a951-0cadb7b4f345
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: 3f3cac7d-76db-41e6-a951-0cadb7b4f345
+parent_chapter: de85e0ef-5ecc-4ca0-89b4-a741503b7353
+text: Continuaremos incorporando funcionalidades a la Carpeta Ciudadana, y la ampliaremos al ámbito de las empresas y los autónomos, para que las principales gestiones se puedan realizar fácilmente en un clic.
 categories: Economía
 topics: Digitalización
-text: Continuaremos incorporando funcionalidades a la Carpeta Ciudadana, y la ampliaremos al ámbito de las empresas y los autónomos, para que las principales gestiones se puedan realizar fácilmente en un clic.

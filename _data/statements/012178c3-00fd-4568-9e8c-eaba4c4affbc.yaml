@@ -1,6 +1,6 @@
 id: 012178c3-00fd-4568-9e8c-eaba4c4affbc
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 110
+parent_chapter: f91bc08f-3d6b-4f78-a00a-810f7184cf6a
 text: Establecer un impuesto a la banca que aumente 10 puntos el tipo impositivo de las entidades financieras en el impuesto sobre sociedades para recuperar el rescate bancario de 60 000 millones de euros que hicimos todas y todos los españoles a la banca Del mismo modo que el rescate fue una operación específica destinada al sector bancario y no se extendió a trabajadoras y trabajadores autónomos, familias, pymes ni otros sectores económicos, tiene todo el sentido establecer un impuesto específico para recuperar, también a través de otras reformas, los 60 000 millones del rescate bancario.

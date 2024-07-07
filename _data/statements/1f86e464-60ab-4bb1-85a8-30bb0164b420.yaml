@@ -1,6 +1,6 @@
 id: 1f86e464-60ab-4bb1-85a8-30bb0164b420
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 53
+parent_chapter: 2d06e79f-d667-441b-b7cf-513970c6ccde
+children_promises:
+- 6cecf3ae-4e78-429b-a83c-43b7eab40137
+- 39729a9c-6dbf-493e-b2bf-ce865eded00a
+- aab46c6d-b097-4970-af52-50061fac0dda
+- 7f6176fc-dc34-4ff3-be75-680742c6ffa7
+- 24cd7532-b8e8-4055-8de1-09e5bd51358d
+children_statements: []
+title: Protección del subsuelo y los recursos geológicos
 categories: Medioambiente
 topics: Biodiversidad
-title: Protección del subsuelo y los recursos geológicos
-has_children: true

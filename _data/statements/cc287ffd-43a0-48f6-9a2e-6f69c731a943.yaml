@@ -1,6 +1,6 @@
 id: cc287ffd-43a0-48f6-9a2e-6f69c731a943
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 96
-categories: Territorio rural
+parent_chapter: 176e3047-b46c-44e7-a6f6-e56cda25f074
 text: Continuaremos con las actuaciones para la rehabilitación energética de los cuarteles de la Guardia Civil. Queremos llegar a rehabilitar al menos 160 cuarteles ubicados en los municipios rurales.
+categories: Territorio rural

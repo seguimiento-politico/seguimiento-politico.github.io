@@ -1,7 +1,6 @@
 id: 1bfde412-76a7-4bc1-8c05-7885b2e53321
 type: promise
-parent_statement: 0d32c250-87d3-4aa2-bdbe-3fcfd38f66cd
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Trabajo
+parent_statement: 0d32c250-87d3-4aa2-bdbe-3fcfd38f66cd
+parent_chapter: 80d48e2e-109f-4d20-9b2c-09d128e89470
 text: el incremento del 100% del precio de la hora extraordinaria que no se haya pagado ni compensado con tiempos de descanso equivalentes;
+categories: Trabajo

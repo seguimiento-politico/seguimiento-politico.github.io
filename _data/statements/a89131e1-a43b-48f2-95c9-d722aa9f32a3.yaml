@@ -1,6 +1,6 @@
 id: a89131e1-a43b-48f2-95c9-d722aa9f32a3
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 33
+parent_chapter: 89375858-99fa-4877-97d3-a329719afd84
+text: Aprobaremos una nueva Ley de seguridad ciudadana, que sustituya a la “Ley mordaza”, para garantizar el ejercicio de los derechos a la libertad de expresión, reunión y manifestación pacífica.
 categories: Derechos y servicios sociales
 topics: Libertad de expresión
-text: Aprobaremos una nueva Ley de seguridad ciudadana, que sustituya a la “Ley mordaza”, para garantizar el ejercicio de los derechos a la libertad de expresión, reunión y manifestación pacífica.

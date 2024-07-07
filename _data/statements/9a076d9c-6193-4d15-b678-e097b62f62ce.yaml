@@ -1,7 +1,6 @@
 id: 9a076d9c-6193-4d15-b678-e097b62f62ce
 type: promise
-parent_statement: 2e888a46-4e46-4f13-854a-085e3f418733
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: 2e888a46-4e46-4f13-854a-085e3f418733
+parent_chapter: 1e1d9fec-722c-4fe5-83c8-753b161e1073
+text: La mejora de los programas debe tener en cuenta las preferencias de las personas usuarias.
 categories: Turismo
 topics: Desarrollo sostenible
-text: La mejora de los programas debe tener en cuenta las preferencias de las personas usuarias.

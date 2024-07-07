@@ -1,6 +1,6 @@
 id: 6f16b3f4-3c66-4ef4-9c40-ee2a9f8f12f7
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,15 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 46
-categories: Industria
+parent_chapter: 7c79fe71-f119-4b1d-a348-2b181c21b108
+children_promises:
+- c1bd9334-5f29-4e9f-a9bf-2207324c35ba
+- 6f0c545e-74d1-458a-a362-71996a22d0f8
+- dffa11de-2bf7-4133-be91-ce086038dae3
+- da318aa4-f954-4154-8d18-5b3de1e29f9c
+- f13ad97d-ad93-4e74-813a-d50ae4484778
+- 71ffb592-dcf5-41b6-af82-3ec02a888b3f
+children_statements:
+- 944d07dc-fb7b-4254-9b27-2c947572ccae
 title: Un pacto social y territorial para la transición energética justa
-has_children: true
+categories: Industria

@@ -1,7 +1,6 @@
 id: fa86ee4d-2924-46e6-9011-b59be3fb121c
 type: promise
-parent_statement: 086296fe-78bd-46f5-89fb-c083f107d703
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 086296fe-78bd-46f5-89fb-c083f107d703
+parent_chapter: 12295f44-3ae3-43bd-8758-0026574e6662
+text: Atención sanitaria específica. Se impulsará la prevención, el diagnóstico y el tratamiento de los trastornos de salud en personas mayores desde la atención primaria y comunitaria, mediante plantillas que incluyan profesionales de la medicina de familia y de la enfermería comunitaria, fisioterapeutas, terapeutas ocupacionales, nutricionistas, psicólogos, dentistas y podólogos. Estos equipos multidisciplinares recibirán formación continua y específica en la prevención, el diagnóstico y el tratamiento de los trastornos crónicos, las limitaciones de movilidad y el deterioro de la función cognitiva en personas mayores y en los efectos del cambio climático sobre la salud de las personas mayores.
 categories: Derechos y servicios sociales
 topics: Tercera edad
-text: Atención sanitaria específica. Se impulsará la prevención, el diagnóstico y el tratamiento de los trastornos de salud en personas mayores desde la atención primaria y comunitaria, mediante plantillas que incluyan profesionales de la medicina de familia y de la enfermería comunitaria, fisioterapeutas, terapeutas ocupacionales, nutricionistas, psicólogos, dentistas y podólogos. Estos equipos multidisciplinares recibirán formación continua y específica en la prevención, el diagnóstico y el tratamiento de los trastornos crónicos, las limitaciones de movilidad y el deterioro de la función cognitiva en personas mayores y en los efectos del cambio climático sobre la salud de las personas mayores.

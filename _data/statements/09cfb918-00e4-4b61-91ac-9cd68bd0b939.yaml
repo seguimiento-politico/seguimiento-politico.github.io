@@ -1,7 +1,6 @@
 id: 09cfb918-00e4-4b61-91ac-9cd68bd0b939
 type: promise
-parent_statement: 428b01c8-a70e-4527-af5b-62abdd7ab5e6
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
+parent_statement: 428b01c8-a70e-4527-af5b-62abdd7ab5e6
+parent_chapter: 80f33f13-c365-4098-ac18-6210795cdb15
+text: Diseñar y aplicar un nuevo Plan Hidrológico Nacional bajo el principio de la solidaridad y el bien común. Un Plan que desde el respeto a la sostenibilidad de los recursos hídricos y de los ecosistemas, permita una gestión eficiente del agua.
 categories:
 - Economía
-text: Diseñar y aplicar un nuevo Plan Hidrológico Nacional bajo el principio de la solidaridad y el bien común. Un Plan que desde el respeto a la sostenibilidad de los recursos hídricos y de los ecosistemas, permita una gestión eficiente del agua.

@@ -1,6 +1,6 @@
 id: e9dd3b79-77b9-4067-b356-6ca224fef46c
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 154
+parent_chapter: b4d1ed09-83dc-408f-a777-fc5670b54d39
+text: Pondremos en marcha un Plan de Intervención de Lucha contra la Violencia de Género en el medio rural.
 categories: Seguridad y defensa
 topics: Violencia de género
-text: Pondremos en marcha un Plan de Intervención de Lucha contra la Violencia de Género en el medio rural.

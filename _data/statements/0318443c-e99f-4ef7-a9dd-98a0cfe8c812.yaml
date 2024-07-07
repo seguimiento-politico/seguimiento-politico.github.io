@@ -1,6 +1,6 @@
 id: 0318443c-e99f-4ef7-a9dd-98a0cfe8c812
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_chapter: 0123efa0-b73e-4796-8db6-bf0cd4e1ed75
+text: Con el fin de ganar competitividad, realizaremos las inversiones necesarias en los aeropuertos para poder atender la demanda esperada, con los más altos niveles de seguridad, favoreciendo la conectividad de largo radio, así como su adaptación sostenible para poder hacer frente al reto de la descarbonización de la aviación.
 categories: Infraestructuras
 topics: Transporte aéreo, Aeropuertos
-text: Con el fin de ganar competitividad, realizaremos las inversiones necesarias en los aeropuertos para poder atender la demanda esperada, con los más altos niveles de seguridad, favoreciendo la conectividad de largo radio, así como su adaptación sostenible para poder hacer frente al reto de la descarbonización de la aviación.

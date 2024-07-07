@@ -1,6 +1,6 @@
 id: e5b9c0e8-e24f-4545-8477-b3b05d8dca9f
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 59
+parent_chapter: fe1ddaf6-59e0-47ee-bda3-193d9d6d6150
+text: FORTALECEREMOS LA COORDINACIÓN ASISTENCIAL ENTRE EL SISTEMA SOCIAL Y EL SANITARIO PÚBLICOS mediante la puesta en marcha de equipos multidisciplinares de referencia, Centros de Cuidados Intermedios Sociosanitarios para garantizar la rehabilitación óptima funcional y cognitiva tras un proceso agudo de hospitalización y el impulso a la Atención Sociosanitaria Domiciliaria, como la Ayuda en el Hogar, la Teleasistencia o la Hospitalización a Domicilio.
 categories: Derechos y servicios sociales
 topics: Ciudados y dependencia
-text: FORTALECEREMOS LA COORDINACIÓN ASISTENCIAL ENTRE EL SISTEMA SOCIAL Y EL SANITARIO PÚBLICOS mediante la puesta en marcha de equipos multidisciplinares de referencia, Centros de Cuidados Intermedios Sociosanitarios para garantizar la rehabilitación óptima funcional y cognitiva tras un proceso agudo de hospitalización y el impulso a la Atención Sociosanitaria Domiciliaria, como la Ayuda en el Hogar, la Teleasistencia o la Hospitalización a Domicilio.

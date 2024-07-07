@@ -1,6 +1,6 @@
 id: cdd4f19a-22c6-41b9-8ba9-028c23b5a311
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 95
-categories: Territorio rural
+parent_chapter: 1daddb0f-4f41-47c9-af55-541bc1296211
 text: 'Mejoraremos la atención y cuidado de los mayores en el medio rural: atención primaria, accesibilidad, atención a la dependencia, adaptación de viviendas.'
+categories: Territorio rural

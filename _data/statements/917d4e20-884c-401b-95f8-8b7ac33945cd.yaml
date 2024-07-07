@@ -1,6 +1,6 @@
 id: 917d4e20-884c-401b-95f8-8b7ac33945cd
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 138
-categories: Política internacional
+parent_chapter: 4d3afa99-1301-4519-a703-6dfe49d7e832
+children_promises:
+- 109f56c7-c149-445b-97bb-17da61c56b0e
+- 2a0abf67-4db7-4c0a-91e5-b8a60a85890b
+- d4bcb59c-5f0d-43b1-bd41-681d29f932eb
+- 7c2dec45-d16a-470c-8201-bb37b217df3e
+- ef84808c-7a56-46b3-85c5-df001a61c40d
+- da519e92-4339-48e9-8236-4cc20f322d5d
+children_statements: []
 title: Garantizar la paz y la seguridad humana en el mundo
-has_children: true
+categories: Política internacional

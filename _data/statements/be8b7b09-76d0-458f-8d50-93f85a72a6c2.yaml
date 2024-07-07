@@ -1,6 +1,6 @@
 id: be8b7b09-76d0-458f-8d50-93f85a72a6c2
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 82
-categories: Vivienda
+parent_chapter: 8985c580-4c31-46ce-a971-1555e0dfd3a7
 text: IMPULSAREMOS REFORMAS DE LA LEGISLACIÓN TRIBUTARIA para que se puedan devolver las cantidades abonadas por el propietario en concepto de IBI y en el Impuesto sobre el Patrimonio por el periodo que haya durado la ocupación; y para que la vivienda ocupada sea considerada como residencia habitual de su propietario si lo era antes de la privación ilegítima de su posesión, de forma que esta situación no conlleve la pérdida de beneficios fiscales si los hubiere.
+categories: Vivienda

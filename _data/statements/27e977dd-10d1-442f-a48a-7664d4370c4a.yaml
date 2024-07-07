@@ -1,6 +1,6 @@
 id: 27e977dd-10d1-442f-a48a-7664d4370c4a
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 18
+parent_chapter: 70e896cb-cc2e-4700-a649-38c82b332b6c
+children_promises:
+- 73ca00c2-f839-4347-8a8e-c0be4c4b892f
+- a707504c-821a-48fd-928c-e3ba25cba866
+children_statements: []
+title: Protección especial a la infancia
 categories:
 - Familia
-title: Protección especial a la infancia
-has_children: true

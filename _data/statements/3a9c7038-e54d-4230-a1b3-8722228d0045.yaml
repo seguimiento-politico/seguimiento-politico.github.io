@@ -1,7 +1,6 @@
 id: 3a9c7038-e54d-4230-a1b3-8722228d0045
-type: declaration
-parent_statement: e97a0cd5-65fc-4c35-bbcc-9d1d62e2eb5e
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Justicia
+parent_statement: e97a0cd5-65fc-4c35-bbcc-9d1d62e2eb5e
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
 text: Cada vez son más los casos en los que existe interés por parte de toda la comunidad internacional en que determinados hechos delictivos, los más graves o los que se cometen en varios países, no queden impunes. Esto va unido a la constante reformulación del concepto de soberanía de los Estados como lo demuestra la creación del Tribunal Penal Internacional.
+categories: Justicia

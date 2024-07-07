@@ -1,6 +1,6 @@
 id: 77062c6a-1f76-4fcf-9977-f7662c1b7037
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 47
-categories: Política internacional
+parent_chapter: b5f12909-b76e-47aa-bc10-2eee3574ca31
 text: Abogaremos por introducir el Procedimiento de Equilibrio Social en la gobernanza de la UE, con el objetivo de mejorar la coordinación entre Estados Miembros y lograr una mayor convergencia social entre ellos.
+categories: Política internacional

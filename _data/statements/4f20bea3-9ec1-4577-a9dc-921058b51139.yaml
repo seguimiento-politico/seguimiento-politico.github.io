@@ -1,7 +1,6 @@
 id: 4f20bea3-9ec1-4577-a9dc-921058b51139
 type: promise
-parent_statement: e89d5a20-cd74-4edc-a2e0-b7d1322e6b72
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: e89d5a20-cd74-4edc-a2e0-b7d1322e6b72
+parent_chapter: c31b1fcd-80d0-4ca3-b06a-863fa279380c
+text: Establecimiento de una hoja de ruta para la racionalización, el ahorro y el reparto equitativo de los recursos adaptada a las nuevas condiciones meteorológicas que va a enfrentar nuestro país, garantizando la seguridad productiva en el mundo rural y el acceso al abastecimiento de agua de calidad como un derecho humano universal.
 categories: Medioambiente
 topics: Desertificación
-text: Establecimiento de una hoja de ruta para la racionalización, el ahorro y el reparto equitativo de los recursos adaptada a las nuevas condiciones meteorológicas que va a enfrentar nuestro país, garantizando la seguridad productiva en el mundo rural y el acceso al abastecimiento de agua de calidad como un derecho humano universal.

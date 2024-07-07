@@ -1,6 +1,6 @@
 id: 659d1168-8371-44fb-9fa1-e536383d2b7a
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 39
+parent_chapter: 1e1d9fec-722c-4fe5-83c8-753b161e1073
+text: España es un país líder, tanto en llegadas de turistas internacionales como en gasto. Los puntos fuertes de nuestro país son los recursos patrimoniales naturales y culturales, la calidad de nuestros destinos y productos turísticos, así como una red extraordinaria de infraestructuras y un alto nivel de seguridad.
 categories: Turismo
 topics: Desarrollo sostenible
-text: España es un país líder, tanto en llegadas de turistas internacionales como en gasto. Los puntos fuertes de nuestro país son los recursos patrimoniales naturales y culturales, la calidad de nuestros destinos y productos turísticos, así como una red extraordinaria de infraestructuras y un alto nivel de seguridad.

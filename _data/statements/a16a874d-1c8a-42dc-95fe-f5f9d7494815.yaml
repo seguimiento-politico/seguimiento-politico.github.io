@@ -1,7 +1,6 @@
 id: a16a874d-1c8a-42dc-95fe-f5f9d7494815
 type: promise
-parent_statement: b2f07381-08db-4982-9780-84ae80e0ebf6
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,4 +8,6 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: b2f07381-08db-4982-9780-84ae80e0ebf6
+parent_chapter: 234f712b-aaa0-45c7-92d9-e5641ca46ec2
 text: Gravamen a los bienes y servicios de lujo que generan un gran volumen de emisiones y nulo rendimiento social, como vehículos de lujo, aviones privados, grandes yates y vuelos frecuentes peninsulares o en clase business.

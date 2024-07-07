@@ -1,6 +1,6 @@
 id: 50d605b4-6b87-49c0-bb9a-afa0b1615790
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 116
+parent_chapter: 11de281a-d271-499b-955d-2771db4b467d
 title: Plan Nacional de Desarrollo Rural.
 text: Al tomarlo como una cuestión de Estado, activaremos un plan para revitalizar la estructura social y económica del mundo rural mediante el impulso de las infraestructuras regionales, la localización prioritaria de los proyectos productivos señalados en los tres horizontes y la previsión de líneas de financiación prioritarias para estos y otros sectores, como el sector agrario sostenible, la ganadería extensiva y la pesca artesanal y de bajo impacto Modernizaremos las instalaciones hídricas, las infraestructuras de regadío y la viabilidad de las zonas forestales Ofreceremos acceso prioritario a la tierra para la juventud, en coordinación con los bancos de tierras existentes, e implementaremos planes especiales de empleo en zonas que, fruto de la discriminación histórica, cuenten con una situación excepcional de baja tasa de empleo y especial afectación por el vaciamiento poblacional

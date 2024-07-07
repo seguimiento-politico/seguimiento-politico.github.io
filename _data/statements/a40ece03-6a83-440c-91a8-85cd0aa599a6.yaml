@@ -1,11 +1,12 @@
 id: a40ece03-6a83-440c-91a8-85cd0aa599a6
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 13
-categories: Nacionalismo y patriotismo
+parent_chapter: 1d70d4de-8db8-40af-98f3-72921bc2f7ab
 text: Reafirmamos el compromiso del Partido Popular con la unidad de España, la Constitución de 1978 y el modelo autonómico que consagra, la democracia parlamentaria, el vínculo con la Unión Europea y los valores de libertad e igualdad de todos.
+categories: Nacionalismo y patriotismo

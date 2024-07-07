@@ -1,6 +1,6 @@
 id: 4b25fdb6-88a0-47cf-a225-04ecf77139aa
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 252
+parent_chapter: a378ac5f-5b4c-409f-8207-e9dca0489365
+text: Potenciaremos la formación de los operadores jurídicos en el ámbito de la Justicia internacional y de los Derechos Humanos.
 categories: Justicia
 topics: Europa
-text: Potenciaremos la formación de los operadores jurídicos en el ámbito de la Justicia internacional y de los Derechos Humanos.

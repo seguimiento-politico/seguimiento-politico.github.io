@@ -1,6 +1,6 @@
 id: 6c6df2b6-74b5-4437-812b-2f6d8ecd57d7
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,16 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 93
+parent_chapter: a6b0904c-226b-4036-b418-18f80e2f7fbb
+children_promises:
+- 276c31e3-fc6c-4705-b10b-903849653c53
+- ad5d0627-1d44-478f-a38e-092e7759fbed
+- a53b8e58-9e4c-4a00-83b9-f6700bb0e19b
+- e897f5c1-4210-461b-a0ae-4ef3e815e0e7
+- 8bdc52a9-0956-4cea-8f9f-2146b459a263
+- f6e37f32-54d8-4b7d-af44-971373778d8e
+- 02b72f33-5fcb-4213-8ff8-34e3afade2ae
+children_statements: []
+title: Fomentaremos un modelo de movilidad sostenible para una vida más agradable y sana
 categories: Derechos y servicios sociales
 topics: Medioambiente saludable, Contaminación
-title: Fomentaremos un modelo de movilidad sostenible para una vida más agradable y sana
-has_children: true

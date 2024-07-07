@@ -1,6 +1,6 @@
 id: 1a6e1cbd-94ed-4fae-93bb-c721a9890823
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 22
+parent_chapter: 6f300614-e8ea-4d3c-beef-78df8b43b5e5
+text: Ratificaremos el Convenio 190 de la OIT sobre la eliminación de la violencia y el acoso en el mundo del trabajo, de 21 de junio de 2019.
 categories: Seguridad y defensa
 topics: Violencia de género
-text: Ratificaremos el Convenio 190 de la OIT sobre la eliminación de la violencia y el acoso en el mundo del trabajo, de 21 de junio de 2019.

@@ -1,7 +1,6 @@
 id: 948291b6-6b7a-43fb-a4b9-117fc13f8e6a
 type: promise
-parent_statement: b5b5c855-8e0c-4d80-bda3-42eb0c430cba
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Administración pública
+parent_statement: b5b5c855-8e0c-4d80-bda3-42eb0c430cba
+parent_chapter: f4f32036-0cfd-4ca9-b6f3-5cfec1c58526
 text: Deben cambiarse las reglas de votación para que el Gobierno central no tenga garantizada la aprobación de sus propuestas, sino que sea siempre necesario el diálogo y el pacto con las autonomías.
+categories: Administración pública

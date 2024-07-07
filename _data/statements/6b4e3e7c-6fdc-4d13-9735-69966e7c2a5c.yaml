@@ -1,10 +1,11 @@
 id: 6b4e3e7c-6fdc-4d13-9735-69966e7c2a5c
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 52
+parent_chapter: b2d30d31-839e-4c79-b8e2-fe59d97d9e6d
 text: Fomentaremos medidas de apoyo al envejecimiento activo para las personas con discapacidad.

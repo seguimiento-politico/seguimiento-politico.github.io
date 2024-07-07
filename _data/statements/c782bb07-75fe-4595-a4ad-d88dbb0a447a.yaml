@@ -1,6 +1,6 @@
 id: c782bb07-75fe-4595-a4ad-d88dbb0a447a
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,6 +9,9 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 2
-categories: Nacionalismo y patriotismo
+parent_chapter: 0c19cae3-98a2-45ba-a607-41aadce4ec63
+children_promises:
+- e9335224-b482-4de5-8ccb-38f2d668ae79
+children_statements: []
 title: Protección símbolos nacionales
-has_children: true
+categories: Nacionalismo y patriotismo

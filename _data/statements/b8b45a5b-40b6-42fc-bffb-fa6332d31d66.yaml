@@ -1,7 +1,6 @@
 id: b8b45a5b-40b6-42fc-bffb-fa6332d31d66
 type: promise
-parent_statement: b1d3362b-5fb5-4227-8bd5-b0678e143733
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Organización territorial
+parent_statement: b1d3362b-5fb5-4227-8bd5-b0678e143733
+parent_chapter: 3985eb27-2ecc-4f17-a504-3aa15c5697d4
 text: Es necesario reforzar los mecanismos de concertación multilateral y bilateral entre las instituciones de la Generalitat de Catalunya y del Estado para el pleno desarrollo del autogobierno. Un diálogo permanente y respetuoso basado en el reconocimiento de una gobernanza multinivel y teniendo como horizonte que España debe avanzar hacia el pleno reconocimiento de su carácter plurinacional.
+categories: Organización territorial

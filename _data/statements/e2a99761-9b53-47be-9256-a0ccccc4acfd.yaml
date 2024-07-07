@@ -1,6 +1,6 @@
 id: e2a99761-9b53-47be-9256-a0ccccc4acfd
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 86
+parent_chapter: edbc5879-5cb0-4554-9252-868e2fa21ba6
+text: Consolidaremos la apuesta por el ecodiseño y la promoción de la reparación, la reutilización y el reciclaje.
 categories: Economía
 topics: Economía circular, Desarrollo sostenible
-text: Consolidaremos la apuesta por el ecodiseño y la promoción de la reparación, la reutilización y el reciclaje.

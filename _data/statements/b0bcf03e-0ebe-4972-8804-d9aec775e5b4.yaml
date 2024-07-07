@@ -1,7 +1,6 @@
 id: b0bcf03e-0ebe-4972-8804-d9aec775e5b4
 type: promise
-parent_statement: 5c9f0779-a7ee-4cda-ba15-0c45a3400b21
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +8,9 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 5c9f0779-a7ee-4cda-ba15-0c45a3400b21
+parent_chapter: 74598371-68ef-4270-bd2d-a2eb641d0378
+text: Tanto por el bien de las personas dedicadas a la ciencia como de las instituciones en las que esta se desarrolla, las cuestiones de gestión del personal, que resultan críticas, han de ser objeto de una profunda revisión.
 categories:
 - Ciencia y tecnología
 - Trabajo
-text: Tanto por el bien de las personas dedicadas a la ciencia como de las instituciones en las que esta se desarrolla, las cuestiones de gestión del personal, que resultan críticas, han de ser objeto de una profunda revisión.

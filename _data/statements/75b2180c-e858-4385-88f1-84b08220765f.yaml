@@ -1,6 +1,6 @@
 id: 75b2180c-e858-4385-88f1-84b08220765f
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 52
-categories: Política internacional
+parent_chapter: 06572758-339c-4185-bcc1-2905946110b7
 text: Culminación de la Unión Económica y Monetaria. El PSOE promoverá las medidas necesarias para proteger mejor a los europeos frente a nuevas eventuales crisis económicas, entre otras mediante la creación de un Seguro Europeo de Depósitos, y defenderá la progresiva armonización fiscal, para evitar el dumping fiscal entre países miembros, así como la erradicación de los paraísos fiscales.
+categories: Política internacional

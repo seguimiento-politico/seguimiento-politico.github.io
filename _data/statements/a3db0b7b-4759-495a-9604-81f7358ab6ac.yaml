@@ -1,7 +1,6 @@
 id: a3db0b7b-4759-495a-9604-81f7358ab6ac
 type: promise
-parent_statement: 327c4eb0-3745-4b1b-bcdf-df7b2c3f4728
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +8,9 @@ country: spain
 election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
+parent_statement: 327c4eb0-3745-4b1b-bcdf-df7b2c3f4728
+parent_chapter: ab7164cc-742b-48cf-adce-57d74cf0621d
+text: Impulsar una ley de mecenazgo, para que particulares y empresas puedan participar en la creación cultural, aumentando la deducción fiscal de las aportaciones así como en la restauración y protección del extenso patrimonio cultural nacional.
 categories:
 - Educación
 - Cultura
-text: Impulsar una ley de mecenazgo, para que particulares y empresas puedan participar en la creación cultural, aumentando la deducción fiscal de las aportaciones así como en la restauración y protección del extenso patrimonio cultural nacional.

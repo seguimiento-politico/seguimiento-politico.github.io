@@ -1,0 +1,19 @@
+id: ccce62bb-2cc8-4f0a-8ca1-badd6032d906
+type: promise
+parent_document: a613c4b6-f9dc-4926-8b9a-b87c233e5a75
+parties:
+- VOX
+election_type: europeas
+election_date: '2024-06-09'
+publication_date: '2024-05-30'
+page: 24
+text: Dejar sin efecto el sistema de fijación de precios marginalista y diseñar un sistema que remunere a cada tecnología generadora de electricidad en función de los costes declarados, calculados y verificados para el ejercicio de su actividad. Se debería establecer un sistema polinómico para ofrecer un mayor margen de beneficio a quien sea más eficiente.
+categories:
+- Energía
+topics:
+- name: Mercado eléctrico
+  status_quo_negative: null
+  proposed_actions:
+  - text: Dejar sin efecto el sistema de fijación de precios marginalista
+  - text: Diseñar un sistema que remunere a cada tecnología generadora de electricidad en función de los costes reales
+  - text: Se debería establecer un sistema polinómico para ofrecer un mayor margen de beneficio a quien sea más eficiente.

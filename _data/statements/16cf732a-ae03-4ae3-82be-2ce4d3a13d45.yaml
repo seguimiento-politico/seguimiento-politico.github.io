@@ -1,6 +1,6 @@
 id: 16cf732a-ae03-4ae3-82be-2ce4d3a13d45
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 15
-categories: Derechos y servicios sociales
+parent_chapter: f360b412-70cb-4328-97fa-d5dbb3ae05e0
 text: Mejoraremos las cuantías en el nivel mínimo y en el acordado de Dependencia. Se realizará un esfuerzo gradual para mejorar la financiación del nivel mínimo y se recupera el nivel acordado derogado por el Partido Popular. La financiación debe de ser de carácter finalista, a través de la recuperación de los convenios de acuerdos financieros entre Estado y comunidades autónomas que se derogaron en 2012.<br> Se realizará un estudio de las incompatibilidades entre las prestaciones del Sistema de Dependencia, para eliminar aquellas que no hayan demostrado su utilidad.
+categories: Derechos y servicios sociales

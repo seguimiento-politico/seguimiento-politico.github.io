@@ -1,6 +1,6 @@
 id: 05b5e278-165f-4976-b4e5-837da724a2b6
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 172
-categories: Derechos y servicios sociales
+parent_chapter: 5f57ba4e-d577-41a4-b2d9-7ff1612f735d
 text: Aprobaremos una legislación sanitaria respetuosa con el derecho a la vida y la integridad física y moral. Una Ley de Cuidados Paliativos asegurará el cuidado de las personas en las fases críticas y terminales de la vida, para reducir en la medida de lo posible el sufrimiento orgánico y sistémico, físico, psíquico y espiritual de los pacientes y puedan ser acompañados con el apoyo médico, psicológico y espiritual cualificado, y confortados por la cercanía de sus seres queridos para afrontar este trance de la forma más adecuada posible. También se habilitarán medidas de apoyo económico, social e institucional a familiares y cuidadores.
+categories: Derechos y servicios sociales

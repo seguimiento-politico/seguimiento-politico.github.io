@@ -1,6 +1,6 @@
 id: 81ecee29-043f-4812-959a-55c3f539de64
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 142
+parent_chapter: 5732e731-e59a-4bf7-9c33-280819845d40
+text: Difundiremos la Carta de Madrid como respuesta a la amenaza totalitaria y globalista encabezada por el Foro Sao Paulo y el Grupo de Puebla bajo el paraguas del régimen castrista.
 categories:
 - Política internacional
-text: Difundiremos la Carta de Madrid como respuesta a la amenaza totalitaria y globalista encabezada por el Foro Sao Paulo y el Grupo de Puebla bajo el paraguas del régimen castrista.

@@ -1,6 +1,6 @@
 id: aabb81d4-0ec8-4bfb-a831-41683406f1fb
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 34
+parent_chapter: ad5a3370-9a59-4310-96e4-a5294325d5fe
+text: Revisar el modelo de aplicación de la PAC de forma que las ayudas lleguen en mayor medida a quienes gestionan directamente las explotaciones agrícolas y viven principalmente de ello. Fomentar que las ayudas conduzcan a la mejora y optimización de las explotaciones.
 categories:
 - Política internacional
-text: Revisar el modelo de aplicación de la PAC de forma que las ayudas lleguen en mayor medida a quienes gestionan directamente las explotaciones agrícolas y viven principalmente de ello. Fomentar que las ayudas conduzcan a la mejora y optimización de las explotaciones.

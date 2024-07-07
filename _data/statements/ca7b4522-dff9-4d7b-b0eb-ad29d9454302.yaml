@@ -1,7 +1,6 @@
 id: ca7b4522-dff9-4d7b-b0eb-ad29d9454302
 type: promise
-parent_statement: 129f53e2-7e9d-4ebe-a8d8-b6c5b3c036ec
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 129f53e2-7e9d-4ebe-a8d8-b6c5b3c036ec
+parent_chapter: c794cb24-1c55-422f-8b6d-1ff29ad1ed87
+text: Reforzaremos los procedimientos mediante los que la Unión Europea contribuye a frenar los procesos de involución democrática en los Estados miembros.
 categories: Política internacional
 topics: Europa
-text: Reforzaremos los procedimientos mediante los que la Unión Europea contribuye a frenar los procesos de involución democrática en los Estados miembros.

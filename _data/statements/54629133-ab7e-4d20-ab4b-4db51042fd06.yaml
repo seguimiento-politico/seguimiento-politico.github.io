@@ -1,6 +1,6 @@
 id: 54629133-ab7e-4d20-ab4b-4db51042fd06
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 31
+parent_chapter: 9084fb76-14d5-4f08-b13b-74bd606de716
+children_promises:
+- eeeceec1-ace0-49c2-b30f-25280350aace
+children_statements: []
+title: Seguiremos desplegando las medidas contenidas en la Estrategia España Nación Emprendedora para potenciar el ecosistema emprendedor
 categories: Empresas y autónomos
 topics: Emprendimiento
-title: Seguiremos desplegando las medidas contenidas en la Estrategia España Nación Emprendedora para potenciar el ecosistema emprendedor
-has_children: true

@@ -1,6 +1,6 @@
 id: 02cfc0b8-1e56-40eb-9e85-72fef4f224db
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 178
+parent_chapter: 2f237cb0-ae0e-4a8f-a830-d1d1992f2a0f
+children_promises:
+- f937e6b8-41e2-41cf-bcf7-29b58fe0379b
+children_statements:
+- 4da30cb8-76ca-4745-a2c1-b8f626c6bd29
+title: Pacto de suelo presupuestario en inversión pública deportiva al 0,25% del PIB
 categories: Deporte
 topics: Financiación
-title: Pacto de suelo presupuestario en inversión pública deportiva al 0,25% del PIB
-has_children: true

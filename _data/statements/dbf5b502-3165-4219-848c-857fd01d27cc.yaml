@@ -1,6 +1,6 @@
 id: dbf5b502-3165-4219-848c-857fd01d27cc
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 49
-categories: Territorio rural
+parent_chapter: bfeb74d8-c8b3-47b4-b73b-61f1aaaf5305
 text: Garantizaremos la seguridad en nuestros pueblos, a partir de la recuperación del número de efectivos de las Fuerzas y Cuerpos de Seguridad del Estado, perdidos durante los siete años de la Administración anterior, y se impulsará el Plan de Infraestructuras.
+categories: Territorio rural

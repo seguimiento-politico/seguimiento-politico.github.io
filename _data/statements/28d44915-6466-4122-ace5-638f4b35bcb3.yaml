@@ -1,6 +1,6 @@
 id: 28d44915-6466-4122-ace5-638f4b35bcb3
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 66
+parent_chapter: dc33f933-12a0-4325-b761-1f9bf8c3ad0d
+children_promises:
+- bbf3cd38-dc80-45a4-8c06-b269bc68c629
+- c1bd8756-a3e8-4842-b6d3-8304594a3924
+- ef8026de-89c8-4263-9414-0e32a8f34de5
+- 4d129724-ac72-4236-a54e-33bcfd9608aa
+children_statements: []
+title: Refuerzo del papel de la mujer y visibilización de su contribución en las actividades pesqueras
 categories: Pesca y acuicultura
 topics: Desarrollo sostenible
-title: Refuerzo del papel de la mujer y visibilización de su contribución en las actividades pesqueras
-has_children: true

@@ -1,6 +1,6 @@
 id: 1e149231-b9e7-4a85-8d30-80c6f1ff59c3
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 96
+parent_chapter: b36e5d9e-ba98-45f0-8911-a0a18af0be33
+children_promises:
+- bfb0e72a-5c79-40dd-98fd-b948337b0dd1
+- 6c8feabb-4487-49ec-9330-ad32de784c88
+- 65a87d58-4ea3-456c-b7da-0f96504cf6dd
+children_statements: []
+title: 'Protección derechos infancia y familias: Adopción, participacion infantil y equiparación familias monoparentales a numerosas'
 categories: Familia
 topics: Incentivos, ayudas y subvenciones
-title: 'Protección derechos infancia y familias: Adopción, participacion infantil y equiparación familias monoparentales a numerosas'
-has_children: true

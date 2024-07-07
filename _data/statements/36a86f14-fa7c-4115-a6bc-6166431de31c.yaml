@@ -1,13 +1,17 @@
 id: 36a86f14-fa7c-4115-a6bc-6166431de31c
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 100
+parent_chapter: a14d9e07-0f76-434f-adc5-3af5b5819c36
+children_promises:
+- 6a49d4c5-76e2-468a-b5e6-fc32f7e15ebe
+- ada40846-717c-46d9-85be-0daa370c6994
+children_statements: []
+text: Revisaremos el diseño de los distintos instrumentos de planificación y coordinación de la cooperación al desarrollo como estrategias y planes directores, buscando una mayor complementariedad entre todos los actores de cooperación y una coherencia que dote de mayor eficiencia al sistema y que aproveche el conocimiento y la experiencia que existe en el conjunto de la cooperación al desarrollo de España.
 categories: Política internacional
 topics: Cooperación internacional
-text: Revisaremos el diseño de los distintos instrumentos de planificación y coordinación de la cooperación al desarrollo como estrategias y planes directores, buscando una mayor complementariedad entre todos los actores de cooperación y una coherencia que dote de mayor eficiencia al sistema y que aproveche el conocimiento y la experiencia que existe en el conjunto de la cooperación al desarrollo de España.
-has_children: true

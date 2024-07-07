@@ -1,6 +1,6 @@
 id: 0dcd7641-1c08-4a3d-be2a-f26a0d49ec4c
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 30
+parent_chapter: b8a5aa3d-8c58-4fdb-8ce8-c6eb037312b4
 title: Permisos por nacimiento y cuidado del menor iguales e intransferibles.
 text: Ampliaremos el sistema de permisos para que, en caso de nacimiento de un hijo o de una hija, adopción, guarda con fines de adopción y acogimiento, estos sean iguales, intransferibles y remunerados al 100 % de la base reguladora para cada progenitor o progenitora, independientemente de su sexo y tipo de familia Con estas características, propondremos la equiparación inmediata a 16 semanas para ambos progenitores o progenitoras y un aumento de 2 semanas al año hasta alcanzar las 24 semanas (medio año) para cada progenitor o progenitora.

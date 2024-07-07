@@ -1,6 +1,6 @@
 id: c95b4b02-2c42-402d-a262-bf748642609e
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 34
-categories: Educación
+parent_chapter: 8dc56675-db4f-4450-b565-3d1b2de80c30
 text: Impulsaremos la recuperación del prestigio y la autoridad del profesorado, reflejada tanto en sus condiciones laborales como en el respeto dentro del aula. Para ello, el sistema de acceso a la función pública docente tendrá carácter nacional y asegurará la igualdad y excelencia del personal docente mediante procesos de selección según el mérito y la capacidad.
+categories: Educación

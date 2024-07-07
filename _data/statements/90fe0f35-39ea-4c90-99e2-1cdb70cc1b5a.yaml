@@ -1,7 +1,6 @@
 id: 90fe0f35-39ea-4c90-99e2-1cdb70cc1b5a
 type: promise
-parent_statement: 39d9abf5-0f45-44cb-ac5c-609cdccf0423
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Sanidad
+parent_statement: 39d9abf5-0f45-44cb-ac5c-609cdccf0423
+parent_chapter: 17e4c412-8ac4-4992-848a-422903075ee3
 text: El gasto sanitario público aumentará anualmente medio punto del PIB hasta igualar el porcentaje promedio de los diez países europeos con mayor participación de gasto sanitario público sobre el PIB.
+categories: Sanidad

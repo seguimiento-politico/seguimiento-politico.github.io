@@ -1,6 +1,6 @@
 id: 8a2bae7d-8388-4437-8f0f-3b9b147877d2
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 55
+parent_chapter: 5d726eb0-d9d8-487a-b54a-76273c1b0a4a
+children_promises:
+- f3ee9f43-dfb0-4ccf-aff5-741b926c1fe1
+children_statements: []
+title: Apoyaremos los proyectos de digitalización de la cadena de valor de los diferentes sectores industriales
 categories: Economía
 topics: Digitalización
-title: Apoyaremos los proyectos de digitalización de la cadena de valor de los diferentes sectores industriales
-has_children: true

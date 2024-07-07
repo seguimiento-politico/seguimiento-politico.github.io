@@ -1,6 +1,6 @@
 id: 681e5f88-0b36-48a3-9064-2efca1d837a2
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 72
-categories: Medioambiente
+parent_chapter: 85ba981f-5588-4f5a-bd23-87684187301f
 text: En estos años, hemos activado un cambio profundo de nuestro sistema energético, haciéndolo más eficiente y renovable. Lo hemos hecho acompañando a trabajadores, trabajadoras y consumidores domésticos e industriales, persiguiendo una transición justa, pero dando cobertura en los momentos difíciles, no sólo para reducir la pobreza energética y generar oportunidades en las comarcas del carbón, sino también en el área de influencia de la central nuclear de Garoña, abandonada por el PP, que ahora cuenta con un plan específico. También en los tiempos duros, en los que la COVID nos encerró en casa o en los meses en los que la energía se convirtió en un arma de guerra en manos de Putin.
+categories: Medioambiente

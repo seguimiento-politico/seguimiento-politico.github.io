@@ -1,6 +1,6 @@
 id: 61a5f598-8251-482a-a32f-9ebd27398c92
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 26
-categories: Industria
+parent_chapter: 954de2bf-5021-4dd9-832f-397812195e64
 text: EN EL MARCO DE LAS MEDIDAS QUE FAVORECERÁN QUE LA INDUSTRIA ESPAÑOLA CUENTE CON UN PRECIO ELÉCTRICO ESTABLE para competir en igualdad de condiciones con el resto de países europeos, mejoraremos la dotación de acuerdo con la normativa europea para la compensación de los gastos de CO2 de la industria electrointensiva, con los ingresos procedentes de las subastas de derechos de emisión.
+categories: Industria

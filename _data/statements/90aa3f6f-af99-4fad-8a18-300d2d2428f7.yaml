@@ -1,11 +1,12 @@
 id: 90aa3f6f-af99-4fad-8a18-300d2d2428f7
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 75
-categories: Agua
+parent_chapter: 4a9e3cbd-f363-42a8-a5b1-9b48928e8bae
 text: Impulsaremos un Pacto Nacional por el Agua, consensuado con las Comunidades Autónoma, regantes, y todos los sectores afectados. Con él daremos cumplimiento a los objetivos medioambientales, respuesta a los déficits hídricos y garantizaremos la disponibilidad de agua en el futuro, desde la solidaridad y la cohesión territorial.<br> Este Pacto Nacional por el Agua deberá contener medidas orientadas a mitigar los efectos del cambio climático y garantizar los trasvases, que detienen el avance de la desertización, son vitales para el abastecimiento de la población y aseguran el futuro del sector agrícola español.
+categories: Agua

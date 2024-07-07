@@ -1,6 +1,6 @@
 id: 3c6b434a-1e35-47ff-bb7e-2729f122d0a7
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 106
-categories: Educación
+parent_chapter: d74bc2c5-b632-425b-ae29-fb826a1b8e06
 text: Impulsaremos programas de fomento y estímulo de la lectura para mejorar la competencia y comprensión lectora del alumnado, capacitar para la búsqueda, análisis y procesamiento crítico de la información recibida en diferentes tipos de soportes, elaborar sus propios mensajes y desenvolverse con éxito en la sociedad de la información, la comunicación y el conocimiento.
+categories: Educación

@@ -1,7 +1,6 @@
 id: dedb04d3-d0a7-4b72-8616-bb542b7abd66
 type: promise
-parent_statement: d18201b8-0a96-421d-9d45-7b8f9dd1984a
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: d18201b8-0a96-421d-9d45-7b8f9dd1984a
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+text: Se ahondará en la integración de la perspectiva de género en la formulación, implementación y monitoreo de las políticas relacionadas con la transición ecológica y con el cambio climático; se deberá contar con las mujeres como agentes de cambio, incrementando especialmente su presencia en los puestos relacionados con esta materia que impliquen toma de decisiones.
 categories: Democracia
 topics: Igualdad
-text: Se ahondará en la integración de la perspectiva de género en la formulación, implementación y monitoreo de las políticas relacionadas con la transición ecológica y con el cambio climático; se deberá contar con las mujeres como agentes de cambio, incrementando especialmente su presencia en los puestos relacionados con esta materia que impliquen toma de decisiones.

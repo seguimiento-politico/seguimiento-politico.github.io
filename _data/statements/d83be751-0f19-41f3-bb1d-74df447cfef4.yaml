@@ -1,6 +1,6 @@
 id: d83be751-0f19-41f3-bb1d-74df447cfef4
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,9 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 164
+parent_chapter: 2fd23be2-e41d-4c13-aa3d-11392bf2ab12
+children_promises:
+- 364993ec-9c78-455f-aa7e-5c48e9bba692
+- db6efa78-6c6a-4165-b7de-b5091866ceba
+children_statements: []
+title: Rendición de cuentas y transparencia asegurando, entre otros aspectos, la contabilidad analítica en todas las universidades públicas, e incentivación de una incorporación en las restantes que permita establecer estándares estatales de costes (lo que redundará en una mejor financiación)
 categories: Educación
 topics:
 - Financiacíón
 - Gobernanza y transparencia
-title: Rendición de cuentas y transparencia asegurando, entre otros aspectos, la contabilidad analítica en todas las universidades públicas, e incentivación de una incorporación en las restantes que permita establecer estándares estatales de costes (lo que redundará en una mejor financiación)
-has_children: true

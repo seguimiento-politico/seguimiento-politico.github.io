@@ -1,7 +1,6 @@
 id: 84e0702b-9efb-4f2d-8915-32292cbf6e7f
 type: promise
-parent_statement: ba7874b0-0dff-40c0-ab89-aaaa6e7bf8e0
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Seguridad y defensa
+parent_statement: ba7874b0-0dff-40c0-ab89-aaaa6e7bf8e0
+parent_chapter: 66b190ef-617c-438a-adf3-a3c9f707719b
 text: Esta ley también creará un marco regulatorio armonizador a las distintas normativas municipales sobre convivencia ciudadana, que desafortunadamente en numerosas ocasiones han tendido a criminalizar la marginación social y han priorizado la intervención policial ante conflictos que frecuentemente son de naturaleza social.
+categories: Seguridad y defensa

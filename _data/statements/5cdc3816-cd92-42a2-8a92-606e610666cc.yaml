@@ -1,6 +1,6 @@
 id: 5cdc3816-cd92-42a2-8a92-606e610666cc
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 259
+parent_chapter: 82bbf2d2-ddcc-4c0a-9b0c-5bac5677e936
+text: Daremos un impulso a la Autonomía Estratégica Abierta de la UE a corto y medio plazo con el objetivo de formular una agenda consensuada para una Unión más fuerte, competitiva y resiliente en los próximos años, que sea socialmente justa y medioambientalmente sostenible.
 categories: Política internacional
 topics: Europa
-text: Daremos un impulso a la Autonomía Estratégica Abierta de la UE a corto y medio plazo con el objetivo de formular una agenda consensuada para una Unión más fuerte, competitiva y resiliente en los próximos años, que sea socialmente justa y medioambientalmente sostenible.

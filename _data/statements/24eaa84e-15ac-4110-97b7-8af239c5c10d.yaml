@@ -1,6 +1,6 @@
 id: 24eaa84e-15ac-4110-97b7-8af239c5c10d
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 52
-categories: Educación
+parent_chapter: a9015bc2-6b3d-40b7-bf93-f53764c97c24
 text: FOMENTAREMOS LA EFICIENCIA Y LA EFICACIA EN LA GESTIÓN DE LAS UNIVERSIDADES ESPAÑOLAS, MEJORANDO SU GOBERNANZA y fortaleciendo la rendición de cuentas. Incluiremos los principios de estabilidad presupuestaria y sostenibilidad financiera en el ámbito universitario.
+categories: Educación

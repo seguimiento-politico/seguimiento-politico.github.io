@@ -1,6 +1,6 @@
 id: cc834f2d-3d8f-45e6-9868-8cc25c050948
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 25
+parent_chapter: 9541bf1a-337b-46af-897e-74b015fabf16
+text: Profundizaremos en la creación de fondos de pensiones de empleo, desarrollando el segundo pilar de protección, en el ámbito laboral, para aumentar las posibilidades de ahorro y mejorar la calidad de vida de las personas de cara a la jubilación.
 categories: Economía
 topics: Pensiones
-text: Profundizaremos en la creación de fondos de pensiones de empleo, desarrollando el segundo pilar de protección, en el ámbito laboral, para aumentar las posibilidades de ahorro y mejorar la calidad de vida de las personas de cara a la jubilación.

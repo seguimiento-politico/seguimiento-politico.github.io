@@ -1,6 +1,6 @@
 id: be79c27a-0e8b-4f93-a187-9ce49fdcf182
-type: declaration
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+type: statement
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 5
+parent_chapter: db3c527d-962f-4542-b1b9-49840d241ec0
 text: 'En uno de los dos caminos que se separan, el antiguo bipartidismo se fortalece apoyado en diferentes partidos satélite, los derechos de las personas se siguen violando y los retos de país siguen pendientes. Al final de ese camino, cuando llega la nueva crisis, el Gobierno hace exactamente lo mismo que hicieron PSOE y PP en la última: austeridad, recortes y apretarse el cinturón..., pero solamente para los de abajo. Aunque lo llaman «crisis» y la mayoría de la sociedad sufre retrocesos, aumenta el número de millonarios y los beneficios de las grandes corporaciones crecen.'

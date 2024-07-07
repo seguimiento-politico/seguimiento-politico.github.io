@@ -1,6 +1,6 @@
 id: 59d72249-1858-4045-8c98-3b9b9862eac2
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 104
+parent_chapter: 5a78c83a-e028-4353-b943-e627cc312cee
+children_promises:
+- c3a9bfe7-d774-4f5f-8bba-3e8afd497bbc
+- e2183f18-f01f-43c7-b969-ff897efda827
+- 6c3f1fef-6129-4a00-9192-0338a37d313b
+children_statements: []
+title: Desarrollo del reglamento de la ley reguladora del derecho de asilo y la protección subsidiaria, sistematizando el acceso al asilo por vía diplomática
 categories: Migración
 topics: Racismo
-title: Desarrollo del reglamento de la ley reguladora del derecho de asilo y la protección subsidiaria, sistematizando el acceso al asilo por vía diplomática
-has_children: true

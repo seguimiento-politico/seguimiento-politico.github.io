@@ -1,7 +1,6 @@
 id: 4a924f3e-f364-48fe-a5ae-198f03191050
 type: promise
-parent_statement: d684f8b6-a65f-4470-a17b-4edc9fb1c16b
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: d684f8b6-a65f-4470-a17b-4edc9fb1c16b
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+text: Del mismo modo, promoveremos estudios que analicen el impacto de las condiciones laborales en la generación de riesgos para la seguridad y la salud de estas trabajadoras con la finalidad principal de desarrollar políticas de prevención con perspectiva de género e identificar riesgos específicos para la seguridad y la salud, así como actualizar en consecuencia el listado de enfermedades profesionales, entre otros objetivos.
 categories: Democracia
 topics: Igualdad
-text: Del mismo modo, promoveremos estudios que analicen el impacto de las condiciones laborales en la generación de riesgos para la seguridad y la salud de estas trabajadoras con la finalidad principal de desarrollar políticas de prevención con perspectiva de género e identificar riesgos específicos para la seguridad y la salud, así como actualizar en consecuencia el listado de enfermedades profesionales, entre otros objetivos.

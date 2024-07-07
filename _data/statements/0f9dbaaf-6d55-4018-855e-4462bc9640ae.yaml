@@ -1,12 +1,13 @@
 id: 0f9dbaaf-6d55-4018-855e-4462bc9640ae
 type: promise
-parent_statement: b91f0e55-26bf-44f2-b897-c7cb514a5646
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 92
-categories: Vivienda
+parent_statement: b91f0e55-26bf-44f2-b897-c7cb514a5646
+parent_chapter: 6e973242-6d41-499e-94de-956afd2800b4
 text: Reforzaremos los medios al alcance de las comunidades de propietarios para mejorar la convivencia vecinal, combatir las conductas incívicas y lograr mayor seguridad.
+categories: Vivienda

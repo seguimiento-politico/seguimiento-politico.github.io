@@ -1,6 +1,6 @@
 id: bf5301da-03af-4688-b8d1-ec817c669528
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 21
+parent_chapter: b7666ade-9a66-49ca-9621-feeda6f1a0e3
+text: Impulsaremos la protección y el bienestar de los animales. Para ello, se desarrollará la Directiva 2010/63/UE del Parlamento Europeo y del Consejo Europeo relativa a la protección de los animales utilizados para fines científicos, y se pondrán en marcha nuevos planes estatales contra el maltrato a los animales.
 categories: Economía
 topics: Desarrollo sostenible
-text: Impulsaremos la protección y el bienestar de los animales. Para ello, se desarrollará la Directiva 2010/63/UE del Parlamento Europeo y del Consejo Europeo relativa a la protección de los animales utilizados para fines científicos, y se pondrán en marcha nuevos planes estatales contra el maltrato a los animales.

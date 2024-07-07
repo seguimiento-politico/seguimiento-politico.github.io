@@ -1,11 +1,12 @@
 id: b4fc1f20-5eb9-4e1c-9d93-1c8b8f5a0a75
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 63
-categories: Infraestructuras
+parent_chapter: e7e32caa-a667-406f-a8b0-882e269ca655
 text: Aprobaremos una normativa que incentive el despliegue de una red de puntos de recarga de electricidad y gas para vehículos por todo el territorio nacional.
+categories: Infraestructuras

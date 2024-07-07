@@ -1,6 +1,6 @@
 id: 4838ec44-8f15-4381-a48c-d8a20c69711b
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 34
-categories: Seguridad y defensa
+parent_chapter: 2ae0c74d-ab67-4ac0-a7a2-2a333943bb75
 text: Desarrollaremos el Plan de Acción contra los delitos de odio, para garantizar la protección de los derechos y libertades de todas las personas, con independencia de sus circunstancias personales o sociales, así como la aplicación efectiva de la Ley del Estatuto de la Víctima, para procurar la atención integral y especializada a las víctimas de los delitos de odio, garantizando el resarcimiento de sus derechos, a partir de la imprescindible formación de todos los que intervienen en la respuesta ante estos delitos.
+categories: Seguridad y defensa
+topics: Igualdad

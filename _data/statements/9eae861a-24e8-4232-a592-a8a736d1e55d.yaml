@@ -1,6 +1,6 @@
 id: 9eae861a-24e8-4232-a592-a8a736d1e55d
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,8 +9,15 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 172
+parent_chapter: f9ecf2a6-febf-46fc-a961-5572a6563078
+children_promises:
+- d44f73b4-e94e-4808-a044-4cb243616bb2
+- 600c71fd-e874-49f5-95cd-5f3d014eeab7
+- cfa8b83d-10ff-43ad-9891-f6135d48fab9
+- 62a333a7-3e90-4de7-8cc5-42e49e32f03b
+- 7c3a99a0-81fb-4eab-9d55-ea9b87a83b32
+children_statements: []
+title: Pacto de Educación y Cultura
 categories:
 - Cultura
 - Educación
-title: Pacto de Educación y Cultura
-has_children: true

@@ -1,6 +1,6 @@
 id: 107186c0-09cb-11ed-a0d2-6fd1e8b9a6a8
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 6
-categories: Economía
+parent_chapter: 9cd5db4f-b174-4b60-895b-fd6bc37b16f4
 title: Impulsaremos la lucha contra el fraude laboral
 text: 'Para ello apostamos por el uso de las nuevas tecnologías, automatizando y conectando procesos y Big Data de diversas unidades administrativas y reforzando el sistema de control y sancionador. Los esfuerzos se centrarán en tres áreas: <br>1) el abuso de la contratación temporal concatenada sobre un mismo trabajador o trabajadora, o un mismo puesto de trabajo; <br>2) el uso fraudulento del contrato a tiempo parcial con jornadas no declaradas y <br>3) identificaremos relaciones extra laborales que deberían articularse a través de contratos de trabajo como por ejemplo falsos autónomos, falsos cooperativistas y falsos becarios. Perseguiremos el fraude de los falsos autónomos, prestando especial atención a las situaciones en las que los ingresos obtenidos por los trabajadores y las trabajadoras procedan de un único cliente o empleador.'
+categories: Economía

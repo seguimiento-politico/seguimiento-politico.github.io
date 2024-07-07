@@ -1,0 +1,25 @@
+name: Agricultura
+other: []
+other_count: 0
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- &id001
+  id: db2d4bf3-d7d9-4dfb-9b43-9a0063c89037
+  parties:
+  - VOX
+- &id002
+  id: 666fa654-af9f-496b-b5be-9a3aa1155443
+  parties:
+  - VOX
+statements_count: 2
+status_quo_negative:
+- *id001
+- *id002
+status_quo_negative_count: 2
+status_quo_positive: []
+status_quo_positive_count: 0

@@ -1,6 +1,6 @@
 id: 9ee370ee-9dbd-448d-a5b0-ef5db0b7e4c6
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,16 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 26
-categories: Trabajo
+parent_chapter: 89ad30e0-548c-47cd-a92a-62d44e2dbb0f
+children_promises:
+- 8c65b64f-d3d8-471c-af46-5d2aacbc8885
+- 0b789a59-9e81-420c-89fd-f9bb6499b013
+- 18e3c44c-7909-4276-bbd9-a9414b9e4881
+- 5a066666-b050-4743-b867-f6b342737dff
+- 9bf69ab3-8dbf-4752-8df3-fa6a89680f10
+- 5237f2b5-aaa3-40ca-82e4-5325101c3c0b
+- 1e25db63-1e08-4232-a6b6-282226c0616c
+- 2d9b42f7-1c58-453e-afe6-574090214cae
+children_statements: []
 title: Avanzar en la mejora de las condiciones de trabajo y la garantía de los derechos laborales
-has_children: true
+categories: Trabajo

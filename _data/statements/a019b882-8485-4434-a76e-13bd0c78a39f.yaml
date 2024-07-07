@@ -1,6 +1,6 @@
 id: a019b882-8485-4434-a76e-13bd0c78a39f
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 64
-categories: Derechos y servicios sociales
+parent_chapter: d8e47013-d4f2-4ad6-a46d-2514ab7cb432
 text: Estableceremos la prioridad nacional en las ayudas sociales y los programas de acceso a la vivienda.
+categories: Derechos y servicios sociales

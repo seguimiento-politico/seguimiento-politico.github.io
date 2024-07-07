@@ -1,6 +1,6 @@
 id: 437c5ee8-2fbc-4981-89ad-a8784b401808
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 129
+parent_chapter: a7853898-5bb1-4a7c-8910-f570fc691c52
+text: Impulsaremos un nuevo plan penitenciario y un aumento del personal de equipamiento de los funcionarios de prisiones. Eliminaremos los privilegios penitenciarios a los presos condenados por terrorismo. Además, prohibiremos la utilización de los centros penitenciarios para el intercambio de presos peligrosos a cambio del acercamiento de presos de ETA a las cárceles vascas.
 categories:
 - Justicia
-text: Impulsaremos un nuevo plan penitenciario y un aumento del personal de equipamiento de los funcionarios de prisiones. Eliminaremos los privilegios penitenciarios a los presos condenados por terrorismo. Además, prohibiremos la utilización de los centros penitenciarios para el intercambio de presos peligrosos a cambio del acercamiento de presos de ETA a las cárceles vascas.

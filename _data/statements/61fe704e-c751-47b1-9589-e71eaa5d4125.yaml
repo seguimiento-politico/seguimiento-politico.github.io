@@ -1,6 +1,6 @@
 id: 61fe704e-c751-47b1-9589-e71eaa5d4125
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 145
+parent_chapter: b02c7ae9-7dac-4eaa-9314-57d155a1078e
+text: Proposición no de Ley relativa a reconocer y promocionar el legado español en Iberoamérica (septiembre 2020).
 categories:
 - Política internacional
-text: Proposición no de Ley relativa a reconocer y promocionar el legado español en Iberoamérica (septiembre 2020).

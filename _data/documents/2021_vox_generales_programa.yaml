@@ -9,28 +9,29 @@ url: https://www.voxespana.es/wp-content/uploads/2021/10/AgendaEspana_VOX.pdf
 web_history: https://web.archive.org/web/20211016061534/https://www.voxespana.es/wp-content/uploads/2021/10/AgendaEspana_VOX.pdf
 title: Agenda España 2021
 content:
-- declaration:
+- statement:
     id: ea7a9a75-0928-47c1-998c-d2aa98154d83
     page: 3
     text: "Queridos compatriotas: En octubre de 2018 VOX presentó 100 medidas urgentes para España. Nuestra Nación sufría entonces la amenaza del golpe separatista, los efectos nocivos de la última gran crisis económica, las consecuencias de la inmigración ilegal y la hegemonía cultural y política de la izquierda. ¿Cuántas de las medidas que entonces proponíamos nos habrían evitado dolor, ruina, problemas de convivencia o restricción de derechos? ¿Dónde estaría España si se hubieran puesto en práctica los valores del patriotismo y la libertad?<br> En 2021, y tras sufrir todos los españoles tres largos años de división, ruina y ataque a nuestras instituciones, VOX da otro paso hacia adelante y presenta la Agenda España: una respuesta a las agendas globalistas que pretenden la destrucción de las clases medias, la liquidación de la soberanía de las naciones y el ataque a la familia, la vida y las raíces comunes de Occidente.<br> El porvenir de nuestra patria depende de que seamos capaces de robustecer los vínculos que nos unen, preservar nuestra identidad nacional y cuidar las libertades amenazadas por los nuevos totalitarismos y la inmigración ilegal masiva.<br> Por ello, frente a los intereses que defienden las elites progresistas, la Agenda España tiene como único objetivo proteger a los españoles, atender a sus necesidades y dotar a las próximas generaciones de un horizonte de libertad, igualdad, prosperidad, justicia y respeto por sus valores y tradiciones."
 - chapter:
+    id: 11befd65-ee33-41f0-9452-e91d2cec32fe
     title: Igualdad entre españoles
     categories: Derechos y servicios sociales
     topics: Igualdad
     children:
-    - declaration:
+    - statement:
         id: c5baf67e-4f48-4528-bfa6-7d653881127b
         page: 5
         text: El consenso partitocrático, de la mano de las agendas importadas, pretende profundizar en una “España multinivel” con ciudadanos de primera y segunda categoría en función de su lugar de nacimiento, con una evidente desigualdad en el ejercicio de derechos o el disfrute de oportunidades. 40 años de ensayo autonómico nos han dejado una comunidad política dividida en 17 reinos de taifas, un enorme caos administrativo, lazos afectivos debilitados y un país sumamente desigual.
-    - declaration:
+    - statement:
         id: ced59c74-bfc7-4a13-84b6-6e8b4fdaa042
         page: 5
         text: Además, en contra de lo esperado, el estado autonómico se ha convertido en enemigo de la rica diversidad de España, atacando la pluralidad provincial y comarcal y tratando de homogeneizar territorios artificialmente.
-    - declaration:
+    - statement:
         id: e5cb302b-34d0-4bb3-b72b-3f180a13c731
         page: 5
         text: Una España sin distinciones ni fronteras internas es la mejor garantía de prosperidad y bienestar para todos. Un Estado al servicio de la unidad que fortalezca los vínculos entre españoles, favorezca la solidaridad entre personas y entre territorios, garantice el funcionamiento óptimo de la administración y vele por el bien común.
-    - declaration:
+    - statement:
         id: 66859102-c412-494c-9bd5-6ea0d67d94a3
         page: 5
         text: Garantizar la igualdad entre españoles pasa por derogar toda legislación que atenta contra la igualdad entre hombres y mujeres, así como instrumentos políticos ineficaces y discriminatorios tales como las cuotas, la paridad obligatoria o la preferencia de un sexo sobre otro en la contratación pública."
@@ -66,18 +67,19 @@ content:
         id: bf518b6f-0a45-4374-bca1-ecaeb406f249
         text: Suprimir todos los organismos ideológicos y subvenciones a partidos, sindicatos, patronales y otros entes políticos. No habrá igualdad real entre españoles mientras una casta privilegiada viva del esfuerzo del español de a pie.    
 - chapter:
+    id: a8e5bc4c-5dd0-43ee-95f8-225717b7f81b
     title: Unidad de España
     categories: Nacionalismo y patriotismo
     children:
-    - declaration:
+    - statement:
         id: 56408370-7ca9-4775-a2de-c87225a0fc09
         text: El desarrollo de la llamada “España multinivel” en las agendas globalistas pretende una reforma federal del estado autonómico, agravando la desvertebración territorial de España y transfiriendo más poder a los diferentes movimientos separatistas y nacionalistas.
         page: 7
-    - declaration:
+    - statement:
         id: 7292dda8-2258-4000-9d7c-bd4d387ccf37
         text: El futuro pasa por una España unida, orgullosa de su variedad y su pluralidad, administrativamente descentralizada pero políticamente unitaria. La titularidad de la soberanía nacional, que reside en el pueblo español en su conjunto, se sustenta en la indisoluble unidad de la Nación española.
         page: 7
-    - declaration:
+    - statement:
         id: f6d2b767-534d-4a10-a33d-c98ad46dd40d
         text: Es urgente recuperar para el proyecto común de España a esos miles de compatriotas que se han desvinculado sentimentalmente de la Nación, azuzados por el brutal adoctrinamiento ideológico del separatismo y del globalismo.
         page: 7
@@ -106,18 +108,19 @@ content:
         title: Derogar todas las leyes que alienten el enfrentamiento y la división entre españoles, como las llamadas leyes de “memoria democrática” o “memoria histórica”.
         page: 8
 - chapter:
+    id: a34fa567-045d-4af8-adb5-b2a7ec58bb17
     title: Empleo y salarios dignos
     categories: Trabajo
     children:
-    - declaration:
+    - statement:
         id: 7b1e6f80-7785-4bb3-9be3-3699bebc57e4
         text: Entre las consecuencias de décadas de políticas socialistas y globalistas están la precarización del trabajo y la destrucción de empleos en sectores clave de nuestra economía. La política de puertas abiertas a productos extranjeros fabricados en condiciones de semiesclavitud, y no sometidos a las exigencias nacionales o comunitarias, arruina a nuestras empresas, nuestro campo y nuestra industria.
         page: 9
-    - declaration:
+    - statement:
         id: 7a959551-cc34-457e-8d0e-eaeee7106d82
         text: Los grandes sindicatos subvencionados y la patronal defienden sus privilegios y abandonan a los españoles, convirtiéndose en muleta de los gobiernos y en elementos de choque contra los trabajadores y los verdaderos empresarios.
         page: 9
-    - declaration:
+    - statement:
         id: ae3d1162-3103-49a7-b87e-8cbd781cd24a
         text: Todos los trabajos son esenciales y todos los trabajadores españoles deben ser defendidos. Debemos proteger a los trabajadores de España y favorecer un marco para la creación de empleo, la movilidad social y el desarrollo personal y profesional que permita a los españoles acceder a empleos estables con salarios dignos, combatiendo la precariedad laboral y garantizando la conciliación.
         page: 9
@@ -154,30 +157,31 @@ content:
         page: 10
         text: Avanzar hacia un marco jurídico y laboral adaptado a las cada vez más comunes circunstancias de teletrabajo, que puede servir para mejorar la conciliación de la vida familiar y social siempre y cuando se aseguren unas condiciones laborales adecuadas. Esta nueva modalidad de empleo puede servir también para que muchas familias tengan la libertad de salir de los grandes núcleos urbanos y volver a sus pueblos y ciudades.
 - chapter:
+    id: 9c099206-10d7-4c4f-864e-cbe322afde2e
     title: Educación en libertad
     categories: Educación
     children:
-    - declaration:
+    - statement:
         id: 3710d338-71e0-4e7f-9041-6b76a52a874a
         text: Las diferentes agendas globalistas profundizan en los ataques a la libertad educativa que sufrimos en España. 
         page: 11
-    - declaration:
+    - statement:
         id: 42953b40-77af-43b8-b705-11bf5310f9e0
         text: Además, el sistema autonómico y la existencia de diecisiete modelos educativos diferentes profundiza en las diferencias de oportunidades en función de la región donde se resida.
         page: 11
-    - declaration:
+    - statement:
         id: 1fafe27a-6792-416c-9370-3db4c836e334
         text: La educación es un pilar fundamental sobre el que se desarrolla el futuro y la prosperidad de nuestra Nación.
         page: 11
-    - declaration:
+    - statement:
         id: e9eaa95e-1c5d-4e3f-a096-adb016f25967
         text: Para asegurar la libertad educativa se debe acabar con el adoctrinamiento ideológico en las aulas y con la exclusión del español en muchas partes de España.
         page: 11
-    - declaration:
+    - statement:
         id: 9c2a4ab0-f30f-4375-89b4-6b4fbdcb2c3f
         text: El Estado ha de recuperar las competencias educativas y garantizar la igualdad de oportunidades para todos los españoles.
         page: 11
-    - declaration:
+    - statement:
         id: b5f4b9f0-9e24-47fa-a778-90fe501fba65
         text: La educación debe ser el ascensor social que permita a los jóvenes españoles alcanzar sus metas sin que sus condiciones sociales o económicas supongan un impedimento para su progreso. Ningún español puede quedarse sin estudiar por falta de recursos económicos.
         page: 11  
@@ -193,10 +197,10 @@ content:
         id: 70eadc81-d163-473e-8266-2f56d737fa5c
         page: 12
         text: Garantizar el derecho a ser educado en español en todo el territorio nacional y el deber de todos los españoles de conocer la lengua común.
-    - declaration:
+    - statement:
         id: 0ca740d9-0248-4003-8334-91db47492924
         text: Los hijos no son del Estado ni de los organismos supranacionales. Son de sus padres.
-    - declaration:
+    - statement:
         id: a4d33aa2-d239-4b30-ac6b-2bc76bba0f35
         text: Por eso, los padres y tutores deben recuperar su legítima autoridad y protagonismo en su educación.
     - promise:
@@ -228,18 +232,19 @@ content:
         page: 12
         text: Dignificar los oficios y las artes mediante el impulso a la formación profesional. La Formación Profesional debe ser una opción atractiva para que nuestros jóvenes adquieran las herramientas que les permitan acceder a un empleo o emprender una iniciativa empresarial propia.
 - chapter:
+    id: 0b5e6425-7b00-4911-86d2-9b06e2441b9b
     title: Acceso a la vivienda
     categories: Vivienda
     children:
-    - declaration:
+    - statement:
         id: f0e028bc-c95d-4a18-82e2-02dd44199f3a
         page: 13
         text: "Las diferentes agendas globalistas confluyen en la idea principal de rechazar la propiedad como elemento esencial en la libertad de los ciudadanos. El acceso a una vivienda en España se ha convertido en un camino lleno de obstáculos: subidas de impuestos, regulación, falta de vivienda social, aumento de precios por la falta de oferta, especulación, complicidad con los movimientos de “okupación” ilegal de viviendas, etc."
-    - declaration:
+    - statement:
         id: 7d24abfb-8e69-474c-a309-a76202384a66
         page: 13
         text: La posibilidad de acceder a una vivienda no puede convertirse en un lujo que solo unos pocos puedan permitirse. Todos los españoles deben tener acceso a un hogar en el que puedan desarrollar su proyecto de vida y formar una familia.
-    - declaration:
+    - statement:
         id: 627e43ed-a1e9-47f0-8599-64a96b62e2a4
         page: 13
         text: La protección de la propiedad y la intimidad en el hogar resulta imprescindible. Por ello, se debe endurecer la ley contra las mafias de la “ocupación” a la vez que se garantiza un techo a todo español necesitado.
@@ -260,18 +265,19 @@ content:
         page: 14
         text: Reforma tanto del Código Penal como de las Leyes de Enjuiciamiento Criminal y Civil para proteger real y efectivamente a los propietarios que sufren la acción de las mafias de ocupación o la entrada ilegal de un intruso en su vivienda. Todo español debe tener la capacidad de defenderse a sí mismo y a los suyos ante una agresión en su propio hogar.
 - chapter:
+    id: 15957f8e-1f85-4690-833e-97db1ad6f08c
     title: Producido en España 
     categories: Comercio
     children:
-    - declaration:
+    - statement:
         id: dd3f9c8a-27cc-4bd4-8c39-8309db7da2e3
         page: 15
         text: La industria nacional vive momentos críticos acosada por una pésima política económica, la competencia desleal y una irresponsable “transición ecológica” impulsada en las leyes climáticas. Las distintas iniciativas estratégicas promovidas por las elites globalistas pretenden cargar a nuestros productores con regulaciones inasumibles que terminan por destruir nuestro mar, nuestro campo y nuestra industria.
-    - declaration:
+    - statement:
         id: f2ef92f5-793c-43ab-8218-2a5263a2ad65
         page: 15
         text: La política de puertas abiertas al producto extranjero supone, a su vez, la desaparición de numerosas explotaciones agrícolas y ganaderas, incapaces de hacer frente a la competencia desleal de los productos procedentes de países en vías de desarrollo.
-    - declaration:
+    - statement:
         id: 0c996897-031b-4b8a-8484-48ea00ebf91b
         page: 15
         text: Es urgente acabar con esta legislación que arruina a nuestros productores, destruye miles de puestos de trabajo y acelera el drama de la despoblación en la España abandonada por los sucesivos gobiernos. China y otras potencias no pueden seguir beneficiándose de las políticas verdes europeas mientras lideran las estadísticas de contaminación y trabajo en condiciones de semiesclavitud, violando de manera sistemática las exigencias de una competencia leal.
@@ -304,18 +310,19 @@ content:
         page: 16
         text: Refuerzo de la acción diplomática y consular dirigida a proteger y ayudar a los trabajadores y empresas españoles en el extranjero, así como garantizar siempre el efectivo ejercicio de sus derechos.
 - chapter:
+    id: 76f5a4bd-043f-422d-98a0-fecfe8c46fdf
     title: Salud
     categories: Sanidad
     children:
-    - declaration:
+    - statement:
         id: dcd69106-ad13-4615-aa27-e18217adfa53
         page: 17
         text: China es el responsable de la expansión del virus de Wuhan a nivel mundial y debe pagar las consecuencias de sus irresponsabilidades. El gobierno comunista ocultó los datos al resto del mundo e impide que las autoridades internacionales investiguen el origen de la pandemia.
-    - declaration:
+    - statement:
         id: e667e951-923c-4a6c-9e0a-0e7feee5379a
         page: 17
         text: "La pandemia también ha elevado al primer plano un problema de especial magnitud: el sistema sanitario y las deficiencias del estado autonómico. La existencia de diecisiete sistemas de Sanidad ha generado desprotección entre nuestros compatriotas y ha obstaculizado la correcta lucha contra la pandemia."
-    - declaration:
+    - statement:
         id: 2e32e329-3f67-4c15-9861-3e0391ec80ca
         page: 17
         text: Los recursos públicos deben destinarse exclusivamente a mejorar y fortalecer un sistema de atención sanitaria único, sin distinciones entre españoles y garantizado la igualdad de servicios en todo el territorio nacional.
@@ -356,18 +363,19 @@ content:
         page: 18
         text: Desarrollo de un sistema de compras centralizado que acabe con las ineficiencias autonómicas y garantice la transparencia de las decisiones económicas.
 - chapter:
+    id: b56c35d8-c066-45e2-8c61-4c2f3c0b80a9
     title: Protección social de los españoles
     categories: Derechos y servicios sociales
     children:
-    - declaration:
+    - statement:
         id: 62c97e6a-72e3-4d42-b053-15abc4fe275a
         page: 19
         text: "Las diferentes agendas globalistas perseveran en las mismas recetas fallidas de siempre para combatir la desigualdad social: fomento de la inmigración ilegal, aumento de la presión fiscal e incremento del gasto político (fundamentalmente relacionado con la ideología de género, el multiculturalismo o la nueva religión climática)."
-    - declaration:
+    - statement:
         id: 8fd54760-ba24-401a-badc-bdd604bb4696
         page: 19
         text: Sus autores quieren una sociedad desnortada, sin arraigo, sin lazos, sin tradiciones, en la que los españoles estén enfrentados por el sexo y divididos por el territorio o la historia.
-    - declaration:
+    - statement:
         id: 418f812d-2e59-473a-aa04-7b9224c1e4cb
         page: 19
         text: Es preciso proteger a los españoles y garantizar la permanencia y el fortalecimiento de su estado de bienestar, aumentando la inversión en Sanidad, Educación, Dependencia, Pensiones e Infraestructuras a través de una reducción de todo el gasto político innecesario.
@@ -404,19 +412,19 @@ content:
         page: 20
         text: Regulación de la proliferación de casas de apuestas e impulso de acciones reales para la prevención de la ludopatía.
 - chapter:
-    id: 9
+    id: cc54c662-37b4-4dac-bee3-d45df9edf41e
     title: Fiscalidad para la prosperidad
     categories: Impuestos y financiación pública
     children:
-    - declaration:
+    - statement:
         id: 7b4777fa-4125-46d0-83d5-fe6750a80285
         page: 21
         text: Las agendas globalistas apuestan por agravar el infierno fiscal que sufren los españoles y proponen una serie de cambios estructurales en materia de fiscalidad con el objetivo de que los Estados y organizaciones internacionales se sostengan sobre un aumento de la capacidad recaudatoria de los Estados a costa de las clases medias y trabajadoras.
-    - declaration:
+    - statement:
         id: a765fa76-a52c-48f7-9c46-8250d879d403
         page: 21
         text: "Es prioritario llevar a cabo una bajada masiva de impuestos y acabar con los tipos abusivos destinados a sostener el estado de bienestar de los políticos y el gasto superfluo. Los recursos deben destinarse a lo verdaderamente importante: el estado de bienestar, libertad y seguridad de los españoles."
-    - declaration:
+    - statement:
         id: 8c9cde81-966c-4ba4-ac3b-7744b555e91a
         page: 21
         text: Urge acabar con las desigualdades fiscales que sufren los españoles como consecuencia del estado de las autonomías e implantar un sistema tributario que compatibilice el refuerzo de los servicios públicos con el desarrollo económico y la competitividad.
@@ -465,19 +473,19 @@ content:
         page: 22
         text: Establecer una fórmula para que los gigantes tecnológicos, además de pagar correctamente sus impuestos, coticen también por los datos digitales que cosechan en España. Hay que defender la soberanía nacional y personal de esos datos.
 - chapter:
-    id: 10
+    id: 351cf0c9-09aa-49b9-b3a3-f4d48edc5c8f   
     title: Seguridad y defensa
     categories: Seguridad y defensa
     children:
-    - declaration:
+    - statement:
         id: 0628e242-d514-4334-93cf-b9106196e091
         page: 23
         text: Las entidades supranacionales buscan acabar con las fronteras exteriores imponiendo su modelo ideológico y multicultural sin importarles la inseguridad, la degradación de los barrios y la ruptura del modelo de convivencia y de representación pública.
-    - declaration:
+    - statement:
         id: da4fd9d1-78ef-49d4-9bbd-ab6cb8873f05
         page: 23
         text: Esas élites a las que no hemos elegido y a las que no se puede exigir responsabilidades pretenden imponer el modelo de “sociedad abierta”. Una Nación fuerte necesita de fronteras como una casa necesita de puertas, y son los nacionales ejerciendo su soberanía los que deben elegir su modelo de sociedad.
-    - declaration:
+    - statement:
         id: 1803ae9b-f000-474c-b399-d6aa4fc5e9b2
         page: 23
         text: España debe tener todos los recursos necesarios, militares, policiales y legales, para garantizar la seguridad y la libertad de los españoles.
@@ -526,19 +534,19 @@ content:
         page: 24
         text: España no debe abandonar a quienes han dedicado los mejores años de su vida a servir a la patria en las Fuerzas Armadas. Se favorecerá su continuidad laboral tras su tiempo de servicio.
 - chapter:
-    id: 11
+    id: 5f0d7f53-8d55-4de4-a19d-e4610d909ada
     title: Inmigración e identidad nacional
     categories: Migración
     children:
-    - declaration:
+    - statement:
         id: 32c81bff-2611-4942-9afb-cd9172e5fd0f
         page: 25
         text: Las políticas de fronteras abiertas y las sociedades multiculturales han fracasado en Occidente y países como Bélgica, Francia o Reino Unido son el ejemplo más evidente. Pese a ello, las élites globalistas apuestan por la llegada de millones de inmigrantes ilegales en los próximos años con el objetivo de revertir el invierno demográfico mientras imponen políticas contrarias a la familia.
-    - declaration:
+    - statement:
         id: 759d8d85-9a6e-4207-b73b-d6a89d20452f
         page: 25
         text: El avance del globalismo amenaza la preservación de la identidad cultural de las naciones occidentales, socava su soberanía y pone en jaque el Estado social. Toda Nación tiene derecho a regular las condiciones de entrada de quienes aspiran a vivir en ella. La inmigración debe ser legal, controlada, adaptada a las necesidades de España y con capacidad y voluntad de adaptación.
-    - declaration:
+    - statement:
         id: 42cc9a9a-bb2e-42e3-a55f-7eb9ab60f340
         page: 25
         text: Todo ser humano tiene derecho a no emigrar, derecho a vivir, crecer y desarrollarse como persona en su propia comunidad nacional contribuyendo a su prosperidad de acuerdo con la cultura que a cada uno le sea propia.
@@ -579,19 +587,19 @@ content:
         page: 26
         text: Cierre de las mezquitas fundamentalistas y prohibición de su financiación por parte de Estados u organizaciones extranjeras.
 - chapter:
-    id: 12
+    id: 7050dcc2-4872-4bb3-bb77-ab8f5251301a
     title: España verde
     categories: [Medioambiente]
     children:
-    - declaration:
+    - statement:
         id: e398a16a-1e55-49fc-aa94-9c13b5c824ba
         page: 27
         text: Las agendas globalistas no tienen ningún plan realista que garantice la preservación del medio ambiente y sus medidas únicamente van destinadas a crear un orden político nuevo que modifique sustancialmente la vida de las personas. Las llamadas “transiciones ecológicas” consisten en trasferir ingentes cantidades de dinero de las clases medias y trabajadoras a las élites que impulsan la agenda climática.
-    - declaration:
+    - statement:
         id: 6c62d8bf-9233-4d9d-b356-3615858d8ebc
         page: 27
         text: Sus iniciativas van encaminadas a la imposición de una nueva religión climática en Occidente, mientras hacen la vista gorda ante los crímenes medioambientales perpetrados por China y otras potencias regionales. España y toda Europa corren el riesgo de arruinar su presente y su futuro si persisten en su actual agenda climática.
-    - declaration:
+    - statement:
         id: c7366a21-7cbf-4e89-a725-dd3862c06bf5
         page: 27
         text: La conservación y mejora del medio natural ha de llevarse a cabo respetando la calidad de vida de las personas, sin que el peso de este cambio recaiga sobre los hombros de los españoles, y mucho menos en forma de “impuestos verdes”. No puede convertirse en una excusa para criminalizar a nuestros trabajadores o agricultores.
@@ -628,23 +636,23 @@ content:
         page: 28
         text: Promover las iniciativas ambientales locales y concretas frente a la planificación globalizadora de las élites.
 - chapter:
-    id: 13
+    id: 3772d1ed-1f99-4909-8296-7fc8857deef4
     title: Reindustrialización y soberanía energética
     categories: [Industria, Energía]
     children:
-    - declaration:
+    - statement:
         id: e22c4f2e-6522-4867-8eb2-a6d0195defa8
         page: 29
         text: Los obstáculos impuestos a la industria nacional por parte de las diferentes agendas globalistas han debilitado nuestro tejido productivo, generando una pérdida progresiva de empresas y empleo y una reducción generalizada de salarios.
-    - declaration:
+    - statement:
         id: 359b37da-e66c-40b9-8c83-8a7cb0cef737
         page: 29
         text: España no puede someter a sus empresas a restricciones regulatorias o fiscales abusivas ni permanecer callada ante una política comercial de la Unión Europea que no garantiza una competencia leal y justa con los países terceros.
-    - declaration:
+    - statement:
         id: b4e3b83b-50ca-4e7b-951c-1e273322b6b4
         page: 29
         text: Mientras que terceros países como Marruecos o China se benefician de la deslocalización de fábricas o centrales energéticas, cuyos productos y energía importamos después, las empresas y productores españoles quedan asfixiados por la estricta regulación europea y nacional que convierte sus sectores en prácticamente inviables.
-    - declaration:
+    - statement:
         id: 21fa6993-b282-46df-a406-ab65b3225bfd
         page: 29
         text: España debe proteger sus intereses nacionales y su soberanía energética. Una energía barata, sostenible, eficiente y limpia que asegure unos precios de la luz asequibles para las familias y empresas españolas es la base para la reindustrialización.
@@ -681,15 +689,15 @@ content:
         page: 30
         text: Despolitizar los consejos de administración de las eléctricas. Las puertas giratorias han provocado una abundancia de políticos en los consejos causando pérdida de soberanía energética, sueldos millonarios para los expolíticos y pobreza energética para los españoles.
 - chapter:
-    id: 14
+    id: ae5a6fe5-1ad0-440d-afd6-f5ed127ebd97
     title: Despolitización de la Justicia
     categories: [Justicia]
     children:
-    - declaration:
+    - statement:
         id: 4e8c0920-4c94-4bd9-8eff-49c00927a0a4
         page: 31
         text: La politización de la Justicia es una de las señales más evidentes del deterioro de las instituciones en España. Desde la entrada en vigor de la Ley Orgánica del Poder Judicial en 1985, los partidos políticos han tratado de parasitar y controlar las más altas instancias judiciales.
-    - declaration:
+    - statement:
         id: 062bd4bb-1421-4534-91ca-251ad5b7454e
         page: 31
         text: El correcto funcionamiento de nuestras instituciones y la calidad de nuestra democracia pasan por garantizar la independencia del Poder Judicial de cualquier intento de control, supervisión o presión por parte de los restantes poderes del Estado.
@@ -730,15 +738,15 @@ content:
         page: 32
         text: Exigir al Consejo General del Poder Judicial medidas efectivas para acabar con las dilaciones indebidas y las filtraciones en los juzgados. España debe tener una justicia rápida y transparente, sometida solo a la Ley, con más y mejores medios materiales y humanos.
 - chapter:
-    id: 15
+    id: ad5a3370-9a59-4310-96e4-a5294325d5fe
     title: Unión Europea  
     categories: [Política internacional]
     children:
-    - declaration:
+    - statement:
         id: ed3b45e7-53af-4b8d-b35d-0e49af6b5bf8
         page: 33
         text: La Unión Europea debe ser una comunidad de naciones libres que cooperan y aúnan esfuerzos en aquellos ámbitos en los que de forma inequívoca se puedan lograr objetivos comunes de forma más rápida, justa y eficaz que por separado. Esto implica el respeto a la soberanía de cada Nación, con límites claramente definidos sobre las competencias de las instituciones comunes, que actualmente son constantemente excedidos y reinterpretados por el Tribunal de Justicia de la Unión.
-    - declaration:
+    - statement:
         id: f2a138a3-46d3-43cf-a41f-d0591b09c4d1
         page: 33
         text: Las agendas globalistas pretenden convertir a la Unión Europea en un enorme aparato burocrático alejado de los intereses y necesidades de los Estados miembros y entregado a una agenda globalista que traiciona la historia, tradición e identidad cristiana de Europa. No es posible una Unión Europea al margen de las naciones que la componen.
@@ -787,19 +795,19 @@ content:
         page: 34
         text: Impulsar una política europea común que sirva de freno a los oligopolios tecnológicos y que contemple la soberanía nacional y personal de los datos.
 - chapter:
-    id: 16
+    id: 71810e43-e455-49c0-b7c8-ad2068deb746
     title: Iberosfera
     categories: [Política internacional]
     children:
-    - declaration:
+    - statement:
         id: daf06052-18e2-42fd-90ee-5012997e97f4
         page: 35
         text: La Iberosfera es un ámbito de relación natural de España a nivel político, económico y cultural. Más de 700 millones de personas comparten un legado y dos lenguas hermanas, hoy amenazados por regímenes totalitarios y comunistas, apoyados por el narcotráfico y terceros países.
-    - declaration:
+    - statement:
         id: 3b9fbb5e-ae0a-4513-88ae-c24f033d97c4
         page: 35
         text: Es urgente trazar alianzas y llevar a cabo políticas internacionales que pongan freno a lo que hoy es una amenaza para la prosperidad, el desarrollo de nuestras naciones y la libertad y los derechos de millones de personas.
-    - declaration:
+    - statement:
         id: 1e38fb71-37c0-4375-b1fd-866801365745
         page: 35
         text: Nuestro país comparte con el resto de esas naciones hermanas unos vínculos históricos muy importantes y en el fortalecimiento de éstos reside un gran potencial económico y geopolítico para un futuro común próspero.
@@ -828,19 +836,19 @@ content:
         page: 36
         text: En materia de inmigración, que se afrontará en todo caso atendiendo a las necesidades de la economía española, se establecerán condiciones que tengan en cuenta las nacionalidades que comparten idioma y lazos históricos y culturales con España.
 - chapter:
-    id: 17
+    id: eafb5f3a-18c5-49d4-af67-5a250182a9b7
     title: España rural
     categories: [Territorio rural]
     children:
-    - declaration:
+    - statement:
         id: d675c018-9810-40ee-924d-f19d78f1954c
         page: 37
         text: Uno de los pilares fundamentales de la agenda globalista es la estigmatización del modo de vida rural. El campo español, sus habitantes, sus tradiciones, su estilo de vida y su economía están en el punto de mira de las elites progresistas.
-    - declaration:
+    - statement:
         id: c6af6d2a-6bf9-41d4-8e22-eb70a155282e
         page: 37
         text: La falta de infraestructuras de transporte, sanidad, educación y servicios básicos, unida a las menguantes posibilidades de empleo y al abandono de la política nacional del agua, están condenando a la España rural a convertirse en la España vaciada.
-    - declaration:
+    - statement:
         id: 97bdd483-0792-436d-9812-3e69794647f5
         page: 37
         text: La España rural necesita medidas que garanticen la persistencia y el crecimiento de un modo de vida crucial para la Nación. Es de vital importancia defender el mundo rural y sus tradiciones, lo que también pasa por la conservación y restauración de los bienes culturales y ecológicos, que lo son de todos los españoles.
@@ -885,20 +893,20 @@ content:
         page: 38
         text: Proteger y conservar el patrimonio histórico-artístico tradicional como garante de nuestra identidad nacional y motor económico y turístico, mediante un plan nacional de catalogación, restauración, conservación y difusión del mismo, con el apoyo de una nueva ley de mecenazgo.
 - chapter:
-    id: 18
+    id: 4e2b1d48-8b93-4e01-9b1d-fc397d079fd0
     title: Libertad de expresión
     categories: Derechos y servicios sociales
     topics: Libertad de expresión
     children:
-    - declaration:
+    - statement:
         id: 25045c1c-b920-4879-ad50-5451d1cebc41
         page: 39
         text: Las sociedades occidentales están amenazadas por un totalitarismo global promocionado por grandes fortunas, el consenso progre de las élites; y apoyado por las fuerzas de choque de la extrema izquierda. El resultado es la indefensión de los españoles y sus familias ante el rodillo de una agenda totalitaria que amenaza gravemente las libertades.
-    - declaration:
+    - statement:
         id: 3a844dd3-4772-4d98-a8bc-5f717d1f3d60
         page: 39
         text: "La libertad de expresión se ha visto resentida como consecuencia de tres factores: el poder que han adquirido los gigantes tecnológicos, la deriva autoritaria de los gobiernos y el auge de la cultura de la cancelación."
-    - declaration:
+    - statement:
         id: f53526c4-8576-4a8c-b81b-7487028c2780
         page: 39
         text: España debe proteger su soberanía y la libertad de expresión y de información de los españoles. No existe Ley al margen del Poder Legislativo ni ejecución de esta al margen del Poder Judicial.
@@ -931,19 +939,19 @@ content:
         page: 40
         text: "Detener la persecución de opiniones, sentimientos o valores arraigados en nuestra sociedad camuflada bajo el ambiguo paraguas del “delito de odio”, que casi nunca se aplica a los verdaderos promotores del odio en España: los separatismos, la extrema izquierda y las ideologías totalitarias."
 - chapter:
-    id: 19
+    id: 16366866-7ea4-45a3-a9c4-42b13446ff60
     title: Perspectiva de familia
     categories: [Familia]
     children:
-    - declaration:
+    - statement:
         id: 8aa11d3a-2095-4a20-9924-6573c10768b3
         page: 41
         text: Las agendas globalistas atacan a la familia, unidad básica de nuestra sociedad y espacio de libertad, porque les dificulta su objetivo de controlar y dirigir política y económicamente al individuo.
-    - declaration:
+    - statement:
         id: b58a0166-8bb8-4722-b0a0-bd0a662f63ad
         page: 41
         text: La única alternativa al invierno demográfico que se propone es la inmigración ilegal, masiva y descontrolada. Las consecuencias de la política de puertas abiertas no las sufren las élites políticas ni los medios de comunicación que la incitan, sino el español de a pie que ve cómo su barrio es cada vez más inseguro, los sueldos cada vez más bajos y sus costumbres y modo de vida cada vez más marginales.
-    - declaration:
+    - statement:
         id: a97b66a8-5325-4fae-a190-c1362e71d148
         page: 41
         text: La aplicación de la perspectiva de familia implica que las políticas públicas deben tener en cuenta sus necesidades y problemas, y estar siempre orientadas al apoyo a la maternidad y la conciliación.
@@ -980,15 +988,15 @@ content:
         page: 42
         text: Establecer un marco jurídico que impida que personas que actúan en legítima defensa para proteger su hogar y su familia tengan que sufrir un infierno judicial hasta demostrar su inocencia.
 - chapter:
-    id: 20
+    id: a4517fe7-5755-4c05-a541-7d42b42f6bb3
     title: Dignidad humana
     categories: Derechos y servicios sociales
     children:
-    - declaration:
+    - statement:
         id: 72ee4139-758e-4d4f-83a3-7a2176973644
         page: 43
         text: La cultura de la muerte promovida por las élites globalistas ataca frontalmente la dignidad y la vida de las personas. El aborto, la eutanasia o la mercantilización del cuerpo de las personas vulneran principios básicos que deben ser defendidos.
-    - declaration:
+    - statement:
         id: b9ed98f9-95b9-499c-8320-fa919a096cd7
         page: 43
         text: La acción política debe tener como razón última el bien común y estar inspirada en el respeto a la dignidad humana y a los derechos que le son inherentes a la persona.

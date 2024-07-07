@@ -1,7 +1,6 @@
 id: 02f039fa-dc09-4640-a7a4-4b379c27464e
 type: promise
-parent_statement: be1fb8f0-f577-4d6c-a570-fc5ed97b97ff
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Justicia
+parent_statement: be1fb8f0-f577-4d6c-a570-fc5ed97b97ff
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
 text: Se garantizará la paridad de hombres y mujeres en el Tribunal Constitucional, el Tribunal Supremo y otros órganos colegiados o técnicos, promoviendo acciones positivas para el acceso de las mujeres a las presidencias de Sala y a los cargos de la Fiscalía.
+categories: Justicia

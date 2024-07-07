@@ -1,6 +1,6 @@
 id: 2d121c1b-bbd2-473e-8c1f-ffbc6b7c5051
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 148
+parent_chapter: 5c278dbe-4430-4892-a649-4c8dbf1fe09d
+text: Impulsaremos la formación de los profesionales del ámbito educativo para la eliminación de la brecha de género en la enseñanza de STEM. Proporcionaremos, a la comunidad educativa y las AMPAS, en el marco establecido por la LOMLOE, formación y herramientas para la eliminación de sesgos de género en la educación de materias científicas y tecnológicas. Se desarrollarán actividades de desarrollo de las STEM como ferias de ciencias.
 categories: Ciencia y tecnología
 topics: Igualdad
-text: Impulsaremos la formación de los profesionales del ámbito educativo para la eliminación de la brecha de género en la enseñanza de STEM. Proporcionaremos, a la comunidad educativa y las AMPAS, en el marco establecido por la LOMLOE, formación y herramientas para la eliminación de sesgos de género en la educación de materias científicas y tecnológicas. Se desarrollarán actividades de desarrollo de las STEM como ferias de ciencias.

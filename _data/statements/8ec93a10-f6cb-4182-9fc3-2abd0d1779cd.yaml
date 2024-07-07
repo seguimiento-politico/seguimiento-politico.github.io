@@ -1,6 +1,6 @@
 id: 8ec93a10-f6cb-4182-9fc3-2abd0d1779cd
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 236
+parent_chapter: 8a0803ad-af9f-44c7-bd6c-049f66148a50
+text: Mejoraremos el derecho a la desconexión digital y, en el marco del diálogo social, desarrollaremos medidas que ayuden a garantizar los derechos digitales de los trabajadores y trabajadoras.
 categories: Derechos y servicios sociales
 topics:
 - Derechos digitales
-text: Mejoraremos el derecho a la desconexión digital y, en el marco del diálogo social, desarrollaremos medidas que ayuden a garantizar los derechos digitales de los trabajadores y trabajadoras.

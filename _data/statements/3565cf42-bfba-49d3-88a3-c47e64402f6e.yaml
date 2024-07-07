@@ -1,6 +1,6 @@
 id: 3565cf42-bfba-49d3-88a3-c47e64402f6e
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 20
-categories: Vivienda
+parent_chapter: aa035e42-2283-410b-bd01-f26776238f1a
 text: Reorientación del Plan Estatal de Vivienda 2018-2021 para impulsar el alquiler asequible y la rehabilitación en coordinación con las comunidades autónomas, con el objetivo de configurar un parque de vivienda social o sujeta a protección, al servicio de las políticas públicas de vivienda. <br>- Para favorecer la promoción y el uso de vivienda de alquiler social, también vamos a movilizar el suelo público que se encuentre disponible. <br>- Se facilitará una línea de financiación para que las comunidades autónomas que así lo han regulado puedan ejercer los derechos de tanteo y retracto en las transmisiones de viviendas adquiridas. <br>- Medidas de agilización de trámites de concesión de licencias. <br>- Medidas en materia de información y transparencia para dar seguimiento a la información sobre oferta de vivienda en alquiler (precios, disponibilidad de vivienda social o situación del parque de viviendas), así como de la demanda (situación socioeconómica de los hogares, registros de demandantes o dinámicas demográficas). <br>- Se suscribirán convenios bilaterales con ciudades donde se dan situaciones de mercado tensionado que permitan hacer frente a las necesidades específicas en materia de vivienda. En dichos Convenios se establecerán las obligaciones de las partes firmantes.
+categories: Vivienda

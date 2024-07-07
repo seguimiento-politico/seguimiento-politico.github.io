@@ -1,7 +1,6 @@
 id: 12102114-9dcc-47b6-8074-f2e597763814
 type: promise
-parent_statement: 93dfe100-5605-4243-ba18-19ef653e383e
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 93dfe100-5605-4243-ba18-19ef653e383e
+parent_chapter: 5fd4a85c-c23d-41fa-af6d-e3a00b507ee7
+text: <p> Reconocimiento del derecho de sufragio a partir de los 16 años.</p> Problemas cruciales de largo recorrido como la emergencia climática, la transición energética o la explotación de recursos naturales prefiguran de forma irreversible el escenario social y natural en el que los jóvenes de hoy podrán desarrollar sus proyectos de vida. Es de justicia que quienes van a ver condicionadas sus alternativas de futuro participen en la toma de decisiones y en las políticas que estamos desarrollando ahora, pues necesitan hacer frente a esos problemas presentes y futuros de los que ellos van a ser protagonistas.
 categories: Derechos y servicios sociales
 topics: Juventud
-text: <p> Reconocimiento del derecho de sufragio a partir de los 16 años.</p> Problemas cruciales de largo recorrido como la emergencia climática, la transición energética o la explotación de recursos naturales prefiguran de forma irreversible el escenario social y natural en el que los jóvenes de hoy podrán desarrollar sus proyectos de vida. Es de justicia que quienes van a ver condicionadas sus alternativas de futuro participen en la toma de decisiones y en las políticas que estamos desarrollando ahora, pues necesitan hacer frente a esos problemas presentes y futuros de los que ellos van a ser protagonistas.

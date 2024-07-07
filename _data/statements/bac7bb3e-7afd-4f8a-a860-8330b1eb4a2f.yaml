@@ -1,6 +1,6 @@
 id: bac7bb3e-7afd-4f8a-a860-8330b1eb4a2f
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 128
-categories: Justicia
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
+children_promises:
+- 75345ca1-de94-4f82-9372-6b2040119479
+- e919f90e-e9d9-4a12-8bdf-4c2091222627
+- 9cfa4ee5-8b48-44ba-a882-382c88136362
+- 9a48f626-5c1b-4e25-bc41-d532c85aa18a
+children_statements:
+- 37719885-1acf-4e94-abdf-9c64c03f853c
 title: Reconoceremos la responsabilidad del Estado por funcionamiento anormal de la justicia y por error judicial y la exigencia indemnizatoria a cargo del Estado (art. 121 CE).
-has_children: true
+categories: Justicia

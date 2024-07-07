@@ -1,7 +1,6 @@
 id: 1f27ff54-370b-4e6a-a20c-264f49a209a8
-type: declaration
-parent_statement: 7714abfd-1573-4f69-a0f1-9587106d0951
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -10,5 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 19
-categories: Nacionalismo y patriotismo
+parent_statement: 7714abfd-1573-4f69-a0f1-9587106d0951
+parent_chapter: 84c94514-c06f-4ab9-ba28-01c06429b154
 text: Proposición de Ley Orgánica para exigir una respuesta penal contundente frente a los ataques contra la unidad nacional solicitando la modificación del Código Penal añadiendo la pena de pérdida de la nacionalidad española; incorporando los delitos contra la unidad de la Nación e incrementando las penas por los delitos de ultrajes a España (diciembre 2022).
+categories: Nacionalismo y patriotismo

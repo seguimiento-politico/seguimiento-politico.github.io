@@ -1,6 +1,6 @@
 id: 7e1596c6-0a7d-4591-9c37-7a6d9dd02ef9
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 79
+parent_chapter: e8dfe9de-3810-49ea-b9d4-db89a96eabfb
+text: Estudiaremos la recuperación de los trenes nocturnos internacionales, siguiendo los pasos de otros países europeos, en colaboración con Portugal.
 categories: Transporte
 topics: Ferrocarril, Cercanías
-text: Estudiaremos la recuperación de los trenes nocturnos internacionales, siguiendo los pasos de otros países europeos, en colaboración con Portugal.

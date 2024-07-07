@@ -1,6 +1,6 @@
 id: 59f90498-9b0b-4ec3-af5f-5b789e10d034
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 24
-categories: Trabajo
+parent_chapter: 89a37952-7653-4d01-b826-60b84d3454b4
 text: Conectaremos estrechamente el sistema de enseñanza superior y universitaria y las empresas, y combinaremos el apoyo económico de las prestaciones por desempleo con medidas eficaces de formación y actualización profesional.
+categories: Trabajo

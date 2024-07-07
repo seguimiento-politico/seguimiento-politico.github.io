@@ -1,6 +1,6 @@
 id: 6a24f1da-0637-4834-9787-923c82182902
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,9 +9,16 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 156
+parent_chapter: 1d2802d7-3c25-4a37-96cf-85b8e7ed4986
+children_promises:
+- 86633959-f84a-4321-97f3-635bec227de6
+- 2c54bec6-0328-46e3-ae05-7d2c667831f7
+- 66a20b84-d9c5-41b0-88f4-5137ccfb5f73
+- 7af51be3-fa31-4457-8f8c-7e6aac0b4856
+- 8da7bac4-7f8d-437b-856b-0bb4047cf27e
+children_statements: []
+title: Educación crítica, reflexiva, tolerante, laica, respetuosa de la igualdad y las distintas diversidades, y comprometida con los Objetivos del Desarrollo Sostenible de Naciones Unidas.
 categories: Educación
 topics:
 - Igualdad
 - Inclusión
-title: Educación crítica, reflexiva, tolerante, laica, respetuosa de la igualdad y las distintas diversidades, y comprometida con los Objetivos del Desarrollo Sostenible de Naciones Unidas.
-has_children: true

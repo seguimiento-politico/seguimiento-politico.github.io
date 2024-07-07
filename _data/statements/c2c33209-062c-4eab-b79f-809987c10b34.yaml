@@ -1,6 +1,6 @@
 id: c2c33209-062c-4eab-b79f-809987c10b34
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 34
-categories: Trabajo
+parent_chapter: 2e87f7f8-d5a3-47a6-82d5-b25f36e88929
+children_promises:
+- 6c10d846-8269-4571-924e-59ebe5458dd2
+- 94506c4f-dac5-4f69-bd27-1362f148545d
+- 9612acfa-8940-4569-9d53-8933c44e8005
+children_statements: []
 title: Reorganización de la prestación por desempleo y cese de actividad destinada a dar seguridad a las personas trabajadoras
-has_children: true
+categories: Trabajo

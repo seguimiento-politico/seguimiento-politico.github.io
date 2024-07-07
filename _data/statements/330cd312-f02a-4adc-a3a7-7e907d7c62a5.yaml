@@ -1,6 +1,6 @@
 id: 330cd312-f02a-4adc-a3a7-7e907d7c62a5
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,9 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 66
+parent_chapter: 1d4a4787-163e-4649-b875-f97fd3780649
+children_promises:
+- b5f19ab8-51fd-43f1-b7cc-fe1e8837dd4c
+children_statements: []
+title: Destinaremos más presupuesto para innovación, formación y asesoramiento en el sector agroalimentario
 categories:
 - Agricultura
 - Ganadaría
 topics: Desarrollo sostenible
-title: Destinaremos más presupuesto para innovación, formación y asesoramiento en el sector agroalimentario
-has_children: true

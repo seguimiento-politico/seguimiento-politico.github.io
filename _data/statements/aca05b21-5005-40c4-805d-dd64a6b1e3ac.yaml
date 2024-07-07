@@ -1,7 +1,6 @@
 id: aca05b21-5005-40c4-805d-dd64a6b1e3ac
 type: promise
-parent_statement: 06ee3772-ef75-47e4-b1e5-84609a110918
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 06ee3772-ef75-47e4-b1e5-84609a110918
+parent_chapter: 999e9dab-efca-4092-a144-a19ca4ee5302
+text: Fiscalidad inclusiva. Se impulsará una fiscalidad favorable a las personas con discapacidad y sus familias, con el fin de promover la inclusión social y compensar el sobrecoste que supone la vida activa en la comunidad para las personas con discapacidad.
 categories: Derecuos y servicios sosciales
 topics: Discapacidad
-text: Fiscalidad inclusiva. Se impulsará una fiscalidad favorable a las personas con discapacidad y sus familias, con el fin de promover la inclusión social y compensar el sobrecoste que supone la vida activa en la comunidad para las personas con discapacidad.

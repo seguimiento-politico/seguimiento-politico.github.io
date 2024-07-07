@@ -1,0 +1,67 @@
+name: Agenda 2030
+other:
+- &id010
+  id: bcb35722-e19f-4f05-9276-8d83a0a445e8
+  parties:
+  - VOX
+other_count: 1
+position_negative:
+- &id002
+  id: bf161953-28ca-4795-b4d3-624d25641fa6
+  parties:
+  - VOX
+- &id003
+  id: f07eb529-c687-488f-a710-7b4c27085097
+  parties:
+  - VOX
+- &id004
+  id: 83fb3d41-07bd-4487-8c3e-78804a0dbc88
+  parties:
+  - VOX
+- &id005
+  id: 72c48444-4715-4db3-bae8-9ede18d9a05e
+  parties:
+  - VOX
+- &id006
+  id: bdc91ac0-cc1c-4dea-a4f2-275d927c77a0
+  parties:
+  - VOX
+- &id007
+  id: 1a2a1e8e-4bb1-41dd-a9bd-821ff813c444
+  parties:
+  - VOX
+- &id008
+  id: 521013dd-83ca-4ffe-baeb-fd314efe736f
+  parties:
+  - VOX
+- &id009
+  id: 6e40c2e9-1737-449a-b34b-b58ee5d220ac
+  parties:
+  - VOX
+- &id001
+  id: 01a321ef-9cca-4253-879f-aa7002a19189
+  parties:
+  - VOX
+position_negative_count: 9
+position_positive: []
+position_positive_count: 0
+proposed_actions:
+- *id001
+proposed_actions_count: 1
+statements:
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id001
+statements_count: 10
+status_quo_negative:
+- *id002
+status_quo_negative_count: 1
+status_quo_positive: []
+status_quo_positive_count: 0

@@ -1,6 +1,6 @@
 id: d4e9d006-1625-404a-adb0-a7b7191bcf96
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 46
+parent_chapter: 0a1e6e60-ac39-48f2-8625-e9e72733c9da
+children_promises:
+- 9bb1c9ff-7f95-4fd0-9412-8310dd351ec6
+children_statements: []
+title: Continuaremos trabajando en la ambiciosa agenda de acuerdos comerciales bilaterales de la UE
 categories: Comercio
 topics: comercio exterior
-title: Continuaremos trabajando en la ambiciosa agenda de acuerdos comerciales bilaterales de la UE
-has_children: true

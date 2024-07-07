@@ -1,6 +1,6 @@
 id: 1885701d-4dbe-4f48-9b40-daa52c86f9f9
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 82
-categories: Transporte
+parent_chapter: f35f6695-01b8-45f0-bd82-72f9b0ee06ea
 text: Realizaremos actuaciones de transformación en carriles BUS VAO, que primen el transporte público y el uso más eficiente de los vehículos a través de las principales vías de acceso.
+categories: Transporte

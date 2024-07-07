@@ -1,7 +1,6 @@
 id: 31bd19c4-00ff-4c8e-b05f-ac41bc2dbb43
 type: promise
-parent_statement: 7ddfede1-c3bf-4444-a8da-f2559f5a5b5e
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Seguridad y defensa
+parent_statement: 7ddfede1-c3bf-4444-a8da-f2559f5a5b5e
+parent_chapter: 66b190ef-617c-438a-adf3-a3c9f707719b
 text: En nuestro país se mantiene el uso de balas de goma por parte de las fuerzas y cuerpos de seguridad, tanto en contexto de protestas pacíficas con fines de dispersión, como en el marco de operaciones en la frontera. Se trata de un material altamente lesivo que puede ocasionar lesiones de enorme gravedad que van desde la pérdida de ojos, la ruptura de vértebras y costillas, hasta la muerte. Por ello, se prohibirá el uso de pelotas de goma y otros materiales antidisturbios altamente dañinos para la integridad física de las personas.
+categories: Seguridad y defensa

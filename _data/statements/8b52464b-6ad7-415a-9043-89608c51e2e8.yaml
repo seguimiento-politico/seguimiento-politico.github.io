@@ -1,6 +1,6 @@
 id: 8b52464b-6ad7-415a-9043-89608c51e2e8
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 238
+parent_chapter: 1d1e663b-2a63-4a00-926a-0947518da1fa
+text: Actualizaremos la regulación vigente en nuestro país para modernizarla y adecuarla a los avances que se han producido en los últimos años, fomentando y potenciando el uso de tecnologías limpias y renovables, destacando la digitalización y la inteligencia artificial, así como atender las demandas de una sociedad que constantemente afronta nuevos riesgos y necesidades bajo las indicaciones y las prioridades señaladas por las Fuerzas y Cuerpos de Seguridad del Estado, asegurando que se respetan los derechos de los trabajadores y las trabajadoras.
 categories: Seguridad y defensa
 topics: Seguridad privada
-text: Actualizaremos la regulación vigente en nuestro país para modernizarla y adecuarla a los avances que se han producido en los últimos años, fomentando y potenciando el uso de tecnologías limpias y renovables, destacando la digitalización y la inteligencia artificial, así como atender las demandas de una sociedad que constantemente afronta nuevos riesgos y necesidades bajo las indicaciones y las prioridades señaladas por las Fuerzas y Cuerpos de Seguridad del Estado, asegurando que se respetan los derechos de los trabajadores y las trabajadoras.

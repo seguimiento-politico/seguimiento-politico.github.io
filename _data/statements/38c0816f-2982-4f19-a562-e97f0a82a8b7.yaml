@@ -1,6 +1,6 @@
 id: 38c0816f-2982-4f19-a562-e97f0a82a8b7
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 83
+parent_chapter: 6604cb67-3c4b-400f-93dd-33c3d4ed6735
+text: Haremos un plan de ayudas para el desarrollo de instalaciones de producción de combustibles sostenibles.
 categories: Transporte
 topics: Transporte aéreo
-text: Haremos un plan de ayudas para el desarrollo de instalaciones de producción de combustibles sostenibles.

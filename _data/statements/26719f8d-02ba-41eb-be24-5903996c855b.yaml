@@ -1,6 +1,6 @@
 id: 26719f8d-02ba-41eb-be24-5903996c855b
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 61
-categories: Medioambiente
+parent_chapter: 6526f732-bdc4-43b1-b561-3c743a0e2f46
+children_promises:
+- a5bf586c-d9aa-4734-ac53-d2af7382fa18
+- d6133471-7731-42d1-9c17-a4d7cecb9067
+- efbce65a-3059-4500-ad4f-50d26a2ae6cd
+- 0b8b10cd-82a8-4c6b-8d64-bb0f23ad69b8
+- 16c8936e-569f-4da1-8eb9-132bdf41e336
+children_statements: []
 title: Gestión sostenible de los recursos naturales en defensa del bien común
-has_children: true
+categories: Medioambiente

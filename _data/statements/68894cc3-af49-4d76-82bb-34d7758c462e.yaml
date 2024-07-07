@@ -1,6 +1,6 @@
 id: 68894cc3-af49-4d76-82bb-34d7758c462e
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,15 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 176
-categories: Deporte
+parent_chapter: 1f3cf0db-d571-4433-a626-3036186931e1
+children_promises:
+- e021df4d-1e35-43d0-99bd-86cd1ce13617
+- d5cc12d1-bd13-40ad-b635-472d8a07d784
+- 522cb9ba-7131-46a2-a3b1-8b8f1ee0aae2
+- a08a5823-33ee-4e06-ac8a-6de53b860ae8
+- 659fd8d2-1d60-4ffa-9389-166b13bae285
+- acba37b5-3dbf-4411-b130-e5a90cc233a7
+- e7c05e14-60e0-4879-96ea-00f7828fef54
+children_statements: []
 title: Hacer de la educación física y el deporte una política de transformación social
-has_children: true
+categories: Deporte

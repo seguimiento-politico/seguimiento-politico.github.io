@@ -1,6 +1,6 @@
 id: ecc34d20-fb93-4592-824b-1863c1933d44
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 27
-categories: Educación
+parent_chapter: b29ce8bc-cfe8-451c-8ff8-2716eb87c909
 text: Seguiremos abogando por una tolerancia cero ante el acoso. Reforzaremos los conten  idos educativos orientados a la mejora de la convivencia, respeto a la divers  idad y resolución pacífica de conflictos. Abordaremos con especial atención todos aquellos aspectos que, en colaboración con la comun  idad escolar, especialmente las familias, organizaciones y municipios, permitan prevenir, detectar, abordar la homofobia, la transfobia, el machismo y la violencia de género, la xenofobia y la discriminación y atender a sus víctimas.
+categories: Educación

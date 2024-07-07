@@ -1,13 +1,14 @@
 id: 975637c0-4056-44bd-96c2-34a7e8ba8169
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 64
+parent_chapter: d9d84c98-285a-49cd-b89e-217bb56082bd
+text: Incrementaremos la deducción fiscal a los arrendadores por los ingresos derivados de la renta de los alquileres de las viviendas que sirvan de residencia habitual, especialmente cuando los arrendatarios sean jóvenes o mayores de 65 años con ingresos bajos.
 categories:
 - Vivienda
 - Impuestos y financiación pública
-text: Incrementaremos la deducción fiscal a los arrendadores por los ingresos derivados de la renta de los alquileres de las viviendas que sirvan de residencia habitual, especialmente cuando los arrendatarios sean jóvenes o mayores de 65 años con ingresos bajos.

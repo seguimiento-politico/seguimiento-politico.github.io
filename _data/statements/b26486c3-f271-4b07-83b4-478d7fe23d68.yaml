@@ -1,12 +1,19 @@
 id: b26486c3-f271-4b07-83b4-478d7fe23d68
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 39
-categories: Sanidad
+parent_chapter: dcb6b10d-0b49-4143-9511-53be3f00f338
+children_promises:
+- f90ea9b5-0887-43f9-b74a-29f3befee82e
+- 772e6088-f7c4-4853-b37f-397d7fc3e7ba
+- 5e63c5d5-5b63-4fb1-acad-ffd7c6be7117
+- d7c0398d-7300-48e5-a710-cceb0f83d0bd
+- e4778b9d-26dc-4323-a31f-57e28ae1ec0c
+children_statements: []
 text: 'Promoveremos la medicina personalizada y el cambio del modelo de atención para centrarnos en la promoción de la salud, la prevención de la enfermedad y el cuidado de cada persona, a través de las siguientes líneas de acción:'
-has_children: true
+categories: Sanidad

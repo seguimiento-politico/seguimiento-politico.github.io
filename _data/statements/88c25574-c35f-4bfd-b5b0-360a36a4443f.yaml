@@ -1,6 +1,6 @@
 id: 88c25574-c35f-4bfd-b5b0-360a36a4443f
-type: declaration
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+type: statement
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 13
+parent_chapter: b8550311-badb-44f7-aafe-46f10435e0b1
 text: 'A pesar de esa rotundidad, en varias comunidades autónomas y en ayuntamientos donde el PSOE había sido el partido más votado, los partidos conservadores, el Partido Popular (PP) —en algunos casos con los peores resultados de su historia— y Ciudadanos (Cs) se aliaron para evitar la posibilidad de gobiernos progresistas. Lo más grave es que la mayoría de esas alianzas requirieron el apoyo del nuevo partido de ultraderecha, Vox, que ha impuesto sus exigencias en materias muy sensibles: violencia de género, respeto a la diversidad, gestión de la inmigración, lucha contra el cambio climático...Las derechas prefirieron aliarse con la ultraderecha antes de reconocer y aceptar la victoria electoral del PSOE, contribuyendo finalmente a impedir también la investidura de Pedro Sánchez.'

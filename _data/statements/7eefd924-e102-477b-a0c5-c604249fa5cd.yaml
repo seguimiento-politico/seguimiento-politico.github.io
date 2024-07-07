@@ -1,7 +1,6 @@
 id: 7eefd924-e102-477b-a0c5-c604249fa5cd
 type: promise
-parent_statement: 6eb3bb2c-8908-41b6-b929-98886f9c751b
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 6eb3bb2c-8908-41b6-b929-98886f9c751b
+parent_chapter: b82b7f57-da6b-4fd4-8a55-f1773ebd9608
+text: En el marco de la agencia para la transición digital, se proponen actuaciones diversas, como promover una pacto nacional de innovación tecnológica, impulsar un ecosistema de plataformas público-comunitarias, garantizar el derecho a la propiedad común de los datos, crear infraestructuras tecnológicas nacionales y europeas soberanas, asegurar la toma democrática de decisiones en torno al desarrollo tecnológico, generar una red de equipamientos para la inclusión digital, impulsar programas de alfabetización digital promovidos por la Administración pública, implementar medidas para combatir la brecha digital o un plan de igualdad digital para la promoción de una digitalización feminista.
 categories: Democracia
 topics: Administración pública
-text: En el marco de la agencia para la transición digital, se proponen actuaciones diversas, como promover una pacto nacional de innovación tecnológica, impulsar un ecosistema de plataformas público-comunitarias, garantizar el derecho a la propiedad común de los datos, crear infraestructuras tecnológicas nacionales y europeas soberanas, asegurar la toma democrática de decisiones en torno al desarrollo tecnológico, generar una red de equipamientos para la inclusión digital, impulsar programas de alfabetización digital promovidos por la Administración pública, implementar medidas para combatir la brecha digital o un plan de igualdad digital para la promoción de una digitalización feminista.

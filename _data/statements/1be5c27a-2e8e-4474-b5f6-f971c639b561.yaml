@@ -1,6 +1,6 @@
 id: 1be5c27a-2e8e-4474-b5f6-f971c639b561
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 10
+parent_chapter: 80f33f13-c365-4098-ac18-6210795cdb15
+children_promises:
+- d1d3bada-2b05-45bd-96e3-d66874c77a07
+- 31aa1189-e096-424a-873a-1fa46c12a41e
+- e8eb7e77-af29-4ece-8fc7-f05f7bc603cf
+children_statements: []
+title: Reducción de impuesto IRPF y tipo único
 categories:
 - Economía
-title: Reducción de impuesto IRPF y tipo único
-has_children: true

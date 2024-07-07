@@ -1,6 +1,6 @@
 id: 757619c1-8390-4cdd-9d37-a4cd47711dee
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 35
-categories: Turismo
+parent_chapter: e3e569f4-831c-4c4a-a8aa-6f7cb6b0ef93
 text: DESARROLLAREMOS, EN COLABORACIÓN CON EL SECTOR PRIVADO, PLANES ESPECÍFICOS DE DESARROLLO Y PROMOCIÓN de formas de turismo con alto potencial desestacionalizador como el turismo cultural, de compras, de naturaleza, el náutico, el deportivo, el ecuestre, el gastronómico y enológico.
+categories: Turismo

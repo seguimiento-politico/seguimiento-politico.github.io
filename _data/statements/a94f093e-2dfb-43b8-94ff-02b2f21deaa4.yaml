@@ -1,6 +1,6 @@
 id: a94f093e-2dfb-43b8-94ff-02b2f21deaa4
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 184
+parent_chapter: f8881bdb-e806-4cc5-84a7-408729dd6fd8
+text: Incrementar el acceso a una vivienda digna aumentando la oferta de vivienda pública de alquiler priorizando los criterios de renta e infancia.
 categories: Vivienda
 topics: Infancia
-text: Incrementar el acceso a una vivienda digna aumentando la oferta de vivienda pública de alquiler priorizando los criterios de renta e infancia.

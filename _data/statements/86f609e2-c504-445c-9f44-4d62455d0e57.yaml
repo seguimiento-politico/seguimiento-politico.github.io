@@ -1,6 +1,6 @@
 id: 86f609e2-c504-445c-9f44-4d62455d0e57
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 119
+parent_chapter: b82b7f57-da6b-4fd4-8a55-f1773ebd9608
+children_promises:
+- d4dafa9e-dbf7-4be7-a5b7-e37fa4b852da
+- 4b90777f-1750-4a3e-8ccb-44c1a6f6ef6f
+children_statements:
+- 1cede5b8-daf1-4d68-a50e-28475a1c972a
+title: 'Capacidad relacional: tejer redes y operar desde la colaboración.'
 categories: Democracia
 topics: Administración pública
-title: 'Capacidad relacional: tejer redes y operar desde la colaboración.'
-has_children: true

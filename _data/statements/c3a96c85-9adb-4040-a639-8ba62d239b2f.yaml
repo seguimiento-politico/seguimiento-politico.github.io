@@ -1,6 +1,6 @@
 id: c3a96c85-9adb-4040-a639-8ba62d239b2f
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 84
+parent_chapter: ef0bb89b-1b90-4682-a618-d8eea7201020
 title: Fortalecer los ingresos del sistema de Seguridad Social.
 text: Aparte de la creación neta de empleo y, por tanto, de ingresos de los horizontes verde, morado y digital, revisaremos el actual sistema de reducciones de cuotas a la Seguridad Social y de bonificaciones, que ha demostrado ser incapaz de generar empleo y que supone una pérdida de más de 3000 millones cada año, para invertir ese dinero de manera más eficaz. Eliminaremos, además, los topes de cotización, de manera que quienes tengan salarios muy altos coticen más a la Seguridad Social, así como los beneficios fiscales por las inversiones en planes de pensiones privados

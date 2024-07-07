@@ -1,6 +1,6 @@
 id: 9d8c17f2-96bc-4ea4-a657-6f0b5110d419
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,7 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 11
+parent_chapter: 298cb86d-a349-4888-aba4-5567f2db236a
+text: Suprimiremos el Ministerio de Igualdad, que es innecesario en sus funciones, injusto e ideológico en los medios políticos que acomete al servicio de aquellas y oneroso en su estructura, así como dedicaremos ese gasto a la mejora de servicios públicos esenciales como la sanidad, la justicia, la seguridad o el sistema educativo.
 categories: Derechos y servicios sociales
 topics:
 - Igualdad
-text: Suprimiremos el Ministerio de Igualdad, que es innecesario en sus funciones, injusto e ideológico en los medios políticos que acomete al servicio de aquellas y oneroso en su estructura, así como dedicaremos ese gasto a la mejora de servicios públicos esenciales como la sanidad, la justicia, la seguridad o el sistema educativo.

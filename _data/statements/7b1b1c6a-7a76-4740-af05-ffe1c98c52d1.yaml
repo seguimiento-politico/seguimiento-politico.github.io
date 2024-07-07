@@ -1,6 +1,6 @@
 id: 7b1b1c6a-7a76-4740-af05-ffe1c98c52d1
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 44
+parent_chapter: 3ad176d1-1f6b-4cbb-aea4-e397f16166d6
+children_promises:
+- fe7f7b65-f59c-4162-926c-11e42e4347c2
+- 8a0ecd01-0278-458e-8e62-b820f729f36f
+children_statements: []
+title: Mesa de transferencia empresarial.
 categories: Industria
 topics: Desarrollo sostenible
-title: Mesa de transferencia empresarial.
-has_children: true

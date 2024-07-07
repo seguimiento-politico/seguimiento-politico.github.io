@@ -1,6 +1,6 @@
 id: 5a95efef-d0d1-4756-82dd-c8d258f09cc1
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 82
+parent_chapter: ef0bb89b-1b90-4682-a618-d8eea7201020
 title: Cuidar a los y las profesionales del deporte y fomentar el deporte femenino mediante una ley marco estatal.
 text: Esto mejorará sus condiciones laborales, ya que la actual ausencia de reglas favorece la precariedad que reina en el sector Esta norma también incrementará la protección de la salud de quien utiliza estos servicios, que muchas veces se prestan sin la titulación profesional adecuada Se establecerán planes plurianuales de becas y financiación de las federaciones para ofrecer a nuestros talentos seguridad durante los ciclos de preparación de la alta competición También se diseñarán programas de transición a la vida laboral ordinaria de los y las deportistas que finalizan sus carreras, con especial atención a la inclusión laboral de las mujeres y a las oportunidades a través del empleo público Este sector, cuya Ley del Deporte tiene casi 30 años, debe adaptarse a la realidad de que el deporte femenino goza hoy de un seguimiento y de una asistencia a las competiciones similar, y en ocasiones superior, al masculino, al mismo tiempo que las propias deportistas tienen que luchar día a día contra la desigualdad en su reconocimiento y en sus retribuciones Por eso, reconoceremos las competiciones femeninas de máxima categoría y a sus deportistas como profesionales, y estableceremos premios y dietas iguales para mujeres y hombres También fomentaremos el incremento de la información deportiva dedicada al deporte femenino con el objetivo de alcanzar la paridad, algo con lo que empezarán los medios públicos conforme a criterios objetivos de éxito en las competiciones nacionales e internacionales

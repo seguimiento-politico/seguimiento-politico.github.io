@@ -1,6 +1,6 @@
 id: a499db00-92d8-406d-b7fa-bcb80e9fb203
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 153
+parent_chapter: 786b037f-dfff-4e62-9bfb-4b0225b43100
+text: Impulsaremos el Plan de prevención y actuación de los delitos de violencia de género online, que incluya la formación especializada de los profesionales, y de sensibilización especialmente respecto de víctimas menores y aquellas con discapacidad.
 categories: Seguridad y defensa
 topics:
 - Ciberviolencia
 - Ciberacoso
-text: Impulsaremos el Plan de prevención y actuación de los delitos de violencia de género online, que incluya la formación especializada de los profesionales, y de sensibilización especialmente respecto de víctimas menores y aquellas con discapacidad.

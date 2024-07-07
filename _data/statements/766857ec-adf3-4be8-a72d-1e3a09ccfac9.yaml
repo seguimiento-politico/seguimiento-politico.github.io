@@ -1,6 +1,6 @@
 id: 766857ec-adf3-4be8-a72d-1e3a09ccfac9
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 165
+parent_chapter: 49057808-0482-45cd-aac1-350b0a2d33e6
+children_promises:
+- 677749b3-1838-4d27-afc8-1e11de0cbe54
+- abe3f0f9-75bd-4b61-b228-f7a5bfc15a1e
+children_statements: []
+title: Refuerzo de la difusión cultural del conocimiento científico.
 categories: Ciencia y tecnología
 topics: I+D+i
-title: Refuerzo de la difusión cultural del conocimiento científico.
-has_children: true

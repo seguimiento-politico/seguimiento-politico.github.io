@@ -1,6 +1,6 @@
 id: 18334e44-088f-49dc-821d-abde0fe76e1f
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 47
-categories: Comercio
+parent_chapter: 6f519b8a-1387-4b6d-9ac4-fa4d05568ba2
 text: Las élites globalistas están promoviendo tanto en Bruselas como en España y sus regiones unas normas y una burocracia ecologista implacables que asfixian a nuestros agricultores, ganaderos, pescadores e industrias. La consecuencia es la desaparición de determinados sectores productivos que llevaban sosteniendo a miles de familias españolas durante siglos, incluso en sectores en los que España destacaba a nivel internacional.
+categories: Comercio

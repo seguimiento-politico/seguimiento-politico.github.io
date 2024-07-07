@@ -1,6 +1,6 @@
 id: 2f766a9c-89c5-478f-9802-90767bd4561e
-type: declaration
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,4 +8,5 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 6
+parent_chapter: d398e1b7-4bfc-46c4-ac88-5e95589750d5
 text: He dedicado toda mi vida profesional a servir a mi país. Por eso me rebelo con todas mis fuerzas contra la mala política y el descrédito generalizado del servicio público. También por eso he dado este paso e intentaré que la gestión, la experiencia y la palabra vuelvan a ser los valores principales e irrenunciables de la acción del próximo Gobierno.

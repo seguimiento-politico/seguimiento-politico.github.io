@@ -1,6 +1,6 @@
 id: 5d1791df-f66d-41c7-9b70-4b344c4ba487
-type: declaration
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Territorio rural
+parent_chapter: 7f042b2b-5ad4-4173-b50c-0a5bb8035280
 text: El medio rural, la agricultura, la pesca y la alimentación son ámbitos especialmente afectados por el agotamiento del modelo de producción industrial y los efectos del cambio climático. Al mismo tiempo, las personas trabajadoras del rural y del sector pesquero, especialmente en la agricultura familiar y la pesca a pequeña escala, han desempeñado un papel esencial en el cuidado del territorio y la biodiversidad. La transición ecosocial es una oportunidad si las instituciones garantizan la justicia y la lucha contra la desigualdad territorial. Necesitamos una sociedad que dé participación efectiva a la población (independientemente de la densidad poblacional) y un medio rural y pesquero vivos; un sector agroalimentario que avance hacia la soberanía alimentaria, la agroecología, la pesca sostenible y unas políticas públicas comprometidas con ese horizonte. La conservación de la biodiversidad y la restauración de ecosistemas; el turismo sostenible; la gestión sostenible de los bosques, la transición energética; el desarrollo de una economía de los cuidados, con la implantación de servicios en el lugar de arraigo, centros de día, residencias y recursos de conciliación móviles; la rehabilitación y mejora de la accesibilidad y eficiencia energética de las viviendas; el fomento de la actividad cultural en zonas rurales y costeras y la protección de su patrimonio histórico-artístico, ofrecen importantes oportunidades para la diversificación económica. Para ello, el conjunto de la sociedad debe asumir que la prestación de servicios esenciales para una alimentación y una vida sana deben ser retribuidos en consonancia suficiente con los objetivos de la transición ecológica justa. Esta última, junto con la conversión de la alimentación saludable en un derecho y la mejora de las condiciones de vida de la población rural, son objetivos que deben ir de la mano con políticas públicas decididas.
+categories: Territorio rural

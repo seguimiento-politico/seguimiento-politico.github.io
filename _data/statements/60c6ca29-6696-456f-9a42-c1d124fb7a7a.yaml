@@ -1,12 +1,13 @@
 id: 60c6ca29-6696-456f-9a42-c1d124fb7a7a
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 90
+parent_chapter: fe3cc116-0401-4e46-adee-1667e3538386
+text: Incrementaremos los medios destinados a combatir el Terrorismo Yihadista. Actualizaremos el Pacto y revisaremos la Estrategia de Prevención de la Radicalización para adecuarla a las nuevas amenazas y agilizaremos los trámites de expulsión de aquellos ciudadanos extranjeros que alienten la radicalización y el extremismo.
 categories: Seguridad y defensa
 topics: Terrorismo
-text: Incrementaremos los medios destinados a combatir el Terrorismo Yihadista. Actualizaremos el Pacto y revisaremos la Estrategia de Prevención de la Radicalización para adecuarla a las nuevas amenazas y agilizaremos los trámites de expulsión de aquellos ciudadanos extranjeros que alienten la radicalización y el extremismo.

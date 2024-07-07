@@ -1,7 +1,6 @@
 id: 57502fa7-5dc9-4206-854f-8e98d6eb274c
 type: promise
-parent_statement: b278b504-0d31-4caf-a857-af0b52e8151d
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Política internacional
-topics: Cambio climático
+parent_statement: b278b504-0d31-4caf-a857-af0b52e8151d
+parent_chapter: 4d3afa99-1301-4519-a703-6dfe49d7e832
 text: Promoveremos la conformación de una Internacional Climática que impulse la descarbonización de la economía, la provisión de energías renovables, la justicia climática global y el cumplimiento de los compromisos del Acuerdo de París y del Pacto Verde Europeo.
+categories: Política internacional

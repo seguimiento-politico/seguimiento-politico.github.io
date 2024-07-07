@@ -1,7 +1,6 @@
 id: 81ca5e80-e4ca-4b03-8b34-9d7ec5b3e1a4
 type: promise
-parent_statement: bad5b0ca-446e-4948-8835-d16cb9a90146
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: bad5b0ca-446e-4948-8835-d16cb9a90146
+parent_chapter: 6fa4a5cf-07ee-4bc7-9747-5ca7f92803fb
+text: Deben reforzar el acompañamiento, orientación y formación ofrecidas a todo el estudiantado en relación con el acceso y la salida del sistema universitario, pero también para posibilitar la permanencia en el sistema y su participación en actividades de docencia, investigación, transferencia o cultura, no siempre conocidas.
 categories: Educación
 topics: Universidad
-text: Deben reforzar el acompañamiento, orientación y formación ofrecidas a todo el estudiantado en relación con el acceso y la salida del sistema universitario, pero también para posibilitar la permanencia en el sistema y su participación en actividades de docencia, investigación, transferencia o cultura, no siempre conocidas.

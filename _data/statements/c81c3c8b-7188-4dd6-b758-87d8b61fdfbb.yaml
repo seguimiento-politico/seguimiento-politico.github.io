@@ -1,6 +1,6 @@
 id: c81c3c8b-7188-4dd6-b758-87d8b61fdfbb
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 101
+parent_chapter: f8348ef6-75be-45f5-9b64-97ad1de424bc
+text: La identidad nacional de España se forjó en su historia conjunta con las naciones de la Iberosfera. Nuestra política de inmigración atenderá de forma prioritaria a los ciudadanos procedentes de las naciones que comparten idioma e importantes lazos de amistad, historia y cultura con España.
 categories:
 - Migración
-text: La identidad nacional de España se forjó en su historia conjunta con las naciones de la Iberosfera. Nuestra política de inmigración atenderá de forma prioritaria a los ciudadanos procedentes de las naciones que comparten idioma e importantes lazos de amistad, historia y cultura con España.

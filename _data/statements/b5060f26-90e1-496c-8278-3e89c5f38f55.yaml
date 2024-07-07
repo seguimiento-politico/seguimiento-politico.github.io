@@ -1,6 +1,6 @@
 id: b5060f26-90e1-496c-8278-3e89c5f38f55
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 264
+parent_chapter: 0631ffc9-f685-4c80-b532-d54fe56904f9
+text: Continuaremos profundizando en las relaciones bilaterales con Francia.
 categories: Política internacional
 topics: Francia
-text: Continuaremos profundizando en las relaciones bilaterales con Francia.

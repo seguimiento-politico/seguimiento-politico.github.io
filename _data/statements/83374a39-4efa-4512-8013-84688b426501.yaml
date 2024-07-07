@@ -1,7 +1,6 @@
 id: 83374a39-4efa-4512-8013-84688b426501
 type: promise
-parent_statement: bad81450-142f-48bc-a53e-4ba4f7553744
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Derechos y servicios sociales
+parent_statement: bad81450-142f-48bc-a53e-4ba4f7553744
+parent_chapter: 6bea7d15-32ea-402e-8fad-42663ddea615
 text: Para cumplir este compromiso garantizaremos la financiación y desplegaremos la Estrategia Nacional para la lucha contra el sinhogarismo, 2023-2030, en la que ha estado trabajando el Gobierno de España en colaboración con los ayuntamientos, comunidades autónomas y entidades del tercer sector y que pone particularmente el foco en garantizar el derecho a la vivienda.
+categories: Derechos y servicios sociales

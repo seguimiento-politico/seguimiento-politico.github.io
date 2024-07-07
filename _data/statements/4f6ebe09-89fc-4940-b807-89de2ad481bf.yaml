@@ -1,6 +1,6 @@
 id: 4f6ebe09-89fc-4940-b807-89de2ad481bf
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 21
+parent_chapter: 14cfe70b-f6b5-4003-88f7-02a877dec28f
 title: Preservar la soberanía de sectores estratégicos, como los puertos.
 text: Los puertos del Estado se orientarán hacia el interés general de la ciudadanía y del país Estudiaremos fórmulas para revertir el control de empresas externas en servicios de estiba, astilleros e industria naval y se modificarán las normas de liberalización que conlleven una pérdida de soberanía y un expolio de las inversiones públicas Los fondos buitre pretenden hacerse con los puertos españoles y con los astilleros, imponer la precariedad laboral en estado puro y recortar los sueldos para aumentar los beneficios. Frente a esto, impulsaremos planes de reindustrialización de los puertos del Estado y de los astilleros privados que se encuentren en situación de quiebra o de grave crisis financiera, mediante la intervención directa de las Administraciones correspondientes para impedir el fin de la actividad y asegurar el mantenimiento del empleo El hecho de que el Estado pueda intervenir, adquiriendo acciones de los astilleros en liquidación o de la unidad productiva, es clave de cara a establecer un plan de viabilidad para estas empresas a medio y largo plazo

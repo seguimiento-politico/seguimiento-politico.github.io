@@ -1,6 +1,6 @@
 id: b0922940-d91f-4beb-9951-b9ab0097995d
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 18
-categories: Trabajo
+parent_chapter: cae5d808-1ce9-4168-a268-4ea405606db1
 title: Incremento del Salario Mínimo Interprofesional (SMI).
 text: Los sueldos dignos permiten tener futuros estables, permiten a nuestros jóvenes apostar por su emancipación y a nuestros adultos mantener a sus familias. Por ello, hemos aumentado el SMI un 22% en 2019, recuperando lo perdido en años anteriores y situándonos en la media de la OCDE. Continuaremos aumentando el SMI, de forma progresiva y acordada en el diálogo social, hasta situarlo al final de la legislatura en el 60% del salario medio, de acuerdo con lo establecido en la Carta Social Europea.
+categories: Trabajo

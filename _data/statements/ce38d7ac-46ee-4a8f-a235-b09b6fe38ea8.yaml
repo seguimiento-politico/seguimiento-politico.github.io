@@ -1,6 +1,6 @@
 id: ce38d7ac-46ee-4a8f-a235-b09b6fe38ea8
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 59
+parent_chapter: 515b8d5e-bb59-4239-b0e5-1a45b7cb18f0
+children_promises:
+- f1b4d808-4e1c-4934-a235-d710066766e5
+children_statements: []
+title: Impulsaremos a través del PERTE Chip la cadena de valor de la industria en distintas fases
 categories:
 - Industria
 - Ciencia y tecnología
-title: Impulsaremos a través del PERTE Chip la cadena de valor de la industria en distintas fases
-has_children: true

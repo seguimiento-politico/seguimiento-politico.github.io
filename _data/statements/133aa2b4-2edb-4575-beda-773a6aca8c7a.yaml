@@ -1,7 +1,6 @@
 id: 133aa2b4-2edb-4575-beda-773a6aca8c7a
 type: promise
-parent_statement: e3f9eebe-6b93-4046-b527-cd602ebd15e1
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: e3f9eebe-6b93-4046-b527-cd602ebd15e1
+parent_chapter: 63ab839a-6275-4d54-bf9b-ec036a685a75
+text: Para eso, se deberían generar espacios de aprendizaje sobre competencias digitales específicas con perspectiva de género, interseccional y atendiendo a la diversidad; promover espacios de aprendizaje, experimentación y prueba de tecnologías avanzadas para niñas, niños y jóvenes; o el diseño, desarrollo, prueba y despliegue de tecnologías en intersección con la cultura y la creación, la formación, la acción colectiva y el autoaprendizaje.
 categories: Educación
 topics: Digitalización
-text: Para eso, se deberían generar espacios de aprendizaje sobre competencias digitales específicas con perspectiva de género, interseccional y atendiendo a la diversidad; promover espacios de aprendizaje, experimentación y prueba de tecnologías avanzadas para niñas, niños y jóvenes; o el diseño, desarrollo, prueba y despliegue de tecnologías en intersección con la cultura y la creación, la formación, la acción colectiva y el autoaprendizaje.

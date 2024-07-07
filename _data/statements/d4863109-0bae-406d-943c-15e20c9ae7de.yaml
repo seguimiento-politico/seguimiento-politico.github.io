@@ -1,6 +1,6 @@
 id: d4863109-0bae-406d-943c-15e20c9ae7de
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 46
-categories: Comercio
+parent_chapter: 9297166b-75a1-4115-a351-6be6142ed7df
+children_promises:
+- 56a988f6-434e-446f-9bcc-26e111b6db75
+children_statements: []
 title: Ayudas específicas al comercio minorista, que le permita incorporar soluciones tecnológicas y procesos innovadores en su actividad, así como fomentar el uso de herramientas digitales
-has_children: true
+categories: Comercio

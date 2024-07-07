@@ -1,6 +1,6 @@
 id: e7563323-161c-4039-8c17-da82997d7ff3
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 133
-categories: Seguridad y defensa
+parent_chapter: 66b190ef-617c-438a-adf3-a3c9f707719b
+children_promises:
+- f1b9756e-17ff-470f-be6f-94d3455d615f
+- 7680d5e4-a89e-493c-b42b-cb7d87a4dab8
+- bfaab71a-1e79-45f6-bc24-cddc2b6243af
+- 8e694b19-0581-4bc8-b4fb-e8337afded41
+- 47b26d53-323e-4a1e-b525-33f736785686
+children_statements:
+- 56130222-0f22-4ac9-9671-e2dd0cfdef31
 title: Estableceremos un sistema de medidas penales más eficaces en la prevención de los delitos y orientado a la reinserción para lograr una sociedad más segura.
-has_children: true
+categories: Seguridad y defensa

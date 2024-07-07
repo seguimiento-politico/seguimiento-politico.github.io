@@ -1,6 +1,6 @@
 id: d6143bac-e6db-49ef-9ee7-65c31f723bdc
-type: declaration
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 42
-categories: Derechos y servicios sociales
+parent_chapter: ba5391eb-a9bd-462e-b63b-168d871e6d01
+children_promises: []
+children_statements:
+- 7e21e819-a5cf-4b2e-91f6-98b45e34fc9f
+- 6bfe6dd6-5061-435f-98bc-3ec0a49036cf
 title: UNA SANIDAD MODERNA Y AVANZADA
-has_children: true
+categories: Derechos y servicios sociales

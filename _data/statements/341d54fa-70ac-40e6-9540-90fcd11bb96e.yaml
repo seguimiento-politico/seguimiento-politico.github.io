@@ -1,7 +1,6 @@
 id: 341d54fa-70ac-40e6-9540-90fcd11bb96e
 type: promise
-parent_statement: 06ee3772-ef75-47e4-b1e5-84609a110918
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 06ee3772-ef75-47e4-b1e5-84609a110918
+parent_chapter: 999e9dab-efca-4092-a144-a19ca4ee5302
+text: Participación política. La participación política, a través del voto, es esencial para todas las personas en cualquier país democrático, por lo que se hace absolutamente necesario que las personas con discapacidad puedan ejercer, de forma autónoma, el derecho a voto en todo proceso electoral, haciendo efectivas las recientes mejoras normativas. Se adoptarán las medidas necesarias para eliminar los obstáculos que actualmente enfrentan las personas con discapacidad.
 categories: Derecuos y servicios sosciales
 topics: Discapacidad
-text: Participación política. La participación política, a través del voto, es esencial para todas las personas en cualquier país democrático, por lo que se hace absolutamente necesario que las personas con discapacidad puedan ejercer, de forma autónoma, el derecho a voto en todo proceso electoral, haciendo efectivas las recientes mejoras normativas. Se adoptarán las medidas necesarias para eliminar los obstáculos que actualmente enfrentan las personas con discapacidad.

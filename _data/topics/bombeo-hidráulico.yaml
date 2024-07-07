@@ -1,0 +1,21 @@
+name: Bombeo hidráulico
+other: []
+other_count: 0
+position_negative: []
+position_negative_count: 0
+position_positive:
+- &id001
+  id: 7fdad29b-f21a-43b0-a35b-ad7bda21eeb2
+  parties:
+  - VOX
+position_positive_count: 1
+proposed_actions:
+- *id001
+proposed_actions_count: 1
+statements:
+- *id001
+statements_count: 1
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

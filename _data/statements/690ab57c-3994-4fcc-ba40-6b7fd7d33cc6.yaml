@@ -1,6 +1,6 @@
 id: 690ab57c-3994-4fcc-ba40-6b7fd7d33cc6
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 47
-categories: Comercio
+parent_chapter: 6f519b8a-1387-4b6d-9ac4-fa4d05568ba2
 text: El gobierno de Sánchez ha sido un enemigo directo, como ningún otro gobierno antes, del producto español. Ministros del gobierno han hecho declaraciones en medios extranjeros contra la carne española, se han aceptado con resignación campañas internacionales contra productos nacionales como la fresa, e incluso se han transferido millones de euros al desarrollo de sectores que compiten deslealmente contra nuestro producto, como el regadío marroquí, que no está sujeto a las normas y prohibiciones que asfixian a nuestros agricultores, permitiendo que inunden el mercado español con precios irrisorios.
+categories: Comercio

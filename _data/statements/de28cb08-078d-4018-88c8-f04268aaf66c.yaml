@@ -1,6 +1,6 @@
 id: de28cb08-078d-4018-88c8-f04268aaf66c
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 144
+parent_chapter: 5732e731-e59a-4bf7-9c33-280819845d40
+text: Defenderemos nuestra cultura, lenguas y raíces comunes. Fomentaremos el mayor conocimiento y la cooperación entre el conjunto de pueblos y países hispanohablantes y lusófonos de todos los continentes. Apoyaremos el desarrollo de proyectos de conservación y restauración de nuestro patrimonio histórico compartido. Reforzaremos el papel del Instituto Cervantes en su labor de promoción universal de la lengua española y difusión de la cultura española.
 categories:
 - Política internacional
-text: Defenderemos nuestra cultura, lenguas y raíces comunes. Fomentaremos el mayor conocimiento y la cooperación entre el conjunto de pueblos y países hispanohablantes y lusófonos de todos los continentes. Apoyaremos el desarrollo de proyectos de conservación y restauración de nuestro patrimonio histórico compartido. Reforzaremos el papel del Instituto Cervantes en su labor de promoción universal de la lengua española y difusión de la cultura española.

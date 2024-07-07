@@ -1,6 +1,6 @@
 id: 5535acef-0585-4193-b1d6-64a5a5f348b5
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 240
-categories: Administración pública
+parent_chapter: 251474fc-1fa6-4749-85be-3ba457500342
 text: Elaboraremos una cartera básica de servicios esenciales de manera participada, que contenga todas las prestaciones esenciales que el sector público ofrece a la ciudadanía de forma accesible y con lenguaje claro.
+categories: Administración pública

@@ -1,6 +1,6 @@
 id: 8f70a390-8063-41f0-9a11-aa6b66ce0cc4
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 135
+parent_chapter: b5417c2b-2bd9-455f-a227-1ac572dbd434
+children_promises:
+- 65f139ce-0231-468f-91c4-5aac91cc38a4
+- c9f15616-f09a-4f2f-94e4-aa1154782ae5
+children_statements: []
+title: Selección de lugares de memoria emblemáticos para su desarrollo como centros de interpretación.
 categories: Democracia
 topics: Memoria democrática
-title: Selección de lugares de memoria emblemáticos para su desarrollo como centros de interpretación.
-has_children: true

@@ -1,6 +1,6 @@
 id: 00a164f2-913e-47bf-a037-8baa082006d6
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 18
-categories: Sanidad
+parent_chapter: 76f5a4bd-043f-422d-98a0-fecfe8c46fdf
 text: Creación de un plan nacional de prevención, cuidado y tratamiento de los trastornos relacionados con la salud mental. Promoción de la investigación médica, con independencia de la rentabilidad comercial, por ejemplo, las enfermedades raras. Defensa de la cultura de la vida y la familia frente a quienes promueven la cultura de la muerte.
+categories: Sanidad

@@ -1,7 +1,6 @@
 id: 11e0786b-1196-4b0d-8c94-d8946e699364
 type: promise
-parent_statement: 316a999c-05c7-4a80-a78b-ae39a237af5c
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 316a999c-05c7-4a80-a78b-ae39a237af5c
+parent_chapter: c31b1fcd-80d0-4ca3-b06a-863fa279380c
+text: Velaremos por el cumplimiento efectivo de la Ley de Aguas para asegurar el mantenimiento de los caudales ecológicos, la protección de los márgenes fluviales y los bosques de ribera.
 categories: Medioambiente
 topics: Desertificación
-text: Velaremos por el cumplimiento efectivo de la Ley de Aguas para asegurar el mantenimiento de los caudales ecológicos, la protección de los márgenes fluviales y los bosques de ribera.

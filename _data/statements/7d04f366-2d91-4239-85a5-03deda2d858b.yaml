@@ -1,7 +1,6 @@
 id: 7d04f366-2d91-4239-85a5-03deda2d858b
 type: promise
-parent_statement: 610bb7ad-277d-453e-bd23-f6f66ce91419
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -10,5 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 77
-categories: Impuestos y financiación pública
+parent_statement: 610bb7ad-277d-453e-bd23-f6f66ce91419
+parent_chapter: ec3e397c-bf4a-4692-a06e-58f507cee1f8
 text: Una vez recuperados, reduciremos el tipo general del 1,5% al 0,5% del AJD para fomentar la transmisión de bienes inmuebles y favorecer de esta manera la actividad inmobiliaria, ayudando a reducir así los precios finales de la compra de viviendas
+categories: Impuestos y financiación pública

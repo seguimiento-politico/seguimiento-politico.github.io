@@ -1,13 +1,18 @@
 id: 03e10ab5-34a5-4b5d-a8aa-bfe1bc5165ae
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 84
+parent_chapter: d1de57bf-12c9-4ee3-a261-eeb154aba200
+children_promises:
+- a8e9f694-8db3-44a1-bae7-38bb549a6a64
+- 831e878c-0de4-4583-a691-3239c3ec26e0
+- b7aea8e5-001f-4398-8aaa-406161796e60
+children_statements: []
+text: Potenciaremos el Gobierno Abierto poniendo a disposición de los ciudadanos una información amplia y detallada del uso de los recursos públicos.
 categories: Democracia
 topics: Gobernanza y transparencia
-text: Potenciaremos el Gobierno Abierto poniendo a disposición de los ciudadanos una información amplia y detallada del uso de los recursos públicos.
-has_children: true

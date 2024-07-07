@@ -1,0 +1,30 @@
+name: Pensiones
+other:
+- &id001
+  id: 9aecda4d-9137-43fd-9f65-ceef5d4498a3
+  parties:
+  - PSOE
+- &id002
+  id: cc834f2d-3d8f-45e6-9868-8cc25c050948
+  parties:
+  - PSOE
+- &id003
+  id: 28932183-c5ac-4c91-a90a-471b9b61a28a
+  parties:
+  - PSOE
+other_count: 3
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- *id002
+- *id003
+statements_count: 3
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

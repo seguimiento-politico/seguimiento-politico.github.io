@@ -1,7 +1,6 @@
 id: ebecdc18-ed08-4261-a58e-0dcab936c35e
 type: promise
-parent_statement: 728a4a48-4508-412e-9b1b-c9ce0a8e0dd9
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 728a4a48-4508-412e-9b1b-c9ce0a8e0dd9
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+text: Por otra parte, con el objetivo de dar cumplimiento efectivo a la Ley 15/2022 Integral para la Igualdad de Trato y la No Discriminación, del 12 de julio, se procederá a la creación de la Autoridad Independiente para la Igualdad de Trato, y se tomarán medidas para avanzar en la formación del personal de la Administración en la aplicación de la ley y en el fortalecimiento de los mecanismos de protección de las víctimas y de sanción de las conductas discriminatorias cuando estas se produzcan en el ámbito de actuación de las distintas Administraciones públicas.
 categories: Democracia
 topics: Igualdad
-text: Por otra parte, con el objetivo de dar cumplimiento efectivo a la Ley 15/2022 Integral para la Igualdad de Trato y la No Discriminación, del 12 de julio, se procederá a la creación de la Autoridad Independiente para la Igualdad de Trato, y se tomarán medidas para avanzar en la formación del personal de la Administración en la aplicación de la ley y en el fortalecimiento de los mecanismos de protección de las víctimas y de sanción de las conductas discriminatorias cuando estas se produzcan en el ámbito de actuación de las distintas Administraciones públicas.

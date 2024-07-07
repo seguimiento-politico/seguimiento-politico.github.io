@@ -1,7 +1,6 @@
 id: 163cd862-b80b-4c4d-bf33-864d55c14c38
 type: promise
-parent_statement: e89d5a20-cd74-4edc-a2e0-b7d1322e6b72
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: e89d5a20-cd74-4edc-a2e0-b7d1322e6b72
+parent_chapter: c31b1fcd-80d0-4ca3-b06a-863fa279380c
+text: 'Programa nacional de adaptación climática agropecuaria: reconversión del regadío ultraintensivo y del plan estratégico de secano. Moratoria del regadío intensivo y reducción progresiva del regadío superintensivo. Reconversión ambiental y sociolaboral del regadío agroindustrial. Apoyo a los regadíos tradicionales.'
 categories: Medioambiente
 topics: Desertificación
-text: 'Programa nacional de adaptación climática agropecuaria: reconversión del regadío ultraintensivo y del plan estratégico de secano. Moratoria del regadío intensivo y reducción progresiva del regadío superintensivo. Reconversión ambiental y sociolaboral del regadío agroindustrial. Apoyo a los regadíos tradicionales.'

@@ -1,6 +1,6 @@
 id: 74d2e40b-dd51-4142-890a-e34244f1eca6
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 39
+parent_chapter: b827e170-8b06-495b-a23b-f6aebdafa969
+text: Potenciaremos las vocaciones STEM (ciencia, tecnología, ingeniería y matemáticas) entre las niñas y jóvenes para cerrar la brecha de género en estos estudios.
 categories: Derechos y servicios sociales
 topics: Igualdad
-text: Potenciaremos las vocaciones STEM (ciencia, tecnología, ingeniería y matemáticas) entre las niñas y jóvenes para cerrar la brecha de género en estos estudios.

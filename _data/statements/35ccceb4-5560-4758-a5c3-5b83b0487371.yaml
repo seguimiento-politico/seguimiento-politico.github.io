@@ -1,7 +1,6 @@
 id: 35ccceb4-5560-4758-a5c3-5b83b0487371
 type: promise
-parent_statement: 9c6f53cb-3edb-4a86-9f4e-e8c1c6c591fc
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 9c6f53cb-3edb-4a86-9f4e-e8c1c6c591fc
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+text: Trabajar por una Europa feminista. La Unión Europea es un actor imprescindible para avanzar hacia la igualdad tanto dentro como fuera de la Unión. Contamos con herramientas de indudable valor, pero hay que seguir trabajando para continuar por esa senda y evitar retrocesos ya visibles en algunos Estados miembros, transponiendo de manera ambiciosa las directivas actuales y apoyando las propuestas que serán negociadas próximamente durante la presidencia española, como la lucha contra la violencia contra las mujeres o la prevención y la lucha contra la trata de seres humanos y por la protección de las víctimas. Dado que se hace una apuesta decidida por el fortalecimiento de la perspectiva de género en el contexto de la Unión Europea, y considerando el papel del Consejo como colegislador, creemos que, entre las formaciones, ha de figurar una específica sobre igualdad de género.
 categories: Democracia
 topics: Igualdad
-text: Trabajar por una Europa feminista. La Unión Europea es un actor imprescindible para avanzar hacia la igualdad tanto dentro como fuera de la Unión. Contamos con herramientas de indudable valor, pero hay que seguir trabajando para continuar por esa senda y evitar retrocesos ya visibles en algunos Estados miembros, transponiendo de manera ambiciosa las directivas actuales y apoyando las propuestas que serán negociadas próximamente durante la presidencia española, como la lucha contra la violencia contra las mujeres o la prevención y la lucha contra la trata de seres humanos y por la protección de las víctimas. Dado que se hace una apuesta decidida por el fortalecimiento de la perspectiva de género en el contexto de la Unión Europea, y considerando el papel del Consejo como colegislador, creemos que, entre las formaciones, ha de figurar una específica sobre igualdad de género.

@@ -1,6 +1,6 @@
 id: c7f3559c-ebca-46fc-a67e-5d7623471918
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 28
-categories: Sanidad
+parent_chapter: 75517e5c-2334-421b-8769-dbe823cce614
 text: Introduciremos progresivamente la Atención a la Salud Bucodental de la población en la cartera de servicios del Sistema Nacional de Salud (SNS).
+categories: Sanidad

@@ -1,6 +1,6 @@
 id: b82feab1-48c6-47ae-a161-b036b13f25f9
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 21
+parent_chapter: 5ac453aa-319d-4ea3-b4b6-7a63e3dde3ff
+children_promises:
+- abe875ff-b7e8-480f-aa79-1a81330e6f4c
+- edd27fcc-88bb-4f45-9707-45678a622a73
+children_statements:
+- 7681b7bf-5f35-4ad6-9cbc-903b9d535d7e
+title: Aprobación de una ley de regulación de la publicidad de alimentos no saludables dirigidos al público infantil
 categories: Consumo
 topics: Consumo sostenible
-title: Aprobación de una ley de regulación de la publicidad de alimentos no saludables dirigidos al público infantil
-has_children: true

@@ -1,6 +1,6 @@
 id: 9b3d2105-255e-4c75-8ffc-b5330b49f0b0
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 151
+parent_chapter: 5424254d-f35f-472e-b45f-7c57cb8123c8
+text: Impulsaremos la defensa y conservación de la raza autóctona del Toro de Lidia para evitar su desaparición. La destrucción de esta raza única causaría un daño irreparable en la Dehesa, lo que provocaría la desaparición de muchas especies del ecosistema como queda probado en varios informes de expertos.
 categories:
 - Territorio rural
-text: Impulsaremos la defensa y conservación de la raza autóctona del Toro de Lidia para evitar su desaparición. La destrucción de esta raza única causaría un daño irreparable en la Dehesa, lo que provocaría la desaparición de muchas especies del ecosistema como queda probado en varios informes de expertos.

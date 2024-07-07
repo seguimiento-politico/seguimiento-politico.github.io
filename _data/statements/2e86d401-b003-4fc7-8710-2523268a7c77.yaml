@@ -1,6 +1,6 @@
 id: 2e86d401-b003-4fc7-8710-2523268a7c77
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 8
+parent_chapter: 233073ee-84f6-470b-9e97-5fa8c6a735c9
+text: Seguiremos desarrollando el “Plan de retención y atracción del talento científico e innovador” con el objetivo de que vuelvan los científicos que se fueron, que no se vayan los que están y atraer a los mejores; y el “Plan de Transferencia y colaboración del conocimiento” para acelerar la innovación en nuestro país.
 categories: Ciencia y tecnología
 topics: I+D+i
-text: Seguiremos desarrollando el “Plan de retención y atracción del talento científico e innovador” con el objetivo de que vuelvan los científicos que se fueron, que no se vayan los que están y atraer a los mejores; y el “Plan de Transferencia y colaboración del conocimiento” para acelerar la innovación en nuestro país.

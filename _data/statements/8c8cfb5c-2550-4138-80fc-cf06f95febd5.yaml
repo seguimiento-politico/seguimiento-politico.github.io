@@ -1,6 +1,6 @@
 id: 8c8cfb5c-2550-4138-80fc-cf06f95febd5
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 57
+parent_chapter: f332e39e-54bd-4a09-97bf-4e1a0c3e4bbd
+children_promises:
+- 5625cb58-cd4c-4b5e-a746-c1479b303406
+children_statements:
+- 3664081b-4839-4a75-801c-67d18fcfde35
+title: continuaremos con las medidas que favorezcan la implantación y despliegue seguro y ubicuo de la tecnología móvil 5G y sus futuras evoluciones.
 categories: Infraestructuras
 topics: Digitalización
-title: continuaremos con las medidas que favorezcan la implantación y despliegue seguro y ubicuo de la tecnología móvil 5G y sus futuras evoluciones.
-has_children: true

@@ -1,6 +1,6 @@
 id: 5f81a4a4-f33a-4199-a9e8-d29f21afc770
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,16 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 43
+parent_chapter: 9b9406d4-64ea-4dc6-9ef5-d29e2f089e3e
+children_promises:
+- bc6435e2-a0a9-4114-ba6d-5761ffcc77e6
+- 68daa03a-6d11-4afb-b0b6-6e21c5db42c0
+- f7c638ec-d49a-4c5d-a27f-9a3505cb7607
+- 382a8c21-cff0-4576-ab60-acb4d35b9908
+- 589993f1-0e78-43a3-8c4f-2a7f0b721083
+- beaaae43-7d25-4a1b-8b87-546adaf469b4
+- 50cc67d7-3525-4928-abcc-9acd4ec5af2f
+children_statements: []
+text: 'Trabajaremos por el desarrollo de una carrera investigadora y académica estable, digna y predecible. Para ello:'
 categories: Ciencia y tecnología
 topics: I+D+i
-text: 'Trabajaremos por el desarrollo de una carrera investigadora y académica estable, digna y predecible. Para ello:'
-has_children: true

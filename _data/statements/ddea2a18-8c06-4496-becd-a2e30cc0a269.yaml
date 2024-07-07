@@ -1,11 +1,12 @@
 id: ddea2a18-8c06-4496-becd-a2e30cc0a269
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 53
-categories: Derechos y servicios sociales
+parent_chapter: bddbd6ad-f9fd-4a6b-b520-20fc50ae562e
 text: Renovaremos la Estrategia Nacional para la Inclusión Social de la Población Gitana en España 2012-2020 a través de planes operativos en colaboración estrecha con las comunidades autónomas, la FEMP y las entidades sociales del movimiento asociativo gitano, principalmente las que integran el Consejo Estatal del Pueblo Gitano.
+categories: Derechos y servicios sociales

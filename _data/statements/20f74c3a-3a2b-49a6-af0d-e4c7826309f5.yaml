@@ -1,6 +1,6 @@
 id: 20f74c3a-3a2b-49a6-af0d-e4c7826309f5
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 176
+parent_chapter: 49910009-ba4c-43f1-989a-c8fe29e8fb41
+text: Mejorar el modelo residencial, aumentando la calidad de la atención en centros tanto públicos como privados en equipamientos y profesionales. Avanzaremos hacia un modelo que se parezca lo máximo posible a un hogar, ajustando los cambios a cada contexto, a través de un cambio organizacional hacia unidades de convivencia más reducidas; contemplando los nuevos roles de los profesionales, fijando la figura del profesional de referencia, elaborando una historia de vida, promoviendo la autonomía, planes personalizados y los cambios del entorno necesarios. El objetivo es desarrollar la atención integral centrada en la persona mediante un modelo colaborativo entre los servicios sociales, sanitarios y otros comunitarios, y las personas residentes, familia, profesionales y voluntariado.
 categories: Derechos y servicios sociales
 topics: Cuidados
-text: Mejorar el modelo residencial, aumentando la calidad de la atención en centros tanto públicos como privados en equipamientos y profesionales. Avanzaremos hacia un modelo que se parezca lo máximo posible a un hogar, ajustando los cambios a cada contexto, a través de un cambio organizacional hacia unidades de convivencia más reducidas; contemplando los nuevos roles de los profesionales, fijando la figura del profesional de referencia, elaborando una historia de vida, promoviendo la autonomía, planes personalizados y los cambios del entorno necesarios. El objetivo es desarrollar la atención integral centrada en la persona mediante un modelo colaborativo entre los servicios sociales, sanitarios y otros comunitarios, y las personas residentes, familia, profesionales y voluntariado.

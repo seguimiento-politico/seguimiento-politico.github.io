@@ -1,7 +1,6 @@
 id: 5db11d2d-e0ee-4b18-a0cd-ba8428e4a154
 type: promise
-parent_statement: 231feeea-b594-4111-b7c6-6c510b7e420f
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Vivienda
+parent_statement: 231feeea-b594-4111-b7c6-6c510b7e420f
+parent_chapter: 10dbdb5a-3231-46ed-86c9-0dc18f77040e
 text: Reconoceremos el derecho subjetivo a la vivienda de forma progresiva incluyendo a diferentes colectivos, empezando por las personas en situación de sinhogarismo. El derecho subjetivo a la vivienda será satisfecho a través de la garantía de acceso a vivienda pública o mediante ayudas públicas al alquiler en el mercado privado.
+categories: Vivienda

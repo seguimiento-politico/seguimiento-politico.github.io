@@ -1,7 +1,6 @@
 id: e750b6af-3860-4771-8e8b-0afa1ff6631b
 type: promise
-parent_statement: 39d9abf5-0f45-44cb-ac5c-609cdccf0423
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Sanidad
+parent_statement: 39d9abf5-0f45-44cb-ac5c-609cdccf0423
+parent_chapter: 17e4c412-8ac4-4992-848a-422903075ee3
 text: Se blindará el carácter público del Sistema Nacional de Salud, impidiendo las formas de gestión privatizadas.
+categories: Sanidad

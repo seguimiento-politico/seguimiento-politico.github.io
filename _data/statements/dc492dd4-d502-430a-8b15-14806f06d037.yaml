@@ -1,6 +1,6 @@
 id: dc492dd4-d502-430a-8b15-14806f06d037
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 107
-categories: Educación
+parent_chapter: d74bc2c5-b632-425b-ae29-fb826a1b8e06
 text: Innovamos en la ESO y Bachillerato introduciendo proyectos motivadores y de innovación en los centros que incorporen elementos profesionales en la ESO y el bachillerato desde la capilaridad de la Formación Profesional.
+categories: Educación

@@ -1,6 +1,6 @@
 id: cda19cd4-16a0-4042-8a1f-4320fbea23b3
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Democracia
+parent_chapter: dbcc7ee6-627f-4108-bcf4-9b0b69036063
 text: 'Estamos en una nueva etapa de la construcción del Estado autonómico. Las Administraciones Públicas ya no son órganos estancos que pugnan por ejercer un mayor número de competencias, sino que son parte de un sistema que vela por la protección del interés general y que debe funcionar de manera armónica y coordinada. En los últimos años se ha logrado un clima de colaboración sin precedentes, que ha sido posible gracias a las diferentes instituciones.<br><br> España es una comunidad política plural, que se enriquece con las aportaciones de todos los territorios. La materialización más clara de esta tendencia la encontramos en la experiencia de la gestión de la pandemia, marcada por una absoluta colaboración y lealtad institucional del Estado y las Comunidades Autónomas, como pudo comprobarse en las reuniones del Consejo Interterritorial del Sistema Nacional de Salud o la Conferencia de Presidentes. Este clima de colaboración y lealtad institucional se ha mantenido también en la gestión de los fondos europeos Next Generation EU. <br><br>Con el impulso del Partido Socialista, estamos construyendo una nueva manera de gobernar adaptada a las necesidades de nuestro tiempo: la cogobernanza. Se trata de un modelo de responsabilidad compartida que combina los tres principios básicos de nuestro Estado descentralizado, consagrados en el artículo 2 de la Constitución: unidad, autonomía y solidaridad.<br><br> En esta Legislatura, que ha sido la de mayor producción normativa autonómica de la historia, también se ha incrementado y consolidado la colaboración entre el Estado y las Comunidades Autónomas, siendo el período de menor conflictividad de nuestra andadura constitucional. El reforzamiento de la cooperación entre Gobierno y Autonomías responde, en última instancia, a un modelo de país más cohesionado social y territorialmente.<br><br> En suma, la lección extraída es que la decisión más acertada es la que nace del acuerdo y del diálogo. Por eso, para el PSOE, la cogobernanza es el mejor instrumento para renovar el esquema de relaciones entre las Comunidades Autónomas y el Estado. La cogobernanza precisa que afrontemos una mejora y profundización de las relaciones intergubernamentales de nuestro sistema territorial en dos direcciones simultáneas. Por un lado, para potenciar los mecanismos de cooperación vertical entre el Gobierno central y los gobiernos de las Comunidades Autónomas ya existentes. Y por otro, para fomentar la relación entre las propias Comunidades. El objetivo último debe ser constitucionalizar los avances realizados hasta el momento, que vienen a reflejar la progresiva descentralización del sistema y, paralelamente, el reforzamiento de los instrumentos de cooperación.<br><br> Por ello, en la próxima Legislatura en el Partido Socialista nos proponemos reforzar y extender la cogobernanza y, así, mejorar el funcionamiento del Estado autonómico. Y para ello:'
+categories: Democracia

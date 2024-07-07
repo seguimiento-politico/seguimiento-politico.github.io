@@ -1,6 +1,6 @@
 id: 7aa1dd59-99f2-4a23-a4fa-8b610553961b
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 35
-categories: Educación
+parent_chapter: 8dc56675-db4f-4450-b565-3d1b2de80c30
 text: Dignificaremos los oficios y las artes mediante el impulso a la formación profesional dual. La Formación Profesional debe ser una opción atractiva para que nuestros jóvenes adquieran las herramientas que les permitan acceder a un empleo o emprender una iniciativa empresarial propia.
+categories: Educación

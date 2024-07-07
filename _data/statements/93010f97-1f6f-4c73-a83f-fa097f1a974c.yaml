@@ -1,7 +1,6 @@
 id: 93010f97-1f6f-4c73-a83f-fa097f1a974c
-type: declaration
-parent_statement: 4ba2c278-894b-4c92-8446-a4ecbe8bef11
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -9,5 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 41
-categories: Derechos y servicios sociales
+parent_statement: 4ba2c278-894b-4c92-8446-a4ecbe8bef11
+parent_chapter: ba5391eb-a9bd-462e-b63b-168d871e6d01
 text: Las familias son la primera instancia de toda organización social. Son el lugar de los aprendizajes esenciales y el primer ámbito de formación y para resolver los problemas diarios. Sin embargo, las familias españolas han visto cómo el precio de los alimentos se ha incrementado casi un 25% desde febrero de 2021; 6,7 millones de españoles no pueden mantener su hogar con una temperatura adecuada, y la cuota hipotecaria ha crecido un 49% desde 2019. Más de un tercio de los españoles tienen dificultades para llegar a fin de mes y un 26% están en riesgo de pobreza, más que en 2018.
+categories: Derechos y servicios sociales

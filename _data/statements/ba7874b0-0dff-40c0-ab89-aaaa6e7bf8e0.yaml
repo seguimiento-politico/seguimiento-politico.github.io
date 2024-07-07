@@ -1,6 +1,6 @@
 id: ba7874b0-0dff-40c0-ab89-aaaa6e7bf8e0
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 130
-categories: Seguridad y defensa
+parent_chapter: 66b190ef-617c-438a-adf3-a3c9f707719b
+children_promises:
+- 6a7dafff-ee76-4661-9feb-cc24c376beb9
+- d03dd00a-7a70-4a73-ada5-f564b16a36b6
+- 943db1d1-4cc8-4e15-abd6-b958501febeb
+- 84e0702b-9efb-4f2d-8915-32292cbf6e7f
+- 441ffbb2-bb5a-4fd9-ab91-4666d95858d7
+children_statements: []
 title: Aprobación de una ley de prevención y convivencia
-has_children: true
+categories: Seguridad y defensa

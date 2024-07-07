@@ -1,6 +1,6 @@
 id: c4592135-e318-4b4c-a296-0e7dae96adc2
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 34
+parent_chapter: ad5a3370-9a59-4310-96e4-a5294325d5fe
+text: La Unión Europea no puede ser una carga económica para los españoles. Reducir el gasto político eliminando duplicidades y oponiéndose a todas las agencias europeas que se inmiscuyan en la soberanía nacional excediendo sus competencias.
 categories:
 - Política internacional
-text: La Unión Europea no puede ser una carga económica para los españoles. Reducir el gasto político eliminando duplicidades y oponiéndose a todas las agencias europeas que se inmiscuyan en la soberanía nacional excediendo sus competencias.

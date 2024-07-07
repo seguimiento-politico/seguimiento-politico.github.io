@@ -1,6 +1,6 @@
 id: 9af9fb20-6088-4911-ad9f-d89c0ed69895
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 110
-categories: Educación
+parent_chapter: 36fd6124-6838-4148-89e5-0907ad9fec89
 text: Reforzaremos la participación del alumnado en la Educación para la ciudadanía democrática. Desarrollaremos canales de escucha a la infancia y fomentaremos pedagogías activas en el marco de la educación para la participación.
+categories: Educación

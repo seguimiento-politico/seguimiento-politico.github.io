@@ -1,6 +1,6 @@
 id: 9770f6a3-950b-44ce-85e7-99b4d0c4ecd5
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 178
-categories: Deporte
+parent_chapter: 7cb07f90-2b71-46f2-af0b-2684ec9ab916
+children_promises:
+- ef7846b9-5356-45f5-8b01-5322c895d1cc
+- fce65b29-83f4-4e87-9adf-57562aba540d
+- b96b7642-0796-421f-9b29-7f9d7f5a71eb
+children_statements: []
 title: Reforzar la comunicación del deporte
-has_children: true
+categories: Deporte

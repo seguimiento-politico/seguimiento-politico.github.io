@@ -1,7 +1,6 @@
 id: 55635d22-b62e-462f-8017-d1846306120e
 type: promise
-parent_statement: bdbc81c8-56b1-4580-9303-b5f8652b6139
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: bdbc81c8-56b1-4580-9303-b5f8652b6139
+parent_chapter: f332e39e-54bd-4a09-97bf-4e1a0c3e4bbd
+text: Desarrollaremos reglamentariamente la última Ley General de Telecomunicaciones, de manera que se permitan actuaciones que faciliten el despliegue de redes innovadoras de telecomunicaciones que alcancen a toda la población.
 categories: Infraestructuras
 topics: Digitalización
-text: Desarrollaremos reglamentariamente la última Ley General de Telecomunicaciones, de manera que se permitan actuaciones que faciliten el despliegue de redes innovadoras de telecomunicaciones que alcancen a toda la población.

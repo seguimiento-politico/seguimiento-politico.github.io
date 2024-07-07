@@ -1,0 +1,30 @@
+id: b5607865-b4ca-4e0f-ae05-e96d4c1dd5c8
+type: statement
+parent_document: a613c4b6-f9dc-4926-8b9a-b87c233e5a75
+parties:
+- VOX
+election_type: europeas
+election_date: '2024-06-09'
+publication_date: '2024-05-30'
+page: 18
+text: El producto español ha sido uno de los grandes perjudicados por el ecologismo radical que domina las instituciones europeas y nacionales. Todos los partidos políticos nacionales – excepto VOX – junto a la Comisión liderada por la jefa del PP en Europa, Ursula von der Leyen, han emprendido una ofensiva suicida contra nuestra industria y nuestro sector primario mientras promueven la competencia desleal y la deslocalización a costa de favorecer los intereses de terceros países como China, Sudáfrica o Marruecos.
+categories:
+- Comercio
+topics:
+- name: Medioambiente
+- name: Ecologismo
+- name: Comercio
+- name: Industria
+- name: Sector primario
+- name: China
+- name: Sudáfrica
+- name: Marruecos
+- name: Ecologismo radical
+  position_negative:
+  - text: provoca falta de competitividad comercial
+  - text: promueve la competencia desleal
+  - text: promueve la deslocalización industrial
+- name: Competencia desleal
+- name: Deslocalización industrial
+  position_negative:
+  - text: favorece intereses de terceros países

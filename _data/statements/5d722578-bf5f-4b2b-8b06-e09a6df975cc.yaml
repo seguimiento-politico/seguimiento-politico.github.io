@@ -1,7 +1,6 @@
 id: 5d722578-bf5f-4b2b-8b06-e09a6df975cc
 type: promise
-parent_statement: 3ddb1a46-7586-4afd-bfa7-e0024d62258d
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 3ddb1a46-7586-4afd-bfa7-e0024d62258d
+parent_chapter: e9f101d6-d6e2-4b1b-95f1-2c67fdd18515
+text: el posible aumento a 100.000 euros del umbral de la cuenta justificativa simplificada;
 categories: Cultura
 topics: Financiación
-text: el posible aumento a 100.000 euros del umbral de la cuenta justificativa simplificada;

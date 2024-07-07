@@ -1,7 +1,6 @@
 id: 94506c4f-dac5-4f69-bd27-1362f148545d
 type: promise
-parent_statement: c2c33209-062c-4eab-b79f-809987c10b34
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Trabajo
+parent_statement: c2c33209-062c-4eab-b79f-809987c10b34
+parent_chapter: 2e87f7f8-d5a3-47a6-82d5-b25f36e88929
 text: Dichas prestaciones tendrán en cuenta especialmente la situación de las personas trabajadoras temporales y a tiempo parcial.
+categories: Trabajo

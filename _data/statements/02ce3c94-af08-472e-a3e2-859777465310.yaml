@@ -1,7 +1,6 @@
 id: 02ce3c94-af08-472e-a3e2-859777465310
 type: promise
-parent_statement: 824d6738-138d-49f9-a205-9b49c4bea1de
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 824d6738-138d-49f9-a205-9b49c4bea1de
+parent_chapter: d59fe7bc-7318-4c18-a232-113ef256f4dd
+text: Con todo, el centro de atención lo situaremos en la incorporación del diálogo en nuestras instituciones públicas. Abogamos por una democracia deliberativa, basada en la cultura del diálogo y que, a nivel institucional, implique acciones como la celebración de debates parlamentarios sobre retos a medio y largo plazo o la apertura de las instituciones a las propuestas de la ciudadanía.
 categories: Democracia
 topics: Participación ciudadana
-text: Con todo, el centro de atención lo situaremos en la incorporación del diálogo en nuestras instituciones públicas. Abogamos por una democracia deliberativa, basada en la cultura del diálogo y que, a nivel institucional, implique acciones como la celebración de debates parlamentarios sobre retos a medio y largo plazo o la apertura de las instituciones a las propuestas de la ciudadanía.

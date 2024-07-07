@@ -1,6 +1,6 @@
 id: 90ab2ff5-ab68-45c6-be6b-d734575a3471
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 21
+parent_chapter: 5ac453aa-319d-4ea3-b4b6-7a63e3dde3ff
+children_promises:
+- b575fc39-b116-4d6d-8b39-1a880b480f46
+children_statements: []
+title: Actualización de la Ley de Regulación del Juego de 2011
 categories: Consumo
 topics: Consumo sostenible
-title: Actualización de la Ley de Regulación del Juego de 2011
-has_children: true

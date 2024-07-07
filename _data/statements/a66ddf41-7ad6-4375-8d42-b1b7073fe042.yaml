@@ -1,6 +1,6 @@
 id: a66ddf41-7ad6-4375-8d42-b1b7073fe042
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 101
-categories: Política internacional
+parent_chapter: 6c487e14-3e0d-4200-bdc9-70b5eb4d801e
 text: FRENTE A POPULISMOS Y RADICALISMOS, España proyectará los valores de la libertad, la democracia, los derechos humanos, el respeto al Estado de Derecho, la economía de mercado y las sociedades abiertas. En Naciones Unidas y otros organismos internacionales, redoblaremos el compromiso con un orden internacional justo, basado en reglas y dotado de instituciones multilaterales eficaces.
+categories: Política internacional

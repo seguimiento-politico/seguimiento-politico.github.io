@@ -1,6 +1,6 @@
 id: 2103a962-0284-447d-a799-fe615c1a761d
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 121
-categories: Organización territorial
+parent_chapter: 3985eb27-2ecc-4f17-a504-3aa15c5697d4
+children_promises:
+- ba75453d-8d81-4ec2-88b4-777961162ae8
+- 4b961f69-d589-4c37-bd65-c8621108d844
+children_statements:
+- ad6e8cfc-626c-4c38-8b7c-3c5107720f12
 title: Reconocimiento y potenciación de los Gobiernos locales
-has_children: true
+categories: Organización territorial

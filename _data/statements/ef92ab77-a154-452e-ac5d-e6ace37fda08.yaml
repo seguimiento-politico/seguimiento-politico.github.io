@@ -1,7 +1,6 @@
 id: ef92ab77-a154-452e-ac5d-e6ace37fda08
 type: promise
-parent_statement: 0b822bee-46ce-402d-bc3f-c3f5ae4017ed
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +8,10 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: 0b822bee-46ce-402d-bc3f-c3f5ae4017ed
+parent_chapter: 1d4a4787-163e-4649-b875-f97fd3780649
+text: y la continuidad de las actuaciones de apoyo al emprendimiento en el sector agroalimentario a través del programa Agroimpulso de ENISA.
 categories:
 - Agricultura
 - Ganadaría
 topics: Desarrollo sostenible
-text: y la continuidad de las actuaciones de apoyo al emprendimiento en el sector agroalimentario a través del programa Agroimpulso de ENISA.

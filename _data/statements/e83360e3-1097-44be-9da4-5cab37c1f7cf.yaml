@@ -1,6 +1,6 @@
 id: e83360e3-1097-44be-9da4-5cab37c1f7cf
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 19
-categories: Administración pública
+parent_chapter: f4f32036-0cfd-4ca9-b6f3-5cfec1c58526
+children_promises:
+- 766167af-4c63-4184-9ffd-ef266abb1784
+- 43cd2512-09a6-49c4-8cb6-de5c4891768a
+- ff3e618d-dc6e-43b1-858f-f3abafd09f4b
+children_statements: []
 title: Potenciaremos los sistemas de evaluación de políticas públicas.
-has_children: true
+categories: Administración pública

@@ -1,0 +1,18 @@
+id: 5dee988d-5a8d-4186-9017-18dcaef5910b
+type: promise
+parent_document: a613c4b6-f9dc-4926-8b9a-b87c233e5a75
+parties:
+- VOX
+election_type: europeas
+election_date: '2024-06-09'
+publication_date: '2024-05-30'
+page: 20
+text: Promocionar y defender activamente el producto nacional en el exterior condenando toda criminalización extranjera a nuestros productos o alimentos.
+categories:
+- Comercio
+topics:
+- name: Exportaciones
+- name: Comercio exterior
+  proposed_actions:
+  - text: Promocionar y defender activamente el producto nacional en el exterior
+  - text: Condenar toda criminalización extranjera a nuestros productos o alimentos

@@ -1,6 +1,6 @@
 id: 63c7a791-9cc5-48c5-bfb5-228a31e67f25
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,9 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 156
+parent_chapter: 1d2802d7-3c25-4a37-96cf-85b8e7ed4986
+children_promises:
+- aaa33b02-7403-4572-a39a-aa197cf999e3
+- 9207a20f-cff7-4bb7-b5e8-73d37ee46c06
+children_statements: []
+title: Enseñanza plurilingüe para garantizar la igualdad lingüística.
 categories: Educación
 topics:
 - Igualdad
 - Inclusión
-title: Enseñanza plurilingüe para garantizar la igualdad lingüística.
-has_children: true

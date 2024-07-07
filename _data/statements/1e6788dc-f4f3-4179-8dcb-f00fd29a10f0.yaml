@@ -1,6 +1,6 @@
 id: 1e6788dc-f4f3-4179-8dcb-f00fd29a10f0
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 28
+parent_chapter: 7692ac60-1e48-4282-9c1e-92dc2082a22c
+text: TRABAJAREMOS PARA IMPULSAR LA ADAPTACIÓN DEL SECTOR AGROALIMENTARIO A LOS PRINCIPIOS DE LA ECONOMÍA CIRCULAR, especialmente en el ámbito de la reducción del desperdicio alimentario.
 categories: Economía
 topics: Desarrollo sostenible
-text: TRABAJAREMOS PARA IMPULSAR LA ADAPTACIÓN DEL SECTOR AGROALIMENTARIO A LOS PRINCIPIOS DE LA ECONOMÍA CIRCULAR, especialmente en el ámbito de la reducción del desperdicio alimentario.

@@ -1,6 +1,6 @@
 id: dcae6b18-3248-4abf-90d9-65bcb4522bf9
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 157
-categories: Educación
+parent_chapter: 4f44b60a-d630-48f6-91cf-914cb0392db6
+children_promises:
+- 7b39981d-96d4-41c3-b4af-29cb1c07f065
+- e3c064e1-4020-468d-bb52-4b94f9476364
+- bec20599-37ef-4e67-aa42-5f4be1569067
+- 83b99bb4-8ff2-44b2-9e8e-42abae036a37
+children_statements: []
 title: Mayor inversión en educación
-has_children: true
+categories: Educación

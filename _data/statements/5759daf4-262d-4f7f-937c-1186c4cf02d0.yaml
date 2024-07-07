@@ -1,7 +1,6 @@
 id: 5759daf4-262d-4f7f-937c-1186c4cf02d0
 type: promise
-parent_statement: 13ac6362-fcd0-47c8-a007-03816dfa4ec3
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Cultura
+parent_statement: 13ac6362-fcd0-47c8-a007-03816dfa4ec3
+parent_chapter: 7350357f-215c-4adf-8549-2205377e11a9
 text: Impulsaremos la vertebración cultural en el Estado, poniendo en valor su riqueza y diversidad, a través de políticas que impulsen la acción e innovación cultural, así como la distribución de recursos de forma equitativa.
+categories: Cultura

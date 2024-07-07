@@ -1,6 +1,6 @@
 id: fe6937a7-2798-4745-8b9a-41c2939598b4
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 146
+parent_chapter: c794cb24-1c55-422f-8b6d-1ff29ad1ed87
+children_promises:
+- dd9e0035-6123-4e66-ac98-3879f095ee2f
+- 9b6e4f95-36d9-4400-8044-f3f4f7f2f5d1
+- b0868599-9dd0-496f-984b-b809a1b6f002
+- db4a0167-dbf3-48b4-a131-da00eae8c3b0
+children_statements: []
+title: Una Europa más democrática
 categories: Política internacional
 topics: Europa
-title: Una Europa más democrática
-has_children: true

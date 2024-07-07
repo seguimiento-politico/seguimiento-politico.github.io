@@ -1,6 +1,6 @@
 id: a97b66a8-5325-4fae-a190-c1362e71d148
-type: declaration
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+type: statement
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 41
+parent_chapter: 16366866-7ea4-45a3-a9c4-42b13446ff60
+text: La aplicación de la perspectiva de familia implica que las políticas públicas deben tener en cuenta sus necesidades y problemas, y estar siempre orientadas al apoyo a la maternidad y la conciliación.
 categories:
 - Familia
-text: La aplicación de la perspectiva de familia implica que las políticas públicas deben tener en cuenta sus necesidades y problemas, y estar siempre orientadas al apoyo a la maternidad y la conciliación.

@@ -1,6 +1,6 @@
 id: 96827dc1-6d24-412d-bc32-6f3a9f27e4dc
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 16
+parent_chapter: 7ae97af0-2b46-4081-8273-1e68d732579c
+text: Haremos un cierre de las nucleares planificado, seguro, ordenado y justo socialmente, escalonando el cese de operación de todas las centrales españolas entre 2027 y 2035, continuando los instrumentos ya desarrollados en la Estrategia de Transición Justa.
 categories: Economía
 topics: Desarrollo sostenible
-text: Haremos un cierre de las nucleares planificado, seguro, ordenado y justo socialmente, escalonando el cese de operación de todas las centrales españolas entre 2027 y 2035, continuando los instrumentos ya desarrollados en la Estrategia de Transición Justa.

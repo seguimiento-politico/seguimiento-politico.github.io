@@ -1,6 +1,6 @@
 id: 57e1bd6d-ec85-4463-92cb-a5a165683692
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 184
+parent_chapter: 4cc5030c-6a7b-4ee0-88d9-bc79252ec814
+text: Avanzar en la desinstitucionalización reduciendo el número de niños, niñas y adolescentes tutelados en acogimiento residencial, especialmente aquellos y aquellas de menor edad, con la aprobación de distintas medidas que favorezcan y faciliten el acogimiento familiar.
 categories: Derechos y servicios sociales
 topics: Infancia
-text: Avanzar en la desinstitucionalización reduciendo el número de niños, niñas y adolescentes tutelados en acogimiento residencial, especialmente aquellos y aquellas de menor edad, con la aprobación de distintas medidas que favorezcan y faciliten el acogimiento familiar.

@@ -1,6 +1,6 @@
 id: 57a95fbc-9836-4e8c-b816-e8291b7d2601
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 148
+parent_chapter: 5424254d-f35f-472e-b45f-7c57cb8123c8
+text: Mejoraremos la red ferroviaria para conectar todas las regiones de España y facilitar las exportaciones al resto de Europa. Impulso de la Red de Cercanías para enlazar todas las provincias de forma eficaz.
 categories:
 - Territorio rural
-text: Mejoraremos la red ferroviaria para conectar todas las regiones de España y facilitar las exportaciones al resto de Europa. Impulso de la Red de Cercanías para enlazar todas las provincias de forma eficaz.

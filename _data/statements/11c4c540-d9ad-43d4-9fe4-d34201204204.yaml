@@ -1,6 +1,6 @@
 id: 11c4c540-d9ad-43d4-9fe4-d34201204204
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 48
-categories: Sanidad
+parent_chapter: 5c8d94eb-aad0-4b93-8408-511875a0e54f
 text: CONVERTIREMOS A ESPAÑA EN EL PAÍS LÍDER EN LA IMPLEMENTACIÓN DEL PLAN EUROPEO DE LUCHA CONTRA EL CÁNCER. Garantizaremos a todos los ciudadanos, con independencia de donde residan, las mismas prestaciones en cuanto a la prevención y tratamiento de esta enfermedad. Promoveremos una ley específica en materia de defensa de los pacientes oncológicos que recoja acciones de protección social y laboral para personas en tratamiento o tras el tratamiento.
+categories: Sanidad

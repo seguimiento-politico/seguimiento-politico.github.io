@@ -1,6 +1,6 @@
 id: 628a7f7b-79d4-4ee1-a467-4506aa985aca
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,10 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 76
+parent_chapter: 204e2c91-db0d-4ec1-aa8b-fa8bb8eb8445
+text: Utilizaremos las herramientas desplegadas con los cierres de la térmica, pioneras en Europa, para diseñar y poner en marcha las herramientas de apoyo social y económico a los territorios implicados en otros procesos de cierre o reconversión.
 categories:
 - Energía
 topics:
 - Energías renovables
 - Reindustrialización
 - Desarrollo sostenible
-text: Utilizaremos las herramientas desplegadas con los cierres de la térmica, pioneras en Europa, para diseñar y poner en marcha las herramientas de apoyo social y económico a los territorios implicados en otros procesos de cierre o reconversión.

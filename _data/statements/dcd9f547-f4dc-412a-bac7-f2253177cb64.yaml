@@ -1,6 +1,6 @@
 id: dcd9f547-f4dc-412a-bac7-f2253177cb64
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 26
-categories: Trabajo
+parent_chapter: c22a6b36-a06c-43e3-ae12-f9b87ce394c7
+children_promises:
+- a2193509-4f6d-45ad-a60a-bd64a1f011ba
+children_statements: []
 title: Implantación del CV ciego
-has_children: true
+categories: Trabajo

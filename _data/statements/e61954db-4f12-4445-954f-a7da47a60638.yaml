@@ -1,7 +1,6 @@
 id: e61954db-4f12-4445-954f-a7da47a60638
 type: promise
-parent_statement: a6e1b090-7e1d-49b3-a30e-3d19c25f5c66
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,4 +8,6 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: a6e1b090-7e1d-49b3-a30e-3d19c25f5c66
+parent_chapter: 234f712b-aaa0-45c7-92d9-e5641ca46ec2
 text: Descarbonizar el sistema económico y reducir la huella ecológica para compatibilizar la cobertura de las necesidades sociales con el abordaje del cambio climático y las biocapacidades nacionales y globales.

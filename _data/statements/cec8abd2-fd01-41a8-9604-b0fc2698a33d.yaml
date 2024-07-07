@@ -1,6 +1,6 @@
 id: cec8abd2-fd01-41a8-9604-b0fc2698a33d
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 246
+parent_chapter: d05356ab-7241-4db3-b89b-606c6702afe6
+text: Incorporaremos al Portal de la Transparencia de forma proactiva las categorías de información más demandadas por la ciudadanía a través del derecho de acceso. En particular, en relación a los altos cargos, se publicará por publicidad activa información relativa a las agendas, al gasto de los viajes y viviendas oficiales, la declaración completa de bienes y actividades y sus peticiones y denegaciones de compatibilidad. Igualmente, avanzaremos en la información sobre el personal eventual, la publicidad institucional, los contratos públicos y los procesos selectivos.
 categories: Democracia
 topics: Gobernanza y transparencia
-text: Incorporaremos al Portal de la Transparencia de forma proactiva las categorías de información más demandadas por la ciudadanía a través del derecho de acceso. En particular, en relación a los altos cargos, se publicará por publicidad activa información relativa a las agendas, al gasto de los viajes y viviendas oficiales, la declaración completa de bienes y actividades y sus peticiones y denegaciones de compatibilidad. Igualmente, avanzaremos en la información sobre el personal eventual, la publicidad institucional, los contratos públicos y los procesos selectivos.

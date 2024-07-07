@@ -1,7 +1,6 @@
 id: ba60e983-55e7-46ba-899e-4fa2392c76f3
 type: promise
-parent_statement: 11c2e30c-8ff0-4cb6-b4c5-35f12cc8259e
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 11c2e30c-8ff0-4cb6-b4c5-35f12cc8259e
+parent_chapter: 66cf6219-da39-4941-aa1a-c1b88e89ed00
+text: Apostaremos por un sistema de transporte de mercancías sostenible. Obligaremos a utilizar centrales únicas de rotura de carga y distribución de última milla, desarrollo y estabilización de corredores ferroviarios funcionales y bien conectados con los puertos y los centros logísticos. Reduciremos drásticamente los cánones de circulación en líneas ferroviarias convencionales para el transporte de mercancías e impulsaremos la descarbonización de las flotas y la ampliación de la red de ferrocarril de mercancías para que en 2040 el 80% de los traslados de mercancías se realicen a través de este medio.
 categories: Transporte
 topics: Movilidad sostenible
-text: Apostaremos por un sistema de transporte de mercancías sostenible. Obligaremos a utilizar centrales únicas de rotura de carga y distribución de última milla, desarrollo y estabilización de corredores ferroviarios funcionales y bien conectados con los puertos y los centros logísticos. Reduciremos drásticamente los cánones de circulación en líneas ferroviarias convencionales para el transporte de mercancías e impulsaremos la descarbonización de las flotas y la ampliación de la red de ferrocarril de mercancías para que en 2040 el 80% de los traslados de mercancías se realicen a través de este medio.

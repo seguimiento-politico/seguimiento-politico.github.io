@@ -1,7 +1,6 @@
 id: 2a549ec0-9bef-41bb-a90f-d89c2ed475c2
 type: promise
-parent_statement: 182ca1a3-d2fb-4202-b61e-a1bc5c066a37
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Derechos y servicios sociales
+parent_statement: 182ca1a3-d2fb-4202-b61e-a1bc5c066a37
+parent_chapter: 6bea7d15-32ea-402e-8fad-42663ddea615
 text: Asimismo, desarrollaremos un plan de choque contra la pobreza energética para garantizar los suministros energéticos básicos en hogares con especial vulnerabilidad
+categories: Derechos y servicios sociales

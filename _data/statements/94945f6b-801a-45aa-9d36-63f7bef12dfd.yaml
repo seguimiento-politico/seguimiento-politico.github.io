@@ -1,6 +1,6 @@
 id: 94945f6b-801a-45aa-9d36-63f7bef12dfd
-type: declaration
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+type: statement
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 53
+parent_chapter: de18231f-ea27-483e-81a9-f51977d7f26c
 text: Nuestro país no solo es ambicioso en cuanto al horizonte verde, morado y digital que quiere consolidar en la próxima década. Nuestro país es consciente de que ya es feminista y moderno, de que ya tiene el talento y las oportunidades productivas para hacerlo posible. Al mismo tiempo, sabe cuáles son los obstáculos en este camino, los lastres que debemos soltar para despegar. El «bailar pegados» de los grandes poderes económicos y las principales instituciones democráticas —como los ministerios, pero también los medios de comunicación o los partidos políticos— pone en riesgo el éxito de estos proyectos.

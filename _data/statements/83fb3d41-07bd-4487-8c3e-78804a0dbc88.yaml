@@ -1,0 +1,57 @@
+id: 83fb3d41-07bd-4487-8c3e-78804a0dbc88
+type: statement
+parent_document: a613c4b6-f9dc-4926-8b9a-b87c233e5a75
+parties:
+- VOX
+election_type: europeas
+election_date: '2024-06-09'
+publication_date: '2024-05-30'
+page: 8
+text: 'Por un lado, con objetivos aparentemente loables, elaborados y aprobados en el seno de Naciones Unidas, la Agenda 2030 oculta una hoja de ruta ideada por élites extranjeras que amenaza directamente a las naciones europeas y lleva a la demolición de los valores y el modo de vida propios de Occidente: abolición de la propiedad privada, subida indiscriminada de impuestos que gravan a las clases medias y trabajadoras, inmigración ilegal descontrolada, disolución de la familia y de cualquier idea de pertenencia nacional, multiculturalismo, animalismo, deslocalización de industrias nacionales hacia países del tercer mundo, destrucción del sector primario europeo, imposición de una verdad única sobre el cambio climático…'
+categories:
+- Derechos y servicios sociales
+- Migración
+- Industria
+- Familia
+- Cultura
+- Agricultura
+- Ganadería
+- Pesca y acuicultura
+- Nacionalismo y patriostismo
+- Medioambiente
+topics:
+- name: Elitismo
+  position_negative: null
+- name: Deslocalización industrial
+  position_negative: null
+- name: Inmigración ilegal
+  position_negative: null
+- name: Cambio climático
+  importance: low
+  dynamic: conservative
+- name: Nacionalismo
+  position_positive: null
+- name: ONU
+- name: Agenda 2030
+  position_negative:
+  - text: ideado por élites extranjeras
+  - text: demolición de valores y modo de vida occidentales
+  - text: abolición de la propiedad privada
+  - text: subida de impuestos
+  - text: inmigración ilegal
+  - text: disolución de la familia
+  - text: disolución de la idea de pertenencia nacional
+  - text: multiculturalismo
+  - text: animalismo
+  - text: ecologismo radical
+  - text: deslocalización de industrias nacionales
+  - text: destrucción del sector primario
+  - text: imposición ideológica sobre el cambio climático
+- name: Animalismo
+  position_negative: null
+- name: Familias
+  dynamic: conservative
+- name: Multiculturalismo
+  position_negative: null
+- name: Sector primario
+  dynamic: conservative

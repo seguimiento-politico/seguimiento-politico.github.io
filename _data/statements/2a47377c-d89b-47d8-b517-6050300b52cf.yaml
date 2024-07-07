@@ -1,7 +1,6 @@
 id: 2a47377c-d89b-47d8-b517-6050300b52cf
 type: promise
-parent_statement: 7edfaa52-05b7-473a-9deb-b99519a4db16
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 7edfaa52-05b7-473a-9deb-b99519a4db16
+parent_chapter: 0954599d-af78-4370-9f76-a716d889661d
+text: Democratizaremos las empresas, introduciendo mecanismos de mayor participación de las personas que trabajan en ellas. Se mejorará así nuestra capacidad para frenar el aumento de las desigualdades, la precarización de una parte de las clases medias y trabajadoras y regular la normalización de ganancias extraordinarias por las personas más ricas. Al introducir más democracia y resituar el papel de las personas trabajadoras en la empresa, más allá de la negociación colectiva, se incorporan a la agenda política propuestas de cambio estructural que permiten corregir las desigualdades que se dirimen en el conflicto entre capital y trabajo. La experiencia muestra, como en el caso de las empresas cooperativas y de economía social, no orientadas exclusivamente a la retribución del capital, que un mayor desarrollo de mecanismos de participación de las personas trabajadoras en la empresa favorece la innovación y aumenta la productividad. Por esos motivos se reforzarán las ayudas, el soporte financiero y las condiciones normativas de la economía social, cooperativa y solidaria (consumo ecológico, turismo solidario, agricultura ecológica, banca ética, etcétera) como una de las vías más eficaces y resistentes para la democratización de las empresas.
 categories: Economía
 topics: Productividad
-text: Democratizaremos las empresas, introduciendo mecanismos de mayor participación de las personas que trabajan en ellas. Se mejorará así nuestra capacidad para frenar el aumento de las desigualdades, la precarización de una parte de las clases medias y trabajadoras y regular la normalización de ganancias extraordinarias por las personas más ricas. Al introducir más democracia y resituar el papel de las personas trabajadoras en la empresa, más allá de la negociación colectiva, se incorporan a la agenda política propuestas de cambio estructural que permiten corregir las desigualdades que se dirimen en el conflicto entre capital y trabajo. La experiencia muestra, como en el caso de las empresas cooperativas y de economía social, no orientadas exclusivamente a la retribución del capital, que un mayor desarrollo de mecanismos de participación de las personas trabajadoras en la empresa favorece la innovación y aumenta la productividad. Por esos motivos se reforzarán las ayudas, el soporte financiero y las condiciones normativas de la economía social, cooperativa y solidaria (consumo ecológico, turismo solidario, agricultura ecológica, banca ética, etcétera) como una de las vías más eficaces y resistentes para la democratización de las empresas.

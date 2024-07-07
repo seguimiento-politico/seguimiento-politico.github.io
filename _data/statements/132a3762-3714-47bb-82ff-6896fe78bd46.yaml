@@ -1,6 +1,6 @@
 id: 132a3762-3714-47bb-82ff-6896fe78bd46
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,9 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 90
+parent_chapter: a166d84d-0ba4-4fa2-9e47-69b6c7805f22
+text: Con la intención de promover el buen estado de los montes de pequeños propietarios y los servicios ecosistémicos que prestan, impulsaremos una ley de montes de socios.
 categories: Medioambiente
 topics:
 - Cambio climático
 - Gestión de riesgos
 - Incendios
-text: Con la intención de promover el buen estado de los montes de pequeños propietarios y los servicios ecosistémicos que prestan, impulsaremos una ley de montes de socios.

@@ -1,6 +1,6 @@
 id: a197ec0c-a50a-4fe5-8909-4462b6e79d32
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 243
+parent_chapter: 2adfff70-6b29-4c51-adec-13373dc72e0f
+text: Aprobaremos una Ley que regule el sistema de incompatibilidades del personal al servicio del sector público para evitar los conflictos de intereses y la práctica de puertas giratorias.
 categories: Democracia
 topics: Gobernanza y transparencia
-text: Aprobaremos una Ley que regule el sistema de incompatibilidades del personal al servicio del sector público para evitar los conflictos de intereses y la práctica de puertas giratorias.

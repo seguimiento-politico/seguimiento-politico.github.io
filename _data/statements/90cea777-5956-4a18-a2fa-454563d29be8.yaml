@@ -1,6 +1,6 @@
 id: 90cea777-5956-4a18-a2fa-454563d29be8
-type: declaration
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_chapter: b82b7f57-da6b-4fd4-8a55-f1773ebd9608
+text: 'La Administración pública ha sido objeto de críticas y origen de frustraciones desde hace décadas. Una insatisfacción permanente que no hemos sabido revertir y que condiciona la percepción de la ciudadanía acerca de las actuaciones gubernamentales. Las resistencias son mayúsculas, al tiempo que se trata de un ámbito poco agradecido en términos de resultados a corto plazo.<br><br> Sin embargo, la administración es la herramienta del gobierno y de ella dependen los servicios que recibe la ciudadanía y su capacidad para diseñar e implementar políticas públicas. Una herramienta pensada para la sociedad del siglo XX (quizá del XIX) y que ya no requiere únicamente de ajustes y reformas, sino que necesita una auténtica transformación. Las acciones que siguen son nuestras propuestas para abordar esta transformación:'
 categories: Democracia
 topics: Administración pública
-text: 'La Administración pública ha sido objeto de críticas y origen de frustraciones desde hace décadas. Una insatisfacción permanente que no hemos sabido revertir y que condiciona la percepción de la ciudadanía acerca de las actuaciones gubernamentales. Las resistencias son mayúsculas, al tiempo que se trata de un ámbito poco agradecido en términos de resultados a corto plazo.<br><br> Sin embargo, la administración es la herramienta del gobierno y de ella dependen los servicios que recibe la ciudadanía y su capacidad para diseñar e implementar políticas públicas. Una herramienta pensada para la sociedad del siglo XX (quizá del XIX) y que ya no requiere únicamente de ajustes y reformas, sino que necesita una auténtica transformación. Las acciones que siguen son nuestras propuestas para abordar esta transformación:'

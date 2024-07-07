@@ -1,6 +1,6 @@
 id: 4e3ad1dc-f6da-4211-bd62-4abf3fbca24d
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 41
+parent_chapter: 27ff313e-64fe-41ca-bc72-c44fafac350d
+children_promises:
+- 1fc04b19-0578-46ae-9a63-bd0a6d8316fa
+- d65b28b4-dc33-4fbd-b016-ce10ac9084e3
+- 787bd416-9d33-4037-a48c-c21be1035958
+- 330ef771-f9f2-4266-88a0-27db5a7fe067
+- 743b0961-043a-4745-86df-fefe5cdd1a42
+children_statements:
+- 43597bde-5c3d-44f2-9ceb-e67dc8421189
 title: Incrementar la ambición de la Ley de Cambio Climático y Transición Energética
-has_children: true
+topics: Cambio climático

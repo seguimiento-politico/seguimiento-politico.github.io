@@ -1,6 +1,6 @@
 id: 7de8e3fe-57ff-4180-835b-fbc2c315a08c
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 80
+parent_chapter: 92b67934-069f-4590-b128-b34b5eeb5e89
+text: Ampliaremos el sistema de billetes intermodales que ya se ha implantado como experiencia piloto en el tramo Soria-Calatayud, para que todas las capitales de provincia y principales poblaciones puedan acceder de manera intermodal a la red de alta velocidad a un precio asequible y con un tiempo de viaje competitivo.
 categories: Transporte
 topics: Ferrocarril, Alta velocidad
-text: Ampliaremos el sistema de billetes intermodales que ya se ha implantado como experiencia piloto en el tramo Soria-Calatayud, para que todas las capitales de provincia y principales poblaciones puedan acceder de manera intermodal a la red de alta velocidad a un precio asequible y con un tiempo de viaje competitivo.

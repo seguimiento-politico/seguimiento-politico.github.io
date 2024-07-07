@@ -1,7 +1,6 @@
 id: 24d9171b-132f-45ca-89f9-b448ee3f197c
 type: promise
-parent_statement: 2b9cc243-0593-4b41-8921-d27688f34089
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,8 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 189
+parent_statement: 2b9cc243-0593-4b41-8921-d27688f34089
+parent_chapter: fceaf9d6-d483-45fa-950a-983051a80ad3
+text: Mejoraremos la eficacia y la eficiencia de los recursos públicos dirigidos a las personas vulnerables y en riesgo de exclusión social, asegurando una cobertura de renta adecuada.
 categories: Derechos y servicios sociales
 topics:
 - Desigualdad
 - Ingreso mínimo vital
-text: Mejoraremos la eficacia y la eficiencia de los recursos públicos dirigidos a las personas vulnerables y en riesgo de exclusión social, asegurando una cobertura de renta adecuada.

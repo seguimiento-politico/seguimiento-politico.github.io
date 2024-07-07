@@ -1,6 +1,6 @@
 id: c413c722-57e3-4e97-a1bd-04e711b5c3b4
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 56
+parent_chapter: 754946a2-5f02-4a15-929b-dc9e8a58fe80
+children_promises:
+- de9bea61-c84a-4df6-b741-6cf351d2c49e
+children_statements: []
+title: Desarrollo de estrategia educativa en materia de empatía, convivencia y derechos de los animales en el sistema educativo
 categories: Civismo
 topics: Bienestar animal
-title: Desarrollo de estrategia educativa en materia de empatía, convivencia y derechos de los animales en el sistema educativo
-has_children: true

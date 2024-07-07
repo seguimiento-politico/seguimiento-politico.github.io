@@ -1,6 +1,6 @@
 id: d5a49114-d279-4b66-93f8-ea3a34b98617
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 126
-categories: Cultura
+parent_chapter: ef655d4e-aabd-4367-b039-db13bf06547d
 text: Continuamos apoyando la prolongación de la actividad de rodaje en España y la atracción de inversión y de producciones, promoviendo la cooperación con los grandes centros mundiales en el ámbito audiovisual, desde Estados Unidos a la India, con el fin de impulsar una actividad con una gran capacidad de arrastre sobre el conjunto de la economía, desde el turismo a la hostelería, pasando por el maquillaje y peluquería, vestuario, catering, mobiliario, iluminación, postproducción y transporte.
+categories: Cultura

@@ -1,0 +1,19 @@
+id: e93f051e-9b47-423f-9431-7a8ebc735b2d
+type: promise
+parent_document: a613c4b6-f9dc-4926-8b9a-b87c233e5a75
+parties:
+- VOX
+election_type: europeas
+election_date: '2024-06-09'
+publication_date: '2024-05-30'
+page: 16
+text: Detener y expulsar a todos los inmigrantes ilegales en territorio español. Los países de Europa deben adaptarse a las prácticas de la mayoría de los países del mundo, estableciendo una política de tolerancia cero con la inmigración ilegal, que acabe con las subvenciones y establezca sanciones disuasorias como prohibir obtener el visado durante largos períodos de tiempo en caso de estancia ilegal.
+topics:
+- name: Ayudas y subvenciones
+- name: Inmigración ilegal
+  proposed_actions:
+  - text: Detener y expulsar a todos los inmigrantes ilegales en territorio español
+  - text: Los países de Europa deben adaptarse a las prácticas de la mayoría de los países del mundo, estableciendo una política de tolerancia cero con la inmigración ilegal
+  - text: eliminar subvenciones a inmigrantes ilegales
+    literal: false
+  - text: sanciones disuasorias como prohibir obtener el visado durante largos períodos de tiempo en caso de estancia ilegal.

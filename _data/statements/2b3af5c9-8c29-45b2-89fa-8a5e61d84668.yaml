@@ -1,6 +1,6 @@
 id: 2b3af5c9-8c29-45b2-89fa-8a5e61d84668
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 16
-categories: Comercio
+parent_chapter: 15957f8e-1f85-4690-833e-97db1ad6f08c
 text: España debe desmarcarse de todo acuerdo o legislación internacional que culpabilice a nuestros productores de los problemas medioambientales mientras exonera o deja impunes a los verdaderos culpables.
+categories: Comercio

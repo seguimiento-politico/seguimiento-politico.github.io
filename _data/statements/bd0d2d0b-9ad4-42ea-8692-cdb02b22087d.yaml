@@ -1,6 +1,6 @@
 id: bd0d2d0b-9ad4-42ea-8692-cdb02b22087d
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,7 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 116
+parent_chapter: 96823b0f-932d-41e1-a800-716933f427ff
+text: España debe asegurar con todos los medios a su alcance su soberanía energética. El suministro energético de todos los españoles no puede depender de la especulación de terceros países. Además de todas las medidas encaminadas a alcanzar nuestra soberanía energética, elaboraremos un plan de emergencia para hacer frente a cortes de energía o de suministros inesperados y prolongados.
 categories:
 - Industria
 - Energía
-text: España debe asegurar con todos los medios a su alcance su soberanía energética. El suministro energético de todos los españoles no puede depender de la especulación de terceros países. Además de todas las medidas encaminadas a alcanzar nuestra soberanía energética, elaboraremos un plan de emergencia para hacer frente a cortes de energía o de suministros inesperados y prolongados.

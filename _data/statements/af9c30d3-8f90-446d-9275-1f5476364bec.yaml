@@ -1,6 +1,6 @@
 id: af9c30d3-8f90-446d-9275-1f5476364bec
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 39
-categories: Agua
+parent_chapter: 27c2e026-31b3-4fe9-873a-317121ffbe6c
 title: EVITAREMOS LAS MEDIDAS EXCEPCIONALES (Y ELIMINAREMOS LAS EXISTENTES) DE INTERVENCIÓN DEL MERCADO MAYORISTA ELÉCTRICO.
 text: España tiene que estar en el centro del debate energético de la UE y no en la política energética que nos ha aislado regulatoriamente de las propuestas por la UE, provocando inseguridad regulatoria y restando atractivo a nuestro país como receptor de inversiones en el sector energético.
+categories: Agua

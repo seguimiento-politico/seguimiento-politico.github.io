@@ -1,6 +1,6 @@
 id: 70d89353-cc21-43a3-8a17-62c83244d020
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 94
+parent_chapter: 4b1a1fd6-83f2-4e8c-a775-7e65f72f50be
 title: Garantizar el acceso universal a la sanidad y eliminar los copagos.
 text: Algunos de los recortes más crueles de la crisis se vivieron en la sanidad Uno de ellos fue la exclusión de muchos vecinos y vecinas que estaban lejos de la atención sanitaria, y otro fue el establecimiento de numerosos copagos, que hicieron que muchos y muchas pacientes dejaran de medicarse o de recibir servicios por no poder pagarlos Por eso, se recuperará de manera completa el acceso universal a la atención sanitaria, sin discriminaciones en el tratamiento ni requisitos innecesarios para tener acceso a los servicios Se eliminarán los copagos y, en cambio, se establecerán garantías para que no puedan introducirse otros nuevos

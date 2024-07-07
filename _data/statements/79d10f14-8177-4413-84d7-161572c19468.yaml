@@ -1,6 +1,6 @@
 id: 79d10f14-8177-4413-84d7-161572c19468
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 21
+parent_chapter: 1e6c4483-a585-4aa8-9571-576fd45f4ea1
+text: Aplicaremos el Real Decreto-ley 6/2019, de 1 de marzo, de medidas urgentes para garantía de la igualdad de trato y de oportunidades entre mujeres y hombres en el empleo y la ocupación, potenciando las inspecciones laborales, y el régimen sancionador, y crearemos la Oficina Estatal de lucha contra la discriminación en la Inspección de Trabajo. En el caso de personas trabajadoras con hijos o hijas, garantizaremos el derecho a la adaptación de la jornada de trabajo, hasta que los menores cumplan doce años.
 categories: Derechos y servicios sociales
 topics: Igualdad
-text: Aplicaremos el Real Decreto-ley 6/2019, de 1 de marzo, de medidas urgentes para garantía de la igualdad de trato y de oportunidades entre mujeres y hombres en el empleo y la ocupación, potenciando las inspecciones laborales, y el régimen sancionador, y crearemos la Oficina Estatal de lucha contra la discriminación en la Inspección de Trabajo. En el caso de personas trabajadoras con hijos o hijas, garantizaremos el derecho a la adaptación de la jornada de trabajo, hasta que los menores cumplan doce años.

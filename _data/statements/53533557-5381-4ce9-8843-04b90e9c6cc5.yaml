@@ -1,6 +1,6 @@
 id: 53533557-5381-4ce9-8843-04b90e9c6cc5
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 30
-categories: Economía
+parent_chapter: 0198b426-e501-4084-b969-9a1dd94572a3
 text: Favoreceremos la compra pública de alimentos de proximidad y con criterios ecológicos para potenciar la agricultura como un puntal de desarrollo rural. Se apoyará la incorporación de criterios ecológicos en la contratación pública, así como la compra pública de alimentos de proximidad. Para ello, el Gobierno impulsará, en un plazo no superior a 8 meses, una reforma de la Ley 9/2017 de Contratos del Sector Público que favorezca la compra pública de alimentos de proximidad tanto en organismos de la Administración General del Estado como de las comunidades autónomas y corporaciones locales, de acuerdo con las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE. En esta reforma se incorporará la compra prioritaria de alimentos de proximidad como uno de los posibles criterios medioambientales y sociales a considerar por los órganos de contratación para la evaluación de las ofertas.
+categories: Economía

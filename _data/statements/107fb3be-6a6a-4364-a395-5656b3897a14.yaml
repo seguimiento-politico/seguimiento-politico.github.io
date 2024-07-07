@@ -1,6 +1,6 @@
 id: 107fb3be-6a6a-4364-a395-5656b3897a14
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 108
+parent_chapter: 53e985a7-ccca-4361-878f-54715b325327
+text: Impulsaremos la codocencia como innovación educativa en los colegios e institutos que tengan una escolarización diversificada y plural por encima de la media.
 categories: Educación
 topics: Profesorado
-text: Impulsaremos la codocencia como innovación educativa en los colegios e institutos que tengan una escolarización diversificada y plural por encima de la media.

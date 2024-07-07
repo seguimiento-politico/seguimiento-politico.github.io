@@ -1,6 +1,6 @@
 id: 1e84a4c1-3b41-4eb4-b7b6-6f5262ce08d1
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 131
+parent_chapter: a331cc9a-dc5a-4b54-92bd-4c6a4ac68e16
+text: Recurso de inconstitucionalidad de VOX contra la Ley Orgánica 14/2022, de 22 de diciembre, por la que se procedió a la derogación del delito de sedición y al abaratamiento del delito de malversación de caudales públicos (marzo 2023).
 categories:
 - Justicia
-text: Recurso de inconstitucionalidad de VOX contra la Ley Orgánica 14/2022, de 22 de diciembre, por la que se procedió a la derogación del delito de sedición y al abaratamiento del delito de malversación de caudales públicos (marzo 2023).

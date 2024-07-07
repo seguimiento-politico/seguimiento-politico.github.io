@@ -1,7 +1,6 @@
 id: 5d709db8-57b5-42c8-8830-375209d69190
 type: promise
-parent_statement: b1371c42-4784-4441-90ab-6c7c3570d173
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
-categories: Nacionalismo y patriotismo
+parent_statement: b1371c42-4784-4441-90ab-6c7c3570d173
+parent_chapter: 0c19cae3-98a2-45ba-a607-41aadce4ec63
 text: Hay que cumplir estrictamente el mandato constitucional de que todos los españoles tienen derecho a utilizar el español, y el deber de conocerlo.
+categories: Nacionalismo y patriotismo

@@ -1,6 +1,6 @@
 id: c2a8d519-9795-4adc-9945-6ae2eee0e9dd
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 77
-categories: Democracia
+parent_chapter: 0e4da4e0-c052-4f91-b18e-451b9d77fcb1
 text: ACELERAREMOS EL CUMPLIMIENTO DE LAS OBLIGACIONES LEGISLATIVAS COMUNITARIAS y potenciaremos el papel de las comisiones legislativas permanentes desde las primeras etapas del proceso.
+categories: Democracia

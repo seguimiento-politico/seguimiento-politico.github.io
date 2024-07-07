@@ -1,6 +1,6 @@
 id: f8c32621-e443-4527-9e4b-e7d7fbfa397d
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 160
+parent_chapter: 68fc7212-272e-414e-bb81-f800c9889a6b
+text: Desarrollaremos acciones y habilitaremos recursos específicos para las mujeres con discapacidad en cuanto a la salud sexual y reproductiva, facilitando los apoyos necesarios a su capacidad de decidir y obrar para que disfruten de una salud sexual óptima y obtengan los apoyos que precisen en el desarrollo de la maternidad.
 categories: Derechos y servicios sociales
 topics: Derechos sexuales y reproductivos
-text: Desarrollaremos acciones y habilitaremos recursos específicos para las mujeres con discapacidad en cuanto a la salud sexual y reproductiva, facilitando los apoyos necesarios a su capacidad de decidir y obrar para que disfruten de una salud sexual óptima y obtengan los apoyos que precisen en el desarrollo de la maternidad.

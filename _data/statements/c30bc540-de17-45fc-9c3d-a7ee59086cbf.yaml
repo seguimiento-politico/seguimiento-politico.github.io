@@ -1,6 +1,6 @@
 id: c30bc540-de17-45fc-9c3d-a7ee59086cbf
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 6
-categories: Trabajo
+parent_chapter: 9cd5db4f-b174-4b60-895b-fd6bc37b16f4
 text: Intensificaremos las actuaciones de la Inspección de Trabajo y Seguridad Social, particularmente en materia de tiempo de trabajo y de economía irregular. También se endurecerá el régimen de infracciones y sanciones aplicables frente a eventuales incumplimientos por parte de las empresas.
+categories: Trabajo

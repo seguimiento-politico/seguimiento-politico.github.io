@@ -1,6 +1,6 @@
 id: d5c027c2-dcb0-4385-bd7d-e374f4389fc1
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 148
+parent_chapter: 5c278dbe-4430-4892-a649-4c8dbf1fe09d
+text: Desarrollaremos el Plan de Acción de Educación Digital 2021-2027 y su acción «Incentivar la participación de las mujeres en las CTIM» (STEM en inglés).
 categories: Ciencia y tecnología
 topics: Igualdad
-text: Desarrollaremos el Plan de Acción de Educación Digital 2021-2027 y su acción «Incentivar la participación de las mujeres en las CTIM» (STEM en inglés).

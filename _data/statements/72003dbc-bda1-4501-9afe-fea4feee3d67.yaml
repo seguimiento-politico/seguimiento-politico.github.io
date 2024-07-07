@@ -1,6 +1,6 @@
 id: 72003dbc-bda1-4501-9afe-fea4feee3d67
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 15
+parent_chapter: 14cfe70b-f6b5-4003-88f7-02a877dec28f
 title: (Véase el apartado «Garantías de Justicia Territorial»)
 text: Vertebrar el territorio a través de la puesta en marcha o mejora urgente de un conjunto de líneas ferroviarias prioritarias.

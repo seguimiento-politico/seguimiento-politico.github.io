@@ -1,0 +1,51 @@
+name: Ecología
+other:
+- &id002
+  id: 6e2ca434-d940-4345-8ff2-2ce6fd032a77
+  parties:
+  - VOX
+- &id004
+  id: c98415d3-520c-402c-9b30-3770c34d8a08
+  parties:
+  - VOX
+- &id005
+  id: ece6ba07-cf63-414d-a430-2f0d8c9b2be1
+  parties:
+  - VOX
+other_count: 3
+position_negative:
+- &id001
+  id: 17d36def-7688-412e-8a86-d7e964fb366e
+  parties:
+  - VOX
+position_negative_count: 1
+position_positive:
+- &id003
+  id: 4ca2ddda-c2ff-4453-bdc3-6582df955593
+  parties:
+  - VOX
+position_positive_count: 1
+proposed_actions:
+- &id006
+  id: 28d71fb9-8a78-412c-8991-5ca4d9f26899
+  parties:
+  - VOX
+- &id007
+  id: 17d36def-7688-412e-8a86-d7e964fb366e
+  parties:
+  - VOX
+- *id001
+proposed_actions_count: 3
+statements:
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id001
+statements_count: 7
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

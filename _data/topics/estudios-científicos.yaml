@@ -1,0 +1,20 @@
+name: Estudios científicos
+other:
+- &id001
+  id: 9266f557-b575-44f0-95a1-f3f4d1066b75
+  parties:
+  - VOX
+other_count: 1
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+statements_count: 1
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

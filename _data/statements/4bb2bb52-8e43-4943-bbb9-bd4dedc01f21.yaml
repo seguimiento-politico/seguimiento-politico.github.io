@@ -1,7 +1,6 @@
 id: 4bb2bb52-8e43-4943-bbb9-bd4dedc01f21
 type: promise
-parent_statement: 818b128d-b25a-4be3-9178-bb23a10841c2
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Economía
+parent_statement: 818b128d-b25a-4be3-9178-bb23a10841c2
+parent_chapter: 5ae877b3-1389-490f-b5f8-bb2c2704b535
 text: Favorecer el crecimiento real de los salarios, que aún no se han recuperado de la pérdida de poder de compra que sufrieron con la crisis financiera. En España, los salarios son bajos, con una media de 21.600€, un nivel que no se corresponde con ser la cuarta economía europea. Los salarios han crecido por debajo de la productividad, con lo que han perdido peso en el reparto de la renta. En esta legislatura, debe abordarse el incremento real de los salarios en el marco del diálogo social y en la negociación colectiva, y seguir reforzando el poder de negociación individual y colectivo de las personas trabajadoras.
+categories: Economía

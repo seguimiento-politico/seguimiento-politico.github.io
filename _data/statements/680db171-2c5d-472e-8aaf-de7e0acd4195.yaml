@@ -1,12 +1,13 @@
 id: 680db171-2c5d-472e-8aaf-de7e0acd4195
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 90
+parent_chapter: fe3cc116-0401-4e46-adee-1667e3538386
+text: Reforzaremos el sistema de atención y reconocimiento a las víctimas del terrorismo. Trabajaremos para que el relato del fin del terrorismo reconozca de manera inequívoca la victoria del Estado de Derecho y la derrota de los terroristas, así como de quienes les apoyaron y justificaron.
 categories: Seguridad y defensa
 topics: Terrorismo
-text: Reforzaremos el sistema de atención y reconocimiento a las víctimas del terrorismo. Trabajaremos para que el relato del fin del terrorismo reconozca de manera inequívoca la victoria del Estado de Derecho y la derrota de los terroristas, así como de quienes les apoyaron y justificaron.

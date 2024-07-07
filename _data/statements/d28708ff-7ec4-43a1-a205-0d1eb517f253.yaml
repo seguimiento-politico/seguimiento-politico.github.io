@@ -1,6 +1,6 @@
 id: d28708ff-7ec4-43a1-a205-0d1eb517f253
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 182
+parent_chapter: 63ab839a-6275-4d54-bf9b-ec036a685a75
+children_promises:
+- fb6fe77b-3fe7-4eb3-99fc-62806664a48e
+- d6cb265c-fe89-42f7-8fe8-d14fdfb610d3
+- dbc35f9c-5e17-4157-b165-fa599ffcab49
+children_statements: []
+title: Alfabetización digital con materiales y servicios formativos libres promovidos por la Administración pública
 categories: Educación
 topics: Digitalización
-title: Alfabetización digital con materiales y servicios formativos libres promovidos por la Administración pública
-has_children: true

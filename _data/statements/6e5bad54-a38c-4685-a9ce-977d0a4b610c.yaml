@@ -1,7 +1,6 @@
 id: 6e5bad54-a38c-4685-a9ce-977d0a4b610c
 type: promise
-parent_statement: 8db6cc95-3a4b-4203-9588-4894c8e8de23
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
+parent_statement: 8db6cc95-3a4b-4203-9588-4894c8e8de23
+parent_chapter: 06fd7e51-b8d5-491c-895a-9be06be8bef5
+text: Suprimir la institución del arraigo como forma de regular la inmigración ilegal. Revocación de las pasarelas rápidas para adquirir la nacionalidad española.
 categories:
 - Migración
-text: Suprimir la institución del arraigo como forma de regular la inmigración ilegal. Revocación de las pasarelas rápidas para adquirir la nacionalidad española.

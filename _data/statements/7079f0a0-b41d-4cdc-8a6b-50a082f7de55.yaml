@@ -1,6 +1,6 @@
 id: 7079f0a0-b41d-4cdc-8a6b-50a082f7de55
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,10 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 52
-categories: Política internacional
+parent_chapter: 06572758-339c-4185-bcc1-2905946110b7
+children_promises:
+- 28575b5d-3df1-4ac5-8611-ae1d9debe759
+- 2e059cf3-56d6-40ed-a1e5-b3c32119d6fe
+children_statements: []
 text: Contribuir, desde España y desde la UE, al desarrollo de terceros países, en aplicación de la Agenda 2030. Incrementaremos los recursos presupuestarios hasta situarnos en el 0,5% de la RNB a final de la legislatura, destinando el 10% de la Ayuda Oficial al Desarrollo (AOD) a la ayuda humanitaria.
-has_children: true
+categories: Política internacional

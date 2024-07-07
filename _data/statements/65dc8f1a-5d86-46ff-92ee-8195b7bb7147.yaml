@@ -1,6 +1,6 @@
 id: 65dc8f1a-5d86-46ff-92ee-8195b7bb7147
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 74
-categories: Urbanismo y ciudades
+parent_chapter: da4a5e62-c6b6-45b0-a08b-611f6d470a08
+children_promises:
+- 171a50c2-efc7-4f5f-acef-0cdbf75e023f
+- 0cfed434-a15f-46b5-b816-65eb6d0b77ae
+- c4e7c7e9-d128-4cd2-87ef-8b3742df6718
+children_statements: []
 title: Marco de colaboración y coordinación de políticas urbanas.
-has_children: true
+categories: Urbanismo y ciudades

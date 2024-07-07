@@ -1,7 +1,6 @@
 id: 8ee30af8-2715-4bbe-9c1e-d517e859ecb7
 type: promise
-parent_statement: 99a02b2a-8a94-4b32-b1c8-3f3b9f386e07
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 99a02b2a-8a94-4b32-b1c8-3f3b9f386e07
+parent_chapter: c31b1fcd-80d0-4ca3-b06a-863fa279380c
+text: Pacto de Estado antidesertificación. Convertir el agua en política de Estado y en derecho público universal, garantizando que las personas económica y socialmente vulnerables puedan recibir de forma gratuita un suministro mínimo de agua que cubra sus necesidades básicas. Establecer el carácter público de la gestión del ciclo integral del agua a través de una ley orgánica, evitando cualquier atisbo de privatización del recurso o su gestión. Fomentaremos el consumo de agua del grifo y la reducción de la utilización de envases.
 categories: Medioambiente
 topics: Desertificación
-text: Pacto de Estado antidesertificación. Convertir el agua en política de Estado y en derecho público universal, garantizando que las personas económica y socialmente vulnerables puedan recibir de forma gratuita un suministro mínimo de agua que cubra sus necesidades básicas. Establecer el carácter público de la gestión del ciclo integral del agua a través de una ley orgánica, evitando cualquier atisbo de privatización del recurso o su gestión. Fomentaremos el consumo de agua del grifo y la reducción de la utilización de envases.

@@ -1,11 +1,12 @@
 id: 0cebacaa-fa1c-4de1-85b8-1acc335bab39
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 43
-categories: Consumo
+parent_chapter: 59b98746-2cf3-43c2-ad40-8063b926b2bb
 text: Realizaremos campañas para que los consumidores reciban información clara sobre la utilización, características y propiedades de los productos que utilizan la inteligencia artificial, algoritmos y tecnología robótica. Realizaremos un mayor control para proteger los datos personales de los usuarios de Internet para que ellos decidan qué hacer con ellos, a quién los cede, para qué, cuándo, cómo...
+categories: Consumo

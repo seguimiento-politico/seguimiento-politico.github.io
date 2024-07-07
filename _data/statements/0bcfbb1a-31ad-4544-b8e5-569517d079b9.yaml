@@ -1,7 +1,6 @@
 id: 0bcfbb1a-31ad-4544-b8e5-569517d079b9
 type: promise
-parent_statement: 74affe2c-3480-4e8c-a131-16a0fbc69cb1
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +8,9 @@ country: spain
 election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
+parent_statement: 74affe2c-3480-4e8c-a131-16a0fbc69cb1
+parent_chapter: ab7164cc-742b-48cf-adce-57d74cf0621d
+text: Impulsar una ley de protección de la tauromaquia, como parte del patrimonio cultural español.
 categories:
 - Educación
 - Cultura
-text: Impulsar una ley de protección de la tauromaquia, como parte del patrimonio cultural español.

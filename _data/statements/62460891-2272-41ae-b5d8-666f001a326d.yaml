@@ -1,6 +1,6 @@
 id: 62460891-2272-41ae-b5d8-666f001a326d
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 235
+parent_chapter: e4c7fee4-41ed-4186-b98d-379ee7a978af
+text: Blindaremos el matrimonio igualitario, el derecho a la interrupción voluntaria del embarazo, el derecho a la muerte digna, la asistencia de víctimas de violencia de género, el sistema público de pensiones, el derecho a la asistencia sanitaria, el derecho a la seguridad climática y al acceso al agua potable como derechos fundamentales de las personas, de modo que no puedan ser derogados o anulados por una coyuntural mayoría parlamentaria.
 categories: Derechos y servicios sociales
 topics: Igualdad
-text: Blindaremos el matrimonio igualitario, el derecho a la interrupción voluntaria del embarazo, el derecho a la muerte digna, la asistencia de víctimas de violencia de género, el sistema público de pensiones, el derecho a la asistencia sanitaria, el derecho a la seguridad climática y al acceso al agua potable como derechos fundamentales de las personas, de modo que no puedan ser derogados o anulados por una coyuntural mayoría parlamentaria.

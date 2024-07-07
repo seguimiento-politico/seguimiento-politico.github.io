@@ -1,6 +1,6 @@
 id: 2c7cd21b-b2e7-4c3d-a9ea-261e146232c7
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 129
-categories: Justicia
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
+children_promises:
+- afcae2b7-119f-45d5-be65-871cf8e82a4c
+- 370b48f5-6298-4951-a1ee-1fa651376f1d
+- 93599188-b2b7-44c8-9cf9-f223e5b16ab7
+children_statements: []
 title: Renovación del Tribunal Constitucional e implantación de la figura del amicus curiae.
-has_children: true
+categories: Justicia

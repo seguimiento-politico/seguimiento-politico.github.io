@@ -1,7 +1,6 @@
 id: 6352e849-10d6-4e8a-a9b1-328302c86b68
 type: promise
-parent_statement: fcdd2895-bb00-40b0-a52a-46ffb5268e1c
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Trabajo
+parent_statement: fcdd2895-bb00-40b0-a52a-46ffb5268e1c
+parent_chapter: 8334330f-156c-4154-9c8c-27f20def2bb6
 text: Seguiremos impulsando la igualdad efectiva entre hombres y mujeres aumentando la tasa de participación y ocupación de las mujeres, apoyando el emprendimiento femenino y la paridad en los puestos directivos en el ámbito público y privado.
+categories: Trabajo

@@ -1,6 +1,6 @@
 id: 805ad457-24df-4443-98f8-7b62c3d261f3
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 103
+parent_chapter: f8348ef6-75be-45f5-9b64-97ad1de424bc
+text: Supresión de la institución del arraigo como forma de regular la inmigración ilegal y revocación de las pasarelas rápidas para adquirir la nacionalidad española. Asimismo, se eliminará la posibilidad de sustituir la expulsión por una multa.
 categories:
 - Migración
-text: Supresión de la institución del arraigo como forma de regular la inmigración ilegal y revocación de las pasarelas rápidas para adquirir la nacionalidad española. Asimismo, se eliminará la posibilidad de sustituir la expulsión por una multa.

@@ -1,0 +1,25 @@
+id: 6e40c2e9-1737-449a-b34b-b58ee5d220ac
+type: statement
+parent_document: a613c4b6-f9dc-4926-8b9a-b87c233e5a75
+parties:
+- VOX
+election_type: europeas
+election_date: '2024-06-09'
+publication_date: '2024-05-30'
+page: 10
+text: La lucha política actual enfrenta a globalistas y patriotas. Un VOX más fuerte en un grupo más decisivo en el Parlamento Europeo podrá revertir y frenas todas y cada una de las normas del Pacto Verde y la Agenda 2030. Es la hora de contar con representantes de las Naciones europeas al servicio del bien común de nuestros compatriotas y no al servicio de lobbies preocupados sólo de acumular más poder. Es la hora de trabajar por los intereses reales de nuestros agricultores y ganaderos. Y es lo que haremos a partir del 9 de junio en pro de la verdadera Europa de las Naciones.
+categories:
+- Economía
+- Medioambiente
+- Agricultura
+- Ganadería
+topics:
+- name: Pacto Verde
+  position_negative: null
+- name: Agenda 2030
+  position_negative: null
+- name: Grupos de presión
+  position_negative:
+  - text: no atienden al bien común sino que solo se preocupan de acumular más poder
+- name: Globalismo
+- name: Nacionalismo

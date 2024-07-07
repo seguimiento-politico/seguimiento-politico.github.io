@@ -1,7 +1,6 @@
 id: b44442ab-05cc-4f8c-bada-e76ef8f94924
 type: promise
-parent_statement: dee8e9bf-a04d-4f66-88f0-bcc4e9502f6d
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Deporte
+parent_statement: dee8e9bf-a04d-4f66-88f0-bcc4e9502f6d
+parent_chapter: 1f3cf0db-d571-4433-a626-3036186931e1
 text: Asimismo, deberíamos incrementar la incorporación de «espacios de salud» (con equipamientos de ejercitación física) en los entornos deportivos al aire libre en parques y espacios lúdicos, jardines y áreas periurbanas.
+categories: Deporte

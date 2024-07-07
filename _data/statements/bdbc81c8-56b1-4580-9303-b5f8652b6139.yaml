@@ -1,6 +1,6 @@
 id: bdbc81c8-56b1-4580-9303-b5f8652b6139
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 57
+parent_chapter: f332e39e-54bd-4a09-97bf-4e1a0c3e4bbd
+children_promises:
+- 55635d22-b62e-462f-8017-d1846306120e
+children_statements: []
+title: Desarrollaremos reglamentariamente la última Ley General de Telecomunicaciones
 categories: Infraestructuras
 topics: Digitalización
-title: Desarrollaremos reglamentariamente la última Ley General de Telecomunicaciones
-has_children: true

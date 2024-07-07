@@ -1,7 +1,6 @@
 id: 1330e841-0a9a-4169-bbb8-c0a71273c54c
 type: promise
-parent_statement: e32ec9ef-5c30-406e-a952-20c952e95d16
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,8 +8,10 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: e32ec9ef-5c30-406e-a952-20c952e95d16
+parent_chapter: fab1a77a-568e-403c-9c7d-19f7b540d95e
+text: Fijar una tasa de reposición acorde a las necesidades, no solo actuales sino también futuras, a través del establecimiento de marcos plurianuales de reposición de la plantilla que no se encuentren encorsetados por los ejercicios presupuestarios anuales.
 categories: Trabajo
 topics:
 - Empleo público
 - Universidad
-text: Fijar una tasa de reposición acorde a las necesidades, no solo actuales sino también futuras, a través del establecimiento de marcos plurianuales de reposición de la plantilla que no se encuentren encorsetados por los ejercicios presupuestarios anuales.

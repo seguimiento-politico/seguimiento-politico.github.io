@@ -1,6 +1,6 @@
 id: 872f65dc-7c1a-46e7-9a89-0d180a61ffdd
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 34
-categories: Banca
+parent_chapter: 1fb125f8-bab0-49cf-a4a8-7924f09dfad1
+children_promises:
+- 88fa1d03-c3cd-4997-be1d-4c48859475c5
+- 0f9ce9d5-485d-462c-8ebf-aa9fea0c5d94
+children_statements: []
 title: Reforzaremos las acciones de educación financiera
-has_children: true
+categories: Banca

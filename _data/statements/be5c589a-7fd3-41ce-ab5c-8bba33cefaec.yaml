@@ -1,10 +1,12 @@
 id: be5c589a-7fd3-41ce-ab5c-8bba33cefaec
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 51
+parent_chapter: b2d30d31-839e-4c79-b8e2-fe59d97d9e6d
 text: Fomentaremos la práctica deportiva y el deporte de base de las personas con discapacidad en las instalaciones municipales. Igualmente, apoyaremos el deporte paralímpico y promoveremos el incremento de las ayudas para avanzar en la equiparación con las que se conceden al deporte olímpico.
+topics: Discapacidad

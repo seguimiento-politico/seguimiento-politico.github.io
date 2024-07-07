@@ -1,6 +1,6 @@
 id: 79915a2c-36e7-4695-9c4b-c7b3733a667e
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 124
-categories: Justicia
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
+children_promises:
+- c6b2e11a-c5ec-4926-ae95-c6e7ec33f3a0
+- 0d2b26a4-d636-48f0-829b-36246bd7d846
+- debefc24-40b1-4e05-8b26-f6602d5bc37d
+children_statements:
+- fc4ab098-c00c-47b0-96c0-7a2eb11953de
 title: Dotaremos a la justicia de los medios humanos y materiales idóneos y suficientes, corrigiendo sus defectos estructurales y funcionales.
-has_children: true
+categories: Justicia

@@ -1,6 +1,6 @@
 id: 6fd2dca3-5f69-4a07-82c5-87fcd0dd0fa6
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 92
+parent_chapter: 4b1a1fd6-83f2-4e8c-a775-7e65f72f50be
 title: Protección para las personas sin hogar.
 text: La ausencia de ingresos provoca la carencia absoluta de vivienda o de una vivienda segura y adecuada, lo que constituye el punto de partida de un conjunto de vulnerabilidades que afectan a la salud y a la dignidad de las personas en situación de sinhogarismo Por ello, la vivienda no puede ser el punto final de un proceso de inclusión social, sino la concreción de un derecho Así, adoptaremos de una vez las medidas necesarias para el alojamiento de colectivos con necesidades habitacionales urgentes En particular, actualizaremos la estrategia de sinhogarismo e incluiremos este problema en la Estrategia Nacional de Prevención y Lucha contra la Pobreza y la Exclusión Social, al tiempo que incrementaremos la financiación destinada a romper este circuito de vulnerabilidad Para ello, es imprescindible una mirada transversal que permita establecer el acceso a unos ingresos suficientes, un programa específico de empleo, una política de vivienda segura y adecuada y la lucha contra la aporofobia Todo ello abordando el problema del sinhogarismo desde una perspectiva transversal de derechos, feminista e interseccional que tenga en cuenta a las personas LGTBI, migrantes, personas con diversidad funcional o neurodiversas Esta estrategia se basará en la tipología europea de personas sin hogar y exclusión social (ETHOS)

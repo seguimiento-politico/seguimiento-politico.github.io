@@ -1,6 +1,6 @@
 id: a8a3f38d-b0b0-420e-a64b-50fefcbc517c
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 16
+parent_chapter: 14cfe70b-f6b5-4003-88f7-02a877dec28f
 title: Poner orden en el oligopolio energético.
 text: Hay que eliminar sus privilegios y devolver poder a las pymes y a quienes pagan la luz Para ello se cambiarán las condiciones de la subasta, de manera que la energía renovable (más barata) tenga una retribución estable y sea la que marque el precio, y no las energías más caras como ahora Se incentivará la compra a las instalaciones renovables ciudadanas Se establecerá un cargo para xxcompensar la sobrerretribución (beneficios caídos del cielo) de algunas centrales e impulsar la transición energética Se descartarán proyectos de infraestructuras energéticas sobredimensionadas y se realizará una auditoría de costes del sector eléctrico

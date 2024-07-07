@@ -1,6 +1,6 @@
 id: 9d70e4d7-f520-4751-95ea-3ce53754bb0e
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 39
+parent_chapter: 493fd51c-7cfd-4b5e-bc63-efcefe3f24e6
 text: Convertir la ciencia y la I+D+i en un puntal de nuestra economía aumentando la inversión pública en I+D+i para alcanzar el objetivo del 2 % del PIB al final de la legislatura para liderar sectores como la producción de vehículos eléctricos, energías renovables, inteligencia artificial, fármacos y biotecnologías Gracias a esta inversión, las ayudas directas (que se ejecutarán al 100 %) superarán ampliamente los créditos financieros, que se limitarán a aquellos cuya ejecución sea muy probable, y garantizaremos que las subvenciones a empresas se dediquen realmente a I+D+i y no a actividades ya consolidadas Todo ello ayudará a estimular la inversión privada, uno de los principales lastres de nuestro sistema científico.

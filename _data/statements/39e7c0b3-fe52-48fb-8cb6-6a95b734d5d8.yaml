@@ -1,7 +1,6 @@
 id: 39e7c0b3-fe52-48fb-8cb6-6a95b734d5d8
 type: promise
-parent_statement: 8112739f-6cce-4bee-8999-6731895e14f6
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 8112739f-6cce-4bee-8999-6731895e14f6
+parent_chapter: b82b7f57-da6b-4fd4-8a55-f1773ebd9608
+text: Favoreceremos el teletrabajo o el trabajo a distancia en los puestos de la Administración que sean compatibles, junto con los medios técnicos necesarios para su correcto desarrollo.
 categories: Democracia
 topics: Administración pública
-text: Favoreceremos el teletrabajo o el trabajo a distancia en los puestos de la Administración que sean compatibles, junto con los medios técnicos necesarios para su correcto desarrollo.

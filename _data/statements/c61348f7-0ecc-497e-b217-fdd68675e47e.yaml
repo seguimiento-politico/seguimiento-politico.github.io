@@ -1,6 +1,6 @@
 id: c61348f7-0ecc-497e-b217-fdd68675e47e
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +9,15 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 36
+parent_chapter: 27ff313e-64fe-41ca-bc72-c44fafac350d
+children_promises:
+- f9d22362-9bec-4e3e-baf0-2f0e9b26eeaf
+- 1fc19d45-11b2-4c80-8a3f-f1fa56d9b118
+- f1f2ef96-57c1-41bf-b285-5cec904d7ef6
+- c711a82b-6bd6-4659-8331-628196880ba6
+- c7f0dd27-1791-4c57-8eb3-35656bc714b7
+- 108fc377-b60a-4599-9ab1-df61bb093822
+children_statements:
+- fb466a6a-5934-4221-8674-d85412cf9840
 title: Estrategia Nacional para el calor extremo y recurrente
-has_children: true
+topics: Cambio climático

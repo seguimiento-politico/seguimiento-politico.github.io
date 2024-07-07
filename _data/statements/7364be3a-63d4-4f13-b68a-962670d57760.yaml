@@ -1,7 +1,6 @@
 id: 7364be3a-63d4-4f13-b68a-962670d57760
 type: promise
-parent_statement: 54bc3b76-9e5c-46f8-9dac-c83583114380
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: 54bc3b76-9e5c-46f8-9dac-c83583114380
+parent_chapter: de85e0ef-5ecc-4ca0-89b4-a741503b7353
+text: Culminaremos los proyectos estratégicos del Plan de Recuperación (PERTEs), apoyando la participación activa de PYMEs y autónomos, con el fin de disponer de ecosistemas empresariales resilientes en todo el territorio que contribuyan a la industrialización estratégica en el ámbito energético, agroalimentario, de seguridad y defensa, tecnológico y digital.
 categories: Economía
 topics: Digitalización
-text: Culminaremos los proyectos estratégicos del Plan de Recuperación (PERTEs), apoyando la participación activa de PYMEs y autónomos, con el fin de disponer de ecosistemas empresariales resilientes en todo el territorio que contribuyan a la industrialización estratégica en el ámbito energético, agroalimentario, de seguridad y defensa, tecnológico y digital.

@@ -1,6 +1,6 @@
 id: c6d15a8b-f8e1-42ab-a028-d970570c8d13
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 252
+parent_chapter: a378ac5f-5b4c-409f-8207-e9dca0489365
+text: Introduciremos mecanismos de refuerzo para apoyar a la Corte Penal Internacional.
 categories: Justicia
 topics: Europa
-text: Introduciremos mecanismos de refuerzo para apoyar a la Corte Penal Internacional.

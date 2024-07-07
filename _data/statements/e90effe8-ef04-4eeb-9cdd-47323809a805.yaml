@@ -1,7 +1,6 @@
 id: e90effe8-ef04-4eeb-9cdd-47323809a805
 type: promise
-parent_statement: b882a8f9-ca6f-4db1-ad4d-8568dbeaab6b
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -10,5 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 173
-categories: Derechos y servicios sociales
+parent_statement: b882a8f9-ca6f-4db1-ad4d-8568dbeaab6b
+parent_chapter: 5f57ba4e-d577-41a4-b2d9-7ff1612f735d
 text: Ningún hombre, independientemente del género con el que se autoperciba, podrá entrar en espacios de intimidad reservados para mujeres (vestuarios, baños...etc.).
+categories: Derechos y servicios sociales

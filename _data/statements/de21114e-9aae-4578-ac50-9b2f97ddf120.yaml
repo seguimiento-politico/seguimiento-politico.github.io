@@ -1,6 +1,6 @@
 id: de21114e-9aae-4578-ac50-9b2f97ddf120
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 108
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+children_promises:
+- 04f43c2a-e5b2-4c63-b3d9-d8b365fad837
+- c352129c-c216-4aa6-a97a-2b0357586942
+- fb892cf6-1885-434d-9ee9-a7937a533ddf
+- 5f033683-19bb-4ced-9b2f-e7c3ab6e0c3e
+children_statements: []
+title: Familia y conciliación
 categories: Democracia
 topics: Igualdad
-title: Familia y conciliación
-has_children: true

@@ -1,11 +1,12 @@
 id: 74c12397-bc4a-4f49-9f94-c99d0bd7115d
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 14
-categories: Nacionalismo y patriotismo
+parent_chapter: 1d70d4de-8db8-40af-98f3-72921bc2f7ab
 text: Reformaremos la Ley 2/86 de Fuerzas y Cuerpos de Seguridad del Estado para reforzar la necesaria coordinación de la Policía Nacional y la Guardia Civil con las policías autonómicas. Garantizaremos la intervención en condiciones de plena operatividad en todo el territorio nacional de la Policía Nacional y la Guardia Civil y específicamente, ampliaremos las infraestructuras a disposición de los Cuerpos y Fuerzas de Seguridad del Estado para así reforzar sus capacidades ante los nuevos desafíos.
+categories: Nacionalismo y patriotismo

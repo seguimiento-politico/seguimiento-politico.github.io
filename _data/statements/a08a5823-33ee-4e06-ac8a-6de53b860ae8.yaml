@@ -1,7 +1,6 @@
 id: a08a5823-33ee-4e06-ac8a-6de53b860ae8
 type: promise
-parent_statement: 68894cc3-af49-4d76-82bb-34d7758c462e
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Deporte
+parent_statement: 68894cc3-af49-4d76-82bb-34d7758c462e
+parent_chapter: 1f3cf0db-d571-4433-a626-3036186931e1
 text: Promocionar programas para favorecer específicamente la preparación de deportistas de élite, compatibilizando la actividad dentro de la Universidad.
+categories: Deporte

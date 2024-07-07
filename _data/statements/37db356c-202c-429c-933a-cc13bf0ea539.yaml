@@ -1,6 +1,6 @@
 id: 37db356c-202c-429c-933a-cc13bf0ea539
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 14
+parent_chapter: 14cfe70b-f6b5-4003-88f7-02a877dec28f
 title: Declarar el taxi servicio público de interés general y establecer un requisito de 2 horas de precontratación para las VTC.
 text: Ante la llegada de miles de VTC, los Gobiernos miraron hacia otro lado y han puesto en peligro a las familias del taxi Por eso, el Estado y las comunidades autónomas cooperarán para que se establezcan requisitos temporales (como las dos horas de precontratación), espaciales (distancia mínima con el pasajero o estacionamiento en aeropuertos, estaciones y otras paradas autorizadas) y de geoposicionamiento (obligación de mostrar la posición a la Administración y de deambular sin pasajeros u hoja de ruta) Además, se recuperarán autorizaciones administrativas para hacer efectivo el cumplimiento de la regla de proporcionalidad 1/30, establecida en el Real Decreto Ley 13/2018 Las Administraciones Públicas desarrollarán también una aplicación pública para que integre toda la información sobre movilidad disponible y los mecanismos de reserva y de pago de los servicios de movilidad de las grandes ciudades y zonas metropolitanas, incluyendo todos los medios de transporte, como trenes de cercanías, metro, autobuses, tranvías, taxi, bicicletas, patinetes, motocicletas eléctricas, etcétera De esta manera, las Administraciones aprovecharán los datos generados para la planificación de la movilidad sostenible en las ciudades, así como la digitalización, en favor del bien común y del horizonte verde

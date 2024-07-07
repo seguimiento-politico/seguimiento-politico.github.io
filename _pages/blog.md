@@ -1,5 +1,5 @@
 ---
-permalink: /blog/
+permalink: /blog
 layout: blog
 author_profile: false
 main_post: /blog/metodologia

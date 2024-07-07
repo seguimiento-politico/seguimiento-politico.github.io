@@ -1,6 +1,6 @@
 id: 4ba200dd-5304-49e0-a56d-b3f3e94d7f72
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 36
+parent_chapter: 3ef7238c-e72c-452a-b049-22b69433aaad
+text: Desarrollaremos un Plan Nacional de Fomento de la Emancipación Juvenil con el objetivo de establecer la coordinación esencial para facilitar el acceso asequible a la vivienda en todas las comunidades autónomas. Dicho plan incluirá de manera específica medidas para facilitar el acceso al alquiler.
 categories: Derechos y servicios sociales
 topics: Juventud
-text: Desarrollaremos un Plan Nacional de Fomento de la Emancipación Juvenil con el objetivo de establecer la coordinación esencial para facilitar el acceso asequible a la vivienda en todas las comunidades autónomas. Dicho plan incluirá de manera específica medidas para facilitar el acceso al alquiler.

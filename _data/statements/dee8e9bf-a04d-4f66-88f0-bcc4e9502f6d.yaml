@@ -1,6 +1,6 @@
 id: dee8e9bf-a04d-4f66-88f0-bcc4e9502f6d
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,17 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 174
-categories: Deporte
+parent_chapter: 1f3cf0db-d571-4433-a626-3036186931e1
+children_promises:
+- fbbda9f6-0620-4278-b4f6-5b159eb76d51
+- 25ada5cb-ef84-4560-bb0e-e4033de46927
+- b44442ab-05cc-4f8c-bada-e76ef8f94924
+- a0c36e3e-f108-4645-a7e8-02cc0676bf83
+- 17a12f6c-96b0-4cd2-991e-bdbe03f3940c
+- d8027301-88fd-4928-a816-f9315db2ddfb
+- 9f29eb3f-ffc8-4720-8237-299cbab67665
+- eb92b82e-d299-470d-a238-e950cc488d77
+- 4dc73799-7337-4228-9cb0-593d50d7fbee
+children_statements: []
 title: Garantizaremos la salud, la calidad de vida y el bienestar a través del deporte
-has_children: true
+categories: Deporte

@@ -1,7 +1,6 @@
 id: b00aff47-6c9c-4eaf-b6d2-6e4e93da38c9
 type: promise
-parent_statement: 319ffd55-6ed8-4868-829e-91c1db019b69
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 319ffd55-6ed8-4868-829e-91c1db019b69
+parent_chapter: b36e5d9e-ba98-45f0-8911-a0a18af0be33
+text: Se avanzará progresivamente en la ampliación del permiso por maternidad o paternidad hasta alcanzar los seis meses.
 categories: Familia
 topics: Incentivos, ayudas y subvenciones
-text: Se avanzará progresivamente en la ampliación del permiso por maternidad o paternidad hasta alcanzar los seis meses.

@@ -1,6 +1,6 @@
 id: b61d44dc-c21c-461e-ac0f-631e53cd6293
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 9
+parent_chapter: a9337629-c0c5-4c98-b385-6fb858f07a04
+text: Aprobación de una Ley del sector de los Servicios de Prevención, Extinción de Incendios y Salvamento (SPEIS), en el marco del Sistema Nacional de Protección Civil, que establezca los criterios básicos para la coordinación de la actuación de los servicios en todo el Estado y los derechos laborales de este personal, homologando las escalas, categorías y distintivos comunes en las comunidades autónomas y garantizando que la categoría profesional de bombero o bombera sea, como mínimo, C1 en todo el Estado, de conformidad con lo que establece el Estatuto Básico del Empleado Público.
 categories: Trabajo
 topics: Empleo público
-text: Aprobación de una Ley del sector de los Servicios de Prevención, Extinción de Incendios y Salvamento (SPEIS), en el marco del Sistema Nacional de Protección Civil, que establezca los criterios básicos para la coordinación de la actuación de los servicios en todo el Estado y los derechos laborales de este personal, homologando las escalas, categorías y distintivos comunes en las comunidades autónomas y garantizando que la categoría profesional de bombero o bombera sea, como mínimo, C1 en todo el Estado, de conformidad con lo que establece el Estatuto Básico del Empleado Público.

@@ -1,6 +1,6 @@
 id: 956a6212-96b3-4c5a-a255-f0784ad181a8
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,9 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 39
+parent_chapter: 2c1c9355-e394-4081-ab4a-f2f453e2cb83
+text: Reorientaremos la política del agua para anticipar y mitigar los efectos del cambio climático, garantizando las exigencias ambientales establecidas en las normas europeas. Aumentaremos la seguridad hídrica de todas las cuencas, mediante un uso eficiente de las tecnologías disponibles para controlar el consumo y la calidad del agua, gestionar adecuadamente los acuíferos e incrementar los recursos disponibles, con menor dependencia de la evolución de las precipitaciones. En particular, es urgente avanzar en las medidas de depuración, saneamiento, reutilización, eficiencia y ahorro, desde la actuación responsable de todas las administraciones, en el contexto de una nueva “Gobernanza del Agua”, fomentando la participación social e institucional. Para ello, se buscará un acuerdo entre las diferentes fuerzas políticas y sociales, que permita alcanzar un Pacto Nacional del Agua, consistente con el cumplimiento de las Directivas europeas.
 categories: Medioambiente
 topics:
 - Cambio climático
 - Desarrollo sostenible
-text: Reorientaremos la política del agua para anticipar y mitigar los efectos del cambio climático, garantizando las exigencias ambientales establecidas en las normas europeas. Aumentaremos la seguridad hídrica de todas las cuencas, mediante un uso eficiente de las tecnologías disponibles para controlar el consumo y la calidad del agua, gestionar adecuadamente los acuíferos e incrementar los recursos disponibles, con menor dependencia de la evolución de las precipitaciones. En particular, es urgente avanzar en las medidas de depuración, saneamiento, reutilización, eficiencia y ahorro, desde la actuación responsable de todas las administraciones, en el contexto de una nueva “Gobernanza del Agua”, fomentando la participación social e institucional. Para ello, se buscará un acuerdo entre las diferentes fuerzas políticas y sociales, que permita alcanzar un Pacto Nacional del Agua, consistente con el cumplimiento de las Directivas europeas.

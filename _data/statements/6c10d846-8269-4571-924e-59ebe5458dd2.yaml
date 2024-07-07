@@ -1,7 +1,6 @@
 id: 6c10d846-8269-4571-924e-59ebe5458dd2
 type: promise
-parent_statement: c2c33209-062c-4eab-b79f-809987c10b34
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Trabajo
+parent_statement: c2c33209-062c-4eab-b79f-809987c10b34
+parent_chapter: 2e87f7f8-d5a3-47a6-82d5-b25f36e88929
 text: Reorganización de la prestación por desempleo y cese de actividad destinada a dar seguridad a las personas trabajadoras (incluidas las personas autónomas de actividad empresarial y las socias y los socios trabajadores), mediante el reconocimiento, en todo caso, de prestaciones que garanticen las transiciones a un nuevo trabajo y que estén vinculadas a la realización de acciones formativas acreditables.
+categories: Trabajo

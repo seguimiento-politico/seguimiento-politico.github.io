@@ -1,7 +1,6 @@
 id: c841c9ed-2a03-40fd-b451-88d9a604c5ea
 type: promise
-parent_statement: f0ddb14d-d246-4a64-8775-8342d632ec48
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,5 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 145
-categories: Trabajo
+parent_statement: f0ddb14d-d246-4a64-8775-8342d632ec48
+parent_chapter: f377aa7c-81fd-4282-8274-8cd57a942c95
 text: Pondremos en marcha un Plan Nacional para el trabajo flexible con un paquete de reformas legales y de incentivos a empresas para que ofrezcan a sus trabajadores una mejor conciliación de la vida personal y la profesional, mediante jornadas híbridas que combinen lo presencial con lo remoto, horarios más adaptables, y la posibilidad de concentrar en cuatro días su semana laboral.
+categories: Trabajo

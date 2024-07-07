@@ -1,6 +1,6 @@
 id: 43e86874-d67e-42fb-be09-96d5e0669640
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 180
+parent_chapter: 63ab839a-6275-4d54-bf9b-ec036a685a75
+children_promises:
+- 64edc849-e927-4c8b-82f8-692225cb5288
+- 59dc1f29-0c22-48c2-9c9d-e15b4f96b73e
+- b70d4146-61a8-4e7e-9074-e6c867ce96a4
+children_statements: []
+title: Dinero público, código libre y soberanía tecnológica
 categories: Educación
 topics: Digitalización
-title: Dinero público, código libre y soberanía tecnológica
-has_children: true

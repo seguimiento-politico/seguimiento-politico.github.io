@@ -1,6 +1,6 @@
 id: 300f7643-4657-4807-87f0-a032d8556f8e
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 246
+parent_chapter: d05356ab-7241-4db3-b89b-606c6702afe6
+text: Impulsaremos un nuevo Estatuto del Consejo de Transparencia y Buen Gobierno que refuerce el papel medular de esta autoridad independiente en el fomento de la apertura de las administraciones.
 categories: Democracia
 topics: Gobernanza y transparencia
-text: Impulsaremos un nuevo Estatuto del Consejo de Transparencia y Buen Gobierno que refuerce el papel medular de esta autoridad independiente en el fomento de la apertura de las administraciones.

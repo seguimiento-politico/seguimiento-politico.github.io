@@ -1,6 +1,6 @@
 id: 382b5ff0-a65a-4e17-a290-d6f98349f9a1
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 81
-categories: Seguridad y defensa
+parent_chapter: ca5aaa88-30fb-47d6-8f78-cba68b133ea0
 text: AGILIZAREMOS EL CUMPLIMIENTO DE LAS ÓRDENES DE RETORNO de inmigrantes irregulares o expulsión de los que hayan cometido un delito a través de acuerdos mejorados con los países de origen o de tránsito para prevenir amenazas a la seguridad y evitar el efecto “llamada”.
+categories: Seguridad y defensa

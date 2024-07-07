@@ -1,7 +1,6 @@
 id: 6e3c870f-7f58-4943-bcc5-22d0e0f0668c
 type: promise
-parent_statement: f4bdb1f7-9a72-4aea-b0b8-aed485e02700
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: f4bdb1f7-9a72-4aea-b0b8-aed485e02700
+parent_chapter: 5a78c83a-e028-4353-b943-e627cc312cee
+text: Se simplificarán y se unificarán los procedimientos de solicitud de residencia.
 categories: Migración
 topics: Racismo
-text: Se simplificarán y se unificarán los procedimientos de solicitud de residencia.

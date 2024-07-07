@@ -1,6 +1,6 @@
 id: 7fdc530d-0d1a-44c4-9b82-ec11712a1013
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 43
+parent_chapter: 1e1d9fec-722c-4fe5-83c8-753b161e1073
+children_promises:
+- be394d01-da0c-48a1-bc5d-87b2953dbc9a
+children_statements: []
+title: Seguiremos desarrollando la Plataforma Inteligente de Destinos Turísticos
 categories: Turismo
 topics: Desarrollo sostenible
-title: Seguiremos desarrollando la Plataforma Inteligente de Destinos Turísticos
-has_children: true

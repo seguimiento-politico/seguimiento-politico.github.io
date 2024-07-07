@@ -1,6 +1,6 @@
 id: 4104705c-2d19-4625-9a5d-2e2d646d6056
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 244
+parent_chapter: 9f2d2447-2cb2-4988-b21c-3f826f18fd98
+text: Facilitaremos la vida a la ciudadanía modernizando la administración, poniendo en marcha mecanismos para solicitar, junto con la inscripción en el registro civil, las prestaciones por nacimiento de hijo/a y la tarjeta sanitaria en el propio hospital.
 categories: Administración pública
 topics: Modernización
-text: Facilitaremos la vida a la ciudadanía modernizando la administración, poniendo en marcha mecanismos para solicitar, junto con la inscripción en el registro civil, las prestaciones por nacimiento de hijo/a y la tarjeta sanitaria en el propio hospital.

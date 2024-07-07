@@ -1,6 +1,6 @@
 id: 85215b9f-537c-4485-8144-bf92867f00ee
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 127
+parent_chapter: a7853898-5bb1-4a7c-8910-f570fc691c52
+text: Rechazaremos cualquier intento de atribuir la instrucción del proceso penal al Ministerio Fiscal. La persecución de los delitos no puede depender del gobierno de turno.
 categories:
 - Justicia
-text: Rechazaremos cualquier intento de atribuir la instrucción del proceso penal al Ministerio Fiscal. La persecución de los delitos no puede depender del gobierno de turno.

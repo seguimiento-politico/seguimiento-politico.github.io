@@ -1,7 +1,6 @@
 id: cdb47ec4-417e-4495-a920-d4c2657d5d02
 type: promise
-parent_statement: 760366f5-5fcf-4dcb-8a12-75345a2b2154
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 760366f5-5fcf-4dcb-8a12-75345a2b2154
+parent_chapter: 3ad176d1-1f6b-4cbb-aea4-e397f16166d6
+text: Misión una industria de la construcción sostenible. Facilitaremos la reorientación del sector de la construcción y la obra pública hacia la adopción de los más altos estándares ambientales. También en el uso de nuevas tecnologías bajas en carbono, así como en la descarbonización de la producción de materiales, el fomento de la economía circular, el uso de materiales con menor impacto ambiental y la rehabilitación energética del parque ya edificado.
 categories: Industria
 topics: Desarrollo sostenible
-text: Misión una industria de la construcción sostenible. Facilitaremos la reorientación del sector de la construcción y la obra pública hacia la adopción de los más altos estándares ambientales. También en el uso de nuevas tecnologías bajas en carbono, así como en la descarbonización de la producción de materiales, el fomento de la economía circular, el uso de materiales con menor impacto ambiental y la rehabilitación energética del parque ya edificado.

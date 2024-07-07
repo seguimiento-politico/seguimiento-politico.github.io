@@ -1,6 +1,6 @@
 id: e23d016e-7ab0-4a7a-889e-2110ca31236b
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 5
+parent_chapter: 06fd7e51-b8d5-491c-895a-9be06be8bef5
+children_promises:
+- c016ec47-8e38-44b0-af79-d36d591b1ed4
+- a1db186a-52d0-42b0-9790-2bf7d02356f9
+children_statements: []
+title: Ayudas al desarrollo condicionada
 categories:
 - Migración
-title: Ayudas al desarrollo condicionada
-has_children: true

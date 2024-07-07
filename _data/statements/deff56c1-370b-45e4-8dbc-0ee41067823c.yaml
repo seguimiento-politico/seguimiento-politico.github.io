@@ -1,7 +1,6 @@
 id: deff56c1-370b-45e4-8dbc-0ee41067823c
 type: promise
-parent_statement: bca9ec6f-af71-422a-ae2b-abe4788e9c42
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +8,10 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: bca9ec6f-af71-422a-ae2b-abe4788e9c42
+parent_chapter: 1d4a4787-163e-4649-b875-f97fd3780649
+text: Seguiremos reforzando la financiación del sector a través de las líneas de préstamos bonificados y ayudas para avales.
 categories:
 - Agricultura
 - Ganadaría
 topics: Desarrollo sostenible
-text: Seguiremos reforzando la financiación del sector a través de las líneas de préstamos bonificados y ayudas para avales.

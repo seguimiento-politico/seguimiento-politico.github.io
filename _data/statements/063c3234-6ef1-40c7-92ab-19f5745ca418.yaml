@@ -1,6 +1,6 @@
 id: 063c3234-6ef1-40c7-92ab-19f5745ca418
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,17 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 29
+parent_chapter: 1c9b9596-90be-4e2a-b1e4-9d37f55ff261
+children_promises:
+- 7d9ad5f8-a715-4386-8721-d291dc9f77e7
+- 26f34ede-a6c9-49b2-adb5-104127afa67d
+- 970b2741-719d-4205-abcd-397d4f04de32
+- 99998405-d868-4587-8e36-e7f569ca2070
+- cb06b9f5-1dd9-423c-8742-2ffcf32358a9
+- 615f0a00-a644-4f10-a8e8-1db9d39f8834
+- 748ed247-f520-407d-925e-92c71bbef886
+- 4734f638-415a-450d-aa76-ff471deefd60
+children_statements: []
+title: Un trabajo autónomo por elección y con garantías
 categories: Trabajo
 topics: Autónomos
-title: Un trabajo autónomo por elección y con garantías
-has_children: true

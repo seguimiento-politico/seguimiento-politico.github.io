@@ -1,6 +1,6 @@
 id: beb027a0-09cb-11ed-a0d2-6fd1e8b9a6a8
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,7 +10,8 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 7
-categories: Empresas y autónomos
-topics: Economía social
+parent_chapter: 4e67d2f6-57a4-4eb6-9522-a745ec43505c
 title: Plan Nacional de Emprendimiento Social.
 text: Con el objetivo de impulsar el diseño y puesta en marcha de políticas públicas específicas que apoyen a los emprendedores sociales para diseñar, consolidar y gestionar sus proyectos sociales, poniendo el foco en aspectos clave como la diversidad y la inclusividad.
+categories: Empresas y autónomos
+topics: Economía social

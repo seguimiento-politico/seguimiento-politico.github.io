@@ -1,6 +1,6 @@
 id: f7dfe016-c0bb-45d7-93b8-7b5eae8845ae
-type: declaration
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+type: statement
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 33
+parent_chapter: 67b24183-2dae-435d-bba9-9afbacb01267
+text: 'Impulsaremos la aprobación de un paquete de medidas en favor de la igualdad de trato, la no discriminación y la valoración positiva de la diversidad:'
 categories: Derechos y servicios sociales
 topics: Igualdad
-text: 'Impulsaremos la aprobación de un paquete de medidas en favor de la igualdad de trato, la no discriminación y la valoración positiva de la diversidad:'

@@ -1,6 +1,6 @@
 id: 6d164048-e168-4078-9345-77128ea1299f
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,9 +9,15 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 31
+parent_chapter: 9084fb76-14d5-4f08-b13b-74bd606de716
+children_promises:
+- 5d3d2f19-1639-4e31-9cd5-b52cf563014a
+- 7b800706-c561-4315-b307-fcce1c592552
+- 12b19822-5bee-49da-83cd-8a9989f9b639
+- f1bae0e3-a4ca-48b8-96d9-d45ec25184a4
+children_statements: []
+title: Ampliaremos el programa Kit Digital para poder impulsar la digitalización de las pymes de más de 50 trabajadores y autónomos.
 categories: Empresas y autónomos
 topics:
 - Autónomos
 - Digitalización
-title: Ampliaremos el programa Kit Digital para poder impulsar la digitalización de las pymes de más de 50 trabajadores y autónomos.
-has_children: true

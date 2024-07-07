@@ -1,6 +1,6 @@
 id: c71437f8-a584-4ede-b166-27710efbb186
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,16 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 111
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+children_promises:
+- 5afb804e-f3c1-4e8e-a388-1f7e8b6a2292
+- d3af0880-7801-418a-bc21-8b59c0034f7b
+- 618f8a00-6efc-44fa-b6d7-01d869a039d6
+- b6f701f4-15ba-4fab-94b1-37a238dcf040
+- e7a969df-f716-46ab-ab98-c5285d2eccf7
+- f6ebd85a-3e60-46b6-bd3f-2faa6f472206
+children_statements:
+- f569d3ca-4a28-4f96-93ba-5d5c8c8581f6
+title: Derechos sexuales y reproductivos de las mujeres
 categories: Democracia
 topics: Igualdad
-title: Derechos sexuales y reproductivos de las mujeres
-has_children: true

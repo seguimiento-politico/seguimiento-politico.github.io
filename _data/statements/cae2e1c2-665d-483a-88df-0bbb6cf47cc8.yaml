@@ -1,6 +1,6 @@
 id: cae2e1c2-665d-483a-88df-0bbb6cf47cc8
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,7 +8,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 16
-categories: Economía
-topics: Desarrollo sostenible
+parent_chapter: 48b6e85e-eb0a-40f5-9aa9-d85750a8402d
 title: REFORZAREMOS LAS SINERGIAS ENTRE TODOS LOS INSTRUMENTOS DE APOYO A LA INTERNACIONALIZACIÓN DE LA ECONOMÍA ESPAÑOLA.
 text: Realizaremos reformas para mejorar la eficacia de los instrumentos de crédito directo, incrementaremos el alcance del seguro de crédito a la exportación por cuenta del Estado, y se reforzará el seguro por cuenta del Estado sobre garantía de inversiones en el exterior. Dinamizaremos las oficinas comerciales de las embajadas, especialmente en los principales mercados internacionales.
+categories: Economía
+topics: Desarrollo sostenible

@@ -1,0 +1,40 @@
+name: Inteligencia artificial
+other:
+- &id001
+  id: 4b2651c4-b275-4195-aa37-a77a7d18f7cd
+  parties:
+  - CIUDADANOS
+- &id002
+  id: 9b9570b3-7a4a-4bda-b7a5-006b33b020c7
+  parties:
+  - CIUDADANOS
+- &id003
+  id: 3b7e6615-87fc-4296-a5b2-b2ca553229a5
+  parties:
+  - CIUDADANOS
+- &id004
+  id: f9005536-0140-4f6c-ab8f-ab0096e377e0
+  parties:
+  - CIUDADANOS
+- &id005
+  id: 508618a5-fcbd-491a-bbe4-6885d0465fbc
+  parties:
+  - CIUDADANOS
+other_count: 5
+position_negative: []
+position_negative_count: 0
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+statements_count: 5
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

@@ -1,6 +1,6 @@
 id: f31826b5-7343-43ae-8381-1508bb0a8919
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 163
+parent_chapter: 33353ebf-b8a9-4c5c-9baf-00596f9684cd
+text: Abordaremos las especificidades del sinhogarismo para las mujeres y su vinculación con la violencia de género en un doble sentido, ya que la mayor parte de las mujeres que están en esa situación son víctimas de violencia de género, y muchas de las que se encuentran sin hogar provienen de situaciones previas de violencia machista.
 categories: Derechos y servicios sociales
 topics:
 - Desigualdad
 - Pobreza
-text: Abordaremos las especificidades del sinhogarismo para las mujeres y su vinculación con la violencia de género en un doble sentido, ya que la mayor parte de las mujeres que están en esa situación son víctimas de violencia de género, y muchas de las que se encuentran sin hogar provienen de situaciones previas de violencia machista.

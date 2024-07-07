@@ -1,7 +1,6 @@
 id: b03fd7ad-4796-40e6-a167-6a7433dd26e0
 type: promise
-parent_statement: 58c71335-371e-4851-a3c5-04dbeffc9001
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 58c71335-371e-4851-a3c5-04dbeffc9001
+parent_chapter: 754946a2-5f02-4a15-929b-dc9e8a58fe80
+text: Acabaremos paulatinamente con la cautividad de delfines y otros cetáceos, así como de los espectáculos en los que participan.
 categories: Civismo
 topics: Bienestar animal
-text: Acabaremos paulatinamente con la cautividad de delfines y otros cetáceos, así como de los espectáculos en los que participan.

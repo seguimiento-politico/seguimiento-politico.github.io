@@ -1,6 +1,6 @@
 id: 3da692b7-61e6-47e6-bf0d-ecd04d1f21e3
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 6
-categories: Trabajo
+parent_chapter: 4fa23c75-458c-402b-8af5-f527cbec738e
 text: Mejoraremos en coordinación con las comunidades autónomas la efectividad y la eficiencia de las políticas activas de empleo y simplificaremos el sistema de protección por desempleo.<br>Profundizaremos el cambio de modelo laboral y salarial basado en una política de rentas progresista, el desarrollo de sectores industriales y de servicios, desde un modelo sostenible. Esta tarea se realizará sobre la base de las recomendaciones que se deriven del proceso de evaluación de políticas públicas realizada por la AIReF.
+categories: Trabajo

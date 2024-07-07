@@ -1,6 +1,6 @@
 id: ed29fb84-f07f-41ff-bc36-c175e244d79a
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 151
+parent_chapter: 5424254d-f35f-472e-b45f-7c57cb8123c8
+text: Protección de las tradiciones populares, eventos religiosos y festejos taurinos propios de la España rural frente a los ataques del progresismo y el globalismo.
 categories:
 - Territorio rural
-text: Protección de las tradiciones populares, eventos religiosos y festejos taurinos propios de la España rural frente a los ataques del progresismo y el globalismo.

@@ -1,6 +1,6 @@
 id: a3f7960c-c5bd-4548-b57c-fca1e9084ddc
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 260
+parent_chapter: 82bbf2d2-ddcc-4c0a-9b0c-5bac5677e936
+text: Impulsaremos la toma de decisiones en política exterior y de seguridad común por mayoría cualificada.
 categories: Política internacional
 topics: Europa
-text: Impulsaremos la toma de decisiones en política exterior y de seguridad común por mayoría cualificada.

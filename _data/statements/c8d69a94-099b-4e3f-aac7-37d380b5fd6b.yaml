@@ -1,6 +1,6 @@
 id: c8d69a94-099b-4e3f-aac7-37d380b5fd6b
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 255
-categories: Migración
+parent_chapter: a28261b2-6635-44ba-a26a-7ed40dcd7f18
 text: Consolidaremos la colaboración con organizaciones internacionales como ACNUR (Alto Comisionado de Naciones Unidas para los Refugiados) y la OIM (Organización Internacional de Migraciones).
+categories: Migración

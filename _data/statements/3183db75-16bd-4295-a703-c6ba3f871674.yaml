@@ -1,6 +1,6 @@
 id: 3183db75-16bd-4295-a703-c6ba3f871674
 type: promise
-doc_id: ee7c269f-4b4b-4814-ab33-da784dff593b
+parent_document: ee7c269f-4b4b-4814-ab33-da784dff593b
 parties:
 - PSOE
 - SUMAR
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-10-24'
 page: 34
+parent_chapter: 8930526d-d2e6-4209-b5eb-45f218e2a0c8
+text: Trabajaremos por seguir eliminando las barreras que imp  iden que las mujeres puedan acceder, permanecer, progresar y ser remuneradas igual que los hombres en el ámbito laboral, acabando así con la brecha salarial de género.
 categories: Derechos y servicios sociales
 topics: Igualdad
-text: Trabajaremos por seguir eliminando las barreras que imp  iden que las mujeres puedan acceder, permanecer, progresar y ser remuneradas igual que los hombres en el ámbito laboral, acabando así con la brecha salarial de género.

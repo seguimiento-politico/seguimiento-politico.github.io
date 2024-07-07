@@ -1,7 +1,6 @@
 id: 3e41ea21-5bed-453c-9ba9-557634b70efc
 type: promise
-parent_statement: a2a4e947-8df4-49df-b49d-e1927ee9f036
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Industria
+parent_statement: a2a4e947-8df4-49df-b49d-e1927ee9f036
+parent_chapter: bdc3bec8-826b-4422-99f9-ce6bb7d37ec5
 text: Transformaremos la Sociedad Estatal de Participaciones Industriales (SEPI) en una verdadera Agencia Industrial Pública. España tiene una oportunidad excepcional para transformar su estruc6tura productiva y la nueva política industrial también requiere la implicación estratégica del sector público empresarial. La Agencia Industrial Pública dependerá del Ministerio de Industria y no del Ministerio de Hacienda. Sus empresas —las actuales o las que sea necesario crear— tendrán entre sus objetivos contribuir de manera coordinada a la transformación estructural del modelo productivo español, incluyendo en su caso la participación en los PERTE impulsados a través del Plan de Recuperación, Transformación y Resiliencia.
+categories: Industria

@@ -1,10 +1,11 @@
 id: 1a24148b-bb3b-4891-b370-a5d097b7b772
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 52
+parent_chapter: b2d30d31-839e-4c79-b8e2-fe59d97d9e6d
 text: Desarrollaremos el Plan de Acción de la Estrategia Española en Trastornos del Espectro del Autismo, que concrete las medidas previstas en la Estrategia Española en Trastornos del Espectro del Autismo aprobada en 2015.

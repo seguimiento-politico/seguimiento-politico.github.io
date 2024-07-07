@@ -1,7 +1,6 @@
 id: 8fb6f3cb-57b8-40d5-943f-449c8086e152
-type: declaration
-parent_statement: dc8dee06-efe8-49ff-a266-013ca32ba653
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: dc8dee06-efe8-49ff-a266-013ca32ba653
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+text: La coeducación es una estrategia fundamental para erradicar estereotipos de género y prevenir la violencia machista. Urge tomar medidas en el ámbito sexoafectivo para prevenir, entre otras cosas, la violencia sexual y el neomachismo entre las personas más jóvenes.
 categories: Democracia
 topics: Igualdad
-text: La coeducación es una estrategia fundamental para erradicar estereotipos de género y prevenir la violencia machista. Urge tomar medidas en el ámbito sexoafectivo para prevenir, entre otras cosas, la violencia sexual y el neomachismo entre las personas más jóvenes.

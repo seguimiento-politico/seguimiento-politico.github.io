@@ -1,6 +1,6 @@
 id: ab4a74ef-f5e5-4bc0-98e3-aeb8dd183a7a
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 120
+parent_chapter: 96e848d1-3015-443e-a16c-804978d00154
+text: Continuaremos apostando por el modelo de Planes Complementarios de I+D+I para áreas estratégicas como instrumento de corresponsabilidad y cofinanciación en política científica entre la Administración General del Estado y las CCAA.
 categories: Ciencia y tecnología
 topics: I+D+i
-text: Continuaremos apostando por el modelo de Planes Complementarios de I+D+I para áreas estratégicas como instrumento de corresponsabilidad y cofinanciación en política científica entre la Administración General del Estado y las CCAA.

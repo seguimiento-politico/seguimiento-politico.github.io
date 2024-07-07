@@ -1,11 +1,12 @@
 id: 614a646e-9ee8-4160-909a-8e7a8e25f35c
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 81
-categories: Justicia
+parent_chapter: 93f894f4-fa7e-477f-b933-b4f068b0d41e
 text: Reformaremos la Ley del Menor. Rebajaremos la edad de responsabilidad penal, en supuestos de especial gravedad o multirreincidencia. Potenciaremos el papel procesal de víctimas y perjudicados, y aumentaremos los plazos de prescripción y las medidas cautelares. Posibilitaremos la celebración de juicio en ausencia del menor, en caso de incomparecencia reiterada e injustificada. Aumentaremos las penas de internamiento y propiciaremos el ingreso en prisión en determinadas circunstancias al cumplirse la mayoría de edad.
+categories: Justicia

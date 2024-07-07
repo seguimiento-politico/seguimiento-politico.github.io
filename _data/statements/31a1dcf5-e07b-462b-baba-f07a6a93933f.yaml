@@ -1,6 +1,6 @@
 id: 31a1dcf5-e07b-462b-baba-f07a6a93933f
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 146
-categories: Política internacional
+parent_chapter: db635e28-b5bf-4dba-aaf7-b48b45ca3061
+children_promises:
+- acfe095e-2869-4cc3-bb25-9c2fd25590bd
+- 7b85f44f-7fe9-4ffe-b861-f1ab62a502c4
+- ea84aaf5-7c3c-4d94-9180-f5f3e1aaa7c5
+children_statements: []
 title: Una acción humanitaria que sitúe la vida en el centro.
-has_children: true
+categories: Política internacional

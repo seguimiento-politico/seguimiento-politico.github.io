@@ -1,6 +1,6 @@
 id: 19f79338-2e92-4b66-99c7-750cd6e82dc1
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 254
-categories: Religión
+parent_chapter: 44755ca0-367e-43ea-97ca-74ced0d87d05
 text: Reforzaremos las políticas de neutralidad religiosa en actos públicos y de representación del Estado, respetando todas las creencias y convicciones religiosas y cumpliendo el principio constitucional de laicidad.
+categories: Religión

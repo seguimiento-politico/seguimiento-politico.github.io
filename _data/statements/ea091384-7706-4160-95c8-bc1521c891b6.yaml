@@ -1,6 +1,6 @@
 id: ea091384-7706-4160-95c8-bc1521c891b6
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 6
-categories: Trabajo
+parent_chapter: 9cd5db4f-b174-4b60-895b-fd6bc37b16f4
 text: Reforzaremos el principio de causalidad en la contratación temporal y las sanciones aplicables a su uso fraudulento de forma que la contratación indefinida sea la forma ordinaria de acceso al empleo, promoviendo las reformas legislativas necesarias para ello. Explorar las opciones posibles para reducir la dualidad, favoreciendo el uso del contrato fijo discontinuo para actividades cíclicas y estacionales. Reforzar el control de la contratación a tiempo parcial, en especial en lo relativo a la distribución irregular del tiempo de trabajo contratado. Para ello, revisaremos la normativa sobre trabajo a tiempo parcial, para prevenir su uso fraudulento y para garantizar efectivamente que las condiciones de trabajo y los derechos laborales de los trabajadores y trabajadoras a tiempo parcial son iguales a los de los contratados a tiempo completo.
+categories: Trabajo

@@ -1,6 +1,6 @@
 id: 07721707-7deb-4602-a7ec-a75fb1419e9d
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 102
+parent_chapter: f8348ef6-75be-45f5-9b64-97ad1de424bc
+text: Los inmigrantes ilegales no podrán empadronarse ni adquirir con ello los beneficios y las ayudas correspondientes.
 categories:
 - Migración
-text: Los inmigrantes ilegales no podrán empadronarse ni adquirir con ello los beneficios y las ayudas correspondientes.

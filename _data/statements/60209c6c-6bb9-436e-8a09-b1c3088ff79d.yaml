@@ -1,7 +1,6 @@
 id: 60209c6c-6bb9-436e-8a09-b1c3088ff79d
 type: promise
-parent_statement: 00b05044-a434-4024-9f33-c090d0ddccf8
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 00b05044-a434-4024-9f33-c090d0ddccf8
+parent_chapter: c794cb24-1c55-422f-8b6d-1ff29ad1ed87
+text: Garantizaremos que la ciudadanía europea tenga acceso a protección social en las mismas condiciones, con independencia de su lugar de residencia, armonizando las normas que regulan el acceso a las prestaciones por parte de la ciudadanía de otros Estados, mejorando la coordinación entre las autoridades nacionales para garantizar los derechos, perfeccionando los mecanismos de compensación financiera y ampliando el limitado margen competencial de la UE en materia sociolaboral.
 categories: Política internacional
 topics: Europa
-text: Garantizaremos que la ciudadanía europea tenga acceso a protección social en las mismas condiciones, con independencia de su lugar de residencia, armonizando las normas que regulan el acceso a las prestaciones por parte de la ciudadanía de otros Estados, mejorando la coordinación entre las autoridades nacionales para garantizar los derechos, perfeccionando los mecanismos de compensación financiera y ampliando el limitado margen competencial de la UE en materia sociolaboral.

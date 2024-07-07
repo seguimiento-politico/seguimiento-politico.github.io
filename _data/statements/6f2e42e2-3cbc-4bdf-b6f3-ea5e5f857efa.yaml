@@ -1,12 +1,13 @@
 id: 6f2e42e2-3cbc-4bdf-b6f3-ea5e5f857efa
 type: promise
-parent_statement: d21326a7-b6b5-4c0b-80fe-c5752673dcf9
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 40
-categories: Sanidad
+parent_statement: d21326a7-b6b5-4c0b-80fe-c5752673dcf9
+parent_chapter: dcb6b10d-0b49-4143-9511-53be3f00f338
 text: Utilizaremos los recursos de la colaboración público-privada para poder afrontar la permanente modernización de los hospitales, la incorporación de la innovación tecnológica y la consolidación de una red de asistencia sanitaria de financiación pública más amplia y de mayor calidad.
+categories: Sanidad

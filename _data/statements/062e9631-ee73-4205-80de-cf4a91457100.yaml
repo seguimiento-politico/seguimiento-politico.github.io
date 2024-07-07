@@ -1,6 +1,6 @@
 id: 062e9631-ee73-4205-80de-cf4a91457100
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 40
-categories: Vivienda
+parent_chapter: b958cf54-1e2a-46d1-94d9-83d7f5877612
 text: Tolerancia cero con la ocupación ilegal. Reformaremos tanto del Código Penal como de las Leyes de Enjuiciamiento Criminal y Civil para proteger real y efectivamente a los propietarios que sufren la acción de las mafias de ocupación o la entrada ilegal de un okupa en su vivienda. Todo español debe tener la capacidad de defenderse a sí mismo y a los suyos ante una agresión en su propio hogar. Crearemos un registro de datos históricos de zonas afectadas por la ocupación e impulsaremos el seguimiento pormenorizado de todos los casos que se produzcan, así como la asistencia integral a las víctimas de ocupación. Eximiremos a los propietarios de inmuebles okupados ilegalmente del pago del IBI durante el periodo de ocupación ilegal del inmueble.
+categories: Vivienda

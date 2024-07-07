@@ -1,6 +1,6 @@
 id: 2356be6f-732b-4459-aefb-2ab6eb52c3e4
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 49
-categories: Territorio rural
+parent_chapter: bfeb74d8-c8b3-47b4-b73b-61f1aaaf5305
 text: Introduciremos criterios territoriales para reducir la desigualdad y garantizar la efectividad de los derechos de las ciudadanas y ciudadanos, sin importar el lugar en el que vivan.
+categories: Territorio rural

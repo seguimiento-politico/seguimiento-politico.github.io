@@ -1,6 +1,6 @@
 id: 8791703f-41dc-4862-913a-102bbaada4fa
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 73
-categories: Urbanismo y ciudades
+parent_chapter: da4a5e62-c6b6-45b0-a08b-611f6d470a08
+children_promises:
+- 3b5a421e-91e5-4747-8efe-ddc21010ca67
+- 9fac646e-73aa-499e-96e3-b69df9a1f43a
+- 74e7536f-d540-4a97-b91c-ef8bf3e66df8
+children_statements:
+- bf54cf89-bfef-4598-acd8-85e71c6e1df3
 title: Garantizar el derecho a la movilidad sostenible y a la accesibilidad universal del espacio público
-has_children: true
+categories: Urbanismo y ciudades

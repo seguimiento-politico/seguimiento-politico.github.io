@@ -1,7 +1,6 @@
 id: 94eca695-1c2b-4fff-9fdf-a3fd6d575df9
 type: promise
-parent_statement: cdccadec-b9e5-40c2-bccf-439b7b0b0220
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,6 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 129
+parent_statement: cdccadec-b9e5-40c2-bccf-439b7b0b0220
+parent_chapter: 36d24e1d-5fdd-486e-90c6-db666440d304
+text: Reforzaremos el Observatorio Estatal para la Convivencia con protocolos y medidas destinadas a prevenir y solventar los problemas de acoso escolar en cualquiera de sus manifestaciones, con las garantías para el alumno afectado y seguir impulsando estudios generales del estado de la convivencia en centros de educación primaria y secundaria, para realizar propuestas de mejora basadas en la evidencia científica.
 categories: Derechos y servicios sociales
 topics: Infancia y juventud
-text: Reforzaremos el Observatorio Estatal para la Convivencia con protocolos y medidas destinadas a prevenir y solventar los problemas de acoso escolar en cualquiera de sus manifestaciones, con las garantías para el alumno afectado y seguir impulsando estudios generales del estado de la convivencia en centros de educación primaria y secundaria, para realizar propuestas de mejora basadas en la evidencia científica.

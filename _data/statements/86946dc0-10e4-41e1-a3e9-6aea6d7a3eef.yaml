@@ -1,6 +1,6 @@
 id: 86946dc0-10e4-41e1-a3e9-6aea6d7a3eef
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 119
+parent_chapter: 11de281a-d271-499b-955d-2771db4b467d
 title: No se renovarán las concesiones de autopistas a grandes corporaciones.
 text: Los peajes se irán incorporando al patrimonio común y abaratándose o convirtiéndose en gratuitos Mientras tanto, se buscarán fórmulas para reducir o eliminarlos en aquellos tramos excesivamente caros o que, si se abrieran, permitirían reducir los accidentes

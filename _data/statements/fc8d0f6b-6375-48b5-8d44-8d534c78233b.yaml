@@ -1,6 +1,6 @@
 id: fc8d0f6b-6375-48b5-8d44-8d534c78233b
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,16 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 20
+parent_chapter: 5ac453aa-319d-4ea3-b4b6-7a63e3dde3ff
+children_promises:
+- 36973b48-815e-4ab2-92b7-508ace280feb
+- 72000506-c9e9-4aa6-aedb-8ee296516ff9
+- 03b0ed69-0db2-440e-9285-91f908a60ff3
+- d8ffc2bf-b13f-4bbe-8b38-fe6f97feaa46
+- 16d25233-9239-4c7b-9eee-2af6d8e739b2
+- 450e2ea6-26b2-4324-9d60-c344a66c1f63
+- 77cf3805-5183-49f6-9b3b-b50e969b772e
+children_statements: []
+title: Aprobación de una estrategia para la reducción del impacto ecológico del consumo.
 categories: Consumo
 topics: Consumo sostenible
-title: Aprobación de una estrategia para la reducción del impacto ecológico del consumo.
-has_children: true

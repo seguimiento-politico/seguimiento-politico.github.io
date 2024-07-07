@@ -1,6 +1,6 @@
 id: 57c0a2f8-cb54-4271-94b2-39586104c04a
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 82
+parent_chapter: 66cf6219-da39-4941-aa1a-c1b88e89ed00
+children_promises:
+- d535395f-7c8a-47a8-9154-e136ebf3aaee
+children_statements: []
+title: Taxis
 categories: Transporte
 topics: Movilidad sostenible
-title: Taxis
-has_children: true

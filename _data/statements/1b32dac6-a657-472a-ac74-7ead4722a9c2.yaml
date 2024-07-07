@@ -1,6 +1,6 @@
 id: 1b32dac6-a657-472a-ac74-7ead4722a9c2
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 152
+parent_chapter: 3fad71c1-ef43-4174-89f5-52e6265e7163
+text: Aumentaremos los recursos para luchar contra la violencia que sufren las mujeres y niñas con discapacidad.
 categories: Democracia
 topics: Violencia de género
-text: Aumentaremos los recursos para luchar contra la violencia que sufren las mujeres y niñas con discapacidad.

@@ -1,6 +1,6 @@
 id: cf2f9434-e1b5-4c80-aba5-17b44ae0096c
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 181
+parent_chapter: 63ab839a-6275-4d54-bf9b-ec036a685a75
+children_promises:
+- ebc7b16d-37ff-467d-8928-6f9c96d58257
+- 9a3b4328-bc1a-4376-8a6f-d9ff02d45817
+- 59765fa8-7e8e-47a4-b4c0-2d014962091d
+children_statements: []
+title: Creación de una Agencia Pública para la Transición Digital
 categories: Educación
 topics: Digitalización
-title: Creación de una Agencia Pública para la Transición Digital
-has_children: true

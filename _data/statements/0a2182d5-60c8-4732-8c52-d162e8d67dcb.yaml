@@ -1,0 +1,30 @@
+id: 0a2182d5-60c8-4732-8c52-d162e8d67dcb
+type: statement
+parent_document: a613c4b6-f9dc-4926-8b9a-b87c233e5a75
+parties:
+- VOX
+election_type: europeas
+election_date: '2024-06-09'
+publication_date: '2024-05-30'
+page: 22
+text: Bruselas no ha trabajado estos años para lograr una energía más barata, segura y sostenible, sino para contentar a los grupos ecologistas radicales y a las élites económicas. A su vez, los sucesivos gobiernos nacionales, haciendo seguidismo de las políticas de las élites globalistas, han conducido a una pérdida progresiva de la soberanía energética de nuestra Nación, agravando nuestra dependencia y disparando las facturas de las familias. Las últimas consecuencias las han sufrido muchas regiones de España en las que se han acabado imponiendo restricciones en el consumo energético.
+categories:
+- Energía
+- Consumo
+- Industria
+topics:
+- name: Sector eléctrico
+- name: Mercado eléctrico
+- name: Precio de la energía
+- name: Energía barata
+  position_positive: null
+- name: Energía sostenible
+  position_positive: null
+- name: Energía segura
+  position_positive: null
+- name: Ecologismo
+- name: Elitismo
+  position_negative: null
+- name: Globalismo
+- name: Soberanía energética
+  position_positive: null

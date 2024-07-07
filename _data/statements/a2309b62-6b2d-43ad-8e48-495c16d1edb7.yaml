@@ -1,6 +1,6 @@
 id: a2309b62-6b2d-43ad-8e48-495c16d1edb7
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 191
+parent_chapter: c522da89-5c36-4166-ae3f-6fd1f38abe58
+text: Impulsar los programas para las personas sin hogar acompañadas con un programa de Ocupación, para garantizar una completa reinserción social en su sentido más amplio.
 categories: Derechos y servicios sociales
 topics: Personas sin hogar
-text: Impulsar los programas para las personas sin hogar acompañadas con un programa de Ocupación, para garantizar una completa reinserción social en su sentido más amplio.

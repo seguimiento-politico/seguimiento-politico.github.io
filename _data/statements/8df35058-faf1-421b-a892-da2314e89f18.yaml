@@ -1,7 +1,6 @@
 id: 8df35058-faf1-421b-a892-da2314e89f18
 type: promise
-parent_statement: 22dd4e6a-9713-4619-a237-83027c4b09b6
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 22dd4e6a-9713-4619-a237-83027c4b09b6
+parent_chapter: 5ac453aa-319d-4ea3-b4b6-7a63e3dde3ff
+text: Se impedirá el corte de estos suministros a las familias y personas en situación de vulnerabilidad.
 categories: Consumo
 topics: Consumo sostenible
-text: Se impedirá el corte de estos suministros a las familias y personas en situación de vulnerabilidad.

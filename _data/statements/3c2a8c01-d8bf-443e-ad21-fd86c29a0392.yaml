@@ -1,6 +1,6 @@
 id: 3c2a8c01-d8bf-443e-ad21-fd86c29a0392
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 107
-categories: Educación
+parent_chapter: d74bc2c5-b632-425b-ae29-fb826a1b8e06
 text: Promoveremos la educación emocional en el currículum y la extensión de Planes de bienestar emocional en todas las etapas educativas y en todos los centros para formar parte de la Programación General Anual, para prevenir problemas de salud mental y mejorar el bienestar emocional entre niños, niñas y jóvenes.
+categories: Educación

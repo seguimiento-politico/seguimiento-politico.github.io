@@ -1,0 +1,28 @@
+id: f94205f5-c802-49cc-8eb0-8b45a69c6a4e
+type: statement
+parent_document: a613c4b6-f9dc-4926-8b9a-b87c233e5a75
+parties:
+- VOX
+election_type: europeas
+election_date: '2024-06-09'
+publication_date: '2024-05-30'
+page: 10
+text: Von der Leyen, con el apoyo entusiasta de populares y socialistas, se ha asegurado de que la Política Agraria Común esté estrechamente conectada con el Pacto Verde, impregnándola de todo el fanatismo climático en perjuicio de los agricultores y ganaderos europeos. Lejos de apostar por una PAC que reconozca el carácter prioritario y estratégico del sector agrario, Bruselas ha apostado por un texto cargado de ideología verde y una burocracia inmensa que no aporta soluciones a los problemas reales del campo.
+categories:
+- Comercio
+- Agricultura
+- Ganadería
+- Medioambiente
+topics:
+- name: PAC
+  position_negative:
+  - text: hereda los defectos derivados del Pacto verde
+  - text: burocracia que no aporta soluciones a los problemas del campo
+  - text: no reconoce el carácter prioritario y estratégico del sector primario
+- name: Pacto Verde Europeo
+  position_negative: null
+- name: Ecologismo
+  position_negative: null
+- name: PP
+- name: PSOE
+- name: Cambio climático

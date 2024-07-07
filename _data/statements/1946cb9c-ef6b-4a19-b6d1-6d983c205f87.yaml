@@ -1,6 +1,6 @@
 id: 1946cb9c-ef6b-4a19-b6d1-6d983c205f87
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 90
-categories: Sanidad
+parent_chapter: 17e4c412-8ac4-4992-848a-422903075ee3
+children_promises:
+- 9c6b22bb-fff3-42db-a99c-152a21e5bb2b
+- 17ff609b-2c53-40a1-8b6f-cbc16f67cded
+children_statements:
+- f1c69a52-e0ff-4c95-803c-f36427087b0d
 title: Un sistema sanitario con futuro.
-has_children: true
+categories: Sanidad

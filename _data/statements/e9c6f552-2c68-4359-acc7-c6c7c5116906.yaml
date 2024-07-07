@@ -1,6 +1,6 @@
 id: e9c6f552-2c68-4359-acc7-c6c7c5116906
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 164
+parent_chapter: 1396ba16-84f5-4ba6-9717-58d5e5cedee0
+text: El gobierno que decía ser el más feminista de la historia es el mismo que ha soltado violadores a la calle. Derogaremos la ley de violencia de género y toda la normativa que, lejos de proteger a las mujeres eficazmente, ha alentado una guerra de sexos, la ruptura de familias, la desigualdad ante la ley y la destrucción de la presunción de inocencia. Aprobaremos medidas legislativas que combatan eficazmente la violencia doméstica y prevean la asistencia a las víctimas sin que ningún chiringuito ideológico usurpe los fondos destinados a ellas.
 categories:
 - Familia
-text: El gobierno que decía ser el más feminista de la historia es el mismo que ha soltado violadores a la calle. Derogaremos la ley de violencia de género y toda la normativa que, lejos de proteger a las mujeres eficazmente, ha alentado una guerra de sexos, la ruptura de familias, la desigualdad ante la ley y la destrucción de la presunción de inocencia. Aprobaremos medidas legislativas que combatan eficazmente la violencia doméstica y prevean la asistencia a las víctimas sin que ningún chiringuito ideológico usurpe los fondos destinados a ellas.

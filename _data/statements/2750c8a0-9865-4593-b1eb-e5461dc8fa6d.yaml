@@ -1,7 +1,6 @@
 id: 2750c8a0-9865-4593-b1eb-e5461dc8fa6d
-type: declaration
-parent_statement: a0456375-a06c-43e2-902f-635d62cc0402
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -9,5 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 95
-categories: Política internacional
+parent_statement: a0456375-a06c-43e2-902f-635d62cc0402
+parent_chapter: 65567664-6676-4d53-b234-fd4300e68287
 text: Al contrario de lo que ha hecho el Gobierno de coalición a lo largo de estos años, desde el Partido Popular estamos convencidos de que la política exterior debe ser una política de Estado, de la que debe participar tanto el líder de la oposición como el Parlamento. Es necesario recuperar una política exterior seria, fiable, predecible, en la que primen los intereses de nuestro país y ante la que el Gobierno actúe de forma coordinada y en la misma dirección.
+categories: Política internacional

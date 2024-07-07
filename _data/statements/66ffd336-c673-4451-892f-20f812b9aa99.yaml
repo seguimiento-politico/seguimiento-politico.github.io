@@ -1,6 +1,6 @@
 id: 66ffd336-c673-4451-892f-20f812b9aa99
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 76
-categories: Impuestos y financiación pública
+parent_chapter: ec3e397c-bf4a-4692-a06e-58f507cee1f8
+children_promises:
+- 0efeb72d-9bbb-46f0-8976-b659ea6965bb
+children_statements: []
 text: 'IVA: bajaremos radicalmente el IVA en los productos de primera necesidad y esenciales, tales como productos y fármacos infantiles, pañales o productos geriátricos); eliminaremos el IVA para la adquisición de primera vivienda habitual; y eliminaremos la doble imposición actual que se produce en aquellos artículos ya gravados con impuestos especiales.'
-has_children: true
+categories: Impuestos y financiación pública

@@ -1,6 +1,6 @@
 id: b706d142-031a-4a97-970b-11ccf2121a0b
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 128
+parent_chapter: a7853898-5bb1-4a7c-8910-f570fc691c52
+text: Suprimiremos las Fiscalías especiales con finalidad netamente ideológica, como la de Memoria Democrática y la de Delitos de Odio y Discriminación, integraremos las actuales Fiscalías Especiales contra la Violencia sobre la Mujer en unas dedicadas ampliamente a asuntos de familia, y dotaremos de mayores medios y recursos a la Fiscalía Anticorrupción.
 categories:
 - Justicia
-text: Suprimiremos las Fiscalías especiales con finalidad netamente ideológica, como la de Memoria Democrática y la de Delitos de Odio y Discriminación, integraremos las actuales Fiscalías Especiales contra la Violencia sobre la Mujer en unas dedicadas ampliamente a asuntos de familia, y dotaremos de mayores medios y recursos a la Fiscalía Anticorrupción.

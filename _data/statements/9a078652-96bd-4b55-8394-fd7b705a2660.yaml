@@ -1,0 +1,19 @@
+id: 9a078652-96bd-4b55-8394-fd7b705a2660
+type: promise
+parent_document: a613c4b6-f9dc-4926-8b9a-b87c233e5a75
+parties:
+- VOX
+election_type: europeas
+election_date: '2024-06-09'
+publication_date: '2024-05-30'
+page: 17
+text: Apoyar a los Estados miembros para protegerse del fundamentalismo islámico, empezando por el cierre inmediato de las mezquitas fundamentalistas, así como el fin de cualquier financiación al islamismo por parte de terceros países o la UE, incrementando la fiscalización del presupuesto de la UE para evitar que se repitan casos tan vergonzosos como la financiación a organizaciones vinculadas a los Hermanos Musulmanes.
+topics:
+- name: Seguridad y defensa
+- name: Migración
+- name: Islam
+- name: Fundamentalismo islámico
+  proposed_actions:
+  - text: cierre inmediato de las mezquitas fundamentalistas
+  - text: fin de la financiación al islamismo por parte de terceros países o la UE
+  - text: incrementar la fiscalización para evitar financiación por parte de la UE a fundamentalistas

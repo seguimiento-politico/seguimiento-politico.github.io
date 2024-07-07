@@ -1,6 +1,6 @@
 id: a7ff9b0e-ec1c-452e-937b-e6560415dd2d
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 133
-categories: Seguridad y defensa
+parent_chapter: 66b190ef-617c-438a-adf3-a3c9f707719b
+children_promises:
+- bc4fda98-1ab2-4ea7-91b7-069ab3d06739
+- 4dc052ff-3573-40b9-ad45-8078c6560b5a
+- 0f503e6d-0d99-4c76-8303-d677ee3956e0
+- 404443e6-a052-425c-9e2c-d04aeb67e748
+children_statements:
+- be2100ea-8424-4dba-9126-436b785d8b97
 title: Acabaremos con las deficiencias del sistema penitenciario para satisfacer el principio de equivalencia de la sanidad penitenciaria.
-has_children: true
+categories: Seguridad y defensa

@@ -1,10 +1,12 @@
 id: bbadcbba-2ee3-4ee8-be82-e654f2cce3e6
-type: declaration
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+type: statement
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 68
+parent_chapter: 1d6d3cb8-c342-45dc-bf81-5882a853c051
 text: El futuro de la España rural y pesquera se juega, en primer lugar, en Europa. En este sentido, es imprescindible una política exterior sólida, que conozca cómo se debate en Bruselas, y sepa configurar una PAC y unas Perspectivas Económicas alineada con nuestros intereses.
+topics: Desarrollo sostenible

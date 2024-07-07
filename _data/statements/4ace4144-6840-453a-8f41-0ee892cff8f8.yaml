@@ -1,6 +1,6 @@
 id: 4ace4144-6840-453a-8f41-0ee892cff8f8
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 224
+parent_chapter: 452b6011-bf84-402e-92d3-0aa925d7de49
+text: Impulsaremos el desarrollo de la Ley 9/2022, de 14 de junio, de Calidad de la Arquitectura, alineada con la estrategia a largo plazo del gobierno y la propuesta de la Comisión Europea (nueva Bauhaus) para la rehabilitación energética en el sector de la edificación en España, promocionando su adaptación de estándares al contexto mediterráneo.
 categories: Vivienda
 topics:
 - Rehabilitación
 - Incentivos, ayudas y subvenciones
-text: Impulsaremos el desarrollo de la Ley 9/2022, de 14 de junio, de Calidad de la Arquitectura, alineada con la estrategia a largo plazo del gobierno y la propuesta de la Comisión Europea (nueva Bauhaus) para la rehabilitación energética en el sector de la edificación en España, promocionando su adaptación de estándares al contexto mediterráneo.

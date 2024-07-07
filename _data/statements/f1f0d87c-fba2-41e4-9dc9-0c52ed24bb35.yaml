@@ -1,6 +1,6 @@
 id: f1f0d87c-fba2-41e4-9dc9-0c52ed24bb35
-type: declaration
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+type: statement
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,4 +9,5 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 25
+parent_chapter: b8a5aa3d-8c58-4fdb-8ce8-c6eb037312b4
 text: Además, hay que asumir que nuestro sistema de cuidados está en crisis. Nuestro Estado del bienestar se ha construido apoyándose en una cantidad inmensa de trabajo femenino no reconocido ni remunerado (o mal remunerado) para mantener al resto de las personas del hogar, y la austeridad le quitó aún más oxígeno a este modelo, hasta llevarlo al colapso. De este modo, la ausencia de servicios públicos y comunitarios que nos permitan compartir entre el conjunto de la ciudadanía la tarea de cuidarnos, de hacer que la vida avance, se ha convertido en uno de los principales lastres de nuestra economía. Algo que impide a las personas jóvenes componer el modelo de familia que quieran; a las adultas, hacer compatibles el trabajo y la vida; y a las mayores, tener la seguridad de que podrán disfrutar de los cuidados adecuados.

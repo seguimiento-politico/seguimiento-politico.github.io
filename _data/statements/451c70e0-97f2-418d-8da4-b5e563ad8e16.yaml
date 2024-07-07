@@ -1,7 +1,6 @@
 id: 451c70e0-97f2-418d-8da4-b5e563ad8e16
 type: promise
-parent_statement: 6a1c09e9-51ab-470e-9cfd-6f882cd0cdff
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 6a1c09e9-51ab-470e-9cfd-6f882cd0cdff
+parent_chapter: e9f101d6-d6e2-4b1b-95f1-2c67fdd18515
+text: Apostaremos por un incremento paulatino del presupuesto destinado a la cultura en la próxima legislatura hasta alcanzar un horizonte del 1% en los Presupuestos Generales del Estado, sin contar en dicho porcentaje con los fondos procedentes de programas comunitarios extraordinarios.
 categories: Cultura
 topics: Financiación
-text: Apostaremos por un incremento paulatino del presupuesto destinado a la cultura en la próxima legislatura hasta alcanzar un horizonte del 1% en los Presupuestos Generales del Estado, sin contar en dicho porcentaje con los fondos procedentes de programas comunitarios extraordinarios.

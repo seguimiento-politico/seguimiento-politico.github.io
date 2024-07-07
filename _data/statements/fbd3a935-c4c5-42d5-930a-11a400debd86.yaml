@@ -1,6 +1,6 @@
 id: fbd3a935-c4c5-42d5-930a-11a400debd86
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 22
+parent_chapter: 6f300614-e8ea-4d3c-beef-78df8b43b5e5
+text: Reformaremos la legislación penal para garantizar que el consentimiento de la víctima sea clave en la calificación de los delitos sexuales, de manera que si una mujer no dice SÍ, todo lo demás es NO. Es decir, «Solo sí es sí».
 categories: Seguridad y defensa
 topics: Violencia de género
-text: Reformaremos la legislación penal para garantizar que el consentimiento de la víctima sea clave en la calificación de los delitos sexuales, de manera que si una mujer no dice SÍ, todo lo demás es NO. Es decir, «Solo sí es sí».

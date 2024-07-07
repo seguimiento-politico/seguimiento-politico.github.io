@@ -1,7 +1,6 @@
 id: e17991e2-613a-4008-b2ec-efd634203153
 type: promise
-parent_statement: 89b5f0b6-0169-4113-b269-fc151853f9cd
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Deporte
+parent_statement: 89b5f0b6-0169-4113-b269-fc151853f9cd
+parent_chapter: 7cb07f90-2b71-46f2-af0b-2684ec9ab916
 text: Aplicar un sistema de inspección del personal contratado en las tareas profesionales de la actividad física y deportiva para evitar el intrusismo y garantizar la salud pública.
+categories: Deporte

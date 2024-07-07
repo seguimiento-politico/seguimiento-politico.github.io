@@ -1,7 +1,6 @@
 id: 3c638159-f31f-4c27-8d5f-c26eecbf5267
 type: promise
-parent_statement: 2163ccbf-362f-4c7e-8be3-9b80c49bc5f5
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,5 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 131
-categories: Sanidad
+parent_statement: 2163ccbf-362f-4c7e-8be3-9b80c49bc5f5
+parent_chapter: 3b84ba40-eae3-47f2-812f-38e359411b69
 text: Evaluaremos de la ley vigente para avanzar para avanzar hacia la promoción de espacios libres de humo en la línea propuesta por la Unión Europea.
+categories: Sanidad

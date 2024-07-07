@@ -1,7 +1,6 @@
 id: bec20599-37ef-4e67-aa42-5f4be1569067
 type: promise
-parent_statement: dcae6b18-3248-4abf-90d9-65bcb4522bf9
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Educación
+parent_statement: dcae6b18-3248-4abf-90d9-65bcb4522bf9
+parent_chapter: 4f44b60a-d630-48f6-91cf-914cb0392db6
 text: También es fundamental la bioclimatización de los centros públicos, para convertirlos en entornos escolares seguros, saludables, verdes y sostenibles.
+categories: Educación

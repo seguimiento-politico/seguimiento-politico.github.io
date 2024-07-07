@@ -1,7 +1,6 @@
 id: 127c60eb-7907-4892-afb7-d563f0e877b6
-type: declaration
-parent_statement: 339d30e5-a8ed-4fad-928f-eeca35929c03
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 339d30e5-a8ed-4fad-928f-eeca35929c03
+parent_chapter: 63ab839a-6275-4d54-bf9b-ec036a685a75
+text: Deben crearse infraestructuras tecnológicas desde las instituciones públicas que puedan ser administradas por la sociedad civil y que permitan desarrollar buena parte de las funciones públicas de manera eficiente, sostenible y sin reproducir las brechas digitales
 categories: Educación
 topics: Digitalización
-text: Deben crearse infraestructuras tecnológicas desde las instituciones públicas que puedan ser administradas por la sociedad civil y que permitan desarrollar buena parte de las funciones públicas de manera eficiente, sostenible y sin reproducir las brechas digitales

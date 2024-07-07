@@ -1,6 +1,6 @@
 id: 7c1fcd8d-e4d6-4914-94f9-2ea20129256d
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 147
-categories: Política internacional
+parent_chapter: db635e28-b5bf-4dba-aaf7-b48b45ca3061
+children_promises:
+- 3e329e3c-1ac9-4fb2-bc42-6b2716e723f2
+- 98733657-5bf3-4764-9e0c-9330e85ef1f9
+- 9e9d72a7-318e-4a0b-ac1a-eb294df3d3c1
+children_statements: []
 title: Una cooperación al servicio de la planificación ecológica a escala global.
-has_children: true
+categories: Política internacional

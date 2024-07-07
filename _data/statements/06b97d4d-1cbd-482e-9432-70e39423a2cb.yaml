@@ -1,7 +1,6 @@
 id: 06b97d4d-1cbd-482e-9432-70e39423a2cb
 type: promise
-parent_statement: 425f7270-51f2-4060-a546-34ec74dceafe
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Cultura
+parent_statement: 425f7270-51f2-4060-a546-34ec74dceafe
+parent_chapter: 7350357f-215c-4adf-8549-2205377e11a9
 text: Elaboraremos un Plan estatal de cultura que ponga de relieve la realidad pluricultural y lingüística, su valor social y su carácter como sector estratégico.
+categories: Cultura

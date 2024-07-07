@@ -1,0 +1,62 @@
+name: Pacto Verde Europeo
+other:
+- &id008
+  id: af1cbc37-a8d2-458a-8dd9-b27804c327c6
+  parties:
+  - VOX
+other_count: 1
+position_negative:
+- &id002
+  id: bf161953-28ca-4795-b4d3-624d25641fa6
+  parties:
+  - VOX
+- &id003
+  id: f07eb529-c687-488f-a710-7b4c27085097
+  parties:
+  - VOX
+- &id004
+  id: 7f0ad76f-a506-418e-adf0-c32a323e457d
+  parties:
+  - VOX
+- &id005
+  id: 0f550384-c30d-4289-b963-89ac3b4d58ba
+  parties:
+  - VOX
+- &id006
+  id: 9266f557-b575-44f0-95a1-f3f4d1066b75
+  parties:
+  - VOX
+- &id007
+  id: f94205f5-c802-49cc-8eb0-8b45a69c6a4e
+  parties:
+  - VOX
+- &id009
+  id: 47981e9d-1330-44f9-abdd-3c054b10a812
+  parties:
+  - VOX
+- &id001
+  id: 01a321ef-9cca-4253-879f-aa7002a19189
+  parties:
+  - VOX
+position_negative_count: 8
+position_positive: []
+position_positive_count: 0
+proposed_actions:
+- *id001
+proposed_actions_count: 1
+statements:
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id001
+statements_count: 9
+status_quo_negative:
+- *id002
+status_quo_negative_count: 1
+status_quo_positive: []
+status_quo_positive_count: 0

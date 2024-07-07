@@ -1,7 +1,6 @@
 id: bbfe5246-aa03-4389-a84d-d88cf2058f66
 type: promise
-parent_statement: 1148caff-8923-4eda-b654-377b29badea1
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -10,6 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 111
+parent_statement: 1148caff-8923-4eda-b654-377b29badea1
+parent_chapter: 8a474e92-a922-4e8e-9aca-16ac157ca40a
+text: Pondremos en marcha planes que fomenten el aprovechamiento de las tierras agrícolas en desuso y establecer planes que impulsen su utilización para el cultivo de cereales.
 categories:
 - Medioambiente
-text: Pondremos en marcha planes que fomenten el aprovechamiento de las tierras agrícolas en desuso y establecer planes que impulsen su utilización para el cultivo de cereales.

@@ -1,6 +1,6 @@
 id: 2aaf401f-2fba-4011-9325-182f00f48f41
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 29
-categories: Derechos y servicios sociales
+parent_chapter: b9acb21e-b2d4-4d2a-a551-e4c86a481336
 text: Propondremos el blindaje en la Constitución del Sistema Público de servicios sociales, como derecho fundamental, para consolidar el Cuarto Pilar del Estado del Bienestar, garantizando una cartera mínima de servicios de gestión descentralizada a través del impulso de una Ley Marco estatal de Servicios Sociales, consensuada con las comunidades autónomas, e impulsando una alianza con el Tercer Sector de Acción Social mediante un sistema de financiación estable de dichas entidades.
+categories: Derechos y servicios sociales

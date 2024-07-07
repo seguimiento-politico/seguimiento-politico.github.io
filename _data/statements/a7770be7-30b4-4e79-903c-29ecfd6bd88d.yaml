@@ -1,6 +1,6 @@
 id: a7770be7-30b4-4e79-903c-29ecfd6bd88d
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 231
-categories: Democracia
+parent_chapter: dbcc7ee6-627f-4108-bcf4-9b0b69036063
 text: Crearemos una estructura que coordine la celebración de las Conferencias Sectoriales y reúna toda la información de estas de manera unitaria, para mejorar la toma de decisiones y la transparencia. También potenciaremos las Conferencias Sectoriales para la Agenda 2030, el reto demográfico y el Plan de Recuperación, Transformación y Resiliencia, con un calendario común de reuniones y la publicación de todos los acuerdos alcanzados.
+categories: Democracia

@@ -1,6 +1,6 @@
 id: d182567d-00b0-4ddc-9a4d-4e7e46faadce
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 184
+parent_chapter: 4cc5030c-6a7b-4ee0-88d9-bc79252ec814
+text: Garantizaremos la integración de los postulados de la Carta de Derechos Digitales en el ordenamiento jurídico nacional con especial atención a la protección y garantías de la infancia, impulsando iniciativas para su extensión a nivel europeo e internacional.
 categories: Derechos y servicios sociales
 topics: Infancia
-text: Garantizaremos la integración de los postulados de la Carta de Derechos Digitales en el ordenamiento jurídico nacional con especial atención a la protección y garantías de la infancia, impulsando iniciativas para su extensión a nivel europeo e internacional.

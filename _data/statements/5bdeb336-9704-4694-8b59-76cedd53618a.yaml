@@ -1,6 +1,6 @@
 id: 5bdeb336-9704-4694-8b59-76cedd53618a
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 153
+parent_chapter: 8d16346d-a750-4f6d-b795-8e8d41f77c1d
+text: Extenderemos el acceso a recursos socioeconómicos como víctimas directas de la violencia de género a efectos administrativos hasta los 26 años a las hijas e hijos de las mujeres asesinadas.
 categories: Derechos y servicios sociales
 topics:
 - Infancia
 - Orfandad
-text: Extenderemos el acceso a recursos socioeconómicos como víctimas directas de la violencia de género a efectos administrativos hasta los 26 años a las hijas e hijos de las mujeres asesinadas.

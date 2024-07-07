@@ -1,6 +1,6 @@
 id: e33cd113-b8ad-4998-9c55-4fc756fe3d54
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 135
+parent_chapter: d5ff476e-21ed-4e90-9c4b-b4adb4a8f9a7
+text: La Unión Europea no puede convertirse en una máquina implacable de imponer normas que, lejos de ayudar y potenciar nuestro campo e industria, le obligue a competir en desigualdad de condiciones con productos del exterior. Exigiremos la recuperación y aplicación del principio de preferencia comunitaria como principio jurídico de alcance general y absoluto en todos aquellos acuerdos comerciales que nos afecten, así como medidas para combatir la competencia desleal de productos de terceros países.
 categories:
 - Política internacional
-text: La Unión Europea no puede convertirse en una máquina implacable de imponer normas que, lejos de ayudar y potenciar nuestro campo e industria, le obligue a competir en desigualdad de condiciones con productos del exterior. Exigiremos la recuperación y aplicación del principio de preferencia comunitaria como principio jurídico de alcance general y absoluto en todos aquellos acuerdos comerciales que nos afecten, así como medidas para combatir la competencia desleal de productos de terceros países.

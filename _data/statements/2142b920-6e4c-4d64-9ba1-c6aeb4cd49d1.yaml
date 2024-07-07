@@ -1,7 +1,6 @@
 id: 2142b920-6e4c-4d64-9ba1-c6aeb4cd49d1
 type: promise
-parent_statement: 46f231b3-22b5-484f-a7d9-40dbde976c2c
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 46f231b3-22b5-484f-a7d9-40dbde976c2c
+parent_chapter: b3f71622-6590-4ea3-b839-4254df880fe7
+text: Refuerzo de la presencia de las Administraciones públicas, con beneficios fiscales o incentivos económicos a los empleados públicos que se comprometan a trabajar y residir en las zonas rurales un mínimo de cinco años.
 categories: Territorio rural
 topics: Igualdad
-text: Refuerzo de la presencia de las Administraciones públicas, con beneficios fiscales o incentivos económicos a los empleados públicos que se comprometan a trabajar y residir en las zonas rurales un mínimo de cinco años.

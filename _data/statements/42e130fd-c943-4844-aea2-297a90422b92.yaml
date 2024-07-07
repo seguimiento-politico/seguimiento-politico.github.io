@@ -1,6 +1,6 @@
 id: 42e130fd-c943-4844-aea2-297a90422b92
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 10
+parent_chapter: 80f33f13-c365-4098-ac18-6210795cdb15
+children_promises:
+- 1b360286-e059-4d6f-998e-7fef7259b835
+children_statements: []
+title: Crear un dispositivo de “primer empleo”
 categories:
 - Economía
-title: Crear un dispositivo de “primer empleo”
-has_children: true

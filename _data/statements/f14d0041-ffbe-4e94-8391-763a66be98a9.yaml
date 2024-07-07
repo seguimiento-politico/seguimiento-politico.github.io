@@ -1,6 +1,6 @@
 id: f14d0041-ffbe-4e94-8391-763a66be98a9
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 20
-categories: Trabajo
+parent_chapter: 2817bce5-ff8f-4e37-968e-c4f707d06358
 title: DOTAREMOS DE NUEVAS HERRAMIENTAS DE FLEXIBILIDAD A LOS TRABAJADORES.
 text: Introduciremos cuentas individuales para los trabajadores, portables, que puedan usar ante diversas contingencias de su vida laboral para ganar en equidad, eficiencia y productividad. Estas cuentas acompañarán al trabajador durante su vida laboral, y se nutrirán a través de aportaciones mensuales de las empresas, con una parte de las cotizaciones sociales que ya abonan. Este mecanismo mejorará la protección de los trabajadores y eliminará barreras a los cambios de empleo voluntarios de los trabajadores con mayor antigüedad.
+categories: Trabajo

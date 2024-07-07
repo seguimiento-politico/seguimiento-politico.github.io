@@ -1,7 +1,6 @@
 id: 9da3750a-6d2c-472d-81a3-94389fb1159d
-type: declaration
-parent_statement: f5827007-c6c5-48fc-a687-68a4afd3b0df
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,6 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 39
+parent_statement: f5827007-c6c5-48fc-a687-68a4afd3b0df
+parent_chapter: 1e1d9fec-722c-4fe5-83c8-753b161e1073
+text: o Partimos de un modelo concentrado, en el que los destinos de sol y playa suponen el 65% de la oferta y la demanda. Seguiremos apostando por los destinos maduros y apoyando a los nuevos destinos emergentes repartidos por todo el territorio, mejorando la accesibilidad y la movilidad.
 categories: Turismo
 topics: Desarrollo sostenible
-text: o Partimos de un modelo concentrado, en el que los destinos de sol y playa suponen el 65% de la oferta y la demanda. Seguiremos apostando por los destinos maduros y apoyando a los nuevos destinos emergentes repartidos por todo el territorio, mejorando la accesibilidad y la movilidad.

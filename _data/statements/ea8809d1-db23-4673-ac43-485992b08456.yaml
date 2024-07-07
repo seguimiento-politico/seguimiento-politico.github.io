@@ -1,7 +1,6 @@
 id: ea8809d1-db23-4673-ac43-485992b08456
 type: promise
-parent_statement: 3f8ee0f1-769e-42ec-a7f3-58b1de6fd9ce
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 3f8ee0f1-769e-42ec-a7f3-58b1de6fd9ce
+parent_chapter: 66cf6219-da39-4941-aa1a-c1b88e89ed00
+text: Territorios de los 30 minutos. Garantizaremos la financiación de servicios de movilidad suficientes para que la dotación de servicios públicos en el conjunto del territorio esté disponible en un tiempo de viaje inferior a los 30 minutos, con especial atención a las peculiaridades tanto de las áreas metropolitanas como de la España vaciada. Impulsaremos la creación de conexiones intermodales, incluidas las ciclistas, dignas y coordinadas con el transporte de mayor frecuencia y capacidad, para facilitar el acceso a todo el territorio estatal. Trabajaremos para que el tren y el autobús sean modos sostenibles, flexibles y eficientes de transporte.
 categories: Transporte
 topics: Movilidad sostenible
-text: Territorios de los 30 minutos. Garantizaremos la financiación de servicios de movilidad suficientes para que la dotación de servicios públicos en el conjunto del territorio esté disponible en un tiempo de viaje inferior a los 30 minutos, con especial atención a las peculiaridades tanto de las áreas metropolitanas como de la España vaciada. Impulsaremos la creación de conexiones intermodales, incluidas las ciclistas, dignas y coordinadas con el transporte de mayor frecuencia y capacidad, para facilitar el acceso a todo el territorio estatal. Trabajaremos para que el tren y el autobús sean modos sostenibles, flexibles y eficientes de transporte.

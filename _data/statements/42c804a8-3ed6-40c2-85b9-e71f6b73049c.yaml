@@ -1,7 +1,6 @@
 id: 42c804a8-3ed6-40c2-85b9-e71f6b73049c
 type: promise
-parent_statement: d3fe492e-4670-4ee2-8e75-672e0f30be5f
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Seguridad y defensa
+parent_statement: d3fe492e-4670-4ee2-8e75-672e0f30be5f
+parent_chapter: 66b190ef-617c-438a-adf3-a3c9f707719b
 text: Se articulará una red estatal de resolución comunitaria de conflictos leves no judicializados promoviendo la cohesión social y generando condiciones colectivas de escucha, entendimiento, confianza, respeto y cuidado.
+categories: Seguridad y defensa

@@ -1,7 +1,6 @@
 id: e20d7605-5c8a-4ea1-922c-a4dbb0f4beeb
 type: promise
-parent_statement: 35245f8b-8cf2-47fc-bbd7-38519c7756ef
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_statement: 35245f8b-8cf2-47fc-bbd7-38519c7756ef
+parent_chapter: 5d726eb0-d9d8-487a-b54a-76273c1b0a4a
+text: Impulsaremos el talento en estos ámbitos, reforzando las competencias del sistema educativo y de formación para el empleo relacionado con la nube.
 categories: Economía
 topics: Digitalización
-text: Impulsaremos el talento en estos ámbitos, reforzando las competencias del sistema educativo y de formación para el empleo relacionado con la nube.

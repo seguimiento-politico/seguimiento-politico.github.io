@@ -1,6 +1,6 @@
 id: 7be7e497-7da5-411a-aaf7-82e74965310a
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 251
+parent_chapter: 331ce36f-074b-4465-862b-e49ae81827a5
+text: Abordaremos la cuestión desde la garantía del derecho a la vivienda y la atención social a la vulnerabilidad.
 categories: Vivienda
 topics: Ocupación
-text: Abordaremos la cuestión desde la garantía del derecho a la vivienda y la atención social a la vulnerabilidad.

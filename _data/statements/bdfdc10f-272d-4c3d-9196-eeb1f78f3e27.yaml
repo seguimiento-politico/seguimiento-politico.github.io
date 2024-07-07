@@ -1,6 +1,6 @@
 id: bdfdc10f-272d-4c3d-9196-eeb1f78f3e27
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 134
+parent_chapter: b5417c2b-2bd9-455f-a227-1ac572dbd434
+children_promises:
+- f54e397a-b66c-48be-8b30-b5cd9c6d9d6f
+- 1b69c5b9-955f-4cc2-b34d-7b6f134f5996
+- 22f60118-081a-44af-992c-1d5efa507f0f
+children_statements: []
+title: Respaldo del reconocimiento y reparación de la represión sufrida por las personas LGTBI+ durante el franquismo y reivindicar, social e institucionalmente, el papel cumplido por el movimiento LGTBI+ en la lucha por las libertades y la democracia.
 categories: Democracia
 topics: Memoria democrática
-title: Respaldo del reconocimiento y reparación de la represión sufrida por las personas LGTBI+ durante el franquismo y reivindicar, social e institucionalmente, el papel cumplido por el movimiento LGTBI+ en la lucha por las libertades y la democracia.
-has_children: true

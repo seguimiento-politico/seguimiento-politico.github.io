@@ -1,7 +1,6 @@
 id: 698ac8d9-5bab-42a9-b3cc-c7e36a2e1a58
 type: promise
-parent_statement: 90a660a0-4d5b-4490-8295-e6b8bb17ee6c
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Impuestos y financiación pública
+parent_statement: 90a660a0-4d5b-4490-8295-e6b8bb17ee6c
+parent_chapter: ea2982af-8671-4013-b30b-3217bd021e2a
 text: El objetivo es contar con una administración tributaria más proactiva y accesible, que facilite el cumplimiento de las obligaciones tributarias y el conocimiento ciudadano de para qué se utilizan los impuestos.
+categories: Impuestos y financiación pública

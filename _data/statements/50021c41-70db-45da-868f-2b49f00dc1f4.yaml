@@ -1,6 +1,6 @@
 id: 50021c41-70db-45da-868f-2b49f00dc1f4
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 31
+parent_chapter: d2c0df99-3ffc-40e6-8a73-ea47b1843285
+text: Implementaremos un programa de exhumaciones de las víctimas del franquismo que continúan en fosas comunes.
 categories: Democracia
 topics: Memoria democrática
-text: Implementaremos un programa de exhumaciones de las víctimas del franquismo que continúan en fosas comunes.

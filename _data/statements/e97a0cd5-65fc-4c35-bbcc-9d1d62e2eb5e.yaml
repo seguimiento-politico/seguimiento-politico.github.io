@@ -1,6 +1,6 @@
 id: e97a0cd5-65fc-4c35-bbcc-9d1d62e2eb5e
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 129
-categories: Justicia
+parent_chapter: 56b5cfcf-2ae7-45fc-8107-8895d50c775d
+children_promises:
+- 71ec4619-3008-435b-a56a-ec40814ffb69
+children_statements:
+- 3a9c7038-e54d-4230-a1b3-8722228d0045
 title: Recuperación de la justicia universal penal como medio para evitar la impunidad de acciones que atentan contra los derechos más fundamentales del ser humano y garantizar la realización del valor de la justicia.
-has_children: true
+categories: Justicia

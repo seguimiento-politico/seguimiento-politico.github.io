@@ -1,7 +1,6 @@
 id: d5b7817c-d764-432e-8d6d-067f975cdb81
 type: promise
-parent_statement: 6e194a32-5196-47b8-8b43-577a0e2ffd1b
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Seguridad y defensa
+parent_statement: 6e194a32-5196-47b8-8b43-577a0e2ffd1b
+parent_chapter: 66b190ef-617c-438a-adf3-a3c9f707719b
 text: Es necesaria una nueva visión de la profesión policial en consonancia con un nuevo modelo de seguridad, basada en nuevas habilidades y funciones y una mayor apertura a la sociedad, asegurando que la selección, formación y promoción interna garanticen la diversidad e igualdad de oportunidades para mujeres y colectivos infrarrepresentados en los cuerpos de seguridad.
+categories: Seguridad y defensa

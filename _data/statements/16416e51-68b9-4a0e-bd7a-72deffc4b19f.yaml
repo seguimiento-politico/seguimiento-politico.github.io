@@ -1,6 +1,6 @@
 id: 16416e51-68b9-4a0e-bd7a-72deffc4b19f
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,7 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 9
+parent_chapter: 298cb86d-a349-4888-aba4-5567f2db236a
+text: Señalizaremos, al menos en español, todas las carreteras y vías urbanas del territorio nacional.
 categories: Derechos y servicios sociales
 topics:
 - Igualdad
-text: Señalizaremos, al menos en español, todas las carreteras y vías urbanas del territorio nacional.

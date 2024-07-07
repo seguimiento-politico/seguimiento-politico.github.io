@@ -1,6 +1,6 @@
 id: 402405cb-323d-404d-8b81-97f3e5530fd7
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 56
+parent_chapter: 754946a2-5f02-4a15-929b-dc9e8a58fe80
+children_promises:
+- 9a8a1eed-0c66-4437-83cc-64b1e14a71cb
+- b1da1ef5-990a-4b7f-ab64-5a597780cfba
+- 6b012855-c1d8-49b6-9213-d5048cc4702b
+children_statements: []
+title: Derogación de la Ley 18/2013 de protección cultural y patrimonial de la tauromaquia
 categories: Civismo
 topics: Bienestar animal
-title: Derogación de la Ley 18/2013 de protección cultural y patrimonial de la tauromaquia
-has_children: true

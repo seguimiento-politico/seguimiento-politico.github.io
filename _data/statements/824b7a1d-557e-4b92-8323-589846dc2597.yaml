@@ -1,7 +1,6 @@
 id: 824b7a1d-557e-4b92-8323-589846dc2597
 type: promise
-parent_statement: f6d9a713-3b0c-4359-af57-310287a3317b
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Política internacional
+parent_statement: f6d9a713-3b0c-4359-af57-310287a3317b
+parent_chapter: 4d3afa99-1301-4519-a703-6dfe49d7e832
 text: Trabajaremos desde la Unión Europea para defender el cumplimiento de las sentencias de la justicia europea relativas al Sáhara Occidental y revisar, en consecuencia, los diferentes acuerdos entre la Unión Europea y Marruecos que puedan afectar al Sáhara Occidental.
+categories: Política internacional

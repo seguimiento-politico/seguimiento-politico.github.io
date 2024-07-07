@@ -1,0 +1,20 @@
+name: Criterios objetivos
+other: []
+other_count: 0
+position_negative: []
+position_negative_count: 0
+position_positive:
+- &id001
+  id: 6e2ca434-d940-4345-8ff2-2ce6fd032a77
+  parties:
+  - VOX
+position_positive_count: 1
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+statements_count: 1
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

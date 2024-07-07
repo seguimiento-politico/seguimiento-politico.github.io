@@ -1,6 +1,6 @@
 id: 52548516-2b1a-458f-94f7-ab4a81f83d12
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 36
-categories: Política internacional
+parent_chapter: 7c3ce181-3fa0-4eb6-86d9-6ef9ed0c64d6
+children_promises:
+- ca131eca-b32e-4d30-82b8-96deb2adebf6
+children_statements: []
 title: Promover en la Asamblea de Naciones Unidas la creación de una Agencia Internacional de Seguridad y Derechos Digitales, con sede en España
-has_children: true
+categories: Política internacional

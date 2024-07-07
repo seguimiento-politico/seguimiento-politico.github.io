@@ -1,6 +1,6 @@
 id: 888caf81-0172-4576-9de8-5b5419b647c2
-type: declaration
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+type: statement
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 145
+parent_chapter: b02c7ae9-7dac-4eaa-9314-57d155a1078e
+text: Proposición no de Ley por la que se insta al Gobierno a promover la persecución de los crímenes de lesa humanidad cometidos por el régimen de Nicolás Maduro en Venezuela (septiembre 2021).
 categories:
 - Política internacional
-text: Proposición no de Ley por la que se insta al Gobierno a promover la persecución de los crímenes de lesa humanidad cometidos por el régimen de Nicolás Maduro en Venezuela (septiembre 2021).

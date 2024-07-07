@@ -1,7 +1,6 @@
 id: bc449c99-25c0-4aec-ba8d-3c66bfa33f75
 type: promise
-parent_statement: ec02c96a-4901-41ed-b1b9-dd027c7b45de
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: ec02c96a-4901-41ed-b1b9-dd027c7b45de
+parent_chapter: 63ab839a-6275-4d54-bf9b-ec036a685a75
+text: Es necesario establecer un diálogo internacional que tenga en cuenta las diferencias culturales y abandone los legados coloniales e imperiales. Se deben organizar foros en el marco de los organismos internacionales para impulsar estas conversaciones y una fraternidad «conectada» así como evitar que los imperios en declive cancelen las demandas populares.
 categories: Educación
 topics: Digitalización
-text: Es necesario establecer un diálogo internacional que tenga en cuenta las diferencias culturales y abandone los legados coloniales e imperiales. Se deben organizar foros en el marco de los organismos internacionales para impulsar estas conversaciones y una fraternidad «conectada» así como evitar que los imperios en declive cancelen las demandas populares.

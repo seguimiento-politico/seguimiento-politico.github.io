@@ -1,6 +1,6 @@
 id: 2a1e6946-d22e-493d-a51a-a2e1bf7c14e0
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 68
+parent_chapter: 1d4a4787-163e-4649-b875-f97fd3780649
+text: Seguiremos avanzando para lograr la conectividad digital en 100% del territorio, acorde a las aplicaciones del sector agroalimentario, como el internet de las cosas o la industria 4.0 y la conexión digital para el 100% de la población en 2025, generando oportunidades para el medio rural.
 categories:
 - Agricultura
 - Ganadaría
 topics: Desarrollo sostenible
-text: Seguiremos avanzando para lograr la conectividad digital en 100% del territorio, acorde a las aplicaciones del sector agroalimentario, como el internet de las cosas o la industria 4.0 y la conexión digital para el 100% de la población en 2025, generando oportunidades para el medio rural.

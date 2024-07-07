@@ -1,6 +1,6 @@
 id: 8d8a1a98-d987-4caf-be9f-6595f1967a31
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 264
+parent_chapter: 79744ba7-ffbb-40f2-b730-179f4a4aec89
+text: Seguiremos impulsando el sistema de Cumbres Iberoamericanas y proyectos conjuntos como la Carta de Derechos Digitales iberoamericana.
 categories: Política internacional
 topics: América latina
-text: Seguiremos impulsando el sistema de Cumbres Iberoamericanas y proyectos conjuntos como la Carta de Derechos Digitales iberoamericana.

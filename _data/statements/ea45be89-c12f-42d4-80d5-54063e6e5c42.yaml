@@ -1,11 +1,12 @@
 id: ea45be89-c12f-42d4-80d5-54063e6e5c42
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 33
-categories: Educación
+parent_chapter: d01d08b0-ad16-47ca-a6fa-7d638f061cfa
 text: Garantizaremos el derecho de las familias a que puedan estudiar la asignatura de religión en las mismas condiciones que el resto de asignaturas del programa oficial y mantendremos su carácter voluntario y evaluable.
+categories: Educación

@@ -1,7 +1,6 @@
 id: c99c817c-0d0e-4c47-a574-257ed4b19aae
 type: promise
-parent_statement: 372943da-8c6b-41bf-a1d7-1467f78b13aa
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,5 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 270
-categories: Seguridad y Defensa
+parent_statement: 372943da-8c6b-41bf-a1d7-1467f78b13aa
+parent_chapter: ff200f89-fcf9-409d-908e-4ca3fd75edb8
 text: Mantendremos el impulso dado en la anterior legislatura a los programas de los vehículos VCR 8X8, fragatas F-110, submarinos S-80, sistema FCAS/NGWS, cazas Halcon y drones Euromale.
+categories: Seguridad y Defensa

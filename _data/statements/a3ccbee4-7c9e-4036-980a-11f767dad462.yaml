@@ -1,6 +1,6 @@
 id: a3ccbee4-7c9e-4036-980a-11f767dad462
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 60
+parent_chapter: de18231f-ea27-483e-81a9-f51977d7f26c
 title: Reconocer el derecho de sufragio a partir de los 16 años.
 text: Frente al discurso conservador que dice que la juventud no se interesa por la política, estos meses hemos visto las calles llenas de jóvenes defendiendo el feminismo el 8M y la lucha contra el cambio climático el 15 de marzo La juventud quiere un país mejor y debe poder participar Además, a partir de esta edad, se les reconoce la capacidad para realizar actividades como trabajar, emanciparse o conducir, por lo que no está justificado restringirles el voto.

@@ -1,6 +1,6 @@
 id: a46944c4-4f63-484c-9ff6-73e96cd9ef83
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 87
-categories: Derechos y servicios sociales
+parent_chapter: 6bea7d15-32ea-402e-8fad-42663ddea615
+children_promises:
+- 5f200e2b-7c49-4498-8cf5-11c6a275b5f4
+- f9cb7089-ed77-4d4c-8562-27b99b38cdde
+children_statements:
+- dbe0bb32-e236-4136-8b35-e072a7f77c0b
 title: Universalización efectiva de los servicios sociales.
-has_children: true
+categories: Derechos y servicios sociales

@@ -1,7 +1,6 @@
 id: 99406bed-579a-4d4c-8a38-49462f356d4f
 type: promise
-parent_statement: d1aefdf4-e1c3-4b94-95f5-d38a214f4e33
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Cultura
+parent_statement: d1aefdf4-e1c3-4b94-95f5-d38a214f4e33
+parent_chapter: 3c3b6e77-c208-4e24-b285-18f9fd80d11c
 text: Por último, se debe asegurar que la velocidad de las conexiones a Internet sea al menos equiparable a la de los países más avanzados en este ámbito.
+categories: Cultura

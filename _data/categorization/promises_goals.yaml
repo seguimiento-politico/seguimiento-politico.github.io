@@ -35,82 +35,176 @@ parent_goals:
 - Seguridad alimentaria
 - Crecimiento económico justo
 topics:
-- Terrorismo
-- Energías renovables
-- Alimentación saludable
-- Comercio interior
-- Ciberseguridad
-- Ganadería extensiva
-- Violencia de género
-- Dependencia
-- Empleo público
-- españa vaciada
-- Igualdad
-- juego
-- Tuberculosis bovina
-- cambio climático - adaptación
-- inteligencia artificial
-- Protección menores
-- Digitalización
-- Desinformación
-- Derechos digitales
-- Privacidad digital
-- Bienestar animal
-- digitalización
-- Europa
-- software libre
-- Contratación pública
-- Blanqueo capitales
-- Crimen organizado
-- Libertad de expresión
-- privacidad digital
-- Democracia participativa
-- Tauromaquia
-- Natalidad
-- cambio climático - mitigación
-- Razas autóctonas
-- alimentación
-- Autónomos
-- Cuidados dependencia
-- igualdad
-- Impuesto de sociedades
-- Computación cuántica
-- Conciliación
-- Semiconductores
-- igualdad de gnénero
-- Oposiciones
-- Fiscalidad verde
-- privacidad digiltal
-- Fraude fiscal
-- Microelectrónica
-- Cambio climático - mitigación
-- consumo responsable
-- Lenguas cooficiales
-- Desigualdad
-- Alquiler
-- Economía verde
-- feminismo
-- Inteligencia artificial
-- PAC
-- Economía circular
-- vivienda pública
-- Vehículo eléctrico
-- 6G
-- Multinacionales
-- Comercio exterior
-- Sistema electoral
-- pymes
-- Reciclaje
-- eficiencia energética
-- Innovación
-- Mecenazgo
-- América latina
-- reciclaje
-- Redes sociales
-- Jornada laboral
-- racismo
-- Lengua española
-- Vientre alquiler
-- Hipotecas
-- Lenguas
-
+- name: Terrorismo
+- name: Energías renovables
+- name: Alimentación saludable
+- name: Comercio interior
+- name: Ciberseguridad
+- name: Ciberdelitos
+- name: Ciberacoso
+- name: Ganadería extensiva
+- name: Violencia de género
+- name: Dependencia
+- name:  Empleo público
+- name: españa vaciada
+- name: Igualdad
+- name: juego
+- name: Tuberculosis bovina
+- name: Inteligencia artificial
+- name: Protección menores
+- name: Digitalización
+- name: Desinformación
+- name: Derechos digitales
+- name: Privacidad digital
+- name: Bienestar animal
+- name: digitalización
+- name: Europa
+- name: software libre
+- name: Contratación pública
+- name: Blanqueo capitales
+- name: Crimen organizado
+- name: Libertad de expresión
+- name: privacidad digital
+- name: Democracia participativa
+- name: Tauromaquia
+- name: Natalidad
+- name: Cambio climático
+- name: cambio climático - adaptación
+- name: cambio climático - mitigación
+- name: Razas autóctonas
+- name: alimentación
+- name: Autónomos
+- name: Cuidados dependencia
+- name: Igualdad
+- name: Libertad
+- name: Impuesto de sociedades
+- name: Computación cuántica
+- name: Conciliación
+- name: Semiconductores
+- name: igualdad de gnénero
+- name: Oposiciones
+- name: Fiscalidad verde
+- name: privacidad digiltal
+- name: Fraude fiscal
+- name: Microelectrónica
+- name: Cambio climático - mitigación
+- name: consumo responsable
+- name: Lenguas cooficiales
+- name: Desigualdad
+- name: Alquiler
+- name: Economía verde
+- name: Economía social
+- name: feminismo
+- name: [PAC, Política Agraria Común]
+- name: Economía circular
+- name: vivienda pública
+- name: Vehículo eléctrico
+- name: 6G
+- name: Multinacionales
+- name: Comercio exterior
+- name: Sistema electoral
+- name: pymes
+- name: Reciclaje
+- name: eficiencia energética
+- name: Innovación
+- name: Mecenazgo
+- name: América latina
+- name: reciclaje
+- name: Redes sociales
+- name: Jornada laboral
+- name: racismo
+- name: Lengua española
+- name: Vientre alquiler
+- name: Hipotecas
+- name: Lenguas
+- name: Reindustrialización
+- name: Ayudas y subvenciones
+- name: Burocracia
+- name: Homologación educativa
+- name: Homologación laboral
+- name: Homologación normativa
+- name: Homologación fiscal
+- name: Homologación sanidad
+- name: Erasmus
+- name: Formación continua
+- name: Formación profesional
+- name: Empleo juvenil
+- name: Familias numerosas
+- name: Tipos de familia
+- name: Discapacidad
+- name: Abandono escolar
+- name: Libre elección centro educativo
+- name: Libre elección lengua de enseñanza
+- name: Envejecimiento activo
+- name: Residencias de mayores
+- name: Aranceles
+- name: Seguía
+- name: Desertización
+- name: Incendios
+- name: Biodiversidad
+- name:   Soberanía energética
+  def: se refiere a la capacidad de un país o una región para controlar y gestionar sus propios recursos y necesidades energéticas de manera autónoma, sin depender excesivamente de fuentes de energía externas.
+- name: Investigación
+- name: Guerras
+- name: Ejército europeo
+- name: Policía europea
+- name: OTAN
+- name:  [ONU, Naciones Unidas]
+- name:  [UE, Unión Europea] 
+- name: Tráfico de drogas
+- name: Trata de personas
+- name:   Frontex
+  def: Agencia Europea de la Guardia de Fronteras y Costas, es una agencia de la Unión Europea (UE) creada para gestionar la cooperación entre los Estados miembros en materia de gestión de fronteras exteriores.
+- name:   Regiones ultraperiféricas
+  def: son territorios que forman parte de algunos Estados miembros de la Unión Europea (UE) pero que se encuentran geográficamente distantes del continente europeo.
+- name: Canarias
+- name: Ceuta y Melilla
+- name:   Demagogia
+  def:  se refiere a una estrategia política en la que un líder o partido apela a las emociones, prejuicios y deseos del público para ganar apoyo y poder, a menudo a través de promesas falsas o poco realistas y retórica engañosa, la desinformación y la polarización.
+- name:   Populismo
+  def: Aunque a veces se usa de manera intercambiable con demagogia, el populismo se refiere a políticas que pretenden representar al pueblo común, a menudo en contra de una élite. Sin embargo, el término puede tener una connotación negativa cuando se considera que tales políticas son simplistas o irresponsables.
+- name:   Elitismo
+  def: término para describir políticas o actitudes contrarias al interés del pueblo. Enfatiza la preferencia o el apoyo hacia una élite específica, implicando una distancia o desconexión con el pueblo en general.
+- name: Nacionalismo
+- name: Tribunal Constitucional Europeo
+- name: Sectores estratégicos
+- name: Política estratégica
+- name: Desastres naturales
+- name: Gestión de riesgos
+- name: Educación en valores
+- name:   Estados Unidos de Europa
+  def: se refiere a una visión o concepto de integración y unificación política y económica completa de los países europeos.
+- name: Delincuencia
+- name: [Independentismo, Separatismo]
+- name: Cataluña
+- name: Gibraltar
+- name: Marruecos
+- name: Sáhara
+- name: [Racionalización del gasto, Optimización del gasto, Control de gasto]
+  def: Equivalente a optimización.Estrategias para hacer que el gasto público sea más eficiente y efectivo, eliminando gastos innecesarios y reasignando recursos a áreas prioritarias.
+- name: [Austeridad del gasto, Reducción de gasto]
+  def: Políticas que buscan reducir el déficit y la deuda pública mediante la reducción del gasto público y/o el aumento de los ingresos fiscales. Aunque puede incluir la reducción de gastos superfluos, también puede implicar recortes en áreas esenciales.
+- name: Europa del sur
+  def: Referente a los paises del sur de Europa. Suele corresponderse con, al menos, Portugal, España, Italia y Grecia. En ocasiones también se incluyen países del Adriático.
+- name: Despotismo
+  def: Gobierno en el que el gobernante tiene poder absoluto y puede actuar de manera arbitraria y opresiva, a menudo ignorando el bienestar del pueblo.
+- name: Nepotismo
+  def: Práctica de favorecer a familiares o amigos, lo que puede llevar a decisiones que no benefician al interés público. Equivalente a "enchufismo".
+- name: Clientelismo
+  def: Práctica en la que los políticos distribuyen recursos y favores a cambio de apoyo político, lo que puede ir en detrimento del bien común y fomentar la corrupción.
+- name: Corrupción
+  def: Práctica de usar el poder en beneficio propio, a menudo a través de sobornos, desvío de fondos y otras formas de mala conducta que van en detrimento del bienestar público.
+- name: Paraísos fiscales
+  def: son jurisdicciones que ofrecen condiciones muy favorables para atraer capital extranjero, tales como impuestos muy bajos, leyes estrictas de confidencialidad bancaria, y regulaciones financieras mínimas.
+- name: Pacto Verde Europeo
+- name: Agenda 2030
+- name: [Desarrollo sostenible, ODS]
+  def: es un concepto que busca equilibrar el progreso económico y social con la protección del medio ambiente.
+- name: Inmigración ilegal
+- name: [Tradiciones, Costumbres]
+- name: PP
+- name: [PSOE, Socialistas]
+- name: Agricultura ecológica
+- name: Ganadería ecológica
+- name: Competencia desigual
+- name: Inflación

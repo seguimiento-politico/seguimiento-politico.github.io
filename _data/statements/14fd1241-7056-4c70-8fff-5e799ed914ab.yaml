@@ -1,6 +1,6 @@
 id: 14fd1241-7056-4c70-8fff-5e799ed914ab
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 31
-categories: Impuestos y financiación pública
+parent_chapter: 973680ce-e0de-4a19-97fc-c89b80dc0b61
 text: Para llevar a cabo todas las medidas anteriormente propuestas, se requiere un mayor volumen de recursos públicos, que deben proceder, en primer lugar, de la máxima eficacia en el gasto público, de acuerdo con las indicaciones de la AIREF, sin comportar aumento ni del déficit ni de la deuda pública. A ello hay que añadir una mayor justicia fiscal, sin la cual no podremos conseguir mayor justicia social; quienes más capacidad económica tienen deberán contribuir en mayor medida a la garantía de los derechos sociales, lo que supone a su vez una mayor garantía de estabilidad y de prosperidad económica para toda la ciudadanía.
+categories: Impuestos y financiación pública

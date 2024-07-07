@@ -1,0 +1,17 @@
+---
+layout: page
+---
+<!-- TODO: Estudiar la posibilidad de incluir/heredar statements de topics inferiores en jerarquía -->
+<!-- load common variables -->
+{% assign topic_data = site.data.topics | where: 'name', page.topic_name %}
+{% assign topic_data = topic_data[0] %}
+
+{% assign actions_positive = topic_data.proposed_actions | where: 'effect', 'positive' %}
+{% assign actions_negative = topic_data.proposed_actions | where: 'effect', 'negative' %}
+
+{% assign actions_positive = actions_positive[0] %}
+{% assign actions_negative = actions_negative[0] %}
+
+{{ content }}
+
+{% include topic.html %}

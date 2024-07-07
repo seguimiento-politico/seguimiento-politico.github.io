@@ -1,6 +1,6 @@
 id: 920542a0-f233-4bc0-ae88-2e4e18e0adee
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 17
+parent_chapter: 14cfe70b-f6b5-4003-88f7-02a877dec28f
 title: Elaborar una Política Agrícola Común (PAC) más justa.
 text: 'España tiene cerca de 800 000 explotaciones agrarias y ganaderas, la mayoría de ellas familiares, que contribuyen con su actividad a la vertebración del territorio rural, al mantenimiento de los ecosistemas y paisajes, a la generación de importantes bienes inmateriales y a la producción del 70 % de los alimentos frescos que consumimos El objetivo de la PAC no puede ser mantener un sistema de derechos históricos, sino apoyar a quienes de verdad desempeñan la actividad: los productores y las productoras, y hacerlo de manera proporcionada a sus necesidades económicas, con menos complejidad burocrática y con mayor transparencia en los mecanismos de gestión y aplicación de los fondos Por ello, defenderemos en la Unión Europea, con todos los mecanismos a disposición de un Estado importante como el nuestro, que la PAC forme parte de la estrategia para la transición ecológica y el futuro del medio rural, e impulse la ganadería extensiva y sectores con gran aporte social y ambiental, como los frutos secos o el olivar tradicional, así como otros nuevos, como el azafrán También exigiremos que la PAC refuerce las protecciones especiales para la agricultura insular y de montaña y para garantizar un futuro viable al pastoralismo, que genera productos de alta calidad, potencia y conserva la biodiversidad, y ayuda a prevenir incendios y a luchar contra el cambio climático, por ejemplo, recuperando vías pecuarias e implementando una estrategia adecuada de sanidad animal no gravosa para las pequeñas explotaciones Una nueva PAC necesita destinar al menos el 10 % de los fondos a establecer medidas eficaces que corrijan los desequilibrios del mercado, introduciendo ayudas directas a la incorporación de mujeres y complementarias para las que continúan la actividad, constituyendo un apoyo eficaz para la dedicación de la juventud y reforzando las ayudas y el asesoramiento a jóvenes para que tomen el relevo en las explotaciones'

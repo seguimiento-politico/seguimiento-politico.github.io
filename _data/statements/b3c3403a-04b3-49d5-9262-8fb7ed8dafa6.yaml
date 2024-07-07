@@ -1,11 +1,12 @@
 id: b3c3403a-04b3-49d5-9262-8fb7ed8dafa6
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 74
-categories: Economía
+parent_chapter: 930edcb6-d23f-4673-af50-fcc5f7634f84
 text: Impulsaremos la competitividad de la flota española y potenciaremos la promoción de los productos pesqueros nacionales. Promoveremos el sector marítimo para el impulso de la competitividad del tejido productivo, el incremento del empleo y el desarrollo de la economía azul.
+categories: Economía

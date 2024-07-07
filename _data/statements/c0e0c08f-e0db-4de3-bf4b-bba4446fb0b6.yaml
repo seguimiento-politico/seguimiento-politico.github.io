@@ -1,11 +1,12 @@
 id: c0e0c08f-e0db-4de3-bf4b-bba4446fb0b6
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 88
-categories: Seguridad y defensa
+parent_chapter: adfdbb68-8e6d-41fa-b953-fcd2789530ea
 text: Impulsaremos la modernización de los medios materiales a disposición de las FCSE poniendo a su servicio la mejor tecnología posible.
+categories: Seguridad y defensa

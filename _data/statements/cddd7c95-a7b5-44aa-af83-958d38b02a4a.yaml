@@ -1,6 +1,6 @@
 id: cddd7c95-a7b5-44aa-af83-958d38b02a4a
 type: promise
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 40
+parent_chapter: 4e2b1d48-8b93-4e01-9b1d-fc397d079fd0
+text: Desmontar los oligopolios informativos garantizando la imparcialidad, la libre competencia y la pluralidad en la concesión de licencias televisivas y radiofónicas.
 categories: Derechos y servicios sociales
 topics: Libertad de expresión
-text: Desmontar los oligopolios informativos garantizando la imparcialidad, la libre competencia y la pluralidad en la concesión de licencias televisivas y radiofónicas.

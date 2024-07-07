@@ -1,6 +1,6 @@
 id: 149f42ae-34ae-44e6-94ed-d7b76e6ec0a2
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 87
-categories: Derechos y servicios sociales
+parent_chapter: 6bea7d15-32ea-402e-8fad-42663ddea615
+children_promises:
+- b86a6811-a9e1-4c3a-9a65-0b878f9ed1c1
+children_statements:
+- b01ca6d0-56e0-4a0c-8fca-4e4a86b21b64
 title: Ley de Promoción de la Acción Comunitaria.
-has_children: true
+categories: Derechos y servicios sociales

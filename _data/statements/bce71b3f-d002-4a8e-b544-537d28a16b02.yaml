@@ -1,7 +1,6 @@
 id: bce71b3f-d002-4a8e-b544-537d28a16b02
 type: promise
-parent_statement: e3f9eebe-6b93-4046-b527-cd602ebd15e1
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: e3f9eebe-6b93-4046-b527-cd602ebd15e1
+parent_chapter: 63ab839a-6275-4d54-bf9b-ec036a685a75
+text: Es necesario fomentar el acompañamiento, la formación y el logro de todas las competencias digitales necesarias para una plena ciudadanía.
 categories: Educación
 topics: Digitalización
-text: Es necesario fomentar el acompañamiento, la formación y el logro de todas las competencias digitales necesarias para una plena ciudadanía.

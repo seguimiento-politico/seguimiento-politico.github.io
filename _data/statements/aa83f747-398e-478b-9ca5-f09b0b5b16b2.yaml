@@ -1,6 +1,6 @@
 id: aa83f747-398e-478b-9ca5-f09b0b5b16b2
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 65
-categories: Derechos y servicios sociales
+parent_chapter: d8e47013-d4f2-4ad6-a46d-2514ab7cb432
 text: ras los gravísimos hechos ocurridos en centros tutelares de varias regiones como Baleares o la Comunidad Valenciana, los distintos gobiernos han mirado para otro lado. Nosotros impulsaremos una auditoría y reforma completa del sistema tutelar español, que debe proteger a los niños en situaciones excepcionales de vulnerabilidad o de desamparo y proporcionarles urgentemente un hogar. Los menores extranjeros deben ser repatriados con sus padres a sus países de origen, revisaremos la legislación, protocolos y acuerdos con otros países para hacer efectivas estas repatriaciones.
+categories: Derechos y servicios sociales

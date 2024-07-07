@@ -1,6 +1,6 @@
 id: eea05d55-4e3d-4374-8671-147196bb7d7b
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_chapter: 85b67bf7-7776-40c7-a9d5-e7428dc47683
+text: 'Los y las socialistas hemos estado siempre a la vanguardia de la defensa de los derechos y libertades, y nuestra historia reciente demuestra que, cuando gobierna el Partido Socialista Obrero Español, todas y todos avanzamos. Desde la primera Ley de Igualdad de la democracia, pasando por la Ley contra la Violencia de Género, pionera en Europa, o la reciente aprobación de la llamada Ley Zerolo, la primera ley integral contra la discriminación, los y las socialistas demostramos con hechos nuestro compromiso con la igualdad y con la lucha contra la discriminación.<br><br> La lucha contra la violencia machista es una de nuestras absolutas e irrenunciables prioridades políticas. Por ello, y para lograr su total erradicación:'
 categories: Seguridad y defensa
 topics: Violencia de género
-text: 'Los y las socialistas hemos estado siempre a la vanguardia de la defensa de los derechos y libertades, y nuestra historia reciente demuestra que, cuando gobierna el Partido Socialista Obrero Español, todas y todos avanzamos. Desde la primera Ley de Igualdad de la democracia, pasando por la Ley contra la Violencia de Género, pionera en Europa, o la reciente aprobación de la llamada Ley Zerolo, la primera ley integral contra la discriminación, los y las socialistas demostramos con hechos nuestro compromiso con la igualdad y con la lucha contra la discriminación.<br><br> La lucha contra la violencia machista es una de nuestras absolutas e irrenunciables prioridades políticas. Por ello, y para lograr su total erradicación:'

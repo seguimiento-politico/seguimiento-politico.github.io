@@ -1,6 +1,6 @@
 id: 708b4e41-a531-47f2-8a18-bd10efc6db8f
-type: declaration
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+type: statement
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,4 +8,5 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 6
+parent_chapter: d398e1b7-4bfc-46c4-ac88-5e95589750d5
 text: Es el momento. Ha llegado la oportunidad que España llevaba tanto tiempo esperando. El 23 de julio los españoles tomaremos la palabra y expresaremos nuestra opinión y nuestros anhelos de una manera libre y democrática en las urnas.

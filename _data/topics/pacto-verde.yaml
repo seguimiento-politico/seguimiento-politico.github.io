@@ -1,0 +1,25 @@
+name: Pacto Verde
+other:
+- &id002
+  id: bcb35722-e19f-4f05-9276-8d83a0a445e8
+  parties:
+  - VOX
+other_count: 1
+position_negative:
+- &id001
+  id: 6e40c2e9-1737-449a-b34b-b58ee5d220ac
+  parties:
+  - VOX
+position_negative_count: 1
+position_positive: []
+position_positive_count: 0
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- *id002
+statements_count: 2
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

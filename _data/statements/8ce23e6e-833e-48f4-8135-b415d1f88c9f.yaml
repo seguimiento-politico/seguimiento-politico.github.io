@@ -1,7 +1,6 @@
 id: 8ce23e6e-833e-48f4-8135-b415d1f88c9f
-type: declaration
-parent_statement: aeac69b5-09cf-4072-9554-945079614e10
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+type: statement
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Derechos y servicios sociales
+parent_statement: aeac69b5-09cf-4072-9554-945079614e10
+parent_chapter: 6bea7d15-32ea-402e-8fad-42663ddea615
 text: null
+categories: Derechos y servicios sociales

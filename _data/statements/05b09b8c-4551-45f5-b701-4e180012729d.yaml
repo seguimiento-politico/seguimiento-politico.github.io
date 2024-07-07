@@ -1,7 +1,6 @@
 id: 05b09b8c-4551-45f5-b701-4e180012729d
 type: promise
-parent_statement: 8112739f-6cce-4bee-8999-6731895e14f6
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 8112739f-6cce-4bee-8999-6731895e14f6
+parent_chapter: b82b7f57-da6b-4fd4-8a55-f1773ebd9608
+text: Dotar a nuestras instituciones de solidez pasa por simplificar los procesos, insistir en las medidas de transparencia, incorporar mecanismos de prevención de la corrupción (buzón anónimo para las personas denunciantes) y, sobre todo, reconocer que nuestra Administración necesita más recursos.
 categories: Democracia
 topics: Administración pública
-text: Dotar a nuestras instituciones de solidez pasa por simplificar los procesos, insistir en las medidas de transparencia, incorporar mecanismos de prevención de la corrupción (buzón anónimo para las personas denunciantes) y, sobre todo, reconocer que nuestra Administración necesita más recursos.

@@ -1,6 +1,6 @@
 id: ab71fbb7-816d-4f98-8111-88a7adb68205
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 103
+parent_chapter: f8348ef6-75be-45f5-9b64-97ad1de424bc
+text: Revisaremos el derecho a la nacionalidad vinculada únicamente al hecho de haber nacido en territorio nacional. La concesión de la nacionalidad debe ser fruto del esfuerzo por integrarse en nuestra nación y las personas que logren adquirirla deben poder sentirse orgullosas.
 categories:
 - Migración
-text: Revisaremos el derecho a la nacionalidad vinculada únicamente al hecho de haber nacido en territorio nacional. La concesión de la nacionalidad debe ser fruto del esfuerzo por integrarse en nuestra nación y las personas que logren adquirirla deben poder sentirse orgullosas.

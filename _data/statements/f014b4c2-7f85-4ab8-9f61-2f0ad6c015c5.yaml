@@ -1,6 +1,6 @@
 id: f014b4c2-7f85-4ab8-9f61-2f0ad6c015c5
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 153
+parent_chapter: 786b037f-dfff-4e62-9bfb-4b0225b43100
+text: Fomentaremos la creación de programas de concienciación y prevención del ciberacoso y la violencia de género online, incluyendo la promoción de relaciones saludables y respetuosas en el entorno digital.
 categories: Seguridad y defensa
 topics:
 - Ciberviolencia
 - Ciberacoso
-text: Fomentaremos la creación de programas de concienciación y prevención del ciberacoso y la violencia de género online, incluyendo la promoción de relaciones saludables y respetuosas en el entorno digital.

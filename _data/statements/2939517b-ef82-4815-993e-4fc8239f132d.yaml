@@ -1,6 +1,6 @@
 id: 2939517b-ef82-4815-993e-4fc8239f132d
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 238
-categories: Seguridad y defensa
+parent_chapter: 9b54f6c1-7065-4418-a3a8-456ef8c8fdb7
 text: Combatiremos las estructuras mafiosas que delinquen con las ocupaciones de vivienda y alteran la vida de las comunidades.
+categories: Seguridad y defensa

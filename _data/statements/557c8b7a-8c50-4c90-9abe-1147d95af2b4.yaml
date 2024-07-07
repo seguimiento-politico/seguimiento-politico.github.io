@@ -1,6 +1,6 @@
 id: 557c8b7a-8c50-4c90-9abe-1147d95af2b4
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,12 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 180
+parent_chapter: 63ab839a-6275-4d54-bf9b-ec036a685a75
+children_promises:
+- 64f5a3f6-22af-4b1b-9215-8e16159207f3
+- 1390a361-9430-4af9-a29f-2ec33ad8f7a0
+- 5f821f30-b2a1-476d-bddd-26155822af5e
+children_statements: []
+title: Apuesta estratégica por la innovación tecnológica
 categories: Educación
 topics: Digitalización
-title: Apuesta estratégica por la innovación tecnológica
-has_children: true

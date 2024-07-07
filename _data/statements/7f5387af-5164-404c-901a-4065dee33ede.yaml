@@ -1,6 +1,6 @@
 id: 7f5387af-5164-404c-901a-4065dee33ede
 type: promise
-doc_id: a4c93565-372e-41a2-837a-3e2a37e31d54
+parent_document: a4c93565-372e-41a2-837a-3e2a37e31d54
 parties:
 - VOX
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 143
+parent_chapter: 5732e731-e59a-4bf7-9c33-280819845d40
+text: España es el principal inversor europeo en Hispanoamérica, mostrando las inversiones españolas una gran diversificación (sector financiero, energía, telecomunicaciones, etc.). Por ello, velaremos por la protección de las inversiones exteriores de nuestras empresas en los países hispanoamericanos.
 categories:
 - Política internacional
-text: España es el principal inversor europeo en Hispanoamérica, mostrando las inversiones españolas una gran diversificación (sector financiero, energía, telecomunicaciones, etc.). Por ello, velaremos por la protección de las inversiones exteriores de nuestras empresas en los países hispanoamericanos.

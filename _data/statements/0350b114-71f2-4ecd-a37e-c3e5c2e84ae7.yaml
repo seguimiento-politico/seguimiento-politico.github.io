@@ -1,7 +1,6 @@
 id: 0350b114-71f2-4ecd-a37e-c3e5c2e84ae7
 type: promise
-parent_statement: be9428ea-bd14-4f00-b555-67f088de447d
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: be9428ea-bd14-4f00-b555-67f088de447d
+parent_chapter: 4a4ec318-0db9-4da1-9515-2b36e808a75f
+text: Promoción de la reducción del uso del embalaje alimentario innecesario y eliminando los materiales de «un solo uso».
 categories: Consumo
 topics: Alimentación saludable
-text: Promoción de la reducción del uso del embalaje alimentario innecesario y eliminando los materiales de «un solo uso».

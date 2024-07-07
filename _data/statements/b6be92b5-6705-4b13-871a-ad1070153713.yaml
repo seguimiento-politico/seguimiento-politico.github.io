@@ -1,11 +1,12 @@
 id: b6be92b5-6705-4b13-871a-ad1070153713
 type: promise
-doc_id: 53f088d2-dfe1-408d-8164-9ae00c4c8418
+parent_document: 53f088d2-dfe1-408d-8164-9ae00c4c8418
 parties: PP
 scope: national
 country: spain
 election_type: generales
 election_date: '2019-11-10'
 page: 14
-categories: Nacionalismo y patriotismo
+parent_chapter: 1d70d4de-8db8-40af-98f3-72921bc2f7ab
 text: Con el objetivo de recuperar la legalidad constitucional, y para proteger el correcto ejercicio de la autonomía en Cataluña, de acuerdo con el procedimiento previsto en el artículo 155 de la Constitución española aplicaremos, por el tiempo que resulte inexcusable, cuantas medidas sean necesarias. Velaremos con especial atención por un adecuado ejercicio de las competencias en educación, régimen penitenciario, medios públicos de comunicación y hacienda pública.
+categories: Nacionalismo y patriotismo

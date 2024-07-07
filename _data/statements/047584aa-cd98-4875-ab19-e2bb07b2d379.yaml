@@ -1,6 +1,6 @@
 id: 047584aa-cd98-4875-ab19-e2bb07b2d379
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 115
+parent_chapter: 13181c54-a102-4634-92ba-c7fdefe1ff22
+text: Actualización y formación permanente del profesorado de formación profesional en digitalización, sostenibilidad y tecnologías emergentes aplicadas a cada sector productivo.
 categories: Derechos y servicios sociales
 topics: Profesorado
-text: Actualización y formación permanente del profesorado de formación profesional en digitalización, sostenibilidad y tecnologías emergentes aplicadas a cada sector productivo.

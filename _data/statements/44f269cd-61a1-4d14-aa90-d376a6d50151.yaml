@@ -1,6 +1,6 @@
 id: 44f269cd-61a1-4d14-aa90-d376a6d50151
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 31
+parent_chapter: 7692ac60-1e48-4282-9c1e-92dc2082a22c
+text: DESARROLLAREMOS POLÍTICAS AMBIENTALES DESDE LA TRIPLE PERSPECTIVA DE LA SOSTENIBILIDAD (ambiental, económica y social), que nos permitan realizar una adecuada gestión de nuestros recursos hídricos, afrontar la protección de la biodiversidad y nuestro rico patrimonio natural, el adecuado aprovechamiento de nuestros recursos, una gestión forestal sostenible de nuestros montes, la protección del litoral y el impulso de la economía circular, garantizando la óptima calidad de vida en nuestras ciudades.
 categories: Economía
 topics: Desarrollo sostenible
-text: DESARROLLAREMOS POLÍTICAS AMBIENTALES DESDE LA TRIPLE PERSPECTIVA DE LA SOSTENIBILIDAD (ambiental, económica y social), que nos permitan realizar una adecuada gestión de nuestros recursos hídricos, afrontar la protección de la biodiversidad y nuestro rico patrimonio natural, el adecuado aprovechamiento de nuestros recursos, una gestión forestal sostenible de nuestros montes, la protección del litoral y el impulso de la economía circular, garantizando la óptima calidad de vida en nuestras ciudades.

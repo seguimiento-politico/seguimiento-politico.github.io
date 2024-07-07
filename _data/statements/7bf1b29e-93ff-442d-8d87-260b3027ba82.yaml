@@ -1,7 +1,6 @@
 id: 7bf1b29e-93ff-442d-8d87-260b3027ba82
 type: promise
-parent_statement: ce48cd50-f05c-4b74-90b9-09224857d157
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Urbanismo y ciudades
+parent_statement: ce48cd50-f05c-4b74-90b9-09224857d157
+parent_chapter: da4a5e62-c6b6-45b0-a08b-611f6d470a08
 text: Modificaremos la Ley del Suelo en coordinación con las comunidades autónomas y entidades locales para apostar por el desarrollo de ciudades más compactas, garantizando en cada barrio o nodo urbano la presencia de espacios naturales y dotacionales junto a los servicios adecuados para el normal y completo desarrollo de la vida cotidiana. No podrán faltar espacios verdes cercanos y accesibles, un transporte público de calidad y las condiciones que faciliten y fomenten la movilidad activa. En este sentido se incorporarán nuevos estándares de dotaciones, equipamientos, servicios e infraestructuras para las actuaciones urbanísticas, con especial énfasis en la internalización de las externalidades medioambientales, normas actualizadas y de carácter general de protección del paisaje, especialmente del litoral, y restricciones de carácter general a usos y actividades en suelos protegidos no urbanizables
+categories: Urbanismo y ciudades

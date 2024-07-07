@@ -1,6 +1,6 @@
 id: 4682daac-9921-45b6-bc90-f787c50824ac
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 170
+parent_chapter: e9f101d6-d6e2-4b1b-95f1-2c67fdd18515
+children_promises:
+- 3dc30abf-2db6-4647-b1d0-53f1a0e8675d
+children_statements: []
+title: Apoyo a la innovación y la renovación de infraestructuras culturales privadas
 categories: Cultura
 topics: Financiación
-title: Apoyo a la innovación y la renovación de infraestructuras culturales privadas
-has_children: true

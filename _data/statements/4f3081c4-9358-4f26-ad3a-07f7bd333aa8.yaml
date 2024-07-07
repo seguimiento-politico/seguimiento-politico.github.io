@@ -1,6 +1,6 @@
 id: 4f3081c4-9358-4f26-ad3a-07f7bd333aa8
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,8 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 41
+parent_chapter: c81b524a-7c17-4056-ad5e-56c01a72ec58
+text: Defenderemos una Política Agraria Común (PAC) suficientemente dotada para garantizar la triple sostenibilidad económica, social y medioambiental de las explotaciones agrícolas, ganaderas y forestales españolas durante todo el periodo financiero 2021-2027, y en la que se mantenga el mismo nivel de ayudas para España que en el periodo actual. Apostamos por una PAC que favorezca un medio rural vivo, atractivo para las y los jóvenes y que incorpore la perspectiva de género.
 categories:
 - Agricultura
 - Ganadaría
@@ -17,4 +19,3 @@ topics:
 - Desarrollo sostenible
 - Europa
 - PAC
-text: Defenderemos una Política Agraria Común (PAC) suficientemente dotada para garantizar la triple sostenibilidad económica, social y medioambiental de las explotaciones agrícolas, ganaderas y forestales españolas durante todo el periodo financiero 2021-2027, y en la que se mantenga el mismo nivel de ayudas para España que en el periodo actual. Apostamos por una PAC que favorezca un medio rural vivo, atractivo para las y los jóvenes y que incorpore la perspectiva de género.

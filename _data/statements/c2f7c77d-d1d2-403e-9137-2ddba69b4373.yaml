@@ -1,6 +1,6 @@
 id: c2f7c77d-d1d2-403e-9137-2ddba69b4373
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 54
+parent_chapter: d6814cd3-b2e5-4b90-a62f-2c3e6434b1be
+children_promises:
+- e580fc74-d948-40c1-ab30-66b2b24fe848
+children_statements: []
+title: Crearemos bancos de pruebas regulatorios para los sistemas de inteligencia artificial que apoyen la innovación y orienten el desarrollo de la regulación de la inteligencia artificial
 categories: Derechos y servicios sociales
 topics: Derechos digitales
-title: Crearemos bancos de pruebas regulatorios para los sistemas de inteligencia artificial que apoyen la innovación y orienten el desarrollo de la regulación de la inteligencia artificial
-has_children: true

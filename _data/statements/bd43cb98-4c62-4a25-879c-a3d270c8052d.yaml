@@ -1,6 +1,6 @@
 id: bd43cb98-4c62-4a25-879c-a3d270c8052d
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 173
-categories: Familia
+parent_chapter: aa59a4a7-ed06-461a-b8b2-8be9c3d1889a
 text: Garantizar que todas las familias son iguales en derechos, y a promover el apoyo y la protección social que necesitan mediante el impulso de la Ley de Familias.
+categories: Familia

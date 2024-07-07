@@ -1,7 +1,6 @@
 id: cc1e42d0-1c31-4e8e-9f26-6265c6aea095
 type: promise
-parent_statement: dc8dee06-efe8-49ff-a266-013ca32ba653
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: dc8dee06-efe8-49ff-a266-013ca32ba653
+parent_chapter: 951ad61c-e540-4486-b73f-88fc14971d9a
+text: Garantizaremos la coordinación de igualdad o la presencia de personal técnico especialista en igualdad en todos los centros educativos para impartir contenido sobre educación sexoafectiva, realizando un convenio con entidades expertas y sindicatos para la aportación de recursos humanos docentes.
 categories: Democracia
 topics: Igualdad
-text: Garantizaremos la coordinación de igualdad o la presencia de personal técnico especialista en igualdad en todos los centros educativos para impartir contenido sobre educación sexoafectiva, realizando un convenio con entidades expertas y sindicatos para la aportación de recursos humanos docentes.

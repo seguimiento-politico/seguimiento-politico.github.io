@@ -1,0 +1,30 @@
+name: Energía sostenible
+other:
+- &id002
+  id: 072dd59b-4b76-4b25-8a7d-d0c5fc8d4950
+  parties:
+  - VOX
+other_count: 1
+position_negative: []
+position_negative_count: 0
+position_positive:
+- &id001
+  id: 0a2182d5-60c8-4732-8c52-d162e8d67dcb
+  parties:
+  - VOX
+- &id003
+  id: fe7cc966-e5af-4a31-8d9c-ba66e71474ac
+  parties:
+  - VOX
+position_positive_count: 2
+proposed_actions: []
+proposed_actions_count: 0
+statements:
+- *id001
+- *id002
+- *id003
+statements_count: 3
+status_quo_negative: []
+status_quo_negative_count: 0
+status_quo_positive: []
+status_quo_positive_count: 0

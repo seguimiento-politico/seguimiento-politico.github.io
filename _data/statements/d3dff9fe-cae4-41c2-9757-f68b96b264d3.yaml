@@ -1,6 +1,6 @@
 id: d3dff9fe-cae4-41c2-9757-f68b96b264d3
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 166
+parent_chapter: e207a6bf-9c54-4399-a574-f130ae590b63
+text: El Partido Popular de Rajoy recibió del PSOE en el año 2011 una herencia de 67.000 millones de euros en el Fondo de reservas—conocido como hucha de las pensiones— que en gran medida fue fruto del superávit registrado en las cuentas de la Seguridad Social durante los años del gobierno socialista de Zapatero. En tan sólo 7 años el Partido Popular dilapidó esa herencia que habíamos generado con la gestión del gobierno socialista. Un ahorro sobre el que se debía cimentar la sostenibilidad del sistema cuando se encuentre más tensionado (a partir de principios de la próxima esta década) por la jubilación de la denominada generación del baby boom, la mayor de nuestra historia.
 categories: Derechos y servicios sociales
 topics: Pensiones
-text: El Partido Popular de Rajoy recibió del PSOE en el año 2011 una herencia de 67.000 millones de euros en el Fondo de reservas—conocido como hucha de las pensiones— que en gran medida fue fruto del superávit registrado en las cuentas de la Seguridad Social durante los años del gobierno socialista de Zapatero. En tan sólo 7 años el Partido Popular dilapidó esa herencia que habíamos generado con la gestión del gobierno socialista. Un ahorro sobre el que se debía cimentar la sostenibilidad del sistema cuando se encuentre más tensionado (a partir de principios de la próxima esta década) por la jubilación de la denominada generación del baby boom, la mayor de nuestra historia.

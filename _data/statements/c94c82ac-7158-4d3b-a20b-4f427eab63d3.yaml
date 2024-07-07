@@ -1,6 +1,6 @@
 id: c94c82ac-7158-4d3b-a20b-4f427eab63d3
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 253
+parent_chapter: a8ad63ab-b62a-4543-ac99-7b8568a09d6b
+text: Continuaremos y extenderemos las acciones de reconocimiento del exilio republicano español, su contribución a la memoria democrática europea, así como el conocimiento de la represión y el exterminio de nuestros compatriotas en los campos nazis y la contribución de muchos de ellos a la victoria de las democracias en la II Guerra Mundial.
 categories: Democracia
 topics: Memoria democrática
-text: Continuaremos y extenderemos las acciones de reconocimiento del exilio republicano español, su contribución a la memoria democrática europea, así como el conocimiento de la represión y el exterminio de nuestros compatriotas en los campos nazis y la contribución de muchos de ellos a la victoria de las democracias en la II Guerra Mundial.

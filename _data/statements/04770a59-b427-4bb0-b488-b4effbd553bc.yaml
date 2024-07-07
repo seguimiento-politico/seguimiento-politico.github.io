@@ -1,0 +1,22 @@
+id: 04770a59-b427-4bb0-b488-b4effbd553bc
+type: statement
+parent_document: a613c4b6-f9dc-4926-8b9a-b87c233e5a75
+parties:
+- VOX
+election_type: europeas
+election_date: '2024-06-09'
+publication_date: '2024-05-30'
+page: 2
+text: Frente a sus imposiciones y restricciones a la libertad, cada vez hay más europeos que quieren una Unión Europea de naciones soberanas que cooperen en aquello que es bueno para todos y respeten su identidad. En VOX hemos liderado ese movimiento que ya ha llevado un cambio histórico a otras naciones europeas.
+topics:
+- name: Soberanía nacional
+  position_positive: null
+  status_quo_negative:
+  - text: La UE impone sus decisiones a las naciones
+  - text: la UE restringe la libertad de las naciones
+- name: Nacionalismo
+  position_positive: null
+- name: Unión Europea
+  status_quo_negative:
+  - text: Impone sus decisiones a las naciones
+  - text: Restringe la libertad de las naciones

@@ -1,7 +1,6 @@
 id: 1dffa947-da48-4e22-bcf5-7cca3e63c3e9
-type: declaration
-parent_statement: f5827007-c6c5-48fc-a687-68a4afd3b0df
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,6 +9,8 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 39
+parent_statement: f5827007-c6c5-48fc-a687-68a4afd3b0df
+parent_chapter: 1e1d9fec-722c-4fe5-83c8-753b161e1073
+text: o Defenderemos que España siga posicionándose como referencia mundial en turismo y como una alternativa moderna, competitiva y a la vanguardia en la transformación del modelo hacia la sostenibilidad medioambiental, socioeconómica y territorial. En esta sostenibilidad aplicaremos medidas destinadas a contribuir a un turismo respetuoso con el medioambiente y los recursos naturales, así como medidas dirigidas a garantizar el empleo digno y el equilibrio entre los visitantes y los residentes.
 categories: Turismo
 topics: Desarrollo sostenible
-text: o Defenderemos que España siga posicionándose como referencia mundial en turismo y como una alternativa moderna, competitiva y a la vanguardia en la transformación del modelo hacia la sostenibilidad medioambiental, socioeconómica y territorial. En esta sostenibilidad aplicaremos medidas destinadas a contribuir a un turismo respetuoso con el medioambiente y los recursos naturales, así como medidas dirigidas a garantizar el empleo digno y el equilibrio entre los visitantes y los residentes.

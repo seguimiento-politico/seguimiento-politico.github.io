@@ -1,6 +1,6 @@
 id: a9b4a5b3-2325-4ab4-bc1b-0b3576e7292b
 type: promise
-doc_id: 4540ee8a-066e-4224-9f26-1297932c6560
+parent_document: 4540ee8a-066e-4224-9f26-1297932c6560
 parties:
 - PSOE
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-10-31'
 page: 47
-categories: Organización territorial
+parent_chapter: 0ebe7bcf-4ec7-4d85-9e96-27e33fcdd88d
 text: Avanzaremos hacia un modelo de Estado integrador, en el que la diversidad, la igualdad y la solidaridad sean valores compatibles. Un modelo en el que el Gobierno del Estado garantice la cohesión desde la lealtad al ejercicio de las funciones que la Constitución habilita a las comunidades autónomas; en el que las distintas administraciones cuenten con una adecuada financiación, actúen con transparencia, colaboren entre ellas y actúen con lealtad institucional. En ese modelo no tiene cabida un referéndum de autodeterminación, que el Tribunal Constitucional (TC) ha considerado contrario a la Constitución y que, desde una perspectiva política, provoca la quiebra de la sociedad.
+categories: Organización territorial

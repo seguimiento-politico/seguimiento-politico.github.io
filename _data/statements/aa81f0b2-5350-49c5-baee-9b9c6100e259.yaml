@@ -1,6 +1,6 @@
 id: aa81f0b2-5350-49c5-baee-9b9c6100e259
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 72
-categories: Democracia
+parent_chapter: 180fad9e-d9cc-4888-b890-b4bc54ee910c
 text: IMPULSAREMOS, DEROGANDO LA MAL LLAMADA LEY DE MEMORIA DEMOCRÁTICA, una nueva norma consensuada que refuerce los principios democráticos y la reconciliación nacional que fundamentaron el pacto constitucional durante la Transición, así como la convivencia democrática de una sociedad, la española, que aspira a la justicia y al reconocimiento de la verdad.
+categories: Democracia

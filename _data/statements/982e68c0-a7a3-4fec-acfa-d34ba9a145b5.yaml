@@ -1,6 +1,6 @@
 id: 982e68c0-a7a3-4fec-acfa-d34ba9a145b5
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 91
+parent_chapter: 3cb774e5-f8dc-461d-9d1f-fb20c8f8ca08
+text: Reformaremos la Ley de Aguas, para blindar el derecho ciudadano de acceso al agua.
 categories: Agua, Medioambiente
 topics: Cambio climático, Agua, Sequía
-text: Reformaremos la Ley de Aguas, para blindar el derecho ciudadano de acceso al agua.

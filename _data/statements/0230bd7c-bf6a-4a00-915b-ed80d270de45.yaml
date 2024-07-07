@@ -1,6 +1,6 @@
 id: 0230bd7c-bf6a-4a00-915b-ed80d270de45
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,11 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 13
+parent_chapter: 80f33f13-c365-4098-ac18-6210795cdb15
+children_promises:
+- 6b43ba0f-7dc1-48f7-b570-5d45ff330ee0
+- 567e4ae8-5ab9-43b5-9476-efe36c305108
+children_statements: []
+title: Corregir IBI en construcciones agrarias y fomentar la renovación del parque de maquinaria agrícola
 categories:
 - Economía
-title: Corregir IBI en construcciones agrarias y fomentar la renovación del parque de maquinaria agrícola
-has_children: true

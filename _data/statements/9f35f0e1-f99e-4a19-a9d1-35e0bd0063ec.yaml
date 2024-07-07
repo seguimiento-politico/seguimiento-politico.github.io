@@ -1,6 +1,6 @@
 id: 9f35f0e1-f99e-4a19-a9d1-35e0bd0063ec
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 75
-categories: Justicia
+parent_chapter: 0f87afc6-fcea-4ab1-b5a8-63765bc3744f
 text: APROBAREMOS UN PLAN DE CHOQUE INMEDIATO PARA DESATASCAR EL FUNCIONAMIENTO DE LA JUSTICIA en aquellos juzgados y fiscalías que se encuentren colapsados. Resolveremos mediante negociación los conflictos laborales en el ámbito de la Administración de Justicia.
+categories: Justicia

@@ -1,6 +1,6 @@
 id: 26c2ab3e-5666-4f05-bfc6-646a14560269
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 234
+parent_chapter: 825cba78-b5ad-4d4f-969a-5ac1461c1226
+text: Impulsaremos la aprobación en el plazo máximo de un año de un nuevo sistema de financiación autonómica que garantice los recursos necesarios para que la ciudadanía disfrute de servicios públicos de calidad, tanto los que son la base del Estado del bienestar -la sanidad, la educación o la dependencia-, como otros igualmente imprescindibles de cara al progreso y dinamismo económico y social, entre los que destacan la vivienda, el fomento del empleo, la movilidad o la cultura. Un modelo basado en los principios de equidad, solidaridad, autonomía financiera, corresponsabilidad fiscal, suficiencia financiera y lealtad institucional para garantizar la igualdad de acceso de la ciudadanía a los servicios públicos.
 categories: Impuestos y financiación pública
 topics:
 - Financiación autonómica
 - Financiación local
-text: Impulsaremos la aprobación en el plazo máximo de un año de un nuevo sistema de financiación autonómica que garantice los recursos necesarios para que la ciudadanía disfrute de servicios públicos de calidad, tanto los que son la base del Estado del bienestar -la sanidad, la educación o la dependencia-, como otros igualmente imprescindibles de cara al progreso y dinamismo económico y social, entre los que destacan la vivienda, el fomento del empleo, la movilidad o la cultura. Un modelo basado en los principios de equidad, solidaridad, autonomía financiera, corresponsabilidad fiscal, suficiencia financiera y lealtad institucional para garantizar la igualdad de acceso de la ciudadanía a los servicios públicos.

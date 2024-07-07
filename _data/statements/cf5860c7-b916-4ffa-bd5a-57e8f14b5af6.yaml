@@ -1,6 +1,6 @@
 id: cf5860c7-b916-4ffa-bd5a-57e8f14b5af6
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 87
-categories: Democracia
+parent_chapter: 5eaa8b4a-0a47-4a85-8512-be80c4ebfdb0
 text: GENERALIZAREMOS EL SISTEMA DE VENTANILLA ÚNICA, que permite al ciudadano relacionarse con cada Administración territorial a través de un único punto, ante el que podrá cumplimentar todos los trámites necesarios para ejercer la actividad que desee iniciar. Avanzaremos en la creación de un único punto electrónico común a través del cual los ciudadanos y las empresas se comuniquen con las diferentes Administraciones Públicas. Además, en el caso de las empresas en este punto tendrán a su disposición su información de uso frecuente como certificados fiscales y sociales, licencias, autorizaciones... facilitando el acceso y puesta a disposición de tal información.
+categories: Democracia

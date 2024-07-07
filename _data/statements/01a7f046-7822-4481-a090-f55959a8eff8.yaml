@@ -1,6 +1,6 @@
 id: 01a7f046-7822-4481-a090-f55959a8eff8
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,5 +8,6 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 32
-categories: Territorio rural
+parent_chapter: 994994ce-d238-4df8-ae47-d7637a178a8c
 text: PLANTEAREMOS A LA UNIÓN EUROPEA LA POSIBILIDAD DE ADOPTAR MEDIDAS DE REDUCCIÓN DE LOS COSTES LABORALES para la contratación en otras provincias poco pobladas.
+categories: Territorio rural

@@ -1,6 +1,6 @@
 id: 90563fb1-0af9-45d5-af92-b85fefd018ef
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,9 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 67
+parent_chapter: 1d4a4787-163e-4649-b875-f97fd3780649
+children_promises:
+- 9e07f524-6819-43b9-b279-f18134dac538
+- 68e44267-eff6-4769-8b48-65314388dc46
+children_statements: []
+title: Impulsaremos el sector de las tecnologías auxiliares del sector agroalimentario
 categories:
 - Agricultura
 - Ganadaría
 topics: Desarrollo sostenible
-title: Impulsaremos el sector de las tecnologías auxiliares del sector agroalimentario
-has_children: true

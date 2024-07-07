@@ -1,6 +1,6 @@
 id: 950614e1-4d7e-420e-983d-ee2434dc8a1c
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,11 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 91
-categories: Sanidad
+parent_chapter: 17e4c412-8ac4-4992-848a-422903075ee3
+children_promises:
+- 777e13d1-b740-4a5c-a11e-a350f8bb1581
+- 03990a6a-9809-4173-8356-54f222aadd8f
+children_statements:
+- 771ad842-291a-4fdb-8a67-04a1c3a942f2
 title: Impuestos al servicio de la salud.
-has_children: true
+categories: Sanidad

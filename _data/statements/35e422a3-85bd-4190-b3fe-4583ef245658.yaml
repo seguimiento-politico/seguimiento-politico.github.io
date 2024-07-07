@@ -1,6 +1,6 @@
 id: 35e422a3-85bd-4190-b3fe-4583ef245658
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +9,9 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 73
-categories: Urbanismo y ciudades
+parent_chapter: da4a5e62-c6b6-45b0-a08b-611f6d470a08
+children_promises:
+- de08f66a-66a2-456c-a1f3-c27655849afd
+children_statements: []
 title: Creación de un banco de tierras públicas para proyectos agroecológicos.
-has_children: true
+categories: Urbanismo y ciudades

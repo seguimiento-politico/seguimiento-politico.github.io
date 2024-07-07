@@ -1,6 +1,6 @@
 id: ff4ed090-0912-11ed-9596-d163a910696f
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,7 +10,8 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 25
-categories: Medioambiente
-topics: Cambio climático
+parent_chapter: 818f7603-2f02-4ce5-ae43-b3ca06cfb5db
 title: Plan de movilidad sostenible.
 text: '- Elaboraremos una Ley de Movilidad Sostenible y financiación del transporte público, poniendo especial énfasis en la sostenibilidad económica de las áreas metropolitanas de las grandes ciudades. <br>- Pondremos en marcha un esquema de ayudas económicas para el vehículo eléctrico, impulsando el vehículo con energías alternativas y medidas encaminadas a promover la instalación de puntos de recarga en zonas urbanas. <br>- Impulsaremos un Programa de Acción 2019-2022 para la Mejora de la Eficiencia y la Sostenibilidad de la Cadena Logística. <br>- Revisaremos el modelo de peajes de la red viaria de alta capacidad encaminado a garantizar la sostenibilidad y el uso eficiente. <br>- Desarrollaremos medidas encaminadas a promover inversiones productivas y sostenibles en los puertos. <br>- Impulsaremos el Plan de cercanías 2019-2025, y otras medidas de apoyo al transporte intermodal. <br>- Aplicación de las Tecnologías de Información y Telecomunicación e Internet de las Cosas para mejorar la interconectividad e intermodalidad'
+categories: Medioambiente
+topics: Cambio climático

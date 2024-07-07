@@ -1,6 +1,6 @@
 id: 4543a25e-d088-4deb-b6ed-ce91898dd816
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 74
+parent_chapter: ef0bb89b-1b90-4682-a618-d8eea7201020
 title: Derogar la reforma laboral de Zapatero de 2010 y la de Rajoy de 2012.
 text: Es obvia la necesidad de elaborar un nuevo Estatuto de los Trabajadores adaptado a la realidad laboral, tecnológica y ecológica de 2019, pero el primer paso de este proceso es la derogación de unas reformas laborales que han impedido que la gente recuperara los niveles de bienestar previos a la crisis y que fueron escritas al dictado de la troika y con el beneplácito de la CEOE y el Círculo de Empresarios Esta derogación haría efectivas muchas de las medidas que se proponen en este apartado

@@ -1,7 +1,6 @@
 id: 7be3d199-6621-4c04-ae58-346e1fa87f14
 type: promise
-parent_statement: 319ffd55-6ed8-4868-829e-91c1db019b69
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 319ffd55-6ed8-4868-829e-91c1db019b69
+parent_chapter: b36e5d9e-ba98-45f0-8911-a0a18af0be33
+text: Además, ampliaremos hasta los 16 años el requisito de edad del hijo o hija menor que da derecho a solicitar la reducción. Actualmente, el límite de edad está en los 12 años, edad en la que la mayoría de los niños y las niñas acceden a la educación secundaria, donde se ofrecen escasos servicios extraescolares o de ampliación de jornada.
 categories: Familia
 topics: Incentivos, ayudas y subvenciones
-text: Además, ampliaremos hasta los 16 años el requisito de edad del hijo o hija menor que da derecho a solicitar la reducción. Actualmente, el límite de edad está en los 12 años, edad en la que la mayoría de los niños y las niñas acceden a la educación secundaria, donde se ofrecen escasos servicios extraescolares o de ampliación de jornada.

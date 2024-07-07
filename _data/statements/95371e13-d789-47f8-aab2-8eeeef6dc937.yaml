@@ -1,6 +1,6 @@
 id: 95371e13-d789-47f8-aab2-8eeeef6dc937
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_chapter: 457e4b72-749a-45c4-89c2-5a8567249561
+text: La Justicia es un pilar fundamental del Estado de Derecho. En los últimos cuatro años de legislatura socialista hemos puesto los cimientos de la Justicia del siglo XXI en España y lo hemos hecho mejorando, simultáneamente, organización y procesos, junto con una gran inversión en infraestructuras digitales.
 categories: Justicia
 topics: Modernización
-text: La Justicia es un pilar fundamental del Estado de Derecho. En los últimos cuatro años de legislatura socialista hemos puesto los cimientos de la Justicia del siglo XXI en España y lo hemos hecho mejorando, simultáneamente, organización y procesos, junto con una gran inversión en infraestructuras digitales.

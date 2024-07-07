@@ -1,6 +1,6 @@
 id: baee6774-1645-4548-b274-a3ebb25ee05b
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 56
+parent_chapter: de18231f-ea27-483e-81a9-f51977d7f26c
 title: España, con la libre determinación del pueblo saharaui.
 text: 'España tiene una responsabilidad histórica con el Sáhara Occidental, con sus gentes y con la solidaridad entre nuestros pueblos Para ello, apoyaremos con acciones concretas el derecho a la libre determinación del pueblo saharaui, mediante la implementación de la sentencia del Tribunal de Justicia de la Unión Europea (TJUE) sobre recursos naturales, las resoluciones del Consejo de Seguridad de las Naciones Unidas para una solución justa y pacífica mediante referéndum y los procesos de negociación en marcha Estableceremos relaciones diplomáticas de alto nivel con la República Árabe Saharaui Democrática (RASD) y promoveremos la ampliación del mandato de la Misión de Naciones Unidas para el referéndum en el Sáhara Occidental (MINURSO) para que adquiera competencias en la protección y promoción de los derechos civiles, políticos, económicos, sociales y culturales de la población saharaui Aumentaremos las partidas de ayuda humanitaria para los campamentos saharauis; de este modo, el Sáhara Occidental volverá a ser una zona prioritaria para la cooperación española Apoyaremos programas de formación y movilidad de la población saharaui y cumpliremos lo ya aprobado por el Parlamento: el acceso a la nacionalidad española de las personas saharauis residentes en nuestro país, con los mismos derechos que otros países con los que mantenemos relaciones históricas'

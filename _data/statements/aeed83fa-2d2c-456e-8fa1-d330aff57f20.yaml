@@ -1,7 +1,6 @@
 id: aeed83fa-2d2c-456e-8fa1-d330aff57f20
 type: promise
-parent_statement: e70db245-2a53-429a-bee2-5026732c4079
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Impuestos y financiación pública
+parent_statement: e70db245-2a53-429a-bee2-5026732c4079
+parent_chapter: bc87da00-c24a-4c2f-8e57-ef8fee857d81
 text: Reforma, en profundidad, del impuesto de sociedades para aumentar la contribución, en especial, de las grandes empresas. Como medida inmediata se debe hacer efectivo el tipo del 15% sobre los beneficios de la empresa, en línea con lo establecido tanto por la OCDE en la denominada estrategia BEPS como en la Directiva 2022/2523 de la Comisión Europea, de tal forma que ninguna empresa tribute por debajo de este umbral, con independencia de las deducciones, exenciones, reducciones y beneficios a los que tenga derecho. Al mismo tiempo, la reforma del impuesto debe limitar la compensación de bases negativas de ejercicios anteriores; revisar y recortar las deducciones, exenciones y correcciones que aumentan la complejidad del impuesto para aproximar el tipo efectivo que pagan las empresas al nominal, evitando que sean las pymes las que realizan una mayor contribución fiscal; limitar las exenciones de dividendos y plusvalías de sociedades por su participación en sociedades filiales; revisar las excesivas ventajas en la consolidación de cuentas de los grupos internacionales; concretar nuevos criterios para definir el concepto de sede de dirección efectiva; modificar la norma anti-deslocalización, introduciendo el concepto de «jurisdicción no cooperativa» y concretando el criterio de «nivel impositivo efectivo considerablemente inferior».
+categories: Impuestos y financiación pública

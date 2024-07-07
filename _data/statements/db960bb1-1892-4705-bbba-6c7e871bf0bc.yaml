@@ -1,6 +1,6 @@
 id: db960bb1-1892-4705-bbba-6c7e871bf0bc
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 92
+parent_chapter: 3cb774e5-f8dc-461d-9d1f-fb20c8f8ca08
+text: Se promoverá la utilización de la teledetección y, en particular, de los sistemas de obtención de información del agua mediante satélites para que toda la cartografía del agua sea accesible a través de servicios interoperables conformes a la normativa europea.
 categories: Agua, Medioambiente
 topics: Cambio climático, Agua, Sequía
-text: Se promoverá la utilización de la teledetección y, en particular, de los sistemas de obtención de información del agua mediante satélites para que toda la cartografía del agua sea accesible a través de servicios interoperables conformes a la normativa europea.

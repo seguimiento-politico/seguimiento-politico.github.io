@@ -1,7 +1,6 @@
 id: f2f896f1-8e86-481a-acb1-1494f402bfd6
 type: promise
-parent_statement: 8304b288-1387-4ed8-a26c-55af0d0b27ec
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 8304b288-1387-4ed8-a26c-55af0d0b27ec
+parent_chapter: b36e5d9e-ba98-45f0-8911-a0a18af0be33
+text: La creación de una oficina que garantice el diálogo y la coordinación entre los distintos sistemas facilitará una mayor toma de conciencia sobre la importancia del texto aprobado el 4 de junio de 2021.
 categories: Familia
 topics: Incentivos, ayudas y subvenciones
-text: La creación de una oficina que garantice el diálogo y la coordinación entre los distintos sistemas facilitará una mayor toma de conciencia sobre la importancia del texto aprobado el 4 de junio de 2021.

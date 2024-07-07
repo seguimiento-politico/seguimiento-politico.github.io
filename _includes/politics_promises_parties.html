@@ -1,5 +1,5 @@
 <!-- categorization variables -->
-{% include categorization.html %}
+{% include categorization.html type='promises' %}
 {% assign parties_data = site.data.parties %}
 
 <!-- categorization counters -->
@@ -57,11 +57,9 @@
                             </td>
                             <td class="list-year">
                                 {% if item.publication_date %}
-                                    {% assign year = item.publication_date | split: '-' %}
-                                    {{ year[0] }}
+                                    {% assign year = item.publication_date | date:'%Y' %}
                                 {% elsif item.election_date %}
-                                    {% assign year = item.election_date | split: '-' %}
-                                    {{ year[0] }}
+                                    {% assign year = item.publication_date | date:'%Y' %}
                                 {% endif %}
                             </td>
                             <td class="sr-only">  
@@ -96,7 +94,7 @@
                                 {% else %}
                                     {% assign class = "secondary" %}
                                 {% endif %}
-                                <a class="btn btn-{{class}}" href="/statements/{{ item.id }}">
+                                <a class="btn btn-{{class}}" href="/statements/show?id={{ item.id }}">
                                     <span class="d-inline-block align-middle"><i class="fas fa-fw fa-angle-right"></i></span>
                                 </a>
                             </td>

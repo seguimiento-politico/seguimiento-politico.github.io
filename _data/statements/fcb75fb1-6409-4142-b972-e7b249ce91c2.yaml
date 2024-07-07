@@ -1,7 +1,6 @@
 id: fcb75fb1-6409-4142-b972-e7b249ce91c2
-type: declaration
-parent_statement: 526f238f-81e6-4fe8-a6f7-c3798b2910f5
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,7 +9,13 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 168
+parent_statement: 526f238f-81e6-4fe8-a6f7-c3798b2910f5
+parent_chapter: e207a6bf-9c54-4399-a574-f130ae590b63
+children_promises: []
+children_statements:
+- 1b5bbafb-a934-4ce3-a04e-40f2e28138fb
+- 22afff68-6d5a-40af-b54f-7226b2231f12
+- 6dd4f4be-c92c-4e1b-bdaf-45e789424787
+text: Hemos ampliado derechos y mejorado todas las prestaciones de la Seguridad Social de acuerdo con tres ejes de actuación.
 categories: Derechos y servicios sociales
 topics: Pensiones
-text: Hemos ampliado derechos y mejorado todas las prestaciones de la Seguridad Social de acuerdo con tres ejes de actuación.
-has_children: true

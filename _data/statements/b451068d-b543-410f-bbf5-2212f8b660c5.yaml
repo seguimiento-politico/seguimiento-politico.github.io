@@ -1,6 +1,6 @@
 id: b451068d-b543-410f-bbf5-2212f8b660c5
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,7 +9,10 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 10
+parent_chapter: 80f33f13-c365-4098-ac18-6210795cdb15
+children_promises:
+- dcbc6133-af17-4d8d-89d0-de7e0c4c5276
+children_statements: []
+title: Las pensiones contributivas estarán exentas en el IRPF
 categories:
 - Economía
-title: Las pensiones contributivas estarán exentas en el IRPF
-has_children: true

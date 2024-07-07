@@ -1,6 +1,6 @@
 id: 658214a6-74ec-413c-999c-b09ce5f86555
 type: promise
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +9,14 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
 page: 172
+parent_chapter: c2c75a7e-7842-4287-9086-d85c4a8cebaa
+children_promises:
+- 86852c63-049f-4004-8968-9d4fd6582ddd
+- a51e78ee-e545-4307-bb2f-4e902e417540
+- 583b35ba-0fb1-46fc-a71b-239877d16660
+- d27b7438-cd46-4633-8721-6a762faf70f1
+- c7a96bf4-eda2-4b2d-a52a-84c6eac9058d
+children_statements: []
+title: Medidas para profundizar en la igualdad de género en cultura
 categories: Cultura
 topics: Igualdad
-title: Medidas para profundizar en la igualdad de género en cultura
-has_children: true

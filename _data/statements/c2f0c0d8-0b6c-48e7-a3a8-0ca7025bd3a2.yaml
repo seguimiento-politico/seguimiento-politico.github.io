@@ -1,6 +1,6 @@
 id: c2f0c0d8-0b6c-48e7-a3a8-0ca7025bd3a2
 type: promise
-doc_id: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
+parent_document: ccce9dfe-36f3-4567-aa23-da83cabaa4b4
 parties: PP
 scope: national
 country: spain
@@ -8,6 +8,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-23'
 page: 17
+parent_chapter: 48b6e85e-eb0a-40f5-9aa9-d85750a8402d
+text: FACILITAREMOS LA FINANCIACIÓN DE LAS PYMES, permitiendo el acceso fuentes de financiación alternativas a la bancaria. También reforzaremos el papel del capital riesgo con una mayor implicación de instituciones como ENISA o ICO en el diseño de estrategias de financiación diseñadas para pymes y simplificaremos los requisitos de cotización a fin de hacer más atractivos los mercados de capitales para las pequeñas y medianas empresas, en consonancia y como desarrollo de la normativa europea que promueve la Unión de Mercados de Capitales.
 categories: Economía
 topics: Desarrollo sostenible
-text: FACILITAREMOS LA FINANCIACIÓN DE LAS PYMES, permitiendo el acceso fuentes de financiación alternativas a la bancaria. También reforzaremos el papel del capital riesgo con una mayor implicación de instituciones como ENISA o ICO en el diseño de estrategias de financiación diseñadas para pymes y simplificaremos los requisitos de cotización a fin de hacer más atractivos los mercados de capitales para las pequeñas y medianas empresas, en consonancia y como desarrollo de la normativa europea que promueve la Unión de Mercados de Capitales.

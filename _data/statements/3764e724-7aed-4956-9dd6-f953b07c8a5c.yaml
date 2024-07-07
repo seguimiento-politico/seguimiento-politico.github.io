@@ -1,7 +1,6 @@
 id: 3764e724-7aed-4956-9dd6-f953b07c8a5c
 type: promise
-parent_statement: e4eeddec-85d9-4b3a-906a-dfa3c2f4925a
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Política internacional
+parent_statement: e4eeddec-85d9-4b3a-906a-dfa3c2f4925a
+parent_chapter: db635e28-b5bf-4dba-aaf7-b48b45ca3061
 text: Aseguraremos el cumplimiento del compromiso de dedicar el 0,7% del PNB a la ayuda oficial al desarrollo (AOD), alcanzándose, al menos, el 0,55% del PNB al final de la próxima legislatura para llegar al objetivo final de 0,7% en 2030.
+categories: Política internacional

@@ -1,6 +1,6 @@
 id: 29c64340-7bc4-4552-9015-b549aa28dc26
 type: promise
-doc_id: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
+parent_document: 7c41ef61-d21b-487c-9f4a-1cfea564fa00
 parties:
 - UNIDAS PODEMOS
 scope: national
@@ -9,5 +9,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 61
+parent_chapter: de18231f-ea27-483e-81a9-f51977d7f26c
 title: Aumentar el impacto del conocimiento científico en la política.
 text: Incorporaremos de manera continuada y coordinada el conocimiento científico a la acción de gobierno y a las instituciones legislativas, a través de una red de asesoría científica, conforme a los criterios de los organismos internacionales en la materia

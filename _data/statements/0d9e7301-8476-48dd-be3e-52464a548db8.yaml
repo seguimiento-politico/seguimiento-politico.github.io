@@ -1,7 +1,6 @@
 id: 0d9e7301-8476-48dd-be3e-52464a548db8
 type: promise
-parent_statement: 942bc6df-cef2-4d3d-8a31-74cebda8a3f7
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Sanidad
+parent_statement: 942bc6df-cef2-4d3d-8a31-74cebda8a3f7
+parent_chapter: 17e4c412-8ac4-4992-848a-422903075ee3
 text: Se trazará una estrategia estatal de atención y prevención de los problemas de adicción derivados del chemsex, con participación activa en su diseño de los colectivos implicados. Como es deseable en el abordaje de cualquier adicción se planteará la problemática desde la perspectiva de los determinantes sociales de la salud, sin estigmatización ni punitivismo, abordando de forma respetuosa la diversidad sexoafectiva.
+categories: Sanidad

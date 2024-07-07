@@ -1,7 +1,6 @@
 id: ff3e618d-dc6e-43b1-858f-f3abafd09f4b
 type: promise
-parent_statement: e83360e3-1097-44be-9da4-5cab37c1f7cf
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Administración pública
+parent_statement: e83360e3-1097-44be-9da4-5cab37c1f7cf
+parent_chapter: f4f32036-0cfd-4ca9-b6f3-5cfec1c58526
 text: En tercer lugar, se mejorará la transparencia y la disponibilidad de datos para la evaluación externa de las políticas públicas. Para el diseño y puesta en marcha de nuevas políticas públicas es importante disponer de un sistema de homologación de toda la información administrativa que actualmente está a disposición de las administraciones públicas (en todos los niveles) para facilitar su utilización por parte de la Administración y de los investigadores.
+categories: Administración pública

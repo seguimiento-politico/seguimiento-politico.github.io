@@ -1,7 +1,6 @@
 id: 2bf0923b-eaf7-459a-b29f-3c18654c0b5e
 type: promise
-parent_statement: 5c9f0779-a7ee-4cda-ba15-0c45a3400b21
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,7 +8,9 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 5c9f0779-a7ee-4cda-ba15-0c45a3400b21
+parent_chapter: 74598371-68ef-4270-bd2d-a2eb641d0378
+text: Objetivos como la reducción de la precariedad, el rejuvenecimiento de las plantillas o la recuperación de la emigración forzada o carreras investigadoras estables requieren un marco laboral más adecuado.
 categories:
 - Ciencia y tecnología
 - Trabajo
-text: Objetivos como la reducción de la precariedad, el rejuvenecimiento de las plantillas o la recuperación de la emigración forzada o carreras investigadoras estables requieren un marco laboral más adecuado.

@@ -1,7 +1,6 @@
 id: 39729a9c-6dbf-493e-b2bf-ce865eded00a
 type: promise
-parent_statement: 1f86e464-60ab-4bb1-85a8-30bb0164b420
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 1f86e464-60ab-4bb1-85a8-30bb0164b420
+parent_chapter: 2d06e79f-d667-441b-b7cf-513970c6ccde
+text: También elaboraremos una estrategia nacional de extracción de minerales y áridos que se adapte a un futuro sostenible para las generaciones futuras.
 categories: Medioambiente
 topics: Biodiversidad
-text: También elaboraremos una estrategia nacional de extracción de minerales y áridos que se adapte a un futuro sostenible para las generaciones futuras.

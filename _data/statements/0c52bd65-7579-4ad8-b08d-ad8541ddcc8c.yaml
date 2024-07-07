@@ -1,7 +1,6 @@
 id: 0c52bd65-7579-4ad8-b08d-ad8541ddcc8c
 type: promise
-parent_statement: 4d6a2f91-f634-4396-a0d6-b2f2688c3c65
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: 4d6a2f91-f634-4396-a0d6-b2f2688c3c65
+parent_chapter: 517dbc45-7fcb-4ab4-bd14-948f8a770923
+text: Aumento de la inversión en atención a la dependencia, la vida plena, y su intensidad protectora, financiando con cargo a impuestos los cuidados ofrecidos por el sistema. En los últimos tres años, la aportación de la Administración General del Estado a la financiación del sistema ha pasado de apenas el 15% a cerca del 30%. Sin embargo, el gasto público en cuidados de larga duración no supera el 1% del PIB, por debajo de la media del 1,5% de la OCDE y muy lejos del 3% de Países Bajos y los países nórdicos. Por ello, continuaremos incrementando la financiación estatal del SAAD hasta que alcance el 50%, asegurando que las comunidades autónomas mantengan su inversión en términos reales. Al mismo tiempo rediseñaremos, bajo principios redistributivos, el actual sistema de copagos para asegurar que todas las personas dependientes reciben una atención adecuada y suficiente independientemente de sus ingresos.
 categories: Economía
 topics: Igualdad
-text: Aumento de la inversión en atención a la dependencia, la vida plena, y su intensidad protectora, financiando con cargo a impuestos los cuidados ofrecidos por el sistema. En los últimos tres años, la aportación de la Administración General del Estado a la financiación del sistema ha pasado de apenas el 15% a cerca del 30%. Sin embargo, el gasto público en cuidados de larga duración no supera el 1% del PIB, por debajo de la media del 1,5% de la OCDE y muy lejos del 3% de Países Bajos y los países nórdicos. Por ello, continuaremos incrementando la financiación estatal del SAAD hasta que alcance el 50%, asegurando que las comunidades autónomas mantengan su inversión en términos reales. Al mismo tiempo rediseñaremos, bajo principios redistributivos, el actual sistema de copagos para asegurar que todas las personas dependientes reciben una atención adecuada y suficiente independientemente de sus ingresos.

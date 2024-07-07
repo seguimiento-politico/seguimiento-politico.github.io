@@ -1,6 +1,6 @@
 id: 9d11ac53-6d26-410b-93dc-3570fb049adb
 type: promise
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,6 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 185
+parent_chapter: 4bab7d84-780f-4ca8-ae27-9d57b6482584
+text: Apoyaremos el Año Europeo del Tercer Sector con el objetivo de visibilizar la importancia de la labor de las entidades sociales.
 categories: Derechos y servicios sociales
 topics: ONGs
-text: Apoyaremos el Año Europeo del Tercer Sector con el objetivo de visibilizar la importancia de la labor de las entidades sociales.

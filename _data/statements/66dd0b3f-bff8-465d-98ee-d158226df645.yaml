@@ -1,7 +1,6 @@
 id: 66dd0b3f-bff8-465d-98ee-d158226df645
 type: promise
-parent_statement: 8e68503a-7520-4593-aaae-058a9a727afa
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -9,8 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
-categories: Empresas y autónomos
-topics:
-- Autónomos
-- PYMES
+parent_statement: 8e68503a-7520-4593-aaae-058a9a727afa
+parent_chapter: 9084fb76-14d5-4f08-b13b-74bd606de716
 text: Seguiremos apoyando con financiación pública las inversiones necesarias para la adaptación a los requisitos normativos, la incorporación de nuevas tecnologías y la modernización de los procesos empresariales.
+categories: Empresas y autónomos

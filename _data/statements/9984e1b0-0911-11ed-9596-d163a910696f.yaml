@@ -1,6 +1,6 @@
 id: 9984e1b0-0911-11ed-9596-d163a910696f
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,6 +10,7 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 26
+parent_chapter: 818f7603-2f02-4ce5-ae43-b3ca06cfb5db
+text: Elaboraremos un Plan Nacional de Salud y Medio Ambiente, para abordar los crecientes impactos sobre la salud de los cambios ambientales consecuencia de la crisis ecológica."
 categories: Medioambiente
 topics: Cambio climático
-text: Elaboraremos un Plan Nacional de Salud y Medio Ambiente, para abordar los crecientes impactos sobre la salud de los cambios ambientales consecuencia de la crisis ecológica."

@@ -1,7 +1,6 @@
 id: fb6fe77b-3fe7-4eb3-99fc-62806664a48e
 type: promise
-parent_statement: d28708ff-7ec4-43a1-a205-0d1eb517f253
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: d28708ff-7ec4-43a1-a205-0d1eb517f253
+parent_chapter: 63ab839a-6275-4d54-bf9b-ec036a685a75
+text: Las Administraciones públicas han cedido terreno en la educación (tanto pública como concertada) a empresas privadas que gestionan los datos personales y los entornos y contenidos educativos de nuestras hijas e hijos. Las infraestructuras web, los sistemas operativos, los servicios digitales, los materiales formativos, etcétera, podrían perfectamente ensamblarse y distribuirse a un coste muy bajo desde la administración pública haciendo uso de las alternativas libres que ya existen. El sector educativo tiene una responsabilidad determinante en la capacitación digital y el desarrollo de los derechos digitales. Estos derechos y capacidades deben empezar a trabajarse desde la infancia y con las políticas educativas, fomentando el uso de herramientas libres, la capacitación en la comprensión y el aprendizaje profundo de la tecnología (programación, instalación, configuración, y no solo uso) y de los valores y modelos tecnológicos justos y respetuosos con el derecho a aprender, el derecho a respetar la privacidad y el derecho a compartir y fomentar infraestructuras y servicios digitales comunes.
 categories: Educación
 topics: Digitalización
-text: Las Administraciones públicas han cedido terreno en la educación (tanto pública como concertada) a empresas privadas que gestionan los datos personales y los entornos y contenidos educativos de nuestras hijas e hijos. Las infraestructuras web, los sistemas operativos, los servicios digitales, los materiales formativos, etcétera, podrían perfectamente ensamblarse y distribuirse a un coste muy bajo desde la administración pública haciendo uso de las alternativas libres que ya existen. El sector educativo tiene una responsabilidad determinante en la capacitación digital y el desarrollo de los derechos digitales. Estos derechos y capacidades deben empezar a trabajarse desde la infancia y con las políticas educativas, fomentando el uso de herramientas libres, la capacitación en la comprensión y el aprendizaje profundo de la tecnología (programación, instalación, configuración, y no solo uso) y de los valores y modelos tecnológicos justos y respetuosos con el derecho a aprender, el derecho a respetar la privacidad y el derecho a compartir y fomentar infraestructuras y servicios digitales comunes.

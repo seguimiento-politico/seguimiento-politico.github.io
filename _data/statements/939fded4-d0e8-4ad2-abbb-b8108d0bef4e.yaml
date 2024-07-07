@@ -1,6 +1,6 @@
 id: 939fded4-d0e8-4ad2-abbb-b8108d0bef4e
 type: promise
-doc_id: d6790646-5ed5-43ef-88a0-1683dbbe464b
+parent_document: d6790646-5ed5-43ef-88a0-1683dbbe464b
 parties:
 - VOX
 scope: national
@@ -9,8 +9,13 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-06-16'
 page: 8
+parent_chapter: f7d833fa-aff7-4e92-ab7f-4430cb8f127b
+children_promises:
+- 7d4dc1d3-eeb6-405c-a59a-aade87c6fa7b
+- 5adf1bd5-caca-42e0-b459-0fcdbb7f1844
+- 27675fb6-84f7-41e7-841f-9d9d0ae515e5
+children_statements: []
+title: Fronteras
 categories:
 - Seguridad y defensa
 - Migración
-title: Fronteras
-has_children: true

@@ -1,6 +1,6 @@
 id: 14cc0a60-7646-4d82-ab5f-88802dbc34b3
 type: promise
-doc_id: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
+parent_document: 93724bd6-0bb1-479c-8f85-6225e8d60cf8
 parties:
 - PSOE
 - UNIDAS PODEMOS
@@ -10,5 +10,6 @@ election_type: generales
 election_date: '2019-11-10'
 publication_date: '2019-12-30'
 page: 35
-categories: Deporte
+parent_chapter: 41a18620-2fcb-4d08-bfd7-8060fe0440c1
 text: 'Definiremos un Modelo del Deporte Español y promoveremos una Ley del Deporte que se acompañará de un Plan Estratégico del Deporte en donde se buscará: <br>- Fomentar el deporte en edad escolar. <br>- Impulsar el deporte universitario. <br>- Apoyar la práctica del deporte como factor de integración e igualdad. <br>- Desarrollar a través del deporte campañas de educación en valores - alimentación y hábitos saludables y sostenibilidad. <br>- Potenciar el deporte femenino con medidas concretas para impulsar sus éxitos tanto a nivel nacional como internacional y para alcanzar la paridad en la práctica y en la gestión del deporte.'
+categories: Deporte

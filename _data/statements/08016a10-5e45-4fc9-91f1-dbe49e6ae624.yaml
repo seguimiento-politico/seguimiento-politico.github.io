@@ -1,7 +1,6 @@
 id: 08016a10-5e45-4fc9-91f1-dbe49e6ae624
 type: promise
-parent_statement: be9428ea-bd14-4f00-b555-67f088de447d
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,6 +8,8 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
+parent_statement: be9428ea-bd14-4f00-b555-67f088de447d
+parent_chapter: 4a4ec318-0db9-4da1-9515-2b36e808a75f
+text: Establecimiento de restricciones en la determinación de los límites máximos de residuos a partir del conocimiento científico generado.
 categories: Consumo
 topics: Alimentación saludable
-text: Establecimiento de restricciones en la determinación de los límites máximos de residuos a partir del conocimiento científico generado.

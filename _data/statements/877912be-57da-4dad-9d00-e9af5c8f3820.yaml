@@ -1,7 +1,6 @@
 id: 877912be-57da-4dad-9d00-e9af5c8f3820
 type: promise
-parent_statement: d257c015-9882-4c07-8593-2ec073b825b9
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -10,5 +9,7 @@ election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
 page: 77
-categories: Transporte
+parent_statement: d257c015-9882-4c07-8593-2ec073b825b9
+parent_chapter: a97d33b8-5d0d-4f18-ae40-4a52b218e524
 text: El protagonista de nuestra movilidad diaria debe ser el transporte público. Con este fondo priorizaremos inversiones eficientes en la red local y autonómica de autobús, metro, metro ligero, ferrocarril o tranvía.
+categories: Transporte

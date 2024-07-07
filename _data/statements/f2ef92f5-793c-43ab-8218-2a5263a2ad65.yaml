@@ -1,6 +1,6 @@
 id: f2ef92f5-793c-43ab-8218-2a5263a2ad65
-type: declaration
-doc_id: 28b3e8d2-a87e-4225-9165-29f7364c2f37
+type: statement
+parent_document: 28b3e8d2-a87e-4225-9165-29f7364c2f37
 parties:
 - VOX
 scope: national
@@ -8,5 +8,6 @@ country: spain
 election_type: generales
 publication_date: '2021-10-16'
 page: 15
-categories: Comercio
+parent_chapter: 15957f8e-1f85-4690-833e-97db1ad6f08c
 text: La política de puertas abiertas al producto extranjero supone, a su vez, la desaparición de numerosas explotaciones agrícolas y ganaderas, incapaces de hacer frente a la competencia desleal de los productos procedentes de países en vías de desarrollo.
+categories: Comercio

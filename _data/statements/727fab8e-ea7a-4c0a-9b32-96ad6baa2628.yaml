@@ -1,6 +1,6 @@
 id: 727fab8e-ea7a-4c0a-9b32-96ad6baa2628
-type: declaration
-doc_id: 40da9ebe-3c16-4857-9df9-ddc044a62953
+type: statement
+parent_document: 40da9ebe-3c16-4857-9df9-ddc044a62953
 parties:
 - PSOE
 scope: national
@@ -8,6 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-10'
+parent_chapter: 37ccd35a-fe53-4de6-9cb4-dcc2c03bbd66
+text: Un objetivo 2030 es lograr poner fin a la pandemia del VIH, así como terminar con el estigma que aún pende sobre el virus y las personas que lo portan, y que supone una barrera crucial que dificulta la detección temprana.<br><br> Una sociedad con cero discriminación hacia las personas con VIH sería una sociedad en la que habría cero infecciones nuevas. Desde el gobierno, los y las socialistas hemos derribado muchas barreras históricas que impedían a las personas con VIH acceder al empleo, porque sabemos que indetectable significa intransmisible.
 categories: Derechos y servicios sociales
 topics: VIH
-text: Un objetivo 2030 es lograr poner fin a la pandemia del VIH, así como terminar con el estigma que aún pende sobre el virus y las personas que lo portan, y que supone una barrera crucial que dificulta la detección temprana.<br><br> Una sociedad con cero discriminación hacia las personas con VIH sería una sociedad en la que habría cero infecciones nuevas. Desde el gobierno, los y las socialistas hemos derribado muchas barreras históricas que impedían a las personas con VIH acceder al empleo, porque sabemos que indetectable significa intransmisible.

@@ -1,7 +1,6 @@
 id: e05e3c44-e697-4607-8e19-10310da4b533
 type: promise
-parent_statement: 1dabb1d0-98d5-4135-af04-6031967fef75
-doc_id: 7a32b672-907a-402e-b69c-cd55d184cbf3
+parent_document: 7a32b672-907a-402e-b69c-cd55d184cbf3
 parties:
 - SUMAR
 scope: national
@@ -9,5 +8,7 @@ country: spain
 election_type: generales
 election_date: '2023-07-23'
 publication_date: '2023-07-12'
-categories: Administración pública
+parent_statement: 1dabb1d0-98d5-4135-af04-6031967fef75
+parent_chapter: f4f32036-0cfd-4ca9-b6f3-5cfec1c58526
 text: utilizar las nuevas tecnologías para conocer mejor las necesidades de la ciudadanía (mejora de diagnósticos) y adaptar las respuestas a las necesidades de cada persona, colectivo o territorio;
+categories: Administración pública
