@@ -11,6 +11,8 @@
     - name: Grupos de presión
     - name: Políticas ineficaces
     - name: Medidas coercitivas
+    - name: Separación de poderes
+    - name: Politización de los poderes
     - name: Políticos
       children:
       - name: Carles Puigdemont
@@ -66,7 +68,10 @@
     children:
     - name: Control del gasto
     - name: Austeridad
-    - name: Malgasto de fondos públicos
+    - name: Malgasto
+    - name: Aumentar el gasto
+    - name: Reducir el gasto
+    - name: Optimizar el gasto
     - name: Malversación de fondos públicos
     - name: Control de ayudas
   - name: Servicios sociales
@@ -91,7 +96,6 @@
         children:
         - name: Reincidencia
         - name: Violencia
-        - name: Crimen organizado
       - name: Delitos graves
       - name: Terrorismo
         children:
@@ -126,7 +130,6 @@
       children:
       - name: Protección de especies
     - name: Contaminación
-    - name: Recursos naturales
   - name: Infraestructuras
     icon: road-bridge
     children:
@@ -143,9 +146,7 @@
       - name: Marítimo
       - name: Aéreo
       - name: Trafico rodado
-        icon: car-side
-        children:
-        - name: Vehículo eléctrico
+        icon: car-side        
       - name: Ferrovial
 - name: Sociedad
   children:
@@ -157,6 +158,7 @@
     - name: Animalismo
     - name: LGTBI
     - name: Feminismo
+    - name: Identidades de género
     - name: Ecologismo
       children:
       - name: Ecologismo radical
@@ -179,6 +181,8 @@
         - name: Independentismo vasco 
   - name: Costumbres y tradiciones
   - name: Lenguas
+    children:
+    - name: Lengua española
   - name: Religión
     children:
     - name: Islam
@@ -215,6 +219,8 @@
         - name: Riesgo migratorio
         - name: Devolución de inmigrantes
         - name: Travesías en patera
+        - name: Menores no acompañados
+        - name: Protección de menores no acompañados
       - name: Transculturación 
       - name: Multiculturalismo 
       - name: Integración social
@@ -259,6 +265,8 @@
     - name: Productividad
     - name: Inflación
     - name: Consumo
+      children:
+      - name: Consumidor final
     - name: Sectores productivos
       children:
       - name: Desprestigio sectores productivos
@@ -290,9 +298,19 @@
         - name: Construcción
         - name: Energía
           children: 
+          - name: Diversificación mix energético 
           - name: Pobreza energética
+          - name: Soberanía energética
+          - name: Seguridad energética
+          - name: Independencia energética
           - name: Combustibles fósiles
+          - name: Energía sostenible
           - name: Energía nuclear
+          - name: Energías no renovables
+          - name: Centrales eléctricas
+            children:
+            - name: Centrales de carbón
+            - name: Ciclo combinado
           - name: Energías renovables
             children:
             - name: Energía solar
@@ -304,6 +322,9 @@
           - name: Fracking
         - name: Deslocalización industrial
         - name: Industria automovilística
+          children:
+          - name: Vehículo eléctrico
+          - name: Vehículo de combustión
         - name: Industria farmacéutica
       - name: Sector servicios
         children:
@@ -343,7 +364,7 @@
         - name: Empresas privadas
         - name: Empresas públicas
         - name: Autónomos
-        - name: pymes
+        - name: PYMES
         - name: Multinacionales
 - name: Comunidad internacional
   children:
@@ -364,6 +385,8 @@
             children:
             - name: Parlamento europeo
             - name: Comisión europea
+            - name: Consejo europeo
+            - name: Consejo de la Unión Europea
             - name: Tribunales europeos
               children:
               - name: Tribunal Europeo de Derechos Humanos
@@ -382,6 +405,7 @@
               - name: Europol
               - name: Ejército europeo
           - name: Recomendaciones europeas
+          - name: Fundamentos de la unión europea
           - name: Normativas europeas
             children:
             - name: Política comercial europea
@@ -391,10 +415,10 @@
               - name: Reglamento de Eurodac
               - name: Sistema de asilo
               - name: Reglamento de reparto del esfuerzo
-            - name: Política Agraria Común
-              slug: PAC
-            - name: Política Pesquera Común
-              slug: PPC
+            - name: PAC
+              abbr_of: Política Agraria Común
+            - name: PPC
+              abbr_of: Política Pesquera Común
             - name: Políticas europeas de desarrollo sostenible
               children:
               - name: Pacto Verde Europeo
@@ -407,7 +431,8 @@
               - name: Control y reducción de emisiones
               - name: Ley Europea del Clima
               - name: Mecanismo de ajuste de las emisiones de carbono en frontera
-              - name: Paquete de medidas “Objetivo 55”
+              - name: Objetivo 55
+              - name: Repower EU
             - name: Políticas medioambientales
               children:
               - name: Directiva Hábitats
@@ -423,11 +448,12 @@
       - name: Cambio climático
         children:
         - name: Dogmatismo climático
-        - name: Negacionismo climático
+        - name: Negacionismo climáticoEnergía
         - name: Empirismo climático
         - name: Adaptación al cambio climático
         - name: Mitigación del cambio climático         
         - name: Gases de efecto invernadero
+        - name: Acuerdo de París
       - name: Capa de ozono
       - name: Desarrollo sostenible
         children:
@@ -457,6 +483,11 @@
       - name: Océano Atlántico
       - name: Océano Pacífico
       - name: Reino Unido
+      - name: Hungría
+      - name: Polonia
+      - name: Bélgica
+      - name: Suecia
+      - name: Francia
 - name: Otros
   children:
   - name: Reforma
@@ -469,8 +500,64 @@
   - name: Fraude comercial
   - name: Promoción producto nacional
   - name: Desprestigio producto nacional
-    
-  
+  - name: Eficiencia energética
+  - name: Protección de menores
+  - name: Energía limpia
+  - name: Empresas eléctricas
+  - name: Ley del Sector Eléctrico
+  - name: Oligopolios
+  - name: Energía barata
+  - name: Mercado 
+  - name: Comercio de emisiones
+  - name: Estrategia de Soberanía Energética
+  - name: Visión a largo plazo
+  - name: Estabilidad política
+  - name: Consistencia política
+  - name: Diversificación sumistradores
+  - name: Aprovechamiento de recursos naturales
+  - name: Diversificación proveedores de combustible
+  - name: Mix energético
+  - name: Exportación energía
+  - name: Falta de voluntad política
+  - name: Impuestos verdes
+  - name: Mercado eléctrico
+  - name: Importación de combustibles fósiles
+  - name: Clase media
+  - name: Censura
+  - name: Multinacionales
+  - name: Derecho al aborto
+  - name: Diversidad social
+  - name: Diversidad cultural
+  - name: Autocomplacencia
+  - name: Planificación y control
+  - name: Ley Europea de Libertad de los Medios de Comunicación
+  - name: Carta de los Derechos Fundamentales de la Unión Europea
+  - name: Cuotas de género
+  - name: Familias numerosas
+  - name: Criminalización injusta
+  - name: Privacidad digital
+  - name: Poder multinacionales
+  - name: Libertad de expresión
+  - name: Persecución religiosa
+  - name: Libertad religiosa
+  - name: Tratado de Pandemias
+  - name: Investigación
+  - name: Intimidad
+  - name: OMS
+  - name: Política exterior europea
+  - name: Supranacionalidad
+  - name: Principio de Subsidiariedadç
+  - name: Reducir competencias de la Unión Europea
+  - name: Federalización de Europa
+  - name: Identidad europea
+  - name: Prosperidad
+  - name: Tratados de la UE
+  - name: Requisito de unanimidad
+  - name: Control de calidad democrática
+  - name: Valores democráticos
+  - name: Valores liberales
+  - name: Ampliación de la UE
+  - name: Acuerdos bilaterales
   
   
   

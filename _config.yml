@@ -34,6 +34,8 @@ socials:
 
 lang: es
 
+future: false # to publish posts only when post.date has been reached
+
 repository-source: https://github.com
 raw-repository-source: https://github.com/seguimiento-politico/seguimiento-politico.github.io/blob/master/
 repository: seguimiento-politico/seguimiento-politico.github.io/

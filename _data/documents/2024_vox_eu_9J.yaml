@@ -123,11 +123,11 @@ content:
           - coherence: low
             explanation: Se defienden a la misma vez los <u>intereses europeos</u> y los <u>intereses de los españoles</u> como si fueran la misma cosa. De acuerdo a la propia visión del partido en otras declaraciones de este documento, no lo son.
           - objectivity: low
-            explanation: Las declaraciones del partido se basan en su propia ideología, su visión de como deben ser las cosas. La cuestión del "interés nacional" resulta de por sí bastante subjetiva, pues depende en gran medida del prisma del observador. Existen sin embargo, algunos parámetros que sin ser su interpretación libre de subjetividad si ofrecen evidencias objetivas, como por ejemplo indicadores económicos o de bienestar social, a los que no se hacen referencia.
+            explanation: El "interés nacional" es subjetivo, depende de quien lo interprete. Sin embargo, hay parámetros relativamente objetivos, como indicadores económicos y de bienestar social, que no se mencionan.
     - statement:
         id: 1c54f016-2f3d-426f-938c-51f991673dcf
         page: 4
-        text: En lugar de servir a los españoles, el Partido Popular y el Partido Socialista han acatado de forma servil las órdenes de los burócratas de Bruselas, llegando a votar a favor de toda clase de normas e imposiciones que eran claramente contrarias a los intereses de España, incluso por intereses del grupo político al que pertenecen. Si la Unión Europea está en crisis es porque determinadas ideologías y grupos de presión han gobernado Europa de espaldas a los europeos, haciéndonos cada vez más sumisos y dependientes de terceros países e intereses de lobbies ideológicos.'
+        text: En lugar de servir a los españoles, el Partido Popular y el Partido Socialista han acatado de forma servil las órdenes de los burócratas de Bruselas, llegando a votar a favor de toda clase de normas e imposiciones que eran claramente contrarias a los intereses de España, incluso por intereses del grupo político al que pertenecen. Si la Unión Europea está en crisis es porque determinadas ideologías y grupos de presión han gobernado Europa de espaldas a los europeos, haciéndonos cada vez más sumisos y dependientes de terceros países e intereses de lobbies ideológicos.
         arguments:
         - status_negative: [PP, PSOE, Unión Europea]
           status_negative_due: [Clientelismo, Grupos de presión, Deshonestidad]
@@ -138,7 +138,7 @@ content:
         text: 'Con cada votación, el consenso de populares y socialistas ha ido erosionando cada vez más la prosperidad y la soberanía de nuestras naciones. Lo que parecían normas inocuas, que se aprobaban en instituciones muy lejanas, han tenido consecuencias muy graves para el día a día de los europeos: han provocado la pérdida y precarización de los empleos, una merma en la calidad de vida de los españoles, el aumento del precio de los suministros y la pérdida de poder adquisitivo de las familias, menos libertad y un deterioro sin precedentes de distintos sectores productivos.'
         arguments:
         - status_negative: [PP, PSOE, Unión Europea]
-          status_negative_obstructs: [Interés comunitario, Interés nacional, Calidad de vida, Libertad, Sectores productivos]
+          status_negative_obstructs: [Interés comunitario, Interés nacional, Calidad de vida, Libertad, Sectores productivos, Prosperidad]
           status_negative_promotes: [Paro, Precarización empleos, Inflación] 
           text: Con el consenso de PP y PSOE se han aprobado normas con efectos negativos en Europa provocado la pérdida y precarización de lempleos, merma en la calidad de vida, aumento del precio de los suministros y pérdida de poder adquisitivo de las familias, menos libertad y un deterioro de distintos sectores productivos
     - statement:
@@ -148,9 +148,14 @@ content:
         arguments:
         - status_negative: [PP, PSOE, Unión Europea]
           status_negative_due: [Dogmatismo político, Burocracia]
-          status_negative_obstructs: [Interés nacional, Control del gasto, Servicios públicos, Natalidad]
-          status_negative_promotes: [Subida de impuestos]
+          status_negative_obstructs: [Interés nacional, Control del gasto, Servicios públicos, Natalidad, Prosperidad, Bienestar]
+          status_negative_promotes: [Subida de impuestos, Aumento del gasto]
           text: Los sucesivos gobiernos nacionales han causado subidas de impuestos, aumento del gasto político superfluo, deterioro de nuestros servicios públicos y dificultado la formación de familias, porque en vez de defender nuestros intereses han aceptado normas guiadas sólo por la ideología que socavaban nuestra prosperidad y bienestar.
+        analysis:
+        - fallacy: ambiguity
+          explanation: Se emplea la expresión "aumento del gasto político superfluo" sin especificar a que gastos concretos se refieren ni evidencias de su existencia, permitiendo múltiples interpretaciones.
+        - fallacy: ad_populum
+          explanation: La afirmación utiliza un lenguaje cargado emocionalmente (como "implacable", "asfixiante", "humillaciones") para provocar una respuesta emocional en el lector, sin proporcionar hechos concretos.
     - statement:
         id: 0524b46a-ac45-4c24-8089-5d84a6956aa4
         page: 5
@@ -203,7 +208,7 @@ content:
           literal: true
         arguments:
         - status_negative: [PP, PSOE]
-          status_negative_obstructs: [Soberanía nacional, Interés nacional]
+          status_negative_obstructs: [Soberanía nacional, Interés nacional, Prosperidad]
           text: populares y socialistas que en España teatralizaban sus diferencias, en Bruselas iban de la mano y votaban el 90% de las ocasiones de forma conjunta en contra de los intereses, la soberanía y la prosperidad de nuestra Nación.
           literal: true
     - statement:
@@ -213,7 +218,7 @@ content:
         prescriptions:
         - for: [Unión Europea]
           position: positive
-          to_promote: [Nacionalismo, Interés comunitario, Economía, Soberanía nacional]
+          to_promote: [Nacionalismo, Interés comunitario, Economía, Soberanía nacional, Prosperidad, Bienestar]
           text: tenemos una oportunidad única para cambiar el rumbo de Europa y recuperar las riendas de su destino frente a los que nos llevan irrevocablemente a la ruina y la sumisión, mediante el movimiento patriota que busca recuperar Europa y poner a trabajar a las instituciones europeas al servicio de los intereses de las Naciones que la conforman. 
     - statement:
         id: 4ee82bf6-1f17-48db-856d-d7f90c0c1b3e
@@ -223,7 +228,7 @@ content:
         - for: [Unión Europea]
           position: positive
           to_obstruct: [Dogmatismo político, Grupos de presión]
-          to_promote: [Soberanía nacional, Economía]
+          to_promote: [Soberanía nacional, Prosperidad]
           text: No podemos permitir que Europa siga gobernada por ideologías y lobbies extranjeros que buscan la sumisión de nuestras Naciones y el fin de la prosperidad de nuestros pueblos.
           literal: true
     - statement:
@@ -265,8 +270,9 @@ content:
             topics: [Impuestos]
             actions:
             - over: [Unión Europea]
-              to_promote: [Control del gasto, Interés comunitario]
+              to_promote: [Interés comunitario]
               to_obstruct: [Clientelismo]
+              by_promoting: [Reducir el gasto]
               text: Exigir la reducción de todo el gasto político superfluo en las instituciones comunitarias.
               analysis:
               - fallacy: false_correlation
@@ -394,7 +400,7 @@ content:
         - text: millones de euros que podían haber sido destinados al bienestar de nuestra Nación han sido destinados en su lugar al cumplimiento de los 17 ODS.
           literal: true
           position_negative: [ODS, Agenda 2030]
-          position_negative_promotes: [Malgasto de fondos públicos]
+          position_negative_promotes: [Malgasto]
           position_negative_obstructs: [Servicios sociales]
     - statement:
         id: 7f0ad76f-a506-418e-adf0-c32a323e457d
@@ -583,16 +589,20 @@ content:
             actions:
             - over: [Recomendaciones europeas]
               to_promote: [Medioambiente, Sector primario]
+            analysis:
+            - fallacy: manipulation_ambiguity
+              explanation: La afirmación es lo suficientemente vaga para permitir múltiples interpretaciones. Con "verdadera conservación del medio natural" se apela a un ideal sin explicar en qué se diferencia esta "verdadera" conservación de las políticas actuales u otras propuestas. Análogamente, al decir "apoyo y respeto" con el sector primario, se vuelven a emplear términos vagos pero que tienen connotaciones positivas, sin entrar en detalles sobre cómo se lograrán estos objetivos o cuáles serán las medidas específicas. Esto puede ser una táctica para atraer tanto a los defensores del medio ambiente como a los interesados en el sector primario sin comprometerse a medidas concretas que podrían ser impopulares.
         - promise:
             id: a6eefb64-17b0-46a8-906c-08d1a107ba54
             page: 11
             text: Actualizar los contenidos de la Directiva hábitat en relación al control de especies en expansión como el lobo y revisar la cuota de pesca de atún rojo en el Mediterráneo.
-            categories: [Medioambiente, Pesca y acuicultura]
             actions:
-            - over: [Normativa europea]
+            - over: [Directiva Hábitats]
               to_promote: [Sector primario]
-              by_changing: [Directiva Hábitats]
-              by_obstructing: [Control pesquero, Protección de especies]
+              by_obstructing: [Control pesquero, Protección de especies, Protección de especies]
+            analysis:
+            - fallacy: euphemism
+              explanation: Los términos "control de especies en expansión" o "actualizar" y "revisar", parecen ser eufemismos que intentan suavizar la percepción de acciones que podrían ser controvertidas, haciéndolas parecer más neutras. En este caso puede implicar medidas como la reducción de la protección e incremento de la caza y pesca de especies protegidas que se están recuperando.
         - promise:
             id: 7c2ce2dd-74c0-4327-83be-57325b9c459f
             page: 11
@@ -600,6 +610,13 @@ content:
             actions:
             - over: [Unión Europea]
               to_promote: [Interés nacional, Sector primario]
+            analysis:
+            - claridad: low
+              explanation: Se refiere a un conjunto amplio y posiblemente variado de intereses nacionales. Resulta una afirmación vaga que no especifica qué intereses específicos de España y del sector primario se pretenden defender. Esta falta de claridad puede ser intencional para permitir una interpretación amplia y flexible según la audiencia.
+            - generalization: high
+              explanation: Al hablar de "los intereses de España", se asume que hay un conjunto uniforme de intereses que representan a todo el país, ignorando que pueden existir intereses divergentes entre diferentes sectores o regiones.
+            - fallacy: ad_popullum
+              explanation: La referencia a "los intereses de España" busca evocar sentimientos patrióticos. Este tipo de falacia intenta ganar apoyo apelando a las emociones y el orgullo nacional en lugar de presentar argumentos concretos.
         - promise:
             id: 24665f89-fc03-4258-8ec2-25193e4d0247
             page: 11
@@ -626,8 +643,9 @@ content:
             actions:
             - over: [Normativa Europea]
               to_promote: [Economía]
-              by_promoting: [Combustibles fósiles]
-              by_obstructing: [Paquete de medidas “Objetivo 55”, Mitigación del cambio climático, Vehículo eléctrico]
+              by_not_obstructing: [Vehículo de combustión]
+              by_eliminating: [Objetivo 55]
+              negative_consequences: [Mitigación del cambio climático, Vehículo eléctrico]
 - chapter:
     title: Exigiremos unas fronteras fuertes para acabar con la inmigración ilegal
     children:
@@ -673,7 +691,7 @@ content:
           - fallacy: generalization
             explanation: La afirmación no diferencia entre las distintas razones y circunstancias por las cuales los inmigrantes pueden entrar ilegalmente en Europa. Algunos pueden estar escapando de conflictos, persecuciones o situaciones de extrema pobreza, y no todos están predispuestos a cometer delitos o depender de ayudas públicas.
           - fallacy: false_dichotomy
-            explanation: Se crea una falsa dicotomía al presentar dos categorías contrapuestas, de "buenos y malos", sin posibilidad de términos medios simplificando demasiado la cuestión. Se ignoran las causas por las que los inmigrantes Por ejemplo, se ignora la posibilidad de que en el caso de inmigrantes ilegales, resulte más difícil integrarse en la sociedad por la imposibilidad de obtener un empleo regular lo que, posiblemente, les haga más dependientes de las ayudas y proclives a delinquir. De manera similar, se simplifican las posibles dificultades de los inmigrantes legales, como las políticas de integración insuficientes, discriminación y barreras laborales y educativas. 
+            explanation: Se crea una falsa dicotomía al presentar dos categorías contrapuestas, de "buenos y malos", sin posibilidad de términos medios simplificando demasiado la cuestión. Por ejemplo, se ignora la posibilidad de que en el caso de inmigrantes ilegales, resulte más difícil integrarse en la sociedad al no obtener un empleo lo que, a su vez, posiblemente les haga más dependientes de las ayudas y proclives a delinquir. De manera similar, se simplifican las posibles dificultades de los inmigrantes legales, como las políticas de integración insuficientes, discriminación y barreras laborales y educativas. 
           - fallacy: appeal_to_fear
             explanation: El lenguaje utilizado ("agrediendo a nuestra policía", "cometiendo delitos reincidentes", "tratando de vivir de las ayudas públicas") puede estar diseñado para generar miedo y rechazo hacia los inmigrantes ilegales, lo cual es una táctica retórica que simplifica el problema al apelar a emociones negativas.
           - objectivity: low
@@ -705,7 +723,7 @@ content:
           analysis:
           - fallacy: generalization
             explanation: La afirmación de que "muchos" inmigrantes irregulares tienen un historial delictivo en sus países de origen y continúan delinquiendo en Europa implica una generalización amplia y no respaldada por datos concretos.
-          - fallacy: attack_to_distorted
+          - fallacy: ad_ignorantiam
             explanation: Se podría argumentar que el texto está creando una imagen exagerada de los inmigrantes irregulares como portadores exclusivos de conductas delictivas y valores incompatibles con la cultura europea. Esto podría distorsionar la realidad y desviar la atención de otras causas de problemas sociales y criminales.
           - fallacy: false_dichotomy
             explanation: La afirmación podría implicar una falsa dicotomía al presentar la situación como si existiera una oposición clara entre los valores y raíces de la cultura europea y las ideas traídas por los inmigrantes irregulares. Esta simplificación puede ignorar la capacidad de las culturas para interactuar, adaptarse y cambiar mutuamente.
@@ -744,7 +762,7 @@ content:
           text: Por su parte, los inmigrantes ilegales deben constatar que consecutivamente a su llegada se produce su expulsión inmediata. Europa debe mandar el mensaje claro de que nadie que entre ilegalmente en sus fronteras podrá regularizar su situación en ninguno de los países de la Unión.
           analysis:
           - clarity: low
-            explanation: Cuando se refieren a "expulsión inmediata" probablemente se refieran a  una "devolución en caliente". Legalmente, la **devolución** se aplica a inmigrantes interceptados intentando entrar ilegalmente, mientras que la **expulsión** se aplica a inmigrantes que ya se encuentran en territorio español, en estancia irregular.
+            explanation: Cuando se refieren a "expulsión inmediata" probablemente se refieran a  una "devolución en caliente". Legalmente, la <u>devolución</u> se aplica a inmigrantes interceptados intentando entrar ilegalmente, mientras que la <u>expulsión</u> se aplica a inmigrantes que ya se encuentran en territorio español, en estancia irregular.
           - legality: doubtful
             explanation: Tanto la devolución como la expulsión sin un proceso formal de identificación, evaluación de la situación individual y sin proporcionar la oportunidad de presentar una solicitud de asilo es contraria al derecho internacional y a las obligaciones legales de España en materia de derechos humanos y protección de refugiados. Concretamente el Artículo 33 (Principio de no devolución) de la Convención sobre el Estatuto de los Refugiados de 1951 y su Protocolo de 1967.
     - statement:
@@ -757,8 +775,11 @@ content:
           to_obstruct: [Permiso de residencia]
           text: los terceros estados receptores de miles de millones en fondos para el desarrollo deben ser socios leales y cooperar con la UE. Se debe condicionar la financiación a terceros países a una verdadera cooperación en materia de inmigración. El derecho de asilo no es un derecho a vivir en la UE, sino a recibir protección.
           analysis:
-          - legality: true
-            explanation: En general, la concesión del derecho de asilo implica que el país que lo concede asume la responsabilidad de proteger al individuo dentro de su propio territorio, de acuerdo con las obligaciones y normativas internacionales en materia de refugio y asilo. Sin embargo, bajo ciertas circunstancias específicas, podría considerarse una forma de "protección en tercer país" cuando varios países cooperan para ofrecer una solución conjunta. Legalmente, esto requiere además el consentimiento y la voluntariedad del individuo afectado, respetando siempre sus derechos y dignidad. Ver Artículo 32 (Reasentamiento), de la Convención sobre el Estatuto de los Refugiados de 1951 y su Protocolo de 1967.
+          - information: aditional
+            explanation: En general, la concesión del derecho de asilo implica que el país que lo concede asume la responsabilidad de proteger al individuo dentro de su propio territorio, de acuerdo con las obligaciones y normativas internacionales en materia de refugio y asilo. Sin embargo, bajo ciertas circunstancias específicas, podría considerarse una forma de <u>"protección en tercer país"</u> cuando varios países cooperan para ofrecer una solución conjunta. Legalmente, esto requiere además el consentimiento y la voluntariedad del individuo afectado, respetando siempre sus derechos y dignidad.
+            sources:
+          - information: aditional
+            knowledge: Para más información relativa a la "protección en tercer país" puedes consultar <a href="/blog/asilo-proteccion-tercer-pais"> este artículo</a> en el que profundizamos más.
     - statement:
         id: 5fb97e80-94c1-4754-bb02-610dae6b0bb4
         page: 14
@@ -875,7 +896,7 @@ content:
             actions:
             - text: Utilizar los fondos de los europeos de manera responsable y estratégica.
               over: [Presupuesto comunitario]
-              to_promote: [Control del gasto]
+              to_promote: [Optimización del gasto]
               view: strategic
         - promise:
             id: 3476b740-f8b7-48cf-93f9-44bf8e2f3906
@@ -912,6 +933,11 @@ content:
             actions:
             - text: Reformar el sistema de asilo para evitar los abusos y respetar el principio de no-devolución de la Convención de Ginebra, favoreciendo la integración regional de los asilados
               literal: false
+              analysis:
+              - specific: low
+                explanation: No se ofrecen detalles en la manera que se desea reformar el sistema de asilo, ni se aportan detalles de los supuestos abusos que se querría evitar.
+              - information: aditional
+                knowledge: [Principio de no-devolucion]
             - text: acuerdos con terceros países deben facilitar la integración regional de los asilados
         - promise:
             id: e93f051e-9b47-423f-9431-7a8ebc735b2d
@@ -960,7 +986,6 @@ content:
               to_obstruct: [Inmigración ilegal]
               to_promote: [Inmigración legal]
               by_obstructing: [Regularización migratoria, Permiso de residencia]
-              by_obstructing_if: [Inmigración ilegal]
             actions:
             - text: Impulsar, desde la UE, el fin de la institución del “arraigo” (autorización temporal de residencia excepcional) como modo de obtención de permisos de residencia y prohibir las regularizaciones extraordinarias.
               literal: true 
@@ -992,7 +1017,7 @@ content:
                 explanation: La relación propuesta entre el endurecimiento de penas y la persecución efectiva de las mafias es un enfoque simplificado que asume una relación directa de causa y efecto. El endurecimiento de penas puede tener un efecto disuasorio (dependiendo de la probabilidad de ser atrapado y procesado) y en algunos casos contribuir a una persecución más efectiva. No obstante, su efectividad real depende de una serie de factores adicionales, como la capacidad de las fuerzas de seguridad y del sistema judicial para investigar, arrestar, procesar y condenar a los criminales. Sin un fortalecimiento paralelo de estos aspectos, el endurecimiento de penas puede no ser suficiente. 
               - fallacy: over_simplification
                 explanation: Las causas subyacentes del tráfico y trata de personas a menudo están relacionadas con factores económicos y sociales, como la pobreza y la falta de oportunidades. Abordar solo la cuestión punitiva puede ser insuficiente sin intervenciones que aborden estos factores.
-              - fallacy: attack_to_distorted
+              - fallacy: ad_ignorantiam
                 explanation: 'La declaración parece asumir que las ONGs, empresas y particulares que facilitan la entrada ilegal están colaborando con las mafias y blanqueando actividades criminales. Se trata de dos cosas distintas. Por ejemplo: Una ONG que rescata en el mar a inmigrantes en pateras, facilita la entrada ilegal pero no colabora con mafias. En definitiva, se trata de una distorción de la realidad que tergiversa los motivos y acciones de muchas ONGs y particulares, facilitando su ataque.'
             - text: Acabar con cualquier subvención a estas asociaciones, que facilitan y blanquean la actividad criminal de las mafias.
               literal: true
@@ -1051,7 +1076,7 @@ content:
           analysis:
           - information: aditional
             explanation: Nutriscore es un sistema de etiquetado nutricional que utiliza colores y letras para indicar la calidad nutricional de los alimentos, diseñado para ayudar a los consumidores a tomar decisiones más saludables.
-          - fallacy: attack_to_distorted
+          - fallacy: ad_ignorantiam
             explanation: La afirmación distorsiona la naturaleza de Nutriscore, presentándolo como una herramienta ideológica sin reconocer su base científica.
           - coherence: low 
             explanation: La afirmación presenta un defecto de coherencia al criticar a Nutriscore por ser ideológico sin proporcionar una base científica sólida para la crítica.
@@ -1201,13 +1226,13 @@ content:
             actions:
             - over: [Política comercial europea]
               to_promote: [Comercio comunitario]
-              by_prmoting: [Proteccionismo comercial]
+              by_promoting: [Proteccionismo comercial]
         - promise:
             id: e4afffc4-854f-4a59-b33d-169dbde822ce
             page: 20
             text: Impulsar un nuevo Reglamento para el sector pesquero que proteja realmente los intereses de nuestros pescadores y que potencie la competitividad de la industria pesquera española.
             actions:
-            - over: [Política Pesquera Común]
+            - over: [PPC]
               to_promote: [Pesca]
               analysis:
               - specific: low
@@ -1271,10 +1296,11 @@ content:
             text: Garantizar que cualquier política fitosanitaria en materia agroalimentaria se base estrictamente en criterios científicos y no en criterios ideológicos que sólo favorecen a intereses elitistas. Exigir el cese inmediato de todas aquellas herramientas ideológicas de etiquetado nutricional como Nutriscore que dan más valor a bebidas azucaradas que a productos tan arraigados a nuestra dieta mediterránea como el aceite de oliva o el jamón ibérico.
             topics: [Medioambiente]
             arguments:
-              - position_negative: [Nutriscore]
-                position_negative_due: [Dogmatismo político]
+            - position_negative: [Nutriscore]
+              position_negative_due: [Dogmatismo político]
             actions:
             - text: Garantizar que cualquier política fitosanitaria en materia agroalimentaria se base estrictamente en criterios científicos y no en criterios ideológicos que sólo favorecen a intereses elitistas.
+              literal: true
               over: [Industria agroalimentaria]
               to_promote: [Productividad, Agricultura, Ganadería]
               by_promoting: [Productos fitosanitarios]
@@ -1285,16 +1311,17 @@ content:
                 explanation: La afirmación crea una falsa dicotomía entre ciencia e ideología. Implícitamente se defiende que las políticas de protección medioambiental derivan únicamente de la ideología ecologista y que no pueden basarse en evidencia científica sólida.
               - fallacy: over_simplification 
                 explanation: Al simplificar el debate sobre fitosanitarios como una cuestión entre ecologismo y ciencia, se ignoran otras consideraciones importantes, como la salud pública. 
-              - fallacy: attack_to_distorted
+              - fallacy: ad_ignorantiam
                 explanation: La afirmación distorsiona los argumentos que defienden la limitación en el uso de productos fitosanitarios. Los relaciona directa y únicamente al ecologismo, presentándolos como elitistas y fáciles de atacar por una supuesta falta de base científica, lo cual es una falacia del hombre de paja.
               - coherence: low
                 explanation: La afirmación es incoherente al criticar las ideologías por ser parciales mientras defiende una postura ideológica sin evidencia científica concreta, socavando su propia premisa de basarse únicamente en la ciencia.
             - text: Exigir el cese inmediato de todas aquellas herramientas ideológicas de etiquetado nutricional como Nutriscore
+              literal: true
               to_obstruct: [Nutriscore]
               analysis:
                   - information: aditional
                     explanation: Nutriscore es un sistema de etiquetado nutricional que utiliza colores y letras para indicar la calidad nutricional de los alimentos, diseñado para ayudar a los consumidores a tomar decisiones más saludables.
-                  - fallacy: attack_to_distorted
+                  - fallacy: ad_ignorantiam
                     explanation: La afirmación distorsiona la naturaleza de Nutriscore, presentándolo como una herramienta ideológica sin reconocer su base en la ciencia de la nutrición.
                   - fallacy: false_dichotomy
                     explanation: Sugiere que existen herramientas de etiquetado no ideológicas sin definir cuáles serían ni cómo evitarían los problemas atribuidos a Nutriscore.
@@ -1305,206 +1332,205 @@ content:
         - promise:
             id: e1579015-ea54-4940-8258-66e6f5546530
             page: 21
-            text: Poner fin a todas aquellas políticas e iniciativas que criminalizan al sector del automóvil. Cualquier imposición climática que merme la competitividad y supervivencia del sector debe ser derogada inmediatamente. Apoyaremos decididamente a la industria del motor de combustión y garantizaremos la continuidad de todos los clústeres y plantas que operan actualmente en España.
-            categories: [Industria, Medioambiente]
-            topics: 
-            - name: Cambio climático
-            - name: Sector del automóvil
-              positive_actions:
+            title: Poner fin a todas aquellas políticas e iniciativas que criminalizan al sector del automóvil. 
+            text: Cualquier imposición climática que merme la competitividad y supervivencia del sector debe ser derogada inmediatamente. Apoyaremos decididamente a la industria del motor de combustión y garantizaremos la continuidad de todos los clústeres y plantas que operan actualmente en España.
+            topics: [Medioambiente]
+            actions:
+            - to_promote: [Industria automovilística]
+              by_obstructing: [Mitigación del cambio climático] 
+              by_not_obstructing: [Vehículo de combustión]
+              by_not_promoting: [Movilidad sostenible, Vehículo eléctrico]
+              negative_consequences: [Medioambiente, Cambio climático]
+              texts: 
               - text: Poner fin a todas aquellas políticas e iniciativas que criminalizan al sector.
+                literal: true
               - text: Cualquier imposición climática que merme la competitividad y supervivencia del sector debe ser derogada inmediatamente
+                literal: true
               - text: Apoyaremos decididamente a la industria del motor de combustión
-              - text: Garantizaremos la continuidad de todos los clústeres y plantas que operan actualmente en España
-            - name: Vehículo eléctrico
-              positive_actions:
-              - text: Apoyaremos decididamente a la industria del motor de combustión
+                literal: true
+            - to_promote: [Industria automovilística]
+              positive_consequences: [Trabajo, Economía]
+              text: Garantizaremos la continuidad de todos los clústeres y plantas que operan actualmente en España
+              literal: true
 - chapter:
     title: Promoveremos una Energía más barata y segura para las familias e industrias
-    categories: [Energía]
     children:
     - statement:
         id: 0a2182d5-60c8-4732-8c52-d162e8d67dcb
         page: 22
         text: Bruselas no ha trabajado estos años para lograr una energía más barata, segura y sostenible, sino para contentar a los grupos ecologistas radicales y a las élites económicas. A su vez, los sucesivos gobiernos nacionales, haciendo seguidismo de las políticas de las élites globalistas, han conducido a una pérdida progresiva de la soberanía energética de nuestra Nación, agravando nuestra dependencia y disparando las facturas de las familias. Las últimas consecuencias las han sufrido muchas regiones de España en las que se han acabado imponiendo restricciones en el consumo energético.
-        categories: [Energía, Consumo, Industria]
-        topics:
-        - name: Sector eléctrico
-        - name: Mercado eléctrico
-        - name: Precio de la energía
-        - name: Energía barata
-          positive_position:
-        - name: Energía sostenible
-          positive_position:
-        - name: Energía segura
-          positive_position:
-        - name: Ecologismo
-        - name: Elitismo
-          negative_position:
-        - name: Globalismo
-        - name: Soberanía energética
-          positive_position:
+        arguments:
+        - status_negative: [Energía sostenible, Seguridad energética]
+          status_negative_responsible_agents: [Unión Europea]
+          status_negative_due: [Ecologismo radical, Elitismo, Grupos de presión]         
+          text: Bruselas no ha trabajado por una energía más barata, segura y sostenible, sino para contentar a ecologistas radicales y élites económicas.
+          literal: true
+        - status_negative: [Soberanía energética]
+          status_negative_responsible_agents: [Gobierno]
+          status_negative_due: [Grupos de presión]
+          status_negative_obstructs: [Seguridad energética, Independencia energética, Energía barata]
+          status_negative_promotes: [Pobreza energética, Inflación]
+          texts:
+          - text: los sucesivos gobiernos nacionales, siguiendo a las élites globalistas, han conducido a una pérdida progresiva de la soberanía energética de nuestra Nación, agravando nuestra dependencia y disparando las facturas de las familias.
+            literal: true
+          - text: Las últimas consecuencias, sufridas en muchas regiones de España, han sido las restricciones en el consumo energético
     - statement:
         id: 6d80f622-8f4b-46eb-9919-6fba40155c99
         page: 22
         text: España debe poder investigar y aprovechar sus recursos para depender menos del exterior, así como utilizar todas las fuentes de energía necesarias para asegurar nuestra soberanía energética, base del bienestar de nuestros hogares, campo y empresas. Sólo VOX se ha opuesto frontalmente a las políticas, acuerdos y leyes que nos han traído hasta aquí.
-        topics:
-        - name: Recursos naturales
-        - name: Soberanía energética
-          positive_position:
+        arguments:
+        - position_positive: [Aprovechamiento de recursos naturales]
+          position_positive_promotes: [Independencia energética, Soberanía energética, Bienestar, Economía, Medio rural]
     - statement:
         id: 9cf9e90a-7818-4a2f-a7d5-992435ec6328
         page: 22
         text: El actual sistema de fijación de precios de producción de energía eléctrica no está diseñado ni ejecutado para proteger al consumidor final, a las familias, industrias, autónomos o PYMES, sino para beneficiar, desde el inicio, a las empresas eléctricas supuestamente no contaminantes, produciendo un beneficio extraordinario para quienes estaban dispuestos a vender la energía más barata, así como para Estado en forma de impuestos.
-        categories: [Energía, Industria, Impuestos y financiación pública, Empresas y autónomos, Consumo]
-        topics:
-        - name: Mercado eléctrico
-        - name: Elitismo
-        - name: Impuestos
-        - name: Beneficio empresarial
-        - name: Sector eléctrico
+        arguments:
+        - status_negative: [Mercado eléctrico]
+          status_negative_promotes: [Energía limpia, Impuestos, Energía barata]
+          status_negative_benefits: [Gobierno, Empresas eléctricas]
+          status_negative_obstructs: [Consumidor final, Familias, Industria, Empresas]
     - statement:
         id: 472db57a-6630-4f76-b08f-6ecf22bd8296
         page: 22
         text: Este sistema obedece a directivas europeas y es marginalista y oligopolista. El precio de la electricidad lo marca el coste del último megavatio hora producido por el sistema eléctrico, que generalmente fijan las centrales de gas o carbón, incluyendo en este coste el precio que se paga por las emisiones de CO₂. En España, su origen se halla en la reforma del sistema eléctrico realizada por el PP en 2013, mediante la Ley del Sector Eléctrico. Esta norma, a su vez, viene determinada por directiva de la UE.
-        categories: [Energía, Economía, Empresas y autónomos]
-        topics:
-        - name: Modelo económico
-        - name: Competencia
-        - name: Oligopolio
-        - name: Sector eléctrico
-        - name: Mercado eléctrico
-        - name: Gases de efecto invernadero
+        topics: [Gases de efecto invernadero]
+        arguments:
+        - status_negative: [Mercado eléctrico]
+          position_negative: [Ley del Sector Eléctrico]
+          position_negative_promotes: [Oligopolios, Inflación]
+          position_negative_responsible_agents: [PP]
+          status_negative_benefits: [Empresas eléctricas]
+        analysis:
+        - information: clarification
+          explanation: El sistema de precios "marginalista", significa que el precio de la electricidad se determina por el coste del último megavatio hora (MWh) necesario para satisfacer la demanda, es decir, el más caro. Generalmente, este último MWh es producido por las centrales de gas o carbón, que suelen tener costes de producción más altos en comparación con otras fuentes de energía (como la nuclear o la renovable).
     - statement:
         id: 072dd59b-4b76-4b25-8a7d-d0c5fc8d4950
         page: 22
-        text: 'La agenda ecologista radical que domina las instituciones de la UE y que asumen PP y PSOE ha impregnado el mercado de la energía, provocando un aumento artificial del precio de la energía que cuesta muy caro a los españoles. El precio de la luz ha subido por el incremento de los costes de las energías “menos limpias”. Estas acuden a un mercado de derechos de emisión de CO2 controlado por Bruselas, que, guiada por su religión climática, ha cargado cada vez más impuestos sobre ellas.
-
-        Cuando en 2008 nace el mercado de derechos de emisión CO2 el precio medio anual fue de 22,02€. En 2021 el precio medio de la tonelada de CO2 emitida fue de 53,55€ y el año pasado fueron 83,5€; incrementándose el precio por la Estrategia Europea de Clima (votada por PSOE y PP), la subida de impuestos verdes y la entrada de fondos de inversión especulativos.
-        
-        VOX ha denunciado en la UE las decisiones que está tomando von der Leyen y que han provocado un encarecimiento del precio de la energía y la pérdida de competitividad de nuestra industria, especialmente las directivas contenidas en el paquete de medidas Fit for 55 y el plan Repower EU. A su vez, en VOX nos hemos opuesto a reglamentos con la Ley Europea del Clima que sentó las bases para la consecución de la Agenda 2030 y el Acuerdo de París en la Unión Europea y el “germen” de la ya conocida ley de la restauración de la naturaleza, la estrategia “De la Granja a la mesa” o el mecanismo de ajuste de carbono en frontera; y que suponen la ruina para los españoles y los europeos.'
-        categories: [Energía, Medioambiente, Impuestos y financiación pública]
-        topics:
-        - name: De la Granja a la mesa
-          negative_position:
-          - text: suponen la ruina para los españoles y los europeos.
-        - name: Ley de la restauración de la naturaleza
-          negative_position:
-          - text: suponen la ruina para los españoles y los europeos.
-        - name: Acuerdo de París
-          negative_position:
-          - text: encarece la energía
-          - text: reduce la competitividad de la industria
-        - name: Repower EU
-          negative_position:
-          - text: encarece la energía
-          - text: reduce la competitividad de la industria
-        - name: Ley Europea del Clima
-          negative_position:
-          - text: suponen la ruina para los españoles y los europeos.
-        - name: Ecologismo
-          negative_position:
-          - text: lleva a políticas que encarecen el precio de la energía
-        - name: Mercado eléctrico
-        - name: Precio de la energía
-        - name: Gases de efecto invernadero
-        - name: Energía sostenible
-        - name: Energía limpia
-          negative_position:
-        - name: Cambio climático
-          negative_position:
-        - name: Impuestos verdes
-          negative_position:
-          - text: es consecuencia del ecologismo radical
-          - text: encarece la energía
-        - name: Control y reducción de emisiones
-          negative_position:
-          - text: encarece la energía    
-          - text: reduce la competitividad de la industria   
-          - text: es consecuencia del ecologismo radical
+        text: 'La agenda ecologista radical que domina las instituciones de la UE y que asumen PP y PSOE ha impregnado el mercado de la energía, provocando un aumento artificial del precio de la energía que cuesta muy caro a los españoles. El precio de la luz ha subido por el incremento de los costes de las energías “menos limpias”. Estas acuden a un mercado de derechos de emisión de CO2 controlado por Bruselas, que, guiada por su religión climática, ha cargado cada vez más impuestos sobre ellas.'
+        arguments:
+        - status_negative: [Mercado eléctrico]
+          status_negative_due: [Ecologismo radical]
+          status_negative_responsible_agents: [Unión Europea, PP, PSOE]
+          status_negative_promotes: [Inflación]
+          status_negative_obstructs: [Energía barata]
+          status_negative_harms: [Consumidor final]
+          text: La agenda ecologista radical que domina las instituciones de la UE y que asumen PP y PSOE ha impregnado el mercado de la energía, provocando un aumento artificial del precio de la energía que cuesta muy caro a los españoles.
+          literal: true
+        - text: El precio de la luz ha subido por el incremento de los costes de las energías “menos limpias”. Estas acuden a un mercado de derechos de emisión de CO2 controlado por Bruselas, que, guiada por su religión climática, ha cargado cada vez más impuestos sobre ellas.
+          literal: true
+          position_negative: [Comercio de emisiones]
+          position_negative_due: [Dogmatismo climático]
+          position_negative_obstructs: [Energía barata] 
+          position_negative_promotes: [Impuestos]
+    - statement:
+        id: d1c387bf-ad18-4267-af47-67e83c2bf550
+        page: 22
+        text: Cuando en 2008 nace el mercado de derechos de emisión CO2 el precio medio anual fue de 22,02€. En 2021 el precio medio de la tonelada de CO2 emitida fue de 53,55€ y el año pasado fueron 83,5€; incrementándose el precio por la Estrategia Europea de Clima (votada por PSOE y PP), la subida de impuestos verdes y la entrada de fondos de inversión especulativos.
+        analysis:
+        - fallacy: cherry_picking
+          TODO: pendiente buscar precio del crudo
+        arguments:
+    - statement:
+        id: 03739b8e-bf60-4d81-aefa-4a7affe1c5ad
+        page: 22
+        text: VOX ha denunciado en la UE las decisiones que está tomando von der Leyen y que han provocado un encarecimiento del precio de la energía y la pérdida de competitividad de nuestra industria, especialmente las directivas contenidas en el paquete de medidas Fit for 55 y el plan Repower EU. A su vez, en VOX nos hemos opuesto a reglamentos con la Ley Europea del Clima que sentó las bases para la consecución de la Agenda 2030 y el Acuerdo de París en la Unión Europea y el “germen” de la ya conocida ley de la restauración de la naturaleza, la estrategia “De la Granja a la mesa” o el mecanismo de ajuste de carbono en frontera; y que suponen la ruina para los españoles y los europeos.'
+        arguments: 
+        - position_negative: [Repower EU, Objetivo 55, ]
+          position_negative_responsible_agents: [Úrsula Von der Leyen, Comisión Europea]
+          position_negative_obstructs: [Energía barata, Competitividad, Industria]
+          position_negative_promotes: [Control y reducción de emisiones, Inflación]
+          text: Las políticas europeas de energías sostenibles (REpowerEU) y de reducción en emisión de gases de efecto invernadero (Objetivo 55) han provocado un encarecimiento del precio de la energía y la pérdida de competitividad de nuestra industria. 
+        - position_negative: [Ley Europea del Clima, Agenda 2030, Acuerdo de París, Reglamento sobre la restauración de la naturaleza, Estrategia “De la Granja a la Mesa”, Mecanismo de ajuste de las emisiones de carbono en frontera]
+          position_negative_responsible_agents: [Úrsula Von der Leyen, Comisión Europea]
+          position_negative_obstructs: [Energía barata, Competitividad, Industria]
+          position_negative_promotes: [Protección medioambiental, Inflación]
+          text: Las políticas europeas contra el cambio climático y de protección del medio ambiente suponen la ruina para los españoles y los europeos.
     - statement:
         id: fe7cc966-e5af-4a31-8d9c-ba66e71474ac
         page: 23
         text: 'En VOX lo tenemos claro: España necesita planificar y aplicar un Plan Nacional de Soberanía Energética que contemple una estrategia firme y sostenida para alcanzar un suministro energético asequible, seguro y limpio. Dicha estrategia pasa necesariamente por alejarse de las ideologías que han impregnado la planificación energética con nefastas consecuencias y volver a priorizar el interés nacional y las necesidades de nuestras familias y empresas.'
-        topics:        
-        - name: Soberanía energética
-          positive_position:
-          positive_actions:
-          - text: planificar y aplicar un Plan Nacional de Soberanía Energética para alcanzar un suministro energético asequible, seguro y limpio.
-          - text: dicha estrategia pasa necesariamente por alejarse de las ideologías que han impregnado la planificación energética con nefastas consecuencias y volver a priorizar el interés nacional y las necesidades de nuestras familias y empresas.
-        - name: Energía sostenible
-          positive_position:
-          - text: España necesita [...] una estrategia firme y sostenida para alcanzar un suministro energético asequible, seguro y limpio.
-        - name: Ecologismo
-        - name: Cambio climático
+        arguments: 
+        - position_positive: [Soberanía nacional, Soberanía energética, Empirismo político, Visión a largo plazo, Estrategia de Soberanía Energética, Consistencia política]
+          position_negative: [Ecologismo, Dogmatismo político]
+          position_negative_obstructs: [Interés nacional, Familias, Empresas]
+        prescriptions:
+        - to_promote: [Seguridad energética, Energía barata, Interés nacional, Familias, Empresas]
+          by_promoting: [Soberanía nacional, Soberanía energética, Estrategia de Soberanía Energética, Empirismo político]
+          texts:
+          - text: España necesita planificar y aplicar un Plan Nacional de Soberanía Energética que contemple una estrategia firme y sostenida para alcanzar un suministro energético asequible, seguro y limpio.
+            literal: true
+          - text: Dicha estrategia pasa necesariamente por alejarse de las ideologías que han impregnado la planificación energética con nefastas consecuencias y volver a priorizar el interés nacional y las necesidades de nuestras familias y empresas.
+            literal: true
         analysis:
+        - clarity: low
+          explanation: No se concretan las "ideologías" a las que se refiere, aunque probablemente se refiera al "ecologismo". 
+        - objectivity: low
+          explanation: No se concretan las "nefastas consecuencias" a las que se refieren ni se proporciona evidencia de su existencia ni, en caso de existir, de sus causas. 
+        - objectivity: low
+          explanation: No se proporciona evidencia de que las políticas energéticas sean consecuencia directa de la aplicación dogmática de ideologías y no de otras razones.
+        - fallacy: ambiguity
+          explanation: La afirmación utiliza términos como "ideologías" y "nefastas consecuencias" de manera ambigua y no precisa, permitiendo interpretaciones variadas y subjetivas sobre qué ideologías específicas y qué consecuencias se están criticando.
+        - fallacy: ad_ignorantiam
+          explanation: Al relacionar "ideologías" con "planificación energética con nefastas consecuencias" se facilita el ataque de las políticas energéticas, sin entrar en detalles.
         - consistency: negative
-          explanation: Se hace referencia explícita a la voluntad de alcanzar un sistema energético "asequible, seguro y limpio". Seguidamente se insinúa (de acuerdo a otras declaraciones más explícitas en este documento) que las políticas verdes resultantes del ecologismo o de la lucha contra el cambio climático tienen nefastas consecuencias en la planificación energética y son contrarias al interés nacional. Por tanto, ambas afirmaciones parecen contradictorias e incompatibles.
+          explanation: Se hace referencia explícita a la voluntad de alcanzar un sistema energético "asequible, seguro y limpio". Mientras que en otras propuestas de este documento se promocionan tecnologías contaminantes basadas en combustibles fósiles. Además se ignora el hecho de que las energías renovables son las más asequibles de las existentes en el mix energético español.
+        - information: aditional
+          knowledge: [Precios de la energía por tecnología] 
     - statement:
         id: f11ea89f-bcc7-4bb9-882e-0346405764f5
         page: 23
         text: Debemos contemplar cualquier fuente de energía como una herramienta al servicio de la soberanía nacional, incluyendo la nuclear, la térmica cuando sea necesario, las potencialidades de la hidroeléctrica y todas las renovables.
-        topics:
-        - name: Energía nuclear
-          positive_position:
-          - text: Debemos contemplar cualquier fuente de energía como una herramienta al servicio de la soberanía nacional, incluyendo la nuclear
-        - name: Energías renovables
-          positive_position:
-          - text: Debemos contemplar cualquier fuente de energía como una herramienta al servicio de la soberanía nacional, incluyendo [...] las potencialidades de la hidroeléctrica y todas las renovables.
-        - name: Soberanía energética
-          positive_position:
-          - text: Debemos contemplar cualquier fuente de energía como una herramienta al servicio de la soberanía nacional
+        arguments:
+        - position_positive: [Diversificación mix energético, Energía nuclear, Energías renovables, Energías no renovables]
+          position_positive_promotes: [Soberanía nacional, Soberanía energética]
     - statement:
         id: 6a89095b-67ba-467d-adc1-c59d0072d256
         page: 23
         text: España debe redimensionar el peso de los recursos importados de cada país externo en el caso de las materias que no disponemos en territorio nacional. Es necesario diversificar las importaciones y reducir la vulnerabilidad que implica la dependencia de estados inestables o que pueden actuar contra nuestros intereses. La posibilidad de explorar, investigar y explotar los recursos naturales propios debe estar en el centro de una estrategia de soberanía energética. Se debe prever el impulso de la innovación y avances técnicos en la extracción y tratamiento de nuestros recursos minerales.
-        topics:
-        - name: Recursos naturales
-        - name: Materias primas
-        - name: Importaciones
-        - name: Soberanía energética
-          positive_position:
-          positive_prescriptions:
-          - text: España debe redimensionar el peso de los recursos importados de cada país externo en el caso de las materias que no disponemos en territorio nacional.
-            literal: true
-          - text: Es necesario diversificar las importaciones y reducir la vulnerabilidad que implica la dependencia de estados inestables o que pueden actuar contra nuestros intereses.
-            literal: true
-          - text: explorar, investigar y explotar los recursos naturales propios debe estar en el centro de una estrategia de soberanía energética
-            literal: true
-        - name: Minería
-          positive_position:
-          - text: explotar los recursos naturales propios debe estar en el centro de una estrategia de soberanía energética
+        prescriptions:
+        - to_promote: [Seguridad energética]
+          by_promoting: [Diversificación proveedores de combustible]
+          text: España debe redimensionar el peso de los recursos importados de cada país externo en el caso de las materias que no disponemos en territorio nacional. Es necesario diversificar las importaciones y reducir la vulnerabilidad que implica la dependencia de estados inestables o que pueden actuar contra nuestros intereses.
+          literal: true
+        - text: En el centro de una estrategia de soberanía energética debe estar la posibilidad de explorar, investigar y explotar los recursos naturales propios. Se debe prever el impulso de la innovación y avances técnicos en la extracción y tratamiento de nuestros recursos minerales.
+          literal: true
+          to_promote: [Seguridad energética]
+          by_promoting: [Independencia energética, Minería, Aprovechamiento de recursos]
+        analysis:
+        - coherence: low
+          explanation: De acuerdo a lo expuesto claramente, la independencia energética se centraría en la extracción minera de combustibles fósiles para su uso en la producción energética. Es posible que esto signifique un abaratamiento de la parte del mix que emplea combustibles fósiles. En cualquier caso, no se avanzaría en la obtención de "energía limpia" que consideran necesario en otras propuestas de este documento. 
     - statement:
         id: abb1e557-dabe-4358-a325-b5b8e42b0c73
         page: 23
         text: Afortunadamente, España tiene unas condiciones geográficas y climáticas privilegiadas para avanzar hacia el autoabastecimiento energético en prácticamente cualquier situación si se logra un mix energético equilibrado. Incluso, podemos exportar importantes cantidades de energía eléctrica a otros estados europeos que lo necesiten. Ello requiere voluntad y decisión, sin someterse a otras instancias extranjeras.
-        topics:
-        - name: Soberanía energética
-          positive_diagnostics:
-          - text: Afortunadamente, España tiene unas condiciones geográficas y climáticas privilegiadas para avanzar hacia el autoabastecimiento energético en prácticamente cualquier situación si se logra un mix energético equilibrado. Incluso, podemos exportar importantes cantidades de energía eléctrica a otros estados europeos que lo necesiten.
+        arguments:
+        - status_negative: [Mix energético, Exportación energía, Independencia energética]
+          status_negative_due: [Intereses extranjeros]
+          status_negative_responsible_agents: [Gobierno]
+        analysis:
+        - clarity: low
+          explanation: El sentido de la referencia a las condiciones geográficas privilegiadas es ambigua. No queda claro si se refieren al potencial minero, que correspondería más bien con condiciones geológicas; o a la situación geográfica relativa con respecto a otros países. Es decir, al potencial como hub de interconexiones energéticas (oleoductos, gaseoductos, lineas y cables eléctricos). 
+        - fallacy: false_dichotomy
+          explanation: Al afirmar que alcanzar estos objetivos requiere "voluntad y decisión, sin someterse a otras instancias extranjeras", se presenta una falsa dicotomía entre tener determinación y ser influenciado por extranjeros. Esto ignora que la cooperación y las regulaciones internacionales pueden ser beneficiosas y necesarias para un mix energético equilibrado y sostenible.
+        - fallacy: ad_ignorantiam
+          explanation: Al sugerir que instancias extranjeras dificultan que el país alcance su potencial energético, se crea una caricatura de esos intereses externos como inherentemente negativos y opuestos al bienestar español. Esto simplifica y distorsiona las relaciones y acuerdos internacionales.
+        - fallacy: ad_populum
+          explanation: La referencia a "no someterse a otras instancias extranjeras" puede estar diseñada para evocar sentimientos patrióticos y de soberanía, sugiriendo que la independencia energética es un acto de patriotismo y resistencia contra la influencia extranjera. Esto puede desviar la atención de la necesidad de colaboración y acuerdos internacionales en el ámbito energético.
+        - fallacy: ambiguity
+          explanation: La afirmación carece de detalles específicos sobre cómo se logrará el mix energético equilibrado, o incluso que se entiende por "equilibrado". La falta de claridad permite una interpretación amplia y no compromete a ninguna estrategia concreta. 
     - statement:
         id: c98415d3-520c-402c-9b30-3770c34d8a08
         page: 24
         text: Ya es hora de que los españoles decidan sobre el modelo energético de España. No podemos seguir en manos de quienes pretenden imponer ideologías o de quienes son ajenos a los intereses nacionales. Para garantizar el acceso de las familias y de los sectores productivos a una energía limpia y barata, se hace más necesaria que nunca la fuerza de VOX en el Parlamento Europeo para poner las instituciones de la UE al servicio de las Naciones y sus compatriotas y no al de unas élites alejadas de su realidad diaria.
-        topics:
-        - name: Energía
-        - name: Calidad democrática
-          negative_position:
-          - text: Ya es hora de que los españoles decidan sobre el modelo energético de España.
-          - text: No podemos seguir en manos de quienes pretenden imponer ideologías o de quienes son ajenos a los intereses nacionales.
-        - name: Modelo energético
-          negative_position:
-          - text: Ya es hora de que los españoles decidan sobre el modelo energético de España.
-          - text: No podemos seguir en manos de quienes pretenden imponer ideologías o de quienes son ajenos a los intereses nacionales.
-        - name: Soberanía nacional
-          negative_diagnostics:
-          - text: Ya es hora de que los españoles decidan sobre el modelo energético de España. No podemos seguir en manos de quienes pretenden imponer ideologías o de quienes son ajenos a los intereses nacionales.
-        - name: Energía limpia
-          positive_position:
-        - name: Energía barata
-          positive_position:
-        - name: Nacionalismo
-        - name: Elitismo
-        - name: Ecología
+        arguments:
+        - status_negative: [Soberanía energética, Energía barata, Energía limpia]
+          status_negative_due: [Déficit democrático,]
+        analysis:
+        - coherence: low
+          explanation: En este documento el partido se posiciona continuamente en contra de políticas relacionadas con la "trancisión energética", que pretende un cambio de modelo energético, enfocado hacia tecnologías poco contaminantes, especialmente las energías renovables. Sin embargo, en esta ocasión de defiende la necesidad de tener "energía limpia y barata".
+        - fallacy: ambiguity
+          explanation: Se insinúa que el mix energético español actual va en contra de los intereses nacionales, pero no se dan detalles de como debería ser debería ser. También se dice que el mix actual es resultado de la injerencia de "ideologías o de quienes son ajenos a los intereses nacionales", sin aportar mayor concreción.
     - chapter:
         title: Medidas urgentes
         children:
@@ -1512,269 +1538,335 @@ content:
             id: 4e608a47-0b9c-454c-b112-e1745bb15232
             page: 24
             text: Impulsar un Plan Nacional de Soberanía Energética y defender en Bruselas este plan sin complejos, cesiones a intereses externos ni injerencias ideológicas. Sólo así se podrá asegurar que los recursos energéticos de que dispone España sean aprovechados para la generación energética y reducir la dependencia del exterior al máximo.
-            topics:
-            - name: Soberanía energética
-              positive_position:
-              positive_actions:
+            actions:
+            - to_promote: [Soberanía Energética, Independencia energética]
+              to_obstruct: [Intereses extranjeros, Dogmatismo político]
+              by_promoting: [Minería]
+              texts:
               - text: Impulsar un Plan Nacional de Soberanía Energética
               - text: Defender en Bruselas el Plan Nacional de Soberanía Energética sin cesiones a intereses externos ni injerencias ideológicas
-              - text: Explotación de recursos energéticos propios
-              - text: Reducir la dependencia del exterior al máximo
+              - text: Explotación de recursos energéticos propios para reducir la dependencia del exterior al máximo
         - promise:
             id: ece6ba07-cf63-414d-a430-2f0d8c9b2be1
             page: 24
             text: Suprimir todos los impuestos verdes que pesan sobre la factura de la luz, y que se han aprobado a instancias de directivas y reglamentos europeos.
-            topics:
-            - name: Medioambiente
-            - name: Ecología
-            - name: Unión Europea
-            - name: Cambio climático
-            - name: Impuestos verdes
-              negative_position:
-              positive_actions:
-              - text: Suprimir todos los impuestos verdes de la factura de la luz
-                legality: negative
-                explanation: estas acciones van en contra de la legalidad comunitaria. Su ejecución sin previa modificación de los tratados europeos implicarían multas millonarias al estado.
+            actions: 
+            - text: Suprimir todos los impuestos verdes de la factura de la luz
+              to_promote: [Energía barata]
+              by_obstructing: [Impuestos verdes]
+              by_not_obstructing: [Energías no renovables]
+            analysis:
+            - clarity: low
+              explanation: Los "impuestos verdes" son en realidad un sobrecoste relacionado con el mercado de emsiones de de gases de efecto invernadero. Es decir, dichos impuestos solo aplican a energías basadas en combustibles fósiles y no a las energías renovables.
+            - legality: negative
+              explanation: estas acciones si se realizaran de manera unilateral, sin una modificación previa de las directivas europeas, irían en contra de la legalidad comunitaria resultando en multas millonarias al estado.
         - promise:
             id: 28d71fb9-8a78-412c-8991-5ca4d9f26899
             page: 24
             text: Dejar sin efecto el sistema europeo de restricciones a las emisiones de CO2 y la consiguiente obligación de adquirir “derechos de emisión”. Si España eliminase el sistema de derechos de emisión de CO2 podría rebajar directamente el precio de la energía eléctrica en 28,56€. Ese importe corresponde a la cuota que debe pagar la generación de 1 MWh con gas que es la tecnología que actualmente fija el precio. 
             actions:
             - text: Dejar sin efecto el sistema europeo de restricciones a las emisiones de CO2 y la consiguiente obligación de adquirir “derechos de emisión”
-              arguments:
-              - text: Si España eliminase el sistema de derechos de emisión de CO2 podría rebajar directamente el precio de la energía eléctrica en 28,56€. Ese importe corresponde a la cuota que debe pagar la generación de 1 MWh con gas que es la tecnología que actualmente fija el precio.        
-              promotes:
-              - Control y reducción de emisiones
-              - Pobreza energética
-              - Cambio climático
-              - Contaminación
-              in_favor:
-              - Competitividad
-              - Economía
+              to_promote: [Energía barata]
+              by_not_obstructing: [Energías no renovables]
+              by_obstructing: [Mitigación del cambio climático]
+              by_eliminating: [Control y reducción de emisiones]
+            arguments:
+            - text: Si España eliminase el sistema de derechos de emisión de CO2 podría rebajar directamente el precio de la energía eléctrica en 28,56€. Ese importe corresponde a la cuota que debe pagar la generación de 1 MWh con gas que es la tecnología que actualmente fija el precio.     
+              position_positive: [Energía barata]
+              position_negative: [Control y reducción de emisiones]  
+            analysis:
+            - information: aditional
+              knowledge: [Precios de la energía por tecnología]  
         - promise:
             id: ccce62bb-2cc8-4f0a-8ca1-badd6032d906
             page: 24
             text: Dejar sin efecto el sistema de fijación de precios marginalista y diseñar un sistema que remunere a cada tecnología generadora de electricidad en función de los costes declarados, calculados y verificados para el ejercicio de su actividad. Se debería establecer un sistema polinómico para ofrecer un mayor margen de beneficio a quien sea más eficiente.
-            topics:
-            - name: Mercado eléctrico
-              negative_diagnostics:
-              positive_actions:
+            actions:
+            - to_promote: [Energía barata]
+              by_changing: [Mercado eléctrico]
+              texts:
               - text: Dejar sin efecto el sistema de fijación de precios marginalista
               - text: Diseñar un sistema que remunere a cada tecnología generadora de electricidad en función de los costes reales
               - text: Se debería establecer un sistema polinómico para ofrecer un mayor margen de beneficio a quien sea más eficiente.
+            analysis:
+            - clarity: low
+              explanation: La expresión "ofrecer un mayor margen de beneficio a quien sea más eficiente", es ambigua. Genera dudas de interpretación en cuanto no queda claro si se refiere a "eficiencia energética o de uso de recursos" o a "eficiencia económica". Es decir, si se favorece al que menos recursos consume o al más barato. Por el contexto, parece que se refieren a eficiencia de costes económicos, es decir, al más barato.  
+              knowledge: [Precios de la energía por tecnología]           
         - promise:
             id: df9ece36-d26f-44b8-8937-d6f74be8b8ac
             page: 24
             text: Implantar la transparencia total sobre los precios de la energía mediante la reforma completa del operador del mercado, desglosándolos por tipo de producción.
-            topics:
-            - name: Mercado eléctrico
-              positive_actions:
-              - text: Implantar la transparencia total sobre los precios de la energía desglosándolos por tipo de producción.
+            actions:
+            - to_promote: [Transparencia]
+              by_changing: [Mercado eléctrico]
+              text: Implantar la transparencia total sobre los precios de la energía desglosándolos por tipo de producción.
         - promise:
             id: 17d36def-7688-412e-8a86-d7e964fb366e
             page: 24
             text: Derogar las normas europeas ecologistas, así como las nacionales derivadas de ellas, como la Ley de Cambio Climático, que prohíbe la explotación de hidrocarburos en España. Los 360 TWh de gas que España consume al año equivalen a unos 36 bcm (billion cubic meters). Sin embargo, España podría alcanzar mediante fractura hidráulica hasta 1.300 bcm. Es decir, España podría suplir unos 36 años de su consumo de gas con las reservas nacionales.
             actions:
             - text: Derogar las normas europeas ecologistas, así como las nacionales derivadas de ellas, como la Ley de Cambio Climático, que prohíbe la explotación de hidrocarburos en España.
-              arguments:
-              - text: Los 360 TWh de gas que España consume al año equivalen a unos 36 bcm (billion cubic meters). Sin embargo, España podría alcanzar mediante fractura hidráulica hasta 1.300 bcm. Es decir, España podría suplir unos 36 años de su consumo de gas con las reservas nacionales
-              promotes:
-              - Ecologismo
-              - Cambio climático
-              - Medioambiente
-              in_favor:
-              - Combustibles fósiles
-              - Soberanía energética
-              - Fracking
-              - Mineŕia
+              to_promote: [Independencia energética]
+              by_not_obstructing: [Minería, Aprovechamiento de recursos naturales]
+              by_obstructing: [Protección medioambiental, Mitigación del cambio climático]
+              by_eliminating: [Ley de Cambio Climático]
+              analysis:
+              - fallacy: generalization
+                explanation: Se vincula directamente las normas europeas relativas al cambio climático y de protección medioambiental con el ecologismo. Ignorando otras razones no ideológicas que pueden haber promovido su existencia.
+              - fallacy: ad_ignorantiam
+                explanation: La prohibición de la explotación de reservas de hidrocarburos en la "Ley de cambio climático" española se relaciona directamente con las normativas europeas sobre cambio climático y protección medioambiental. Aunque no existe tal vinculación se utiliza esta prohibición para criticar las regulaciones europeas.
+            arguments:
+            - text: Los 360 TWh de gas que España consume al año equivalen a unos 36 bcm (billion cubic meters). Sin embargo, España podría alcanzar mediante fractura hidráulica hasta 1.300 bcm. Es decir, España podría suplir unos 36 años de su consumo de gas con las reservas nacionales
+              position_positive: [Minería, Fracking, Independencia energética]
+              status_negative: [Independencia energética]
         - promise:
             id: 7fdad29b-f21a-43b0-a35b-ad7bda21eeb2
             page: 25
             text: Prorrogar inmediatamente la vida útil de sus centrales nucleares. Fomentar la inversión y actualización del parque de generación nuclear e impulsar esta fuente de energía como una opción válida en Europa, siguiendo el ejemplo de muchos vecinos del continente. Promover la instalación de 4 o 5 MW adicionales; así como la instalación de bombeos hidráulicos para emplear los embalses existentes como almacenes energéticos.
             actions:
-            - text: Prorrogar inmediatamente la vida útil de sus centrales nucleares.
-              in_favor:
-              - Energía nuclear
-              - Cambio climático
-              - Contaminación
-              - Soberanía energética
-            - text: Fomentar la inversión y actualización del parque de generación nuclear
-              in_favor:
-              - Energía nuclear
-              - Cambio climático
-              - Contaminación
-              - Soberanía energética
-            - text: Impulsar esta fuente de energía [nuclear] como una opción válida en Europa
-              in_favor:
-              - Energía nuclear
-              - Cambio climático
-              - Contaminación
-              - Soberanía energética
-            - text: Promover la instalación de 4 o 5 MW adicionales [de energía nuclear]
-              comments: 
-              - text: Posiblemente se trate de una errata y se refieran a 4 o 5 GW
-              in_favor:
-              - Energía nuclear
-              - Cambio climático
-              - Contaminación
-              - Soberanía energética
-            - text: la instalación de bombeos hidráulicos para emplear los embalses existentes como almacenes energéticos.
-              in_favor:
-              - Energía hidráulica
-              - Cambio climático
-              - Contaminación
+            - to_promote: [Soberanía energética]
+              by_promoting: [Energía nuclear]
+              texts:
+              - text: Prorrogar inmediatamente la vida útil de sus centrales nucleares.
+              - text: Fomentar la inversión y actualización del parque de generación nuclear
+              - text: Impulsar esta fuente de energía [nuclear] como una opción válida en Europa
+              analysis: 
+              - information: errata
+                explanation: Posiblemente se trate de una errata y se refieran a gigavatios (GW) en vez de megavatios (MW), ya que las centrales nucleares en España rondan los 1090 MW, es decir, 1.1 GW.
+                sources:
+                - https://www.miteco.gob.es/es/energia/nuclear/centrales/espana.html
+            - to_promote: [Soberanía energética]
+              by_promoting: [Energía hidráulica]
+              text: Promover la instalación de bombeos hidráulicos para emplear los embalses existentes como almacenes energéticos.
         - promise:
             id: 07333bd0-387e-4bc5-bd60-54dc46113c7f
             page: 25
             text: Estimular desde la UE la disponibilidad de un mix energético que incluya energía fotovoltaica, eólica, hidráulica y nuclear y las utilice de forma proporcionada para garantizar la soberanía energética.
-            topics:
-            - name: Soberanía energética
-              positive_actions:
-              - text: Emplear las Energías renovables y la Nuclear de forma proporcionada para garantizar la soberanía energética
-            - name: Energías renovables
-              positive_position:    
-              positive_actions:
-              - text: Estimular desde la UE la disponibilidad de un mix energético que incluya energía fotovoltaica, eólica, hidráulica y nuclear
-            - name: Energía nuclear
-              positive_position:   
-              positive_actions:
-              - text: Estimular desde la UE la disponibilidad de un mix energético que incluya energía fotovoltaica, eólica, hidráulica y nuclear  
+            actions:
+            - over: [Unión Europea]
+              to_promote: [Soberanía energética]
+              by_promoting: [Energías renovales, Energía nuclear]
         - promise:
             id: 9f6c7851-847d-4c47-89b0-f1fbcc665695
             page: 25
             text: Garantizar las vías de recepción de gas procedente del norte de África, revirtiendo a tal efecto las recientes acciones en política exterior del Gobierno que perjudican el interés nacional, y al de toda Europa, en materia energética.
-            topics:
-            - name: Energía
-            - name: Política internacional
-            - name: Combustibles fósiles
-            - name: Importaciones
-            - name: Infraestructuras gasísticas
+            actions: 
+            - over: [Política internacional]
+              to_promote: [Seguridad energética]
+              by_promoting: [Infraestructuras gasísticas, Importación de combustibles fósiles]
         - promise:
             id: c1fccb45-1fae-42e5-b65c-c8cd4b17bdd2
             page: 25
             text: Detener el cierre súbito de plantas industriales y energéticas provocado por las imposiciones de la nueva religión climática, la mayoría decididas en Bruselas y aceptadas acríticamente en España. Adaptar los plazos de la transformación a una economía menos contaminante sin poner en peligro el empleo de los españoles y pensando en el interés nacional.
-            topics:
-            - name: Cambio climático
-              negative_position:
-              - text: nueva religión climática
-            - name: Industria
-              positive_actions:
-              - text: Detener el cierre súbito de plantas industriales y energéticas
-            - name: Transición ecológica
-              negative_position:
-              - text: pone en peligro el empleo de los españoles y pensando en el interés nacional.
-              positive_actions:
-              - text: Adaptar los plazos de la transformación a una economía menos contaminante              
+            arguments:
+            - position_positive: [Cambio de modelo económico, Transición ecológica]
+              status_negative: [Cambio de modelo económico, Transición ecológica]
+              status_negative_due: [Dogmatismo climático]
+              status_negative_obstructs: [Trabajo, Industria, Interés nacional, Centrales eléctricas]
+            actions:
+            - to_promote: [Interés nacional]
+              by_promoting: [Industria, Centrales eléctricas]   
+              text: Detener el cierre súbito de plantas industriales y energéticas provocado por las imposiciones de la nueva religión climática 
+              literal: true 
+            - to_promote: [Interés nacional]
+              by_promoting: [Trabajo]   
+              by_obstructing: [Cambio de modelo económico, Transición ecológica]
+              text: Adaptar los plazos de la transformación a una economía menos contaminante sin poner en peligro el empleo de los españoles y pensando en el interés nacional.
+              literal: true
         - promise:
             id: b9d353f1-ba26-4e69-98ba-10a2ea7ee19d
             page: 25
             text: Suspender toda norma climática impuesta por las élites globalistas que afecte gravemente al interés y prosperidad de los españoles.
-            topics:
-            - name: Mitigación del cambio climático
-              negative_position:
-              - text: afecta gravemente al interés y prosperidad de los españoles.
-              positive_actions:
-              - text: Suspender toda norma climática             
-            - name: Elitismo
-            - name: Globalismo
-              negative_position:
+            arguments:
+            - position_negative: [Mitigación del cambio climático]
+              position_negative_due: [Elitismo, Globalismo, Déficit democrático]
+              position_negative_obstructs: [Prosperidad, Interés nacional]
+            actions:
+            - to_promote: [Interés nacional, Prosperidad]
+              by_obstructing: [Mitigación del cambio climático]
+            analysis:
+            - coherence: low
+              explanation: En propuestas previas se indicaba la "derogación", mientras que en la presente se propone la suspensión.
         - promise:
             id: 393c21a3-d1d5-41a5-86f4-ea8807915010
             page: 25
             text: Abandonar todos los acuerdos lesivos para la soberanía energética de España y en detrimento del interés nacional, como el Acuerdo de París.
-            topics:
-            - name: Soberanía energética
-            - name: Medioambiente
-            - name: Mitigación del cambio climático
-              negative_position:
-              - text: porque es lesivo para la soberanía energética de España y va en contra del interés nacional
-              positive_actions:
-              - text: Abandonar el Acuerdo de París.              
+            actions:
+            - to_promote: [Soberanía energética, Interés general]
+              by_obstructing: [Mitigación del cambio climático]
+              by_eliminating: [Acuerdo parís]     
+            arguments:
+            - position_negative: [Acuerdo parís]
+              position_negative_obstructs: [Soberanía energética, Interés nacional]         
 - chapter:
     title: Acabaremos con las políticas progres impuestas desde Bruselas a toda Europa
     children:
     - statement:
         id: b189caa3-2294-4546-826d-a7e2eb489226
         page: 26
-        text: 'La Unión Europea se ha alejado progresivamente de sus raíces y valores, renunciando al principio de subsidiariedad que inspiró a la UE en sus inicios. En lugar de trabajar el servicio de los Estados miembro, los burócratas al mando de la Unión Europea se han preocupado estos últimos años por implantar una agenda ideológica que perjudica directamente a las clases medias y trabajadoras y a sus familias y atacando de manera flagrante la soberanía de las Naciones.
-        
-        En concreto, la Comisión Europea de Úrsula von der Leyen se ha demostrado como el brazo ejecutor de la Agenda 2030, que imponen sin contemplaciones a las Naciones europeas a base de chantaje, bajo amenaza de no recibir fondos COVID o de denuncias ante los tribunales comunitarios.
-        
-        De esta manera, los europeos han podido comprobar estos años cómo, mientras los burócratas de la Unión sancionaban a Hungría por proteger a los menores de edad del adoctrinamiento de los lobbies de género, permitían que el nuevo gobierno polaco, en alianza entre populares y neocomunistas, aplicara una censura brutal, interviniendo medios de comunicación sin que estas acciones tuvieran ninguna repercusión ni apercibimiento por parte de las autoridades europeas.
-
-        Es sólo un ejemplo entre los muchos que, por desgracia, encontramos en las políticas de la UE de los últimos años. Cualquier país que se atreve a discrepar de los postulados progres es cancelado por von der Leyen y su cohorte de burócratas, quien osa disentir de las políticas migratorias, de la ideología de género o de la intromisión de la UE en competencias que no son las suyas, debe enfrentarse a durísimas sanciones.
-        
-        Estas incursiones en las democracias nacionales han sido la manera habitual de comportarse de la Unión. En alianza con las élites económicas y mediáticas -grupos de presión, grandes corporaciones tecnológicas, empresas, asociaciones ideológicas…-, los burócratas de Bruselas han actuado muchas veces en contra de la voluntad de los pueblos europeos, que han votado exactamente lo contrario de lo que imponen estas agendas globalistas. Es decir: han puesto los intereses de una élite minoritaria por encima de los intereses de las naciones y la mayoría de sus ciudadanos.'
-        categories: [Democracia, Educación, Medios de comunicación]
-        topics:
-        - name: Unión Europea
-        - name: Burocracia
-        - name: Grupos de presión
-        - name: Hungría
-        - name: Polonia
-        - name: Identidad de género
-        - name: Educación
-        - name: Adoctrinamiento
-        - name: Valores
-        - name: Medios de comunicación
-        - name: Censura
-        - name: Soberanía nacional
-        - name: Elitismo
-        - name: Neocomunismo
+        text: La Unión Europea se ha alejado progresivamente de sus raíces y valores, renunciando al principio de subsidiariedad que inspiró a la UE en sus inicios. En lugar de trabajar el servicio de los Estados miembro, los burócratas al mando de la Unión Europea se han preocupado estos últimos años por implantar una agenda ideológica que perjudica directamente a las clases medias y trabajadoras y a sus familias y atacando de manera flagrante la soberanía de las Naciones.
+        arguments:
+        - status_negative: [Unión Europea]
+          status_negative_due: [Burocracia, Elitismo, Dogmatismo político]
+          status_negative_obstructs: [Principio de Subsidiariedad, Soberanía nacional]
+          status_negative_harms: [Clase media]
+        analysis:
+        - information: aditional
+          knowledge: [Principio de subsidiariedad]
+        - information: aditional
+          knowledge: [Competencias UE] 
+        - clarity: low
+          explanation: La propuesta parece afirmar que el Principio de Subsidiariedad no se está aplicando correctamente en la actualidad, es decir, que la UE se está extralimitando en sus competencias. Quizás sea una manera más suave y menos controvertida de proponer la reducción de las competencias de la Unión Europea.
+    - statement:
+        id: 99d0caa1-48ef-4b7e-b0f2-5ceff63bb2a0
+        page: 26
+        text: En concreto, la Comisión Europea de Úrsula von der Leyen se ha demostrado como el brazo ejecutor de la Agenda 2030, que imponen sin contemplaciones a las Naciones europeas a base de chantaje, bajo amenaza de no recibir fondos COVID o de denuncias ante los tribunales comunitarios.
+        arguments: 
+        - status_negative: [Unión Europea]
+          status_negative_responsible_agents: [Úrsula Von der Leyen, Comisión Europea]
+          status_negative_due: [Dogmatismo político, Imposición de políticas]
+          status_negative_promotes: [Agenda 2030]
+          status_negative_obstructs: [Soberanía nacional]
+    - statement:
+        id: 1ccf5c93-06ba-4174-bc46-63bcfadf0f87
+        page: 26
+        text: De esta manera, los europeos han podido comprobar estos años cómo, mientras los burócratas de la Unión sancionaban a Hungría por proteger a los menores de edad del adoctrinamiento de los lobbies de género, permitían que el nuevo gobierno polaco, en alianza entre populares y neocomunistas, aplicara una censura brutal, interviniendo medios de comunicación sin que estas acciones tuvieran ninguna repercusión ni apercibimiento por parte de las autoridades europeas.
+        topics: [Medios de comunicación]
+        arguments:
+        - status_negative: [Unión Europea]
+          status_negative_due: [Dogmatismo político]
+          status_negative_promotes: [Dogmatismo político, Grupos de presión, Censura, Identidades de género, Medidas coercitivas, Imposición de políticas]
+          status_negative_obstructs: [Soberanía nacional]
+        - status_positive: [Hungría, Polonia]
+    - statement:
+        id: 48afc900-74bf-4ea4-a28d-d51569bd5ab5
+        page: 26
+        text: Es sólo un ejemplo entre los muchos que, por desgracia, encontramos en las políticas de la UE de los últimos años. Cualquier país que se atreve a discrepar de los postulados progres es cancelado por von der Leyen y su cohorte de burócratas, quien osa disentir de las políticas migratorias, de la ideología de género o de la intromisión de la UE en competencias que no son las suyas, debe enfrentarse a durísimas sanciones.
+        arguments:
+        - status_negative: [Unión Europea]
+          status_negative_due: [Dogmatismo político]
+          status_negative_obstructs: [Soberanía nacional]
+          status_negative_promotes: [Medidas coercitivas, Imposición de políticas]
+    - statement:
+        id: 14be9f4c-6a92-4b11-9aa5-45c64562947d
+        page: 26
+        text: 'Estas incursiones en las democracias nacionales han sido la manera habitual de comportarse de la Unión. En alianza con las élites económicas y mediáticas -grupos de presión, grandes corporaciones tecnológicas, empresas, asociaciones ideológicas…-, los burócratas de Bruselas han actuado muchas veces en contra de la voluntad de los pueblos europeos, que han votado exactamente lo contrario de lo que imponen estas agendas globalistas. Es decir: han puesto los intereses de una élite minoritaria por encima de los intereses de las naciones y la mayoría de sus ciudadanos.'
+        arguments:
+        - status_negative: [Unión Europea]
+          status_negative_obstructs: [Soberanía nacional, Interés nacional, Interés comunitario]
+          status_negative_due: [Déficit democrático, Elitismo, Globalismo]
+          status_negative_propmotes: [Grupos de presión]
     - statement:
         id: 51e7b710-e67a-400c-9a58-f57df2ab8d18
         page: 26
         text: Bajo el mandato de von der Leyen, se ha otorgado a las grandes corporaciones tecnológicas el poder de decidir qué se puede y qué no se puede publicar en las redes sociales, con el voto a favor de populares y socialistas. Les han dado la capacidad de censurar a los europeos, saltándose incluso la potestad de los jueces para aplicar las leyes, cuando sus opiniones no comulgan con los dogmas del pensamiento progre.
-        topics:
-        - name: Redes sociales
-        - name: Censura
-        - name: Multinacionales
-        - name: Justicia
+        arguments:
+        - status_negative: [Unión Europea]
+          status_negative_responsible_agents: [Comisión Europea, Úrsula Von der Leyen]
+          status_negative_promotes: [Dogmatismo político, Censura]
+        - status_negative: [Justicia]
+          status_negative_responsible_agents: [Unión Europea]
+          status_negative_due: [Politización de los poderes]
+        - status_negative: [Redes sociales]
+          status_negative_promotes: [Censura]
+          status_negative_responsible_agents: [Multinacionales, Unión Europea]
     - statement:
         id: 3f62eebc-f39f-4c67-9303-da5dfe96bc21
         page: 27
         text: Con von der Leyen, líder del Partido Popular Europeo, se ha abogado por incluir el derecho al aborto en la Carta de los Derechos Fundamentales de la Unión Europea, en medio de la peor crisis demográfica que ha asolado las Naciones europeas y mientras esta casta oligárquica se dedica a promover el multiculturalismo y la progresiva desaparición de nuestra cultura europea, sustituida por la sharía, como ya estamos viendo en tantos barrios y ciudades de Bélgica, de Suecia, de Francia y cada vez más en España.
-        categories: [Derechos y servicios sociales, Religión]
-        topics:
-        - name: Demografía
-        - name: Natalidad
-        - name: Aborto
-          negative_position:
-        - name: Oligarquía
-          negative_position:
-        - name: Multiculturalismo
-          negative_position:
-        - name: Valores
-          positive_position:
-        - name: Islam
-          negative_position:
-        - name: Bélgica
-        - name: Suecia
-        - name: Francia
-        - name: Unión Europea
+        topics: [Bélgica, Suecia, Francia]
+        arguments:
+        - status_negative: [Unión Europea]
+          status_negative_due: [Déficit democrático]
+          status_negative_responsible_agents: [Úrsula Von der Leyen, PP]
+          position_negative_promotes: [Derecho al aborto, Multiculturalismo, Islam]
+          position_negative_obstructs: [Costumbres y tradiciones]
+        - status_negative: [Demografía, Natalidad]
+        analysis:
+        - fallacy: false_causality
+          explanation: Se insinúa una vinculación entre el derecho al aborto y la crisis demográfica. No se examina los factores socio-económicos que pueden afectar a la natalidad y la evolución demográfica.
+        - fallacy: conspiracy
+          explanation: Al referirse a la "casta oligárquica" que promueve el multiculturalismo, se sugiere una conspiración sin evidencia clara, alimentando una narrativa de conflicto entre una élite maligna y la población general.
     - statement:
         id: 29a170e0-86bf-4e43-b41f-ff90dc291bc5
         page: 27
-        text: 'Populares y socialistas han apoyado de manera entusiasta el Pacto Verde Europeo, un plan urdido por von der Leyen y sus burócratas, que no han salido de sus despachos y no han pisado nunca el campo, que ataca de manera implacable el mundo rural, sus tradiciones y su modo de vida.
-        
-        Mientras tanto, se excluye todo debate relacionado con problemas e inquietudes reales de los europeos como la seguridad, el empleo, la familia o la pérdida de soberanía de los Estados miembros, limitándose a replicar los dogmas ideológicos de la izquierda sobre el cambio climático, la llamada igualdad de género, la diversidad y la bondad y la infalibilidad de las instituciones de la Unión Europea.
-        
-        Esta casta oligárquica está condenando a los europeos al abandono cada vez mayor de nuestras raíces y de nuestros valores. A medida que se otorgan más competencias a la UE y se nos imponen cada vez más medidas progres, se nos hurta la capacidad de debatir y solucionar nuestros verdaderos problemas, los que realmente preocupan a los europeos y que responden a sus inquietudes más profundas.
-        
-        Se amordaza a los gobiernos de las Naciones, que han quedado como meros ejecutores burocráticos de los dictados de la Comisión Europea, cuando debería ser precisamente al revés: las instituciones europeas al servicio de los Estados miembro. Al servicio de la verdadera riqueza histórica, cultural, espiritual y económica de las Naciones que forman Europa.
-        
-        Frente a la planificación y control obsesivos de esta Unión Europea, frente a la uniformización de los pueblos europeos, urge trabajar por una Comisión que haga menos, lo haga mejor, y se deje de imposiciones ideológicas para empezar a centrarse en las necesidades reales de las personas.
-        
-        Urge una Unión Europea que recupere las raíces y valores europeos y la soberanía de los Estados miembro. Donde nuestros jóvenes tengan un futuro próspero, seguro y en libertad. Donde los verdaderos problemas de los españoles y de todos los patriotas de las demás Naciones de la Unión se escuchen.'
-        categories: [Democracia]
-        topics:
-        - name: Burocracia
-        - name: Valores occidentales
-          positive_position:
-        - name: Soberanía nacional
-          positive_position:
-        - name: Unión Europea
-        - name: Comisión Europea
+        text: Populares y socialistas han apoyado de manera entusiasta el Pacto Verde Europeo, un plan urdido por von der Leyen y sus burócratas, que no han salido de sus despachos y no han pisado nunca el campo, que ataca de manera implacable el mundo rural, sus tradiciones y su modo de vida.
+        arguments:
+        - status_negative: [Unión Europea]
+          status_negative_promotes: [Pacto Verde Europeo]
+          status_negative_responsible_agents: [Úrsula Von der Leyen, PP, PSOE]
+        - position_negative: [Pacto Verde Europeo]
+          position_negative_obstructs: [Sector primario, Costumbres y tradiciones] 
+    - statement:
+        id: 6b2af39d-4b8a-483e-80b8-c30992cc7184
+        page: 27
+        text: Mientras tanto, se excluye todo debate relacionado con problemas e inquietudes reales de los europeos como la seguridad, el empleo, la familia o la pérdida de soberanía de los Estados miembros, limitándose a replicar los dogmas ideológicos de la izquierda sobre el cambio climático, la llamada igualdad de género, la diversidad y la bondad y la infalibilidad de las instituciones de la Unión Europea.
+        arguments:
+        - status_negative: [Unión Europea]
+          status_negative_obstructs: [Seguridad y defensa, Trabajo, Familias, Soberanía nacional]
+          status_negative_promotes: [Dogmatismo climático, Feminismo, Diversidad social, Autocomplacencia]
+        analysis:
+        - fallacy: ad_populum
+          explanation: La declaración utiliza un lenguaje emotivo y polarizador, como "dogmas ideológicos" y "llamada igualdad de género", para influir en las emociones del lector. Este enfoque puede desviar la atención de un análisis racional y objetivo de los problemas mencionados.
+        - fallacy: ad_ignorantiam
+          explanation: La afirmación distorsiona y simplifica las posturas de la izquierda al referirse a ellas como "dogmas ideológicos" y al cambio climático, la igualdad de género, y la diversidad de manera peyorativa. Esto crea una caricatura fácil de atacar en lugar de abordar los argumentos y evidencia que respaldan estas preocupaciones.
+        - fallacy: ad_ignorantiam
+          explanation: Se relacionan las políticas contra el cambio climático, cuyo fundamento es científico, con otras cuestiones sociológicas y de mayor grado de subjetividad. Se ignora, por tanto, que las políticas sobre cambio climático responden a un riesgo objetivo, por muy limitado e impreciso que pueda ser el conocimiento sobre este asunto.
+        - fallacy: false_causality
+          explanation: Sugiere que la atención a temas como el cambio climático, la igualdad de género y la diversidad es la causa de la falta de debate sobre otros problemas importantes como la seguridad y el empleo, sin demostrar una conexión causal directa. La política y la discusión pública pueden abarcar múltiples temas simultáneamente.
+        - fallacy: conspiracy
+          explanation: Implica que hay una intención deliberada de excluir ciertos debates para favorecer "dogmas ideológicos", lo que sugiere una especie de conspiración que obstruye el debate democrático, sin proporcionar evidencia concreta de dicha intención o acción coordinada.
+    - statement:
+        id: 7dc247f3-2f34-4b09-9313-8a9a68cae70d
+        page: 27
+        text: Esta casta oligárquica está condenando a los europeos al abandono cada vez mayor de nuestras raíces y de nuestros valores. A medida que se otorgan más competencias a la UE y se nos imponen cada vez más medidas progres, se nos hurta la capacidad de debatir y solucionar nuestros verdaderos problemas, los que realmente preocupan a los europeos y que responden a sus inquietudes más profundas.
+        arguments:
+        - status_negative: [Unión Europea]
+          status_negative_due: [Déficit democrático]
+          status_negative_obstructs: [Costumbres y tradiciones, Soberanía nacional]
+          status_negative_promotes: [Imposición de políticas]
+        analysis:
+        - fallacy: ad_populum
+          explanation: Se empleaa un lenguaje polarizador y despectivo, como "medidas progres", para influir en las emociones del lector. Este enfoque puede desviar la atención de un análisis racional y objetivo.
+    - statement:
+        id: 2bae5483-3114-4c65-bdc1-5edf0fe315a6
+        page: 27
+        text: 'Se amordaza a los gobiernos de las Naciones, que han quedado como meros ejecutores burocráticos de los dictados de la Comisión Europea, cuando debería ser precisamente al revés: las instituciones europeas al servicio de los Estados miembro. Al servicio de la verdadera riqueza histórica, cultural, espiritual y económica de las Naciones que forman Europa.'
+        prescriptions:
+        - over: [Unión Europea]
+          to_promote: [Costumbres y tradiciones, Cultura, Religión, Economía]
+          by_promoting: [Soberanía nacional]
+        arguments:
+        - status_negative: [Unión Europea]
+          status_negative_responsible_agents: [Comisión Europea]
+          status_negative_obstructs: [Interés comunitario, Interés nacional, Soberanía nacional]
+        analysis:
+        - fallacy: ad_populum
+          explanation: La declaración utiliza un lenguaje emotivo y polarizador, como "Se amordaza a los gobiernos", para influir en las emociones del lector. Este enfoque puede desviar la atención de un análisis racional y objetivo de los problemas mencionados.
+    - statement:
+        id: fab51859-2415-4ecd-89cd-ce13e45921da
+        page: 27
+        text: Frente a la planificación y control obsesivos de esta Unión Europea, frente a la uniformización de los pueblos europeos, urge trabajar por una Comisión que haga menos, lo haga mejor, y se deje de imposiciones ideológicas para empezar a centrarse en las necesidades reales de las personas.
+        arguments:
+        - status_negative: [Comisión Europea]
+          status_negative_promotes_in_excess: [Planificación y control]
+          status_negative_obstructs: [Soberanía nacional]
+          status_negative_promotes: [Imposición de políticas, Dogmatismo político]
+        prescriptions:
+        - over: [Comisión Europea]
+          to_promote: [Soberanía nacional, Interés nacional]
+          to_not_promote: [Dogmatismo político]
+        analysis:
+        - fallacy: ad_populum
+          explanation: La declaración utiliza un lenguaje despectivo y polarizador, como "planificación y control obsesivos" o "imposiciones ideológicas", para influir en las emociones del lector. Este enfoque puede desviar la atención de un análisis racional y objetivo de los problemas mencionados.
+    - statement:
+        id: f08d8964-bcd8-44ff-9cca-8b56000358a1
+        page: 27
+        text: Urge una Unión Europea que recupere las raíces y valores europeos y la soberanía de los Estados miembro. Donde nuestros jóvenes tengan un futuro próspero, seguro y en libertad. Donde los verdaderos problemas de los españoles y de todos los patriotas de las demás Naciones de la Unión se escuchen.
+        prescriptions:
+        - over: [Unión Europea]
+          by_promoting: [Costumbres y tradiciones, Soberanía nacional]
+          to_promote: [Seguridad y defensa, Libertad, Economía]
     - chapter:
         title: Medidas urgentes
         children:
@@ -1782,62 +1874,208 @@ content:
             id: 48e3b29c-155a-4374-941d-8c58bc8268b3
             page: 28
             text: La Unión Europea dejará de actuar como comisario político que atenta contra la legítima libertad y autonomía de las democracias nacionales, sino que estará al servicio de los Estados miembro y respetará el principio de subsidiariedad y su soberanía.
+            actions:
+            - over: [Unión Europea]
+              to_promote: [Soberanía nacional]
+              by_promoting: [Principio de Subsidiariedad]
+              by_obstructing: [Supranacionalidad]
+            analysis:
+            - information: aditional
+              explanation: Para saber más sobre qué es el Principio de Susidiariedad o las competencias de la Unión Europea
+              reference: [b189caa3-2294-4546-826d-a7e2eb489226]
         - promise:
             id: d7e69ef7-d8c6-4ea0-8a88-670d0a02daf8
             page: 28
             text: Promover la riqueza y variedad histórica y cultural de las Naciones que forman la Unión Europea, permitiéndonos abrazar el amplio abanico de culturas, economías, historias y opiniones que nos definen.
+            actions:
+            - over: [Unión Europea]
+              to_promote: [Multiculturalidad]
         - promise:
             id: 72459be3-26cd-4cff-b551-7bba347acf05
             page: 28
             text: Derogar la Ley Europea de Libertad de los Medios de Comunicación y toda la legislación comunitaria encaminada a establecer la censura en las naciones de la Unión.
+            actions:
+            - over: [Medios de comunicación]
+              to_obstruct: [Censura]
+              by_eliminating: [Ley Europea de Libertad de los Medios de Comunicación]
+            analysis:
+            - clarity: low
+              explanation: Previamente no se han aportado argumentos en contra de la ley que se propone derogar.
+            - information: aditional
+              explanation: Esta ley se aprobó el 13 de Marzo de 2024 con 464 votos a favor, 92 en contra y 65 abstenciones. Su propósito pasa por proteger la independencia editorial (incluyendo frente a injerencias de los gobiernos), la protección de las fuentes peridísticas, aumentar la transparencia sobre la propiedad de los medios de comunicación y su publicidad, o evitar la eliminación injustificada de contenidos periodísticos en las redes sociales y plataformas online.
+              sources:
+              - https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/new-push-european-democracy/protecting-democracy/european-media-freedom-act_es
+              - https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=OJ:L_202401083
         - promise:
             id: f2c72319-a47e-4e3b-811a-0ec1a75dc88d
             page: 28
             text: Revocar la resolución del Parlamento Europeo, de 11 de abril de 2024, sobre la inclusión del derecho al aborto en la Carta de los Derechos Fundamentales de la Unión Europea.
+            actions:
+            - to_eliminate: [Derecho al aborto]
+            analysis:
+            - information: aditional
+              explanation: La resolución, haciendo referencia a antecedentes de derechos humanos y a organizaciones internacionales, así como casos concretos en los que mujeres de países donde no existe este derecho han muerto por falta de garantías sanitarias o que se ven obligadas a viajar y asumir costes económicos y psicológicos discriminatorios con respecto a las mujeres de paises vecinos. También se hacen referencia a distintos colectivos a favor (LGTBI y víctivas de violencia sexual) y en contra ("agentes religiosos ultraconservadores y de extrema derecha"). Se hace hincapié en que la resolución sirve como contrapeso a un cambio de tendencia regresiva hacia la restricción del aborto. Se nombran explícitamente los casos de Polonia, Hungría, Italia, Rumanía, Eslovaquia. La resolución concluye solicitando al Consejo la revisión de tratados y a los Estados miembro que se garanticen este derecho.  
+              sources:
+              - https://www.europarl.europa.eu/doceo/document/TA-9-2024-0286_ES.html
         - promise:
             id: aa355875-ee5c-4f64-a573-8764ca4911b4
             page: 28
             text: Impulsar la modificación del artículo 2 de la Carta de los Derechos Fundamentales de la Unión Europea para garantizar el Derecho a la Vida desde su concepción hasta la muerte natural.
+            actions: 
+            - over: [Carta de los Derechos Fundamentales de la Unión Europea]
+              to_obstruct: [Derecho al aborto]
+            analysis:
+            - fallacy: ambiguity
+              explanation: Aunque en argumentaciones previas se ha manifestado una posición contraria al derecho al aborto, no se han presentado razones en apoyo de esta medida. Tampoco está claro si se propone una derogación total o parcial de dicho derecho. Además, la propuesta es lo suficientemente ambigua como para generar dudas sobre si también afectaría al derecho a la eutanasia.
+            - information: aditional
+              explanation: 'El art. 2 contiene literalmente lo siguente: 
+              "1. Toda persona tiene derecho a la vida. 
+              2. Nadie podrá ser condenado a la pena de muerte ni ejecutado."'
+              sources:
+              - https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:12016P/TXT#d1e83-391-1
         - promise:
             id: 0d22e41f-7ef8-4715-972a-bad9fba4a20a
             page: 28
             text: Reformar el artículo 23 de la Carta de los Derechos Fundamentales de la Unión Europea para acabar con la desigualdad jurídica entre hombres y mujeres y que atenta contra el Estado de derecho.
+            actions:
+            - over: [Carta de los Derechos Fundamentales de la Unión Europea]
+            analysis: 
+            - clarity: low
+              explanation: Previamente no se han aportado argumentos en contra del artículo que se pretende modificar. En esta propuesta tampoco se aportan detalles para comprender el alcance de la reforma
+            - fallacy: ad_ignorantium
+              explanation: La falta de detalles específicos sobre la reforma puede resultar en una ambigüedad deliberada. Esto puede dificultar el debate informado y la comprensión completa del impacto potencial de la reforma.
+            - information: aditional
+              explanation: 'El art. 23 contiene literalmente lo siguiente: 
+              "La igualdad entre mujeres y hombres deberá garantizarse en todos los ámbitos, inclusive en materia de empleo, trabajo y retribución.
+              El principio de igualdad no impide el mantenimiento o la adopción de medidas que supongan ventajas concretas en favor del sexo menos representado."'
         - promise:
             id: 217e1386-8ef9-40e3-ae38-4ea06092d0f9
             page: 28
             text: Derogar toda la legislación de género que permite el borrado de las mujeres con la autodeterminación de género y con las directivas sobre igualdad en materia de empleo que abandonan a los trabajadores, olvidando sus verdaderas necesidades e imponiendo cuotas y exigencias de género y más burocracia a las empresas.
+            actions:
+            - to_obstruct: [Feminismo]
+              by_eliminating: [Cuotas de género]
+              by_obstructing: [Burocracia]
+            - to_obstruct: [Identidades de género]
+            analysis: 
+            - clarity: low
+              explanation: Previamente no se han aportado argumentos relacionados con esta medida. En la propia propuesta no se concretan detalles y se emplean expresiones ambiguas, abiertas a interpretación, como "el borrado de las mujeres con la autodeterminación de género", "abandonan a los trabajadores" o "olvidando sus verdaderas necesidades" sin concretar a que se refieren.
         - promise:
             id: 482fd50b-b487-4c60-8c10-b66c4dfcc817
             page: 28
             text: Impulsar la implantación de la perspectiva de familia en todas las directivas y legislación comunitaria.
+            analysis:
+            - clarity: low
+              explanation: Previamente no se han aportado argumentos relacionados con esta medida. En la propia propuesta no se concretan detalles y se emplean expresiones ambiguas, abiertas a interpretación, como "implantación de la perspectiva de familia".
+            - fallacy: ad_ignorantium
+              explanation: La falta de detalles específicos sobre la reforma puede resultar en una ambigüedad deliberada. Esto puede dificultar el debate informado y la comprensión completa del impacto potencial de la reforma.
+            - information: aditional
+              explanation: Basándonos en la actividad parlamentaria del partido, probablemente se refieran a que se considere en el análisis de impactos normativos, como afectan las nuevas leyes y sus modificaciones a las familias.
+              sources: 
+              - https://www.voxespana.es/grupo_parlamentario/actividad-parlamentaria/vox-exige-la-inclusion-de-la-perspectiva-de-familia-en-lugar-del-genero-o-el-cambio-climatico-a-la-hora-de-elaborar-leyes-20221205
         - promise:
             id: c3974faa-aaaa-4099-b5bb-984fd16dda96
             page: 28
             text: Desarrollar políticas concretas de apoyo a las familias europeas y que faciliten a los jóvenes la realización de sus proyectos de vida, facilitándoles el acceso a un empleo estable, un salario suficiente y una vivienda digna.
+            actions:
+            - to_promote: [Familias, Jovenes]
+              by_promoting: [Trabajo, Salarios adecuados, Vivienda]
         - promise:
             id: 002f0618-e62d-4699-8408-468bed5a97a2
             page: 28
             text: Promover la natalidad en las naciones de la UE para revertir el invierno demográfico que asuela Europa frente a la criminalización de las familias, especialmente a las numerosas, que ha llevado a cabo la Comisión Europea de von der Leyen en nombre del fanatismo climático.
+            actions:
+            - to_promote: [Natalidad]
+            arguments:
+            - status_negative: [Familias, Familias numerosas]
+              status_negative_due: [Criminalización injusta, Dogmatismo climático]
+              status_negative_responsible_agents: [Úrsula Von der Leyen, Comisión Europea]
+            analysis:
+            - fallacy: ad_populum
+              explanation: Se emplea un lenguaje polarizador como "criminalización de las familias" y "fanatismo climático", para influir en las emociones del lector. Este enfoque puede desviar la atención de un análisis racional y objetivo de los problemas mencionados.
+            - clarity: low
+              explanation: La afirmación utiliza términos como "criminalización de las familias [...] en nombre del fanatismo climático" de manera ambigua y no precisa, permitiendo interpretaciones variadas. En el documento no se especifican argumentos que apoyen la idea de que exista una "criminalización" de las familias.
         - promise:
             id: 39c89458-fe2a-44af-bef2-7fb0969407eb
             page: 28
             text: Asegurar la protección de los datos personales de todos los europeos, limitando el poder de las grandes tecnológicas.
+            actions: 
+            - to_promote: [Privacidad digital]
+              by_obstructing: [Poder multinacionales]
+            analysis:
+            - arguments: low
+              explanation: En argumentos previos, se relaciona el poder de las multinacionales tecnológicas con la capacidad de censura. No así entre poder y privacidad.
+            - specific: low
+              explanation: No se concreta en que consistiría la limitación de poder.
         - promise:
             id: 9c17c638-145e-4be2-bed7-6412ad0c3177
             page: 29
             text: Acabar con la censura y la persecución a la libertad de pensamiento, de conciencia y de religión que ha impuesto el gobierno de von der Leyen.
+            arguments:
+            - status_negative: [Libertad, Religion]
+              status_negative_responsible_agentes: [Comisión Europea, Úrsula Von der Leyen]
+            actions:
+            - to_promote: [Libertad]
+              to_obstruct: [Censura]
+            analysis:
+            - fallacy: ad_populum
+              explanation:  La afirmación utiliza un lenguaje cargado emocionalmente (como "censura" y "persecución") para provocar una respuesta emocional en el lector, sin proporcionar hechos concretos.
+            - fallacy: ambiguity
+              explanation: La declaración es muy contundente, pero se presenta con vaguedad sin especificar argumentos ni evidencias de que actos constituyen censura o persecución ni cómo se han impuesto.
         - promise:
             id: 35031770-d8fd-4a19-888b-133050f640e4
             page: 29
             text: Destinar más recursos a luchar contra el acoso a los cristianos perseguidos en todo el mundo y defenderemos la libertad religiosa.
+            actions:
+            - to_defend: [Cristianismo]
+              by_defending_from: [Persecución religiosa]
+              by_promoting: [Libertad religiosa]
+              means: [Aumentar el gasto]
         - promise:
             id: fd5b875e-04a6-4d72-9e3c-32dc7fc1518c
             page: 29
             text: Oposición frontal al proyecto de Tratado de Pandemias. Lejos de mejorar la investigación, prevención y cooperación de los distintos países en situaciones sanitarias globales, pretende hurtar la gestión de la Sanidad e imponerse sobre la soberanía de las naciones para decidir sobre lo más íntimo de las personas, su salud. No podemos permitir que se vuelva a aprovechar una situación de emergencia sanitaria para tratar de forzar a las personas y cercenar su libertad e intimidad.
+            topics: [Investigación, Prevención, Cooperación internacional]
+            arguments:
+            - position_negative: [Tratado de Pandemias]
+              position_negative_obstructs: [Soberanía nacional, Libertad, Intimidad]
+              responsible_agents: [OMS, Unión Europea]
+              texts:
+              - text: '[El Tratado de Pandemias] Lejos de mejorar la investigación, prevención y cooperación de los distintos países en situaciones sanitarias globales, pretende hurtar la gestión de la Sanidad e imponerse sobre la soberanía de las naciones para decidir sobre lo más íntimo de las personas, su salud.'
+                literal: true
+              - text: No podemos permitir que se vuelva a aprovechar una situación de emergencia sanitaria para tratar de forzar a las personas y cercenar su libertad e intimidad.
+                literal: true
+            actions:
+            - to_obstruct: [Tratado de Pandemias]
+              text: Oposición frontal al proyecto de Tratado de Pandemias.
+              literal: true
+            analysis:
+            - information: aditional
+              explanation: El objetivo del tratado<sup>1,2</sup> es "prevenir, prepararse y responder a pandemias" y aplicaría tanto durante una pandemia como los periodos intermedios. Entre los principios que guía el tratado, se reconoce la <u>soberanía de los Estados a legislar</u>, de acuerdo a la Carta de las Naciones Unidas<sup>3</sup>, la Constitución de la OMS<sup>4</sup> y los principios del Derecho Internacional. Así como la <u>Equidad</u> para evitar "diferencias injustas, evitables o remediables entre individuos, comunidades y países", <u>solidaridad</u> "para lograr el interés común de un mundo más equitativo y mejor preparado para prevenir, responder y recuperarse de pandemias" y "la mejor <u>ciencia y evidencia</u> disponible como base para las decisiones de salud pública".
+              sources:
+              - https://apps.who.int/gb/inb/pdf_files/inb9/A_inb9_3Rev1-en.pdf
+              - https://apps.who.int/gb/ebwha/pdf_files/WHA77/A77_10-en.pdf
+              - https://www.un.org/es/about-us/un-charter/full-text
+              - https://apps.who.int/gb/bd/pdf_files/BD_49th-en.pdf#page=6
+              - https://www.who.int/es/news-room/questions-and-answers/item/pandemic-prevention--preparedness-and-response-accord
+            - information: aditional
+              explanation: 'De acuerdo a a la UE, este tratado servirá para una mejor "preparación y una mayor resiliencia para luchar contra futuras amenazas mundiales para la salud". Básicamente se busca que la "comunidad internacional esté mucho mejor preparada y que su reacción ante posibles pandemias futuras esté mejor coordinada en las fases de detección, alarma y respuesta". Se busca "estructurar la acción colectiva necesaria para atajar las pandemias".'
+              sources:
+              - https://www.consilium.europa.eu/es/infographics/towards-an-international-treaty-on-pandemics/#0
+              - https://www.consilium.europa.eu/es/policies/coronavirus-pandemic/pandemic-treaty/
+            - clarity: low 
+              explanation: El partido afirma que con el tratado no se mejora la Investigación ni la Prevención o la Cooperación internacional. Sin embargo, no queda claro si el partido está en contra o a favor en que se intente mejorar dichas cuestiones.
+            - fallacy: ad_metum
+              explanation: Se sugiere que el tratado llevará a una pérdida de libertad e intimidad personal sin presentar evidencia clara de cómo esto ocurriría específicamente. Es posible que se utilize el miedo a la pérdida de libertad e intimidad para persuadir al lector sin proporcionar evidencia concreta de cómo el tratado causaría estos efectos negativos.
+            - fallacy: ad_ignorantiam
+              explanation: La afirmación distorsiona el propósito del tratado al sugerir que su objetivo es hurtar la gestión sanitaria y la soberanía, cuando el tratado, de acuerdo a sus objetivos y principios, busca mejorar la cooperación y preparación ante pandemias.
         - promise:
             id: ff7f7d1e-757e-419e-a453-3253dfb5b758
             page: 29
             text: La Unión Europea dejará de ser el ejecutor de la Agenda 2030 impuesta por la ONU. Pondremos fin a las imposiciones a los Estados miembro de los ODS, socavando su soberanía nacional.
+            actions: 
+            - to_promote: [Soberanía nacional]
+              by_eliminating: [Agenda 2030, ODS]
 - chapter:
     title: Reivindicaremos una Europa de Naciones soberanas que cooperan libremente
     children:
@@ -1845,38 +2083,124 @@ content:
         id: 751b889a-b740-4208-9cc2-c0a01af67081
         page: 30
         text: Junto a nuestros aliados que ya gobiernan en países vecinos, en VOX creemos en una Europa fuerte integrada por naciones soberanas que cooperan libremente para resolver las necesidades comunes que afectan a sus ciudadanos.
+        arguments:
+        - position_positive: [Unión Europea]
+        prescriptions:
+        - over: [Unión Europea]
+          to_promote: [Interés común de los Estados de la UE]
     - statement:
         id: d6f4b870-8d15-4e22-ac76-c3462430e235
         page: 30
         text: En VOX afirmamos nuestra vocación europea. Creemos en Europa porque somos Europa. España es una de las naciones que han contribuido a lo largo de la Historia a conformar la Europa que nos dejaron nuestros padres y abuelos, y que hemos de legar a nuestros hijos y nietos. Deseamos construir una Europa más fuerte, pero teniendo claro que su fortaleza se encuentra en la libertad y la soberanía de sus Naciones y en la riqueza de las culturas que la conforman. Las políticas que amenazan la diversidad cultural y la libertad política de las Naciones europeas son las verdaderas enemigas de Europa y la libertad y la prosperidad de los europeos.
+        arguments:
+        - position_positive: [Unión Europea, Libertad, Soberanía nacional, Diversidad cultural, Prosperidad]
+          texts:
+          - text: En VOX afirmamos nuestra vocación europea. Creemos en Europa porque somos Europa.
+            literal: true
+          - text: Deseamos construir una Europa más fuerte, pero teniendo claro que su fortaleza se encuentra en la libertad y la soberanía de sus Naciones y en la riqueza de las culturas que la conforman.
+            literal: true
     - statement:
         id: 4308ca06-0a6a-4f11-9de8-43e918ab0223
         page: 30
         text: Frente a los que consideran que Europa son los burócratas de Bruselas que llevan décadas legislando de espaldas a los europeos, la Unión Europea debe ser un instrumento al servicio de las Naciones que la integran y de sus ciudadanos. Nada ha habido en las últimas décadas más nocivo para los intereses del conjunto de los europeos que el consenso de populares y socialistas en Bruselas, que han convertido la Unión Europea en un instrumento burocrático carísimo que trabaja al servicio de delirios progres y lobbies ideológicos.
+        arguments:
+        - status_negative: [Unión Europea]
+          status_negative_responsible_agents: [Burócratas, PP, PSOE]
+          status_negative_due: [Déficit democrático, Grupos de presión, Dogmatismo político]
+          status_negative_obstructs: [Optimización del gasto, Interés común de los Estados de la UE]
+          text: Nada ha habido en las últimas décadas más nocivo para los intereses del conjunto de los europeos que el consenso de populares y socialistas en Bruselas, que han convertido la Unión Europea en un instrumento burocrático carísimo que trabaja al servicio de delirios progres y lobbies ideológicos.
+          literal: true
     - statement:
         id: 4afb8e5f-a41c-4653-854a-483b89dd8e77
         page: 30
         text: Las instituciones de Bruselas deben servir a los Estados miembro y no al revés, empezando a escuchar y respetar sus demandas y necesidades para defender sus intereses ante el resto del mundo.
+        prescriptions:
+        - over: [Unión Europea]
+          to_promote: [Interés común de los Estados de la UE, Calidad democrática, Política exterior europea]
     - statement:
         id: 14f1f755-7756-45cf-8530-343d662f75b3
         page: 30
         text: La Unión Europea está en crisis porque, desde la aprobación del Tratado de Maastricht, con la sumisión de los representantes españoles en las instituciones comunitarias, se ha producido una profunda mutación en el marco institucional europeo. A pesar de las pretensiones de los burócratas de Bruselas, la Unión Europea no es un Estado soberano. La soberanía reside en las distintas Naciones que formamos parte de la Unión Europea y que deben defender y promover los intereses, la prosperidad y el bienestar de sus ciudadanos.
+        arguments:
+        - status_negative: [Unión Europea]
+          status_negative_due: [Supranacionalidad]
+          position_negative: [Supranacionalidad]
+          position_negative_obstructs: [Soberanía nacional, Prosperidad, Bienestar]
+          text: la Unión Europea no es un Estado soberano. La soberanía reside en las distintas Naciones que formamos parte de la Unión Europea y que deben defender y promover los intereses, la prosperidad y el bienestar de sus ciudadanos.
+        analysis:
+        - clarity: low
+          explanation: Se afirma que la Unión Europea está en crisis, sin concretar ni aportar evidencias. La referencia al Tratado de Maastricht es especialmente ambigua dada la inmensa complejidad. Hay que tener en cuenta que la actual UE deriva precisamente de dicho tratado. Esta falta de concreción genera dudas sobre qué es lo que se critica realmente, si el funcionamiento imperfecto de la UE o sus principios fundamentales.
+        - information: aditional
+          knowledge: [Tratado de Maastricht]
     - statement:
         id: 89319a6b-df61-4e55-8761-45382ae2d84e
         page: 30
-        text: Todas las directivas aprobadas en Bruselas se ven luego aplicadas en la legislación nacional. Por tanto, es necesario reformular, reforzar y hacer
-    - statement:
-        id: d03c1c1b-1608-4fb4-ab18-04fbd3a0a82a
-        page: 31
-        text: eficaces los mecanismos que las instituciones comunitarias disponen para asegurar el respeto a los principios de subsidiariedad y proporcionalidad y sobre todo mejorar y los procedimientos de los Estados miembros para oponerse, fundadamente, a las decisiones y actos legislativos de la Unión que atenten contra sus intereses y los de sus nacionales.
+        text: Todas las directivas aprobadas en Bruselas se ven luego aplicadas en la legislación nacional. Por tanto, es necesario reformular, reforzar y hacer eficaces los mecanismos que las instituciones comunitarias disponen para asegurar el respeto a los principios de subsidiariedad y proporcionalidad y sobre todo mejorar y los procedimientos de los Estados miembros para oponerse, fundadamente, a las decisiones y actos legislativos de la Unión que atenten contra sus intereses y los de sus nacionales.
+        arguments:
+        - status_negative: [Unión Europea]
+          status_negative_due: [Supranacionalidad]
+          position_negative: [Supranacionalidad]
+          position_negative_obstructs: [Soberanía nacional, Principio de Subsidiariedad]
+          text: Todas las directivas aprobadas en Bruselas se ven luego aplicadas en la legislación nacional.
+          literal: true
+        prescriptions:
+        - text: es necesario reformular, reforzar y hacer eficaces los mecanismos que las instituciones comunitarias disponen para asegurar el respeto a los principios de subsidiariedad y proporcionalidad y sobre todo mejorar y los procedimientos de los Estados miembros para oponerse, fundadamente, a las decisiones y actos legislativos de la Unión que atenten contra sus intereses y los de sus nacionales.
+          literal: true
+          over: [Unión Europea]
+          to_promote: [Soberanía nacional]
+          by_promoting: [Principio de Subsidiariedad]
+        analysis:
+        - information: aditional
+          explanation: De acuerdo al Protocolo que regula este principio, salvo en casos de "urgencia excepcional" antes de proponer cualquier acto legislativo la "la Comisión procederá a amplias consultas. <br>Estas consultas deberán tener en cuenta, cuando proceda, la dimensión regional y local de las acciones previstas". <br>Además "todo Parlamento nacional o toda cámara de uno de estos Parlamentos podrá, en un plazo de ocho semanas a partir de la fecha de transmisión de un proyecto de acto legislativo en las lenguas oficiales de la Unión, dirigir a los Presidentes del Parlamento Europeo, del Consejo y de la Comisión un dictamen motivado que exponga las razones por las que considera que el proyecto no se ajusta al principio de subsidiariedad". <br>Si los parlamentos de algún estado considerase que "un proyecto de acto legislativo no respeta el principio de subsidiariedad representen al menos un tercio del total de votos atribuidos a los Parlamentos nacionales [...] el proyecto deberá volverse a estudiar". <br>Finalmente, si la Comisión decidiera seguir adelante con el proyecto, tendrá la última palabra el Parlamento Europea, existiendo también la posibilidad de que los Estados disconformes recurran al Tribunal de Justicia de la Unión Europea.
+          sources:
+          - https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:12008E/PRO/02
+        - clarity: low
+          explanation: Existe un procedimiento democrático para que los estados miembros puedan oponerse a los actos legislativos de la Unión Europea, que también contempla procesos judiciales a los que pueden recurrir los Estados disconformes. No obstante, dada la falta de concreción de esta propuesta, no queda claro cuales son los defectos del sistema actual a mejorar.
+        - information: aditional
+          explanation: Para saber más sobre qué es el Principio de Susidiariedad
+          reference: [b189caa3-2294-4546-826d-a7e2eb489226]
     - statement:
         id: a29e9a81-2377-4c58-bc08-12bc2b05eb8a
         page: 31
         text: El crecimiento desorbitado y contrario a los tratados de la competencia de las instituciones comunitarias, la creciente y compleja normativa comunitaria que amenaza con dejar sin contenido las políticas nacionales en cuestiones de hondo calado social y cultural, el evidente deterioro de las libertades individuales en Europa, la creciente invasión migratoria azuzada por mafias internacionales perfectamente organizadas y coordinadas con oenegés que utilizan la política de puertas abiertas y efecto llamada promovida por la Unión Europea para alentar la invasión, la debilidad de diversos gobiernos nacionales, el dominio casi absoluto de los postulados socialdemócratas en el ámbito de la Unión, exigen que desde el Parlamento Europeo se sienten las bases de una Unión Europea con otro rumbo, rearmada políticamente para hacer frente a los retos actuales y futuros, en defensa de los derechos y libertades de los ciudadanos de Europa.
+        arguments:
+        - over: [Unión Europea]
+          to_promote: [Soberanía nacional, Libertad]
+          to_obstruct: [Inmigración ilegal, Tráfico de personas]
+          by_changing: [Política migratoria europea]
+          by_obstructing: [Supranacionalidad]
+          by_promoting: [Principio de Subsidiariedad]
+        analysis:
+        - fallacy: ad_ignorantiam
+          explanation: se sugiere que las acciones de la UE son ilegítimas sin proporcionar pruebas concretas.
+        - information: aditional
+          explanation: Para saber más sobre qué es el Principio de Susidiariedad o las competencias de la Unión Europea
+          reference: [b189caa3-2294-4546-826d-a7e2eb489226]
+        - information: aditional
+          explanation: Para profundizar en los Tratados europeos
+          reference: [14f1f755-7756-45cf-8530-343d662f75b3]        
     - statement:
         id: ea907b60-e2b8-4fc7-997b-3e76935a6868
         page: 31
         text: En lugar de hacer frente a los grandes retos a los que se enfrenta Europa como la defensa de nuestro sector primario y nuestra industria, frenar la invasión migratoria y defender la seguridad, la libertad y la identidad de Europa o asegurar la libertad acabando con la imposición de todas las políticas progres, von der Leyen pretende avanzar hacia la federalización y la construcción de un macro-Estado europeo que sirva únicamente a sus propios intereses y que, por supuesto, la inmensa mayoría de europeos ni quieren ni han votado.
+        arguments:
+        - status_negative: [Unión Europea]
+          status_negative_due: [Déficit democrático, Elitismo]
+          status_negative_promotes: [Supranacionalidad, Federalización de Europa]
+          status_negative_not_obstructs: [Inmigración ilegal, Sector primario, Industria, Libertad, Identidad europea]
+        - position_negative: [Inmigración ilegal]
+          position_negative_obstructs: [Seguridad y defensa]
+        analysis:
+        - clarity: low
+          explanation: No consideran que las políticas actuales de la UE persigan las prioridades incorrectas y abandonen cuestiones importantes sino que la manera en que la UE aborda dichos retos no coinciden con sus propias opiniones o intereses.
+        - fallacy: cherry_picking
+          explanation: La afirmación omite cualquier mención de las políticas actuales de la UE que abordan los retos mencionados, dando la impresión de que no se están tomando medidas cuando en realidad podrían estar abordándose de manera diferente.
+        - fallacy: ad_hominem
+          explanation: La afirmación contiene ataques implícitos a von der Leyen y sus supuestos intereses personales, en lugar de centrarse en criticar las políticas de manera objetiva.
+        - fallacy: ad_populum
+          explanation: La afirmación usa un lenguaje emocionalmente cargado, como "invasión migratoria" y "políticas progres", para provocar una respuesta emocional negativa en lugar de presentar un argumento racional.
+        - fallacy: generalization
+          explanation: La afirmación sugiere que la "inmensa mayoría de europeos ni quieren ni han votado" por una mayor integración europea, sin proporcionar evidencia que respalde esta aseveración. 
     - statement:
         id: c2c290ce-03d3-447e-bf55-947c3c741001
         page: 31
@@ -1885,10 +2209,19 @@ content:
         id: 0257143e-d228-49a2-b653-fcf1f78165a1
         page: 31
         text: Es el momento de reivindicar una Unión Europea fuerte, capaz de afrontar con determinación los grandes retos internacionales que enfrentamos y que marcarán el devenir de las próximas décadas. Necesitamos unas instituciones que sirvan a las verdaderas demandas y necesidades de los europeos y defiendan sus intereses frente a grandes potencias extranjeras y lobbies ideológicos que nos quieren cada vez más sumisos y dependientes.
+        prescriptions:
+        - over: [Unión Europea]
+          to_promote: [Interés comunitario]
+          by_promoting: [Visión a largo plazo]
+          by_defending: [Interés comunitario]
+          by_defending_from: [Intereses extracomunitarios, Grupos de presión] 
     - statement:
         id: df97e8fe-e350-4cfa-bbcb-9d5903a84fc9
         page: 31
         text: Hay que convertir la Unión Europea en un verdadero instrumento de las Naciones que la integran y al servicio de los ciudadanos europeos para asegurar su libertad, su prosperidad y su bienestar.
+        prescriptions:
+        - over: [Unión Europea]
+          to_promote: [Interés comunitario, Libertad, Prosperidad, Bienestar]
     - chapter: 
         title: Medidas urgentes
         children:
@@ -1896,34 +2229,174 @@ content:
             id: 570f8494-91e9-4a70-b635-c711c6b903e7
             page: 32
             text: La Unión Europea debe respetar la soberanía nacional de los Estados miembros singularizada en sus Parlamentos. Impulsar un nuevo tratado europeo que devuelva a los Estados miembros el protagonismo frente a la burocracia de una Comisión Europea que nadie elige y a la que nadie puede fiscalizar. La Unión Europea debe estar al servicio de los Estados miembros y de los ciudadanos, no de sus élites. Rechazar cualquier tendencia federalista de la Unión Europea.
+            actions:
+            - over: [Unión Europea]
+              to_promote: [Soberanía nacional]
+              by_changing: [Tratados de la UE]
+              by_obstructing: [Burocracia, Elitismo, Federalización de Europa]
+            analysis:
+            - specific: low
+              explanation: Se propone un cambio profundo al mencionar "impulsar un nuevo tratado europeo" sin especificar qué modificaciones concretas realizar. Esta vaguedad hace difícil evaluar la viabilidad y los efectos de la propuesta.
+            - fallacy: ad_populum
+              explanation: La afirmación utiliza un lenguaje emotivo para generar desconfianza hacia la Comisión Europea y las élites, apelando a los sentimientos de los ciudadanos en lugar de proporcionar una argumentación basada en hechos.
+            - fallacy: false_dichotomy
+              explanation: La afirmación presenta la relación entre la UE y los Estados miembros como una elección binaria entre respetar la soberanía nacional o someterse a la Unión Europea, ignorando la posibilidad de un sistema equilibrado donde ambos niveles puedan coexistir y cooperar eficazmente.
         - promise:
             id: 935b7a5c-09fa-44fd-9dac-21a4f67a364f
             page: 32
             text: La Unión Europea no puede convertirse en una máquina implacable de imponer normas que, lejos de ayudar y potenciar nuestro campo e industria, le obligue a competir en desigualdad de condiciones con productos del exterior. Exigir la recuperación y aplicación del principio de preferencia comunitaria como principio jurídico de alcance general y absoluto en todos aquellos acuerdos comerciales que nos afecten, así como medidas para combatir la competencia desleal de productos de terceros países. 
+            actions: 
+            - over: [Unión Europea]
+              to_promote: [Sector primario, Industria]
+              by_promoting: [Proteccionismo comercial]
+              by_obstructing: [Competencia desleal]
+              by_changing: [Acuerdos de libre comercio]
+            - over: [Unión Europea]
+              to_promote: [Soberanía nacional]
+              by_obstructing: [Imposición de políticas] 
         - promise:
             id: 797d70a2-7198-48da-8725-abe624dadb58
             page: 32
             text: Exigir que la adopción de acuerdos en el Consejo europeo y el Consejo de la UE garantice el pleno consentimiento de todos los Estados miembros, recuperando la regla de la unanimidad allí donde sea precisa para asegurar el respeto a la soberanía nacional.
+            actions:
+            - over: [Unión Europea, Consejo europea, Consejo de la Unión Europea]
+              to_promote: [Soberanía nacional]
+              by_promoting: [Requisito de unanimidad]
+            analysis:
+            - information: aditional
+              knowledge: [Consejos en la UE] 
+            - information: aditional
+              explanation: El <u>requisito de unanimidad</u> es un mecanismo de toma de decisiones que requiere el acuerdo total de todas las partes involucradas para que una decisión sea aprobada. 
+            - information: aditional
+              explanation: En ciertos casos dicho requisito se puede considerar un refuerzo democrático, mientras que en otros justo lo contrario. Para profundizar en esta cuestión puedes consultar <a href="/blog/criterio-unanimidad">este artículo</a> en nuestro blog. 
         - promise:
             id: d9431687-c34e-4d99-aa05-2e2f305e9c97
             page: 32
             text: Respeto a la cláusula democrática de los Estados miembros. Derogar o en su caso reformar de manera radical el art. 7 del Tratado de Lisboa a fin de impedir la injerencia de Bruselas en la Constitución política y las decisiones democráticas de los Estados a través de la cláusula del “respeto a los valores democráticos” del artículo 7 del TUE y sus desarrollos reglamentarios, sin audiencia del Estado afectado, que ha sido utlizada para reprimir y persiguir a naciones soberanas como Polonia o Hungría que se han negado a aceptar los delirios ideológicos de Bruselas.
+            topics: [Polonia, Hungría]
+            actions: 
+            - over: [Unión Europea]
+              to_promote: [Soberanía nacional]
+              by_obstructing: [Control de calidad democrática]
+              by_changing: [Tratados de la UE]
+            analysis:
+            - information: aditional
+              explanation: 'El artículo 7 del Tratado de la Unión Europea (TFUE)<sup>1</sup> permite suspender los derechos como miembro de la Unión Europea (UE) (como los derechos de voto en el Consejo de la Unión Europea) si un país infringe de forma grave y persistente los principios en los que se basa la UE según lo dispuesto en el artículo 2 del Tratado de la Unión Europea<sup>2</sup> (respeto de la dignidad humana, libertad, democracia, igualdad, Estado de Derecho y respeto de los derechos fundamentales, incluidos los derechos de las personas pertenecientes a minorías).<br>
+              Primero ha de ser propuesta por, al menos, un tercio de los estados miembros en el parlamento o la Comisión Europea; o por al menos cuatro quintos del Consejo. Posteriormente, para su aplicación, debe ser aprobada por, al menos, 2 tercios del parlamento.'
+              sources:
+              - https://eur-lex.europa.eu/ES/legal-content/glossary/suspension-clause-article-7-of-the-treaty-on-european-union.html
+              - https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:12016ME/TXT#d1e124-13-1
+            - clarity: low
+              explanation: 'Se propone una derogación o "reforma "radical". Para el segundo caso, no se concreta en que consistiría. Se puede deducir que pasaría por incluir un proceso de "audiencia del Estado afectado". Pero eso, no supone una reforma radical, de modo que queda en duda que otras medidas se pretenden llevar a cabo.'
+            - fallacy: generalization
+              explanation: La afirmación sugiere que el artículo 7 del TUE se utiliza indiscriminadamente para reprimir y perseguir a naciones soberanas. Sin embargo, esta conclusión se basa en casos específicos (Polonia y Hungría) y no considera el contexto completo.
+            - fallacy: ad_populum
+              explanation: 'Uso de términos como "delirios ideológicos" y "reprimir y perseguir" busca provocar una respuesta emocional negativa hacia Bruselas y la UE, en lugar de proporcionar un análisis objetivo de la situación.'
+            - fallacy: ad_ignorantiam
+              explanation: La propuesta puede estar tergiversando la intención del artículo 7, que en teoría busca proteger los valores democráticos de la UE, no imponer ideologías ni reprimir a los Estados miembros. Al presentar el artículo 7 como una herramienta de represión ideológica, la propuesta distorsiona su propósito original.
+            - motivation: Defensa de la Soberanía Nacional
+              explanation: La propuesta refleja una fuerte defensa de la soberanía nacional y una desconfianza hacia las instituciones supranacionales como la UE. Este enfoque puede ser motivado por un deseo de mantener control político y cultural dentro de las fronteras nacionales, sin interferencia externa.
+            - motivation: Alianza Ideológica
+              explanation: Mencionando explícitamente a Polonia y Hungría, la propuesta puede estar alineándose con gobiernos que comparten una visión crítica de la UE y que han sido objeto de procedimientos del artículo 7 debido a preocupaciones sobre el estado de derecho y los valores democráticos.
+            - motivation: Resistencia a Cambios Progresistas
+              explanation: 'La referencia a "delirios ideológicos" sugiere una oposición a las políticas progresistas promovidas por la UE, como las relativas a derechos humanos, igualdad de género y derechos LGTBI+. La motivación podría ser mantener políticas más conservadoras en estos ámbitos.'
         - promise:
             id: 5e864ebd-dd0d-4454-bc35-fab30d13ae6d
             page: 32
             text: Rechazar cualquier pretensión de integrar en la Unión a aquellos Estados que no acepten los anteriores principios y valores y singularmente a los Estados que directa o indirectamente asumen los postulados políticos del Islam y la imposición de formas de vida religiosa a los ciudadanos europeos, en ningún caso.
+            actions:
+            - over: [Unión Europea]
+              to_defend: [Valores democráticos, Valores liberales]
+              to_defende_from: [Islam, Estados confesionales]
+              by_obstructing: [Ampliación de la UE]
+            analysis:
+            - coherence: low
+              explanation: En esta propuesta se propone negar el acceso como Estado miembro a aquellos que no compartan los mismos principios que, en la propuesta anterior, rechazan se garanticen por los estados que ya pertenecen a la unión.
+              reference: d9431687-c34e-4d99-aa05-2e2f305e9c97 
+            - information: aditional
+              explanation: 'Los siguientes países son considerados candidatos oficiales: <ul><li>Albania</li><li>Bosnia y Herzegovina</li><li>Georgia</li><li>Moldavia</li><li>Montenegro</li><li>Macedonia del norte</li><li>Serbia</li><li>Turquía</li><li>Ucrania</li></ul><br> Kosovo también ha solicitado su ingreso, pero aún es considerado como candidato potencial.<br>De estos, cuatro tienen relación relevante con el islam:
+              <ul><li>Albania: es un país de mayoría musulmana (60%) y es un estado laico. La libertad religiosa está garantizada, y el Estado no se inmiscuye en los asuntos religiosos.</li>
+              <li>Bosnia y Herzegovina: Aproximadamente el 50% de la población es musulmana, también es un Estado secular.</li><li>Turquía: Turquía es predominantemente musulmana, con aproximadamente el 99%. Se define como un estado laico desde su fundación en 1923. Sin embargo, en las últimas décadas, la religión ha ganado presencia en la vida pública y política.</li><li>Kosovo: Kosovo tiene una mayoría musulmana, con aproximadamente el 95% de la población. Al igual que el resto se define como un estado laico. La constitución garantiza la libertad religiosa y la separación entre religión y estado.</li></ul>'
+              sources:
+              - title: 'Comisión Europea - Ampliación de la UE'
+                url: https://commission.europa.eu/strategy-and-policy/policies/eu-enlargement_es
+              - title: Ampliación de la UE
+                url: https://commission.europa.eu/strategy-and-policy/policies/eu-enlargement_es#contexto
+              - title: Constitución del Albania
+                url: www.constituteproject.org/constitution/Albania_2016.pdf?lang=en
+              - title: Constitución de Bosnia y Herzegovina
+                url: www.refworld.org/docid/3de497992.html
+              - title: Constitución de Kosovo
+                url: gzk.rks-gov.net/ActDetail.aspx?ActID=3702
+              - title: Constitución de Turquía
+                url: global.tbmm.gov.tr/docs/constitution_en.pdf
+            - information: aditional
+              explanation: El proceso de ampliación es complejo y lento porque tiene una serie de requisitos que los estados deben cumplir antes de materializar su integración en la UE. Entre ellos, "la capacidad de asumir las obligaciones que se derivan de la adhesión a la UE, incluida la capacidad de aplicar toda la legislación de la UE y de adherirse a los objetivos de la Unión". Por esta razón, aunque la mayoría de los estados mencionados anteriormente han evolucionado hacia el cumplimiento, llevan décadas sin poderse adherir.   
+            - fallacy: generalization
+              explanation: Se asume que cualquier Estado que asuma los postulados políticos del Islam necesariamente impone formas de vida religiosa a sus ciudadanos. Esto es una generalización que no considera las variaciones en cómo diferentes Estados pueden manejar la relación entre religión y política. Además, este tipo de asociación puede inducir a error al no diferenciar entre las diversas interpretaciones y aplicaciones del Islam en diferentes contextos políticos y sociales.
+            - motivation: unclear
+              explanation: Creemos que no existe un riesgo inminente de adhesión que pueda poner en peligro los valores democráticos y liberales de la UE, precisamente porque el propio proceso busca evitarlo, de ahí su lentitud. Esto nos lleva a cuestionar la motivación real detrás de la propuesta. Podría ser que se esté intentando distorsionar la realidad para añadir un argumento con el que atacar a la UE y al Islam. No obstante, esta es una impresión subjetiva. Por ello, no hemos querido clasificarla estrictamente como una falacia.
+            - motivation: Resistencia a la Diversidad Religiosa
+              explanation: La propuesta podría estar influenciada por una resistencia a la creciente diversidad religiosa en Europa y un deseo de mantener una identidad cultural y religiosa más homogénea.
         - promise:
             id: 0e90574a-9511-447a-849d-65e046bf76cb
             page: 32
-            text: Impulsar la bilateralidad en las relaciones internacionales, abandonando organismos supranacionales o acciones comunitarias voluntarias si son contrarios a los intereses de España
+            text: Impulsar la bilateralidad en las relaciones internacionales, abandonando organismos supranacionales o acciones comunitarias voluntarias si son contrarios a los intereses de España.
+            actions:
+            - to_defend: [Interés nacional]
+              by_promoting: [Acuerdos bilaterales]
+              by_obstructing: [Supranacionalidad]
+            analysis:
+            - fallacy: false_dichotomy
+              explanation: La afirmación plantea una elección entre bilateralidad y participación en organismos supranacionales como si fueran mutuamente excluyentes. No considera que es posible participar en ambos tipos de relaciones de manera
+            - fallacy: oversimplification
+              explanation: Reduce la complejidad de las relaciones internacionales y la participación en organismos supranacionales a una cuestión de "intereses de España" vs. "otros intereses", sin reconocer la interdependencia global y las ventajas de la cooperación multilateral.
+            - motivation: Nacionalismo
+              explanation: La propuesta podría estar motivada por un deseo de fortalecer la soberanía nacional y reducir la dependencia de España de organismos internacionales, reflejando una postura nacionalista.
+            - motivation: Resentimiento hacia Organismos Supranacionales
+              explanation: Puede haber un sentimiento de que las decisiones tomadas en el marco de organismos supranacionales no reflejan adecuadamente los intereses de España o que son desfavorables para el país.
+            - consequences: Aislamiento internacional
+              explanation: Abandonar organismos supranacionales puede llevar a un aislamiento diplomático y una menor influencia en la toma de decisiones globales, lo que podría perjudicar a España en el largo plazo.
+            - consequences: Pérdida de Beneficios de la Cooperación
+              explanation: España podría perder los beneficios de la cooperación internacional, como ayuda económica, seguridad compartida, acceso a mercados y apoyo diplomático.
+            - consequences: Inseguridad Económica y Política
+              explanation: La falta de participación en organismos supranacionales puede crear inestabilidad económica y política, ya que las relaciones bilaterales no siempre pueden ofrecer el mismo nivel de apoyo y recursos.
+            - consequences: Riesgo de Conflictos
+              explanation: La falta de una plataforma supranacional para resolver disputas puede aumentar el riesgo de conflictos diplomáticos y comerciales con otros países.
         - promise:
             id: 4c87060f-adf5-43d0-a696-a6cc66417d56
             page: 32
             text: Proponer un programa de reducción del gasto político europeo, eliminando duplicidades y agencias ineficaces que se inmiscuyan en la soberanía nacional.
+            actions:
+            - over: [Unión Europea]
+              to_defend: [Soberanía nacional]
+              by_eliminating: [Agencias europeas]
+              by_promoting: [Optimización del gasto]
+            analysis:
+            - fallacy: Ambiguity
+              explanation: La afirmación es ambigua porque no especifica cuáles son estas agencias o funciones. Esto dificulta evaluar la validez del argumento sin más detalles.
+            - fallacy: generalization
+              explanation: Se asume que todas las duplicidades y agencias etiquetadas como ineficaces deben ser eliminadas, sin un análisis detallado de los beneficios que podrían estar proporcionando o de posibles reformas que podrían mejorar su eficacia.
+            - fallacy: false_causality
+              explanation: La afirmación sugiere que existe una relación directa entre la reducción del gasto público de la UE y un aumento en la soberanía nacional. Implica que la eliminación de estas agencias y duplicidades resolverá problemas relacionados con la soberanía nacional sin demostrar una relación causal clara entre ambos temas. Lo cual distorsiona el rol y las funciones de estas entidades para hacer que el argumento en contra de ellas parezca más fuerte.
+            - motivation: Nacionalismo
+              explanation: Refleja una postura nacionalista que busca limitar la influencia y control de las instituciones supranacionales sobre los asuntos nacionales, promoviendo mayor autonomía para los Estados miembros.
+            - motivation: Reducir Costos
+              explanation: Es posible que la reducción del gasto público, buscando eficiencias y ahorros en el presupuesto europeo sea una motivación. No obstante, esta medida concreta sólo se centra en eliminar "duplicidades y agencias ineficaces que se inmiscuyan en la soberanía nacional" y no se consideran otras causísticas mas generales.
         - promise:
             id: 55230659-484c-4fdb-a162-ac31516ce449
             page: 32
             text: Exigir en el amplio marco de las instituciones y acciones comunitarias el debido reconocimiento de la lengua española a nivel internacional, conforme a su importancia como segunda lengua más hablada del mundo.
+            actions:
+            - over: [Unión Europea]
+              to_promote: [Lengua española]
+            analysis:
+            - fallacy: ambiguity
+              explanation: La afirmación no especifica qué se entiende por "debido reconocimiento" ni qué acciones concretas se espera que se tomen. Esto deja la propuesta abierta a interpretaciones diversas y a la falta de claridad en su implementación.
+            - motivation: Promoción Cultural
+              explanation: Fomentar y proteger la lengua y cultura española en el ámbito internacional, asegurando su presencia e influencia en instituciones comunitarias y globales.
+            - motivation: Política interna
+              explanation: Apelar a los sentimientos nacionales y de identidad cultural de los votantes hispanohablantes, fortaleciendo la conexión con una base electoral que valora la promoción del español.
 - chapter:
     title: Impulsaremos una Política Agraria Común (PAC) con más fondos y menos ideología
     children:
@@ -2237,3 +2710,10 @@ content:
         id: 5fe9a2db-7679-4624-826d-d74260efe6cd
         page: 44
         text: Con un grupo más fuerte podremos consolidar estos logros alcanzados y avanzar en los principios expuestos en este programa para la defensa de nuestros valores, soberanía, fronteras, familias y sectores productivos, en definitiva, del sentido común. Seremos la voz fuerte de los españoles, sus problemas, necesidades e ilusiones en Bruselas.
+final_analysis:
+- topic: [Soberanía nacional]
+  explanation: La importancia de devolver el protagonismo a los Estados miembros parece estar motivada por razones de utilidad. Los principales argumentos para defender la 'Soberanía nacional' se basan en la opinión de que las políticas europeas son contrarias a los intereses nacionales. No se presentan razones que aborden la validez del principio de soberanía nacional en sí. Esto sugiere que si las políticas europeas estuvieran más alineadas con la visión de VOX, especialmente en inmigración, sector primario, protección del medio ambiente y cambio climático, no habría razones para oponerse a la cesión de soberanía.
+  caution: 'Debemos hacer una advertencia: No hay evidencia que soporte esta conclusión. Se trata de una deducción subjetiva al tratar de interpretar como piensan los autores del documento. Empleamos como parte de la argumentación un escenario hipotético que no ha ocurrido. Es posible que nos equivoquemos, y no hay manera de comprobarlo hasta que se de el caso hipotético, si es que llega a ocurrir alguna vez.' 
+- topic: [Unión Europea]
+  explanation: Uno de los argumentos más destabables de este programa electoral es la crítica de falta de calidad democrática a la Unión Europea en general y a la Comisión Europea en particular. Básicamente se considera que la UE impone sus políticas a los estados socavando la soberanía nacional de los Estados miembros. Se alude como causa el supuesto afán de los "Burócratas" europeos en la acumulación de poder, de defender sus propios intereses o el de grupos de presión, todo ello sin haber sido elegidos democráticamente.
+  explanation: 2 

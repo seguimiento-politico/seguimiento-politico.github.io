@@ -3,37 +3,37 @@
     - title: 'FAQs: Que son los perte'
       url: https://planderecuperacion.gob.es/preguntas/que-son-los-perte
 - name: RETECH
-  urls: 
+  sources: 
     - https://www.incibe.es/retech
     - https://espanadigital.gob.es/medida/retech-redes-territoriales-de-especializacion-tecnologica
     - https://planderecuperacion.gob.es/etiquetas/retech
 - name: Agenda España Digital
   type: strategy
-  urls: 
+  sources: 
     - https://espanadigital.gob.es/
 - name: Plan de Recuperación, Transformación y Resiliencia
-  urls: 
+  sources: 
     - https://planderecuperacion.gob.es/
 - name: Kit Digital
-  urls: 
+  sources: 
     - https://www.acelerapyme.gob.es/kit-digital
     - https://planderecuperacion.gob.es/etiquetas/kit-digital
     - https://www.red.es/es/iniciativas/proyectos/kit-digital
     - https://portal.gestion.sedepkd.red.gob.es/portal/kitdigital
 - name: Next Generation
   type: fund
-  urls: 
+  sources: 
     - https://next-generation-eu.europa.eu/index_es
     - https://planderecuperacion.gob.es/preguntas/que-es-el-fondo-de-recuperacion-nextgenerationeu
     - https://www.hablamosdeeuropa.es/es/Paginas/NextGenerationEU.aspx
 - name: Next-Tech
   type: fund
-  urls: 
+  sources: 
     - https://www.ico.es/web/axis/fond-ico-next-tech
     - https://espanadigital.gob.es/lineas-de-actuacion/fondo-next-tech
     - https://planderecuperacion.gob.es/como-acceder-a-los-fondos/convocatorias/DRU/75/fondo-fond-ico-next-tech
 - name: Plan Nacional de Competencias Digitales
-  urls: 
+  sources: 
     - https://generaciond.gob.es/plan-nacional
     - https://planderecuperacion.gob.es/politicas-y-componentes/componente-19-plan-nacional-de-competencias-digitales-digital-skills
 - name: Plan de Digitalización de las Administraciones Públicas
@@ -117,13 +117,88 @@
     url: https://www.conceptosjuridicos.com/arraigo/
 - name: Nutriscore
   sources:
-  - title: 'Agencia de seguridad alimentaria y nutrición: info. modelo Nutriscore'
+  - title: 'Agencia de seguridad alimentaria y nutrición (AESAN): info. modelo Nutriscore'
+    short: 'AESAN: Nutriscore'
     url: https://www.aesan.gob.es/AECOSAN/web/para_el_consumidor/seccion/informacion_Nutri_Score.htm
 - name: Derechos Fundamentales de la Unión Europea
   sources:
-  - title: 'Eur-lex: Carta de los Derechos Fundamentales de la Unión Europea'
+  - title: 'Carta de los Derechos Fundamentales de la Unión Europea'
     url: https://eur-lex.europa.eu/ES/legal-content/summary/charter-of-fundamental-rights-of-the-european-union.html
 - name: Inmigración ilegal
   sources:
   - title: 'ISEAK: Proveniencia sentimiento antiinmigración en España'
     url: https://iseak.eu/publicacion/de-donde-proviene-el-sentimiento-antiinmigracion-en-espana-evidencia-de-una-encuesta-a-gran-escala
+- name: Política de asilo
+  sources:
+  - title: Política europea de asilo
+    url: https://www.europarl.europa.eu/factsheets/es/sheet/151/la-politica-de-asilo
+- name: Protección en tercer país
+  information:
+  - explanation: En general, la concesión del derecho de asilo implica que el país que lo concede asume la responsabilidad de proteger al individuo dentro de su propio territorio, de acuerdo con las obligaciones y normativas internacionales en materia de refugio y asilo. Sin embargo, bajo ciertas circunstancias específicas, podría considerarse una forma de "protección en tercer país" cuando varios países cooperan para ofrecer una solución conjunta. Legalmente, esto requiere además el consentimiento y la voluntariedad del individuo afectado, respetando siempre sus derechos y dignidad.
+- name: Derecho de asilo
+  sources: 
+  - title: 'UN: Protocolo sobre el Estatuto de los Refugiados'
+    short: 'UN: Protocolo refugiados'
+    url: https://www.ohchr.org/es/instruments-mechanisms/instruments/protocol-relating-status-refugees
+  - title: 'UN: Convención sobre el Estatuto de los Refugiados (Convención de Ginebra)'
+    short: 'UN: Convención refugiados (Convención de Ginebra)'
+    url: https://www.ohchr.org/es/instruments-mechanisms/instruments/convention-relating-status-refugees
+  - title: 'UN: Estado de la Convención'
+    url: https://treaties.un.org/pages/ViewDetailsII.aspx?src=TREATY&mtdsg_no=V-2&chapter=5&Temp=mtdsg2&clang=_en
+- name: Principio de no-devolucion
+  information:
+  - explanation: 'El principio de no devolución (no refoulement en inglés), es un principio fundamental del derecho internacional de los refugiados que prohíbe expulsar o devolver a un refugiado o solicitante de asilo a un país donde su vida o libertad podrían estar amenazadas. Este principio está recogido en el artículo 33 de la Convención sobre el Estatuto de los Refugiados de 1951, también conocida como la Convención de Ginebra.<br>
+  Existen dos excepciones: 1) Que se considere a la persona un peligro para la seguridad del país en el que se encuentra; 2) que, habiendo sido condenado por un delito particularmente grave, constituya una amenaza para la comunidad de ese país.'
+  sources:
+  - title: Convención sobre el Estatuto de los Refugiados (Convención de Ginebra)
+    short: 'UN: Convención refugiados (Convención de Ginebra)' 
+    url: https://www.ohchr.org/es/instruments-mechanisms/instruments/convention-relating-status-refugees
+  - title: 'UN: Estado de la Convención'
+    url: https://treaties.un.org/pages/ViewDetailsII.aspx?src=TREATY&mtdsg_no=V-2&chapter=5&Temp=mtdsg2&clang=_en
+- name: Precios de la energía por tecnología
+  sources:
+  - title: "OMIE: Informe anual 2022 (ver p.18)"
+    short: OMIE 2022
+    url: https://www.omie.es/sites/default/files/2023-02/Informe%20Anual%202022%20ESP.pdf
+- name: Principio de subsidiariedad
+  information:
+  - explanation: El principio de subsidiariedad se aplica principalmente a las <u>competencias compartidas</u> y las <u>competencias de apoyo</u> de la Unión Europea (UE). La UE actúa en estas áreas solo cuando los objetivos de la acción propuesta no pueden ser alcanzados de manera suficiente por los Estados miembros y, por tanto, pueden ser mejor logrados a nivel de la Unión. Esto asegura que las decisiones se tomen lo más cerca posible de los ciudadanos.
+    sources:
+    - https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:12008E/PRO/02
+- name: Competencias UE
+  information:
+  - explanation: 'Las competencias de la UE están definidas en los Artículos 3 a 6 del Tratado de Funcionamiento de la Unión Europea (TFUE). Se dividen en tres categorías principales: <u>Competencias Exclusivas</u> donde solo la UE puede legislar y adoptar actos vinculantes. Los Estados miembros solo pueden legislar en estas áreas si se les autoriza a implementar actos de la UE; <u>Competencias Compartidas</u> donde tanto la UE como los Estados miembros pueden legislar y adoptar actos jurídicamente vinculantes. Sin embargo, los Estados miembros pueden ejercer su competencia solo en la medida en que la UE no haya ejercido la suya;<u>Competencias de Apoyo, Coordinación o Complemento</u> donde la UE puede llevar a cabo acciones para apoyar, coordinar o complementar las acciones de los Estados miembros, pero no para armonizar las legislaciones nacionales.'
+  - explanation: 'Las <u>competencias exclusivas</u> de la Unión Europea (UE) son seis (6) competencias: Unión Aduanera; Normas Relativas a la Competencia del Mercado Interior; Política Monetaria; Política Pesquera Común (Conservación de los Recursos Biológicos Marinos); Política Comercial Común; y Acuerdos Internacionales.'
+  - explanation: 'Mientras que las <u>competencias compartidas</u> de la UE son: el mercado interior; la política social; la cohesión económica, social y territorial; la agricultura y la pesca; el medio ambiente; protección de los consumidores; los transportes; las redes transeuropeas; la energía; el espacio de libertad, seguridad y justicia; asuntos comunes de salud pública; investigación, el desarrollo tecnológico y el espacio; y la cooperación para el desarrollo y de la ayuda humanitaria.'
+  - explanation: 'Sobre las <u>competencias de apoyo y coordinación</u> el TFUE dice que se cooordinarán políticas económicas, de empleo y sociales. Además de la protección y mejora de la salud humana; la industria; la cultura; el turismo; la educación, la formación profesional, la juventud y el deporte; la protección civil; y la cooperación administrativa.'
+  sources: 
+  - title: Tratado de Funcionamiento de la Unión Europea (TFUE)
+    short: TFUE
+    url: https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:12016ME/TXT
+  date: Julio 2024
+- name: Consejos en la UE
+  information:
+  - explanation: El <u>Consejo de la Unión Europea</u> (conocido informalmente como "El Consejo" a secas) y el <u>Consejo Europeo</u> son dos instituciones diferentes que desempeñan diferentes funciones, aunque en ambos casos representan la voz de los <b>gobiernos</b> nacionales. El Consejo Europeo y el Consejo no deben confundirse con el <u>Consejo de Europa</u>.
+  - explanation: El <u>Consejo de la Unión Europea</u> está compuesto por todos los ministros de los gobiernos nacionales de los Estados miembros. Los miembros que se reunan depende del ámbito de actuación. Su función es negociar y adoptar la legislación de la UE (en la mayoría de los casos conjuntamente con el Parlamento Europeo).
+  - explanation: El <u>Consejo Europeo</u> está compuesto únicamente por los jefes de estado de los 27 Estados miembros de la UE y los presidentes del Consejo Europeo y de la Comisión Europea. Su función es definir las orientaciones y las prioridades políticas generales de la UE. No adopta legislación alguna.
+  - explanation: El <u>Consejo de Europa</u> no forma parte de la estructura institucional de la UE. Se trata de una organización internacional, con sede en Estrasburgo (Francia), dedicada a la protección de los derechos humanos, la democracia y el Estado de Derecho.
+  sources:
+  - title: Consejo de UE y Consejo Europeo
+    short: Los Consejos en la UE
+    url: https://www.consilium.europa.eu/es/european-council-and-council-of-the-eu/
+- name: Tratado de Maastricht
+  information:
+  - explanation: 'El Tratado de Maastricht fue firmado en 1992. Abarca tres aspectos fundamentales (pilares): <ul><li>las Comunidades Europeas (agrupando las actividades económicas que se llevaban hasta el momento);</li> <li>política exterior y de seguridad común;</li></li>cooperación entre Estados en ámbitos de Justicia y asuntos de interior.</li></ul> <br>
+  Con la entrada en vigor del Tratado de la Unión Europea, la Comunidad Económica Europea (CEE) se convirtió en la Comunidad Europea (CE) y la moneda única "euro" (€). La CE se convertiría más tarde en la Unión Europea (UE).<br>
+  Con arreglo al nuevo Tratado, el Parlamento Europeo tiene el derecho de solicitar a la Comisión que presente una propuesta legislativa sobre asuntos que, en su opinión, requieran la adopción de un acto comunitario. Además, todos los miembros de la Comisión tienen que ser aprobados por el PE y éste nombra al Defensor del Pueblo Europeo.'
+  - explanation: 'La <u>Comunidad Europea (CE)</u> tenía como misión asegurar el buen funcionamiento del mercado único, así como, entre otras cosas, un desarrollo armonioso, equilibrado y sostenible de las actividades económicas, un alto nivel de empleo y de protección social y la igualdad entre hombres y mujeres. La Comunidad perseguía estos objetivos, dentro de los límites de las competencias que le habían sido confiadas, mediante el establecimiento de un mercado común y de las medidas conexas contempladas en el artículo 3 del Tratado constitutivo de la Comunidad Europea (TCE).<br>
+  La acción de la Comunidad debía respetar el principio de proporcionalidad y, en los ámbitos que no fueran de su competencia exclusiva, el principio de subsidiariedad.'
+  - explanation: 'La <u>política exterior y de seguridad común</u> tenía la misión de definir y ejecutar una política exterior y de seguridad, según un método de carácter intergubernamental. Los Estados miembros estaban obligados a apoyar activamente y sin reservas esta política, con espíritu de lealtad y solidaridad mutua. Tenía, entre otros, los siguientes objetivos: la defensa de los valores comunes, los intereses fundamentales, la independencia y la integridad de la Unión, de conformidad con los principios de la Carta de las Naciones Unidas; el fortalecimiento de la seguridad de la Unión en todas sus formas; el fomento de la cooperación internacional; el desarrollo y la consolidación de la democracia y del Estado de Derecho, así como el respeto de los derechos humanos y de las libertades fundamentales.'
+  - explanation: 'La <u>cooperación en los ámbitos de la justicia y de los asuntos de interior</u> tenía el cometido de elaborar una acción común en estos ámbitos según un método de carácter intergubernamental con objeto de ofrecer a los ciudadanos un nivel elevado de protección en un espacio de libertad, seguridad y justicia. Abarcaba los siguientes ámbitos: <ul><li>normas para el cruce de las fronteras exteriores de la Comunidad y refuerzo de los controles;</li> <li>lucha contra el terrorismo, la delincuencia, el tráfico de drogas y el fraude internacional;</li> <li>cooperación judicial en materia civil y penal;</li> <li>creación de una Oficina Europea de Policía (Europol) dotada de un sistema de intercambio de información entre las policías nacionales;</li> <li>lucha contra la inmigración irregular; <li>política común de asilo.</li></ul>'
+  - explanation: 'Además de todo lo anterior, el tratado supone los siguientes cambios: <br><u>Nuevas políticas</u><br>A la UE se le asignan responsabilidades en cuanto a: <ul><li>redes transeuropeas (RTE);</li><li>política industrial;</li><li>protección de los consumidores;</li><li>educación y formación profesional;</li><li>cuestiones relacionadas con la juventud;</li><li>cultura.</li></ul><br><u>Protocolo social</u><br> Se amplían las responsabilidades de la UE a: <li>la promoción del empleo;</li><li>la mejora de las condiciones de vida y de trabajo;</li><li>la provisión de una protección social adecuada;</li><li>el impulso del diálogo social;</li><li>el desarrollo de los recursos humanos para garantizar un elevado y duradero nivel de empleo;</li><li>la inclusión de las personas excluidas del mercado laboral.</li>El Reino Unido (1) cuenta con una exención de este protocolo social.<br></ul><u>Ciudadanía europea</u><br>Se concede a cada ciudadano de un país de la UE el derecho a: <ul><li>viajar y vivir libremente en cualquier lugar de la UE;</li><li>votar y presentarse como candidato en las elecciones europeas y locales en el país en el que vive;</li><li>recibir asistencia y protección diplomática por parte de las embajadas y consulados de otros países miembros;</li><li>formular peticiones al Parlamento Europeo y enviar reclamaciones relativas a casos de mala administración de la UE al Defensor del Pueblo Europeo.</li></ul><br> <u>Cambios institucionales</u><br>Entre estos, se incluyen: <ul><li>el aumento del poder legislativo del Parlamento Europeo;</li><li>más votación por mayoría cuando los gobiernos de la UE adoptan legislación;</li><li>la creación de un Comité de las Regiones;</li><li>la aplicación del principio de subsidiariedad, según el cual la UE solo interviene en la medida en que la acción a nivel de la UE es más eficaz que a escala nacional.</li><ul>'
+  sources:
+  - https://eur-lex.europa.eu/legal-content/ES/TXT/?qid=1721234350610&uri=LEGISSUM:xy0026
+  - https://www.europarl.europa.eu/about-parliament/es/in-the-past/the-parliament-and-the-treaties/maastricht-treaty
+  - https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:11992M/TXT
+  - https://www.europarl.europa.eu/factsheets/es/sheet/3/los-tratados-de-maastricht-y-amsterdam#_ftn1
+  - https://european-union.europa.eu/principles-countries-history/principles-and-values/founding-agreements_es

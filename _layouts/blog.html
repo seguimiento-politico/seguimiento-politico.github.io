@@ -2,7 +2,6 @@
 layout: page
 ---
 
-
 {% assign sorted_categories = site.categories | sort %}
 
 {% if sorted_categories.size > 0 %}
@@ -55,7 +54,13 @@ layout: page
       {% endfor %}
     </div>
     {% endif %}
-  
+    
+    <div class="row g-5">
+      <div class="col-md-8">
+        {{ content }}
+      </div>
+    </div>
+
     <div class="row g-5">
       <div class="col-md-8">
         <h4 class="pb-4 mb-4 fst-italic border-bottom">

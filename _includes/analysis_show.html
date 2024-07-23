@@ -5,20 +5,13 @@
             {% assign color = "info" %}
         {% elsif analysis.fallacy %}
             {% assign color = "danger" %}
+        {% elsif analysis.motivation or analysis.consequences %}
+            {% assign color = "secondary" %}
         {% else %}
             {% assign color = "warning" %}
         {% endif %}
-        <div class="callout callout-{{color}}">
-            {% for a in analysis %}
-                {% if forloop.index == 1 %}
-                    <b>
-                        {{ site.data.locales.ui-text[site.lang].[a[0]] | default: a[0] }} {{ site.data.locales.ui-text[site.lang].[a[1]] | default: a[1] }}{{": "}}
-                    </b>
-                {% else %}
-                    {{a[1]}}
-                {% endif %}
-            {% endfor %}
-        </div>
+
+        {% include analysis_show_callouts.html %}
     {% endfor %}
 {% endif %}
 
@@ -30,22 +23,13 @@
                     {% assign color = "info" %}
                 {% elsif analysis.fallacy %}
                     {% assign color = "danger" %}
+                {% elsif analysis.motivation or analysis.consequences %}
+                    {% assign color = "secondary" %}
                 {% else %}
                     {% assign color = "warning" %}
                 {% endif %}
-                <div class="callout callout-{{color}} text-justify">
-                    {% for a in analysis %}
-                        {% if forloop.index == 1 %}
-                            <b> 
-                                {% assign type = a[0] %}
-                                {% assign detail = a[1] %}
-                                {{ site.data.locales.ui-text[site.lang].[type] | default: type }} {{ site.data.locales.ui-text[site.lang].[detail] | default: detail }}{{": "}}
-                            </b>
-                        {% else %}
-                            {{a[1]}}
-                        {% endif %}
-                    {% endfor %}
-                </div>
+
+                {% include analysis_show_callouts.html %}
             {% endfor %}
         {% endif %}
     {% endfor %}
@@ -60,20 +44,13 @@
                     {% assign color = "info" %}
                 {% elsif analysis.fallacy %}
                     {% assign color = "danger" %}
+                {% elsif analysis.motivation or analysis.consequences %}
+                    {% assign color = "secondary" %}
                 {% else %}
                     {% assign color = "warning" %}
                 {% endif %}
-                <div class="callout callout-{{color}} text-justify">
-                    {% for a in analysis %}
-                        {% if forloop.index == 1 %}
-                            <b>
-                                {{ site.data.locales.ui-text[site.lang].[a[0]] | default: a[0] }} {{ site.data.locales.ui-text[site.lang].[a[1]] | default: a[1] }}{{": "}}
-                            </b>
-                        {% else %}
-                            {{a[1]}}
-                        {% endif %}
-                    {% endfor %}
-                </div>
+                
+                {% include analysis_show_callouts.html %}
             {% endfor %}
         {% endif %}
     {% endfor %}
@@ -90,17 +67,8 @@
                 {% else %}
                     {% assign color = "warning" %}
                 {% endif %}
-                <div class="callout callout-{{color}} text-justify">
-                    {% for a in analysis %}
-                        {% if forloop.index == 1 %}
-                            <b>
-                                {{ site.data.locales.ui-text[site.lang].[a[0]] | default: a[0] }} {{ site.data.locales.ui-text[site.lang].[a[1]] | default: a[1] }}{{": "}}
-                            </b>
-                        {% else %}
-                            {{a[1]}}
-                        {% endif %}
-                    {% endfor %}
-                </div>
+                
+                {% include analysis_show_callouts.html %}
             {% endfor %}
         {% endif %}
     {% endfor %}

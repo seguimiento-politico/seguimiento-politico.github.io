@@ -1,0 +1,87 @@
+<div class="callout callout-{{color}} text-muted">
+    {% for a in analysis %}
+        {% if forloop.index == 1 %}
+            <b> 
+                {% assign type = a[0] %}
+                {% assign detail = a[1] %}
+                {{ site.data.locales.[site.lang].[type] | default: type }} {{ site.data.locales.[site.lang].[detail] | default: detail }}{{": "}}
+            </b>
+        {% else %}
+            {% if a[0] == 'explanation' %}
+                {{a[1]}}
+            {% elsif a[0] == 'sources' %}
+                <b>{{"Fuentes: "}}</b>
+                {% for source in analysis.sources %}
+                    {% if source.url %}
+                        {% if source.short %}
+                            {% assign title = source.short %}
+                        {% elsif source.title %}  
+                            {% assign title = source.title %}   
+                        {% endif %}
+                        <a href="{{ source.url }}" target="_blank">[{{ forloop.index }}]: {{ title }}</a>
+                    {% else %}
+                        <a href="{{source}}" target="_blank">[{{ forloop.index }}]</a>
+                    {% endif %}
+                    {% unless forloop.last %}{{', '}}{% endunless %}
+                {% endfor %}
+            {% elsif a[0] == 'reference' %}
+                <a href="#{{a[1]}}"> saltar aquí</a>.
+            {% elsif a[0] == 'knowledge' %}
+                {% assign knowledge = site.data.knowledge %}
+                
+                {% for k in analysis.knowledge %}
+                    <div><u>{{k}}</u>
+                    {% assign data_knowledge = knowledge | where:"name", k %}
+                    {% for dk in data_knowledge %}
+                        {% for d in dk %}
+                            {% if d[0] == 'information' %}
+                                {% for info in d[1] %}
+                                    <p>
+                                        {{info.explanation}}
+                                        {% if info.sources %}
+                                            <b>{{" Fuentes: "}}</b>
+                                            {% for source in info.sources %}
+                                                {% if source.url %}
+                                                    {% if source.short %}
+                                                        {% assign title = source.short %}
+                                                    {% elsif source.title %}  
+                                                        {% assign title = source.title %}     
+                                                    {% endif %}
+                                                    <a href="{{ source.url }}" target="_blank">[{{ forloop.index }}]: {{ title }}</a>
+                                                {% else %}
+                                                    <a href="{{source}}" target="_blank">[{{ forloop.index }}]</a>
+                                                {% endif %}
+                                                {% unless forloop.last %}{{', '}}{% endunless %}
+                                            {% endfor %}
+                                        {% endif %}
+                                        {% if info.date %}
+                                        <u> Info. revisada en {{date}}</u>
+                                        {% endif %}
+                                    </p>
+                                {% endfor %}
+                            {% elsif d[0] == 'sources' %}
+                            <b>{{" Fuentes: "}}</b>
+                                {% for source in d[1] %}
+                                    {% if source.url %}
+                                        {% if source.short %}
+                                            {% assign title = source.short %}
+                                        {% elsif source.title}
+                                            {% assign title = source.title %}  
+                                        {% endif %}
+                                        <a href="{{ source.url }}" target="_blank">[{{ forloop.index }}]: {{ title }}</a>
+                                    {% else %}
+                                        <a href="{{source}}" target="_blank">[{{ forloop.index }}]</a>
+                                    {% endif %}
+                                    {% unless forloop.last %}{{', '}}{% endunless %}
+                                {% endfor %}
+                            {% elsif d[0] == 'date' %}
+                                <i> Info. revisada en {{d[1]}}</i>
+                            {% endif %}
+                        {% endfor %}                        
+                    {% endfor %}
+                    </div>
+                {% endfor %}
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+</div>
