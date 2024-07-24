@@ -1005,6 +1005,7 @@ content:
             text: Decimos no a la Austeridad 2.0. Las y los socialistas queremos que el Semestre Europeo establezca un Marco de Convergencia Social, que aplique los principios del Pilar Europeo de Derechos Sociales, y defendemos la adopción de un Pacto de Desarrollo Sostenible y Progreso Social, que haga obligatorios los objetivos sociales y de sostenibilidad, en  Sostenible de las Naciones Unidas. Solo garantizando un nivel adecuado de inversión pública podremos reforzar el escudo social y proteger a las personas de las políticas de austeridad puestas en marcha por la derecha.
         - chapter:
             title: Vivienda Asequible para Todas las Personas
+            children:
             - statement:
                 id: c7663054-6825-44a5-bf83-e584dc98abb7
                 page: 46
@@ -1055,6 +1056,7 @@ content:
                 text: Asumimos el llamamiento del Consejo Económico y Social de Naciones Unidas a mejorar el acceso a la vivienda asequible, mediante políticas de vivienda y medidas de protección social, proporcionando acceso a servicios de crédito, así como mediante la protección frente al desalojo forzoso, la prestación de servicios de emergencia, la seguridad de la tenencia y de la asistencia para la construcción de vivienda asequible, inclusiva y medioambientalmente sostenible.
         - chapter:
             title: 'Unión Sanitaria: Acceso a la Sanidad, la Atención y los Medicamentos'
+            children:
             - statement:
                 id: 78d645c7-58f0-4a54-82eb-f1f480e3bf6c
                 page: 48
