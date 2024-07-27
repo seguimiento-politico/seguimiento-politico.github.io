@@ -5,6 +5,7 @@ layout: default
 {% assign page_view = page.view | default: 'statements-promises' %}
 {% assign page_topics = page.topics | default: true %}
 {% assign page_analysis = page.analysis | default: true %}
+{% assign hide_numeration = page.hide_numeration | default: false %}
 
 {% assign docs = site.docs | where: 'doc_name', page.doc_name %}
 {% assign doc_promises = docs | where: 'view', 'promises' | first %}

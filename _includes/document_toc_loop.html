@@ -4,7 +4,7 @@
     {% assign level = 1 %}
 {% endif %}
 
-{% if level <= levels %}
+{% if level < levels %}
     {% for item in include.position %}
         {% for element in item %}
             {% if element[0] == "chapter" %}
@@ -16,7 +16,12 @@
                 {% endif %}
                     
                 <li>
-                    <a href="#{{absolute_index}}-{{element[1].title | slugify}}" class="">{{ absolute_index}}. {{ element[1].title }}</a>
+                    <a href="#{{absolute_index}}-{{element[1].title | slugify}}" class="">
+                        {% unless hide_numeration %}
+                            {{ absolute_index}}. 
+                        {% endunless %}
+                        {{ element[1].title }}
+                    </a>
                     
                     {% if element[1].children %}
                     <ul>   

@@ -176,15 +176,40 @@
         {% elsif element[0] == "chapter" %}
             {% assign index = index | plus: 1 %}
             {% if level == 0 %}
-                <h2 id="{{index}}-{{element[1].title | slugify}}">{{index}}. {{element[1].title | capitalize }} </h2>
+                <h2 id="{{index}}-{{element[1].title | slugify}}">
+                    {% unless hide_numeration %}
+                        {{index}}. 
+                    {% endunless %}
+                    {{element[1].title | capitalize }} 
+                </h2>
             {% elsif level == 1 %}
-                <h3 id="{{include.parent_index}}.{{index}}-{{element[1].title | slugify}}">{{include.parent_index | append: "."}}{{index}}. {{element[1].title | capitalize }} </h3>
+                <h3 id="{{include.parent_index}}.{{index}}-{{element[1].title | slugify}}">
+                    {% unless hide_numeration %}
+                        {{include.parent_index | append: "."}}{{index}}. 
+                    {% endunless %}
+                    {{element[1].title | capitalize }} 
+                </h3>
             {% elsif level == 2 %}
-                <h4 id="{{include.current_index}}.{{index}}-{{element[1].title | slugify}}">{{include.current_index | append: "."}}{{index}}. {{element[1].title | capitalize }} </h4>
+                <h4 id="{{include.current_index}}.{{index}}-{{element[1].title | slugify}}">
+                    {% unless hide_numeration %}
+                        {{include.current_index | append: "."}}{{index}}. 
+                    {% endunless %}
+                    {{element[1].title | capitalize }} 
+                </h4>
             {% elsif level == 3 %}
-                <h5 id="{{include.current_index}}.{{index}}.{{index}}-{{element[1].title | slugify}}">{{include.current_index | append: "."}}{{index}}. {{element[1].title | capitalize }} </h5>                
+                <h5 id="{{include.current_index}}.{{index}}.{{index}}-{{element[1].title | slugify}}">
+                    {% unless hide_numeration %}
+                        {{include.current_index | append: "."}}{{index}}. 
+                    {% endunless %}
+                    {{element[1].title | capitalize }} 
+                </h5>                
             {% else %}
-                <h6 id="{{include.current_index}}.{{index}}.{{index}}-{{element[1].title | slugify}}">{{include.current_index | append: "."}}{{index}}. {{element[1].title | capitalize }} </h6>
+                <h6 id="{{include.current_index}}.{{index}}.{{index}}-{{element[1].title | slugify}}">
+                    {% unless hide_numeration %}
+                        {{include.current_index | append: "."}}{{index}}. 
+                    {% endunless %}
+                    {{element[1].title | capitalize }} 
+                </h6>
             {% endif %}
             {% if element[1].children %}
                 {% assign level = include.level | plus: 1 %}
