@@ -5,7 +5,7 @@ lastmod: 2024-07-27T11:37:47.373Z
 slug: contacto
 ---
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScORcCGCYYo1lNs5TAnNViYFccP_ZZ0_WiOJyb7IqjUd3vkeQ/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScORcCGCYYo1lNs5TAnNViYFccP_ZZ0_WiOJyb7IqjUd3vkeQ/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0" width="100%" height="100%">Cargando…</iframe>
 
 También puedes ponerte en contacto con nosotros por tres (3) vías:
 1. <u>Por medio de los comentarios</u>: Busca la sección de la web que más relacionada esté con lo que quieras decirnos y escribe ahí. Recuerda que los comentarios son públicos. 

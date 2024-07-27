@@ -34,7 +34,8 @@ We welcome any help!
 ## First steps
 1. populate data:
     - _data/documents/ (parties manifestos)
-    - _data/categorization/statuses.yaml and topics.yaml
+    - _data/categorization/statuses.yaml
+    - _data/categorization/topics.yaml
     - _data/tracks/ (promises tracks)
 1. populate images
     - assets/images/parties/ and 
@@ -46,16 +47,15 @@ We welcome any help!
     - setup a server anywhere else
     - edit staticman.yml accordingly
 
-
-## Execution instructions
-1. First of all you need to instal [Jekyll](https://jekyllrb.com/docs/installation/) and [Python](https://wiki.python.org/moin/BeginnersGuide) on your machine.
-1. go to /scripts folder and execute "python3 update_files.py" to automatically generate _tracks/, _statements/ and _docs/ files. Make sure you've got imported modules installed as well.
-1. execute "bundle exec jekyll serve"
-1. DONE now you can check the resulting website on http://127.0.0.1:4000
-
 ## Parallel useful repositories 
 1. [manifestos-converter](https://github.com/seguimiento-politico/manifestos-converter) -> Helps you convert any manifesto (PDF file) into an yaml file in the format needed by this app in _data/documents/. The yaml resulting file will contain a basic structure and all content. Then you will need to manually join/merge some paragraphs, add page number and turn some statements into chapters. Althought is not a fully automated process it helps you to speed-up and simplify it greatly.
 1. [congreso-scrapper](https://github.com/seguimiento-politico/congreso-scrapper) -> Web scrapper of [Congreso de los Diputados de España](http://congreso.es). The data extracted using this script will be used by this project as functionalities grow. 
+
+## Execution instructions
+1. Install [Jekyll](https://jekyllrb.com/docs/installation/) and [Python](https://wiki.python.org/moin/BeginnersGuide) on your machine.
+1. Install imported modules installed as well
+1. go to /scripts folder and execute "python3 update_files.py" to automatically generate _tracks/, _statements/ and _docs/ files.
+1. execute "bundle exec jekyll serve" and check the resulting website on http://127.0.0.1:4000
 
 # TO-DOs
 ## Prototype Dev TO-DOs
