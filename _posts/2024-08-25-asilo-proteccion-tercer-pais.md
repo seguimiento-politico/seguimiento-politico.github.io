@@ -1,6 +1,6 @@
 ---
 title: "Derecho de asilo: Protección en tercer país"
-date: 2024-07-25
+date: 2024-08-25
 categories: [Información]
 topics: [Derecho de asilo]
 parties: [VOX]
@@ -45,5 +45,5 @@ No tenemos claro que es lo que ocurriría si se decidiera otorgar la protección
 1. que la decisión implicaría que se reconoce la condición de refugiado 
 1. que en ese caso, si la persona recurre la decisión, España se vería obligada a acogerla en su territorio.
 
-Por otro lado, cabe la necesidad de aclarar en que consiste el principio de no-devolución de la Convención de Ginebra al que hace referencia alguna de las propuestas anteriores. Est se refiere a ella como para facilitar la integración regional de los asilados.
+Por otro lado, cabe la necesidad de aclarar en que consiste el principio de no-devolución de la Convención de Ginebra al que hace referencia alguna de las propuestas anteriores. Este se refiere a ella como para facilitar la integración regional de los asilados.
 

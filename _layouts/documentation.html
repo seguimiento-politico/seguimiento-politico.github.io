@@ -1,0 +1,100 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html itemscope itemtype="http://schema.org/Article" lang="{{ site.lang | slice: 0,2 | default: 'es' }}" class="no-js">
+    <head>
+
+        {% include head.html %}
+
+    </head>
+    <body data-bs-spy="scroll" data-bs-target="#TableOfContents">
+        {% if page.sidebar %}
+            {% include navbar_documentation.html %}
+        {% else %}
+            {% include navbar %}
+        {% endif %}
+
+        {% include /tweaks/back_to_top.html %}
+
+        {% if page.updates %}
+            {% include updates.html %}
+        {% endif %}
+
+        <div class="container-xxl bd-gutter mt-3 my-md-4 bd-layout" style="display:grid">
+            {% if page.sidebar %}
+            
+            <aside class="offcanvas-lg offcanvas-start" tabindex="-1" id="bdSidebar" aria-labelledby="bdSidebarOffcanvasLabel">
+                <div class="offcanvas-header border-bottom">
+                    <h5 class="offcanvas-title" id="bdSidebarOffcanvasLabel">Secciones</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close" data-bs-target="#bdSidebar"></button>
+                </div>
+                <div class="offcanvas-body">
+                    <nav class="bd-links w-100" id="bd-docs-nav" aria-label="Docs navigation">
+                        <ul class="bd-links-nav list-unstyled mb-0 pb-3 pb-md-2 pe-lg-2">
+                            <li class="bd-links-group py-2">
+                                <strong class="bd-links-heading d-flex w-100 align-items-center fw-semibold">
+                                <svg class="bi me-2" style="color: var(--bs-indigo);" aria-hidden="true">
+                                    <use xlink:href="#book-half"></use>
+                                </svg> Como colaborar </strong>
+                            </li>
+                        </ul>                                    
+                    </nav>
+                </div>
+            </aside>
+            
+            {% endif %}
+            <main class="bd-main order-1">
+                {% if page.toc %}
+                <div class="bd-toc mt-3 mb-5 my-lg-0 mb-lg-5 px-sm-1 text-body-secondary">
+                    <button class="btn btn-link p-md-0 mb-2 mb-md-0 text-decoration-none bd-toc-toggle d-md-none" type="button" data-bs-toggle="collapse" data-bs-target="#tocContents" aria-expanded="false" aria-controls="tocContents"> Contenido <svg class="bi d-md-none ms-2" aria-hidden="true">
+                        <use xlink:href="#chevron-expand"></use>
+                      </svg>
+                    </button>
+                    <strong class="d-none d-md-block h6 my-2 ms-3">Contenido</strong>
+                    <hr class="d-none d-md-block my-2 ms-3">
+                    <div class="collapse bd-toc-collapse" id="tocContents">
+                        <nav id="TableOfContents">
+                            {% include toc.html sanitize=true html=content h_min=1 h_max=6 class="toc__menu" skip_no_ids=true %}
+                        </nav>
+                    </div>
+                </div>
+                {% endif %}
+
+                <div class="bd-intro pt-2 ps-lg-2">
+                    <div class="d-md-flex align-items-center justify-content-start">
+                        {% if page.title %}
+                        <h1 class="bd-title mb-0" id="content">{{page.title}}</h1>
+                        {% endif %}
+                    </div>
+                    {% if page.subtitle %}
+                    <p class="bd-lead">{{page.subtitle}}</p>
+                    {% endif %}
+                </div>
+                
+                <div class="bd-content ps-lg-2">
+                    {{ content }}
+                </div>
+            </main>
+            
+        </div>     
+
+        {% if site.comments.active and page.comments %}
+        <div class="row">
+            {% include comments.html %}
+        </div>
+        {% endif %}
+
+        {% include footer.html %}
+
+        <!-- delay scripts load until cookies are accepted -->
+        {% include /tweaks/cookie-consent.html %}
+        {% include scripts.html %}
+        
+    </body>
+</html>
+
+
+
+

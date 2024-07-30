@@ -19,8 +19,8 @@
 # https://jekyllrb.com/docs/continuous-integration/
 
 name: Seguimiento Político
-title: Seguimiento político al gobierno 
-description: Comunidad online para con el esfuerzo colectivo hacer un seguimiento objetivo y eficaz al Gobierno, la oposición y, en general, a cualquier político español. Comprueba el grado de cumplimiento con los programas electorales y promesas hechas.
+title: Seguimiento Político - La mejor manera de seguir la pista a las promesas de los políticos. 
+description: Seguimiento de la actividad política y legislativa de España. Consulta los programas electorales de los principales partidos políticos y comprueba el cumplimiento de sus compromisos.
 
 author:
   name: Tovarlogic
@@ -30,7 +30,10 @@ url: https://seguimiento-politico.github.io
 
 socials:
   twitter: https://twitter.com/seg_politico
-  email: seguimiento-politico@protonmail.com
+  email: tovarlogic@gmail.com
+  signal: https://signal.group/#CjQKIC0MeoqTZPs0l5b7N8f3OEQjFm3-xWxG2zxLSG50S_smEhDumuyxjd6b4PabToBj3m8i
+  github: https://github.com/seguimiento-politico
+  opencollective: https://opencollective.com/seguimiento-politico
 
 lang: es
 

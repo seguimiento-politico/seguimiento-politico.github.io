@@ -36,7 +36,7 @@ De acuerdo a lo anterior, reiteramos que {{ site.name }} no registra ni almacena
 - El nombre no obstante, si que se registra tal y como lo envías, de modo que cualquiera puede verlo. Por eso, recomendamos que utilices un alias.
 - El comentario, cualquier dato que incluyas en el mensaje también será público. Por favor, vela por tu privacidad y no desveles innecesariamente datos personales.
 
-Por supuesto, todo comentario es suceptible de ser borrado si nos lo solicitas a: **seguimiento-politico<span class="text-danger">ARROBA</span>protonmail.com**.
+Por supuesto, todo comentario es suceptible de ser borrado si nos lo solicitas a: **tovarlogic<span class="text-danger">ARROBA</span>gmail.com**.
 
 ## Datos compartidos con terceros
 

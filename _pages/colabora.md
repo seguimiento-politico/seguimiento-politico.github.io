@@ -1,9 +1,13 @@
 ---
 title: Colabora
-comments: false
+subtitle: Distintas maneras de colaborar con nosotros y apoyar nuestro empeño
+layout: documentation
+comments: true
 lastmod: 2022-05-06T15:13:34.573Z
 slug: colabora
 toc: true
+toc_sticky: true
+sidebar: true
 ---
 
 Cuando creamos esta web, nuestra intención era la de crear una comunidad de personas que, colaborando a través de una misma plataforma, pudieran generar una base de conocimiento estructurada y coherente sobre la política española.
@@ -39,7 +43,7 @@ Ilustramos con varios ejemplos como debería ser el asunto en algunos casos prá
 
 En cualquier caso necesitamos que en el contenido del email nos aportes toda la información que consideres relevante. **Es imprescindible incluir las fuentes en forma de enlaces para acceder a ellas**. No adjuntes los documentos directamente al email, salvo que estos no se encuentren públicamente accesibles. 
 
-La dirección de correo es la siguiente: **seguimiento-politico<span class="text-danger">ARROBA</span>protonmail.com**. 
+La dirección de correo es la siguiente: **tovarlogic<span class="text-danger">ARROBA</span>gmail.com**. 
 
 **Nota:** Sustituye <span class="text-danger">ARROBA</span> por <span class="text-danger">@</span>. Lo hemos escrito así para evitar que nos llegue spam por medio de bots.
 {: .notice-info}

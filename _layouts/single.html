@@ -2,57 +2,55 @@
 layout: page
 ---
 
-<div class="container"> 
 <article class="page_left" itemscope itemtype="https://schema.org/CreativeWork">
-    {% if page.title %}
-        <meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">
-    {% endif %}
-    {% if page.excerpt %}
-        <meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">
-    {% endif %}
-    {% if page.date %}
-        <meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">
-    {% endif %}
-    {% if page.lastmod_at %}
-        <meta itemprop="dateModified" content="{{ page.lastmod_at | date_to_xmlschema }}">
-    {% endif %}
+  {% if page.title %}
+      <meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">
+  {% endif %}
+  {% if page.excerpt %}
+      <meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">
+  {% endif %}
+  {% if page.date %}
+      <meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">
+  {% endif %}
+  {% if page.lastmod %}
+      <meta itemprop="dateModified" content="{{ page.lastmod | date_to_xmlschema }}">
+  {% endif %}
 
-    <div class="page__inner-wrap">
-        {% unless page.header.overlay_color or page.header.overlay_image %}
-            <header>
-                {% if page.title %}
-                <h1 id="page-title" class="page__title" itemprop="headline">
-                    {{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}
-                </h1>
-                {% endif %}
-                {% include page__meta.html %}
-            </header>
-        {% endunless %}
+  <div class="page__inner-wrap">
+      {% unless page.header.overlay_color or page.header.overlay_image %}
+          <header>
+              {% if page.title %}
+              <h1 id="page-title" class="page__title" itemprop="headline">
+                  {{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}
+              </h1>
+              {% endif %}
+              {% include page__meta.html %}
+          </header>
+      {% endunless %}
 
-      <section class="page__content" itemprop="text">
-        {% if page.toc %}
-          <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
-            <nav class="toc">
-                <header>
-                    <h4 class="nav__title"><i class="fas fa-{{ page.toc_icon | default: 'file-alt' }}"></i> 
-                        {{ page.toc_label | default: site.data.locales.ui-text[site.lang].toc_label | default: "On this page" }}
-                    </h4>
-                </header>
+    <section class="page__content" itemprop="text">
+      {% if page.toc %}
+        <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
+          <nav class="toc">
+              <header>
+                  <h4 class="nav__title"><i class="fas fa-{{ page.toc_icon | default: 'file-alt' }}"></i> 
+                      {{ page.toc_label | default: site.data.locales.ui-text[site.lang].toc_label | default: "On this page" }}
+                  </h4>
+              </header>
 
-              {% include toc.html sanitize=true html=content h_min=1 h_max=6 class="toc__menu" skip_no_ids=true %}
+            {% include toc.html sanitize=true html=content h_min=1 h_max=6 class="toc__menu" skip_no_ids=true %}
 
-            </nav>
-          </aside>
-        {% endif %}
+          </nav>
+        </aside>
+      {% endif %}
 
-        {{ content }}
+      {{ content }}
 
-      </section>
+    </section>
 
-    </div>
+  </div>
 
-  </article>
-</div>
+</article>
 
 
 
